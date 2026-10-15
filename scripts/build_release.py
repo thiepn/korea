@@ -7,10 +7,11 @@ import subprocess,sys
 ROOT=Path(__file__).resolve().parents[1];DIST=ROOT/'dist'
 compile_corpus()
 subprocess.run([sys.executable,str(ROOT/'scripts/build_exploration.py')],check=True)
+subprocess.run([sys.executable,str(ROOT/'scripts/build_atlas.py')],check=True)
 subprocess.run([sys.executable,str(ROOT/'scripts/validate.py')],check=True)
 if DIST.exists():shutil.rmtree(DIST)
 DIST.mkdir()
-for name in ['index.html','app.js','exploration.js','content-platform.js','reader-window.js','styles.css','data/architecture.json','data/content-manifest.json','data/explore.json','data/search/catalog.json','data/search/shard-map.json']:
+for name in ['index.html','app.js','exploration.js','content-platform.js','reader-window.js','styles.css','data/architecture.json','data/content-manifest.json','data/explore.json','data/atlas.json','data/search/catalog.json','data/search/shard-map.json']:
  src=ROOT/name
  if not src.is_file():raise FileNotFoundError(name)
  dest=DIST/name;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(src,dest)

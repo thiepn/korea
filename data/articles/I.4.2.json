@@ -1,0 +1,54 @@
+{
+  "id": "I.4.2",
+  "title": "Agricultural Intensification and the Farming Economy",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Agricultural Intensification and the Farming Economy.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "I.4.2:b01",
+      "title": "A field is a calendar",
+      "paragraphs": [
+        "The economic importance of farming begins long before harvest. Seed must be saved, tools repaired, land cleared, water assessed, and labor scheduled around a sequence of tasks that cannot always be postponed. The Korean peninsula's varied soils and climate meant that one settlement's farming calendar might differ from another's. Rice receives much attention because of its later importance, but early farming economies also involved other grains and a continuing reliance on wild and aquatic resources. Archaeological plant remains are not simple lists of meals. Their preservation depends on charring, deposition, excavation, and identification. A balanced reconstruction asks how fields were worked, what people risked by committing to them, and how cultivation fitted into a wider subsistence strategy."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "I.4.2:b02",
+      "title": "Irrigation and collective obligation",
+      "paragraphs": [
+        "Managing water can turn an environmental problem into a social one. A ditch requires construction and maintenance; access upstream affects downstream households; damage from a flood may call for work beyond the capacity of one family. But collective labor does not automatically imply a centralized ruler directing a large hydraulic system. Neighbors can coordinate through kinship, bargaining, custom, and necessity. The distinction matters because evidence for water management is often more secure than evidence for the authority behind it. Changes in field layout, tools, and storage may indicate growing agricultural commitments without revealing whether a village was peaceful, hierarchical, or divided over the benefits of harvests."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "I.4.2:b03",
+      "title": "Food security and its cost",
+      "paragraphs": [
+        "Cultivation can make food supplies more predictable and, at the same time, make livelihoods more vulnerable to failure in a particular place. People invest labor in land, plan for seasons ahead, and store grain against leaner months. A failed crop can therefore undo not just one meal but months of accumulated effort. Fishing, hunting, and gathering may remain crucial insurance. A household's surplus could support guests, artisans, ceremonies, or exchange; it might also be claimed through tribute or unequal obligations. Archaeologists look for the distribution of storage facilities and prestige goods because production alone cannot show who controlled its rewards. The everyday politics of food begins when some people gain greater authority over what others have grown."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "I.4.2:b04",
+      "title": "What settlement patterns reveal",
+      "paragraphs": [
+        "More intensive farming may favor longer residence, larger houses, and heavier investment in nearby land. Yet settlements move for many reasons: exhausted soils, disease, conflict, flood, and changing social relationships. A shift from one site to another is therefore not by itself evidence of collapse. Regional surveys can reveal clusters of communities and changes in their size, while individual excavations supply the detailed evidence needed to test those patterns. The map is not a picture of people arranged neatly by historical stage. It records deposits from many moments that have survived in uneven ways. The most persuasive account links local evidence to regional processes while preserving that uncertainty."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "I.4.2:b05",
+      "title": "Harvests do not explain everything",
+      "paragraphs": [
+        "A farming economy creates new possibilities for exchange and authority, but social change cannot be read straight from crop yields. Ritual obligations, conflict, household inheritance, marriage networks, and the distribution of tools all shape decisions about land. A community that plants more grain may remain politically decentralized; a wealthy burial may owe its wealth to exchange as much as agriculture. Looking across the long Mumun transformation, the central story is not that cultivation produced a predetermined kind of state. It is that people were reorganizing time, work, and social expectations around landscapes to which they were increasingly committed."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

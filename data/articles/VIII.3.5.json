@@ -1,0 +1,54 @@
+{
+  "id": "VIII.3.5",
+  "title": "Status, Law, Taxation, and Social Reform under the Gabo Program",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Status, Law, Taxation, and Social Reform under the Gabo Program.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "VIII.3.5:b01",
+      "title": "Reform becomes a contest over daily life",
+      "paragraphs": [
+        "The Gabo reform program addressed institutions that had organized status, taxation, and political authority under late Joseon. On paper, changes to legal hierarchy or administration could be announced in a relatively concise decree. The social meaning of those changes was far less concise. Status categories carried histories of advantage and exclusion; taxes connected households to state needs; officials possessed routines and powers that reforms aimed to reorganize. Abolishing a distinction in law did not immediately remove discrimination, economic inequality, or local custom. A useful account separates the legislation, its uneven implementation, and the competing expectations of those who encountered it."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VIII.3.5:b02",
+      "title": "The end of one status language",
+      "paragraphs": [
+        "Reformers sought to remove important legal distinctions inherited from the old order, including those associated with hereditary status. This was consequential precisely because status had affected people's lives in multiple ways: social recognition, obligations, and access to institutions. The meaning of a formal abolition depended on whether people could enforce new rights and whether officials altered their practices. Formerly privileged groups might defend customary authority; those who had experienced discrimination could press for change while still lacking material resources. The distance between a proclamation and its local consequences is not a reason to dismiss the reform. It is where much of the human history of reform lies."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.3.5:b03",
+      "title": "Finance under external pressure",
+      "paragraphs": [
+        "Taxation and state finance were central to late nineteenth-century reform because military, administrative, and diplomatic pressures demanded resources. A new fiscal rule could improve regularity in theory while disrupting established arrangements in practice. Households wanted predictable claims; officials needed means of collection; reformers hoped to make the state more capable. Foreign intervention and domestic political conflict further complicated these objectives. A fiscal measure that appears technical in a reform list could change who controlled money, who bore risk, and whose complaints reached the capital. The financial history deserves attention alongside constitutional and cabinet changes."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "VIII.3.5:b04",
+      "title": "Institutions, language, and legitimacy",
+      "paragraphs": [
+        "Reform introduced new offices and procedures into a political world that still carried the assumptions of older statecraft. Translated concepts and borrowed models did not have self-evident meanings. Korean reformers disagreed about how rapidly institutions should change and how sovereignty could be maintained amid competing outside powers. Legal language might promise order while public confidence remained fragile. Studying the reform cabinet, the role of foreign pressure, and the responses of local communities prevents the story from becoming an isolated list of modernization measures. Institutional innovation was inseparable from struggle over authority."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "VIII.3.5:b05",
+      "title": "After the decree",
+      "paragraphs": [
+        "The aftermath of reform is rarely a simple verdict of success or failure. Some changes survived in altered form; others provoked resistance or remained incomplete. People continued to use old networks while learning new procedures. Reforms could broaden formal possibilities even where inequalities persisted. A careful narrative must not assume that all participants shared the same understanding of progress or that the later course of Korean history was inevitable. The Gabo period is most illuminating when approached as an open contest over what a changing state could promise and what society was prepared, or compelled, to accept."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

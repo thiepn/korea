@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / 'data'
 WORD_RE = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
-TOKEN_RE = re.compile(r'[a-z0-9]{3,}', re.ASCII)
+TOKEN_RE = re.compile(r'[a-z0-9]{3,}|[가-힣]{2,}')
 STOP = set('the and for but was were are that this with from have has had into between its their there which what when where been being about also through these those they them then than would could should because while before after under over more some each other only such many much very even often across among most just will can not you your our how why who all his her she him one two three both onto itself within without together during around'.split())
 MAX_PACK_BYTES = 24_000  # keep HTTP payloads bounded; browser downloads only 1 small pack
 MAX_SEARCH_SHARD_BYTES = 48_000  # split crowded token-prefix shards before publication
@@ -36,7 +36,14 @@ def words(text):
 
 
 def tokenize(text):
-    return [w for w in TOKEN_RE.findall(words(text)) if w not in STOP]
+    normalized=unicodedata.normalize('NFKC',text).casefold()
+    result=[]
+    for w in TOKEN_RE.findall(normalized):
+        if w in STOP:continue
+        result.append(w)
+        if re.fullmatch(r'[가-힣]{3,}',w):
+            result.extend(w[i:i+2] for i in range(len(w)-1))
+    return result
 
 
 def canonical():
@@ -48,6 +55,9 @@ def canonical():
 
 def compile_corpus(*, write=True):
     titles=canonical()
+    aliases=json.loads((ROOT/'content/atlas/search-aliases.json').read_text(encoding='utf-8'))
+    if any(key not in titles for key in aliases):raise ValueError('Search alias points at noncanonical subject')
+    if any(not isinstance(values,list) or not values or any(not isinstance(x,str) or len(x)<2 for x in values) for values in aliases.values()):raise ValueError('Malformed search aliases')
     articles=[]
     for f in sorted((DATA/'articles').glob('*.json')):
         a=json.loads(f.read_text(encoding='utf-8'))
@@ -90,7 +100,9 @@ def compile_corpus(*, write=True):
         count=sum(len(WORD_RE.findall(p)) for b in a['blocks'] for p in b['paragraphs']);counted+=count
         manifest.append({'id':key,'title':a['title'],'kicker':a.get('kicker','HISTORY'), 'description':a.get('description',''), 'release':a.get('release',''), 'wordCount':count,'blocks':len(a['blocks']), 'chunks':passage_index,'packs':groups})
         doc_index=len(catalog)
-        catalog.append({'id':key,'title':a['title'],'description':a.get('description',''),'blocks':len(a['blocks']),'wordCount':count,'previews':[{'title':b['title'],'text':b['paragraphs'][0][:168].replace('\n',' ')} for b in a['blocks']]})
+        catalog.append({'id':key,'title':a['title'],'description':a.get('description',''),'aliases':aliases.get(key,[]),'blocks':len(a['blocks']),'wordCount':count,'previews':[{'title':b['title'],'text':b['paragraphs'][0][:168].replace('\n',' ')} for b in a['blocks']]})
+        for term in set(tokenize(' '.join(aliases.get(key,[])))):
+            tokens.setdefault(term,{})[key]=[doc_index,0]
         for block_index,b in enumerate(a['blocks']):
             # One compact [document,passage] posting per article/term. No duplicated paragraphs.
             for paragraph in b['paragraphs']:

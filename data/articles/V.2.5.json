@@ -1,0 +1,54 @@
+{
+  "id": "V.2.5",
+  "title": "Civil Service Examinations and Official Recruitment",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Civil Service Examinations and Official Recruitment.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "V.2.5:b01",
+      "title": "The examination as an opening and a barrier",
+      "paragraphs": [
+        "Civil service examinations offered Goryeo rulers a method of identifying and ranking people who could participate in government through learned achievement. The attraction of the system is easy to see: the court could define valued knowledge, create a shared language among officials, and reward forms of training rather than relying exclusively on personal favor. Yet examinations took place within a society in which access to education, time for study, family networks, and status were uneven. An open route in principle could remain difficult to enter in practice. The political meaning of an examination depended on who was eligible, which successes led to office, and how recruitment interacted with hereditary privilege."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "V.2.5:b02",
+      "title": "The long preparation behind a public test",
+      "paragraphs": [
+        "For candidates, the examination was not a single morning of writing. Study required texts, teachers, supplies, and familiarity with the forms of composition prized by officials. A learned household might treat such preparation as an investment across generations, while another family could not spare the labor of a young member for years of study. Literary culture itself became part of the recruitment system: models of argument, moral vocabulary, and cultivated style mattered because successful candidates were expected to serve within an established bureaucracy. The examination helped create a class of men trained to explain government in similar terms, though training did not guarantee identical political views."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "V.2.5:b03",
+      "title": "Offices are distributed after success",
+      "paragraphs": [
+        "Passing a test did not settle the questions of appointment, promotion, or influence. A bureaucratic career depended on available posts, court politics, patronage, and the practical work for which an official was needed. Elite families could strengthen their position by combining examination success with marriage networks and other forms of access to government. The state, in turn, had reasons to value tested expertise while managing the expectations of powerful lineages. Examining that relationship helps prevent a false opposition between merit and aristocracy. Different methods of recruitment operated within the same political society and could reinforce as well as challenge one another."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "V.2.5:b04",
+      "title": "Knowledge and administrative power",
+      "paragraphs": [
+        "An examination curriculum defines what the state thinks its officials should be able to know and communicate. Classical learning supplied ethical and political concepts, historical examples, and techniques of writing that became part of official debate. But the ability to compose a fine answer is not the same as the ability to administer a remote county, resolve a tax dispute, or maintain supplies. Governments needed both symbolic authority and practical competence. The gap between learned ideals and administrative work offers a useful route into questions of local officials, court criticism, and the material limits of governance."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "V.2.5:b05",
+      "title": "Careers, families, and memory",
+      "paragraphs": [
+        "Success in official examinations could become an important element of a family's history, commemorated in records that later historians are more likely to encounter than the lives of unsuccessful candidates. That survival bias matters. We see those who passed and entered elite networks more clearly than those who studied without appointment or never had access to the relevant schools. Goryeo's examinations were consequential, but they did not turn a stratified society into a modern meritocracy. Their enduring historical interest lies in the tension between a state seeking service through learning and a social order structured by unequal opportunity."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

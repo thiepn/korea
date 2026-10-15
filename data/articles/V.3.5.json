@@ -1,0 +1,54 @@
+{
+  "id": "V.3.5",
+  "title": "Commoners, Peasants, and the Majority of Goryeo Society",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Commoners, Peasants, and the Majority of Goryeo Society.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "V.3.5:b01",
+      "title": "The people beneath the lineage charts",
+      "paragraphs": [
+        "Accounts of Goryeo often center on powerful lineages, Buddhist institutions, and court officials. Most people, however, encountered politics through the demands made on households and communities rather than through a seat at court. Peasants cultivated land, cared for animals, maintained tools, and managed obligations that varied with status and locality. The category commoner conceals differences between those who held land, those who depended on others, and families whose labor was required in particular ways. A portrait of the majority must therefore resist both extremes: the assumption that all rural life was identical and the romantic picture of a village entirely separate from royal power."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "V.3.5:b02",
+      "title": "Land as livelihood and obligation",
+      "paragraphs": [
+        "Fields were sources of food, social standing, and potential claims by institutions or powerful people. Rights could be complicated, involving cultivation, taxation, and forms of control that did not always coincide. Families had to plan work around soil, rainfall, harvest, and obligations that could interrupt the agricultural year. The historian should not imagine an unchanging peasant economy merely because tools and crops look familiar across centuries. Market contact, estate expansion, warfare, and changes in local administration could alter what households kept and what they owed. Rural society had a history of negotiations whose paperwork survives only unevenly."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "V.3.5:b03",
+      "title": "Temples, estates, and labor",
+      "paragraphs": [
+        "Buddhist monasteries were religious centers but could also be substantial economic actors. Their lands, supporters, artisans, and transport needs connected sacred life to production and exchange. This did not make every monk a landowner or every religious institution wealthy; the scale of resources varied considerably. Estates more generally depended on workers whose labor appears indirectly in the objects and buildings it sustained. Looking at the everyday economy of a monastery or privileged household reveals a network of relationships, some cooperative and others unequal, through which resources flowed. The contrast between monumental religious art and fragile household remains should make the reader cautious about whose work survives in the record."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "V.3.5:b04",
+      "title": "Crises that reach the household",
+      "paragraphs": [
+        "War and political disorder could devastate farming long after armies moved on. Fields left uncultivated, lost animals, broken irrigation works, displaced relatives, and interrupted exchange would each affect a family's ability to recover. Tax or labor demands might persist despite diminished resources, intensifying hardship. Yet narratives of crisis should also register agency: communities rebuilt dwellings, adapted work, negotiated protection, and drew on kinship networks when possible. The record seldom tells us which particular household prospered or suffered in silence, but the structural consequences of disruption are visible when conflict is examined beyond campaigns and court decisions."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "V.3.5:b05",
+      "title": "The limits of a social hierarchy",
+      "paragraphs": [
+        "A status label could shape obligations, marriage choices, and opportunities for advancement, but personal circumstances were not exhausted by official classification. Regional variation, household wealth, local patronage, and religious connections complicated formal categories. Some people crossed social boundaries while others experienced enduring constraint. Reconstructing their world requires records made for administrative and elite purposes to be read against archaeology and the material history of ordinary work. The story of Goryeo's commoners is not an appendix to dynastic politics. It explains how the institutions celebrated by court history were sustained, experienced, and sometimes challenged."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

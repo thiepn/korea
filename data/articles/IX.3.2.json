@@ -1,0 +1,54 @@
+{
+  "id": "IX.3.2",
+  "title": "25 June 1950: The North Korean Offensive, the Fall of Seoul, and the Southward Collapse",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on 25 June 1950: The North Korean Offensive, the Fall of Seoul, and the Southward Collapse.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "IX.3.2:b01",
+      "title": "The morning war became national catastrophe",
+      "paragraphs": [
+        "On 25 June 1950, North Korean forces attacked across the division line, beginning a war that swiftly devastated the peninsula. The opening offensive is often narrated through units, roads, and maps, but its speed also transformed civilian expectations. Families who had understood division as a political reality now confronted advancing armies and uncertainty about whether to flee, seek shelter, or stay near their work and relatives. Military information traveled unevenly; rumors could move faster than reliable news. The fall of Seoul soon after the invasion became a symbol of shock and state vulnerability. A narrative attentive to both front lines and ordinary people avoids turning the opening weeks into a sequence of arrows with no human scale."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IX.3.2:b02",
+      "title": "Command under pressure",
+      "paragraphs": [
+        "The Republic of Korea's forces faced major disadvantages at the outset, including weaknesses in heavy equipment and readiness for the scale of the assault. The North Korean army brought combined arms and planning that gave its offensive formidable initial momentum. These broad differences help explain the speed of early advances, but they do not mean every local encounter had the same outcome. Officers and soldiers made difficult decisions under poor information, with communications and transport strained by retreat. The institutional collapse visible on a campaign map was lived as disrupted command, separated units, and a diminishing capacity to organize coherent defense."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IX.3.2:b03",
+      "title": "Roads filled with soldiers and civilians",
+      "paragraphs": [
+        "Retreat and displacement shared the same routes. Bridges, railway lines, and road junctions became critical both for military movement and civilian escape. Crowding, destroyed infrastructure, and fear increased the danger for people who possessed little reliable information about the fighting ahead or behind them. The suffering of civilians included not only exposure and hunger but also the threat of political suspicion and violence. A sensitive account should not reduce displaced people to an anonymous flow or treat every violent incident as interchangeable. Different local histories require careful evidence, and some remain contested. The central fact is that operational choices and the movement of armies reshaped the possibilities of survival."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "IX.3.2:b04",
+      "title": "Internationalization of the conflict",
+      "paragraphs": [
+        "The United Nations Security Council responded to the invasion, and a US-led multinational force came to support the South. International decisions were not abstract additions to a domestic battlefield. They affected command structures, logistics, the scale of military resources, and the expectations of leaders on both sides. The war's origins and rapid escalation must be understood in the context of Cold War politics, but Korean actors were not merely pawns moved by distant capitals. Their calculations, fears, and political objectives mattered. Describing the international response accurately also requires distinguishing early resolutions and deployments from the later, larger multinational war effort."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "IX.3.2:b05",
+      "title": "The meaning of the southward collapse",
+      "paragraphs": [
+        "By the time the front contracted toward the southeastern corner of the peninsula, the initial North Korean drive had already exposed profound weaknesses and transformed the war's scale. Yet military collapse in one phase did not determine the entire conflict's outcome. Subsequent resistance, reinforcement, landings, foreign intervention, and changing front lines would overturn expectations repeatedly. The opening months left scars independent of the final armistice: family separation, destroyed homes, political reprisals, and memories of decisions made under impossible pressure. Following these consequences keeps 25 June from becoming merely the first date in a campaign chronology."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

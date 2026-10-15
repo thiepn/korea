@@ -16,7 +16,7 @@ export function createPackLoader(fetchAsset=fetch,{maxCached=16}={}) {
   }
   return {load,prefetch:(chunk)=>chunk?.pack?pack(chunk.pack).catch(()=>null):Promise.resolve(null),cacheSize:()=>cache.size};
 }
-const normalizeQuery=t=>String(t||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const normalizeQuery=t=>String(t||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').normalize('NFC').toLowerCase();
 const STOP=new Set('the and for but was were are that this with from have has had into between its their there which what when where been being about also through these those they them then than would could should because while before after under over more some each other only such many much very even often across among most just will can not you your our how why who all his her she him one two three both onto itself within without together during around'.split(' '));
 export function createShardedSearch(fetchAsset=fetch,{maxCached=20}={}){
  const shards=new Map(),pending=new Map();let map=null,catalog=[];
@@ -27,14 +27,14 @@ export function createShardedSearch(fetchAsset=fetch,{maxCached=20}={}){
  }
  async function search(query,canonical,readableIds,filter='all'){
    const titleHits=rankSearch(query,canonical,[],readableIds,filter);
-   const terms=[...new Set((normalizeQuery(query).match(/[a-z0-9]{3,}/g)||[]).filter(w=>!STOP.has(w)))].slice(0,6);
+   const terms=[...new Set((normalizeQuery(query).match(/[a-z0-9]{3,}|[가-힣]{2,}/g)||[]).filter(w=>!STOP.has(w)))].slice(0,6);
    if(!terms.length||!map)return titleHits;
    const lists=await Promise.all(terms.map(async term=>{let prefix=term.slice(0,2);while(!map[prefix]&&prefix.length<term.length)prefix=term.slice(0,prefix.length+1);const shard=await get(prefix);return shard?.[term]||[]}));
    const scores=new Map(),hits=new Map();
    for(const list of lists)for(const [doc,block] of list){scores.set(doc,(scores.get(doc)||0)+1);if(!hits.has(doc))hits.set(doc,block)}
    const corpus=Array.from(scores.entries()).filter(([,score])=>score===terms.length).map(([doc])=>{
      const a=catalog[doc],snippet=a?.previews?.[hits.get(doc)];if(!a||filter==='planned')return null;
-     return {id:a.id,title:a.title,readable:true,score:55+terms.length*18,summary:snippet?.text||a.description,where:snippet?.title||'Article'};
+     return {id:a.id,title:a.title,readable:true,score:55+terms.length*18,summary:snippet?.text||a.description,where:a.aliases?.some(alias=>normalizeQuery(alias).includes(normalizeQuery(query)))?'Korean topic alias':snippet?.title||'Article'};
    }).filter(Boolean);
    const merged=new Map();for(const item of titleHits)merged.set(item.id,item);for(const item of corpus){const other=merged.get(item.id);merged.set(item.id,other&&other.score>item.score?other:item)}
    return [...merged.values()].sort((a,b)=>b.score-a.score||a.id.localeCompare(b.id,undefined,{numeric:true})).slice(0,60);
