@@ -65,6 +65,9 @@ def compile_corpus(*, write=True):
         if key not in titles: raise ValueError(f'Unknown canonical article: {f.name}: {key}')
         if key+'.json' != f.name: raise ValueError(f'Filename / canonical ID mismatch: {f.name}')
         if a.get('title') != titles[key]: raise ValueError(f'Canonical title changed: {key}: {a.get("title")!r}')
+        sources=a.get('sources',[])
+        if not isinstance(sources,list) or len(sources)>12 or any(not isinstance(source,dict) or not all(isinstance(source.get(k),str) and source[k].strip() for k in ('institution','title','url','role')) or not source['url'].startswith('https://') for source in sources):
+            raise ValueError(f'Malformed source provenance for {key}')
         blocks=a.get('blocks')
         if not isinstance(blocks,list) or not blocks: raise ValueError(f'Empty article: {key}')
         seen=set()
@@ -98,7 +101,7 @@ def compile_corpus(*, write=True):
             current.append(block)
         flush()
         count=sum(len(WORD_RE.findall(p)) for b in a['blocks'] for p in b['paragraphs']);counted+=count
-        manifest.append({'id':key,'title':a['title'],'kicker':a.get('kicker','HISTORY'), 'description':a.get('description',''), 'release':a.get('release',''), 'wordCount':count,'blocks':len(a['blocks']), 'chunks':passage_index,'packs':groups})
+        manifest.append({'id':key,'title':a['title'],'kicker':a.get('kicker','HISTORY'), 'description':a.get('description',''), 'release':a.get('release',''), 'wordCount':count,'blocks':len(a['blocks']),'sourceStatus':a.get('sourceStatus','Unverified editorial narrative'), 'sources':a.get('sources',[]), 'chunks':passage_index,'packs':groups})
         doc_index=len(catalog)
         catalog.append({'id':key,'title':a['title'],'description':a.get('description',''),'aliases':aliases.get(key,[]),'blocks':len(a['blocks']),'wordCount':count,'previews':[{'title':b['title'],'text':b['paragraphs'][0][:168].replace('\n',' ')} for b in a['blocks']]})
         for term in set(tokenize(' '.join(aliases.get(key,[])))):

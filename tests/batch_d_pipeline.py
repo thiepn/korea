@@ -10,8 +10,8 @@ manifest=json.loads((ROOT/'data/content-manifest.json').read_text())
 arch=json.loads((ROOT/'data/architecture.json').read_text())
 atlas=json.loads((ROOT/'data/atlas.json').read_text())
 assert len(arch['parts'])==10 and sum(map(lambda p:len(p['chapters']),arch['parts']))==100
-assert manifest['count']==92 and manifest['sampleWordCount']==31673 and sum(a['blocks'] for a in manifest['articles'])==333
-assert len(atlas['events'])==27 and len(atlas['connections'])==24
+assert manifest['count']>=92 and manifest['sampleWordCount']>=31673 and sum(a['blocks'] for a in manifest['articles'])>=333
+assert len(atlas['events'])>=27 and len(atlas['connections'])>=24
 new=[a for a in manifest['articles'] if a['release']=='D'];assert len(new)==15 and all(a['blocks']==5 and a['wordCount']>=420 for a in new)
 prepared=ROOT/'content/imports/batch_d_deep.jsonl'
 assert run(prepared,True)['articles_updated']==0,'Importer must replay without rewriting sources'
@@ -27,4 +27,4 @@ for candidate in ROOT.glob('canonical/*'):
 public={p.relative_to(ROOT/'dist').as_posix() for p in (ROOT/'dist').rglob('*') if p.is_file()}
 assert 'data/atlas.json' in public
 assert not any(s.startswith(('content/','canonical/','tests/','scripts/')) for s in public)
-print('PASS Batch D: 92 articles, 333 passages, 31,673 genuinely authored words; replay-safe imports, unchanged canon, 27 events, 24 connections, deterministic bounded static build')
+print(f'PASS Batch D backwards-compatibility: {manifest["count"]} articles, {manifest["sampleWordCount"]} words, {len(atlas["events"])} events, {len(atlas["connections"])} connections')

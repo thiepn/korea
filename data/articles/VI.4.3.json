@@ -1,0 +1,123 @@
+{
+  "id": "VI.4.3",
+  "title": "The Creation of Hunminjeongeum: Process, Participants, and the 1443 Completion",
+  "kicker": "EXTENDED HISTORICAL ESSAY",
+  "description": "A sustained original historical essay. Institutional sources provide contextual grounding; interpretive claims have not received line-by-line scholarly verification.",
+  "release": "E",
+  "sourceStatus": "Institutional contextual sources; narrative synthesis not claim-by-claim reviewed",
+  "sources": [
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Hunminjeongum Manuscript",
+      "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript",
+      "role": "1443 creation, 1446 promulgation and manuscript identity"
+    },
+    {
+      "institution": "National Hangeul Museum",
+      "title": "Hunminjeongeum: The Design of a Writing System",
+      "url": "https://www.hangeul.go.kr/en/exhi/dailyExhibition.do",
+      "role": "Twenty-eight original letters and official explanation of letter principles"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.4.3:b01",
+      "title": "A language without a matching everyday script",
+      "paragraphs": [
+        "For much of Korean history before the fifteenth century, access to formal written culture depended on classical Chinese and systems that adapted Chinese characters to Korean expression. These resources supported administration, poetry, scholarship, and communication across a broader East Asian learned world. Their success, however, came with a structural difficulty: the Korean language did not operate like written Chinese. Word order, grammatical endings, sound patterns, and ordinary speech could not be represented simply by copying Chinese writing without adjustment. Different practices worked around different parts of the problem. It would be inaccurate to say that Koreans had no means whatsoever of writing Korean, just as it would be inaccurate to say that the existing means gave all speakers a convenient script for their own language.",
+        "The distinction between language and script is essential. People speak before they write; a community's language does not await royal authorization to become real. A script is a learned system for representing language, and its social usefulness depends on whether people have the time, opportunity, and resources to acquire it. In Joseon, mastery of classical texts was connected to education, examination, and elite identity. The creation of a new script did not immediately redistribute those advantages. Yet it offered a different answer to the problem of representation. Rather than continually adapting an existing character tradition, the new system could be designed with Korean sounds and syllables explicitly in mind.",
+        "King Sejong's reign provided the political setting for such a project. The court sponsored learned activity, discussed institutions, and treated the accurate management of knowledge as part of good rule. This does not mean that every scholarly initiative proceeded without controversy or that an ideal of benevolent government was universally experienced. A king could pursue intellectual innovation within a sharply hierarchical society. The new writing system belongs to that tension: it promised wider practical expression while emerging from the highest level of the monarchy. Understanding the project requires both sides, neither a romantic story of universal liberation nor a cynical reduction of the script to an instrument of control."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VI.4.3:b02",
+      "title": "What the record says about 1443",
+      "paragraphs": [
+        "The earliest explicit royal-annals notice of Hunminjeongeum is placed in the twelfth lunar month of 1443. The recorded announcement describes a new set of twenty-eight letters associated with the king. This is an unusually firm chronological anchor compared with many inventions whose origins can only be inferred from later use. Even so, an announcement is not a laboratory notebook. It does not reveal every discussion, experiment, rejected design, or private meeting that preceded the result. The temptation to turn the known date into a complete account of the creative process should be resisted. An event can be well dated while its working history remains incompletely documented.",
+        "The distinction also matters for assigning responsibility. Sejong's personal role is strongly grounded in the record and the explanatory tradition. But individual royal authorship and scholarly participation need not be understood as exclusive alternatives. Developing a system, providing its rationale, testing examples, preparing explanation, and promoting its use are different activities. The later Hunminjeongeum Haerye contains explanatory contributions by scholars of the Hall of Worthies. This does not establish the precise contribution of every scholar to the earlier design stage. Evidence about the publication must not be silently treated as evidence about every step of invention.",
+        "There is an important methodological lesson here. Historical traditions often prefer a dramatic scene: a brilliant ruler, surrounded by scholars, suddenly conceives an alphabet complete in every detail. A different story invents a secret laboratory and rival factions. Such narratives can be memorable, but they mix reasonable possibilities with details that need proof. The original record supports a more disciplined account. We can say that a new system was completed and announced by 1443, that Sejong was centrally associated with it, and that an explanatory publication followed in 1446. Beyond those points, specific reconstructions of meetings or private motives must be identified as hypotheses rather than reported facts."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.3:b03",
+      "title": "Twenty-eight signs, many functions",
+      "paragraphs": [
+        "The original alphabet comprised twenty-eight letters, conventionally described as seventeen consonants and eleven vowels. This number differs from the standard inventory used in contemporary Korean writing, so the historical script must be understood on its own terms. The signs were not simply a list of convenient marks to be memorized. Their organization reflected an analysis of speech, and their arrangement allowed consonants and vowels to be assembled into syllabic units. It combined a relatively small inventory with a system for expressing numerous sound combinations. That balance between economy and expressive power is central to why the design remains an object of linguistic interest.",
+        "The consonant system is especially striking because the basic letter shapes are connected in the explanatory tradition with positions and actions of the speech organs. The usual examples include signs associated with tongue, lips, teeth, and throat. Additional forms relate systematically to primary shapes, although a simple modern diagram can hide distinctions in historical pronunciation. These are not merely artistic symbols of anatomy. They express an understanding that writing can classify speech by the way sounds are produced. One need not suppose that fifteenth-century scholars possessed all categories of modern phonetics to recognize the sophistication of their analysis.",
+        "The vowel system also has an explanatory logic beyond graphic convenience. The Haerye relates basic vowel elements to heaven, earth, and humanity, ideas that reflected a broader intellectual environment. The combination of these elements produced signs organized through patterned relationships. To a modern learner the visible result may look like an abstract and efficient set of strokes. For its creators the pattern could carry philosophical significance as well as practical function. Historical interpretation is poorer when it treats the philosophy as decoration or the phonetic analysis as a miraculous anticipation of contemporary science. The system is best understood as a distinctive synthesis developed in its own intellectual world."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "VI.4.3:b04",
+      "title": "Why letters sit together in blocks",
+      "paragraphs": [
+        "Writing systems do more than assign marks to sounds. They establish conventions for ordering marks, segmenting words, and recognizing meaningful units. In Hangul, letters combine into square-like syllable blocks rather than following one another in a continuously linear alphabetic sequence. This feature has helped make the script visually familiar alongside other East Asian written traditions, while preserving its own sound-based organization. The block should not be mistaken for a single indivisible character. It is a graphic assembly whose components remain identifiable, and changing one component can change the syllable represented.",
+        "The structure had consequences for teaching and use. A learner could acquire a set of basic signs and combine them in many arrangements instead of memorizing a separate logographic form for every syllable. That difference does not make literacy effortless: learning to read also requires vocabulary, exposure to written language, comprehension, and a social context that rewards practice. Even a straightforward orthography does not erase inequalities of time and education. The historical achievement lies in making the relation between written signs and spoken Korean unusually explicit, not in the instant transformation of an unequal society into a literate one.",
+        "A useful thought experiment is to consider a scribe deciding how to represent a Korean grammatical ending in a system built primarily around classical Chinese literary practice. Each available method had conventions and limitations. A purpose-built phonographic system could represent sounds more directly, but it also needed rules to prevent writers from arranging letters arbitrarily. Syllable blocks created one such organizing principle. They made the page legible through familiar visual units while allowing the script's internal structure to do different work. This is a historical account of design choices, not a claim that any particular scribe experienced the decision in the same way."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "VI.4.3:b05",
+      "title": "The explanatory book of 1446",
+      "paragraphs": [
+        "The completion announcement and the 1446 publication must be kept separate. The latter included the text now known as Hunminjeongeum and its explanatory material, the Haerye, which helps modern readers understand the system's declared purposes and principles. UNESCO's Memory of the World entry identifies the 1446 manuscript as containing Sejong's promulgation and explanatory comments by Hall of Worthies scholars. Without this body of explanation, we would know much less about how the letters were conceived. The text is therefore an exceptional source both for the history of writing and for the intellectual vocabulary with which its creators described language.",
+        "The book does not, however, eliminate all interpretive problems. Explanations written for an audience in the fifteenth century assume categories and pronunciations that require historical study. Later changes in Korean sounds and writing conventions make it dangerous to read every example through present-day Korean. Nor does an official explanation necessarily reveal all informal debates surrounding a court project. A foundational source can be extraordinarily informative without being omniscient. Reading it responsibly involves comparing what it says with the historical context, the later uses of the script, and other relevant records.",
+        "The 1446 publication also helps explain why the script was not merely a clever private notation. A writing system intended for broader use needs circulation, exemplification, and a public claim to legitimacy. The explanatory text established both principles and an authoritative framing. That framing drew on the king's concern that people could not adequately express their thoughts through writing systems poorly fitted to their spoken language. Translating that ideal into practice would take institutions, books, readers, and time. Nevertheless, the publication transformed a designed set of signs into a more fully articulated cultural project."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    },
+    {
+      "id": "VI.4.3:b06",
+      "title": "Royal authority and the limits of royal intention",
+      "paragraphs": [
+        "An account of Hangul centered on Sejong risks treating his intentions as the entire history of the script. Intention matters because it tells us how the project was justified, but it does not determine every subsequent use. Writers, teachers, printers, officials, religious communities, and households would encounter the new letters under different conditions. A system introduced from above can acquire meanings beyond those foreseen by its sponsors. The eventual history of Hangul includes changing conventions, genres, audiences, and attitudes; those later developments should not be collapsed into a single moment of invention.",
+        "Classical Chinese continued to hold institutional prestige after the creation of Hunminjeongeum. The appearance of a new writing system did not remove the educational importance of established texts or the social distinction attached to their mastery. The court and educated elites could support some uses of the script while continuing to value other forms of writing. This coexistence is historically more plausible than an abrupt replacement of one system by another. A new technology of communication can expand possibilities without displacing everything already established, particularly when older practices are embedded in examination, law, and social reputation.",
+        "Nor was ease of learning a simple universal property experienced equally by all. Letters may be designed systematically, but reading a book requires access to it. A household with leisure, teachers, and material resources encountered the script differently from one whose daily work left little time for study. The history of an accessible script should include the conditions of access. The promise of intelligible writing is important precisely because its realization depended on social processes that went far beyond the king's design room."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 6
+    },
+    {
+      "id": "VI.4.3:b07",
+      "title": "Translation, teaching, and an expanding readership",
+      "paragraphs": [
+        "The earliest uses of the script included religious writing, songs, and works that rendered Korean speech more directly. These choices demonstrate that a new alphabet can become useful not only in administration but wherever sound, meaning, and instruction must be linked. Translation is particularly revealing. It involves deciding what an audience needs explained, how unfamiliar vocabulary can be expressed, and how written forms will relate to oral knowledge. A translator working into Korean with new letters was not simply replacing one graphic code with another. The work could change the relationship between a text, its teacher, and its readers.",
+        "Books also travel through institutions. Making one authoritative manuscript does not guarantee that many copies will circulate, and a printed edition does not guarantee that the intended audience can obtain it. We therefore need a history of production and readership to understand the larger effects of Hunminjeongeum. Questions about price, manuscript copying, printing, educational settings, and genre are necessary companions to questions about letter design. A narrative focused only on the inventor can make the social life of writing vanish. Yet the script's long history consists largely of people deciding to use, adapt, transmit, and teach it.",
+        "The question of gender further complicates a simple celebration. Women in Joseon had diverse educational opportunities shaped by household status, region, period, and family choices. Later Korean-language texts offer evidence of female readers and writers, but the availability of Hangul did not create one uniform female literary experience. An attentive historical account can recognize the significance of Korean-language writing for women without imagining that every household accepted it equally. The same caution applies to other groups that standard political histories tend to overlook. A writing system becomes a social resource through particular relationships and negotiations, not through universal declarations alone."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 7
+    },
+    {
+      "id": "VI.4.3:b08",
+      "title": "A modern emblem with a medieval beginning",
+      "paragraphs": [
+        "Today Hangul is often presented as a defining symbol of Korean culture and modern national identity. That meaning is historically important, but it belongs partly to periods far later than Sejong. Nineteenth- and twentieth-century language debates, schooling, print culture, colonial pressures, and standardization gave the script new political and emotional significance. Its modern status cannot be read backward as the single purpose of its creation. The fifteenth-century court operated within a different understanding of identity, learning, and international cultural exchange. Respecting that distance makes both periods more intelligible.",
+        "This chronological separation is not an argument against celebrating the script. It is a way of taking the historical achievement seriously. The design represented a rare and unusually explicit effort to match a writing system to the phonological structure of a language. The documentary record of 1443 and 1446 gives researchers exceptional access to the circumstances and principles of the project. Its later adoption and transformation reveal an equally important history of users rather than makers. The two histories enrich one another if kept analytically distinct: invention created possibilities, and generations of people made choices among them.",
+        "The same distinction also protects us from overclaiming. Describing Hangul as perfectly scientific, effortlessly learned, or universally embraced from its first appearance can turn a genuine accomplishment into an implausible myth. Its logical relations can be analyzed in detail; its convenience can be tested against particular tasks; its influence can be traced through historical documents. Exaggeration is unnecessary. An account that acknowledges uncertainty about parts of the creative process and unevenness in early adoption gives readers more reason to trust the remarkable evidence that does survive."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 8
+    },
+    {
+      "id": "VI.4.3:b09",
+      "title": "What can still be learned from the first letters",
+      "paragraphs": [
+        "When historians study Hunminjeongeum, the most rewarding questions often cut across the categories used to divide modern subjects. The text belongs to linguistics because it describes sounds and signs. It belongs to intellectual history because it uses philosophical concepts to order letters. It belongs to political history because a king sponsored and publicized the system. It belongs to social history because writing practices distribute opportunities unevenly. It belongs to the history of books because the survival of an explanatory edition has profoundly shaped modern interpretation. None of these inquiries supplies a complete explanation on its own.",
+        "The primary evidence should remain visible beneath every interpretation. We know that Sejong was credited in a record associated with 1443 and that the explanatory edition was promulgated in 1446. We can examine the principles described by the book and compare them with surviving early texts. We cannot reproduce conversations no source recorded, or assume that every intended reader immediately obtained instruction. The distance between documented event and reconstructed process is where responsible history begins. Making that distance clear does not diminish the human imagination involved; it disciplines the imagination so that it works with evidence rather than replacing it.",
+        "Hunminjeongeum's enduring fascination lies in its combination of very specific historical circumstances and a much broader intellectual question. What would it mean to devise written signs by thinking carefully about how a language is spoken, how bodies produce sounds, and how ordinary people might learn? The answer in fifteenth-century Joseon was neither a miracle outside history nor simply one more court decree. It was an ambitious designed system whose documented rationale invites close study, whose users gave it an unpredictable future, and whose surviving explanation allows us to see an unusually rich meeting of language, authority, and human ingenuity."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 9
+    }
+  ]
+}

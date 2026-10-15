@@ -175,3 +175,15 @@ Batch C adds 50 human-authored editorial history samples (77 total entries, 258 
 - `python3 tests/batch_c_pipeline.py` and `python3 tests/batch_c_journeys.py` verify source identities and actual Chromium DOM behavior with in-memory assets.
 
 See `BATCH_C_REPORT.md` for measured metrics and caveats.
+
+## Batch E — long-form articles and source context
+
+- Editorial manuscript: `content/editorial/batch_e_longform.md`.
+- Curated research registry: `content/research/batch_e_sources.json`.
+- Prepare the import: `python3 scripts/prepare_longform.py`.
+- Preview without writing: `python3 scripts/ingest.py content/imports/batch_e_longform.jsonl --dry-run`.
+- Import: `python3 scripts/ingest.py content/imports/batch_e_longform.jsonl` (replay skips existing matching passages).
+- Build/publish static assets: `python3 scripts/build_release.py`. The public manifest includes reference metadata, while the editable manuscript and research registry stay private to the source tree.
+- Verify: `python3 tests/batch_e_pipeline.py && python3 tests/batch_e_journeys.py`.
+
+Editorial reference links are contextual; neither source consultation nor automated validation substitutes for historical peer review. See `BATCH_E_REPORT.md`.

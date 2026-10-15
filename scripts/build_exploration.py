@@ -15,6 +15,7 @@ collections=[
  ('fields-and-households','Fields and households','A route through shelter, farming, obligations and changing family life.','The human scale',['I.3.4','I.4.2','IV.3.3','V.3.5','VII.5.2','X.2.4']),
  ('learning-and-service','Learning and service','Why societies sought educated officials, and who had the chance to become one.','Education and power',['V.2.5','VI.4.2','VI.2.5','VII.3.4','X.1.2']),
  ('institutions-in-motion','Institutions in motion','From early commanderies to civilian democracy, trace how authority changes.','Power over time',['II.3.4','III.3.2','III.3.5','V.2.5','VI.2.5','VIII.3.5','X.1.2']),
+ ('longform-history','The long history behind the headline','Read substantial essays, inspect their reference notes, and follow why one century raises questions for another.','Reading in depth',['V.5.6','VI.4.3','IX.3.3','VI.4.2','V.3.5','IX.3.2']),
  ('ideas-and-expression','Ideas and expression','Foundation stories, learning, writing, reform, and cultural influence.','Cultural history',['II.1.2','IV.2.2','V.1.5','VI.4.2','VIII.1.5','X.5.10']),
 ]
 trails=[]

@@ -30,7 +30,13 @@ def run(path:Path,dry_run=False):
         if key in plans:raise ValueError(f'line {n}: duplicate ID in batch: {key}')
         target=DATA/'articles'/f'{key}.json'
         existing=json.loads(target.read_text(encoding='utf-8')) if target.exists() else None
-        base=(existing.copy() if existing else {'id':key,'title':allowed[key],'kicker':record.get('kicker','HISTORY'), 'description':record.get('description',''), 'release':record.get('release',''), 'blocks':[]})
+        sources=record.get('sources',[])
+        if sources:
+            if not isinstance(sources,list) or len(sources)>12 or any(not isinstance(s,dict) or not all(isinstance(s.get(field),str) and s[field].strip() for field in ('institution','title','url','role')) or not s['url'].startswith('https://') for s in sources):
+                raise ValueError(f'line {n}: invalid institutional source metadata')
+        if record.get('sourceStatus') and (not isinstance(record['sourceStatus'],str) or len(record['sourceStatus'])>250):
+            raise ValueError(f'line {n}: invalid editorial source status')
+        base=(existing.copy() if existing else {'id':key,'title':allowed[key],'kicker':record.get('kicker','HISTORY'), 'description':record.get('description',''), 'release':record.get('release',''), 'sourceStatus':record.get('sourceStatus','Unverified editorial narrative'), 'sources':sources, 'blocks':[]})
         if base['title']!=allowed[key]:raise ValueError(f'line {n}: existing title diverges from canonical')
         already=[{'title':b['title'],'paragraphs':b['paragraphs']} for b in base['blocks']]
         incoming=[{'title':b['title'].strip(),'paragraphs':[p.strip() for p in b['paragraphs']]} for b in blocks]
