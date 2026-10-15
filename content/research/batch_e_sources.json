@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "note": "Institutional contextual references reviewed for editorial grounding. Not sentence-level citations or external verification of every interpretation.",
+  "articles": {
+    "V.5.6": {
+      "sourceStatus": "Institutional contextual sources; narrative synthesis not claim-by-claim reviewed",
+      "sources": [
+        {"institution": "UNESCO Memory of the World", "title": "Printing woodblocks of the Tripitaka Koreana and miscellaneous Buddhist scriptures", "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures", "role": "Collection size, medieval production, critical edition and preservation history"},
+        {"institution": "UNESCO World Heritage Centre", "title": "Haeinsa Temple Janggyeong Panjeon", "url": "https://whc.unesco.org/en/list/737", "role": "Depository architecture, dates, conservation and historical significance"}
+      ]
+    },
+    "VI.4.3": {
+      "sourceStatus": "Institutional contextual sources; narrative synthesis not claim-by-claim reviewed",
+      "sources": [
+        {"institution": "UNESCO Memory of the World", "title": "Hunminjeongum Manuscript", "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript", "role": "1443 creation, 1446 promulgation and manuscript identity"},
+        {"institution": "National Hangeul Museum", "title": "Hunminjeongeum: The Design of a Writing System", "url": "https://www.hangeul.go.kr/en/exhi/dailyExhibition.do", "role": "Twenty-eight original letters and official explanation of letter principles"}
+      ]
+    },
+    "IX.3.3": {
+      "sourceStatus": "Military institutional sources with coalition perspective; civilian and Korean archival corroboration remains outstanding",
+      "sources": [
+        {"institution": "U.S. Army Center of Military History", "title": "The Korean War: Campaign Summary", "url": "https://history.army.mil/Research/Reference-Topics/Army-Campaigns/Brief-Summaries/Korean-War/", "role": "Geography, military operations, logistics and perimeter timing"},
+        {"institution": "United Nations Command", "title": "Korean War (Active Conflict), 1950–1953", "url": "https://www.unc.mil/History/1950-1953-Korean-War-Active-Conflict/lang/en/", "role": "UN resolutions, multinational command and September chronology"}
+      ]
+    }
+  }
+}

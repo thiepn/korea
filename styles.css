@@ -70,3 +70,20 @@
 @media(max-width:1150px){.top-nav{gap:10px}.top-nav button{font-size:10px}}
 @media(max-width:760px){.timeline-invite{padding:19px;display:block}.timeline-invite h2{font-size:25px}.timeline-invite .btn-light{width:100%;margin-top:18px}.timeline-page .list-intro h1{font-size:38px}.timeline-filters button{min-width:37px;padding:9px 12px}.timeline-group-title{gap:9px}.timeline-group-title .era-num{min-width:36px;font-size:32px}.timeline-group-title h2{font-size:19px}.timeline-group-title .text-action{font-size:10px}.timeline-events{padding-left:17px;margin-left:10px}.timeline-event{gap:9px}.timeline-event::before{left:-24px}.timeline-date{min-width:94px;font-size:11px}.timeline-story strong{font-size:16px}.timeline-story small{font-size:11px}.mobile-connections{display:block;margin:12px 0 24px;background:#ede9df;padding:17px;border-left:2px solid #986344}.mobile-connections button{display:flex;align-items:center;gap:7px;width:100%;background:none;border:0;border-top:1px solid #d3d0c5;padding:12px 0;text-align:left;color:#2d4736}.mobile-connections button strong{font:600 12px/1.4 var(--sans);flex:0 0 37%}.mobile-connections button small{font-size:11px;line-height:1.5;color:#526558;flex:1}.mobile-connections button .icon{width:13px;flex:none}}
 @media(max-width:350px){.timeline-date{min-width:75px}.timeline-story strong{font-size:14px}.timeline-event{gap:6px}.mobile-connections button{display:block}.mobile-connections button small{display:block;margin-top:5px}}
+
+/* Batch E: visible provenance and genuinely long-form reading shelf. */
+.editorial-sources{margin:17px 0 0;padding:14px 18px;border:1px solid var(--line, #ddd5c8);background:var(--paper-alt,#f8f5ef);border-radius:4px;font-size:.88rem;color:var(--ink, #283431)}
+.editorial-sources summary{font-weight:700;cursor:pointer;list-style-position:inside;min-height:24px}
+.editorial-sources summary:focus-visible,.editorial-sources a:focus-visible{outline:2px solid #6b7045;outline-offset:3px}
+.editorial-sources ol{margin:12px 0 4px;padding-left:23px;display:grid;gap:12px}
+.editorial-sources li strong,.editorial-sources li span,.editorial-sources li small{display:block;line-height:1.45}
+.editorial-sources li a{color:var(--ink,#283431);text-decoration:underline;text-underline-offset:3px}
+.editorial-sources li span{opacity:.84}.editorial-sources li small{opacity:.8}
+.source-qualification,.shelf-note{font-size:.91rem;line-height:1.65;max-width:760px;color:var(--muted,#58645d)}
+.longform-shelf{margin-block:42px 56px}.longform-shelf .story-grid{margin-top:20px}
+@media(max-width:650px){.editorial-sources{padding:13px 14px}.longform-shelf{margin-block:34px 44px}}
+
+.reader-timeline-context{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin:16px 0;padding:14px 17px;border-left:3px solid var(--rust,#a35235);background:var(--paper-alt,#f8f5ef)}
+.reader-timeline-context .eyebrow{width:100%;font-size:.68rem}
+.reader-timeline-context>div{flex:1 1 210px}.reader-timeline-context p{margin:4px 0 0;line-height:1.5;font-size:.86rem;color:var(--muted,#58645d)}
+.reader-timeline-context button{flex:0 0 auto}
