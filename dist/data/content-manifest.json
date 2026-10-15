@@ -1,6 +1,6 @@
 {
   "version": "phase-1.0",
-  "count": 7,
+  "count": 17,
   "articles": [
     {
       "id": "I.1.1",
@@ -38,6 +38,45 @@
           "path": "./data/blocks/I.1.1-b04.json",
           "bytes": 1334,
           "sha256": "f75bc6aed1e1a828bbe5d90f4a64dbe427b164fdd1ed9d77cdd25dae87c564aa"
+        }
+      ]
+    },
+    {
+      "id": "I.1.4",
+      "title": "Coasts, Islands, Tidal Flats, and the Maritime Environment",
+      "kicker": "BETWEEN LAND AND SEA",
+      "description": "Korea was shaped not only by mountain ridges but also by the restless meeting of land and water.",
+      "blocks": 4,
+      "wordCount": 545,
+      "path": "./data/articles/I.1.4.json",
+      "chunks": [
+        {
+          "id": "I.1.4:b01",
+          "title": "A coastline that does not stand still",
+          "path": "./data/blocks/I.1.4-b01.json",
+          "bytes": 1125,
+          "sha256": "a8d04639e489eee1278b80636fe83975188b51213a94acae43419135bec45ba7"
+        },
+        {
+          "id": "I.1.4:b02",
+          "title": "The rhythm of the tides",
+          "path": "./data/blocks/I.1.4-b02.json",
+          "bytes": 965,
+          "sha256": "b19ff550cc6055018101757b31cc97422e56c8411bad5662c951ceab2b5d2116"
+        },
+        {
+          "id": "I.1.4:b03",
+          "title": "Islands as connections",
+          "path": "./data/blocks/I.1.4-b03.json",
+          "bytes": 941,
+          "sha256": "2f2f6caf213fadb12707b8541197627750102cf9261861670d59aa01a5e730ff"
+        },
+        {
+          "id": "I.1.4:b04",
+          "title": "Reading a maritime landscape",
+          "path": "./data/blocks/I.1.4-b04.json",
+          "bytes": 866,
+          "sha256": "33377829e43905f74e36bb4e0fcff690debfda0b1d3452fc82618b4ee1d6b0da"
         }
       ]
     },
@@ -81,6 +120,45 @@
       ]
     },
     {
+      "id": "II.1.7",
+      "title": "Economy, Agriculture, Craft, and Exchange",
+      "kicker": "THE EVERYDAY STATE",
+      "description": "Exchange, food production, and workshops help us imagine early political life beyond foundation stories.",
+      "blocks": 4,
+      "wordCount": 443,
+      "path": "./data/articles/II.1.7.json",
+      "chunks": [
+        {
+          "id": "II.1.7:b01",
+          "title": "Beyond royal genealogies",
+          "path": "./data/blocks/II.1.7-b01.json",
+          "bytes": 979,
+          "sha256": "d2e8fbb11b1909c52afdf2d0951696398d7d1c3acb5b7918083d8ceb87e4f345"
+        },
+        {
+          "id": "II.1.7:b02",
+          "title": "Fields, stores, and obligations",
+          "path": "./data/blocks/II.1.7-b02.json",
+          "bytes": 872,
+          "sha256": "703bb61b6cef1465ab2e61e7d44c2955e2aa452a31a489daac1b3ff127864364"
+        },
+        {
+          "id": "II.1.7:b03",
+          "title": "Craft and circulation",
+          "path": "./data/blocks/II.1.7-b03.json",
+          "bytes": 836,
+          "sha256": "455a011b7d5e08411cac864836f83987814794a3fc2da81b21566a1e61b63777"
+        },
+        {
+          "id": "II.1.7:b04",
+          "title": "An economy across boundaries",
+          "path": "./data/blocks/II.1.7-b04.json",
+          "bytes": 731,
+          "sha256": "a63a60b8ceb55bd44b1a5cfd81d00a78d4ea61af451a765d832710d188b9a0ef"
+        }
+      ]
+    },
+    {
       "id": "III.1.5",
       "title": "Gwanggaeto the Great and Imperial Expansion",
       "kicker": "A KINGDOM EXPANDS",
@@ -120,6 +198,162 @@
       ]
     },
     {
+      "id": "III.2.2",
+      "title": "Geunchogo and the Expansion of Baekje Power",
+      "kicker": "THE RIVER KINGDOM",
+      "description": "Baekje’s rise shows how geography, political coalition, and military ambition became intertwined.",
+      "blocks": 4,
+      "wordCount": 431,
+      "path": "./data/articles/III.2.2.json",
+      "chunks": [
+        {
+          "id": "III.2.2:b01",
+          "title": "A kingdom on the move",
+          "path": "./data/blocks/III.2.2-b01.json",
+          "bytes": 892,
+          "sha256": "bb2d8d10446508ae87ad1f9d4d96c9923c1955e80ee2be1723dce139133a0631"
+        },
+        {
+          "id": "III.2.2:b02",
+          "title": "War and political opportunity",
+          "path": "./data/blocks/III.2.2-b02.json",
+          "bytes": 871,
+          "sha256": "e1dbbda5170abb12707713ebda2564e17baab2cad305f26d83543e4c18facf2f"
+        },
+        {
+          "id": "III.2.2:b03",
+          "title": "Diplomacy across the water",
+          "path": "./data/blocks/III.2.2-b03.json",
+          "bytes": 818,
+          "sha256": "17ca7fdb104828ed33b76f4ea2711475c46f0b98e25b839658db3340b2d4a2e5"
+        },
+        {
+          "id": "III.2.2:b04",
+          "title": "Why Geunchogo matters",
+          "path": "./data/blocks/III.2.2-b04.json",
+          "bytes": 737,
+          "sha256": "74e10b10946cd8372231bf0c677faead4f2cd8f9c62ea8f77c387fef24e5bc4f"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.2",
+      "title": "Bone Rank and the Architecture of Elite Power",
+      "kicker": "RANK AND RELATIONSHIP",
+      "description": "An aristocratic status system shaped the possibilities of Silla’s political world.",
+      "blocks": 4,
+      "wordCount": 410,
+      "path": "./data/articles/IV.2.2.json",
+      "chunks": [
+        {
+          "id": "IV.2.2:b01",
+          "title": "A social map of power",
+          "path": "./data/blocks/IV.2.2-b01.json",
+          "bytes": 879,
+          "sha256": "b8e809a32a4c1c168fc56210a6fffd8ff37e06c62158fbacc2b1ab2c25787203"
+        },
+        {
+          "id": "IV.2.2:b02",
+          "title": "Court and kinship",
+          "path": "./data/blocks/IV.2.2-b02.json",
+          "bytes": 726,
+          "sha256": "edf2c905da81687b5d5f31264a0ffbb9dc660cfa6d3cc748d3802bb8855405b0"
+        },
+        {
+          "id": "IV.2.2:b03",
+          "title": "Life beyond the summit",
+          "path": "./data/blocks/IV.2.2-b03.json",
+          "bytes": 823,
+          "sha256": "ed979ec15b577c9dab8c7d6f015a4c5518142cfea0d1e9c50faa6424552a8b7c"
+        },
+        {
+          "id": "IV.2.2:b04",
+          "title": "Continuity and pressure",
+          "path": "./data/blocks/IV.2.2-b04.json",
+          "bytes": 777,
+          "sha256": "f56173ada907452aa3cb4dde68074cfe7498099a84739f67ffe019b57db1cc3c"
+        }
+      ]
+    },
+    {
+      "id": "V.1.5",
+      "title": "The Introduction of Civil Service Examinations and the Reshaping of Elite Recruitment",
+      "kicker": "THE PATH INTO OFFICE",
+      "description": "Goryeo examinations opened a new language of merit within an older world of inherited advantage.",
+      "blocks": 4,
+      "wordCount": 397,
+      "path": "./data/articles/V.1.5.json",
+      "chunks": [
+        {
+          "id": "V.1.5:b01",
+          "title": "Recruitment as a political problem",
+          "path": "./data/blocks/V.1.5-b01.json",
+          "bytes": 858,
+          "sha256": "595a77fdc21b646589a0203c027e5d5a08d0b980207feb11cb9b7be823d34505"
+        },
+        {
+          "id": "V.1.5:b02",
+          "title": "Texts, learning, and prestige",
+          "path": "./data/blocks/V.1.5-b02.json",
+          "bytes": 737,
+          "sha256": "3c1a71ec1ab6f19bbefc1f87d1ad8ac22965cec0a6ffa29fa18b89e0a86c9fd3"
+        },
+        {
+          "id": "V.1.5:b03",
+          "title": "Changing the composition of a court",
+          "path": "./data/blocks/V.1.5-b03.json",
+          "bytes": 817,
+          "sha256": "70fee04185b26d0b4f30d7386814cf4da8ca3ece18629861dc6ac14f9a7d078c"
+        },
+        {
+          "id": "V.1.5:b04",
+          "title": "The long examination tradition",
+          "path": "./data/blocks/V.1.5-b04.json",
+          "bytes": 676,
+          "sha256": "303a9089fe9f5a15536cc7b0a5f0c3a739ef2c6cf6fd1aa6052c764de9c3a7c3"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.3",
+      "title": "Hanyang: Capital Relocation, Urban Planning, and Sacred Geography",
+      "kicker": "MAKING A CAPITAL",
+      "description": "Hanyang reveals how a dynasty turned landscape into government and government into urban space.",
+      "blocks": 4,
+      "wordCount": 410,
+      "path": "./data/articles/VI.1.3.json",
+      "chunks": [
+        {
+          "id": "VI.1.3:b01",
+          "title": "Choosing a political center",
+          "path": "./data/blocks/VI.1.3-b01.json",
+          "bytes": 854,
+          "sha256": "b6a85985c1dffbd13abdc7bf1761a0e10cc4b2face59b3219a4d8a9f7e6f41cc"
+        },
+        {
+          "id": "VI.1.3:b02",
+          "title": "Palace, gates, and streets",
+          "path": "./data/blocks/VI.1.3-b02.json",
+          "bytes": 765,
+          "sha256": "83d82de060724c80cf36562539b73c88d1312eff7a415487e0fd7b277aff272b"
+        },
+        {
+          "id": "VI.1.3:b03",
+          "title": "Work behind the royal city",
+          "path": "./data/blocks/VI.1.3-b03.json",
+          "bytes": 735,
+          "sha256": "cc8b9bf7548c2b7559979ee2956f6aedb2febee1e8ca169f94c7860976bd003d"
+        },
+        {
+          "id": "VI.1.3:b04",
+          "title": "The afterlife of a foundation",
+          "path": "./data/blocks/VI.1.3-b04.json",
+          "bytes": 690,
+          "sha256": "289653331efb0cae2e665a3b00c79440a2d068d1e245f2d07f23fc10d379b06a"
+        }
+      ]
+    },
+    {
       "id": "VI.4.2",
       "title": "Sejong's Linguistic Problem and the Purpose of a New Script",
       "kicker": "THE MAKING OF A SCRIPT",
@@ -155,6 +389,84 @@
           "path": "./data/blocks/VI.4.2-b04.json",
           "bytes": 1282,
           "sha256": "ff2fdcdf55cf53eb7155d9052b94919f205b246ea1aec75bb77b54cd30ac64d4"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.1",
+      "title": "Joseon after 1598: Devastation, Displacement, and the Problem of Reconstruction",
+      "kicker": "AFTER THE WAR",
+      "description": "Reconstruction after the invasions was a contest to rebuild lives as well as institutions.",
+      "blocks": 4,
+      "wordCount": 372,
+      "path": "./data/articles/VII.1.1.json",
+      "chunks": [
+        {
+          "id": "VII.1.1:b01",
+          "title": "A landscape of interruption",
+          "path": "./data/blocks/VII.1.1-b01.json",
+          "bytes": 779,
+          "sha256": "8a4fc06bedafad7db3f6e9ccf4f4541ceabf08203266c3c40e08ed6ab5d17a26"
+        },
+        {
+          "id": "VII.1.1:b02",
+          "title": "Land, people, and records",
+          "path": "./data/blocks/VII.1.1-b02.json",
+          "bytes": 739,
+          "sha256": "51770afae45b6e8d7cf3398e0eed874c829877217a11161fa4fc22600154b999"
+        },
+        {
+          "id": "VII.1.1:b03",
+          "title": "Memories of violence",
+          "path": "./data/blocks/VII.1.1-b03.json",
+          "bytes": 719,
+          "sha256": "d2935d9adf15ae3d3a99fb8f8cb4ed1cea9e0008b9f73f6418075f622c7f0010"
+        },
+        {
+          "id": "VII.1.1:b04",
+          "title": "A changing political horizon",
+          "path": "./data/blocks/VII.1.1-b04.json",
+          "bytes": 676,
+          "sha256": "723b95e91f26d007f492c06a88c1806d57442b9de6857f4e84bb05ae297ca8fb"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.5",
+      "title": "Susinsa Missions to Japan and the Study of Meiji Reform",
+      "kicker": "LEARNING ACROSS THE SEA",
+      "description": "Missions to Meiji Japan turned observation into a difficult argument about Korea’s future.",
+      "blocks": 4,
+      "wordCount": 397,
+      "path": "./data/articles/VIII.1.5.json",
+      "chunks": [
+        {
+          "id": "VIII.1.5:b01",
+          "title": "A journey into change",
+          "path": "./data/blocks/VIII.1.5-b01.json",
+          "bytes": 847,
+          "sha256": "ad770919975940c24331f6c33af5edbc0d6b969b7dafa069b3db90441476e04f"
+        },
+        {
+          "id": "VIII.1.5:b02",
+          "title": "Observation and interpretation",
+          "path": "./data/blocks/VIII.1.5-b02.json",
+          "bytes": 782,
+          "sha256": "60f2098053b9cf9629ce2c835f3958f1dff43f334714bc85ea3494aba83ade81"
+        },
+        {
+          "id": "VIII.1.5:b03",
+          "title": "Disagreement at home",
+          "path": "./data/blocks/VIII.1.5-b03.json",
+          "bytes": 853,
+          "sha256": "0bf3eb896a0acdfe886345ee36bbf62d5fcfff95b2cd77fe3351698c26043e37"
+        },
+        {
+          "id": "VIII.1.5:b04",
+          "title": "Crossings with consequences",
+          "path": "./data/blocks/VIII.1.5-b04.json",
+          "bytes": 653,
+          "sha256": "6aa3d8986cbad9b0881faa35b51ab3c8f278a0b0ae32ac0bd982626a6a707f51"
         }
       ]
     },
@@ -237,6 +549,84 @@
       ]
     },
     {
+      "id": "IX.1.2",
+      "title": "The 38th Parallel and the Creation of Soviet and American Occupation Zones",
+      "kicker": "A LINE ACROSS THE LAND",
+      "description": "The division at the 38th parallel transformed liberation into a new struggle over political authority.",
+      "blocks": 4,
+      "wordCount": 402,
+      "path": "./data/articles/IX.1.2.json",
+      "chunks": [
+        {
+          "id": "IX.1.2:b01",
+          "title": "Liberation without a single government",
+          "path": "./data/blocks/IX.1.2-b01.json",
+          "bytes": 903,
+          "sha256": "ec8203e87fe1a980e36116b15ea07b85207dfaea8900cd14de6ca0544d5c3952"
+        },
+        {
+          "id": "IX.1.2:b02",
+          "title": "Two occupations, many local societies",
+          "path": "./data/blocks/IX.1.2-b02.json",
+          "bytes": 798,
+          "sha256": "597226726f539d557cec7060dde788ebe32cec85a61611d3ef2a118f8cfd8039"
+        },
+        {
+          "id": "IX.1.2:b03",
+          "title": "From provisional line to political frontier",
+          "path": "./data/blocks/IX.1.2-b03.json",
+          "bytes": 736,
+          "sha256": "ccac11eaabd6ccde4e674adab836ac61e436fb4a49833d37fa55fd2903611f3c"
+        },
+        {
+          "id": "IX.1.2:b04",
+          "title": "Remembering the unfinished liberation",
+          "path": "./data/blocks/IX.1.2-b04.json",
+          "bytes": 761,
+          "sha256": "0c6bfce9e6d1b16ded819bbb3c26c6c2543668b65f5dbe9e6297f325f440cfc7"
+        }
+      ]
+    },
+    {
+      "id": "X.2.5",
+      "title": "The Knowledge Economy, Broadband, ICT, and Korea's Digital Transformation",
+      "kicker": "WIRES AND WORLDS",
+      "description": "Broadband and digital industries transformed everyday routines as well as economic aspirations.",
+      "blocks": 4,
+      "wordCount": 377,
+      "path": "./data/articles/X.2.5.json",
+      "chunks": [
+        {
+          "id": "X.2.5:b01",
+          "title": "A networked transformation",
+          "path": "./data/blocks/X.2.5-b01.json",
+          "bytes": 864,
+          "sha256": "01bce4f9fbbfad6583dc665b49c2c7350d93fddf235876f46bbf88f7c3e6b832"
+        },
+        {
+          "id": "X.2.5:b02",
+          "title": "Devices, services, and everyday habits",
+          "path": "./data/blocks/X.2.5-b02.json",
+          "bytes": 785,
+          "sha256": "86d32def57e492f88be0c9bff83c429fc0c68698a1de36076def275acc34149c"
+        },
+        {
+          "id": "X.2.5:b03",
+          "title": "Industry and international competition",
+          "path": "./data/blocks/X.2.5-b03.json",
+          "bytes": 812,
+          "sha256": "c883079bbbd02209cffe1ded53591c9aaa76da4fb7275248b201cd624324f0ff"
+        },
+        {
+          "id": "X.2.5:b04",
+          "title": "The network as historical environment",
+          "path": "./data/blocks/X.2.5-b04.json",
+          "bytes": 702,
+          "sha256": "ed5eb08e493be920b188aaee9cb259e1452d61df42e4a8e447ce8d9d91053d52"
+        }
+      ]
+    },
+    {
       "id": "X.5.10",
       "title": "Global Fandom, Cultural Policy, Intellectual Property, Cultural Controversies, and the Evolution of Hallyu",
       "kicker": "CULTURE ACROSS BORDERS",
@@ -276,5 +666,5 @@
       ]
     }
   ],
-  "sampleWordCount": 4488
+  "sampleWordCount": 8672
 }

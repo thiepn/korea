@@ -44,3 +44,17 @@ assert total_words>=4000
 print(f'PASS original structure: {len(arch["parts"])} Parts / {chapters} Chapters / {len(ids)} Subchapters')
 print('PASS reserved virtual addresses: 10,000 Section and 100,000 terminal slots')
 print(f'PASS corpus integrity: {manifest["count"]} sample articles, {blocks} SHA-256 verified fetchable blocks, {total_words:,} words')
+
+# Batch A exploration metadata derives only from available canonical IDs and source prose.
+explore=json.loads((R/'data/explore.json').read_text())
+search=json.loads((R/'data/search-index.json').read_text())
+assert len(explore['collections'])>=6
+assert len({c['slug'] for c in explore['collections']})==len(explore['collections'])
+assert all(c['ids'] and len(set(c['ids']))==len(c['ids']) and set(c['ids'])<=ids for c in explore['collections'])
+assert search['articleCount']==manifest['count']
+assert {a['id'] for a in search['articles']}=={a['id'] for a in manifest['articles']}
+for item in search['articles']:
+ original=json.loads((R/'data/articles'/f"{item['id']}.json").read_text())
+ assert len(item['blocks'])==len(original['blocks'])
+ assert [b['text'] for b in item['blocks']]==[' '.join(b['paragraphs']) for b in original['blocks']]
+print(f'PASS Batch A exploration: {len(explore["collections"])} canonical trails, full-text index over {len(search["articles"])} articles')

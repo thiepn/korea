@@ -1,0 +1,40 @@
+{
+  "id": "X.2.5",
+  "title": "The Knowledge Economy, Broadband, ICT, and Korea's Digital Transformation",
+  "kicker": "WIRES AND WORLDS",
+  "description": "Broadband and digital industries transformed everyday routines as well as economic aspirations.",
+  "blocks": [
+    {
+      "id": "X.2.5:b01",
+      "title": "A networked transformation",
+      "paragraphs": [
+        "South Korea’s digital transformation cannot be reduced to a single invention or famous company. It emerged through a combination of industrial capability, public policy, telecommunications infrastructure, education, consumer demand, and global technological change. Broadband networks were especially visible because they changed the practical experience of reaching information, communicating, and participating in commercial life.",
+        "Fast access mattered differently to different people. For businesses it enabled new services and connected operations; for households it changed entertainment, learning, and communication. The network became part of the everyday setting in which people worked and formed relationships, not merely a technical achievement presented in national statistics."
+      ]
+    },
+    {
+      "id": "X.2.5:b02",
+      "title": "Devices, services, and everyday habits",
+      "paragraphs": [
+        "The spread of connected computers and later mobile devices changed the geography of participation. A service no longer required every user to travel to a particular office, shop, or gathering place. New forms of social interaction and digital entertainment developed alongside online shopping, electronic administration, and changing expectations of availability.",
+        "Yet connectivity does not automatically produce equal experience. Age, income, region, disability, and familiarity with technology shape how people encounter digital services. The same shift that improves access for one person may make an established practice harder for another. A full history must include these uneven consequences."
+      ]
+    },
+    {
+      "id": "X.2.5:b03",
+      "title": "Industry and international competition",
+      "paragraphs": [
+        "Telecommunications networks interacted with industries making electronic components, devices, software, and services. Firms competed globally, while public institutions debated the relationship between infrastructure and competitiveness. The success of a digital ecosystem depended on standards, supply chains, investment, and the capacity to develop and retain skilled workers.",
+        "In an export-oriented economy, technological innovation creates opportunities but also exposure to international markets. Demand changes rapidly, competition is intense, and leadership in one sector does not guarantee success in every other. This makes the digital transformation a continuing process rather than a completed national achievement."
+      ]
+    },
+    {
+      "id": "X.2.5:b04",
+      "title": "The network as historical environment",
+      "paragraphs": [
+        "Later generations may treat persistent connectivity as ordinary, forgetting how recently many familiar routines appeared. A historical approach asks what people did before they could search, message, purchase, or navigate instantly, and how these practices changed family life and expectations of public institutions.",
+        "The story reaches beyond economic growth. It branches into education, labor, media, urban life, cultural export, privacy, and the politics of digital platforms. The history of wires and screens is ultimately a history of people reorganizing their lives around new possibilities and new constraints."
+      ]
+    }
+  ]
+}
