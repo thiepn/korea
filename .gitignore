@@ -1,5 +1,12 @@
 __pycache__/
 *.py[cod]
-.DS_Store
-.env*
+.playwright/
 node_modules/
+.DS_Store
+# Build outputs, generated from editable article sources on Cloudflare Pages.
+dist/
+data/blocks/
+data/packs/
+data/search/
+data/search-index.json
+data/content-manifest.json

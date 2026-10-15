@@ -1,0 +1,48 @@
+{
+  "id": "VI.4.1",
+  "title": "Written Korean before Hangul: Classical Chinese, Idu, Hyangchal, and Gugyeol",
+  "kicker": "DEEPER INTO THE ARCHIVE",
+  "description": "An extended journey through VI.4.1 in the original KOREA chronology.",
+  "blocks": [
+    {
+      "id": "VI.4.1:b01",
+      "title": "Before a new alphabet",
+      "paragraphs": [
+        "The creation of Hangul did not mark the beginning of written culture in Korea. Before the fifteenth century, educated people used Classical Chinese, while various practices adapted Chinese characters to represent elements of Korean language and grammar. These methods served different purposes and developed within different textual environments. The challenge is to avoid imagining that one consistent system performed every function or that the absence of a separate alphabet meant an absence of sophisticated literacy.",
+        "Writing connected Korean elites to a wider East Asian world of administration, scholarship, diplomacy, and literature. At the same time, the relationship between the grammar of spoken Korean and the conventions of Classical Chinese created practical problems for representing Korean speech. These problems encouraged ingenuity. Idu, hyangchal, and gugyeol are often introduced together, but their uses and the surviving evidence associated with them must be considered separately."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VI.4.1:b02",
+      "title": "Words, grammatical marks, and borrowed signs",
+      "paragraphs": [
+        "A character can be used for meaning, for a reading, or as part of a conventional notation whose function is understood through context. Such flexibility underpinned different attempts to work with Korean in a character-based writing environment. Learning how those systems operated is a reminder that writing history is not merely the story of one script replacing another. It also concerns people adapting tools already available to them.",
+        "Some systems are especially associated with particular genres or educational practices. A line of notation used to assist the reading of a Chinese text presents a different problem from an attempt to record a Korean poem. The differences matter because the historical question changes with the purpose of writing. What did the writer want to preserve, clarify, or communicate, and to whom was the resulting text expected to make sense?"
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.1:b03",
+      "title": "The social life of writing",
+      "paragraphs": [
+        "Texts moved through offices, schools, temples, households, and networks of exchange. Writing could support official memory, scholarship, religious instruction, correspondence, and literary expression. Access to different kinds of literacy was unequal, and the surviving corpus tends to favor institutions capable of producing and preserving manuscripts or printed books. The historical record consequently presents a partial view of who wrote and who read.",
+        "A broader history can place individual signs and manuscripts alongside the social institutions that made them useful. Calligraphy, paper, printing, education, recordkeeping, and patronage all influenced what remained legible across generations. The materials of writing mattered as much as abstract systems of transcription. A surviving note can reveal a practice, but it seldom tells us how many people beyond its immediate setting used the same method."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "VI.4.1:b04",
+      "title": "The road toward Hunminjeongeum",
+      "paragraphs": [
+        "When Sejong’s court developed a new script, it was entering an existing and varied written landscape. Earlier methods had demonstrated both the possibilities and the difficulties of using Chinese characters for Korean linguistic purposes. A new system invited different solutions, especially to the representation of sound. But its appearance did not instantaneously end older writing practices or the prestige of Classical Chinese in elite settings.",
+        "This creates a natural reading pair with the next canonical subject, VI.4.2. Together, they form a longer story about adaptation, innovation, and the political and social settings of literacy. The first asks how Korean had been represented in writing; the second asks why a new script was developed and how it was explained. Neither is complete without attention to the longer history of education, publication, and language use."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ]
+}

@@ -18,10 +18,4 @@ for slug,title,description,kicker,ids in collections:
  assert len(set(ids))==len(ids) and all(id in canonical for id in ids),slug
  trails.append(dict(slug=slug,title=title,description=description,kicker=kicker,ids=ids))
 (ROOT/'data/explore.json').write_text(json.dumps({'version':1,'collections':trails},ensure_ascii=False,indent=2)+'\n')
-search=[]
-for item in manifest['articles']:
- article=json.loads((ROOT/'data/articles'/f"{item['id']}.json").read_text())
- blocks=[{'title':b['title'],'text':' '.join(b['paragraphs'])} for b in article['blocks']]
- search.append({'id':item['id'],'title':article['title'],'description':article['description'],'blocks':blocks})
-(ROOT/'data/search-index.json').write_text(json.dumps({'version':1,'articleCount':len(search),'articles':search},ensure_ascii=False,separators=(',',':')))
-print('PASS collections',len(trails),'and full-text sample index',len(search),'articles')
+print('PASS exploration: 6 original canonical pathways; v2 searchable content is compiled separately by build_corpus.py')
