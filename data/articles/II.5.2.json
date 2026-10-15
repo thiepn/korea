@@ -1,0 +1,36 @@
+{
+  "id": "II.5.2",
+  "title": "Jolbon, the Yalu Basin, and Goguryeo's Geographic Core",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Jolbon, the Yalu Basin, and Goguryeo's Geographic Core, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "II.5.2:b01",
+      "title": "The landscape of Jolbon",
+      "paragraphs": [
+        "The river basins and uplands associated with early Goguryeo shaped the opportunities and difficulties faced by communities establishing regional authority. Rivers could connect settlements while mountain routes complicated movement and supplied defensible places. The location of a political core mattered for communication, agriculture, and military maneuver, but geography alone did not produce a kingdom. People had to maintain alliances, protect food supplies, and turn local leadership into something that neighbors recognized."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "II.5.2:b02",
+      "title": "Fortified centers and uncertain borders",
+      "paragraphs": [
+        "Defended sites make an important impression in the archaeological record, yet a fortress can serve different functions: protection, a storehouse, a temporary refuge, or a base for political expansion. Early Goguryeo should not be mapped as if it immediately possessed the territorial administration of its later centuries. Its relationships with nearby communities evolved amid changing regional politics and contact with the Han frontier. Reading these shifts requires attention to relative chronology instead of placing all later institutions at the moment of foundation."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "II.5.2:b03",
+      "title": "Geography became political memory",
+      "paragraphs": [
+        "Foundation narratives connect places with remembered leaders and movements, creating a landscape of legitimacy. Such stories can reveal how later courts understood their beginnings even where precise events cannot be independently confirmed. The Yalu basin and associated sites consequently belong to two overlapping histories: the material development of an early polity and the traditions through which people gave that development meaning. Both help explain why the region retained symbolic importance."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

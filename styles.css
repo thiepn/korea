@@ -37,3 +37,6 @@
 @media(max-width:760px){.header-search{min-width:39px;width:39px;flex:0 0 39px}.header-brand{min-width:0}.header-icon-btn{flex:0 0 30px}.app-header{gap:8px}.wordmark{font-size:22px}.header-spacer{display:none}}
 @media(max-width:350px){.wordmark{font-size:19px}.header-brand{gap:3px}.header-search{flex:0 0 35px;min-width:35px;width:35px}.app-header{padding:0 10px}}
 .planned-return{margin-top:25px;font-size:11px;padding:9px 13px}
+
+/* Batch C: reserved passage height keeps long sessions stable without retaining all prose nodes. */
+.passage-placeholder{display:block;contain:layout paint;min-height:1px;pointer-events:auto}

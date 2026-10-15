@@ -1,0 +1,36 @@
+{
+  "id": "X.3.1",
+  "title": "Schools, Hagwons, the CSAT, University Competition, and Education Society",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Schools, Hagwons, the CSAT, University Competition, and Education Society, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "X.3.1:b01",
+      "title": "Education as a family project",
+      "paragraphs": [
+        "South Korea's competitive education environment links schools, private academies, the CSAT, universities, and household expectations. Educational investment reflects both the value attached to learning and anxiety over future opportunities. Experiences differ greatly by region, income, school, and family circumstances. The term hagwon covers a diverse private education landscape, and its social meaning cannot be captured simply by treating all after-school lessons as identical."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "X.3.1:b02",
+      "title": "Competition changes everyday time",
+      "paragraphs": [
+        "Preparing for examinations shapes routines, commutes, spending, sleep, and relationships among students and parents. Some learners find structure and opportunity; others experience heavy pressure or restricted choices. Public policy debates concern equal access, curriculum, entrance systems, and the limits of competitive ranking. These debates show that education is an economic and social institution as well as a system of classrooms."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "X.3.1:b03",
+      "title": "Success and inequality can coexist",
+      "paragraphs": [
+        "Strong educational outcomes do not guarantee equal starting conditions. Families differ in resources, information, and the time available to support children. Elite credentials may influence recruitment and social networks, reinforcing the perceived stakes of examinations. An expansive treatment should study the aspirations behind educational effort while also asking whose efforts are recognized and whose paths remain constrained."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

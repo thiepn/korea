@@ -163,3 +163,15 @@ The importer verifies that IDs exist in the canonical source, prevents edits to 
 The starting Batch B import file lives in `content/imports/batch_b_editorial.jsonl`; its ten published new texts are also preserved under `data/articles`. All texts are original *illustrative editorial narratives*, not source-verified academic accounts.
 
 **Scale boundary:** The compiler currently produces static files for Cloudflare Pages. When the pack/shard count approaches the Pages Free file cap, transition the same content-addressed artifacts to R2 without changing canonical IDs. Do not commit generated `dist`, pack or shard files as source; they are recreated by the Cloudflare build.
+
+## Batch C — expanded original corpus and scalable reader
+
+Batch C adds 50 human-authored editorial history samples (77 total entries, 258 passages, 24,137 original narrative words) without modifying the locked v1.1 canonical archive. New material has a homepage shelf and the seventh cross-era trail. These are explicitly labeled unverified editorial demonstrations, **not** completed historical research.
+
+- Edit the source Markdown in `content/editorial/batch_c_volume_01.md`; run `python3 scripts/prepare_editorial.py <markdown> <import.jsonl>` **before** first import of an unpublished ID. The import tool deliberately refuses to overwrite published entries.
+- Review the resulting `content/imports/batch_c_editorial.jsonl`, then `python3 scripts/ingest.py <import.jsonl> --dry-run` followed by the deliberate import.
+- `python3 scripts/build_release.py` rebuilds deterministic pack and adaptive search assets in `dist/`. Do not commit `dist/` or generated `data/packs/` and `data/search/`.
+- `python3 scripts/stress_corpus.py` tests one million-plus **synthetic** words in an isolated temporary directory without publishing them; synthetic numbers must never be counted as historical content.
+- `python3 tests/batch_c_pipeline.py` and `python3 tests/batch_c_journeys.py` verify source identities and actual Chromium DOM behavior with in-memory assets.
+
+See `BATCH_C_REPORT.md` for measured metrics and caveats.

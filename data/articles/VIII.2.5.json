@@ -1,0 +1,36 @@
+{
+  "id": "VIII.2.5",
+  "title": "The Gapsin Coup of 1884 and the Radical Reform Project",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to The Gapsin Coup of 1884 and the Radical Reform Project, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VIII.2.5:b01",
+      "title": "A short coup with long arguments",
+      "paragraphs": [
+        "The Gapsin Coup of 1884 sought rapid political change amid debates about reform and foreign influence. Its short duration can make it appear as a brief interruption, but the event exposed fundamental disagreements over institutions, sovereignty, social hierarchy, and the pace of transformation. Its actors were embedded in court networks and regional diplomacy. Understanding their program requires attention both to what they intended and to the limits of their support."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VIII.2.5:b02",
+      "title": "Reform under the shadow of rival empires",
+      "paragraphs": [
+        "Korea's political future was contested within a Northeast Asian environment involving Qing and Japanese influence. Domestic reformers could not act as though foreign military and diplomatic pressures were irrelevant. Their plans were interpreted by opponents through questions of loyalty, legitimacy, and outside assistance. That entanglement complicates simple stories of modernizing heroes and conservative enemies; historical choices carried different risks for different groups."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.2.5:b03",
+      "title": "Failure and its memory",
+      "paragraphs": [
+        "The coup's aftermath reshaped political possibilities and influenced later interpretations of reform. Memoirs and histories written afterward often impose clear motives on participants whose immediate options were uncertain. A careful narrative follows the event through preparation, action, suppression, and remembrance, asking which voices survived and which were excluded from the record."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

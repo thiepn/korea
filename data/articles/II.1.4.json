@@ -1,0 +1,36 @@
+{
+  "id": "II.1.4",
+  "title": "Archaeology and the Material Background of Gojoseon",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Archaeology and the Material Background of Gojoseon, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "II.1.4:b01",
+      "title": "Material traces and political names",
+      "paragraphs": [
+        "Gojoseon appears in written traditions, but those traditions do not function like a modern administrative archive. Archaeologists study settlement, bronze objects, burials, and exchange across the peninsula and adjacent continental regions to understand the world from which early states emerged. The difficult problem is identifying which material pattern belongs to which named polity. A large burial might suggest elite competition without identifying the ruler who ordered it. A regional cluster of artifacts may signal contacts rather than clearly bounded sovereignty. The evidence becomes most revealing when textual names and archaeological patterns are compared without forcing one to prove the other."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "II.1.4:b02",
+      "title": "Power left indirect signatures",
+      "paragraphs": [
+        "Political organization can alter landscapes through fortifications, craft production, routes, and unequal access to valuable objects. Yet none of these automatically establishes a kingdom. Shared technologies may cross political boundaries; rulers may control some settlements more securely than others. Reconstruction works by assembling probabilities from many kinds of traces. The history of Gojoseon thus includes the history of the questions historians ask: what counted as rule, which regions communicated, and where surviving records fall silent."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "II.1.4:b03",
+      "title": "A changing map of early northeastern Asia",
+      "paragraphs": [
+        "Modern maps use solid lines to imply clear territory. Early political authority was more likely experienced through alliances, tributary expectations, strongholds, kinship, and control of travel corridors. A community could be connected to several larger networks at the same time. Seeing this fluid setting helps explain why foundation narratives, later diplomatic accounts, and finds from the ground do not always align. Rather than treating the contradictions as an embarrassment, the reader can use them to distinguish kinds of historical explanation."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

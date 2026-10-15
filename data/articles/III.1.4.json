@@ -1,0 +1,36 @@
+{
+  "id": "III.1.4",
+  "title": "Sosurim and the Reconstruction of the Goguryeo State",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Sosurim and the Reconstruction of the Goguryeo State, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "III.1.4:b01",
+      "title": "Reconstructing a state after crisis",
+      "paragraphs": [
+        "The reign of Sosurim is commonly discussed as a period of institutional consolidation in Goguryeo. Accounts associate it with Buddhist recognition, legal development, and educational institutions. Each measure makes sense within a broader problem: how could a kingdom organize a growing realm after military setbacks and internal strains? Institutions require officials who know how to apply them, resources to maintain them, and local elites who will cooperate. A reform recorded by a chronicle is therefore a starting point for investigation, not proof that practice changed everywhere immediately."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "III.1.4:b02",
+      "title": "Religion and political order",
+      "paragraphs": [
+        "Formal support for Buddhism could connect Goguryeo with transregional ideas and institutions. Monks, texts, and ritual practices moved along routes that were also used by diplomats and traders. A royal decision to support a faith did not necessarily erase older religious customs; multiple practices could coexist. The significance of religious change lies partly in how courts used new languages of merit and authority while adapting them to existing social relations."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "III.1.4:b03",
+      "title": "Education and law as durable projects",
+      "paragraphs": [
+        "Teaching and written rules were tools for reproducing administrative knowledge. They could help define office, status, and expected conduct, but the appearance of institutions in sources does not tell us how many people attended schools or obtained legal protection. Sosurim's historical reputation highlights the distance between founding an institution and making it routine. That distance is itself an important subject for an extended political history."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

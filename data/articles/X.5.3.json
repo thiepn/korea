@@ -1,0 +1,36 @@
+{
+  "id": "X.5.3",
+  "title": "K-pop: Idol Production, Agencies, Fandom, Digital Platforms, and Global Expansion",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to K-pop: Idol Production, Agencies, Fandom, Digital Platforms, and Global Expansion, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "X.5.3:b01",
+      "title": "An industry organized around performance",
+      "paragraphs": [
+        "K-pop's global rise emerged from the interaction of music production, agencies, training systems, broadcasting, digital distribution, and fan communities. No single artist or company explains its development. The industry built on earlier domestic popular music histories while adapting to changing regional and international markets. Performance and visual presentation became linked to sophisticated organizational practices, but the work of producing those performances often remained less visible than the finished spectacle."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "X.5.3:b02",
+      "title": "Fans are participants, not only customers",
+      "paragraphs": [
+        "Fandoms translate, archive, discuss, organize events, support releases, and build online communities across borders. Their activities shape how music circulates and how cultural identities are negotiated. Digital platforms broadened reach while changing the economics of attention and the relationship between agencies and audiences. The movement of Korean music abroad was therefore not simply an export measured by sales; it involved active reinterpretation in many local settings."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "X.5.3:b03",
+      "title": "Global popularity invites difficult questions",
+      "paragraphs": [
+        "International success brings scrutiny of labor, contracts, mental health, cultural representation, and unequal power within entertainment institutions. The industry's achievements and its criticisms belong in the same history. Rather than presenting the Korean Wave as inevitable national destiny, an expansive account follows changing technologies, business strategies, artistic choices, and the efforts of participants who made the music meaningful."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

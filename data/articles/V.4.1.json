@@ -1,0 +1,36 @@
+{
+  "id": "V.4.1",
+  "title": "The Jeonsigwa Land-Allocation System and the Political Economy of Office",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to The Jeonsigwa Land-Allocation System and the Political Economy of Office, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "V.4.1:b01",
+      "title": "Land rights and official reward",
+      "paragraphs": [
+        "The Jeonsigwa arrangements are a central topic in the political economy of Goryeo because they connected office, status, and claims on agricultural production. It is important not to assume that an allocation in a legal description always meant outright private ownership of the soil. Rights could concern receipts or obligations defined by political arrangements. Historians compare institutional prescriptions with later accounts of estates and fiscal tensions to understand how the system operated and changed."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "V.4.1:b02",
+      "title": "The countryside underneath the regulation",
+      "paragraphs": [
+        "A household growing crops might confront multiple claims on its surplus. Local supervisors, estate interests, monasteries, and officials could be involved in different circumstances. The perspective of a government document differs from that of a farmer who measured obligations against seed reserves and family needs. Research on land institutions gains depth when fiscal categories are linked to work, storage, tenancy, and the rhythms of the agricultural year."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "V.4.1:b03",
+      "title": "Change through practice",
+      "paragraphs": [
+        "Land systems are often described as a sequence of formal reforms, but pressure can accumulate gradually. Political careers, elite wealth, tax expectations, and expanding estates may alter the relationship between rule and reality. An institutional history therefore asks which regulations survived in practice, who benefited from change, and which groups carried its burdens. It is a story of social bargaining, not only of royal decrees."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

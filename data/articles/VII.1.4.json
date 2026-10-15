@@ -1,0 +1,36 @@
+{
+  "id": "VII.1.4",
+  "title": "Between Ming and Later Jin: Gwanghaegun's Diplomatic Strategy",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Between Ming and Later Jin: Gwanghaegun's Diplomatic Strategy, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VII.1.4:b01",
+      "title": "Diplomacy between changing powers",
+      "paragraphs": [
+        "Gwanghaegun governed while the Ming order faced growing pressure from Later Jin. Joseon had obligations and memories tied to Ming assistance during the Japanese invasions, but it also had to consider the immediate danger posed by northern military developments. Diplomacy in this setting demanded difficult judgments about risk. Calling a policy balanced or opportunistic after the fact can hide the uncertainty faced by officials who could not know how regional power would evolve."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VII.1.4:b02",
+      "title": "Loyalty and survival were not simple opposites",
+      "paragraphs": [
+        "Arguments at court were framed through moral and diplomatic principles, but they also concerned the safety of subjects and the state's ability to recover from war. Officials differed over the weight of inherited allegiance and practical security. Later factional struggles influenced how the reign was remembered. A historian must read policy choices in their contemporary setting rather than interpreting them only through the fate of the ruler."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VII.1.4:b03",
+      "title": "Messages carried strategic meaning",
+      "paragraphs": [
+        "Envoys, military assistance, records of audience, and the wording of correspondence all mattered. A gesture might be read differently by Ming, Later Jin, and Joseon officials. The geography of borders and the speed of news added uncertainty. These practical dimensions turn diplomacy into a history of people making consequential choices with incomplete information."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

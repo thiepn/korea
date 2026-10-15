@@ -1,0 +1,36 @@
+{
+  "id": "IV.1.5",
+  "title": "Deportation, Refugees, Resettlement, and Forced Migration",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Deportation, Refugees, Resettlement, and Forced Migration, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "IV.1.5:b01",
+      "title": "The costs of political reordering",
+      "paragraphs": [
+        "The wars and conquests of the seventh century displaced people across parts of the Korean peninsula and into territories controlled by Tang and Silla. Political histories record rulers, commanders, and agreements more readily than the experiences of families who moved under coercion or fled danger. Population movement could be used as an instrument of control, depriving former strongholds of inhabitants and redistributing labor or military manpower. Yet every category such as deportee or refugee conceals diverse experiences and destinations."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IV.1.5:b02",
+      "title": "New communities formed from disruption",
+      "paragraphs": [
+        "Resettled people carried languages, skills, religious practices, kinship ties, and memories of former places. Some entered unfamiliar institutions or depended on new patrons. Others attempted to restore political communities or maintain regional solidarity. Archaeological evidence may illuminate changing settlement patterns but rarely identifies each displaced individual. The history of conquest is incomplete unless it follows how people rebuilt daily life amid uncertainty and sometimes preserved identities not recognized by their new rulers."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IV.1.5:b03",
+      "title": "Memory beyond the victorious court",
+      "paragraphs": [
+        "Chronicles written in later states could celebrate unification or emphasize resistance, and each emphasis shaped what later readers remembered. Forced migration complicates a triumphant account by exposing losses and continuities that political boundaries conceal. The same event could appear as a strategic victory from one court and as a lasting rupture from another community. KOREA's expansive narrative should keep these perspectives visible together."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

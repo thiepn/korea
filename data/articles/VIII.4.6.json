@@ -1,0 +1,36 @@
+{
+  "id": "VIII.4.6",
+  "title": "Railways, Tramways, Electricity, Telegraphs, Telephones, and Infrastructure",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Railways, Tramways, Electricity, Telegraphs, Telephones, and Infrastructure, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VIII.4.6:b01",
+      "title": "Infrastructure altered experience of distance",
+      "paragraphs": [
+        "Railways, tramways, electric systems, and new communications facilities became visible signs of transformation in the late nineteenth and early twentieth centuries. The novelty of the machinery should not hide questions of ownership, finance, foreign concessions, and unequal access. Building a network required routes through actual communities, and those routes could redistribute commercial opportunity. Speed became politically consequential when it changed how governments, companies, and people reached one another."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VIII.4.6:b02",
+      "title": "New systems entered old streets",
+      "paragraphs": [
+        "A tramway or electric service was experienced through noise, lighting, fares, maintenance, labor, and disruption to established habits. Operators needed trained workers and reliable supplies. Public enthusiasm and opposition could coexist. Urban infrastructure was not simply imported technology; its functions had to be negotiated within Korean cities and under shifting legal arrangements."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.4.6:b03",
+      "title": "Modernization did not guarantee autonomy",
+      "paragraphs": [
+        "Technological development could strengthen state capacity while depending on foreign investment, expertise, or political leverage. The Korean Empire's infrastructure history illustrates the difference between possessing modern systems and controlling the conditions under which they were built. A fuller narrative examines who made decisions, who paid, and who benefited rather than treating a list of installations as a complete measure of progress."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

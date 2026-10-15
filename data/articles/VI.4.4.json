@@ -1,0 +1,36 @@
+{
+  "id": "VI.4.4",
+  "title": "The 1446 Promulgation and the Hunminjeongeum Haerye",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to The 1446 Promulgation and the Hunminjeongeum Haerye, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VI.4.4:b01",
+      "title": "Announcing a script to the kingdom",
+      "paragraphs": [
+        "The promulgation of Hunminjeongeum in 1446 and the explanatory tradition associated with the Haerye gave the new writing system a public rationale. The project responded to difficulties of representing Korean speech through inherited written practices. The explanation of letters was also an intellectual statement about how speech sounds could be analyzed and represented. Its originality is best understood through close attention to the system's design, rather than a vague claim that writing became easy overnight."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VI.4.4:b02",
+      "title": "Design meets established institutions",
+      "paragraphs": [
+        "A new script entered a world in which Classical Chinese and related practices held prestige within government and elite scholarship. Different groups had different reasons to learn, use, or resist change. The existence of a writing system does not by itself determine literacy rates or the speed of adoption. Manuscripts and later printed materials show some of the settings in which Hangul proved useful, while also revealing that older writing systems continued beside it."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.4:b03",
+      "title": "A long afterlife of changing purposes",
+      "paragraphs": [
+        "Hangul eventually became central to Korean written culture, but its social meanings were not fixed at the moment of its creation. Religious works, literature, private correspondence, and popular reading involved different users and conventions over time. A full history follows both the ingenious original formulation and the changing circumstances that made its possibilities visible to successive generations."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

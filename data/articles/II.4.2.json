@@ -1,0 +1,36 @@
+{
+  "id": "II.4.2",
+  "title": "Buyeo: Origins and Political Development",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Buyeo: Origins and Political Development, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "II.4.2:b01",
+      "title": "Buyeo in the northern political world",
+      "paragraphs": [
+        "Buyeo belonged to a landscape of interconnected communities in northeastern Asia whose rulers appeared in later historical descriptions. Those texts offer information about kingship, custom, and external relations, but their categories were shaped by observers outside the polity. Historians compare the accounts with archaeology and the geography of northeastern river basins. A ruler's title or tribute mission does not alone describe how much territory could be governed or what daily obligations local communities experienced."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "II.4.2:b02",
+      "title": "Royal authority and aristocratic partners",
+      "paragraphs": [
+        "Early monarchy frequently relied on powerful families whose resources and loyalties could not simply be commanded from a distant court. Accounts of Buyeo invite investigation into how ritual, military leadership, and aristocratic participation maintained political order. Ceremonies may have expressed more than private religion: they could reinforce communal boundaries and shared recognition of authority. Yet interpreting every custom as an unchanging national tradition ignores the possibility of regional and chronological variation."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "II.4.2:b03",
+      "title": "A northern history connected to Korea",
+      "paragraphs": [
+        "Buyeo mattered partly because later Goguryeo foundation traditions and political claims engaged with it. Such connections make the polity essential to a history of the Korean kingdoms, but they should not erase Buyeo's own setting and trajectory. The northern world contained peoples and powers with overlapping histories, not a single straightforward succession. An expansive account of Buyeo therefore considers its institutions, neighbors, ecology, and memory together."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

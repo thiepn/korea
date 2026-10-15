@@ -1,0 +1,36 @@
+{
+  "id": "VIII.1.2",
+  "title": "Busan and Wonsan: The First Treaty-Port Communities",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Busan and Wonsan: The First Treaty-Port Communities, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VIII.1.2:b01",
+      "title": "Ports where different legal worlds met",
+      "paragraphs": [
+        "Busan and Wonsan developed as early treaty-port communities in a period when Korea's relationships with foreign powers were being reshaped. Opening a port affected customs practices, transport, housing, and the authority exercised over merchants and residents. Treaty provisions could limit Korean officials' control over certain foreign activities. But everyday contact also involved local workers, boatmen, brokers, and people whose livelihoods depended on services to shipping."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VIII.1.2:b02",
+      "title": "Trade entered an existing economy",
+      "paragraphs": [
+        "Port traffic did not create commerce from nothing. It connected new forms of foreign participation with established regional markets and transport routes. Some products gained additional buyers, while others faced pressures from altered prices and competition. The economic effects were not uniform across households. A port's growth could create jobs and inequalities simultaneously, revealing how international agreements reached the streets and workshops of nearby communities."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.1.2:b03",
+      "title": "Urban change and sovereignty",
+      "paragraphs": [
+        "Customs revenue, legal jurisdiction, policing, and the handling of disputes were political questions as much as technical problems. Ports became places where sovereignty was tested in practical decisions. Buildings and trade statistics show part of this transformation, but petitions and diplomatic conflicts can reveal the tensions beneath it. Studying the port as a lived setting gives treaty history a human scale."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

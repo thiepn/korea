@@ -1,0 +1,36 @@
+{
+  "id": "VI.2.3",
+  "title": "The Three Offices: Censorate, Remonstrance, and Public Opinion",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to The Three Offices: Censorate, Remonstrance, and Public Opinion, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VI.2.3:b01",
+      "title": "Officials paid to disagree",
+      "paragraphs": [
+        "Joseon's censorial and remonstrance institutions expressed an ideal that governing required criticism and moral scrutiny. Certain officials could challenge decisions, scrutinize behavior, or bring abuses to the court's attention. The existence of such offices did not create a modern opposition party, nor did it guarantee that criticism was safe. Their authority depended on established political understandings, the character of particular kings, and the wider balance among court factions."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VI.2.3:b02",
+      "title": "Words could become political action",
+      "paragraphs": [
+        "A memorial could question a policy, but it might also elevate the speaker's reputation, defend colleagues, or threaten a rival's position. Arguments about moral principle were therefore embedded in social and institutional relationships. Studying individual disputes alongside the official duties reveals the possibilities and limitations of remonstrance. The same institution could support conscientious restraint on power and intense factional conflict."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VI.2.3:b03",
+      "title": "Court opinion had boundaries",
+      "paragraphs": [
+        "Scholar-official debate did not represent every subject of the kingdom equally. Many people had no direct route into central discussion. Issues affecting farmers, artisans, and dependents could reach the court through reports or petitions shaped by intermediaries. An expansive account of government should ask whose grievances were made visible and whose were absent. This question helps connect the celebrated ideal of moral public rule to the unequal society in which it operated."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

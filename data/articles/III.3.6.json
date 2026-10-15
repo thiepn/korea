@@ -1,0 +1,36 @@
+{
+  "id": "III.3.6",
+  "title": "Beopheung: Law, Buddhism, and Centralized Kingship",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Beopheung: Law, Buddhism, and Centralized Kingship, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "III.3.6:b01",
+      "title": "Why Buddhism mattered to Beopheung",
+      "paragraphs": [
+        "The recognition of Buddhism under Beopheung belongs to Silla's longer process of centralization. A royal court might see advantages in institutions that offered literate networks, new ceremonial forms, and connections to other kingdoms. Yet a law or royal endorsement did not immediately make every household Buddhist. Religious practices were embedded in local relationships and earlier sacred landscapes. The transformation was gradual and involved negotiation among rulers, aristocrats, religious specialists, and ordinary communities."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "III.3.6:b02",
+      "title": "Law and the vocabulary of kingship",
+      "paragraphs": [
+        "Central authority depends on offices, ranks, and predictable expectations. Reform could aim to make elites legible to the court while leaving local inequalities in place. The historical record often preserves formal decisions more clearly than their practical enforcement. Beopheung's reign therefore raises the question of how royal ambitions reached villages and aristocratic households. A decree can announce a new order; sustaining that order requires ongoing political work."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "III.3.6:b03",
+      "title": "Stories of conversion and resistance",
+      "paragraphs": [
+        "Accounts of early Buddhism sometimes use dramatic episodes to communicate the cost of change and the virtue of supporters. Such narratives deserve careful reading as part of religious memory, not simply as neutral incident reports. They reveal what later communities considered meaningful about the transition. The wider story combines state-building, cultural contact, and evolving ritual life; it is richer than a single moment when an official religion was adopted."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

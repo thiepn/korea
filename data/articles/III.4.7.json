@@ -1,0 +1,36 @@
+{
+  "id": "III.4.7",
+  "title": "Iron, Agriculture, Craft, and the Gaya Economy",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Iron, Agriculture, Craft, and the Gaya Economy, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "III.4.7:b01",
+      "title": "Iron in Gaya's economic landscape",
+      "paragraphs": [
+        "The Gaya polities are often associated with iron production and exchange. But the presence of iron objects does not automatically tell us how mines, smelting sites, and workshops were organized. Production required fuel, ore or other inputs, skill, transport, and food for specialized workers. Regional differences mattered. Studying the entire chain can clarify why some communities gained influence and how commercial relationships developed across the southern peninsula and adjoining seas."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "III.4.7:b02",
+      "title": "Trade without a single Gaya state",
+      "paragraphs": [
+        "The label Gaya refers to changing networks of polities rather than a continuously unified kingdom. Different centers could compete or cooperate in access to goods and routes. Iron could move as practical tools, military equipment, or valued products within elite exchange. A weapon found far from its likely production region might signal commerce, gift-giving, or political ties. It does not by itself identify the status of the people involved."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "III.4.7:b03",
+      "title": "Workplaces and households",
+      "paragraphs": [
+        "Large-scale craft production was linked to the labor and routines of households that appear less often in political histories. Furnaces and metal artifacts are dramatic evidence, yet farming, pottery, transport, and food preparation sustained the workshops. A balanced narrative of Gaya's economy explains how skilled work depended on wider communities, and how changes in demand could shape both political centers and everyday life."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "V.1.2",
+  "title": "Taejo's Royal Strategy: Marriage, Regional Elites, and the Ten Injunctions",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Taejo's Royal Strategy: Marriage, Regional Elites, and the Ten Injunctions, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "V.1.2:b01",
+      "title": "Alliances behind reunification",
+      "paragraphs": [
+        "Taejo's achievement after 936 depended on managing regional powers whose loyalties had been forged through years of conflict. Marriage alliances, negotiated arrangements, and recognition of local influence were methods for linking these groups to a new dynasty. This was not a clean replacement of every local authority by officials appointed from one capital. It was a gradual effort to make political relationships more durable and less dependent on wartime circumstances. Studying the founding settlement reveals why a victory on the battlefield could be only the beginning of creating a unified government."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "V.1.2:b02",
+      "title": "The Ten Injunctions as political memory",
+      "paragraphs": [
+        "The Ten Injunctions associated with Taejo occupy an important place in the way later Goryeo writers remembered the dynasty's founding priorities. As with other transmitted political texts, their circumstances and historical use require attention to later preservation and interpretation. They invite discussion of royal conduct, institutions, Buddhism, and the management of powerful regions. A reader should separate what the text recommends from proof that every subsequent ruler followed it. Advice itself can reveal the tensions a political community believed it needed to manage."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "V.1.2:b03",
+      "title": "Governing with inherited differences",
+      "paragraphs": [
+        "Communities that entered the Goryeo realm did not suddenly acquire identical customs or administrative relationships. Regional households, temples, landholders, and local leaders retained resources that the monarchy needed. The founding generation faced the problem of recognizing useful partners without allowing any single coalition to dominate royal succession. That balance helps explain why early Goryeo politics involved recurrent contests over kinship, appointments, and the court's access to provincial society."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

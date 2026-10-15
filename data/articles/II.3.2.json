@@ -1,0 +1,36 @@
+{
+  "id": "II.3.2",
+  "title": "Lelang: Capital, Administration, and Colonial Government",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Lelang: Capital, Administration, and Colonial Government, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "II.3.2:b01",
+      "title": "Lelang as an administrative landscape",
+      "paragraphs": [
+        "Lelang was more than an abstract commandery name. It refers to a complex colonial administrative presence whose significance can be approached through official institutions, graves, objects, and changing connections with local societies. Written sources provide names and structures but offer selective coverage; archaeology illuminates material habits that political histories often neglect. A commandery center could contain officials, military personnel, families, craft workers, and traders whose daily experiences differed considerably. The question is how these groups interacted rather than whether every inhabitant represented one fixed cultural identity."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "II.3.2:b02",
+      "title": "Cultural objects do not explain every person",
+      "paragraphs": [
+        "Imported objects and styles may reflect social aspiration, exchange, official practice, and local adaptation. A burial furnished in one tradition does not establish that the person lived an entirely homogeneous cultural life. Communities may borrow writing, tools, and fashions while retaining other practices. Research on Lelang therefore demands caution about identifying ethnicity from artifacts. Examining the circulation of materials also shows how political authority could support forms of cultural contact that outlasted individual administrators."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "II.3.2:b03",
+      "title": "Beyond the capital and its walls",
+      "paragraphs": [
+        "Commandery influence varied with distance and time. The reach of taxation, legal orders, and military protection was not necessarily equal in every valley or settlement. Relations with neighboring polities could involve conflict, negotiation, and exchange. Understanding this geography is necessary before making claims about what the commandery meant for the whole peninsula. The historical importance of Lelang lies partly in the complicated connections between an imperial institution and multiple local worlds."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

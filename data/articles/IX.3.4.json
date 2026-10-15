@@ -1,0 +1,36 @@
+{
+  "id": "IX.3.4",
+  "title": "Incheon, the Recapture of Seoul, and the Advance into North Korea",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Incheon, the Recapture of Seoul, and the Advance into North Korea, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "IX.3.4:b01",
+      "title": "The logic of a surprise landing",
+      "paragraphs": [
+        "The Incheon landing in September 1950 transformed the operational situation during the Korean War by threatening North Korean lines and contributing to the recapture of Seoul. Its planning involved difficult questions about tides, coastal approaches, timing, and the capacity to concentrate forces. Military success should be explained through logistics and strategy, not only the reputation of a commander. The operation was part of a larger war that had already displaced enormous numbers of civilians."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IX.3.4:b02",
+      "title": "Seoul was a city of civilians",
+      "paragraphs": [
+        "Recapturing a capital did not mean that residents experienced a neat restoration of order. Urban warfare, destroyed infrastructure, competing security claims, and the movements of refugees complicated events. The histories of soldiers and households intersected within streets and neighborhoods. A campaign narrative that describes only the direction of front lines misses much of the war's human consequence."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IX.3.4:b03",
+      "title": "Victory created new choices",
+      "paragraphs": [
+        "Success at Incheon and the recapture of Seoul changed the strategic choices confronting United Nations and South Korean leaders. Subsequent movement northward expanded the war's geographical and diplomatic stakes. Reading the campaign in sequence demonstrates how one successful operation can alter political objectives without resolving the conflict. Its historical importance includes the new dilemmas it created."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

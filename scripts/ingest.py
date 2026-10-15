@@ -30,7 +30,7 @@ def run(path:Path,dry_run=False):
         if key in plans:raise ValueError(f'line {n}: duplicate ID in batch: {key}')
         target=DATA/'articles'/f'{key}.json'
         existing=json.loads(target.read_text(encoding='utf-8')) if target.exists() else None
-        base=(existing.copy() if existing else {'id':key,'title':allowed[key],'kicker':record.get('kicker','HISTORY'), 'description':record.get('description',''), 'blocks':[]})
+        base=(existing.copy() if existing else {'id':key,'title':allowed[key],'kicker':record.get('kicker','HISTORY'), 'description':record.get('description',''), 'release':record.get('release',''), 'blocks':[]})
         if base['title']!=allowed[key]:raise ValueError(f'line {n}: existing title diverges from canonical')
         already=[{'title':b['title'],'paragraphs':b['paragraphs']} for b in base['blocks']]
         incoming=[{'title':b['title'].strip(),'paragraphs':[p.strip() for p in b['paragraphs']]} for b in blocks]
