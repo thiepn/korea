@@ -6,7 +6,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / 'dist'
 if DIST.exists(): shutil.rmtree(DIST)
 DIST.mkdir()
-for path in ('index.html', 'app.js', 'styles.css', 'data/architecture.json', 'data/content-manifest.json'):
+for path in ('index.html', 'app.js', 'exploration.js', 'styles.css', 'data/architecture.json', 'data/content-manifest.json', 'data/explore.json', 'data/search-index.json'):
     src = ROOT / path
     assert src.is_file(), f'Missing runtime asset {path}'
     target = DIST / path

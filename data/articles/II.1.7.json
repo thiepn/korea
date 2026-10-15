@@ -1,0 +1,40 @@
+{
+  "id": "II.1.7",
+  "title": "Economy, Agriculture, Craft, and Exchange",
+  "kicker": "THE EVERYDAY STATE",
+  "description": "Exchange, food production, and workshops help us imagine early political life beyond foundation stories.",
+  "blocks": [
+    {
+      "id": "II.1.7:b01",
+      "title": "Beyond royal genealogies",
+      "paragraphs": [
+        "Early political communities could not survive on royal titles or stories of origins alone. People cultivated land, stored grain, raised animals, made tools, traveled between settlements, and exchanged goods. These activities created the material foundations on which more concentrated forms of leadership could develop. To study an early state, it is therefore useful to ask not only who ruled but also how food reached households and how useful objects moved through a landscape.",
+        "The available evidence is uneven. Objects and settlement remains tell us about production and exchange more readily than they reveal the exact terms of taxation. Written descriptions may be later than the practices they portray. Instead of assuming a complete administrative system where the sources are silent, we can trace the visible material world and consider different ways that leaders might have organized resources."
+      ]
+    },
+    {
+      "id": "II.1.7:b02",
+      "title": "Fields, stores, and obligations",
+      "paragraphs": [
+        "Agricultural production changes the relationship between households and political authority. Harvests arrive seasonally, and grain must be protected against spoilage, weather, and insecurity. Where agricultural surpluses were significant, leaders had opportunities to collect, redistribute, or command resources. Yet a surplus did not automatically produce a centralized kingdom. Local obligations and regional power could remain strong for generations.",
+        "Storage also mattered at the household scale. Families faced uncertainty from changing weather and social conflict. The act of keeping food for future use connects environmental knowledge to social organization. Early political institutions were shaped by such practical realities long before formal legal codes described their workings."
+      ]
+    },
+    {
+      "id": "II.1.7:b03",
+      "title": "Craft and circulation",
+      "paragraphs": [
+        "Metal objects, pottery, ornaments, and other materials reveal networks of specialized knowledge. Their distribution can suggest movement between communities, but similar objects do not always prove direct trade between named states. Techniques might spread through traveling craftspeople, marriage connections, imitation, or the movement of finished goods. Archaeology offers clues; interpretation requires caution.",
+        "Craft specialists depended upon sources of raw materials and upon people prepared to support their labor. This created intersections between status, access, prestige, and everyday needs. A beautifully worked object could serve a ritual or elite function, while a humble vessel might belong to a much broader economy of cooking, storing, and sharing."
+      ]
+    },
+    {
+      "id": "II.1.7:b04",
+      "title": "An economy across boundaries",
+      "paragraphs": [
+        "The geography of early Gojoseon is itself debated, and exchange did not respect later national borders. Communities in Liaoning and the peninsula interacted with wider northeast Asian worlds. That broader setting makes early Korean history richer, not less distinctive. It prevents us from treating each archaeological region as an isolated container.",
+        "As you follow this subject into neighboring articles, distinguish material patterns from the political names later attached to them. The greatest value of an economic perspective is the way it returns a crowded human landscape to stories often told only through legendary founders and powerful rulers."
+      ]
+    }
+  ]
+}

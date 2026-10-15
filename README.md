@@ -103,3 +103,22 @@ python3 scripts/build_release.py
 For Cloudflare Pages, configure a Git-integrated project named `korea` on the Junsosmart account, `main` branch, with `python3 scripts/build_release.py` as build command and `dist` as output directory. The future `korea.thiepn.dev` domain is intentionally not configured. See `DEPLOYMENT.md`.
 
 Unlike the editable full source, `dist/` includes only the page's 33 runtime files. The original canonical files are preserved separately in `canonical/`.
+
+## Batch A — functional exploration feature branch (October 2026)
+
+This branch expands Phase 1 without changing the canonical v1.1 archive. Dedicated Chapter routes, six themed collections, full-text sample search, and a richer Endless Reader are implemented. It now provides 17 original demo articles in 68 passages (8,672 words), not a million-word production corpus. All bookmarks and reading history remain private to the current browser.
+
+**New routes:** `#/explore`, `#/collection/everyday-worlds`, `#/chapter/VI.4`, and existing `#/history/VI.4.2` and `#/part/VI`. All work using the static-host-friendly hash router.
+
+**Rebuild after editing authoring sources:**
+
+```bash
+python3 scripts/build_packs.py
+python3 scripts/build_exploration.py
+python3 scripts/validate.py
+python3 scripts/build_release.py
+python3 tests/browser_smoke.py
+python3 tests/batch_a_journeys.py
+```
+
+The `build_packs.py` manifest keeps words/checksums from `data/content-manifest.json`, so after adding a new article you must register its metadata there before compiling. `build_exploration.py` derives the searchable paragraphs and themed trail metadata. See `BATCH_A_REPORT.md` for detailed functionality and test limitations. Do not run `scripts/build_articles.py` to refresh the Batch A corpus; that original Phase 1 sample generator is intentionally preserved and would replace the manifest with its seven original demonstrations. Production `main` is unchanged; this work is an unmerged development branch.

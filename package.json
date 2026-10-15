@@ -1,11 +1,11 @@
 {
   "name": "korea-interactive-history",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "scripts": {
     "build": "python3 scripts/build_release.py",
-    "validate": "python3 scripts/validate.py && node --check app.js",
+    "validate": "python3 scripts/validate.py && node --check app.js && node --check exploration.js",
     "start": "python3 -m http.server 8000"
   }
 }

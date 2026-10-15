@@ -6,11 +6,11 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 import json,re,sys
 R=Path(__file__).resolve().parent.parent
-A={'./data/architecture.json':json.loads((R/'data/architecture.json').read_text()), './data/content-manifest.json':json.loads((R/'data/content-manifest.json').read_text())}
+A={'./data/architecture.json':json.loads((R/'data/architecture.json').read_text()), './data/content-manifest.json':json.loads((R/'data/content-manifest.json').read_text()), './data/explore.json':json.loads((R/'data/explore.json').read_text()), './data/search-index.json':json.loads((R/'data/search-index.json').read_text())}
 for f in (R/'data/blocks').glob('*.json'):
     A['./data/blocks/'+f.name]=json.loads(f.read_text())
 html=re.sub(r'<script type="module"[^>]+></script>','',re.sub(r'<link rel="stylesheet"[^>]+>','',(R/'index.html').read_text()))
-css=(R/'styles.css').read_text();js=(R/'app.js').read_text()
+css=(R/'styles.css').read_text();js=(R/'exploration.js').read_text().replace('export ', '')+'\n'+(R/'app.js').read_text().replace("import {rankSearch,collectionFor} from './exploration.js';",'')
 with sync_playwright() as p:
     browser=p.chromium.launch(headless=True,executable_path='/usr/bin/chromium',args=['--no-sandbox','--disable-dev-shm-usage'])
     results=[]
@@ -21,10 +21,14 @@ with sync_playwright() as p:
         pg.evaluate('assets => {window.__assets=assets;window.fetch=async p=>({ok:!!window.__assets[p],status:window.__assets[p]?200:404,json:async()=>window.__assets[p]})}',A)
         pg.add_script_tag(content=js);pg.wait_for_selector('.home-hero')
         assert pg.locator('.era-card').count()==10
+        assert pg.locator('.pathway-card').count()==3
         assert pg.evaluate('document.documentElement.scrollWidth<=innerWidth'),f'Homepage overflow {width}'
         pg.evaluate('location.hash="#/part/VI"');pg.wait_for_selector('.chapter-row')
         assert pg.locator('.chapter-row').count()==10
+        assert pg.locator('.chapter-preview').count()==10
+        pg.evaluate('location.hash="#/chapter/VI.4"'); pg.wait_for_selector('.chapter-index')
         assert pg.locator('.subchapter-btn').count()==10
+        pg.evaluate('location.hash="#/part/VI"');pg.wait_for_selector('.chapter-row')
         pg.locator('[data-action=chapter][data-id="VI.2"]').click()
         assert pg.locator('.subchapter-btn').count()==20
         pg.evaluate('location.hash="#/history/VI.4.2.1.2"');pg.wait_for_selector('.reader-title')
@@ -43,7 +47,14 @@ with sync_playwright() as p:
         pg.wait_for_function('document.querySelectorAll(".body-section").length>=3')
         pg.keyboard.press('/');pg.wait_for_selector('#searchInput')
         pg.locator('#searchInput').fill('Gwanggaeto'); assert pg.locator('.search-results button').count()>0
+        pg.locator('#searchInput').fill('sea level');assert pg.locator('.search-results button').count()>0
+        pg.locator('[data-filter="planned"]').click();assert pg.locator('.search-results button').count()==0
+        pg.locator('[data-filter="readable"]').click();assert pg.locator('.search-results button').count()>0
         pg.keyboard.press('Escape');assert pg.locator('.search-dialog').count()==0
+        pg.evaluate('location.hash="#/explore"');pg.wait_for_selector('.pathway-index')
+        assert pg.locator('.pathway-card').count()==6
+        pg.evaluate('location.hash="#/collection/everyday-worlds"');pg.wait_for_selector('.pathway-stops')
+        assert pg.locator('.pathway-stop').count()==6
         pg.evaluate('location.hash="#/saved"');pg.wait_for_selector('.saved-page')
         assert pg.locator('.saved-list .saved-row').count()>=1
         pg.evaluate('location.hash="#/history/III.1.5"');pg.wait_for_selector('.body-section')
