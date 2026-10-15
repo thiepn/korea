@@ -1,0 +1,54 @@
+{
+  "id": "X.2.4",
+  "title": "Labor-Market Flexibility, Irregular Employment, Unions, and the Changing World of Work",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Labor-Market Flexibility, Irregular Employment, Unions, and the Changing World of Work.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "X.2.4:b01",
+      "title": "Work after the economic miracle",
+      "paragraphs": [
+        "South Korea's transformation into a high-income industrial and technological economy produced extraordinary changes in the world of work. But the experience of employment has never been uniform. Stable jobs in major firms, subcontracted manufacturing, service work, small businesses, and temporary contracts involve different levels of pay, security, and bargaining power. Economic growth alone cannot explain the distribution of those conditions. A history of labor markets should ask which groups bore the risks of changing production, how firms organized employment, and what kinds of protection workers could realistically claim when they changed jobs or lost them."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "X.2.4:b02",
+      "title": "Flexibility for whom?",
+      "paragraphs": [
+        "Labor-market flexibility can mean the ability of firms to adjust staffing and costs, but for workers it may mean uncertainty about schedules, income, or renewal of a contract. The same institutional change can therefore be described as an opportunity for adaptation and as a transfer of risk. Irregular or non-standard employment includes diverse arrangements that should not be treated as one homogeneous category. The effects depend on sector, gender, age, legal status, and the availability of benefits and bargaining channels. Historical analysis gains precision when it specifies which form of flexibility is under discussion rather than assuming the word itself explains the outcome."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "X.2.4:b03",
+      "title": "Unions and the contested workplace",
+      "paragraphs": [
+        "Labor organizing in South Korea has a history shaped by industrial expansion, authoritarian repression, democratization, and changing patterns of production. Unions could give workers a collective voice over wages and conditions, yet membership and negotiating power were distributed unevenly. Workers at large establishments might have opportunities unavailable to those at small firms or subcontractors. Public disputes over strikes often express wider disagreements about economic justice, national competitiveness, and the legitimacy of collective action. The labor movement cannot be reduced to either an obstacle to economic growth or a single unified defender of every worker. Its institutions have changed as the workplace itself changed."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "X.2.4:b04",
+      "title": "Family life and employment insecurity",
+      "paragraphs": [
+        "Job insecurity is not confined to the factory or office. It affects decisions about housing, education, childcare, marriage, and retirement. Families may respond through savings, multiple earners, longer hours, or postponement of commitments, but these choices depend on resources they do not all possess. The spread of service-sector work and new forms of digital coordination creates possibilities for some workers while introducing irregular schedules and weaker boundaries between working and private time for others. Connecting labor institutions to everyday life makes visible how macroeconomic decisions are experienced within households rather than only in aggregate employment statistics."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "X.2.4:b05",
+      "title": "A future being negotiated",
+      "paragraphs": [
+        "Changes in technology, demography, global trade, and domestic policy continue to reshape South Korea's labor market. No single reform can guarantee security or productivity across every occupation, and apparent national averages may obscure stark differences by sector or generation. The most useful historical perspective tracks the institutions through which interests are negotiated: companies, unions, courts, ministries, and political movements. It also makes room for workers whose experiences rarely appear in official histories of spectacular growth. Their choices and constraints belong at the center of the story of contemporary Korea."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

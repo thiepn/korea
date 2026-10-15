@@ -1,0 +1,54 @@
+{
+  "id": "I.3.4",
+  "title": "Villages, Pit Houses, and Increasing Sedentism",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Villages, Pit Houses, and Increasing Sedentism.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "I.3.4:b01",
+      "title": "The architecture of staying",
+      "paragraphs": [
+        "A pit house is easy to describe as a hollow dug into the ground, but the space it creates is more revealing than the term suggests. Floors, postholes, hearths, and storage pits register decisions made by builders who expected to return to the same place. A house is not conclusive proof of year-round residence: a fishing community might use sturdy dwellings for recurrent seasonal occupations, while a mobile group could maintain several familiar stations. What survives at a site is an accumulation of episodes, and the duration between them is often difficult to measure. To understand increasing sedentism, archaeologists compare house construction, repaired hearths, refuse deposits, and changes in the settlement's surroundings rather than treating one architectural feature as a settled answer."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "I.3.4:b02",
+      "title": "Life arranged around the hearth",
+      "paragraphs": [
+        "Domestic work has a geography of its own. A fire needs fuel and ventilation; a pot needs a stable place to stand; food preparation requires surfaces, containers, and access to water. The floor of a Neolithic house was therefore not an empty room waiting to be furnished with a modern idea of family life. It was a carefully used working surface that could be renewed, cleaned, and reconfigured. Broken tools and discarded shells may cluster at the edges of activity areas, while the absence of an object can simply mean that it was valuable enough to be taken away. Excavated plans permit sensible questions about daily routines, but the placement of one object cannot identify the gender or status of the person who used it."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "I.3.4:b03",
+      "title": "Settlements and the waters beyond them",
+      "paragraphs": [
+        "Many communities lived with coastlines, estuaries, and rivers that provided fish, shellfish, transport, and access to inland resources. The advantages were accompanied by uncertainty. Shorelines shifted, storms changed landing places, and reliable fresh water was not equally available everywhere. A settlement might be near a rich fishing ground yet far from suitable stone or timber. Movement among locations could remain essential even as houses became more substantial. Sedentism is most useful as a question about the balance of movement and investment, not as a declaration that travel had ended. Boats, baskets, nets, drying racks, and the skills behind them usually leave a much fainter archaeological trace than the ground below a dwelling."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "I.3.4:b04",
+      "title": "The work of coming back",
+      "paragraphs": [
+        "Returning to a settlement season after season can transform a place into a social landmark. Paths become familiar, repairs build on earlier repairs, and memories of shared work attach themselves to the landscape. Burials, if securely associated with living areas, may complicate the relationship between home, ancestry, and repeated use, although ritual meanings must not be inferred too readily. Places also outlive their occupants: rebuilding can erase earlier walls, while abandoned pits become filled by later activity. When archaeological reports speak of a village, they are drawing a boundary around remains that may represent different generations. The historian's task is to reconstruct how people made continuity out of change without imagining that every visible house stood at the same time."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "I.3.4:b05",
+      "title": "When a village becomes a network",
+      "paragraphs": [
+        "A cluster of houses suggests neighbors, but the social geography might have stretched across many sites. Marriage partners, toolmakers, ritual gatherings, and shared fishing territories could connect households whose floors are now kilometers apart. Similar ceramics are clues to these relationships, not certificates of common language or political allegiance. Increased residence could encourage storage and collaboration, but it could also sharpen tensions over resources, access, and obligations. There was no inevitable staircase from pit houses to kingship. The more interesting story is how decisions about shelter, return, and cooperation gradually changed the possibilities of communal life."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

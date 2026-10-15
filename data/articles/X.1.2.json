@@ -1,0 +1,54 @@
+{
+  "id": "X.1.2",
+  "title": "Kim Young-sam: Civilian Government, Military Depoliticization, Anti-Corruption, and Reform",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Kim Young-sam: Civilian Government, Military Depoliticization, Anti-Corruption, and Reform.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "X.1.2:b01",
+      "title": "The difficulty of civilian rule",
+      "paragraphs": [
+        "Kim Young-sam became South Korea's first president in decades to come to office without a career in the military establishment, marking an important moment in the country's democratic development. That transition did not erase the networks, habits, and institutional legacies of previous authoritarian governments. Civilian control required appointments, administrative changes, public support, and a credible ability to challenge entrenched interests. Elections provided a mandate, but the practical content of democratic consolidation depended on what the government did with power. The period is therefore best understood neither as a sudden clean break nor as proof that earlier institutional change had been meaningless."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "X.1.2:b02",
+      "title": "Taking politics out of the barracks",
+      "paragraphs": [
+        "Efforts to reduce military influence over political life altered relationships that had long extended beyond formal command. Personnel decisions, changes within the armed forces, and public expectations each mattered. A stable democracy needs military institutions capable of their professional duties while remaining accountable to civilian authority. Establishing that balance is not a single purge or speech; it involves routines through which civilian leaders, legislatures, and officers negotiate their roles. Accounts of reform should distinguish public declarations from the slower institutional effects visible over time. They should also ask how citizens understood the difference between a powerful military and a military with political power."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "X.1.2:b03",
+      "title": "The public meaning of clean government",
+      "paragraphs": [
+        "Anti-corruption campaigns offered a way to challenge privileged networks and to present a new moral standard for officeholders. Public attention to wealth, disclosure, and the conduct of elites made governmental legitimacy a matter of everyday political debate. Such efforts can expose real abuses, but their credibility depends on consistent enforcement, legal procedure, and the perception that rules apply to allies as well as opponents. The historian should avoid treating a campaign as either wholly transformative or purely symbolic without examining particular institutions and outcomes. The broader change lay in the strengthening expectation that public figures could be scrutinized through democratic processes."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "X.1.2:b04",
+      "title": "Reform in a changing economy",
+      "paragraphs": [
+        "The administration governed during rapid economic and social change, with businesses, workers, and financial institutions facing new pressures. Economic reform could promise flexibility and competitiveness while redistributing risks in ways that different groups understood differently. A government attempting institutional modernization had to manage both domestic political conflicts and the conditions of a globalizing economy. These challenges would become especially visible in the financial crisis at the end of the decade. Connecting political democratization to economic transformation gives the era its complexity: accountability increased even as many citizens remained vulnerable to decisions they could scarcely influence."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "X.1.2:b05",
+      "title": "Democracy without a final chapter",
+      "paragraphs": [
+        "Democratic consolidation is a process that continues after an electoral milestone. Institutions may become more open while distrust persists; reforms may widen accountability without removing inequality. The Kim Young-sam years show how a civilian presidency could confront authoritarian legacies and produce new public expectations, while also revealing the limits of reform undertaken within existing structures. This was not the end of South Korea's political history. It was a consequential stage in a longer argument about citizenship, executive power, accountability, and the responsibilities of a democratic state."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

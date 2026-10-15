@@ -6,10 +6,10 @@ sys.path.insert(0,str(ROOT/'scripts'))
 from build_corpus import canonical,compile_corpus,DATA
 from ingest import run
 m=json.loads((DATA/'content-manifest.json').read_text())
-assert m['count']==77,m['count']
+assert m['count']>=77,m['count']
 assert m['sampleWordCount']>=24000,m['sampleWordCount']
-assert sum(a['blocks'] for a in m['articles'])==258
-assert len({a['id'] for a in m['articles']})==77
+assert sum(a['blocks'] for a in m['articles'])>=258
+assert len({a['id'] for a in m['articles']})==m['count']
 assert len({a['id'].split('.')[0] for a in m['articles']})==10
 originals=['I.1.1','II.1.2','III.1.5','VI.4.2','X.5.10']
 assert all(any(x['id']==id for x in m['articles']) for id in originals)

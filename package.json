@@ -1,6 +1,6 @@
 {
   "name": "korea-interactive-history",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,6 +8,7 @@
     "validate": "python3 scripts/build_release.py && node --check app.js && node --check exploration.js && node --check content-platform.js",
     "start": "python3 -m http.server 8000",
     "test:b": "python3 tests/batch_b_pipeline.py && python3 tests/batch_b_browser.py",
-    "test:c": "python3 tests/batch_c_pipeline.py && python3 tests/batch_c_journeys.py"
+    "test:c": "python3 tests/batch_c_pipeline.py && python3 tests/batch_c_journeys.py",
+    "test:d": "python3 tests/batch_d_pipeline.py && python3 tests/batch_d_journeys.py"
   }
 }

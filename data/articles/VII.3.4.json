@@ -1,0 +1,54 @@
+{
+  "id": "VII.3.4",
+  "title": "Seowon, Education, Examination Culture, and Local Scholarly Networks",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Seowon, Education, Examination Culture, and Local Scholarly Networks.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "VII.3.4:b01",
+      "title": "The academy on a local map",
+      "paragraphs": [
+        "A seowon could be a place of study, ritual commemoration, scholarly reputation, and local influence. Treating it only as a school misses much of its significance. Its buildings occupied land and required support; its association with a respected scholar connected the institution to arguments about moral authority. A community's investment in an academy could honor learning while also making claims about which lineage or intellectual tradition deserved recognition. The relationship between seowon and state schools was therefore not merely a competition over lesson plans. It was part of a wider social world in which education, ritual, and politics overlapped."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VII.3.4:b02",
+      "title": "Learning that made a community",
+      "paragraphs": [
+        "Study groups brought together people who shared books, teachers, friendships, and ambitions. These relationships could persist when members entered government or returned home, creating networks that linked provinces with the capital. Classical texts supplied a common vocabulary, but agreement over the proper interpretation of a passage was never guaranteed. Scholarly affiliation could help individuals make sense of political events and decide which officials to support. The historian should resist turning every academy into a uniform factional headquarters. Some produced local cooperation and serious scholarship; others became embroiled in contests over privilege, resources, and legitimacy."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VII.3.4:b03",
+      "title": "Examinations and uneven access",
+      "paragraphs": [
+        "The promise of educational advancement was shaped by wealth, family expectations, and time. Preparation for examinations demanded access to teachers and texts, making schooling a practical investment that not everyone could afford. Even among those able to study, success was uncertain. The system made certain forms of literary and moral knowledge especially valuable, but a test score did not settle a candidate's future career. Education also served purposes beyond office seeking: ritual leadership, local correspondence, family records, and scholarly debate. These uses made learning socially consequential even for men who never occupied a prominent state post."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "VII.3.4:b04",
+      "title": "Royal reform and local resistance",
+      "paragraphs": [
+        "The growing influence of private academies sometimes drew the attention of the court, particularly when their privileges or political roles were contested. Policies aimed at regulating academies had to confront the attachment of local groups to their institutions. A decision presented in a court record as an administrative necessity might appear within a community as a threat to its honor or to the memory of a revered teacher. Conversely, a claim to defend learning could mask an interest in preserving exemptions and status. Seeing both sides avoids a simplistic story of virtuous scholars versus suspicious kings."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "VII.3.4:b05",
+      "title": "Books, reputations, and places",
+      "paragraphs": [
+        "A history of seowon brings intellectual activity into a physical landscape: buildings, libraries, ancestral spaces, agricultural support, roads used by visiting students, and households that supplied labor. Books carried ideas across generations, but reputations shaped which texts were copied and taught. A study site could become a center of regional identity, even while its teachings claimed universal ethical importance. The reader can follow this history outward toward factional politics, the examination world, printing, family networks, and the changing meaning of local authority under late Joseon."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

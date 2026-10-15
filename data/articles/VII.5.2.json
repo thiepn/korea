@@ -1,0 +1,54 @@
+{
+  "id": "VII.5.2",
+  "title": "Marriage, Residence, Inheritance, and Household Formation",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Marriage, Residence, Inheritance, and Household Formation.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "VII.5.2:b01",
+      "title": "A household is a historical arrangement",
+      "paragraphs": [
+        "Marriage and inheritance are sometimes treated as timeless customs, but the organization of families in Joseon changed over time. The relationship between where spouses lived, how property was divided, and which relatives maintained rituals helped determine the shape of a household. A woman's place in family records, for example, cannot be understood solely through later idealized descriptions of strict patrilineal organization. Practices varied across generations and social settings. Family documents, genealogies, and property records offer glimpses of these developments, but they were produced by people with particular interests in recording descent, ownership, or legitimacy."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VII.5.2:b02",
+      "title": "Residence and the geography of kinship",
+      "paragraphs": [
+        "Where a couple established a household influenced whom they saw regularly, whose fields they worked, and which relatives could offer support. Residence could involve negotiations between families rather than the automatic application of a single model. Geography mattered: distance between villages affected visiting, care for elderly relatives, and the management of property. The formation of a new household was also an economic problem, requiring access to shelter, tools, food, and labor. Even a family that professed one normative ideal might respond flexibly when faced with widowhood, illness, limited land, or the need to support parents."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VII.5.2:b03",
+      "title": "Property creates durable relationships",
+      "paragraphs": [
+        "Inheritance was a means of transferring resources, but it also registered judgments about obligations within families. Land, household goods, ritual responsibilities, and claims by different children could be distributed according to practices that changed over time. Documents sometimes record conflict because a disagreement required a written resolution; they may not represent ordinary arrangements. A historian should therefore avoid using one dramatic lawsuit as a portrait of the whole society. The wider question is how property shaped dependence and autonomy, and how legal and moral arguments could be invoked by relatives who understood family duty differently."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "VII.5.2:b04",
+      "title": "Women between norms and practice",
+      "paragraphs": [
+        "Confucian moral prescriptions became influential in shaping elite understandings of gender and kinship, but prescriptive texts are not complete reports of lived conduct. Women could hold and transmit property under some circumstances, oversee household economies, or act through kinship networks that survive only indirectly in documents. Their opportunities were not uniform across status groups and periods. The historian's task is neither to deny restrictive institutions nor to erase women by describing those restrictions alone. Comparing normative writing with marriage agreements, inheritance records, and material circumstances helps recover a more complex picture of agency and constraint."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "VII.5.2:b05",
+      "title": "Change measured in generations",
+      "paragraphs": [
+        "A shift in the favored pattern of inheritance or ancestral ritual does not occur everywhere in one year. It may be more visible first among families who produce genealogies and then appear unevenly in other communities. Social ambition can encourage households to emulate prestigious practices, while material constraints sustain alternatives. Following a family over generations illuminates how political and intellectual ideas reach intimate relationships. The history of marriage and residence is therefore a history of society making and remaking itself through countless decisions rarely recorded in the political chronicles."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

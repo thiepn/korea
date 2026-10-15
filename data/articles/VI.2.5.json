@@ -1,0 +1,54 @@
+{
+  "id": "VI.2.5",
+  "title": "Eight Provinces, Local Magistrates, and Provincial Administration",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Eight Provinces, Local Magistrates, and Provincial Administration.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "VI.2.5:b01",
+      "title": "Eight provinces and many local worlds",
+      "paragraphs": [
+        "Joseon's provincial structure gave the state a language for dividing territory, appointing officials, and organizing responsibilities. The familiar map of eight provinces is useful, but it should not suggest eight uniform social or environmental regions. Mountain routes, coastal trade, fertile plains, frontier settlements, and the distance to Hanyang shaped local life in different ways. Provincial boundaries did not erase networks that crossed them. A magistrate's district could include households facing very different agricultural and commercial circumstances, while a royal policy conceived at the center had to be translated through locally available resources."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VI.2.5:b02",
+      "title": "The magistrate's impossible desk",
+      "paragraphs": [
+        "A local magistrate was expected to represent the king's government in matters of administration, justice, taxation, and public order. Such responsibilities were broad even in a small jurisdiction. Formal authority depended on clerks, interpreters of custom, local elites, and people capable of moving information between villages and offices. A magistrate newly arrived from elsewhere might know the law better than the conditions of a particular valley. He could not easily govern without the assistance of those who possessed that knowledge. The need for intermediaries made administration possible but also created opportunities for unequal influence and disputes over who spoke for the community."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VI.2.5:b03",
+      "title": "Paper travels slowly",
+      "paragraphs": [
+        "Orders, registers, tax reports, petitions, and correspondence joined the court to the localities. Yet the circulation of documents depended on roads, messengers, literacy, copying, and time. A rule written in an official code was not identical to an outcome in a distant village. Records can make government look more synchronized than it was. A persuasive history should follow a command through its practical life: its transmission, interpretation, enforcement, and the possibility that villagers would respond with petitions, evasion, cooperation, or silence. These details explain how a highly articulated political ideology encountered an uneven physical world."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "VI.2.5:b04",
+      "title": "Education and local standing",
+      "paragraphs": [
+        "Provincial society included schools, ritual sites, elite households, and networks of study that linked local ambitions to the national examination system. Access to learned culture could strengthen families who were already influential, while local standing also arose from control of land, commercial success, and longstanding relationships. Officials might depend on those networks to resolve problems even when central rules were intended to regulate local influence. The relationship was not simply one of corruption versus order. It was a continuing negotiation between an ideal of impartial royal government and the practical reality that trust and knowledge were distributed unequally."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "VI.2.5:b05",
+      "title": "Why local government deserves a long history",
+      "paragraphs": [
+        "Administrative maps are an invitation to ask what government actually felt like. The same dynasty could be experienced as a court of moral ideals, a tax collector, a judge, a provider of famine relief, or a distant power rarely encountered directly. Local conditions and historical moments altered that experience. Following officials through counties and provinces connects high politics to disputes over fields, roads, schools, markets, and the interpretation of justice. The provincial system mattered not because it made every community alike, but because it created enduring channels through which unlike communities dealt with a common state."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}

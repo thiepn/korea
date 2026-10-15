@@ -6,7 +6,7 @@ import json,re
 from playwright.sync_api import sync_playwright
 ROOT=Path(__file__).resolve().parents[1]
 ASSETS={}
-for p in ['architecture.json','content-manifest.json','explore.json','search/catalog.json','search/shard-map.json']:
+for p in ['architecture.json','content-manifest.json','explore.json','atlas.json','search/catalog.json','search/shard-map.json']:
  ASSETS['./data/'+p]=json.loads((ROOT/'data'/p).read_text())
 for folder in ['packs','search/shards']:
  for p in (ROOT/'data'/folder).glob('*.json'):ASSETS['./data/'+folder+'/'+p.name]=json.loads(p.read_text())

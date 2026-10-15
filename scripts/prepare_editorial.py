@@ -11,7 +11,7 @@ from pathlib import Path
 from build_corpus import canonical, DATA
 
 ROOT=Path(__file__).resolve().parents[1]
-def prepare(source:Path,target:Path,dry_run=False):
+def prepare(source:Path,target:Path,dry_run=False,release='C'):
     titles=canonical(); items=[];current=None;block=None;outside=True
     for n,raw in enumerate(source.read_text(encoding='utf-8').splitlines(),1):
         line=raw.strip()
@@ -19,7 +19,7 @@ def prepare(source:Path,target:Path,dry_run=False):
             key=line[3:].strip()
             if key not in titles:raise ValueError(f'line {n}: unknown canonical ID {key}')
             if any(v['id']==key for v in items):raise ValueError(f'line {n}: duplicate ID {key}')
-            current={'id':key,'mode':'replace','description':'An editorial introduction to '+titles[key]+', part of the expanding KOREA history archive.','kicker':'EXTENDED HISTORICAL ARCHIVE','release':'C','blocks':[]}
+            current={'id':key,'mode':'replace','description':'An editorial introduction to '+titles[key]+', part of the expanding KOREA history archive.','kicker':'EXTENDED HISTORICAL ARCHIVE','release':release,'blocks':[]}
             items.append(current);block=None;outside=False
         elif line.startswith('### '):
             if outside or current is None:raise ValueError(f'line {n}: passage has no canonical article')
@@ -43,6 +43,6 @@ def prepare(source:Path,target:Path,dry_run=False):
     return {'subjects':len(items),'passages':sum(len(a['blocks']) for a in items),'editorial_words':sum(len(re.findall(r'\b[\w’\'-]+\b',p)) for a in items for b in a['blocks'] for p in b['paragraphs']),'bytes':len(data.encode('utf-8'))}
 
 if __name__=='__main__':
-    ap=argparse.ArgumentParser();ap.add_argument('source',type=Path);ap.add_argument('output',type=Path);ap.add_argument('--dry-run',action='store_true');a=ap.parse_args()
-    try:print(json.dumps(prepare(a.source,a.output,a.dry_run),indent=2))
+    ap=argparse.ArgumentParser();ap.add_argument('source',type=Path);ap.add_argument('output',type=Path);ap.add_argument('--dry-run',action='store_true');ap.add_argument('--release',default='C');a=ap.parse_args()
+    try:print(json.dumps(prepare(a.source,a.output,a.dry_run,a.release),indent=2))
     except ValueError as e:print('PREPARE FAILED:',e,file=sys.stderr);sys.exit(1)

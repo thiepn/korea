@@ -1,0 +1,54 @@
+{
+  "id": "IV.3.3",
+  "title": "Villages, Peasants, and Rural Communities",
+  "kicker": "DEEP HISTORY · BATCH D",
+  "description": "A five-part original historical reading on Villages, Peasants, and Rural Communities.",
+  "release": "D",
+  "blocks": [
+    {
+      "id": "IV.3.3:b01",
+      "title": "The village behind the palace",
+      "paragraphs": [
+        "Court histories of Silla preserve rulers, factions, and wars, but a kingdom was sustained by rural communities whose daily work seldom produced written biographies. A village was not simply a tax-paying dot on a map. It was a place of fields, houses, boundary agreements, shared tools, seasonal travel, family obligations, and neighbors who might disagree about access to resources. The distribution of agricultural land and the ability to mobilize labor affected how people experienced royal government. Where local records survive, they may count households or resources in categories useful to administrators; those categories do not capture the full social life of the people counted."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.3:b02",
+      "title": "Working land under uncertainty",
+      "paragraphs": [
+        "Farming depended on weather, soil, seed, and time. A household might devote labor to rice where conditions permitted, cultivate other crops, maintain animals, and draw on surrounding resources. The relative importance of each activity varied by region and season. Even productive land required repair of channels, tools, and pathways, and a bad year could diminish the resources available for both household survival and public obligations. It would be misleading to speak of peasants as a single class with identical circumstances. Landholding, dependent status, household size, and the demands of local elites could produce very different experiences within one district."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IV.3.3:b03",
+      "title": "Counted households, uncounted lives",
+      "paragraphs": [
+        "Administrative registers can make rural society unexpectedly legible. Their value lies partly in the precision of what authorities wished to count: people, animals, productive resources, or categories of service. But the act of counting also reveals the record's limits. Widows, children, dependents, migrants, and temporary workers may appear differently or be less visible depending on the purpose of a list. Numbers become historical evidence when interpreted as records of governance, not as a perfect demographic snapshot. A village register may disclose the reach of institutions while leaving unanswered how neighbors negotiated duties or remembered an unusually difficult harvest."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "IV.3.3:b04",
+      "title": "Links between local and central power",
+      "paragraphs": [
+        "The court's demands passed through people who could translate political authority into practical obligations. Local leaders, estate holders, and officials could exercise discretion, and that discretion created possibilities for favoritism as well as for adaptation to local needs. Tribute or service was not necessarily collected in a uniformly organized way across the countryside. Transport routes and the distance to markets mattered. Some goods were consumed close to where they were made; others traveled toward regional centers or the capital. The village and palace were linked through a long chain of labor and decisions that a chronicle rarely describes in detail."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    },
+    {
+      "id": "IV.3.3:b05",
+      "title": "A society more than its elite tombs",
+      "paragraphs": [
+        "Silla's brilliant gold ornaments and monumental religious sites invite admiration, but they can also distort our sense of where history happened. Ordinary architecture decays differently from a stone monument, and tools made from perishable materials disappear more readily than elite metalwork. A village history must work with fragments and comparative patterns, explaining what remains conjectural. It need not invent an anonymous peasant's life to make the countryside vivid. The scale of work required to sustain a kingdom, the unevenness of obligation, and the resilience of local communities already make a consequential story."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 5
+    }
+  ]
+}
