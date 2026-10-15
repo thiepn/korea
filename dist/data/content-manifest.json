@@ -1,0 +1,280 @@
+{
+  "version": "phase-1.0",
+  "count": 7,
+  "articles": [
+    {
+      "id": "I.1.1",
+      "title": "The Geological Formation of the Korean Peninsula",
+      "kicker": "THE DEEP LAND",
+      "description": "Before any kingdom, language or border, there was the making of the land itself.",
+      "blocks": 4,
+      "wordCount": 807,
+      "path": "./data/articles/I.1.1.json",
+      "chunks": [
+        {
+          "id": "I.1.1:b01",
+          "title": "A landscape before the story",
+          "path": "./data/blocks/I.1.1-b01.json",
+          "bytes": 1665,
+          "sha256": "12f6e978003e78b5c52bc64168adec4e8ed1dd37f1618322569c3411e825c861"
+        },
+        {
+          "id": "I.1.1:b02",
+          "title": "The long conversation of stone",
+          "path": "./data/blocks/I.1.1-b02.json",
+          "bytes": 1589,
+          "sha256": "026346b1ef6d5055e3ef04ea71ff8e35ec68292b27a9044e5d2b8b35ae5e70a4"
+        },
+        {
+          "id": "I.1.1:b03",
+          "title": "Ridges, basins and the shape of movement",
+          "path": "./data/blocks/I.1.1-b03.json",
+          "bytes": 1480,
+          "sha256": "1fcd255f6fc926b032da2f3dbce441f9c49034911a49c03a7937e50a603c4e16"
+        },
+        {
+          "id": "I.1.1:b04",
+          "title": "Reading what survives",
+          "path": "./data/blocks/I.1.1-b04.json",
+          "bytes": 1334,
+          "sha256": "f75bc6aed1e1a828bbe5d90f4a64dbe427b164fdd1ed9d77cdd25dae87c564aa"
+        }
+      ]
+    },
+    {
+      "id": "II.1.2",
+      "title": "Dangun, Foundation Myth, and the Construction of Gojoseon Origins",
+      "kicker": "THE ORIGINS WE TELL",
+      "description": "A foundation story opens a window onto memory, identity and the difficulty of beginnings.",
+      "blocks": 4,
+      "wordCount": 701,
+      "path": "./data/articles/II.1.2.json",
+      "chunks": [
+        {
+          "id": "II.1.2:b01",
+          "title": "Where history meets the story of origins",
+          "path": "./data/blocks/II.1.2-b01.json",
+          "bytes": 1460,
+          "sha256": "ac23bbeb54c8d144ff79c80248baadacf9d78244c4662588e423140e20d20781"
+        },
+        {
+          "id": "II.1.2:b02",
+          "title": "A world of transformation",
+          "path": "./data/blocks/II.1.2-b02.json",
+          "bytes": 1307,
+          "sha256": "0717c8895145cacd277f948cb09c1cc55764492dedc32e616fa7caba3ef0e702"
+        },
+        {
+          "id": "II.1.2:b03",
+          "title": "The archaeological problem",
+          "path": "./data/blocks/II.1.2-b03.json",
+          "bytes": 1386,
+          "sha256": "961251de355fc287e22d71b908551504bd367b8774d5991a05d0ff761d360299"
+        },
+        {
+          "id": "II.1.2:b04",
+          "title": "A story that continues to live",
+          "path": "./data/blocks/II.1.2-b04.json",
+          "bytes": 1184,
+          "sha256": "32df6278c5cb2965d8d81adec86d9d55d84f9519f04cb33910e64fe9e31c8ab0"
+        }
+      ]
+    },
+    {
+      "id": "III.1.5",
+      "title": "Gwanggaeto the Great and Imperial Expansion",
+      "kicker": "A KINGDOM EXPANDS",
+      "description": "The age of Gwanggaeto reveals how power, campaigning and memory reshaped northeast Asia.",
+      "blocks": 4,
+      "wordCount": 643,
+      "path": "./data/articles/III.1.5.json",
+      "chunks": [
+        {
+          "id": "III.1.5:b01",
+          "title": "Northern horizons",
+          "path": "./data/blocks/III.1.5-b01.json",
+          "bytes": 1349,
+          "sha256": "b2f36a9e7b868d683cb9b49e7fb5740b673e61dc91cc0664126fe7bb428ef7ae"
+        },
+        {
+          "id": "III.1.5:b02",
+          "title": "Campaigns and the making of power",
+          "path": "./data/blocks/III.1.5-b02.json",
+          "bytes": 1427,
+          "sha256": "5f49d4ac9f56b6aba79bd630c0402b224c9a3477ba00c3c28b25548449ec9e11"
+        },
+        {
+          "id": "III.1.5:b03",
+          "title": "The inscription and the image of a ruler",
+          "path": "./data/blocks/III.1.5-b03.json",
+          "bytes": 1296,
+          "sha256": "9648cec0d32f3bfa110007970e591ca74f9f7e23a2703d342d6a9df9e13a6f42"
+        },
+        {
+          "id": "III.1.5:b04",
+          "title": "After the victories",
+          "path": "./data/blocks/III.1.5-b04.json",
+          "bytes": 1039,
+          "sha256": "22f8828ac1784ef284ad5a0b765e927848462c8a0bf6bbedf0a6579d5701a8a9"
+        }
+      ]
+    },
+    {
+      "id": "VI.4.2",
+      "title": "Sejong's Linguistic Problem and the Purpose of a New Script",
+      "kicker": "THE MAKING OF A SCRIPT",
+      "description": "A new alphabet transformed the possibilities of recording Korean speech.",
+      "blocks": 4,
+      "wordCount": 675,
+      "path": "./data/articles/VI.4.2.json",
+      "chunks": [
+        {
+          "id": "VI.4.2:b01",
+          "title": "A language and its written forms",
+          "path": "./data/blocks/VI.4.2-b01.json",
+          "bytes": 1354,
+          "sha256": "b3368fab5b74eb06f4028c4f431ca157e89ff32aea454bff626e15d32e1619c4"
+        },
+        {
+          "id": "VI.4.2:b02",
+          "title": "Sejong and the intellectual setting",
+          "path": "./data/blocks/VI.4.2-b02.json",
+          "bytes": 1327,
+          "sha256": "cec2a0679180941fa58b2f7c6cf1809c3d3a86e021cef645f740a2a57600fcd4"
+        },
+        {
+          "id": "VI.4.2:b03",
+          "title": "Letters as a designed system",
+          "path": "./data/blocks/VI.4.2-b03.json",
+          "bytes": 1309,
+          "sha256": "aa1b735b9013dcbf13b1406a60a54dd94fa958c6a6d021cade11573bd04080f6"
+        },
+        {
+          "id": "VI.4.2:b04",
+          "title": "From court innovation to public memory",
+          "path": "./data/blocks/VI.4.2-b04.json",
+          "bytes": 1282,
+          "sha256": "ff2fdcdf55cf53eb7155d9052b94919f205b246ea1aec75bb77b54cd30ac64d4"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.2",
+      "title": "The March First Movement of 1919",
+      "kicker": "THE MARCH OF A NATION",
+      "description": "Public demonstrations in 1919 reveal a broad and complex struggle against colonial rule.",
+      "blocks": 4,
+      "wordCount": 588,
+      "path": "./data/articles/VIII.9.2.json",
+      "chunks": [
+        {
+          "id": "VIII.9.2:b01",
+          "title": "A colony and a moment of mobilization",
+          "path": "./data/blocks/VIII.9.2-b01.json",
+          "bytes": 1252,
+          "sha256": "0a80b87df201c12bd44956b360cf10109e17fa7e21e2500483bb6d70f74d6dfb"
+        },
+        {
+          "id": "VIII.9.2:b02",
+          "title": "Networks of public action",
+          "path": "./data/blocks/VIII.9.2-b02.json",
+          "bytes": 1258,
+          "sha256": "62f5f0c795ec320fe11891e159dffb89c65b4ac6584260f7067f4fcaddf6b527"
+        },
+        {
+          "id": "VIII.9.2:b03",
+          "title": "Repression, suffering and testimony",
+          "path": "./data/blocks/VIII.9.2-b03.json",
+          "bytes": 1228,
+          "sha256": "6cde93845b64422ea0896fa445a9a767b8ca49316f3da5d7f4333c6f6ade32c3"
+        },
+        {
+          "id": "VIII.9.2:b04",
+          "title": "A movement and its many afterlives",
+          "path": "./data/blocks/VIII.9.2-b04.json",
+          "bytes": 1250,
+          "sha256": "eba348fd2c4f4696aea1757fbd325d57a1cf3e107442d4ddccd7220446fe7309"
+        }
+      ]
+    },
+    {
+      "id": "IX.1.1",
+      "title": "15 August 1945: Liberation, Political Vacuum, and the Collapse of Colonial Authority",
+      "kicker": "A SUDDEN OPENING",
+      "description": "August 1945 was both an end of colonial rule and the beginning of an uncertain political future.",
+      "blocks": 4,
+      "wordCount": 532,
+      "path": "./data/articles/IX.1.1.json",
+      "chunks": [
+        {
+          "id": "IX.1.1:b01",
+          "title": "The end of one order",
+          "path": "./data/blocks/IX.1.1-b01.json",
+          "bytes": 1274,
+          "sha256": "47ca6df485be71633518e39410195cdb00a56b784f4927bf17e0c03ccb229661"
+        },
+        {
+          "id": "IX.1.1:b02",
+          "title": "The politics of an uncertain moment",
+          "path": "./data/blocks/IX.1.1-b02.json",
+          "bytes": 1156,
+          "sha256": "415622fb9d8fe2409679fafb44f6ca497822f59f70c3efa8476853509a9fc736"
+        },
+        {
+          "id": "IX.1.1:b03",
+          "title": "Division enters the frame",
+          "path": "./data/blocks/IX.1.1-b03.json",
+          "bytes": 1087,
+          "sha256": "8587d9e960510df53673245db68b38ecaaef9df29c6adab18b21ddff832c4af4"
+        },
+        {
+          "id": "IX.1.1:b04",
+          "title": "Ordinary life inside the transition",
+          "path": "./data/blocks/IX.1.1-b04.json",
+          "bytes": 1050,
+          "sha256": "1ae5040285111baa0ba41d1b52e435f6015bfb73f20a8374f4a4116db39ace8f"
+        }
+      ]
+    },
+    {
+      "id": "X.5.10",
+      "title": "Global Fandom, Cultural Policy, Intellectual Property, Cultural Controversies, and the Evolution of Hallyu",
+      "kicker": "CULTURE ACROSS BORDERS",
+      "description": "How global networks helped transform Korean popular culture into an international phenomenon.",
+      "blocks": 4,
+      "wordCount": 542,
+      "path": "./data/articles/X.5.10.json",
+      "chunks": [
+        {
+          "id": "X.5.10:b01",
+          "title": "Cultural movement, not a single event",
+          "path": "./data/blocks/X.5.10-b01.json",
+          "bytes": 1141,
+          "sha256": "852a9a95e59e5aa73501108f35532d6ead656cf6341778d1f6c1f04123bb1c8b"
+        },
+        {
+          "id": "X.5.10:b02",
+          "title": "From broadcasting to platforms",
+          "path": "./data/blocks/X.5.10-b02.json",
+          "bytes": 1207,
+          "sha256": "f4ebd20441a9de7bc3140ed977c0a674c9f71f46e3eec3bb9457ef99716c6a8e"
+        },
+        {
+          "id": "X.5.10:b03",
+          "title": "Fans become participants",
+          "path": "./data/blocks/X.5.10-b03.json",
+          "bytes": 1162,
+          "sha256": "fa17de0de00ca4ff40b241fdd711d5106470424742d85d1833910fea2a5a5277"
+        },
+        {
+          "id": "X.5.10:b04",
+          "title": "Policy, markets and argument",
+          "path": "./data/blocks/X.5.10-b04.json",
+          "bytes": 1139,
+          "sha256": "dbeacda21df686831ba5067f6341ce3d059a12ffa5f7afc2f8b6d6a55210b293"
+        }
+      ]
+    }
+  ],
+  "sampleWordCount": 4488
+}

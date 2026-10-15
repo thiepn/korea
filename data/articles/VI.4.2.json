@@ -1,0 +1,55 @@
+{
+  "id": "VI.4.2",
+  "title": "Sejong's Linguistic Problem and the Purpose of a New Script",
+  "kicker": "THE MAKING OF A SCRIPT",
+  "description": "A new alphabet transformed the possibilities of recording Korean speech.",
+  "blocks": [
+    {
+      "id": "VI.4.2:b01",
+      "title": "A language and its written forms",
+      "paragraphs": [
+        "In fifteenth-century Joseon, Korean was a spoken language with a rich social life, but the main prestige writing system used in state administration and elite scholarship was Classical Chinese. Koreans had also developed methods for representing Korean elements through adaptations of Chinese characters. These practices were important and sophisticated, yet they did not provide the kind of straightforward, broadly usable representation of Korean sounds later associated with Hangul.",
+        "The difficulty was not that people lacked language, thought, or cultural expression before a new script. Rather, writing operated within institutions, education systems, and conventions that placed certain demands on readers and writers. The relationship between spoken Korean and high-status written culture shaped administration, learning, and who could participate in particular forms of textual exchange.",
+        "A new script could therefore be more than a technical innovation. It could make language itself the subject of careful analysis and open additional possibilities for documenting speech. But such possibilities depended on political sponsorship, social reception, teaching, and the availability of texts."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VI.4.2:b02",
+      "title": "Sejong and the intellectual setting",
+      "paragraphs": [
+        "King Sejong’s reign is remembered for broad interests in governance, learning, measurement, language, and knowledge production. The development of Hunminjeongeum belongs within this world of royal intellectual projects. The new script was not simply an accidental collection of signs; it was accompanied by an explicit explanation of its principles and its intended ability to represent Korean speech.",
+        "The historical record distinguishes the creation of Hunminjeongeum in 1443 from its promulgation in 1446. These dates help anchor the narrative, but the deeper question is what sort of problem the script was intended to solve and why its design took the form it did. Answering requires attention to phonology, the conventions of learned writing, and the courtly setting in which the project was developed.",
+        "An inviting history of the script can explain the underlying concepts without requiring readers to know linguistic terminology in advance. Consonants and vowels are a practical starting point. More specialized detours can examine articulatory features, syllable-block organization, and the relationship between the script and contemporary theories of sound."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.2:b03",
+      "title": "Letters as a designed system",
+      "paragraphs": [
+        "Hangul is notable for its systematic design. The shapes and combinations of its letters are often explained in relation to how speech sounds are produced and classified. A reader encountering the script for the first time may immediately notice that the written syllable is assembled as a block rather than set out simply as an unbroken row of isolated letters. This gives the page a visual order that is both linguistic and graphic.",
+        "Any simple account must be careful not to project the modern form of Korean writing unchanged into the fifteenth century. Some letter forms and sound distinctions used in early texts differ from ordinary modern practice, and orthographic conventions evolved. The story of Hangul is also the story of how a designed writing system entered living use and changed with society.",
+        "There is a wider context to such a development: writing technologies are never only alphabets or signs. They involve paper, printing, education, administrative priorities, literary patronage, and readership. The invention of a script creates a possibility; the gradual development of written culture determines how widely that possibility is used."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "VI.4.2:b04",
+      "title": "From court innovation to public memory",
+      "paragraphs": [
+        "The later history of Hangul was neither immediate universal acceptance nor a single uninterrupted triumph. Classical Chinese retained great prestige in many elite contexts, while vernacular writing expanded across different genres and audiences over time. The changing balance between scripts was linked to education, gender, literature, administration, and the wider social world.",
+        "Under modern colonial rule, language and script became bound to questions of cultural survival and identity. In contemporary Korea, Hangul carries immense public symbolic significance, though modern everyday use is shaped by national division, regional variation, technological change, and standardization. These later developments belong to their own historical units rather than being collapsed into the invention story.",
+        "The invention of a writing system is an ideal example of the larger KOREA reading experience. A reader can begin with a single question—why did Sejong commission a script?—and follow paths into phonetics, royal government, print culture, women’s letters, colonial language politics, and digital Korean today."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ],
+  "wordCount": 675,
+  "status": "sample",
+  "disclosure": "Demonstration prose for the interaction prototype. No claim of source verification or complete coverage of this canonical subject."
+}

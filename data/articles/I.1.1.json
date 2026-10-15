@@ -1,0 +1,55 @@
+{
+  "id": "I.1.1",
+  "title": "The Geological Formation of the Korean Peninsula",
+  "kicker": "THE DEEP LAND",
+  "description": "Before any kingdom, language or border, there was the making of the land itself.",
+  "blocks": [
+    {
+      "id": "I.1.1:b01",
+      "title": "A landscape before the story",
+      "paragraphs": [
+        "To begin a history of Korea with a king would be to arrive extraordinarily late. Long before cities, kingdoms, written records, or even the earliest human camps, the land that would become the Korean Peninsula was shaped through processes working on timescales almost beyond imagination. Mountains were raised and eroded, buried rock was transformed under pressure, rivers cut their passages, and shorelines moved as the earth and the sea changed around them. This is the deep setting for everything that follows.",
+        "The peninsula is not a uniform block of land. Its ridges and basins, its contrasting eastern and western coasts, and its intricate relationship with continental northeast Asia created different possibilities for human settlement. In later centuries the same landforms would influence the direction of roads, the locations of capitals, the movement of armies, and the growth of farming communities. Geography never dictated history by itself, but it established a remarkably durable set of opportunities and constraints.",
+        "Geological history must also be approached with a different kind of evidence. There are no eyewitnesses and no chronicles for the formation of an ancient mountain belt. Instead, scientists read rock layers, minerals, faults, sediments, and the structures preserved underground. Each is part of a record created without writing. Reading that record is an act of reconstruction: sometimes precise, sometimes provisional, and frequently revised as new measurements become available."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "I.1.1:b02",
+      "title": "The long conversation of stone",
+      "paragraphs": [
+        "The Korean Peninsula contains rocks with very different origins and ages. Some record the remains of ancient continental crust; others were produced as sediments accumulated, buried materials metamorphosed, or molten rock cooled into solid masses. This variety tells a story not of one dramatic birth but of repeated episodes of formation and transformation. A landscape that appears continuous to a traveler may be a mosaic of geological histories stitched together over immense spans of time.",
+        "Tectonic forces help explain why rock bodies are folded, fractured, intruded, or tilted. Erosion then reshapes the result. A mountain range is not simply something that rose once and remained unchanged. Its surface is continuously affected by rain, frost, rivers, vegetation, slope movement, and changes in climate. Even when geological motion becomes comparatively quiet, the landscape continues to evolve. Valleys widen, sediment moves downstream, and coastlines receive the material worn away from distant highlands.",
+        "These processes created the underlying materials of later human life. Stone supplied raw material for tools, bedrock helped determine relief, and weathering contributed to soils with different characteristics. Rivers connected uplands to lowlands. The history of land therefore flows into the history of resources, livelihoods, settlement, and technology, although the human uses of these environments came vastly later."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "I.1.1:b03",
+      "title": "Ridges, basins and the shape of movement",
+      "paragraphs": [
+        "People often imagine a country first as an outline on a map. But an outline reveals little of what movement inside that space feels like. A deep mountain valley may connect communities along its length while making journeys across neighboring ridges difficult. A river basin can gather farms, markets, and settlements around a shared water system. Open lowlands create opportunities for cultivation and movement that differ from those of steep, forested terrain.",
+        "In historical Korea, eastern mountain systems, western and southern lowlands, river corridors, and coastal approaches would repeatedly influence patterns of political consolidation. No single geographical feature explains the formation of a kingdom or the outcome of a war. Technology, institutions, population, and decisions all mattered. Yet rulers and ordinary households alike operated in a terrain that offered some routes more readily than others.",
+        "The best way to carry geography into a long historical narrative is to keep returning to it rather than treating it as an introductory diagram. A valley that first appears as a natural landform may reappear as a settlement corridor, a military passage, a market region, or a remembered cultural landscape. The same place can acquire new significance without losing the physical structure beneath it."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "I.1.1:b04",
+      "title": "Reading what survives",
+      "paragraphs": [
+        "The visible surface of the peninsula is only the latest chapter of a much longer sequence. Older landscapes have been buried or destroyed. Sediments preserve incomplete evidence of former environments, while rock formations record processes that may not have any direct modern equivalent. Investigators therefore build explanations from fragmentary traces and from comparison with processes observable elsewhere.",
+        "This produces an important distinction between a historical scene and a geological reconstruction. We can describe how erosion works and identify the materials present in a mountain, but we should not pretend to know exactly how every valley looked at each moment in deep time. A responsible narrative can still be vivid: it can explain processes, scale, consequence, and uncertainty without converting possibility into invented observation.",
+        "From here the journey leads into rivers, coasts, climate, ecosystems, and ultimately the arrival and lives of human populations. The landscape is not the preface to Korean history in the sense of being disposable background. It is a continuing participant in the narrative, changing slowly while human societies transform much faster."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ],
+  "wordCount": 807,
+  "status": "sample",
+  "disclosure": "Demonstration prose for the interaction prototype. No claim of source verification or complete coverage of this canonical subject."
+}

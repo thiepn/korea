@@ -1,0 +1,55 @@
+{
+  "id": "X.5.10",
+  "title": "Global Fandom, Cultural Policy, Intellectual Property, Cultural Controversies, and the Evolution of Hallyu",
+  "kicker": "CULTURE ACROSS BORDERS",
+  "description": "How global networks helped transform Korean popular culture into an international phenomenon.",
+  "blocks": [
+    {
+      "id": "X.5.10:b01",
+      "title": "Cultural movement, not a single event",
+      "paragraphs": [
+        "Hallyu, frequently rendered as the Korean Wave, refers to the international circulation and popularity of South Korean cultural forms. Television dramas, film, music, games, fashion, food, and online media have participated in this development, though their audiences, histories, and distribution networks are not identical.",
+        "It is tempting to describe the phenomenon as the inevitable result of a few successful entertainers or a unified national strategy. A more revealing account looks at shifting media markets, production companies, broadcasting systems, audience practices, digital platforms, and the often unpredictable ways a cultural work finds people far from where it was made.",
+        "Global reach also changes the work itself. Producers may consider international audiences, translation and subtitling practices shape reception, and fans create explanations, communities, performances, and new media around the original material. Circulation is never simply a one-way export."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "X.5.10:b02",
+      "title": "From broadcasting to platforms",
+      "paragraphs": [
+        "Before the contemporary dominance of streaming and social networks, television broadcasting, recorded media, regional distribution, and fan communities provided important routes for Korean entertainment beyond national borders. Different parts of Asia became significant spaces of circulation and reception, with particular programs and performers gaining traction through channels that changed over time.",
+        "Digital networks later transformed speed and scale. A performance could circulate through videos, excerpts, shared commentary, and user-created materials. Streaming platforms enabled some audiences to discover Korean-language content without first encountering it through domestic television schedules or traditional import channels.",
+        "This transformation produced new kinds of intermediaries. Translators, online communities, recommendation systems, critics, influencers, and independent fans could all affect visibility. Technology supplied channels, but actual cultural attachment came from people choosing to listen, watch, discuss, and return."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "X.5.10:b03",
+      "title": "Fans become participants",
+      "paragraphs": [
+        "Global fandom is not merely a measurement of attention. Fans organize communities, circulate translations, debate meanings, create derivative art, attend events, buy products, and sometimes engage in public advocacy. These activities can strengthen the durability of a cultural phenomenon after the release of any particular work.",
+        "At the same time, fan communities are diverse. Their experiences differ by language, country, age, economic resources, and access to platforms. International popularity does not erase inequalities in visibility or distribution. A global chart position and a local community gathering describe different dimensions of the same broader system.",
+        "Cultural exchange also runs in multiple directions. International audiences reinterpret Korean works through their own experiences, while Korean producers encounter foreign trends and collaborative possibilities. The history of Hallyu is thus part of a larger history of globalization, rather than proof of a self-contained cultural origin."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "X.5.10:b04",
+      "title": "Policy, markets and argument",
+      "paragraphs": [
+        "Government cultural policy, copyright systems, commercial investment, and the economics of entertainment production all influence the environment in which Hallyu develops. Yet cultural success cannot be reduced to policy alone. Creative decisions, labor conditions, management practices, distribution agreements, and audience agency all participate in the outcome.",
+        "International attention brings controversies as well as opportunities. Questions about representation, cultural translation, working conditions, ownership, privacy, and the demands placed on performers become more visible as industries grow. These are part of the history of cultural power, not side notes external to it.",
+        "The contemporary nature of this topic requires regular updating. What seems like the definitive trend of one moment may become a short chapter in a much longer account. An expandable history can absorb new media, new audiences, and changing debates without rewriting its entire structure every year."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ],
+  "wordCount": 542,
+  "status": "sample",
+  "disclosure": "Demonstration prose for the interaction prototype. No claim of source verification or complete coverage of this canonical subject."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "II.1.2",
+  "title": "Dangun, Foundation Myth, and the Construction of Gojoseon Origins",
+  "kicker": "THE ORIGINS WE TELL",
+  "description": "A foundation story opens a window onto memory, identity and the difficulty of beginnings.",
+  "blocks": [
+    {
+      "id": "II.1.2:b01",
+      "title": "Where history meets the story of origins",
+      "paragraphs": [
+        "Among the most enduring narratives associated with the beginnings of Korea is the story of Dangun. It is commonly retold as an origin account for Gojoseon, but its significance extends beyond any straightforward question of whether a particular founding event happened in the form described. The story matters because communities have returned to it repeatedly to explain antiquity, belonging, legitimacy, and the relationship between the human world and a sacred or extraordinary past.",
+        "A foundation narrative is not the same object as a contemporary administrative record. Stories travel through time. They are shaped by transmission, preservation, selection, and reinterpretation. A text written down centuries after the period it describes can be an excellent source for understanding the beliefs and cultural memory of the time when it circulated, while still being an uncertain guide to the much earlier events it appears to recount.",
+        "This distinction does not make the tale historically unimportant. On the contrary, it makes possible several different histories at once: the history of the story, the history of its preservation, the history of changing interpretations, and the separate archaeological problem of reconstructing early societies on the peninsula and in neighboring regions."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "II.1.2:b02",
+      "title": "A world of transformation",
+      "paragraphs": [
+        "In a familiar version of the Dangun tradition, a heavenly figure and a human world become connected through events involving a bear and a tiger. Transformation, endurance, descent, and the establishment of an earthly order provide the narrative with themes that reach beyond a royal genealogy. The tale links political beginnings to a cosmos alive with agency and meaning.",
+        "It would be misleading to read every element as literal reportage. The changing animal figures are part of a transmitted mythological account, not independently verified archaeological facts. Yet they allow us to ask how later audiences imagined the relationship between nature, moral testing, social order, and leadership. Different retellings and historical settings may emphasize different aspects of that relationship.",
+        "Origin stories are often powerful precisely because they connect many scales. They locate one people or polity inside a larger moral universe, give the landscape symbolic depth, and make collective time feel continuous. Such continuity can be politically useful and emotionally compelling even when the evidence for a precise ancient foundation date is limited."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "II.1.2:b03",
+      "title": "The archaeological problem",
+      "paragraphs": [
+        "When archaeological researchers investigate the world from which early Korean polities emerged, they study settlements, burials, ceramics, bronze objects, exchange networks, and changes in social differentiation. These are material questions. They can reveal the emergence of hierarchy, intensified production, regional interaction, and changing forms of authority, but they do not automatically identify the named characters of later mythic narratives.",
+        "The temptation to draw a direct line from a particular artifact to a particular figure in a story should therefore be resisted. Similar objects may circulate across communities with different identities. A burial style does not uniquely encode ethnicity; a bronze implement does not reveal the words spoken by its owner. Archaeology is enormously informative, but its evidence answers some questions more readily than others.",
+        "Gojoseon itself raises genuine historical questions about chronology, location, and the interpretation of early written references. These questions deserve investigation on their own terms. The Dangun tradition belongs beside this inquiry as historical memory, rather than being made to do the evidentiary work of excavation or contemporary documentation."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "II.1.2:b04",
+      "title": "A story that continues to live",
+      "paragraphs": [
+        "Across later centuries, the Dangun narrative could be recalled in very different political and cultural environments. Its presence in memory reflects not one unchanging interpretation but repeated acts of selection and use. An origin can become a symbol of continuity under external pressure, a subject of national storytelling, a point of scholarly argument, or a source of ritual and commemorative meaning.",
+        "This makes the history of reception as important as the narrative itself. Who quoted the story? In which period? For what audience? Against which other accounts of the past? When such questions are asked, the myth becomes part of a dynamic history of how people imagined Korea, not merely a proposition to label true or false.",
+        "The natural detour from this topic is into the early states, the material world of bronze and iron, and the ways retrospective historical writing shaped the origins of later kingdoms. The tale of Dangun is one entrance into the vast space between remembered beginnings and recoverable history."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ],
+  "wordCount": 701,
+  "status": "sample",
+  "disclosure": "Demonstration prose for the interaction prototype. No claim of source verification or complete coverage of this canonical subject."
+}

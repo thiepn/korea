@@ -1,0 +1,55 @@
+{
+  "id": "III.1.5",
+  "title": "Gwanggaeto the Great and Imperial Expansion",
+  "kicker": "A KINGDOM EXPANDS",
+  "description": "The age of Gwanggaeto reveals how power, campaigning and memory reshaped northeast Asia.",
+  "blocks": [
+    {
+      "id": "III.1.5:b01",
+      "title": "Northern horizons",
+      "paragraphs": [
+        "Goguryeo emerged as one of the major political powers of ancient northeast Asia. Its history cannot be understood solely within the boundaries of the modern Korean Peninsula, because its centers, campaigns, rivalries, and networks extended across regions that are now divided among different states. This broader setting is essential to the reign of Gwanggaeto, remembered as a ruler associated with unusually ambitious expansion and military initiative.",
+        "The end of the fourth and beginning of the fifth century were not a period of stillness around Goguryeo. Political authority was contested among different states and regional powers, and military force interacted constantly with diplomacy, alliance, mobility, and claims of legitimacy. A ruler who sought territorial influence had to deal not only with armies but with strongholds, logistical routes, subordinate groups, and neighboring courts.",
+        "The story of expansion is therefore more complex than a row of arrows on a map. Military events changed relationships among communities and political elites. Victories could strengthen royal authority, but control over frontier regions had to be maintained through continuing institutions and negotiations."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "III.1.5:b02",
+      "title": "Campaigns and the making of power",
+      "paragraphs": [
+        "Gwanggaeto is associated with campaigning in multiple directions and with the extension of Goguryeo influence over neighboring powers. The political meaning of such campaigning cannot always be reduced to modern notions of permanent annexation. Ancient rulers might assert dominance through tribute, military intervention, political dependency, the control of important places, or claims expressed in monumental inscriptions.",
+        "Territorial maps are useful as introductory aids, but they are especially dangerous when they portray a sharp, continuous border for periods when authority could be layered and fluctuating. Some regions experienced direct administration, while others may have been related through alliances or unequal diplomatic relationships. Understanding what influence meant at a particular place and time is a research question, not an automatic consequence of a successful battle.",
+        "A long narrative of this reign should give room to roads, river valleys, forts, military households, local communities, and the consequences of campaigning for ordinary inhabitants. The sources are uneven, making reconstruction necessary. That limitation should encourage thoughtful explanation rather than a false impression that every journey and conversation is known."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "III.1.5:b03",
+      "title": "The inscription and the image of a ruler",
+      "paragraphs": [
+        "One of the most important sources for Gwanggaeto and the royal ideology surrounding him is the monumental stele associated with his reign and erected in the following reign. Monumental inscriptions are not neutral chronicles. They are public acts of political memory: selected achievements are recorded in forms intended to communicate authority and shape the interpretation of the past.",
+        "The inscription is precious because it provides an early written perspective on Goguryeo history. Yet its wording, interpretation, and the politics of later readings demand care. Scholars have debated how to understand passages concerning Goguryeo and other regional powers, particularly where ancient Korea–Japan relations are at stake. The existence of an inscription does not remove the need to ask whose viewpoint it represents.",
+        "Its physical form matters as well. A monumental text is encountered as stone, labor, location, language, and public display. The act of preserving a ruler in such material form links political history to the history of writing, artistic production, dynastic remembrance, and changing modern interpretations."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "III.1.5:b04",
+      "title": "After the victories",
+      "paragraphs": [
+        "Royal achievements became part of a longer Goguryeo story, including the development of central authority and a changing strategic focus under later rulers. The achievements of one reign did not suspend political change. Rival kingdoms adjusted, opportunities shifted, and frontier relationships required renewed attention.",
+        "Gwanggaeto can be explored through several narrative paths: military organization, the political geography of northeast Asia, court institutions, inter-polity diplomacy, inscriptional culture, and the modern memory of ancient kingdoms. The same reign is many histories at once, each opened by a different question.",
+        "For readers following the larger chronology, the natural continuation is the reign of Jangsu and Goguryeo’s changing political orientation. For those taking a detour, the history of Baekje or early diplomacy leads to a different angle on the same world."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ],
+  "wordCount": 643,
+  "status": "sample",
+  "disclosure": "Demonstration prose for the interaction prototype. No claim of source verification or complete coverage of this canonical subject."
+}

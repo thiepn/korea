@@ -1,0 +1,55 @@
+{
+  "id": "IX.1.1",
+  "title": "15 August 1945: Liberation, Political Vacuum, and the Collapse of Colonial Authority",
+  "kicker": "A SUDDEN OPENING",
+  "description": "August 1945 was both an end of colonial rule and the beginning of an uncertain political future.",
+  "blocks": [
+    {
+      "id": "IX.1.1:b01",
+      "title": "The end of one order",
+      "paragraphs": [
+        "In August 1945, the collapse of Japanese imperial rule transformed the political possibilities of the Korean Peninsula. The end of colonial authority did not simply bring an immediate, settled national government into existence. Institutions had been shaped by decades of imperial administration, while Korean organizations and individuals held sharply different ideas about legitimate authority and the direction of reconstruction.",
+        "Liberation was therefore simultaneously a moment of hope and a practical crisis of power. Who could issue orders, maintain public services, organize policing, distribute resources, and speak for the country? These were not abstract constitutional questions. They shaped how towns, workplaces, villages, and households encountered the transition.",
+        "Historical memory often frames the date as a clear break between two periods, and in important respects it was. But some structures, personnel, inequalities, and immediate shortages carried across that boundary. Understanding both rupture and continuity is necessary for explaining why the months after liberation proved so politically consequential."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IX.1.1:b02",
+      "title": "The politics of an uncertain moment",
+      "paragraphs": [
+        "Korean political organizations attempted to shape the emerging order through committees, negotiations, declarations, and local organizing. The Committee for the Preparation of Korean Independence and the associated efforts to establish new authority belong to the rapidly evolving story of August and September 1945. Political legitimacy was contested from the beginning.",
+        "Ideological differences mattered, but they were not the only divisions. Leaders and communities disagreed about institutional procedure, property, social reform, local authority, political representation, and the relationship between Korean initiative and foreign power. Individuals sometimes changed positions as the situation changed.",
+        "Local organization could be especially important where central institutions were weak or uncertain. A nationwide narrative must leave room for these regional variations rather than imagining that political developments in a capital automatically determined what happened everywhere else."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IX.1.1:b03",
+      "title": "Division enters the frame",
+      "paragraphs": [
+        "International decisions and military developments placed Korea within the postwar settlement among major powers. Soviet and American occupation zones emerged around the 38th parallel, creating a new political geography that profoundly affected competing projects for a unified Korean state.",
+        "The line did not instantly explain every later development. Division hardened through institutional choices, negotiations, conflict, external intervention, and the formation of distinct political orders. Treating all subsequent events as inevitable would obscure the alternatives and uncertainties that participants actually confronted.",
+        "It is useful to follow the chronology slowly. The liberation moment, the establishment of occupation zones, the growth of competing authorities, and the failure to construct an accepted unified settlement are related but distinct developments. Each deserves its own place in an extensive historical narrative."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "IX.1.1:b04",
+      "title": "Ordinary life inside the transition",
+      "paragraphs": [
+        "Changes in sovereignty are experienced through daily systems: food distribution, workplaces, transport, schools, policing, return migration, and access to information. Liberation did not suspend these needs. People had to continue living while authority was disputed and institutions were reorganized.",
+        "The movement of former soldiers, workers, exiles, and refugees added to the social complexity of the period. Expectations about land, employment, justice, and the treatment of people linked to colonial power differed across communities. Questions of collaboration and survival could not always be answered by simple moral categories.",
+        "The story continues naturally into the occupation administrations and the founding of rival states. A reader can also move sideways into personal memory, local committees, international diplomacy, or the broader history of postwar decolonization in Asia."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ],
+  "wordCount": 532,
+  "status": "sample",
+  "disclosure": "Demonstration prose for the interaction prototype. No claim of source verification or complete coverage of this canonical subject."
+}
