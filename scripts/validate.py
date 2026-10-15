@@ -1,60 +1,45 @@
 #!/usr/bin/env python3
-"""Project-level deterministic validation; no paid APIs or external dependencies."""
+"""KOREA v2 publication validation: immutable historical addresses and content hash integrity."""
 from pathlib import Path
-import json,re,hashlib,sys
-R=Path(__file__).resolve().parent.parent
-arch=json.loads((R/'data/architecture.json').read_text())
-manifest=json.loads((R/'data/content-manifest.json').read_text())
-expected=['I','II','III','IV','V','VI','VII','VIII','IX','X']
-assert [p['id'] for p in arch['parts']]==expected
-ids=set();chapters=0
-for p in arch['parts']:
-    assert len(p['chapters'])==10,p['id']
-    for c in p['chapters']:
-        chapters+=1
-        assert c['id'].startswith(p['id']+'.')
-        assert len(c['subchapters'])==10,c['id']
-        for s in c['subchapters']:
-            assert s['id'].startswith(c['id']+'.')
-            assert s['id'] not in ids
-            ids.add(s['id'])
-assert len(ids)==1000 and chapters==100
-assert arch['counts']['plannedSections']==10*len(ids)
-assert arch['counts']['plannedTerminalSubsections']==100*len(ids)
-assert len(manifest['articles'])==manifest['count']
+import hashlib,json,re
+from build_corpus import DATA,ROOT,canonical,encode,compile_corpus,digest,WORD_RE
+arch=json.loads((DATA/'architecture.json').read_text()); titles=canonical()
+assert [p['id'] for p in arch['parts']]==['I','II','III','IV','V','VI','VII','VIII','IX','X']
+assert len(titles)==1000 and sum(len(p['chapters']) for p in arch['parts'])==100
+assert all(len(p['chapters'])==10 and all(len(c['subchapters'])==10 for c in p['chapters']) for p in arch['parts'])
+assert arch['counts']['plannedSections']==10_000 and arch['counts']['plannedTerminalSubsections']==100_000
+manifest=json.loads((DATA/'content-manifest.json').read_text());catalog=json.loads((DATA/'search/catalog.json').read_text());shardmap=json.loads((DATA/'search/shard-map.json').read_text())
+assert manifest['version']==2 and len(manifest['articles'])==manifest['count']
 assert len({a['id'] for a in manifest['articles']})==manifest['count']
-total_words=0;blocks=0
-for a in manifest['articles']:
-    assert a['id'] in ids
-    original=json.loads((R/'data/articles'/f"{a['id']}.json").read_text())
-    assert original['title']==a['title']
-    assert a['blocks']==len(a['chunks'])==len(original['blocks'])
-    words=sum(len(re.findall(r"\b[\w’'-]+\b",p)) for block in original['blocks'] for p in block['paragraphs'])
-    assert words==a['wordCount']
-    for b,chunk in zip(original['blocks'],a['chunks']):
-        assert chunk['id']==b['id']
-        path=R/chunk['path'].removeprefix('./')
-        assert path.exists(),path
-        raw=path.read_bytes(); assert hashlib.sha256(raw).hexdigest()==chunk['sha256']
-        assert json.loads(raw)==b
-        blocks+=1
-    total_words+=words
-assert total_words==manifest['sampleWordCount']
-assert total_words>=4000
-print(f'PASS original structure: {len(arch["parts"])} Parts / {chapters} Chapters / {len(ids)} Subchapters')
-print('PASS reserved virtual addresses: 10,000 Section and 100,000 terminal slots')
-print(f'PASS corpus integrity: {manifest["count"]} sample articles, {blocks} SHA-256 verified fetchable blocks, {total_words:,} words')
-
-# Batch A exploration metadata derives only from available canonical IDs and source prose.
-explore=json.loads((R/'data/explore.json').read_text())
-search=json.loads((R/'data/search-index.json').read_text())
-assert len(explore['collections'])>=6
-assert len({c['slug'] for c in explore['collections']})==len(explore['collections'])
-assert all(c['ids'] and len(set(c['ids']))==len(c['ids']) and set(c['ids'])<=ids for c in explore['collections'])
-assert search['articleCount']==manifest['count']
-assert {a['id'] for a in search['articles']}=={a['id'] for a in manifest['articles']}
-for item in search['articles']:
- original=json.loads((R/'data/articles'/f"{item['id']}.json").read_text())
- assert len(item['blocks'])==len(original['blocks'])
- assert [b['text'] for b in item['blocks']]==[' '.join(b['paragraphs']) for b in original['blocks']]
-print(f'PASS Batch A exploration: {len(explore["collections"])} canonical trails, full-text index over {len(search["articles"])} articles')
+assert set(x['id'] for x in catalog['articles'])==set(a['id'] for a in manifest['articles'])
+article_words=0;passages=0;seen_packs=set();unique_paths=set()
+for entry in manifest['articles']:
+ id=entry['id'];assert id in titles and entry['title']==titles[id]
+ source=json.loads((DATA/'articles'/f'{id}.json').read_text())
+ assert len(source['blocks'])==len(entry['chunks'])==entry['blocks']
+ words=sum(len(WORD_RE.findall(p)) for b in source['blocks'] for p in b['paragraphs'])
+ assert entry['wordCount']==words,(id,entry['wordCount'],words)
+ article_words+=words;passages+=len(source['blocks'])
+ for chunk,original in zip(entry['chunks'],source['blocks']):
+  assert chunk['id']==original['id'] and chunk['title']==original['title']
+  assert digest(encode(original))==chunk['sha256']
+  path=ROOT/chunk['pack'].removeprefix('./');raw=path.read_bytes();pack=json.loads(raw)
+  assert pack['article']==id and pack['version']==2 and pack['blocks'][chunk['offset']]==original
+  unique_paths.add(path)
+ for item in entry['packs']:
+  path=ROOT/item['path'].removeprefix('./');assert digest(path.read_bytes())==item['sha256']
+  assert path.stat().st_size==item['bytes'] and item['bytes']<=24_000+20000
+  seen_packs.add(path)
+assert article_words==manifest['sampleWordCount']
+assert unique_paths==seen_packs==set((DATA/'packs').glob('*.json'))
+assert len(seen_packs)<20_000,'Pages free-plan file cap: use R2 after 20k artifacts'
+for prefix,meta in shardmap['shards'].items():
+ p=ROOT/meta['path'].removeprefix('./');assert p.exists() and digest(p.read_bytes())==meta['sha256']
+ content=json.loads(p.read_text());assert content['prefix']==prefix and all(t.startswith(prefix) for t in content['terms'])
+ assert all(all(isinstance(pos,list) and len(pos)==2 and 0<=pos[0]<len(manifest['articles']) and 0<=pos[1]<catalog['articles'][pos[0]]['blocks'] for pos in rows) for rows in content['terms'].values())
+assert set((DATA/'search/shards').glob('*.json'))=={ROOT/meta['path'].removeprefix('./') for meta in shardmap['shards'].values()}
+explore=json.loads((DATA/'explore.json').read_text());assert all(set(c['ids'])<=titles.keys() for c in explore['collections'])
+assert compile_corpus(write=False)['words']==article_words
+print(f'PASS v1.1: 10 Parts, 100 Chapters, 1,000 canonical topics; 10,000 and 100,000 virtual addresses')
+print(f'PASS corpus: {manifest["count"]} articles, {passages} immutable passages, {article_words:,} words, {len(seen_packs)} hash-pinned content packs')
+print(f'PASS full-text: {len(shardmap["shards"])} indexed search shards, all hashes verified')

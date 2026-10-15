@@ -1,0 +1,48 @@
+{
+  "id": "IV.3.1",
+  "title": "Social Rank, Commoners, Dependents, and Slavery",
+  "kicker": "DEEPER INTO THE ARCHIVE",
+  "description": "An extended journey through IV.3.1 in the original KOREA chronology.",
+  "blocks": [
+    {
+      "id": "IV.3.1:b01",
+      "title": "Rank as an organizing principle",
+      "paragraphs": [
+        "Society in Silla cannot be understood only through the decisions of rulers. Status could influence marriage, office, patterns of residence, ritual obligations, and the resources a household could command. The famous bone-rank system is central to descriptions of Silla elites, but its categories do not amount to a complete census of every person who lived under Silla authority. Elite classifications are most visible in sources precisely because elite political life often generated the surviving written record.",
+        "A careful social history therefore shifts between scales. At court, it asks how rank shaped eligibility and ambition. In communities beyond the capital, it asks about producers, dependents, local intermediaries, and households whose ordinary routines are much harder to reconstruct. The result should not be a single pyramid in which everyone has a neatly documented place, but an exploration of the practical consequences of unequal social standing."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.1:b02",
+      "title": "The visible and invisible labor of a kingdom",
+      "paragraphs": [
+        "Agriculture underpinned many premodern political systems, and communities engaged in cultivation, transport, maintenance, and domestic production remained essential to elite power. Yet the people performing such work seldom occupy the center of royal chronicles. Their presence may instead be approached through landholding arrangements, archaeological settlements, tax or labor obligations mentioned in texts, and material remains of production.",
+        "It is tempting to fill those gaps with detailed scenes of a typical Silla village. General observations about sowing, harvesting, food preparation, and seasonal vulnerability can make the past imaginable, but they should be presented as context rather than as a witnessed account of one documented household. This separation allows narrative richness without erasing the genuine uncertainty around everyday life."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IV.3.1:b03",
+      "title": "Dependence and unfreedom",
+      "paragraphs": [
+        "The words used to describe dependents and unfree people in historical settings require care. Legal categories, household relationships, labor requirements, and ownership practices changed across periods, and modern terminology can conceal more than it reveals. An account that simply applies one contemporary label to every historical condition risks flattening the different ways people might have been bound to an institution, family, or local authority.",
+        "An extended narrative can explore how coercion affected movement, work, family security, and the transmission of status while making clear where particular claims come from. Even when surviving sources favor elites, social hierarchy was not just an abstract diagram. It had consequences for access to resources and for whose interests the institutions of the kingdom were designed to protect."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "IV.3.1:b04",
+      "title": "Status and political change",
+      "paragraphs": [
+        "Social arrangements rarely remain motionless. Wars, court disputes, land distribution, religious patronage, and new relations between the center and local communities can alter the meaning of rank. A regulation intended to stabilize elite privilege may help us understand the anxieties of the group that issued it, but it does not prove perfect enforcement throughout the kingdom.",
+        "For the reader, the most interesting route may run across several chapters: from rank to education, from elite family alliances to administration, or from agricultural production to the financing of temples. The history of Silla society then emerges as a network of institutions and people rather than a closed description of a social system. Every transition makes another part of the archive relevant."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "I.2.1",
+  "title": "Discovering Paleolithic Korea",
+  "kicker": "DEEPER INTO THE ARCHIVE",
+  "description": "An extended journey through I.2.1 in the original KOREA chronology.",
+  "blocks": [
+    {
+      "id": "I.2.1:b01",
+      "title": "The evidence beneath our feet",
+      "paragraphs": [
+        "Paleolithic Korea comes into view through traces left in the ground rather than through written testimony. Archaeologists work with layers of sediment, chipped stone, deposits from former river terraces, and the shifting locations of ancient waterways. What appears to be a simple implement may have passed through a long history of manufacturing, use, breakage, movement, and burial. Recovering it is only the beginning of reconstructing a human action. The interpreter must ask where the object was found, whether it remained in its original position, and what neighboring deposits may indicate about the setting.",
+        "This archaeological perspective makes the early history of the peninsula necessarily open-ended. Every excavation describes a sample of a far larger lost landscape, and different methods can lead to different chronological estimates. A visitor to a prehistoric site may see only a small cluster of stones behind museum glass. Behind those stones lies a difficult argument about the sequence of human arrival, the changing use of land, and the relationship between local evidence and developments elsewhere in Northeast Asia."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "I.2.1:b02",
+      "title": "Stone as technology",
+      "paragraphs": [
+        "A chipped stone tool is an answer to a material problem. Edges can cut, scrape, pierce, or help process other substances; their precise use cannot be assumed from shape alone. Toolmakers selected raw material, struck flakes from cores, and worked within constraints imposed by stone quality and availability. A valley rich in suitable cobbles offered different opportunities from a coastal landscape where people might need to transport preferred material from a distance.",
+        "The history of technology can therefore be approached as a history of decisions. A useful flake may be produced quickly and discarded immediately, whereas a carefully worked object may be transported and used repeatedly. Tool assemblages preserve fragments of these different strategies. They cannot automatically reveal how many people were present, what those people called themselves, or how social relations operated. Their importance lies in showing practical skill and adaptation across environments that themselves changed over thousands of years."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "I.2.1:b03",
+      "title": "Cold, warm, and changing habitats",
+      "paragraphs": [
+        "Prehistoric people did not inhabit one unchanging Korean peninsula. Climate, vegetation, coastlines, and animal distributions shifted over long periods. During colder intervals, landscapes and routes of movement could differ substantially from their later forms. River valleys might expose useful resources or form travel corridors, while high ground and seasonal conditions shaped what could be attempted. Such environmental patterns supply context, but they cannot be converted into a single rigid explanation for every archaeological site.",
+        "An accessible history should invite visitors to imagine the physical tasks of crossing a landscape without claiming to know the private thoughts of its inhabitants. Carrying tools, reading weather, finding fuel, and returning to a reliable source of water would all have had practical importance in many settings. Those observations describe general human challenges rather than documented scenes from one particular Korean camp. The distinction matters because the history is evocative precisely where the surviving record is incomplete."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "I.2.1:b04",
+      "title": "What an excavation can and cannot tell us",
+      "paragraphs": [
+        "An excavation operates by removing layers in a controlled sequence and documenting context before it disappears. Finds become more informative when associated with dates, sediment descriptions, other artifacts, and local geology. Modern interpretations also depend on laboratory techniques and comparison with material recovered elsewhere. The result is a cumulative conversation rather than a single dramatic discovery that settles every question about the first human occupation.",
+        "This subject is best explored through several parallel stories: the making of tools, the evolution of landscapes, the history of archaeological discovery, and the limits of assigning identity to people who left no written self-description. Those paths connect naturally to later Neolithic communities without implying that one culture simply turned into another overnight. The dividing lines in an encyclopedia help organize knowledge; the long human story itself did not arrive in neat chapters."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ]
+}

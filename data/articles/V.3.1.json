@@ -1,0 +1,48 @@
+{
+  "id": "V.3.1",
+  "title": "The Goryeo Aristocratic Order and the Structure of Social Status",
+  "kicker": "DEEPER INTO THE ARCHIVE",
+  "description": "An extended journey through V.3.1 in the original KOREA chronology.",
+  "blocks": [
+    {
+      "id": "V.3.1:b01",
+      "title": "Aristocracy as a relationship",
+      "paragraphs": [
+        "The social world of Goryeo is often described through powerful families connected to court service, land, examination culture, and marriage networks. An aristocratic order was not simply a list of hereditary titles. Its power operated through relationships that could be maintained, challenged, and reassembled. Kinship connections mattered because appointments, prestige, resources, and political influence rarely circulated independently of the people who controlled access to them.",
+        "Describing this order requires attention to both continuity and competition. Some lineages were able to reproduce advantages across generations; others rose or declined as the political setting changed. Court crises and new institutions could reorder influence without abolishing hierarchy as such. A visitor should be able to follow one theme—marriage, office, education, or land—from the general story into detailed chapters elsewhere in the archive."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "V.3.1:b02",
+      "title": "Learning and the routes into office",
+      "paragraphs": [
+        "Education and official recruitment provided important pathways into government, but they operated within a social world already marked by unequal resources. Preparations for service could depend on family circumstances, access to teachers, familiarity with texts, and the opportunities associated with regional or courtly networks. It would be misleading to describe the existence of examinations as evidence that political life became equally open to everyone.",
+        "At the same time, institutions mattered because they provided recognizable forms of training and legitimacy. The relationship between family background and learned qualifications creates a productive tension in the history of Goryeo elites. A long-form reader can examine particular offices, schools, court debates, and family strategies without collapsing them into either perfect meritocracy or unchanging aristocratic monopoly."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "V.3.1:b03",
+      "title": "Hierarchy beyond the palace",
+      "paragraphs": [
+        "An account of aristocratic politics tells only part of Goryeo social history. Agricultural producers, artisans, merchants, religious communities, local officers, and dependent populations sustained a complex economy. What counted as status could involve occupation, legal position, descent, location, and relations with powerful institutions. Some categories in surviving texts are difficult to translate precisely into familiar modern classes.",
+        "A reader should not leave with the impression that the capital contained the entire kingdom. Networks of grain, goods, labor, information, and patronage connected political elites to many local communities. Archaeological remains, documentary fragments, and the physical geography of the peninsula can help make these connections visible even when individual ordinary lives remain undocumented."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    },
+    {
+      "id": "V.3.1:b04",
+      "title": "Changing balances of influence",
+      "paragraphs": [
+        "The place of aristocratic families shifted during conflicts within the court and amid longer changes in Goryeo’s political and military institutions. A family might be influential in one generation but vulnerable in the next. Religious patronage, education, marriage alliances, and relations with the monarch could all shape the fortunes of powerful households. These dynamics resist reduction to a simple contest between two permanent social blocs.",
+        "As part of an endless reading experience, this topic should connect naturally to Goryeo bureaucracy, military rule, land and taxation, Buddhist institutions, and the political transformations of the late dynasty. It is a central node because social hierarchy appears differently in each of those stories. Reading the same structures from several directions makes the archive substantially richer than repeating a single general description."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 4
+    }
+  ]
+}

@@ -122,3 +122,44 @@ python3 tests/batch_a_journeys.py
 ```
 
 The `build_packs.py` manifest keeps words/checksums from `data/content-manifest.json`, so after adding a new article you must register its metadata there before compiling. `build_exploration.py` derives the searchable paragraphs and themed trail metadata. See `BATCH_A_REPORT.md` for detailed functionality and test limitations. Do not run `scripts/build_articles.py` to refresh the Batch A corpus; that original Phase 1 sample generator is intentionally preserved and would replace the manifest with its seven original demonstrations. Production `main` is unchanged; this work is an unmerged development branch.
+
+
+## Batch B — scalable content platform (October 2026)
+
+**Source of truth:** `data/articles/*.json` contains the editable original history texts; `canonical/` preserves v1.1 architecture byte-for-byte.
+The original 10/100/1,000 historical IDs (and planned 10,000/100,000 descendant addresses) are untouched.
+
+The site now downloads a compact **v2 article catalog + shard map** at startup rather than the original entire text index.
+Full-text search retrieves only relevant `data/search/shards/*.json` files as needed, with a bounded in-memory cache.
+Reading fetches compact content-addressed `data/packs/*.json` and reuses prefetched/loaded packs instead of fetching one network request per paragraph or downloading a huge whole-article file. These assets are deterministic: unchanged text produces unchanged URLs.
+
+### Build
+
+```bash
+python3 scripts/build_release.py
+python3 tests/batch_b_pipeline.py
+python3 tests/batch_b_browser.py  # requires Playwright / Chromium
+```
+
+The release builder regenerates the v2 corpus, shard indexes and themed paths from original editable sources, runs full validation, and writes only allowlisted public files to `dist/`.
+Cloudflare Pages continues to use `python3 scripts/build_release.py` and `dist`.
+
+### Batch ingest
+
+An import file contains one JSON object per line, e.g.
+
+```json
+{"id":"VI.4.2","mode":"append","blocks":[{"title":"A new extended passage","paragraphs":["A full paragraph of newly written history with enough explanatory detail to justify publication."]}]}
+```
+
+```bash
+python3 scripts/ingest.py content/imports/example.jsonl --dry-run
+python3 scripts/ingest.py content/imports/example.jsonl
+python3 scripts/build_release.py
+```
+
+The importer verifies that IDs exist in the canonical source, prevents edits to published history under `replace`, detects ambiguous overlapping passage content, assigns monotonically increasing stable passage IDs and accepts exact replay without double-adding content. **It does not itself publish to GitHub or Cloudflare**, and a batch with several changed articles uses per-file atomic writes rather than a multi-file database transaction.
+
+The starting Batch B import file lives in `content/imports/batch_b_editorial.jsonl`; its ten published new texts are also preserved under `data/articles`. All texts are original *illustrative editorial narratives*, not source-verified academic accounts.
+
+**Scale boundary:** The compiler currently produces static files for Cloudflare Pages. When the pack/shard count approaches the Pages Free file cap, transition the same content-addressed artifacts to R2 without changing canonical IDs. Do not commit generated `dist`, pack or shard files as source; they are recreated by the Cloudflare build.
