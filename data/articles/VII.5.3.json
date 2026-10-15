@@ -1,0 +1,36 @@
+{
+  "id": "VII.5.3",
+  "title": "Women's Property, Legal Position, Work, and Social Authority",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Women's Property, Legal Position, Work, and Social Authority, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VII.5.3:b01",
+      "title": "Women's lives do not fit one rule",
+      "paragraphs": [
+        "Women's property rights and practical authority in Joseon changed across centuries and varied by household, rank, marital circumstances, and location. Normative statements about gender describe ideals held by particular writers; they cannot be taken as complete descriptions of everyday life. Inheritance documents, litigation, letters, and household records may show women as managers of resources, negotiators of family interests, or participants in disputes. Each genre offers a partial view."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VII.5.3:b02",
+      "title": "Families rearranged obligations",
+      "paragraphs": [
+        "Changing expectations about patrilineal descent and marriage affected residence, ancestral rites, and the distribution of property. These shifts unfolded unevenly and interacted with economic pressures. A widow, daughter, mother, or married woman might encounter different claims on her labor and assets. Historians can trace these practical conflicts without assuming that a household simply obeyed prescriptive texts in every circumstance."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VII.5.3:b03",
+      "title": "Authority had multiple forms",
+      "paragraphs": [
+        "Formal offices were overwhelmingly male spaces, but political and economic decisions were influenced through kinship, patronage, property, and everyday negotiation. Recognizing such forms of authority does not erase constraints or justify romantic portraits of hidden power. It allows a fuller assessment of how women helped sustain and contest social arrangements despite the limits placed upon them."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

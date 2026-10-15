@@ -1,0 +1,36 @@
+{
+  "id": "I.3.3",
+  "title": "Comb-Pattern Pottery and Ceramic Culture",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Comb-Pattern Pottery and Ceramic Culture, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "I.3.3:b01",
+      "title": "A vessel is more than a pattern",
+      "paragraphs": [
+        "Comb-pattern pottery is a visible marker of Neolithic archaeology in Korea, but its significance cannot be reduced to decoration. A ceramic vessel was a solution to the everyday problem of storing, preparing, and sharing food. Its shape depended on the properties of clay, the potter's techniques, the intended use, and the hearth or ground on which it rested. Incised surfaces help archaeologists compare traditions, yet similar ornament can occur among people whose social relationships are not known. Pottery offers a record of skill and repeated household tasks rather than a straightforward map of ethnic groups."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "I.3.3:b02",
+      "title": "Cooking changes a settlement",
+      "paragraphs": [
+        "Ceramics participate in a wider domestic system. Boiling, steaming, storing water, and processing plant or marine foods influence the organization of work near dwellings. Broken pots accumulated where people cooked and discarded refuse, making some settlements unusually visible to excavation. Researchers examine vessel fragments together with hearths, food remains, stone implements, and settlement layout. No single sherd can tell a complete story of diet, but the combined evidence offers a more grounded account of how communities organized daily life beside shores and inland waterways."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "I.3.3:b03",
+      "title": "Learning and passing on craft",
+      "paragraphs": [
+        "Pottery depends on acquired judgment: how wet the clay should be, how thick a wall can remain, which forms survive drying, and how heat changes the finished material. Such knowledge is usually learned through repeated practice and observation. The distribution of techniques may reflect contacts among settlements or independent solutions to similar needs. Both possibilities deserve examination. For a history of early Korean society, the value of ceramics lies in how ordinary craftsmanship connects individual hands with enduring community practices."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

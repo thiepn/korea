@@ -19,6 +19,7 @@ WORD_RE = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
 TOKEN_RE = re.compile(r'[a-z0-9]{3,}', re.ASCII)
 STOP = set('the and for but was were are that this with from have has had into between its their there which what when where been being about also through these those they them then than would could should because while before after under over more some each other only such many much very even often across among most just will can not you your our how why who all his her she him one two three both onto itself within without together during around'.split())
 MAX_PACK_BYTES = 24_000  # keep HTTP payloads bounded; browser downloads only 1 small pack
+MAX_SEARCH_SHARD_BYTES = 48_000  # split crowded token-prefix shards before publication
 
 
 def encode(obj):
@@ -82,10 +83,12 @@ def compile_corpus(*, write=True):
         for block in a['blocks']:
             trial=encode({'version':2,'article':key,'blocks':current+[block]})
             if current and len(trial)>MAX_PACK_BYTES:flush()
+            single=encode({'version':2,'article':key,'blocks':[block]})
+            if len(single)>MAX_PACK_BYTES:raise ValueError(f'Passage exceeds {MAX_PACK_BYTES}-byte pack limit: {block["id"]}')
             current.append(block)
         flush()
         count=sum(len(WORD_RE.findall(p)) for b in a['blocks'] for p in b['paragraphs']);counted+=count
-        manifest.append({'id':key,'title':a['title'],'kicker':a.get('kicker','HISTORY'), 'description':a.get('description',''), 'wordCount':count,'blocks':len(a['blocks']), 'chunks':passage_index,'packs':groups})
+        manifest.append({'id':key,'title':a['title'],'kicker':a.get('kicker','HISTORY'), 'description':a.get('description',''), 'release':a.get('release',''), 'wordCount':count,'blocks':len(a['blocks']), 'chunks':passage_index,'packs':groups})
         doc_index=len(catalog)
         catalog.append({'id':key,'title':a['title'],'description':a.get('description',''),'blocks':len(a['blocks']),'wordCount':count,'previews':[{'title':b['title'],'text':b['paragraphs'][0][:168].replace('\n',' ')} for b in a['blocks']]})
         for block_index,b in enumerate(a['blocks']):
@@ -96,9 +99,22 @@ def compile_corpus(*, write=True):
                     index=tokens.setdefault(term,{})
                     if key not in index:index[key]=[doc_index,block_index]
 
-    shards={}
+    # Adaptive trie leaves: retain stable two-letter paths for small groups, split
+    # large groups into longer prefixes without redistributing unrelated shards.
+    groups={}
     for term,items in sorted(tokens.items()):
-        prefix=term[:2];shards.setdefault(prefix,{})[term]=list(items.values())
+        groups.setdefault(term[:2],{})[term]=list(items.values())
+    shards={}
+    def partition(prefix,posting):
+        raw=encode({'version':2,'prefix':prefix,'terms':posting})
+        if len(raw)<=MAX_SEARCH_SHARD_BYTES or len(posting)==1 or len(prefix)>=12:
+            shards[prefix]=posting
+            return
+        children={}
+        for term,records in posting.items():
+            children.setdefault(term[:len(prefix)+1],{})[term]=records
+        for child,records in sorted(children.items()): partition(child,records)
+    for prefix,posting in sorted(groups.items()):partition(prefix,posting)
     shard_assets={}; shard_manifest={}
     for prefix,posting in shards.items():
         raw=encode({'version':2,'prefix':prefix,'terms':posting})

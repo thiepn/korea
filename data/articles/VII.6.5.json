@@ -1,0 +1,36 @@
+{
+  "id": "VII.6.5",
+  "title": "The Daedong Law, Gongin, and the Transformation of Tribute Taxation",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to The Daedong Law, Gongin, and the Transformation of Tribute Taxation, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VII.6.5:b01",
+      "title": "Tax reform and the burden of tribute",
+      "paragraphs": [
+        "The Daedong Law reorganized aspects of Joseon's tribute system in ways that affected households, local administration, and procurement. Rather than treating all fiscal reform as a uniform reduction of hardship, historians examine its timing, regional application, and practical consequences. A central government might seek more predictable revenue while communities needed relief from arbitrary collection. Reform involved both ideals of fairness and an attempt to make administration work."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VII.6.5:b02",
+      "title": "The appearance of new intermediaries",
+      "paragraphs": [
+        "Changes in taxation could reshape the relationships among producers, officials, and suppliers. The gongin associated with procurement form part of this broader commercial and administrative landscape. New arrangements opened opportunities for some actors while leaving others with difficult obligations. Understanding the reform therefore requires following goods as well as laws: what was collected, how it was delivered, and who profited from organizing supply."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VII.6.5:b03",
+      "title": "A long policy history",
+      "paragraphs": [
+        "Significant reforms often advanced through trial, controversy, and extension rather than by one immediate decree covering an entire kingdom. Local conditions and resistance influenced implementation. The history of Daedong shows why a fiscal measure can alter economic relationships far beyond the tax office, connecting the court's need for resources to the changing commercial life of society."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

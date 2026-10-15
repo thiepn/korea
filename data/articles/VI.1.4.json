@@ -1,0 +1,36 @@
+{
+  "id": "VI.1.4",
+  "title": "Jeong Do-jeon and the Founding Political Program",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Jeong Do-jeon and the Founding Political Program, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VI.1.4:b01",
+      "title": "A new dynasty needed an argument",
+      "paragraphs": [
+        "Jeong Do-jeon's political program belonged to the transformation that accompanied Joseon's founding. The collapse of an older order did not resolve how a new monarch should rule, how officials should advise him, or what place inherited religious and aristocratic institutions should retain. Political writing offered an argument about legitimate authority and proper government. Those arguments were also interventions in immediate struggles among ambitious figures whose visions did not always coincide."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VI.1.4:b02",
+      "title": "Institutions as moral claims",
+      "paragraphs": [
+        "Neo-Confucian political thinking connected administration with ethical ideals about the ruler, learning, and the welfare of subjects. Such ideals could justify criticism of older institutions and proposals for new ones. Yet moral vocabulary did not place politics above rivalry. The early Joseon court remained a setting of contests over royal kinship, military influence, and the authority of ministers. A balanced account holds together the intellectual ambition and its contentious political environment."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VI.1.4:b03",
+      "title": "Founding plans and later realities",
+      "paragraphs": [
+        "A plan's historical significance includes both what it achieved and what subsequent events made difficult. Royal succession, changing court coalitions, and the practical needs of provincial administration could reshape early proposals. Jeong Do-jeon should be studied as a thinker and a participant in a particular political crisis, not merely as the author of a fixed constitutional blueprint whose implementation proceeded without interruption."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

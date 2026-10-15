@@ -1,0 +1,36 @@
+{
+  "id": "III.5.5",
+  "title": "Official Ranks, Offices, and the Growth of Bureaucracy",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Official Ranks, Offices, and the Growth of Bureaucracy, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "III.5.5:b01",
+      "title": "Ranks transform relationships into offices",
+      "paragraphs": [
+        "As the Three Kingdoms grew, rulers and aristocratic groups developed more formal systems of rank and office. Titles helped identify obligations, status, and relationships within royal service, but sources preserve these systems unevenly. A list of grades does not show exactly how appointment decisions were made or how power was exercised in every locality. The important transformation was the increasing attempt to coordinate people through recognized institutions rather than relying only on personal connections."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "III.5.5:b02",
+      "title": "The court was not the entire kingdom",
+      "paragraphs": [
+        "An official at the center might command prestige without exercising direct control over distant settlements. Fortresses, regional elites, and local labor networks remained necessary to make orders effective. Rank could create opportunities for cooperation and exclusion. Archaeological indicators of wealth and written traces of administration provide different perspectives on the same problem: how an expanding political realm connected a central court to communities beyond it."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "III.5.5:b03",
+      "title": "Bureaucracy and inequality",
+      "paragraphs": [
+        "Standardized offices can make governance more predictable, but they may also formalize privilege. Some systems defined who could attain certain positions through lineage or status, limiting the political ambitions of others. Examining both benefits and restrictions prevents bureaucracy from being described as a simple march toward modern statehood. The forms of government created by the Three Kingdoms were solutions to particular political pressures, shaped by their own social order."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

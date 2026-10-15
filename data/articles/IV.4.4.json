@@ -1,0 +1,36 @@
+{
+  "id": "IV.4.4",
+  "title": "Bulguksa, Seokguram, and the Monumental Buddhist Landscape",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Bulguksa, Seokguram, and the Monumental Buddhist Landscape, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "IV.4.4:b01",
+      "title": "Buildings as arguments about a sacred world",
+      "paragraphs": [
+        "Bulguksa and Seokguram represent extraordinary material expressions of Buddhist culture during Silla's flourishing. Their significance lies not only in sculptural achievement, but in their ability to organize movement, attention, and sacred space. Architecture can guide a visitor through thresholds and toward a carefully composed focus of worship. Describing these monuments requires attention to design, stone, setting, and the religious ideas to which their forms may refer, while remaining cautious about interpretations not securely documented."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IV.4.4:b02",
+      "title": "Artisans and organized labor",
+      "paragraphs": [
+        "Monumental construction demanded stoneworking skill, transport, planning, patronage, and labor. The finished sanctuary can conceal the ordinary workers whose efforts made it possible. Building projects also connect religious ambition to the political economy: resources assigned to monuments were drawn from networks that supported courts and communities. Understanding craftsmanship alongside devotion produces a fuller view of Silla culture than listing notable artistic masterpieces alone."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IV.4.4:b03",
+      "title": "Survival, repair, and changing meanings",
+      "paragraphs": [
+        "Historical monuments come to modern visitors through centuries of alteration and restoration. Their present appearance cannot automatically be treated as an untouched view of the eighth century. Later communities preserved, reinterpreted, repaired, or transformed sacred sites according to their circumstances. The history of a monument therefore continues long after its construction. Responsible interpretation distinguishes ancient design, subsequent changes, and contemporary heritage presentation."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

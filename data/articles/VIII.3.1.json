@@ -1,0 +1,36 @@
+{
+  "id": "VIII.3.1",
+  "title": "Donghak in the 1890s: Religious Mobilization, Rural Grievances, and Reform",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Donghak in the 1890s: Religious Mobilization, Rural Grievances, and Reform, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VIII.3.1:b01",
+      "title": "Religion and rural grievances",
+      "paragraphs": [
+        "Donghak linked religious teaching with social concerns in a time of pressure on rural communities and conflict over political legitimacy. Its appeal cannot be explained by one economic cause or by treating all participants as holders of identical beliefs. Religious language could help people express dignity, community, and moral criticism of a social order they experienced as unjust. Regional networks and local leadership helped ideas move beyond the earliest circles of followers."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VIII.3.1:b02",
+      "title": "Organization grew through relationships",
+      "paragraphs": [
+        "Meetings, teachers, shared texts, and practical ties among households could support collective action. The authorities viewed some activities as threats, while adherents interpreted them through different understandings of worship and reform. As conflicts intensified, grievances about officials and social inequality interacted with concerns about foreign influence. The Donghak story is therefore simultaneously religious, social, and political."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.3.1:b03",
+      "title": "From movement to uprising",
+      "paragraphs": [
+        "The path from teaching to large-scale mobilization was not inevitable. Specific disputes, decisions by officials, and local conditions mattered. Accounts written after violent events sometimes read the outcome backward into the origins. Keeping the distinction between earlier religious development and the crises of the 1890s allows readers to follow change without assuming that every believer anticipated war."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

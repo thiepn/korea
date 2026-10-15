@@ -1,0 +1,36 @@
+{
+  "id": "VI.6.3",
+  "title": "Agricultural Techniques, Nongsa Jikseol, and the Expansion of Productivity",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Agricultural Techniques, Nongsa Jikseol, and the Expansion of Productivity, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VI.6.3:b01",
+      "title": "Knowledge written for agricultural work",
+      "paragraphs": [
+        "Nongsa Jikseol belongs to Joseon's efforts to gather and communicate agricultural knowledge. Practical guidance mattered because harvests varied with regional conditions, climate, and the timing of work. A court-sponsored text could assemble observations without guaranteeing that every household possessed or followed it. The history of agricultural learning involves what was recorded, how officials circulated knowledge, and how farmers tested advice against local experience."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VI.6.3:b02",
+      "title": "Techniques depend on circumstances",
+      "paragraphs": [
+        "Seed selection, field preparation, soil conditions, and crop rotation cannot be understood apart from available labor and water. A method that appeared successful in one district might require adaptation elsewhere. Farmers possessed practical expertise shaped by seasonal repetition, while administrative projects often sought more general descriptions. Their interaction makes agricultural history a dialogue between written knowledge and unwritten practice."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VI.6.3:b03",
+      "title": "Productivity was a political concern",
+      "paragraphs": [
+        "A stable food supply supported households, taxation, public stores, and the legitimacy claimed by rulers. Policy interest in agriculture could reflect genuine concern for livelihoods as well as a fiscal need to keep land productive. Studying techniques alongside landholding and obligations shows why improvements did not benefit all households equally. The field was an economic, environmental, and political space at once."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

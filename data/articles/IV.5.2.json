@@ -1,0 +1,36 @@
+{
+  "id": "IV.5.2",
+  "title": "Dae Joyeong and the Foundation of Balhae",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Dae Joyeong and the Foundation of Balhae, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "IV.5.2:b01",
+      "title": "From a contested frontier to Balhae",
+      "paragraphs": [
+        "The foundation of Balhae is connected with the political upheavals that followed Goguryeo's fall and Tang expansion. Dae Joyeong emerges in later records as a central figure, but the social composition and precise sequence of early events require careful interpretation. Northern communities lived among changing alliances and shifting military pressures. A new polity had to gather followers, defend territory, and build relations with powerful neighbors. Foundation was not a single declaration; it was a process of establishing a durable political center."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IV.5.2:b02",
+      "title": "Multiple inheritances in the north",
+      "paragraphs": [
+        "Balhae's population included people associated with Goguryeo traditions and other northeastern groups. Attempts to assign it exclusively to a modern national identity oversimplify a politically and culturally mixed setting. Royal claims, diplomatic records, artifacts, and settlement geography each illuminate different dimensions of the kingdom. Its own development deserves attention beyond a debate over where it belongs in modern historical narratives."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IV.5.2:b03",
+      "title": "States emerge through relationships",
+      "paragraphs": [
+        "Balhae had to manage communication routes, food production, military defense, and recognition by neighboring powers. Diplomacy with Tang and contact with Silla and Japan were elements of this political environment, but their intensity changed over time. The earliest decades show why state formation is a regional story: no kingdom could develop independently of the pressures, opportunities, and people surrounding it."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

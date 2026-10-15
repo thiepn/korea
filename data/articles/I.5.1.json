@@ -1,0 +1,36 @@
+{
+  "id": "I.5.1",
+  "title": "The Arrival, Adoption, and Regional Diffusion of Iron",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to The Arrival, Adoption, and Regional Diffusion of Iron, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "I.5.1:b01",
+      "title": "Iron did not arrive everywhere at once",
+      "paragraphs": [
+        "The spread of iron across the peninsula belonged to broader interactions with northeastern Asian communities. Finding an early iron object demonstrates contact with the material, not necessarily local production or widespread access to iron tools. Different regions could acquire, copy, or produce iron at different times. Archaeologists distinguish finished objects from furnaces, slag, molds, and other traces of making things. This distinction prevents a simple diffusion story in which a single discovery instantly changes every workshop and field."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "I.5.1:b02",
+      "title": "A material with social consequences",
+      "paragraphs": [
+        "Iron could serve farmers, builders, soldiers, and craftspeople, but its value depended on supply, smithing expertise, repair, and the ability to distribute tools. A blade or sickle was part of a network of workers who obtained ore, fuel, food, and protection. The technology brought advantages only where communities could sustain the work behind it. Changes in iron production may illuminate political organization, but technological use and political centralization did not proceed in one inevitable sequence."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "I.5.1:b03",
+      "title": "Exchange as an engine of learning",
+      "paragraphs": [
+        "Objects traveling between communities can carry forms, techniques, and expectations. Ironworkers adapt practices rather than merely reproduce an imported model. Trade routes across land and sea may have connected workshops to patrons far away. Still, the archaeological presence of similar objects does not reveal the direction of every exchange. A careful account asks where technologies were learned, which needs they served, and how societies adjusted them to local resources. That makes iron a history of relationships, not simply a stronger substitute for stone or bronze."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

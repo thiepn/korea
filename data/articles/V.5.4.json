@@ -1,0 +1,36 @@
+{
+  "id": "V.5.4",
+  "title": "Jinul, the Jogye Tradition, and the Reform of Korean Seon",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Jinul, the Jogye Tradition, and the Reform of Korean Seon, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "V.5.4:b01",
+      "title": "Seon practice and religious renewal",
+      "paragraphs": [
+        "Jinul is associated with reform of Korean Seon and a search for a meaningful relationship between meditative cultivation and doctrinal understanding. Religious renewal cannot be reduced to an individual's abstract philosophy. It involved communities, teaching, discipline, patronage, and questions about the conduct of monastic life. The attraction of a reform program depended partly on whether practitioners believed inherited institutions were fulfilling their purposes. Studying that tension gives the development of Korean Buddhism historical texture."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "V.5.4:b02",
+      "title": "Monasteries as communities",
+      "paragraphs": [
+        "A monastery was a place of ritual and instruction but also an organized social environment requiring food, buildings, land, and labor. Reform could reshape daily schedules, education, and relations between teachers and followers. Supporters carried ideas through personal instruction and texts, while local circumstances influenced how closely practice followed ideals. The gap between aspiration and institution should not be treated as failure alone; it is where much of religious history happened."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "V.5.4:b03",
+      "title": "A legacy beyond one generation",
+      "paragraphs": [
+        "Later Buddhist communities interpreted Jinul's teachings as part of their own debates over orthodoxy and practice. What later readers emphasized may differ from the immediate problems his followers faced. Distinguishing historical context from subsequent reception helps prevent a famous reformer from becoming a timeless symbol. His significance is both philosophical and institutional, grounded in the effort to organize a viable religious path."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

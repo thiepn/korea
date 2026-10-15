@@ -1,0 +1,36 @@
+{
+  "id": "VI.3.4",
+  "title": "Sungkyunkwan, Hyanggyo, Curriculum, and State Education",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Sungkyunkwan, Hyanggyo, Curriculum, and State Education, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "VI.3.4:b01",
+      "title": "Education connected capital and countryside",
+      "paragraphs": [
+        "Sungkyunkwan and local hyanggyo belonged to a larger attempt to make Confucian learning part of Joseon's political culture. These institutions transmitted texts, ritual expectations, and habits of interpretation associated with the scholar-official world. Their presence in a locality did not mean that every resident enjoyed equal educational opportunity. Access depended on status, resources, preparation, and the forms of sponsorship available to a household."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "VI.3.4:b02",
+      "title": "Examinations shaped what was studied",
+      "paragraphs": [
+        "When advancement depends on demonstrated command of particular writings, families invest in books, tutors, and years of preparation. Learning could cultivate ethical reflection while also serving competition for office. Students participated in networks that connected local reputation with central careers. The curriculum therefore had consequences outside classrooms, influencing household ambitions and the status attached to literary accomplishment."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "VI.3.4:b03",
+      "title": "Schools were not uniform spaces",
+      "paragraphs": [
+        "Institutional descriptions can conceal the differences among prosperous and struggling schools. Teachers, maintenance, libraries, and local patronage varied. Ritual gatherings and scholarly relationships might matter as much as formal instruction. Studying education through buildings, regulations, biographies, and local records reveals the social work required to reproduce an educated elite over generations."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "I.6.2",
+  "title": "Archaeological Evidence for Population Continuity and Change",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Archaeological Evidence for Population Continuity and Change, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "I.6.2:b01",
+      "title": "Population cannot be read directly from objects",
+      "paragraphs": [
+        "An archaeological culture is a research category, not automatically a population with one language, identity, or ancestry. Similar pottery or burial customs can spread through exchange, imitation, movement, and shifting political connections. Conversely, people sharing a language may produce different objects under different environmental conditions. Early Korean population history must therefore be assembled from independent lines of evidence, with each line's limitations visible. Naming ancient groups too confidently risks projecting modern identities into periods when no such categories were documented."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "I.6.2:b02",
+      "title": "Movement without a single migration story",
+      "paragraphs": [
+        "Human movement may involve seasonal visits, marriage, conflict, displaced households, or the gradual extension of settlement into new land. Such processes leave different archaeological traces and need not resemble the movement of an entire people at once. Networks across Liaodong, the peninsula, and the surrounding seas provided opportunities for contact, but they cannot be reduced to a single origin route. The more interesting questions concern repeated encounters and how migrants and established communities negotiated life together."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "I.6.2:b03",
+      "title": "Continuity and change as simultaneous forces",
+      "paragraphs": [
+        "Long-term regional continuity in settlement or toolmaking can coexist with substantial changes in social organization. New techniques do not always imply new inhabitants; genetic or biological evidence, where ethically available and reliably dated, must be interpreted with archaeological context. The formation of Korean populations unfolded across long periods that predate the names preserved in written chronicles. A responsible narrative remains expansive while treating certainty as something earned through converging evidence."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "IX.4.2",
+  "title": "The March 1960 Election and the April Revolution",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to The March 1960 Election and the April Revolution, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "IX.4.2:b01",
+      "title": "Protest exposed the weakness of electoral legitimacy",
+      "paragraphs": [
+        "The April Revolution of 1960 followed accumulated discontent with the Rhee government and controversy surrounding the March elections. Students played highly visible roles, but mobilization extended beyond a single campus or moment. Public anger involved democratic procedure, police violence, and broader frustration with authoritarian government. The movement demonstrated that institutional control of elections did not guarantee political acceptance."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IX.4.2:b02",
+      "title": "Streets became political institutions",
+      "paragraphs": [
+        "Marches, funerals, assemblies, and the circulation of news created spaces in which ordinary people could express claims about government. Police responses affected the scale and meaning of protest. The memory of injured and killed demonstrators became part of public mobilization. Studying these dynamics reveals how political change can emerge through interactions among state institutions, civic networks, and shared moral outrage."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IX.4.2:b03",
+      "title": "A revolution did not settle everything",
+      "paragraphs": [
+        "Rhee's fall opened possibilities for parliamentary government, but unresolved economic and political problems remained. Different participants imagined different futures, and later military intervention radically altered the trajectory. The April Revolution matters not because it established an uninterrupted democratic era, but because it revealed enduring demands for accountability and a public capacity to challenge concentrated power."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "I.4.3",
+  "title": "Rice Cultivation and Changing Landscapes",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Rice Cultivation and Changing Landscapes, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "I.4.3:b01",
+      "title": "Rice was a landscape project",
+      "paragraphs": [
+        "Rice cultivation demanded a relationship with soils, rainfall, water management, and the timing of labor. Not every field required the same techniques, and the appearance of rice in archaeological deposits does not prove that an entire region immediately adopted one uniform farming system. Communities experimented with several crops and different field locations. The growth of rice agriculture should be understood as an uneven transformation of ecological opportunities and social routines. Its significance lies as much in the work required to reproduce harvests as in the plants themselves."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "I.4.3:b02",
+      "title": "Households and collective labor",
+      "paragraphs": [
+        "Fields require preparation, weeding, harvest, processing, storage, and decisions about seed for the next season. Some tasks are carried out within households; others may benefit from coordinated labor and shared access to water. A surplus can support specialists, rituals, or political leaders, but abundance does not automatically create a state. Archaeologists must investigate settlement sizes, storage facilities, graves, and distribution of objects before claiming a hierarchy. The agricultural economy becomes historically interesting when production, cooperation, and competition are studied together."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "I.4.3:b03",
+      "title": "Unequal effects of a new staple",
+      "paragraphs": [
+        "Greater dependence on cultivated crops can secure predictable food in favorable years and increase vulnerability when fields fail. Changes in settlement location alter access to wild resources as well as cultivated ones. Farming families may have invested labor in land that tied them to particular places, while fishing and hunting continued to matter. A long narrative of Mumun transformation needs both sides: the possibilities opened by productive cultivation and the new constraints created when work, seasonality, and land became more tightly connected."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

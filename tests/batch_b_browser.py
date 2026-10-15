@@ -11,7 +11,7 @@ for folder in ['packs','search/shards']:
  for file in (ROOT/'data'/folder).glob('*.json'):
   ASSETS['./data/'+folder+'/'+file.name]=json.loads(file.read_text())
 html=re.sub(r'<script type="module"[^>]+></script>','',re.sub(r'<link rel="stylesheet"[^>]+>','',(ROOT/'index.html').read_text()))
-js=(ROOT/'exploration.js').read_text().replace('export ','')+'\n'+(ROOT/'content-platform.js').read_text().replace('export ','').replace("import {rankSearch} from './exploration.js';",'')+'\n'+(ROOT/'app.js').read_text().replace("import {rankSearch,collectionFor} from './exploration.js';",'').replace("import {createPackLoader,createShardedSearch} from './content-platform.js';",'')
+js=(ROOT/'exploration.js').read_text().replace('export ','')+'\n'+(ROOT/'content-platform.js').read_text().replace('export ','').replace("import {rankSearch} from './exploration.js';",'')+'\n'+(ROOT/'reader-window.js').read_text().replace('export ','')+'\n'+(ROOT/'app.js').read_text().replace("import {rankSearch,collectionFor} from './exploration.js';",'').replace("import {createPackLoader,createShardedSearch} from './content-platform.js';",'').replace("import {createReaderWindow} from './reader-window.js';",'')
 with sync_playwright() as pw:
  browser=pw.chromium.launch(headless=True,executable_path='/usr/bin/chromium',args=['--no-sandbox','--disable-dev-shm-usage'])
  for w,h in [(1440,900),(390,844),(320,720)]:

@@ -1,0 +1,36 @@
+{
+  "id": "X.2.2",
+  "title": "The Asian Financial Crisis of 1997–1998 and the IMF Program",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to The Asian Financial Crisis of 1997–1998 and the IMF Program, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "X.2.2:b01",
+      "title": "Crisis traveled through financial connections",
+      "paragraphs": [
+        "The Asian financial crisis of 1997–1998 struck a South Korean economy that had developed extensive international financial and corporate ties. Liquidity pressures, banking exposures, currency movements, and confidence interacted with longer-standing weaknesses in some firms and institutions. A crisis cannot be explained by one moral judgment about borrowing or by treating external financial movements as the only cause. Its severity reflected how vulnerabilities inside the economy met regional and global pressures."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "X.2.2:b02",
+      "title": "An adjustment program reached households",
+      "paragraphs": [
+        "The IMF-supported program and associated restructuring shaped corporate decisions, banking practices, employment, and public debate. Policy measures were experienced unevenly: some people faced layoffs or insecurity, while others encountered changes in financial institutions and labor markets. National recovery statistics do not erase these personal consequences. The period became part of the memory of work, education, and economic risk for many families."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "X.2.2:b03",
+      "title": "Recovery and a different economy",
+      "paragraphs": [
+        "Restructuring altered the relationship between business, finance, and government. Some institutions became stronger while new forms of insecurity and inequality remained contested. A careful long-form history asks how the crisis affected later labor arrangements and attitudes toward corporate power. Its legacy lies both in macroeconomic recovery and in enduring social debates about the costs of adjustment."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "IV.6.4",
+  "title": "Agriculture, Hunting, Livestock, Food, and Rural Economy",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Agriculture, Hunting, Livestock, Food, and Rural Economy, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "IV.6.4:b01",
+      "title": "Food production in the northern kingdom",
+      "paragraphs": [
+        "Balhae's rural economy developed across landscapes whose climates and ecological opportunities varied greatly. Agriculture, hunting, animal husbandry, and gathering could support households in different combinations. A single national farming model would conceal the differences between river valleys, forested uplands, and communities connected to northern pastoral traditions. Historical accounts mention elements of the economy, while archaeology can reveal remains of tools, crops, animals, and settlements. Each type of evidence contributes a partial view rather than a complete inventory of the kingdom's food supply."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IV.6.4:b02",
+      "title": "Work across seasons",
+      "paragraphs": [
+        "Cultivating fields requires attention to soil, weather, seed, and the timing of labor. Hunting and livestock keeping involve different seasonal demands and ecological knowledge. Some households may have combined several activities as a way to manage uncertainty. Producing a surplus for officials or centers of power could impose additional obligations, but records rarely describe the full negotiations behind such demands. A broad rural history asks which resources were locally available, which moved between communities, and how labor was distributed among members of households."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IV.6.4:b03",
+      "title": "Agriculture and political life",
+      "paragraphs": [
+        "A state depends on people who raise, prepare, store, and transport food. Yet the relationship between rulers and rural communities is never explained by a tax category alone. Local leaders, transport routes, markets, and customary arrangements could affect access to grain and animals. The geographical diversity of Balhae makes it especially important to avoid assuming uniform practices across the kingdom. The economy was not a passive backdrop to diplomacy and warfare; it helped determine what political projects could be sustained."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

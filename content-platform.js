@@ -29,7 +29,7 @@ export function createShardedSearch(fetchAsset=fetch,{maxCached=20}={}){
    const titleHits=rankSearch(query,canonical,[],readableIds,filter);
    const terms=[...new Set((normalizeQuery(query).match(/[a-z0-9]{3,}/g)||[]).filter(w=>!STOP.has(w)))].slice(0,6);
    if(!terms.length||!map)return titleHits;
-   const lists=await Promise.all(terms.map(async term=>{const shard=await get(term.slice(0,2));return shard?.[term]||[]}));
+   const lists=await Promise.all(terms.map(async term=>{let prefix=term.slice(0,2);while(!map[prefix]&&prefix.length<term.length)prefix=term.slice(0,prefix.length+1);const shard=await get(prefix);return shard?.[term]||[]}));
    const scores=new Map(),hits=new Map();
    for(const list of lists)for(const [doc,block] of list){scores.set(doc,(scores.get(doc)||0)+1);if(!hits.has(doc))hits.set(doc,block)}
    const corpus=Array.from(scores.entries()).filter(([,score])=>score===terms.length).map(([doc])=>{

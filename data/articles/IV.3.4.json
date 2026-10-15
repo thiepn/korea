@@ -1,0 +1,36 @@
+{
+  "id": "IV.3.4",
+  "title": "Agriculture, Irrigation, Land Use, and the Rural Environment",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Agriculture, Irrigation, Land Use, and the Rural Environment, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "IV.3.4:b01",
+      "title": "Farming beneath a royal history",
+      "paragraphs": [
+        "The economy of Silla depended on landscapes cultivated through sustained local work. Fields, water channels, paths, and storage spaces were maintained across seasons while courts made demands for revenue and service. Agriculture varied by soil, climate, topography, and access to labor. The distribution of productive land shaped opportunities and inequalities, but historians cannot infer uniform conditions from royal descriptions alone. Archaeological remains, household registers where they survive, and environmental studies provide complementary glimpses."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.4:b02",
+      "title": "Water and cooperation",
+      "paragraphs": [
+        "Irrigation depends on repeated maintenance, and even modest water systems can demand coordination among neighbors. Decisions about who may use water, who repairs a channel, and how to respond to poor rainfall can become social and political questions. Those questions matter for understanding the relationship between villages and authority. A central state might seek to record or tax rural production while much practical management remained local."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IV.3.4:b03",
+      "title": "Rural life as change, not background",
+      "paragraphs": [
+        "Peasant communities adapted crops, tools, and settlement arrangements as political and environmental conditions changed. Their history cannot be reconstructed solely through tax demands, because farming involved households, inheritance, festivals, and exchange. A rich account of Silla society treats the countryside as a dynamic setting in its own right. Political authority was continually negotiated through the material necessities of food production."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

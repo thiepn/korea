@@ -1,0 +1,36 @@
+{
+  "id": "X.4.3",
+  "title": "Broadband, Mobile Networks, Smartphones, Digital Government, and the Connected Society",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Broadband, Mobile Networks, Smartphones, Digital Government, and the Connected Society, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "X.4.3:b01",
+      "title": "Networks became everyday infrastructure",
+      "paragraphs": [
+        "The spread of broadband and mobile connectivity changed how South Koreans communicated, worked, shopped, obtained information, and interacted with government. It was made possible by telecommunications infrastructure, commercial services, technical standards, and policies that evolved over time. Internet use did not automatically produce equal access or identical experiences. Adoption differed across generations and depended on cost, skills, and changing platform ecosystems."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "X.4.3:b02",
+      "title": "Digital government and private platforms",
+      "paragraphs": [
+        "Online public services can reduce some barriers while introducing concerns about security, exclusion, and the handling of personal information. Companies also built digital environments that shaped media, commerce, and social interaction. These systems were not neutral containers: interface choices, incentives, and policies influenced what users encountered. Their history involves institutions and social consequences as much as technical speed."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "X.4.3:b03",
+      "title": "The connected society has trade-offs",
+      "paragraphs": [
+        "Rapid connectivity supported experimentation and global participation, but it also created dependence on reliable networks and raised questions about privacy, platform power, and digital labor. Contemporary digital life combines convenience with new forms of risk. A historical account can explain the infrastructure's growth without assuming that more bandwidth is itself a complete measure of social progress."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

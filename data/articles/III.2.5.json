@@ -1,0 +1,36 @@
+{
+  "id": "III.2.5",
+  "title": "Baekje and the Japanese Archipelago",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Baekje and the Japanese Archipelago, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "III.2.5:b01",
+      "title": "Baekje across the sea",
+      "paragraphs": [
+        "Baekje's contacts with the Japanese archipelago involved shifting political relationships, skilled people, and the movement of objects and ideas. They cannot be compressed into a timeless claim of cultural transmission from one unified society to another. The archipelago contained different regional authorities, and Baekje's own position changed through warfare and diplomacy. Objects arriving across the water might be gifts, goods, diplomatic signs, or personal possessions. Determining their meaning requires context as well as recognition of their origin."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "III.2.5:b02",
+      "title": "Craftspeople and books as historical travelers",
+      "paragraphs": [
+        "People who knew writing, construction, religious practice, or specialized craft skills could carry knowledge between courts and communities. The movement of techniques was not mechanical: learners adapted practices to local needs, existing traditions, and available materials. When later texts credit particular figures with introducing new practices, historians compare those accounts with archaeological evidence and the chronology of related developments. This allows cultural influence to be explored without turning complicated interactions into one-way national narratives."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "III.2.5:b03",
+      "title": "Sea routes and political uncertainty",
+      "paragraphs": [
+        "Maritime contact depended on navigational knowledge, suitable vessels, seasonal weather, and relationships at ports. Diplomatic exchanges could continue during periods of regional tension, but war could interrupt or redirect them. Baekje's maritime world is essential to understanding the kingdom's flexibility and its search for partners under pressure. The sea was not a barrier separating self-contained civilizations; it was a difficult but frequently crossed political space."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}

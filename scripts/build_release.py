@@ -10,7 +10,7 @@ subprocess.run([sys.executable,str(ROOT/'scripts/build_exploration.py')],check=T
 subprocess.run([sys.executable,str(ROOT/'scripts/validate.py')],check=True)
 if DIST.exists():shutil.rmtree(DIST)
 DIST.mkdir()
-for name in ['index.html','app.js','exploration.js','content-platform.js','styles.css','data/architecture.json','data/content-manifest.json','data/explore.json','data/search/catalog.json','data/search/shard-map.json']:
+for name in ['index.html','app.js','exploration.js','content-platform.js','reader-window.js','styles.css','data/architecture.json','data/content-manifest.json','data/explore.json','data/search/catalog.json','data/search/shard-map.json']:
  src=ROOT/name
  if not src.is_file():raise FileNotFoundError(name)
  dest=DIST/name;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(src,dest)

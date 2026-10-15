@@ -1,0 +1,36 @@
+{
+  "id": "IX.2.4",
+  "title": "Jeju, Yeosu–Suncheon, Counterinsurgency, and State Violence",
+  "kicker": "EXTENDED HISTORICAL ARCHIVE",
+  "description": "An editorial introduction to Jeju, Yeosu–Suncheon, Counterinsurgency, and State Violence, part of the expanding KOREA history archive.",
+  "blocks": [
+    {
+      "id": "IX.2.4:b01",
+      "title": "Violence in the formation of a state",
+      "paragraphs": [
+        "Jeju and the Yeosu–Suncheon events expose the costs of conflict during the years surrounding the Republic of Korea's formation. Political polarization, security operations, armed resistance, and the use of state violence affected civilians in devastating ways. They cannot be understood solely as abstract struggles between political ideologies. The chronology and causes of different episodes must be distinguished even as their shared setting of fear and coercion is recognized."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 1
+    },
+    {
+      "id": "IX.2.4:b02",
+      "title": "Communities caught between armed actors",
+      "paragraphs": [
+        "Residents could face pressure from multiple directions and suffer consequences for acts attributed to others. Families experienced death, flight, property loss, and silence that shaped later generations. Official records may be indispensable but do not capture all victims' experiences. Oral testimony, inquiries, local histories, and memorial practices help widen the account while requiring careful attention to differing evidence and estimates."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 2
+    },
+    {
+      "id": "IX.2.4:b03",
+      "title": "Memory and historical accountability",
+      "paragraphs": [
+        "Public recognition of past violence has changed over time in South Korea. Different political periods made some forms of testimony safer or more difficult to express. History must therefore examine not only what happened but how survivors and institutions struggled over remembrance. A narrative concerned with ordinary people should give lasting attention to civilian experiences without turning suffering into a rhetorical device."
+      ],
+      "label": "Prototype editorial narrative · unsourced sample",
+      "sequence": 3
+    }
+  ],
+  "release": "C"
+}
