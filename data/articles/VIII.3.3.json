@@ -1,0 +1,118 @@
+{
+  "id": "VIII.3.3",
+  "title": "Qing and Japanese Intervention and the Outbreak of the Sino-Japanese War",
+  "kicker": "KOREA 1894–1896 · DONGHAK AND GABO",
+  "description": "Original evidence-based account of qing and japanese intervention and the outbreak of the sino-japanese war, distinguishing Korean political aims from Qing–Japanese coercion.",
+  "release": "R",
+  "sourceStatus": "Original editorial synthesis; contemporary diplomatic documents are perspective-bound primary sources, anchored to institutional histories",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gabo Reform chronology",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400600",
+      "role": "Domestic reform chronology, 1894 peasant rebellion, military intervention and February 1896 reversal"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Donghak Movement (동학운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016865",
+      "role": "Religious, social and political interpretations of uprising"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gabo Reform (갑오개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000925",
+      "role": "Institutional dates, council and reform trajectories"
+    },
+    {
+      "institution": "US Department of State",
+      "title": "Foreign Relations of the United States, 1894, documents of the First Sino-Japanese War",
+      "url": "https://history.state.gov/historicaldocuments/frus1894app1/index",
+      "role": "Contemporary diplomatic reports whose viewpoints require explicit source criticism"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Local Donghak Jipgangso (집강소)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055029",
+      "role": "Local peasant administrative organizations after Jeonju"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.3.3:b01",
+      "title": "Two neighbouring powers claim a reason to intervene",
+      "paragraphs": [
+        "Korea's government sought Qing military assistance against the growing peasant uprising. Japan sent forces under treaty-related claims and the declared need to protect its subjects and influence. These moves took place within the wider geopolitical rivalry over Qing suzerainty and Japan's desired position on the peninsula. The presence of both armies changed the problem from internal suppression into a contest over who could constrain Korea's decisions.",
+        "The American diplomatic archives contain the Korean foreign ministry's June 24, 1894 protest describing Qing forces as invited and Japanese troops as uninvited. This was a statement of Korea's diplomatic position in a specific dispute, not an objective survey of every action by the three states. Its importance is that Korean officials explicitly objected to foreign military occupation and called for withdrawal. The surviving messages resist narratives in which Korea appears only as the passive ground on which two empires fought."
+      ],
+      "sequence": 1,
+      "label": "Original history · imperial and domestic perspectives",
+      "evidence": [
+        {
+          "claim": "Korean sources document the Donghak uprising and Gabo political sequence of 1894.",
+          "sourceIndex": 1,
+          "locator": "동학운동, 1894 and Jeonju sequence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.3:b02",
+      "title": "The Tianjin framework and disputed rights",
+      "paragraphs": [
+        "Following earlier crises, Qing and Japan had negotiated arrangements concerning notification when either dispatched troops to Korea. Japanese officials drew upon these understandings as they expanded their military presence. Whether an action satisfied a treaty formula and whether it respected Korea's expressed wishes were different questions. A narrow legal argument could be used to justify a strategic move with much larger consequences.",
+        "The Qing court presented its historic relationship with Korea as a legitimate basis for intervention, while Japanese leaders challenged the hierarchy it implied. Korean politicians themselves did not speak with one voice about appropriate foreign support or internal reform. Diplomats exchanged notes in a setting where troops were accumulating around the capital. Written assurances of limited purpose must be compared with the continued presence and subsequent use of military force."
+      ],
+      "sequence": 2,
+      "label": "Original history · imperial and domestic perspectives",
+      "evidence": [
+        {
+          "claim": "Contemporary diplomatic dispatches document the contested status and actions of foreign troops in Korea.",
+          "sourceIndex": 3,
+          "locator": "FRUS 1894 Appendix I, Korean governmental dispatches and diplomatic communications",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.3:b03",
+      "title": "The crisis after peasant withdrawal",
+      "paragraphs": [
+        "When peasant forces withdrew from Jeonju following agreement, the immediate rationale for large external troop deployments weakened. Korean representatives and foreign observers noted the new danger of retaining rival armies in the country. Qing proposed mutual withdrawal, while Japan used the situation to demand radical changes to Korea's government and to reject arrangements it believed would preserve Chinese influence.",
+        "A crucial historical irony emerged: the initial internal crisis had partly subsided while the interstate crisis deepened. Military forces could now influence court appointments and reform programs in a way that no rural demonstration could accomplish. This did not make every Korean reformer a foreign puppet. Some Koreans had long advocated institutional change, but their leverage and legitimacy were altered fundamentally by Japanese coercive power."
+      ],
+      "sequence": 3,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.3:b04",
+      "title": "Pressure on the Seoul court",
+      "paragraphs": [
+        "Japanese military pressure was directed toward the royal court and the political machinery of the capital. Diplomatic reports described reform demands accompanied by the refusal to remove troops until Japanese terms were satisfied. The capture or coercive control of key palace spaces and the installation of a more compliant government were crucial steps toward the opening war.",
+        "The sequence mattered to Korean sovereignty. A reform can contain proposals that domestic activists also supported while still being introduced under conditions that severely restrict independent choice. Contemporaries recognized this contradiction. Qing criticized Japan's methods; Japanese officials emphasized the language of peace and Korean independence; Korean figures negotiated, resisted or cooperated for differing reasons. The historian should analyze actions and power rather than accept any party's preferred moral description at face value."
+      ],
+      "sequence": 4,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.3:b05",
+      "title": "Opening hostilities and the wider war",
+      "paragraphs": [
+        "Fighting between Japanese and Qing forces escalated in late July 1894, before the formal August declarations of war. The conflict unfolded at sea, around Asan and later Pyongyang and Manchuria, with Korea serving as a central theatre during its early phase. Military movements disrupted local supply, transportation and security while making Korean political decisions increasingly dependent upon events beyond the court's control.",
+        "The sources also demonstrate the limits of precise wartime casualty claims. Foreign representatives often reported figures from incomplete information and sometimes repeated unverified rumors. Historians compare contemporary telegrams, official records and later military studies before stating totals. The essential political development is well supported: competition over Korea became interstate war, and the capacity of the Korean government to control the use of its territory was substantially curtailed."
+      ],
+      "sequence": 5,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.3:b06",
+      "title": "The historical consequences of rivalry",
+      "paragraphs": [
+        "The First Sino-Japanese War accelerated the collapse of Qing primacy in Korean affairs and expanded Japan's coercive influence, but it did not instantly create the later formal colonial state. The years after 1894 still included Russian intervention, Korean political maneuvering and further conflict over reform.",
+        "The crisis should be understood as an intersection of several trajectories: domestic grievances, changing East Asian military power, the contested status of tributary relationships, and Korean attempts at institutional reform. Reducing the war to competition between two foreign armies hides the choices and suffering of the society at its centre. The next unit follows the first Gabo government as it attempted to reorganize institutions under this profoundly unequal strategic setting."
+      ],
+      "sequence": 6,
+      "label": "Original history · imperial and domestic perspectives"
+    }
+  ]
+}
