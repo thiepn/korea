@@ -1,0 +1,74 @@
+{
+  "id": "II.1.8",
+  "title": "Gojoseon, Yan, and the Chinese Warring States World",
+  "kicker": "GOJOSEON · SOURCES AND REGIONAL HISTORY",
+  "description": "Original historical synthesis distinguishing material evidence, transmitted sources and debated modern reconstructions.",
+  "release": "K",
+  "sourceStatus": "Selective direct/contextual citations; unresolved chronology, geography and broader interpretation not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "사료로 본 한국사 — 고조선의 성장과 변화 (魏略 in 三國志)",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0020",
+      "role": "Transmitted primary-text excerpt on royal titles, diplomacy and the Yan Qin Kai attack; compiled through later authors"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 — 고조선의 위치와 강역",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0010_0050",
+      "role": "Review of Liaodong, Pyongyang and migration hypotheses, textual chronology and disputed geography"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "고조선 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003937",
+      "role": "Scholarly synthesis of early centers, bronze dagger assemblages and debate; some placements are contested"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.1.8:b01",
+      "title": "Yan looks east",
+      "paragraphs": [
+        "During the Chinese Warring States era, rulers along the northeastern margins of the northern Chinese plains confronted and negotiated with polities beyond their immediate administrative reach. Joseon appears in traditions about this competitive world. The transmitted Weilüe account describes political claims on both sides and a later offensive led by a Yan commander identified as Qin Kai. Historians use the passage to consider the growth and subsequent vulnerability of Gojoseon. They must also account for the text's survival: it is available through quotations in the Sanguozhi commentary, not as an intact contemporaneous campaign diary. This distinction matters when reconstructing motives. A transmitted narrative may emphasize royal ambition, diplomatic caution, or the scale of victory because those elements serve its literary explanation of later events. It is still vital evidence for how a frontier relationship was remembered, but not a complete record of military administration in Liaodong."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The transmitted record names Qin Kai as the Yan commander responsible for a Joseon frontier offensive.",
+          "sourceIndex": 0,
+          "locator": "魏略 in 三國志 vol.30, 고조선의 성장과 변화",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "II.1.8:b02",
+      "title": "Diplomacy before the campaign",
+      "paragraphs": [
+        "The same narrative includes an adviser whose intervention changes the course of a threatened confrontation and an envoy sent to negotiate. The detail makes early Joseon politics more than a story of raids. Diplomatic communication required a shared practical understanding of status and risk, even if later writers rendered offices in familiar Chinese vocabulary. A leader who claimed the name king signalled standing to those beyond his own following. A negotiated settlement could protect trade and preserve prestige where combat threatened both. We do not know the precise wording of the meetings or whether all parties understood sovereignty in identical ways. A responsible interpretation thus separates the reported event from the modern political concepts readers may bring to it. The account is most compelling as a glimpse of political decision-making at a frontier that was neither isolated from interstate diplomacy nor fully absorbed by a neighboring court."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "II.1.8:b03",
+      "title": "What a campaign changes—and what it may leave unchanged",
+      "paragraphs": [
+        "A Yan advance could alter tribute routes, the position of allied leaders, access to important plains, and the local balance of military power. The actual distribution of effects would depend on terrain, seasons and existing networks. The ancient source's statement about distance or territory cannot be turned directly into a scale-corrected modern map without contested geographical identifications. Archaeological continuities should be investigated independently rather than explained automatically as evidence of victory or defeat. A village may have changed political obligations while retaining familiar pottery techniques; another might have experienced displacement. The source does not provide individual testimonies of such experiences. Writing a readable frontier history therefore means moving among levels of analysis: diplomacy among rulers, material evidence of regional connections, and the unknown but crucial costs borne by inhabitants whose names were not recorded."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "II.1.8:b04",
+      "title": "The international setting of Gojoseon",
+      "paragraphs": [
+        "The Yan relationship situates Gojoseon in a larger transformation of political organization in Northeast Asia. Intensifying military competition, new forms of authority, migration, and exchanges of metalworking techniques created pressures that did not stop at a later national boundary. It would be misleading to present early Joseon as culturally sealed until a foreign army appeared; it would be equally misleading to reduce its political agency to a reaction to China. The surviving texts show an interlocutor capable of claims, negotiation and resistance. Archaeological distributions show connections that may have persisted regardless of the direction of a particular campaign. Together they support a story of interaction without a fiction of complete knowledge. The reader who follows this Chapter into Wiman Joseon should carry forward the difference between external textual descriptions, local material change, and the many historical processes for which neither kind of source is yet adequate."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

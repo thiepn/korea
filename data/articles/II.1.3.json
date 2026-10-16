@@ -1,0 +1,82 @@
+{
+  "id": "II.1.3",
+  "title": "Gija/Jizi, Chinese-Korean Origin Traditions, and Historical Debate",
+  "kicker": "GOJOSEON · SOURCES AND REGIONAL HISTORY",
+  "description": "Original historical synthesis distinguishing material evidence, transmitted sources and debated modern reconstructions.",
+  "release": "K",
+  "sourceStatus": "Selective direct/contextual citations; unresolved chronology, geography and broader interpretation not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "기자조선 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0008396",
+      "role": "Historical critique and legacy of the Gija/Jizi migration and dynastic tradition"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 — 조선 초기 단군조선·기자조선의 역사화",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_026_0020_0030_0010_0010_0010",
+      "role": "Early Joseon commemoration of Dangun and Gija; evidence for later ritual, not Bronze Age events"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 — 고조선의 명칭과 성립",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0010_0010",
+      "role": "Modern historical analysis of the name, early statehood, medieval sources and divergent periodization"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.1.3:b01",
+      "title": "A visitor from the classical world",
+      "paragraphs": [
+        "The figure called Gija in Korean, Jizi in Chinese classical traditions, was associated with the last rulers of the Shang and with the moral world inherited by later Confucian writers. In Korean historical memory, a story developed in which Gija travelled east, brought instruction, and stood at the beginning of a civilizing order in Joseon. The account mattered profoundly to scholars concerned with legitimate rule and the transmission of ritual. Yet the fact that a tradition acquired intellectual importance is not proof that a particular Bronze Age kingdom was established by a historically documented migrant. The chronology of the surviving textual references must be examined one source at a time. A prestigious name could make an unfamiliar past understandable to writers already working within classical categories. It could also justify a later political or ritual claim. This is why the narrative requires both respectful description and rigorous historical separation."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Gija/Jizi became a formative narrative in later Joseon origin and governance traditions.",
+          "sourceIndex": 0,
+          "locator": "기자조선, concept and historiographical dispute",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.1.3:b02",
+      "title": "What the archaeology cannot name",
+      "paragraphs": [
+        "A bronze dagger, decorated mirror or burial chamber may provide information about contact with surrounding communities, but it cannot carry Gija's personal signature unless additional evidence establishes that connection. Some interpretations once equated particular assemblages with a so-called Gija Joseon; other historians have challenged the proposed migration and cultural attribution. The disputed identification does not erase the objects. It means that material similarities need an account of movement and dating, not merely a familiar founder to complete the explanation. Contacts among northern Chinese polities, Liaoning settlements and communities on the peninsula were real and varied. They could transmit techniques without transferring all political institutions. The archaeological question is therefore more concrete than an argument over prestige: what was manufactured where, what travelled, which sites are securely dated, and which distinctive practices emerged locally? Even a well-supported exchange network would not by itself verify a later story about one ancient teacher-king."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "II.1.3:b03",
+      "title": "Gija in the Joseon dynasty's moral geography",
+      "paragraphs": [
+        "By the early Joseon period, discussions of sacrifices to Dangun and Gija reveal how historical antiquity could become part of state ritual. Gija appealed to a court whose political vocabulary was shaped by Confucian classics, and his supposed role as a bearer of culture could be mobilized in discussions of governance. These acts are direct evidence of the dynasty's historical imagination, even where they cannot confirm the Bronze Age migration narrative. A similar distinction matters in the study of monuments: a shrine shows that commemorators made a claim; it does not document every event commemorated. The historian should ask why a particular founder was important to a dynasty at a particular moment, how scholarship and diplomacy influenced the choice, and why different periods emphasized Dangun and Gija differently. Without this later history, dismissal of an ancient claim can turn into a loss of understanding. The full story is about belief, institutions, power and the work of writing a coherent past."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Early Joseon officials debated commemoration of Dangun and Gija in state ritual.",
+          "sourceIndex": 1,
+          "locator": "조선 초기 역사학 subsection 단군조선·기자조선",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.1.3:b04",
+      "title": "Histories do not have to choose a single moral ancestor",
+      "paragraphs": [
+        "A modern account can explain why the Gija tradition was important without treating its chronology as established fact. It can equally explain why twentieth-century scholars questioned the story without suggesting that every earlier reader was gullible. Historical understanding improves when direct evidence for ancient events is separated from evidence for subsequent belief. In the first category belong archaeological contexts and transmitted early references interpreted with attention to their dates. In the second belong later chronicle classifications, ritual decisions, textbooks and scholarly arguments. The two categories illuminate one another but do not collapse into one. For Gojoseon, the result is a more credible history: its regional cultural development can be investigated through objects and early encounters, while the rise and changing influence of Gija remains an indispensable part of the history of Korean ideas about origins."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

@@ -27,12 +27,60 @@
       "detail": "Farming transforms seasonal work and storage unevenly across regions; the date range is broad."
     },
     {
+      "year": -900,
+      "date": "Bronze Age, broad period",
+      "era": "II",
+      "id": "II.1.5",
+      "title": "Liaoning and northern peninsula landscapes interact",
+      "detail": "The approximate marker introduces communities, rivers and routes later implicated in debates about Gojoseon; it is not a dated foundation event."
+    },
+    {
+      "year": -800,
+      "date": "Bronze Age, broad period",
+      "era": "II",
+      "id": "II.1.9",
+      "title": "Craft and ritual reshape community identities",
+      "detail": "Changing burial practices and prestige metalwork offer evidence for regional differentiation, without supplying a secure modern ethnic label."
+    },
+    {
+      "year": -500,
+      "date": "First millennium BCE, broad period",
+      "era": "II",
+      "id": "II.1.3",
+      "title": "Classical traditions about Gija acquire later afterlives",
+      "detail": "This thematic marker does not date a proven migration by Gija; it introduces the history of a contested origin claim."
+    },
+    {
       "date": "Late first millennium BCE",
       "year": -400,
       "era": "II",
       "id": "II.1.1",
       "title": "The historical problem of Gojoseon",
       "detail": "Written traditions and archaeological distributions do not give a single uncontested date or territory."
+    },
+    {
+      "year": -400,
+      "date": "Warring States era, approximately",
+      "era": "II",
+      "id": "II.1.6",
+      "title": "Kingship and diplomatic claims enter transmitted accounts",
+      "detail": "Accounts quoted through later Chinese works describe kings, advisers and envoys, but do not offer a complete contemporary Gojoseon constitution."
+    },
+    {
+      "year": -300,
+      "date": "Warring States era, broadly",
+      "era": "II",
+      "id": "II.1.8",
+      "title": "The Joseon–Yan frontier becomes contested",
+      "detail": "Transmitted narratives describe a Yan advance associated with Qin Kai; the exact ancient boundary locations remain disputed."
+    },
+    {
+      "year": -200,
+      "date": "Late first millennium BCE, broadly",
+      "era": "II",
+      "id": "II.1.7",
+      "title": "Production and exchange sustain emerging political authority",
+      "detail": "Thematic landmark for farming, metalwork, storage and regional routes; not a precisely dated fiscal reform."
     },
     {
       "date": "194 BCE, traditionally",
@@ -289,6 +337,14 @@
       "id": "V.5.6",
       "title": "Carving the Goryeo Tripitaka",
       "detail": "A monumental collaborative religious and textual project was carried out amid the pressures of thirteenth-century Mongol invasions."
+    },
+    {
+      "year": 1281,
+      "date": "1281 CE (medieval source compilation)",
+      "era": "II",
+      "id": "II.1.10",
+      "title": "Samguk yusa transmits a remembered foundation story",
+      "detail": "A medieval record gives access to the Dangun tradition, not eyewitness evidence for an exact Bronze Age foundation date."
     },
     {
       "date": "1392",
@@ -947,6 +1003,66 @@
       "from": "IV.3.7",
       "to": "V.5.6",
       "why": "Maritime exchange, the circulation of texts and the labor behind religious copying anticipate questions about how later Korean Buddhist scholarship moved across regions."
+    },
+    {
+      "from": "II.1.1",
+      "to": "II.1.2",
+      "why": "Evidence for a political formation and evidence for the medieval Dangun foundation tradition answer different historical questions."
+    },
+    {
+      "from": "II.1.2",
+      "to": "II.1.3",
+      "why": "Dangun and Gija occupy different kinds of origin stories and gained different significance in later royal and intellectual memory."
+    },
+    {
+      "from": "II.1.3",
+      "to": "II.1.10",
+      "why": "Gija traditions illuminate state ritual and Confucian historical imagination even when their Bronze Age migration claim lacks confirmation."
+    },
+    {
+      "from": "II.1.4",
+      "to": "II.1.5",
+      "why": "Bronze dagger distributions inform regional geography but are not a reliable standalone map of a named kingdom."
+    },
+    {
+      "from": "II.1.5",
+      "to": "II.1.6",
+      "why": "Control of river corridors and frontier relationships would have shaped how early rulers reached beyond their immediate communities."
+    },
+    {
+      "from": "II.1.6",
+      "to": "II.1.7",
+      "why": "Political demands depended on food storage, workshops, exchange and households whose individual voices are not preserved."
+    },
+    {
+      "from": "II.1.7",
+      "to": "II.1.9",
+      "why": "Production and craft specialists help us examine social diversity beyond weapons and diplomatic stories."
+    },
+    {
+      "from": "II.1.8",
+      "to": "II.1.6",
+      "why": "Transmitted diplomatic disputes with Yan provide limited but valuable evidence of rulers, advisers and contested royal standing."
+    },
+    {
+      "from": "II.1.8",
+      "to": "II.2.1",
+      "why": "The Yan frontier setting matters for understanding later migration and Wiman, without merging distinct generations into one episode."
+    },
+    {
+      "from": "II.1.9",
+      "to": "IV.3.2",
+      "why": "Comparing social histories across very distant periods helps expose the limitations of each archive without assuming the same institutions."
+    },
+    {
+      "from": "II.1.10",
+      "to": "VI.4.3",
+      "why": "The construction of a shared historical past and the creation of a vernacular writing system illuminate different ways states shaped cultural legitimacy."
+    },
+    {
+      "from": "I.4.2",
+      "to": "II.1.1",
+      "why": "The transition from chiefdom models to identifiable states shows why one named kingdom cannot be projected onto every earlier settlement."
     }
   ]
 }

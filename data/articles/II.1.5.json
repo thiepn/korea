@@ -1,0 +1,74 @@
+{
+  "id": "II.1.5",
+  "title": "Liaoning, the Peninsula, and the Geography of Early Gojoseon",
+  "kicker": "GOJOSEON · SOURCES AND REGIONAL HISTORY",
+  "description": "Original historical synthesis distinguishing material evidence, transmitted sources and debated modern reconstructions.",
+  "release": "K",
+  "sourceStatus": "Selective direct/contextual citations; unresolved chronology, geography and broader interpretation not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 — 고조선의 위치와 강역",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0010_0050",
+      "role": "Review of Liaodong, Pyongyang and migration hypotheses, textual chronology and disputed geography"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "고조선 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003937",
+      "role": "Scholarly synthesis of early centers, bronze dagger assemblages and debate; some placements are contested"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "요령 정가와자 유적 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0039316",
+      "role": "Liaoning archaeology, chronology and alternative cultural-political attributions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.1.5:b01",
+      "title": "A river landscape before a political border",
+      "paragraphs": [
+        "The Liaodong Peninsula, the larger Liaoning region, river basins reaching west and north, and the valleys of northwestern Korea form a connected yet uneven landscape. Waterways, mountain passes, and fertile pockets made some routes easier than others. The movement of goods and people across this world predates any securely reconstructed border of Gojoseon. To imagine the geography only as a colored kingdom on a present-day map is to hide much of its history. A bronze object may have been made in one region, exchanged through another, and deposited in a burial far from its production site. Farming communities could share techniques while keeping distinct political allegiances. A riverside settlement might matter for controlling transport in one period and lose influence when warfare redirected movement. Geography makes politics possible but does not itself name the rulers of every valley."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "II.1.5:b02",
+      "title": "The early-center debate",
+      "paragraphs": [
+        "Proposals for Gojoseon's early center have included regions in Liaodong, the Pyongyang area, and models of shifting centers over time. Some arguments emphasize the distribution and chronological change of lute-shaped bronze daggers and associated burial assemblages. Others emphasize ancient geographical descriptions, frontier conflict with Yan, and later records that identify centers farther southeast. The National Institute of Korean History notes the long-standing controversy over location; it has not been resolved simply by repeating one view more confidently. A map may show competing hypotheses, but it should preserve the evidentiary reasons for each. A site with relevant material remains does not automatically equal the named capital of a text. Similarly, a reference to a river whose name was preserved in later commentary cannot always be located with modern surveying precision. Geographic arguments become strongest when they expose the chain of identification connecting a text, a place, and material chronology."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Historical scholarship records competing hypotheses about Gojoseon centers and geographical boundaries.",
+          "sourceIndex": 0,
+          "locator": "고조선의 위치와 강역, (1) 고조선의 위치문제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.1.5:b03",
+      "title": "The frontier as a zone of relationships",
+      "paragraphs": [
+        "Ancient frontiers often worked through corridors of settlement and alliance rather than through uniform fences. Between Gojoseon and Yan, power could be exercised by controlling routes, receiving tribute, or organizing armed force. As circumstances changed, such relationships shifted. A narrative claiming a large amount of territory was seized need not provide a precise surveyed border. Ancient numerical expressions and place names can serve political or rhetorical purposes within a transmitted text. In discussing the region around Manbeonhan, researchers must acknowledge differences in identifications and avoid turning an uncertain ancient name into an unqualified modern coordinate. This caution matters for comparing textual and archaeological evidence: cultural practices can continue across areas after political control changes, and a new military frontier need not produce an immediate break in local pottery or burial customs. Social landscapes commonly outlast the campaigns that redefine authority."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "II.1.5:b04",
+      "title": "Landscape without an ethnic shortcut",
+      "paragraphs": [
+        "The regions involved in Gojoseon history now span states with different national historiographies. Ancient residents cannot be sorted into modern citizenship categories. The same excavated assemblage may be interpreted through debates about Yemaek, Donghu, and other names recorded in external sources. Those terms need their own critical chronology. A good geographic account describes specific places, the confidence of dating, and the limits of attribution before drawing political conclusions. It also asks what early settlements depended upon: rivers for travel and water, uplands for resources, fields for food, and neighbors for exchange. Such concerns connect the archaeology of Liaodong and northwestern Korea more powerfully than an anachronistic border map. The question of Gojoseon's center remains important, but the human geography around that center should not disappear behind the argument about a single capital."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

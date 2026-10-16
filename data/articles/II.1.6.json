@@ -1,0 +1,154 @@
+{
+  "id": "II.1.6",
+  "title": "Kingship, Elite Power, and Early Political Institutions",
+  "kicker": "GOJOSEON · SOURCES AND REGIONAL HISTORY",
+  "description": "Original historical synthesis distinguishing material evidence, transmitted sources and debated modern reconstructions.",
+  "release": "K",
+  "sourceStatus": "Selective direct/contextual citations; unresolved chronology, geography and broader interpretation not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "사료로 본 한국사 — 고조선의 성장과 변화 (魏略 in 三國志)",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0020",
+      "role": "Transmitted primary-text excerpt on royal titles, diplomacy and the Yan Qin Kai attack; compiled through later authors"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "사료로 본 한국사 — 고조선의 정치구조 (史記 and 魏略)",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0040",
+      "role": "Transmitted primary-text passage identifying the named late court officials and defection narrative"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "요령 정가와자 유적 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0039316",
+      "role": "Liaoning archaeology, chronology and alternative cultural-political attributions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.1.6:b01",
+      "title": "Authority before a palace can be reconstructed",
+      "paragraphs": [
+        "A ruler in an early polity was not simply a person wearing a crown. Authority was a relationship that had to be sustained across communities that could produce food, resist demands, seek allies, and remember obligations differently. Historians of Gojoseon face the difficulty that the surviving documents name kings and advisers more readily than they explain routine political practice. To say that there was kingship therefore begins a set of questions instead of ending them. Did a leader command permanently attached armed followers, or summon support from allied groups? Did officials collect goods directly, or rely on local authorities to transmit a share? What forms of ritual made obligations legitimate? What happened when a powerful household refused compliance? A named office may suggest an organized court without telling us how far orders travelled. The short accounts of diplomatic confrontation with Yan are useful because they present decisions made by rulers in response to neighboring powers. Their terms deserve respect as texts, but they are not a census of Gojoseon's villages. Institutional history must reconstruct the space between occasional acts of royal decision and the many forms of labor and negotiation that enabled them."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "II.1.6:b02",
+      "title": "The vocabulary of kings and ministers",
+      "paragraphs": [
+        "The transmitted Weilüe narrative, preserved in commentary to the Sanguozhi, refers to a lord of Joseon calling himself king when Yan advanced its own royal claims, and to an adviser whose counsel affected the response. Even in compressed form, the passage presents more than a figure isolated on a throne: there is political argument, strategic restraint, and the sending of an envoy. The language of king and grandee might reflect the source's attempt to render unfamiliar institutions in recognisable Chinese terms. Nor does its survival in a later compilation settle precisely when every event occurred. But the action it describes fits a world in which political ranking was contested partly through titles as well as force. To declare oneself a king was to communicate standing to neighbors, dependents, and rivals. Counsel shows that decisions could be debated, whether through a formal council or a looser circle of important families. Diplomacy implies messengers, information routes, and a capacity to enforce commitments at least in some places. All these are more defensible inferences than a speculative inventory of ministries. The evidence names a political arena. Its exact internal architecture remains unfinished."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "A transmitted Weilüe passage depicts a Joseon ruler claiming royal title and sending envoys amid tensions with Yan.",
+          "sourceIndex": 0,
+          "locator": "위략 cited in 삼국지 30, 고조선의 성장과 변화",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "II.1.6:b03",
+      "title": "Archaeological power without written names",
+      "paragraphs": [
+        "Graves and prestige objects sometimes show sharp differences in the resources devoted to particular burials. In Liaoning and neighboring regions, metal weapons, ornaments, and other assemblages have been used to discuss emerging elite authority. Such finds can speak to hierarchy, specialized production, and competitive display. They cannot on their own prove that a buried individual bore a title transmitted in another century. The journey from an expensive grave to a political institution requires intermediate arguments: who controlled access to metal or artisans; who mobilized labor for burial construction; whether inequality recurs across a settlement system; and how objects circulated between centers. An elite burial may also exaggerate power through ritual choices made by survivors. A leader's authority while alive need not correspond exactly to the richness of a funeral. Archaeological interpretations therefore have to work with both concentrations and absences. If a cluster suggests a powerful local community, the question becomes how it interacted with other clusters, not whether a single artifact labels the whole region as a kingdom. Political centralization is a historical process, and the material record rarely preserves the moment at which participants believed it had become irreversible."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "II.1.6:b04",
+      "title": "A kingdom made from relationships",
+      "paragraphs": [
+        "An early state's power could be extensive without being uniform. River corridors, fertile plains, hill routes, and coastal passages connected settlements whose ties to a center might vary. Some communities could support a leader through kin alliances, others through tribute or protection, still others under threat. Those relationships may have been revised when warfare altered access to fields or trade corridors. It is tempting to translate all of them into the single word territory, but that can conceal more than it reveals. For a ruling center to make a demand outside its immediate settlement, somebody had to carry the demand and somebody local had to respond. Envoys could be refused. Promises could be renegotiated. Seasonal production limited what leaders could extract without endangering future harvests. A powerful court therefore depended upon practical knowledge held by people far from any throne. This is a plausible comparative framework, not a claim that a particular Gojoseon administrative manual survives. The fragmentary archive allows us to imagine the problems every polity faced while withholding detailed descriptions of how one kingdom solved them at every stage."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "II.1.6:b05",
+      "title": "Food storage and coercion",
+      "paragraphs": [
+        "Political power had a material calendar. Harvests were seasonal; grain could spoil, livestock could die, and transport required labor. If an authority demanded sustained military service or supported craft specialists, it needed resources from beyond the immediate consumption of ruling households. Surplus could come through gifts, tribute, coercion, reciprocal feasting, trade, or combinations of these mechanisms. Those categories should not be collapsed into a fully documented tax system. A storage pit near a settlement may attest preservation practices without identifying the owner of its contents. Where monumental construction or elite production is visible, the possibility of organized labor is strong, but the precise obligations of named households may remain unknown. Extraction and protection were connected. A leader who offered security could encourage contributions; a leader who made burdens intolerable could provoke flight or defection. The history of authority is therefore also a history of its limits. Considering these limits resists the habit of writing early kingship as if statehood, once achieved, automatically placed every village under constant supervision. Real authority had to be reproduced after each disruption to the harvest and each shift in the balance of competing leaders."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "II.1.6:b06",
+      "title": "Specialists and the making of status",
+      "paragraphs": [
+        "Metalworkers, potters, builders, transporters, and ritual practitioners could concentrate skills that not every household possessed. Elite patrons might reward specialists, organize access to raw materials, and turn technical output into visible signs of standing. A bronze dagger was also a product of mining, fuel, mould-making, polishing, and inherited craft knowledge. To describe the dagger only as the emblem of a warrior chief is to erase the labor that made such emblems possible. Yet the presence of a trained craftsperson does not establish a centrally administered workshop. Production could be dispersed and knowledge could move through marriage, apprenticeship, migration, or exchange. The relationship between craftsmanship and political organization may have varied between Liaodong communities and sites farther south. Comparison can reveal differences in metal composition or manufacturing practice, but it cannot restore the names of the workers. This absence points toward an important imbalance in early political history: rulers are sometimes glimpsed through transmitted titles, while the specialists who supported them remain anonymous. Reconstructing production therefore adds substance to kingship without pretending to possess a palace archive."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "II.1.6:b07",
+      "title": "Negotiation with external rulers",
+      "paragraphs": [
+        "The accounts involving Yan reveal a political world in which status was measured across frontiers. Conflict and diplomacy were two means of communicating what a ruler believed his power to be. A story in which an adviser persuaded a Joseon ruler not to launch a campaign may preserve a later narrative shaped around prudence. Its value is not that every utterance can be heard verbatim. Rather, it presents a logic in which a ruler's ambition was limited by another person's assessment of risk and by the actions of an external state. Relations with neighbors were not a separate decorative chapter of history. They affected how leaders represented themselves within their own communities. A successful envoy could strengthen standing at home; a lost frontier route could weaken a network of gifts and obligations. Political communication also depended on intermediaries, who might pursue their own interests. No text tells us how every meeting took place, and Chinese accounts need to be read as documents of external observation as well as sources of local events. The point is to see interstate relations and internal political authority as mutually constitutive rather than treating diplomacy as occasional interruptions to normal kingship."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "II.1.6:b08",
+      "title": "Crisis records and the late court",
+      "paragraphs": [
+        "The Shiji's description of the struggle ending in 108 BCE names a Joseon king and several political and military figures. The archive suddenly becomes crowded with officials because the final conflict produced an account worth preserving in the imperial historical narrative. It is tempting to use these titles to construct a mature bureaucracy and project it back indefinitely. That would confuse the endpoint of the evidence with the beginning of the institution. The late court belonged to a world transformed by movement across the Yan and Han frontiers, the arrival and rise of Wiman, intensified exchange, and conflict over access to communities farther east. People bearing titles that appear in conquest narratives may have wielded different sorts of authority from leaders living centuries earlier. Even within the final war, officers and local magnates could calculate their own survival. Defection and negotiation imply a polity with multiple centers of agency, not a mechanism operating automatically from one will. The problem is not whether the court had structure. The text shows that it did. The problem is deciding which details are securely historical, which are translated through Chinese terminology, and how narrowly their chronology must be specified."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8,
+      "evidence": [
+        {
+          "claim": "The Shiji describes named Joseon ministers and military officials during the late Han conflict.",
+          "sourceIndex": 1,
+          "locator": "史記 vol.115, 朝鮮列傳, political-structure excerpt",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "II.1.6:b09",
+      "title": "Law as an especially dangerous shortcut",
+      "paragraphs": [
+        "Later sources preserve a tradition known as Gojoseon's eight prohibitions, of which only a few stipulations survive in transmitted form. They concern matters such as killing, bodily injury, and theft; discussions also note their treatment in Chinese records. These rules are often taught as direct evidence for social stratification and property relations. They can indeed raise important questions about restitution, labor dependence, and sanctioned violence. But a fragment transmitted through an external text cannot be treated as the complete legal code of a whole civilization. We do not know how consistently every community applied the rules, who could enforce them, or how versions changed over time. Reading them as evidence of moral discipline in the modern sense also projects later expectations backward. A prohibition is an idealized normative statement and may reveal what a writer regarded as a problem rather than how often a violation occurred. The history of law should consider procedures and enforcement, most of which remain beyond direct recovery. The preserved clauses support cautious institutional discussion; they do not license reconstructed courtrooms with imaginary judges and defendants."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "II.1.6:b10",
+      "title": "Political office and family networks",
+      "paragraphs": [
+        "Power could pass through families even when its wider structure was unstable. Marriage, lineage claims, and inherited influence commonly shape elite competition, but the early Gojoseon record offers very few direct details of household succession. It is hazardous to fill that void with institutions documented much later in Korean kingdoms. A royal title could signal the increasing importance of hereditary legitimacy without telling us that succession was always straightforward. Rival lines might have competed; prominent advisers might have represented powerful groups; frontier leaders might have balanced loyalty to a court with responsibility to their own followers. These are historical possibilities to examine, not episodes to announce as facts. What can be asserted is that leaders relied upon networks of trust, obligation, and coercion that were socially embedded. The appearance of titled advisers in transmitted narratives makes individual consultation visible but leaves their constituencies unclear. For modern readers accustomed to separating government from society, the ancient question is a useful corrective: what we call politics may have been inseparable from kinship, ritual authority, possession of resources, and the ability to maintain personal alliances over time."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "II.1.6:b11",
+      "title": "Violence is an institutional fact, not a full explanation",
+      "paragraphs": [
+        "Weapons and stories of fighting are conspicuous elements in early histories. Military capacity could help a leader secure routes, demand supplies, and negotiate with neighbors. Yet a society cannot be explained entirely through the weapons buried with some of its dead. Defensive arrangements required attention to terrain, provisioning, information and the costs imposed on producing households. Violence could produce a new hierarchy, but it could also scatter populations or undermine the networks that rulers needed. Archaeological evidence for destruction should be dated and located before being assigned to a named campaign. Ancient sources often compress conflicts into decisive encounters, while the lived process of moving households and re-establishing production takes far longer. Some powerful figures may have found mediation more advantageous than conquest. A narrative that includes negotiation, stores, kin networks, and craft labor alongside warfare presents authority as a fragile achievement. The king is not thereby made unimportant. He is placed in a world in which his title depended upon systems that could not be sustained by command alone."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    },
+    {
+      "id": "II.1.6:b12",
+      "title": "The limits of a reconstructed constitution",
+      "paragraphs": [
+        "It is possible to sketch a plausible political setting for late Gojoseon: rulers who claimed high status, advisers, officials, armed force, regional dependents, and interaction with neighboring states. It is not possible to draw a reliable ministry chart for the entire first millennium BCE. Terms such as centralized state and confederation are analytical models useful for comparing evidence, not labels that the ancient population necessarily used. A model is strongest when it makes predictions that further excavation or textual comparison might refine. If concentrated administrative storage were found at a securely dated site, for instance, it might alter how we judge resource organization. If new inscriptions linked a political title to a location, they could narrow competing geographical reconstructions. Until then, responsible writing should preserve distinct layers: titles actually reported by transmitted texts, material patterns actually excavated, and inferences that connect them. That separation does not produce a weak history. It produces a history able to change when new evidence appears without requiring the entire past to be rewritten as a national morality tale."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 12
+    }
+  ]
+}
