@@ -1,0 +1,90 @@
+{
+  "id": "X.2.10",
+  "title": "The Post-Pandemic Economy, Supply-Chain Competition, Demographic Constraints, and the Search for a New Growth Model",
+  "kicker": "THE CONTEMPORARY ECONOMY",
+  "description": "Historical economic and social analysis of the post-pandemic economy, supply-chain competition, demographic constraints, and the search for a new growth model, current to the source review of October 2026.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; dated OECD and BOK context; projections separated from observed outcomes",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en.html",
+      "role": "Structural economic and demographic assessment dated July 2026; projections are not outcomes"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "2024 analysis of financial stability, household debt, labor dualism and productivity"
+    },
+    {
+      "institution": "Bank of Korea",
+      "title": "Causes of the Structural Decline in Korea’s Economic Growth Following Economic Crises",
+      "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?menuNo=400409&nttId=10095330",
+      "role": "December 2025 analytical investigation of investment and persistent growth slowdowns"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.2.10:b01",
+      "title": "Recovery in a world of repeated interruptions",
+      "paragraphs": [
+        "The COVID-19 pandemic disrupted travel, supply networks, services, and consumer behavior around the world. South Korea's economy entered the post-pandemic period with considerable industrial capabilities, but also with the uneven burdens of small-business disruption, changing household finances, and dependence on overseas demand. Recovery was not one event. Some sectors regained activity quickly, others faced delayed adjustment, and the effects on employment and balance sheets varied.",
+        "Longer historical comparison matters because the pandemic was not the first shock to leave persistent consequences. The Bank of Korea's December 2025 analysis argues that crises since the 1990s have been associated with lasting declines in investment trajectories. This interpretation helps frame a question rather than close it: how can an economy preserve productive capacity when repeated disruptions change expectations about future returns? The answer depends on firm behavior, public institutions, finance, and technological opportunities."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 1
+    },
+    {
+      "id": "X.2.10:b02",
+      "title": "Supply chains as geopolitical arrangements",
+      "paragraphs": [
+        "Global value chains once appeared primarily as arrangements for reducing costs and combining specialized capabilities. Competition between major powers, trade restrictions, export controls, and concerns over strategic materials gave them an explicitly geopolitical character. Korean firms navigate especially difficult choices because important customers, production locations, technologies, and security relationships may lie in different countries. A decision to relocate part of a supply chain can protect access to one market while increasing cost or reducing flexibility elsewhere.",
+        "Terms such as reshoring, friend-shoring, and economic security describe different strategies, not one inevitable destination. Some production can move, but specialized expertise, energy infrastructure, ports, and supplier clusters take time to reproduce. Diversification can reduce reliance on one partner without making an industry independent of international exchange. Claims that a national technology sector is self-sufficient should therefore be tested against the actual inputs and equipment needed to produce its goods."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 2
+    },
+    {
+      "id": "X.2.10:b03",
+      "title": "Demography and the labor force",
+      "paragraphs": [
+        "Very low fertility and rising life expectancy are altering the age structure of South Korea. A smaller future working-age population can place pressure on production, public finance, care services, and the ability of regions to sustain schools or local businesses. Yet the economic effects of demographic change are not mechanical. Productivity, labor-force participation, migration, retirement policy, and the organization of work shape how strongly population trends affect living standards.",
+        "The OECD's July 2026 assessment identifies ageing and the fiscal demands associated with it as central structural challenges. It also discusses barriers faced by women combining paid employment and motherhood, labor-market dualism, and productivity gaps between large and smaller firms. These problems interact. A society cannot reliably address fertility by treating births as an isolated target while ignoring housing costs, job insecurity, unequal caregiving, and the prospects of young adults. Nor can immigration be discussed purely as a numerical fix without institutions for integration, rights, and social participation."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 3
+    },
+    {
+      "id": "X.2.10:b04",
+      "title": "Energy, climate, and the cost of industrial renewal",
+      "paragraphs": [
+        "Advanced manufacturing requires dependable electricity and substantial investment. Climate commitments, energy security, international carbon-related trade rules, and public concern about pollution alter the costs and choices facing industrial firms. Semiconductor facilities, battery plants, ports, and transport systems all have environmental dimensions. A growth strategy that disregards energy infrastructure may promise output without identifying the physical conditions required for it.",
+        "Different energy mixes involve trade-offs in cost, emissions, safety, reliability, and import dependence. Historical analysis should avoid treating an announced target as proof that an energy transition has been completed. It should also ask who pays for adjustments and whether vulnerable households or small companies carry disproportionate burdens. The move toward lower-carbon production is an institutional and distributive transformation, not simply a technical procurement problem."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 4
+    },
+    {
+      "id": "X.2.10:b05",
+      "title": "Toward a more productive and inclusive economy",
+      "paragraphs": [
+        "A mature export-oriented economy cannot sustain rising living standards indefinitely by adding labor and capital at the pace possible during earlier industrialization. Growth increasingly depends upon productivity, innovation, organizational learning, and the ability to spread useful technologies beyond a few world-class firms. Support for research matters, but so do competitive markets, good management, education, infrastructure, and institutions that enable workers to change jobs without losing basic security.",
+        "The 2026 OECD survey characterizes South Korea as an economy with substantial achievements and persistent imbalances. In a durable encyclopedia, that juxtaposition should remain more important than any single year's growth forecast. The search for a new model is not evidence that the previous one wholly failed. It is the recurrent problem of adapting successful institutions to new circumstances, while making their benefits accessible to people who have not shared equally in past gains."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 5
+    },
+    {
+      "id": "X.2.10:b06",
+      "title": "What a future-oriented historical chapter should not predict",
+      "paragraphs": [
+        "Historians writing near the present face the temptation to turn current trends into inevitable outcomes. A semiconductor boom may cool, a trade restriction may change, or a new technology may diffuse more slowly than expected. Population structure shifts more gradually, but policy choices still matter. A narrative anchored in October 2026 should make its chronology visible and keep projections separate from observed events.",
+        "The enduring subject is how Korea's economy responds to the conjunction of technological opportunity, global competition, environmental limits, ageing, and distributional strain. These forces need not lead to either permanent decline or uninterrupted prosperity. The task of historical writing is to give readers the mechanisms and institutional choices with which to understand later change, without pretending that the future has already happened."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 6
+    }
+  ]
+}
