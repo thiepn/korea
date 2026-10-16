@@ -1,0 +1,129 @@
+{
+  "id": "VIII.3.7",
+  "title": "The Sino-Japanese War on Korean Soil and the Collapse of Qing Primacy",
+  "kicker": "KOREA 1894–1896 · EMPIRE AND REFORM",
+  "description": "A documented account of the sino-japanese war on korean soil and the collapse of qing primacy, distinguishing violence, administrative aims and later memory.",
+  "release": "R",
+  "sourceStatus": "Original synthesis, qualified institutional sources and perspective-limited contemporary diplomatic records",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Donghak Movement (동학운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016865",
+      "role": "The movement's stages, political-religious ideals and repression"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Peasant Movement (농민운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013107",
+      "role": "Staged Donghak campaign, Jeonju, jipgangso and Ugeumchi"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gabo Reforms 1894–1896",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400600",
+      "role": "Government and international context"
+    },
+    {
+      "institution": "US Office of the Historian",
+      "title": "FRUS 1894 Appendix: Korean Council Reforms",
+      "url": "https://history.state.gov/historicaldocuments/frus1894app1/d53",
+      "role": "Primary diplomatic reproduction of decrees; reflects translation choices and foreign observation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gabo Reform (갑오개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000925",
+      "role": "Council and cabinet chronology and substantive measures"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.3.7:b01",
+      "title": "War on Korea's territory",
+      "paragraphs": [
+        "The Sino-Japanese War unfolded through a Korean landscape inhabited by civilians and governed by a monarchy whose ability to decide the presence of foreign forces had been severely constrained. The early fighting near Asan and around Pyongyang was not simply an external duel detached from local society. Roads, villages, ports and supplies became part of military planning, and civilian populations faced requisition, insecurity and disruption.",
+        "Contemporary foreign diplomatic dispatches detail the movement of troops and the changing security of Seoul, but they were written for officials with their own priorities. Observers sometimes relayed figures and rumours they could not verify. A history of the campaign should compare sources where possible and keep the experiences of Korean communities in view even when the surviving narrative privileges the armies of Qing and Japan."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Historical scholarship documents the 1894–1896 sequence and military-political consequences.",
+          "sourceIndex": 0,
+          "locator": "동학운동 chronology and regional resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.7:b02",
+      "title": "Asan and the first decisive encounters",
+      "paragraphs": [
+        "Japanese naval and land operations in July 1894 attacked Qing forces concentrated around Asan and the western approaches. These engagements preceded the formal declarations of war and made clear that negotiation over withdrawals had broken down. A broader military rivalry had emerged from disputes over intervention in an uprising whose immediate intensity had already begun to subside.",
+        "The sequence demonstrates why diplomatic assurances alone cannot define the causes of war. Japanese officials described protection of Korea and the removal of Chinese primacy as their goals, while Qing officials protested coercion and asserted rights drawn from historical suzerainty. Both sides interpreted security and legitimacy through their own interests. Koreans, whose government had sought relief from internal conflict, now found the military situation developing beyond their effective control."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional references distinguish reform policies, military coercion and their contested legitimacy.",
+          "sourceIndex": 4,
+          "locator": "갑오개혁, 제2차 reform and Eulmi aftermath",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.7:b03",
+      "title": "Pyongyang and the northern campaign",
+      "paragraphs": [
+        "The September battle around Pyongyang was a major land engagement that shifted the balance against Qing forces. The city and surrounding districts were caught up in the military effort, and the battle opened further advances beyond the peninsula. A later chronology focused only on Japan's victory risks erasing the local consequences of troop concentrations and the damage done during campaigning.",
+        "The military explanation involves command, equipment, deployment, terrain and supply, not a simplistic judgment about cultural superiority. Qing forces differed in organization and experience, while Japanese mobilization drew upon an expanding modern state. Contemporary estimates of strength and losses are not always consistent. A careful narrative places the event in the campaign's strategic development and identifies uncertain details rather than treating any one dispatch as definitive."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.7:b04",
+      "title": "The naval dimension and regional power",
+      "paragraphs": [
+        "The war's maritime operations mattered because transport across the Yellow Sea and control of approaches to Korea affected the capacity to reinforce troops. Battles at sea changed the strategic balance and contributed to Japan's ability to continue operations against Qing forces. Naval modernization involved ships, training, communications and institutional investment, not simply the presence of a technologically impressive vessel.",
+        "Korean ports were important access points but their political status was contested. A foreign navy's ability to move men and goods through a port did not mean that Koreans had consented freely to every operation. Maritime and land campaigns were linked through supply and diplomacy. The transformation of regional power cannot be understood through land battles alone."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.7:b05",
+      "title": "Qing primacy and the meaning of independence",
+      "paragraphs": [
+        "Japan's victory undermined the Qing-centered relationship that had long shaped Korea's external diplomacy. The resulting Treaty of Shimonoseki in 1895 included a formal statement recognizing Korea as independent of Qing control. But the legal language of independence and the practical freedom of the Korean government were not the same. Japan's own intervention and expanding influence already exposed that tension.",
+        "Describing the war as having simply liberated Korea from China reproduces an interested imperial justification. Describing it as only a battle for territory also obscures the formal end of a longstanding diplomatic order. The historian must hold both developments together: an important transformation of East Asian political hierarchy and an intensification of Korea's vulnerability to a different external power."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.7:b06",
+      "title": "The road beyond 1895",
+      "paragraphs": [
+        "The peace settlement did not resolve competition over Korea. The rise of Russian involvement, Japanese fears about continental influence, and the reorganization of Korean government continued to shape politics. Reform programs were bound up with these changing calculations even when Korean officials pursued their own administrative goals.",
+        "The Sino-Japanese War thus served as a turning point rather than a complete explanation of subsequent annexation. The years between 1895 and 1910 had multiple crises, strategies and actors. This chapter remains centred on the military and diplomatic consequences for the reform order of 1894–1896, leaving later imperial expansion to the Chapters that own that chronology."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.7:b07",
+      "title": "The Korean cost of the Sino-Japanese War",
+      "paragraphs": [
+        "The battles of 1894 are often narrated through the comparative strength of the Japanese and Qing forces. Korean communities, however, experienced the movement of armies through disrupted transport, requisitioned supplies, insecurity around roads and the political subordination of local decisions to military needs. The lack of equally detailed civilian testimony does not mean these costs were marginal. A historical chapter about war on the peninsula must consider the infrastructures and households through which an imperial campaign passed.",
+        "The fighting around Asan began before the August declarations of war, showing that troop deployment and strategic choice had already overtaken diplomatic formulas. Later operations around Pyongyang shifted the military balance but did not settle the longer issue of Korean autonomy. Japan's defeat of Qing reduced Chinese primacy while Japanese intervention constrained the same Korean independence its leaders publicly invoked. The paradox is visible in contemporary correspondence, not merely in retrospective judgement.",
+        "Foreign observers reported casualty figures and campaign movements under conditions of incomplete knowledge. Their documents are valuable for chronology and perceptions but should be tested before numerical detail is stated definitively. The historian should also avoid treating the 1895 peace settlement as a direct path to annexation with no intervening history. Korean politicians continued to seek room for manoeuvre, Russian influence grew, and the legitimacy of internal reform remained fiercely contested. Military victory opened a new political environment rather than resolving every question."
+      ],
+      "sequence": 7,
+      "label": "Batch R · chronicle, legality and implementation"
+    }
+  ]
+}

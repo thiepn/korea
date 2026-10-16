@@ -1,0 +1,141 @@
+{
+  "id": "VIII.3.4",
+  "title": "The First Gabo Reform Government and the Reconstruction of State Institutions",
+  "kicker": "KOREA 1894–1896 · DONGHAK AND GABO",
+  "description": "Original evidence-based account of the first gabo reform government and the reconstruction of state institutions, distinguishing Korean political aims from Qing–Japanese coercion.",
+  "release": "R",
+  "sourceStatus": "Original editorial synthesis; contemporary diplomatic documents are perspective-bound primary sources, anchored to institutional histories",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gabo Reform chronology",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400600",
+      "role": "Domestic reform chronology, 1894 peasant rebellion, military intervention and February 1896 reversal"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Donghak Movement (동학운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016865",
+      "role": "Religious, social and political interpretations of uprising"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gabo Reform (갑오개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000925",
+      "role": "Institutional dates, council and reform trajectories"
+    },
+    {
+      "institution": "US Department of State",
+      "title": "Foreign Relations of the United States, 1894, documents of the First Sino-Japanese War",
+      "url": "https://history.state.gov/historicaldocuments/frus1894app1/index",
+      "role": "Contemporary diplomatic reports whose viewpoints require explicit source criticism"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Local Donghak Jipgangso (집강소)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055029",
+      "role": "Local peasant administrative organizations after Jeonju"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.3.4:b01",
+      "title": "Reform while soldiers held the balance",
+      "paragraphs": [
+        "The first Gabo reform government emerged in the summer of 1894 amid Japanese military intervention and Korean elite disagreement. The Gunguk Gimucheo, or Deliberative Council, began intensive reconsideration of institutions after the coup-like pressure at the palace and a reorganization of the ministry. It was not an ordinary parliamentary body elected by the population, nor a simple foreign translation committee with no Korean initiative.",
+        "Its members confronted long-recognized administrative problems while operating under exceptional constraints. Reformers sought to reduce fragmented court authority, improve central government and make revenue more accountable. The presence of Japanese troops shaped the political conditions, but the substantive proposals also drew upon domestic debates predating the crisis. Historical evaluation should therefore distinguish the proposals' content from the legitimacy of the circumstances under which decisions were imposed."
+      ],
+      "sequence": 1,
+      "label": "Original history · imperial and domestic perspectives",
+      "evidence": [
+        {
+          "claim": "Korean sources document the Donghak uprising and Gabo political sequence of 1894.",
+          "sourceIndex": 1,
+          "locator": "동학운동, 1894 and Jeonju sequence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.4:b02",
+      "title": "From six ministries to a reorganized cabinet",
+      "paragraphs": [
+        "The first reform phase restructured central governance by separating functions of the royal household from state administration and rearranging older ministerial responsibilities. Plans developed for a cabinet-like division of civil offices, finance, military affairs, justice, education, foreign relations and related responsibilities. Such restructuring attempted to specify who could authorize decisions and how accounts or personnel appointments should be processed.",
+        "Formal charts can create a misleading sense of immediate implementation. In a government with limited resources, established networks and regional officials accustomed to earlier procedures, an order changing a department's name could not ensure instant compliance. Historians need to ask which offices functioned, how officers were selected, and whether decisions reached provinces. The creation of a new organizational vocabulary was significant, but its practical transformation took place amid war and serious political instability."
+      ],
+      "sequence": 2,
+      "label": "Original history · imperial and domestic perspectives",
+      "evidence": [
+        {
+          "claim": "Contemporary diplomatic dispatches document the contested status and actions of foreign troops in Korea.",
+          "sourceIndex": 3,
+          "locator": "FRUS 1894 Appendix I, Korean governmental dispatches and diplomatic communications",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.4:b03",
+      "title": "Revenue, records and the effort to constrain the palace",
+      "paragraphs": [
+        "Separating the royal household's expenditure from state revenue was politically consequential because older institutional arrangements gave palace networks important control over funds, appointments and goods. Reformers proposed clearer financial administration, audits and the collection of revenue through defined channels. Contemporary American diplomatic reporting preserves proposals for accounting, budgets and investigation of unpaid obligations.",
+        "The evidence demonstrates the intent of reform, not that all money immediately became transparent. Wealthy interests, officials and regions differed in their incentives to report revenue honestly. A record of adopted rules should be contrasted with later evidence of enforcement and conflict. Financial reform addressed both the administrative capacity of the monarchy and struggles over which political group could control the machinery of government."
+      ],
+      "sequence": 3,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.4:b04",
+      "title": "Officials, examinations and legal responsibility",
+      "paragraphs": [
+        "The reform agenda included changes to official recruitment and the traditional civil service examination system. Its abolition affected the symbolic link between elite scholarship, office and status; plans for alternative selection claimed to value competence and broaden access. The contemporary Korean council record in American diplomatic archives provides specific recommendations about recruitment of clerks and selection according to qualifications.",
+        "Such changes cannot be reduced to the instant creation of a meritocracy. Families with education and resources still enjoyed advantages, and the administrative state required personnel trained in new procedures. Reforms also proposed that arrest and punishment be exercised through lawful courts rather than arbitrary officials or powerful private persons. The gulf between a decree and provincial practice is a central subject for later institutional history."
+      ],
+      "sequence": 4,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.4:b05",
+      "title": "One reform council, several political agendas",
+      "paragraphs": [
+        "Members of the Korean court and reform administration did not form an ideologically uniform party. Some valued strengthening royal government; others sought a clearer division of authority, removal of status privileges or policies associated with foreign models. Japanese officials had their own strategic objectives, including weakening Qing ties and increasing influence. The overlap of proposals should not conceal those different ambitions.",
+        "A historical account can recognize substantive steps toward legal and administrative change while criticizing foreign coercion. Nor should all opponents be described as reactionaries resisting progress. Some feared the loss of political independence or challenged the way policy was imposed, even if they differed among themselves over specific reforms. The council's achievement and vulnerability arose together: it legislated rapidly but lacked a stable environment of consensual political authority."
+      ],
+      "sequence": 5,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.4:b06",
+      "title": "The first phase and what remained unsettled",
+      "paragraphs": [
+        "The initial program produced a large body of decisions between July and December 1894. The Academy of Korean Studies records roughly 210 reform measures in this phase. The number conveys ambition but should not be confused with 210 fully implemented transformations in local life. Every decision created potential consequences for people who collected taxes, held rank, sought justice or depended upon court offices.",
+        "The formal institutional reconstruction was only one part of a larger confrontation. Peasant demands were still significant, external warfare was underway and cabinet alignments could shift. Later phases changed the architecture of government again, so the first Gabo program was not the definitive endpoint of reform. Its history is the beginning of a contested process in which administrative innovation and political dependency were tightly intertwined."
+      ],
+      "sequence": 6,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.4:b07",
+      "title": "What the council's paper trail can and cannot prove",
+      "paragraphs": [
+        "The American diplomatic compilation of Korean council reforms preserves detailed translated measures concerning departmental authority, revenue records, appointments and lawful punishment. It helps move discussion beyond the vague claim that the reformers wanted modernization. Their proposals addressed specific administrative frictions, including accounts that were unclear, officials whose salaries were unpaid and the question of who could arrest or punish residents. Those are concrete problems of governing rather than mere ideological fashion.",
+        "Yet the translator sometimes supplied explanations, and an adopted resolution was not the same as an enforceable rule in every province. A department could be renamed without receiving trained clerks, funds or public trust. The ability to audit local tax obligations depended on records and officials who might have benefited from old arrangements. Courts could be assigned exclusive powers while police and magistrates still exercised coercive authority in contested ways. Historians should distinguish intention, announcement, institutional creation and everyday application.",
+        "The position of the monarchy added a further conflict. Separating palace and state finance might make central accounts clearer but also alter who controlled resources and appointments. Korean officials differed over how much authority ministers should gain. Japanese military intervention gave some factions leverage while making the legitimacy of reform more vulnerable. The cabinet's decisions therefore reveal Korean initiative and external pressure at once. A coherent narrative cannot resolve that contradiction by declaring all proposals either autonomous national achievement or foreign invention."
+      ],
+      "sequence": 7,
+      "label": "Batch R · source critical regional context"
+    },
+    {
+      "id": "VIII.3.4:b08",
+      "title": "Administrative reform through the eyes of clerks and petitioners",
+      "paragraphs": [
+        "The Gabo council's reorganization of ministries is often presented through a list of departments. For the people who used those institutions, the crucial question was whether a complaint could be brought before an authorized officer, whether tax obligations could be verified and whether a ruling would be enforced. A newly named bureau might improve clarity for one petitioner and introduce confusion for another. Rules governing the separation of royal household business from state finance had effects on real salaries, supplies and sources of livelihood.",
+        "The translated reform decisions preserved in the American diplomatic archive include measures concerning clerks displaced by restructuring. These details are revealing because they recognize the human costs of administrative tidiness. Officials could be removed while arrears remained unpaid; experienced scribes might be reexamined for service rather than automatically discarded. The state needed continuity of practical knowledge if it hoped to execute its new procedures. A reformist government could be radical in its legal language and dependent on personnel trained in older institutions.",
+        "A plan for financial accountability also depended on information moving from counties to the capital. Tax collectors and magistrates held records that could be inaccurate or locally contested. Improving the form of a register would not settle disputes over land valuation or coercive collection without accessible mechanisms for review. Royal ambition, ministry jurisdiction and local practice could therefore diverge sharply. These are problems of administrative capacity, not evidence that every reform was insincere.",
+        "The historical tension is intensified by foreign intervention. Even a policy with domestic intellectual roots could be seen as politically illegitimate if imposed while Japanese troops constrained the court. Conversely, a criticism of foreign coercion does not prove that established fiscal or legal arrangements were satisfactory. The historian must evaluate content, process and implementation separately. This approach offers a more precise assessment of the first Gabo cabinet than simply celebrating or condemning the package under one label."
+      ],
+      "sequence": 8,
+      "label": "Batch R · original archival and institutional analysis"
+    }
+  ]
+}

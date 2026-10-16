@@ -30,6 +30,66 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "IV.5.2:b04",
+      "title": "From Yingzhou to Dongmo: a contested departure",
+      "paragraphs": [
+        "Dae Joyeong's foundation of Balhae is conventionally dated to 698, but the story begins with the dislocation following Goguryeo's defeat and the complex frontier rebellions of the 690s. A group of displaced people was not automatically an army, and a military force was not automatically a kingdom. Both forms of organization required leadership, resources and the ability to persuade or compel others to join. The Yingzhou disturbances opened a space in which these capacities could be put to the test.",
+        "Historical tradition associates Geolgeol Jungsang, Dae Joyeong's father, and Geolsa Biu with groups moving east during the Khitan-led disruption of Tang control. These figures matter because they show that founding leadership emerged from a network rather than from one solitary hero. Tang forces attempted pursuit and containment, while the migrating groups operated amid tensions involving Khitan, Mohe and former Goguryeo populations. The texts provide names and episodes, not reliable day-by-day descriptions of the journey or an exact count of every household that moved."
+      ],
+      "sequence": 4,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "IV.5.2:b05",
+      "title": "The military confrontation at Cheonmunryeong",
+      "paragraphs": [
+        "Accounts of the establishment of Balhae commonly emphasize Dae Joyeong's successful resistance to pursuing Tang forces near Cheonmunryeong. This encounter gave the movement breathing space and reinforced the authority of its leader. Yet the exact identification of the location and the course of the engagement are questions of historical geography and source criticism. Modern reconstructions should make their evidential basis explicit.",
+        "Victory in one battle did not automatically secure control of a wide territory. A surviving frontier coalition had to consolidate alliances and protect settlements against renewed campaigns. The significance of the encounter was the possibility it created for political organization, not proof that an established empire had been defeated permanently in a single stroke. In subsequent years the court would still seek recognition and practical relations with Tang. Military autonomy and diplomatic accommodation belonged to the same founding history."
+      ],
+      "sequence": 5,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "IV.5.2:b06",
+      "title": "The foundation of Jin and the Balhae name",
+      "paragraphs": [
+        "After the migration and conflict, Dae Joyeong established a political centre near Dongmo Mountain, conventionally in 698, with an early state name often rendered Jin. Later diplomatic usage and Tang recognition helped establish the name Balhae in the written record. It is important to distinguish the names employed by the founder's court from those preserved in Chinese historical narratives and modern historical writing.",
+        "A name carried political meaning but did not define the population's language or identity. Naming a state was an act of claiming authority over a community whose members brought different histories and obligations. It could make a military coalition more legible to neighboring courts while helping local elites form durable relationships. Modern claims that one external investiture created Balhae confuse diplomatic formalization with the material work of founding the polity."
+      ],
+      "sequence": 6,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "IV.5.2:b07",
+      "title": "Inheritance without a simple ethnic formula",
+      "paragraphs": [
+        "Balhae's rulers asserted continuities with Goguryeo and sometimes associated themselves with the customs of Buyeo. Those claims reflected memories, material ties and strategies of legitimacy, but they were political formulations rather than a census of the kingdom's inhabitants. People identified in records as Mohe were central to the kingdom's formation and subsequent rule. Their presence should not be reduced to a passive background to the Dae dynasty.",
+        "Some modern accounts place Goguryeo descendants exclusively among the rulers and Mohe exclusively among subjects. Such a rigid social formula exceeds what the limited literary and archaeological evidence can establish for every place and period. Status distinctions and cultural affinities certainly mattered, but they were shaped through service, marriage, political alliance and local leadership. A responsible history neither erases Goguryeo inheritance nor treats Balhae as an unchanging ethnic unit."
+      ],
+      "sequence": 7,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "IV.5.2:b08",
+      "title": "Making a court beyond the battlefield",
+      "paragraphs": [
+        "A new ruler needed mechanisms for obtaining food, mobilizing labour and keeping order in the territory under his influence. Some communities had established leaders and practices that could be incorporated into a wider order. Others could be hostile or negotiate their own terms. The capacity to receive foreign envoys and issue instructions implied specialists who could transmit information and represent the king's claims.",
+        "These institutions developed over time. Later descriptions of six central ministries or extensive provincial government cannot simply be assigned wholesale to 698. Political history works backward cautiously from mature institutions and forward from specific early evidence, acknowledging where the stages are uncertain. Dae Joyeong's achievement was to turn temporary opportunity into an enduring royal centre. Its subsequent consolidation under his successors provides stronger evidence of the durable character of that transformation."
+      ],
+      "sequence": 8,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "IV.5.2:b09",
+      "title": "How we know the foundation story",
+      "paragraphs": [
+        "The available accounts are transmitted through histories written outside Balhae or after its fall, sometimes with agendas of their own. Dynastic Chinese texts used categories suited to imperial frontier administration; later Korean scholarship interpreted the kingdom within its own changing ideas of historical succession. These texts are invaluable but cannot be treated as eyewitness transcripts of every founding speech.",
+        "Archaeological evidence near proposed early centres provides important independent constraints on chronology, settlement and material life, though excavated remains rarely identify a person named in a written narrative. The National Institute of Korean History's account of Balhae's foundation connects the Yingzhou uprising, eastward movement and Dongmo centre while recognizing the complexity of populations involved. Reading its synthesis alongside physical evidence gives a firmer foundation than repeating a heroic origin tale stripped of its uncertainties."
+      ],
+      "sequence": 9,
+      "label": "Batch R · documented historical expansion"
     }
   ],
   "release": "C"

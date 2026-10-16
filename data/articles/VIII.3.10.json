@@ -1,0 +1,129 @@
+{
+  "id": "VIII.3.10",
+  "title": "Agwan Pacheon, Russian Ascendancy, and the End of the Gabo Reform Order",
+  "kicker": "KOREA 1894–1896 · EMPIRE AND REFORM",
+  "description": "A documented account of agwan pacheon, russian ascendancy, and the end of the gabo reform order, distinguishing violence, administrative aims and later memory.",
+  "release": "R",
+  "sourceStatus": "Original synthesis, qualified institutional sources and perspective-limited contemporary diplomatic records",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Donghak Movement (동학운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016865",
+      "role": "The movement's stages, political-religious ideals and repression"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Peasant Movement (농민운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013107",
+      "role": "Staged Donghak campaign, Jeonju, jipgangso and Ugeumchi"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gabo Reforms 1894–1896",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400600",
+      "role": "Government and international context"
+    },
+    {
+      "institution": "US Office of the Historian",
+      "title": "FRUS 1894 Appendix: Korean Council Reforms",
+      "url": "https://history.state.gov/historicaldocuments/frus1894app1/d53",
+      "role": "Primary diplomatic reproduction of decrees; reflects translation choices and foreign observation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gabo Reform (갑오개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000925",
+      "role": "Council and cabinet chronology and substantive measures"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.3.10:b01",
+      "title": "The king leaves the palace",
+      "paragraphs": [
+        "On 11 February 1896 King Gojong and the crown prince moved from the royal palace into the Russian legation in Seoul, an event known as Agwan Pacheon. The relocation followed the assassination of Queen Min, severe political distrust and concerns for royal security. It did not occur in a calm debate about administrative efficiency. The king's physical location became an instrument for changing control over government appointments and policy.",
+        "A royal move between buildings might seem minor against the scale of warfare and social rebellion, but in a monarchy the ability to reach or constrain the ruler could determine whether ministers retained authority. Seeking protection at a foreign legation also illustrates the sharp limits of Korean autonomy. Gojong could maneuver between powerful states, yet doing so depended partly on their willingness to provide shelter and influence."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Historical scholarship documents the 1894–1896 sequence and military-political consequences.",
+          "sourceIndex": 0,
+          "locator": "동학운동 chronology and regional resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.10:b02",
+      "title": "The collapse of the Kim Hong-jip cabinet",
+      "paragraphs": [
+        "Gojong's move was followed by dismissal of the cabinet associated with the Eulmi reforms. Kim Hong-jip was killed amid intense hostility, and leading supporters of the previous order lost power. The Gabo reform system that had been rapidly remade since July 1894 therefore experienced a dramatic political reversal.",
+        "The National Institute of Korean History describes the February 1896 event as the failure or interruption of the reform order, emphasizing the weak autonomy of a program conducted under Japanese pressure. That interpretation should not erase the administrative measures that left later legacies. A government can fall while some policies, offices or debates continue to influence the future. Political collapse and institutional erasure are not identical."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional references distinguish reform policies, military coercion and their contested legitimacy.",
+          "sourceIndex": 4,
+          "locator": "갑오개혁, 제2차 reform and Eulmi aftermath",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.10:b03",
+      "title": "Russia becomes a central diplomatic presence",
+      "paragraphs": [
+        "The Russian legation provided protection at a moment when Gojong sought distance from Japanese power, and Russian influence increased accordingly. This change was part of a multipolar East Asian rivalry that had intensified after Japan's victory over Qing. The balance between foreign powers did not produce an independently controlled Korean political arena.",
+        "It would be simplistic to describe the event as a final triumph of Korean resistance or a complete transfer of sovereignty to Russia. Gojong pursued his own strategies, Korean factions reoriented themselves, and rival external interests remained active. The presence of advisers or guards did not resolve the fundamental problem of how the monarchy could preserve control while seeking support from competing empires."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.10:b04",
+      "title": "A reformed legal vocabulary survives the crisis",
+      "paragraphs": [
+        "Many Gabo measures challenged inherited assumptions about rank, office, revenue and the relation between the royal household and state administration. The failure of the coalition that enacted them did not mean those questions disappeared. Later Korean governments would return to forms of financial oversight, bureaucratic reorganization and legal change, though under altered political conditions.",
+        "Historical continuity must be demonstrated rather than assumed. Some individual decrees were reversed, others modified, and practical implementation varied. A neat line from the Gabo council to every subsequent institution would obscure the ruptures of the late nineteenth century. The more precise conclusion is that the reform period widened the repertoire of political possibilities even as its immediate configuration proved unsustainable."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.10:b05",
+      "title": "Domestic reform and external force",
+      "paragraphs": [
+        "The 1894–1896 sequence repeatedly forced Korean actors to evaluate institutional change under foreign military pressure. Rural movements demanded relief and participation; reforming officials sought modern administration; royal factions fought over survival and legitimacy; Qing, Japan and Russia pursued divergent interests. These agendas sometimes overlapped but were never interchangeable.",
+        "A nuanced history avoids two opposing errors: calling the reforms entirely foreign and denying Korean initiative, or celebrating modernizing decrees while overlooking coercion. Donghak activists were not merely an obstacle to reforms, and cabinet officers were not always without genuine ideas. The same political environment could produce demands for equality and the suppression of popular participants. Understanding those contradictions is the central achievement of this Chapter."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.10:b06",
+      "title": "From Gabo toward the Korean Empire",
+      "paragraphs": [
+        "Gojong's later moves, including the creation of the Korean Empire in 1897, belong to the next political phase rather than the Gabo order itself. The immediate legacy of February 1896 was a broken cabinet structure, continued foreign competition and an unresolved search for a basis of legitimate Korean state reform.",
+        "The episode remains pivotal because it demonstrates how sovereignty involves more than recognition in a treaty or written declaration. It requires the ability to protect rulers and residents, implement law, raise revenue and make choices without coercive intervention. The 1894–1896 crisis exposed these dependencies while opening disputes that continued long after the initial peasant uprising and the Sino-Japanese War had ended."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.10:b07",
+      "title": "What the February 1896 refuge revealed",
+      "paragraphs": [
+        "King Gojong's move to the Russian legation was an effort to escape a dangerous political setting and regain room to direct appointments and policy. It also demonstrated a severe institutional weakness: the monarch depended upon a foreign diplomatic compound for protection from threats around his own court. A legal declaration of independence cannot alone explain the practical sovereignty of a government unable to secure its ruler.",
+        "The collapse of the Kim Hong-jip cabinet should not be confused with the instant erasure of every Gabo measure. Administrative vocabulary, personnel practices and ideas about finance and courts had entered political debate and could reappear in altered form. Yet a continuity claim needs evidence from later institutions rather than assuming all subsequent reforms were descendants of one program. The immediate events included dismissal of ministers, public violence and a reorientation of foreign support.",
+        "The historical legacy is best described as unresolved. Rural protesters had challenged abuse and status privilege; Korean reformers had sought new administrative capacities; and foreign armies had profoundly constrained the political process. Russia's greater influence after the refuge did not simply replace Japanese domination with untroubled Korean independence. The monarchy remained in a field of competing external pressures. The emergence of the Korean Empire in 1897 belongs to the next phase, built partly from questions about sovereignty exposed but not settled in 1894–1896."
+      ],
+      "sequence": 7,
+      "label": "Batch R · chronicle, legality and implementation"
+    }
+  ]
+}

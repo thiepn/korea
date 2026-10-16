@@ -1,0 +1,141 @@
+{
+  "id": "IV.5.7",
+  "title": "Tang, Silla, Japan, Khitan, and Balhae Diplomacy",
+  "kicker": "BALHAE · STATE AND TERRITORY",
+  "description": "Evidence-grounded history of tang, silla, japan, khitan, and balhae diplomacy, separating transmitted institutions from excavated practice.",
+  "release": "R",
+  "sourceStatus": "Original editorial synthesis using Korean historical reference works and material culture, selective contextual citations",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Capital Relocations",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i101000",
+      "role": "Cross-checks capital sequences and the 793 succession uncertainty"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae (발해)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Historical texts and disputed dates of provincial system consolidation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Local Administrative Institutions (지방행정제도)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054208",
+      "role": "Five capitals, fifteen prefectures and sixty-two reported subprefectures"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Balhae Kingdom gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201031000.do?showHallId=760&showroomCode=DM0010",
+      "role": "Physical capital sites and archaeological displays"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae writings and calligraphy",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_037_0030_0030_0020",
+      "role": "Material and epigraphic evidence of a multilingual and Tang-connected elite"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.5.7:b01",
+      "title": "The diplomatic landscape was multipolar",
+      "paragraphs": [
+        "Balhae conducted relations with Tang, Silla, Japan and frontier powers including Khitan and other northeastern communities. Diplomatic records survive unevenly, with Japanese and Chinese texts especially important. This imbalance can make named royal embassies appear to be the whole foreign policy, while communications among neighboring communities remain poorly documented.",
+        "Each partner offered different possibilities. Tang contact could provide ritual recognition and access to elite goods, learning and markets. Japan was a significant recipient of embassies and could be an additional strategic audience. Relations with Silla involved competition, coexistence and varying kinds of contact rather than permanent hostility. No single diplomatic label explains all the intervals across more than two centuries of statehood."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History describes Balhae capitals and royal relocations.",
+          "sourceIndex": 0,
+          "locator": "발해의 천도, NIHK chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.7:b02",
+      "title": "An embassy as a claim about status",
+      "paragraphs": [
+        "A Balhae mission might deliver a letter, tribute goods, requests or commercial interests while negotiating court ceremony. The wording of diplomatic texts matters because rulers described themselves in ways designed for particular audiences. Some Balhae messages to Japan emphasized connection with Goguryeo and the traditions of Buyeo. This evidence demonstrates a political claim made abroad, not direct proof of the ethnic identity of every subject.",
+        "A visiting delegation was also composed of real people facing long journeys. The ability to send specialists capable of producing documents in recognized literary conventions implies institutions of training and material support. But the diary of a court reception does not record every encounter the envoys had during travel, nor the many people who sustained their movement. Diplomacy was an economic and logistical undertaking beyond the exchange of formal titles."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies discusses five capitals and fifteen prefectures within a debated chronology.",
+          "sourceIndex": 2,
+          "locator": "지방행정제도: 발해, 5경 15부 62주",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.7:b03",
+      "title": "Tang contact despite earlier war",
+      "paragraphs": [
+        "Conflict in the 730s did not prevent later negotiation between Balhae and Tang. Courts used ritual vocabulary that preserved hierarchical distinctions while dealing with rulers who could act independently. The continuing exchange of missions is therefore a warning against defining sovereignty solely by the titles used in imperial documents.",
+        "Through diplomacy Balhae could seek information, obtain prestige and open pathways to cultural and commercial resources. Tang also had strategic reasons to manage its relationship with the northeastern kingdom as frontier conditions changed. The political significance of a mission depends on its moment: a formal recognition after a confrontation may accomplish something different from a routine congratulatory embassy in a comparatively peaceful decade."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.7:b04",
+      "title": "Japan as partner and observer",
+      "paragraphs": [
+        "Balhae–Japan embassies are particularly valuable for reconstructing the kingdom's external presentation. Japanese court records sometimes preserved the envoys' dates, receptions and exchanges of gifts. They should be read alongside logistical circumstances and changes in Japan's own policies, rather than as a timeless friendship between two modern nations.",
+        "Sea travel imposed seasonal limits and risks. A successful mission involved arranging ships, personnel and goods, while failed crossings may be underrepresented in the narrative record. Official contact could also facilitate private acquisition and circulation of objects. The presence of trade within a diplomatic setting does not prove an unrestricted international market, nor does the existence of diplomatic tension show that practical exchange ceased."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.7:b05",
+      "title": "Relations with Silla across the frontier",
+      "paragraphs": [
+        "Balhae's connection to Silla requires attention to geography and to the coexistence of rival claims over the legacy of older kingdoms. The two courts did not occupy the same position relative to Tang, and their strategic priorities were not constant. Claims about a fixed and heavily patrolled border across centuries can exceed the surviving evidence.",
+        "The phrase North–South States, often used in Korean historiography, can be a useful reminder that Silla was not the peninsula's only important contemporary state. Yet it should not flatten the distinct structures or populations of the two kingdoms. A history of diplomacy emphasizes actual episodes of contact and conflict, supported by records where available, rather than imagining a permanent early version of a modern divided Korea."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.7:b06",
+      "title": "What the archives omit",
+      "paragraphs": [
+        "Court historians preserve envoys because missions mattered to legitimacy and interstate protocol. They usually say less about fishermen, traders, captives, religious travellers and families who crossed political boundaries. Archaeological finds of imported or shared material can expand the picture, but cannot by themselves identify the legal status or motivation of a traveller.",
+        "It is therefore useful to distinguish confirmed embassies, likely exchange networks and speculative individual journeys. Claims that Balhae was wholly isolated or uniformly cosmopolitan are both oversimplifications. The kingdom occupied a connected northeastern world in which formal ceremonial relations were only one way that people, goods and ideas moved. Its political power rested partly on managing those connections without ever controlling them completely."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.7:b07",
+      "title": "Diplomatic archives as selected windows",
+      "paragraphs": [
+        "A Japanese account of a Balhae embassy can preserve a named envoy, royal letter and court reception with a precision otherwise rare in early medieval history. The same document may omit the journey through Balhae territory, the personnel maintaining the ship and the private exchanges that accompanied its official purpose. That selectivity matters when estimating the real scale of interaction. Diplomatic visibility is not a measure of all contact.",
+        "Balhae's formal letters could refer to Goguryeo heritage while adopting the conventions of learned Chinese composition. The two practices were not contradictions: one concerned political inheritance, the other a shared language of regional diplomacy. The Japanese audience might find one claim strategically useful while Tang interpreted Balhae status through a different hierarchy. Historical meaning was negotiated across audiences.",
+        "A court-centred history also risks undervaluing Silla, despite the geographical proximity of the southern kingdom. Sparse records may reflect selective compilation and different routes rather than a total absence of exchange. Secure findings from material culture can add evidence of circulation, but a vessel or ornament seldom identifies the citizenship of its owner. The correct goal is to reconstruct identifiable channels and their limits, leaving undocumented social movement uncertain rather than assigning one permanent character to interstate relations."
+      ],
+      "sequence": 7,
+      "label": "Batch R · deepening of political chronology"
+    },
+    {
+      "id": "IV.5.7:b08",
+      "title": "Routes, seasonal movement and the work behind diplomacy",
+      "paragraphs": [
+        "A royal embassy required an organized journey, not merely an official letter. Personnel had to assemble gifts, credentials, clothing, provisions and information about conditions beyond the border. Maritime missions depended on vessels and navigational knowledge; land routes required guides, secure lodging and political permission through the territories encountered. The surviving reception record often begins only when envoys appear at a foreign court, leaving most of this labour unmentioned.",
+        "Japanese records of Balhae missions are especially valuable for dated encounters and wording, but they represent Japanese institutions' interests in ritual, status and the reception of foreign guests. The same embassy could be meaningful in a different way to Balhae. Its rulers might seek legitimacy, goods, intelligence or a position in competition with other states. A host's ceremonial classification should not be mistaken for a complete account of the sender's goals. The diplomatic exchange was a negotiation whose documents record selected sides of the encounter.",
+        "Relations with Tang similarly combined formulaic hierarchy and practical autonomy. A ruler could receive an investiture title while retaining substantial independent military and administrative power. Conversely, the willingness to dispatch tribute or learned specialists might be advantageous even when no military threat was immediate. The historical picture is therefore not an alternation between submission and independence in the modern binary sense. It is a repertoire of actions by states possessing unequal resources and distinct diplomatic languages.",
+        "Diplomacy also creates archival asymmetry. Courts preserved missions that affected protocol, whereas coastal residents, merchants, religious travellers or displaced people usually left fewer written traces. Archaeological finds can broaden the field of possible interaction without proving the motivations or citizenship of every traveller. Good historical geography places routes of exchange alongside institutional contact, but labels one as directly recorded and the other as materially inferred. That distinction makes Balhae's connected position in Northeast Asia intelligible without inflating the evidence."
+      ],
+      "sequence": 8,
+      "label": "Batch R · original archival and institutional analysis"
+    }
+  ]
+}

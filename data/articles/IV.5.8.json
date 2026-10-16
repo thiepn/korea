@@ -1,0 +1,129 @@
+{
+  "id": "IV.5.8",
+  "title": "Ninth-Century Balhae: Succession, Recovery, and Territorial Expansion",
+  "kicker": "BALHAE · NINTH CENTURY AND CONQUEST",
+  "description": "Critical political history of ninth-century balhae: succession, recovery, and territorial expansion, with court texts, local governance, and conquest hypotheses held apart.",
+  "release": "R",
+  "sourceStatus": "Original historical synthesis with dated institutional source locators; source-critical and non-exhaustive",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Fall of Balhae",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i100900",
+      "role": "Chronology of post-Mun succession, Seon revival, 926 campaign and successor polities"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae (발해)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Regional peoples, office hierarchy, geographical reach and uncertainties"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Capital Relocations",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i101000",
+      "role": "Royal succession, capital shifts and archaeological caveats"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Balhae Kingdom gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201031000.do?showHallId=760&showroomCode=DM0010",
+      "role": "Excavated culture, later migration and material remnants"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae in Regional Administrative History",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054208",
+      "role": "Documentary structure of five capitals, prefectures and local authorities"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.5.8:b01",
+      "title": "A succession crisis is not the end of a kingdom",
+      "paragraphs": [
+        "King Mun's death in 793 was followed by a period of comparatively rapid royal succession and apparent political disturbance. Later texts describe Dae Wonui's disputed accession and several short reigns. These notices matter because they break the impression of unbroken dynastic order, but they are not detailed accounts of every faction or social conflict at court.",
+        "The instability may have involved succession rules, rival royal branches and the distribution of positions among elites. These are reasonable historical problems, not proven explanations of each death or deposition. Capitals moved and titles changed in this period, indicating attempts to restore legitimacy and rearrange the centres of royal authority. A political history should show uncertainty rather than turn the short sequence of rulers into a fully documented palace conspiracy."
+      ],
+      "sequence": 1,
+      "label": "Historical synthesis · source uncertainty",
+      "evidence": [
+        {
+          "claim": "National Institute chronology identifies royal instability, Seon's recovery and the Khitan invasion of 926.",
+          "sourceIndex": 0,
+          "locator": "발해 멸망 (926), succession and Khitan campaign",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.8:b02",
+      "title": "The transition toward renewed strength",
+      "paragraphs": [
+        "After years of unstable succession, the accession of King Seon, Dae Insu, in 818 marked an important phase of renewed royal authority. Accounts associate his reign with military and territorial successes and a stronger place for Balhae within the northeastern balance of power. The epithet Haedong seongguk, often translated as a flourishing state east of the sea, reflects Balhae's later reputation.",
+        "A phrase of admiration is not a statistical measure of government efficiency or popular prosperity. Historians should ask what strategic changes and diplomatic relationships support the account of recovery. The durability of provincial administration, access to northern routes and effective command likely mattered, though their evolution cannot always be dated to one ruler. Balhae's ninth-century expansion should be presented as a political process built upon earlier institutions, not a sudden miracle after two decades of disorder."
+      ],
+      "sequence": 2,
+      "label": "Historical synthesis · source uncertainty",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies describes differentiated regional governance and uneven frontier authority.",
+          "sourceIndex": 1,
+          "locator": "발해 정치, 영토 및 지방 제도",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.8:b03",
+      "title": "Expansion, maps and degrees of allegiance",
+      "paragraphs": [
+        "Ninth-century Balhae commanded or influenced extensive regions across northeastern Asia. Traditional narratives sometimes represent the territory as a single block of uniform sovereignty. Frontier administration was more complicated. The presence of a named prefecture, a military expedition or tribute from a regional group each provides different evidence about political relationships.",
+        "Identifying the practical reach of royal commands requires comparing documentary place names with sites, transport corridors and local material culture. Some settlements may have been integrated through officials while others retained substantial customary leadership. Stronger dynastic coordination did not mean every valley became administratively identical. Maps should reflect the strongest available evidence and make uncertain borders visible rather than build a false precision from court-centred descriptions."
+      ],
+      "sequence": 3,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.8:b04",
+      "title": "Rulers after Seon",
+      "paragraphs": [
+        "The later ninth-century succession is less richly narrated in surviving sources than the better-known reigns of Mu and Mun. Sparse notices do not imply political inactivity. Embassies, frontier security, religious patronage, local production and administrative operations could continue without leaving a continuous year-by-year record. A gap in the chronicle is a gap in documentation, not necessarily a crisis.",
+        "When modern histories describe prolonged decline, they need to identify evidence for reduced effectiveness rather than assume that a kingdom was deteriorating merely because it eventually fell. Changes in diplomacy, the rise of rival frontier powers and late dynastic uncertainties are more informative than a generic arc of decadence. The ninth century was a long period with recovery and adaptation before the dramatic events of 926."
+      ],
+      "sequence": 4,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.8:b05",
+      "title": "Tang disintegration changes the political world",
+      "paragraphs": [
+        "Tang authority weakened over the ninth century and the dynasty eventually fell in 907. For Balhae this altered the regional framework within which its court had received recognition, exchanged missions and responded to frontier military pressure. The disappearance of a familiar imperial centre did not erase the roads, markets or institutions that had developed through contact.",
+        "Instead it introduced a more fragmented environment with competing Chinese successor states and an increasingly powerful Khitan leadership in the north. Balhae's diplomatic flexibility mattered in these circumstances, but maintaining several relationships did not guarantee security. Historians must not make Tang's end a single-cause explanation for Balhae's fall almost two decades later; the Khitan conquest had its own strategic and operational history."
+      ],
+      "sequence": 5,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.8:b06",
+      "title": "Recovery reconsidered through evidence",
+      "paragraphs": [
+        "Balhae's ninth-century strength is visible through later dynastic assessments, changing regional relationships and the apparent extent of administrative organization. Those sources are selective. Court documents privilege the ruler's territorial claims, while surviving archaeology concentrates where excavation has been possible and substantial structures endured.",
+        "A balanced conclusion therefore recognizes meaningful political recovery while keeping separate what is attested, what is reconstructed and what remains inaccessible. It resists the notion that a state said to be flourishing had no internal tensions, just as it resists the idea that its eventual conquest proves it had been failing for generations. The following unit examines the varied frontier communities whose relationships shaped both expansion and vulnerability."
+      ],
+      "sequence": 6,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.8:b07",
+      "title": "The standard of evidence for a period of decline",
+      "paragraphs": [
+        "The period between King Mun's death and Seon's accession includes documented changes of rulers and political instability. Yet a rapid succession sequence does not itself quantify lost territory, tax receipts or the quality of daily administration. When sources are sparse, the label decline may become a substitute for specific evidence. The better approach identifies which dimensions were affected and which continued despite court difficulty.",
+        "The subsequent revival under Seon demonstrates that instability was not necessarily terminal. It also cautions against a simplistic model in which one charismatic king completely repaired the state by force of personality. Institutions, local alliances and earlier infrastructure could provide a foundation for recovery. A successful reign may result from the work of administrators, regional leaders and communities largely invisible in narrative texts.",
+        "The later ninth century should not be described as an uninterrupted slide toward conquest. Tang's disintegration changed external conditions, while the Khitan consolidation introduced a powerful strategic rival whose emergence cannot be derived from Balhae's internal succession alone. Chronologies must be synchronized before causal explanations are made. A military defeat in 926 becomes more understandable when placed against the changing abilities of the attacking regime and the vulnerabilities of particular frontier routes."
+      ],
+      "sequence": 7,
+      "label": "Batch R · deepening of political chronology"
+    }
+  ]
+}

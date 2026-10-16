@@ -1,0 +1,129 @@
+{
+  "id": "IV.5.3",
+  "title": "Early Balhae: Consolidation, Tang Recognition, and the New Royal Order",
+  "kicker": "BALHAE · POLITICAL HISTORY",
+  "description": "A source-conscious account of early balhae: consolidation, tang recognition, and the new royal order, with explicit limits on dynastic sources and archaeological inference.",
+  "release": "R",
+  "sourceStatus": "Original editorial synthesis; selective Korean institutional scholarship and primary-source criticism",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Foundation (698)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i100800",
+      "role": "Founding chronology from Yingzhou movements through Dongmo mountain; secondary institutional synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae (발해), Encyclopedia of Korean Culture",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Political institutions, rulers, geography and evidentiary debates"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Balhae Kingdom permanent gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201031000.do?showHallId=760&showroomCode=DM0010",
+      "role": "Material culture and museum historical interpretation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Capital Relocations",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i101000",
+      "role": "Capital movements and chronology"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Fall of Balhae (926)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i100900",
+      "role": "Late rulers and the Khitan conquest; disputed causes noted"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.5.3:b01",
+      "title": "A throne inherited, not simply occupied",
+      "paragraphs": [
+        "When Dae Joyeong died in 719, the kingdom's survival depended on more than replacing one commander with another. His successor Dae Muye, remembered as King Mu, inherited a court positioned between powerful neighbors and local communities whose loyalty needed maintenance. Tang recognition could be diplomatically useful but was not the sole source of a ruler's power. Military prestige, the management of followers and access to resources all mattered.",
+        "The first decades are sometimes compressed into a transition from an unstable camp to a Chinese-style monarchy. That formula underplays gradual experimentation. A court may adopt titles and administrative offices before institutions operate uniformly in every outlying region. Conversely, leaders emerging from frontier war may already possess sophisticated experience of command and negotiation. Historians should distinguish the existence of a formal title in a diplomatic record from reliable knowledge about its practical reach within the countryside."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History dates Balhae's foundation to the late seventh-century Yingzhou disruptions and 698.",
+          "sourceIndex": 0,
+          "locator": "한국사 연대기, 발해 건국 (698)",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.3:b02",
+      "title": "Tang recognition as political negotiation",
+      "paragraphs": [
+        "Recognition from Tang was exchanged through embassies and formal titles. In 713 the Tang court invested Dae Joyeong with a title associated with Balhae, an important stage in the external designation of the new kingdom. Such investiture should not be interpreted as proof that Tang administratively ruled Balhae's population. The political relationship was asymmetrical in ceremony but could be contentious in military and strategic practice.",
+        "Chinese historical writing often describes neighboring rulers through the diplomatic conventions of imperial hierarchy, while other evidence reveals autonomous strategic choices. Reading a title only as a legal definition of sovereignty distorts the political situation. The importance of the investiture lies partly in improved channels for negotiation and exchanges of prestige. Balhae's court could work within that language while pursuing its own territorial and dynastic priorities."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies discusses varying models of Balhae political institutions and frontier governance.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 발해, 정치와 행정",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.3:b03",
+      "title": "Court organization and relations with followers",
+      "paragraphs": [
+        "Early state consolidation required ongoing settlement of disputes, mobilization of armed men, and distribution of offices and rewards. A royal household had to cultivate relationships with powerful lineages and regional chiefs whose participation might be essential for governing people and resources far from the centre. Tang-inspired administrative vocabulary later becomes more visible, yet using institutional names without secure chronology can make the early eighth-century state look more standardized than it was.",
+        "The distinction between direct and mediated rule is crucial. Some settlements likely interacted regularly with court officials or their representatives; more distant groups might preserve substantial local authority while supplying tribute, military assistance or access to routes. Precisely how those arrangements evolved is not fully documented. Instead of filling the silence with an imaginary bureaucratic chart, historians can compare royal claims, regional finds and later administrative structures while stating which conclusions remain retrospective."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.3:b04",
+      "title": "Diplomacy with several audiences",
+      "paragraphs": [
+        "The kingdom's external politics were not confined to the Tang court. Silla controlled territory to the south; northeastern communities and powers farther afield could alter the strategic balance; contacts with Japan emerged as an important additional channel. Each relationship offered different opportunities for goods, prestige and political positioning. An envoy bearing a message to one government did not automatically secure the same standing with another.",
+        "Balhae's emergence made the northeast a multi-centred field of calculation. A court seeking legitimacy might emphasize different inheritance claims to different audiences, and a change in one relationship could motivate initiatives elsewhere. Diplomacy was not merely ceremonial decoration: access to secure passage, frontier markets and recognition could contribute to political stability. Specific confrontations and diplomatic missions under King Mu are developed in the succeeding dedicated units rather than assumed to characterize the whole founding period."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.3:b05",
+      "title": "Material foundations of an expanding court",
+      "paragraphs": [
+        "Building and sustaining a ruling centre required food supply, transport, artisans and systems for acquiring materials. Even where the chronology of particular palaces is debated, roof tiles and planned architecture at later Balhae capitals attest to specialized labour and institutional resources. Such finds document capacity; they cannot always be assigned confidently to the first years of a given reign.",
+        "An emerging court also needed people able to interpret diplomatic writing, maintain records and conduct religious or commemorative ceremonies. Their presence may be indicated by later epigraphy and material evidence, but we should not infer an identical organization at every stage. Consolidation means that a ruler and followers developed repeatable ways to mobilize people and resources. It is a process visible imperfectly through the result, not an instantaneous achievement announced at foundation."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.3:b06",
+      "title": "Testing the image of a stable succession",
+      "paragraphs": [
+        "Later narratives can portray orderly royal succession as a sign of state maturity, but the absence of detailed recorded conflict does not prove harmony. Political disputes rarely enter surviving chronicles unless they affected diplomacy or warfare. Conversely, one documented confrontation does not establish that institutions were always weak. Our picture of early Balhae is shaped by what external courts chose to report.",
+        "The strongest conclusion is that the state weathered the transition from its founder and gained the capacity to engage multiple neighbors as a durable actor. Its rulers adapted inherited symbols and foreign institutional models in a changing landscape. Subsequent growth involved coercion and negotiation as well as administration, and its uneven effects on different populations remain an important question for the whole Chapter."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.3:b07",
+      "title": "A founding dynasty needed institutions that outlived its founder",
+      "paragraphs": [
+        "The succession from Dae Joyeong to King Mu raises a simple but decisive political question: who was authorized to command men and resources after the founder died? In a military-led coalition, personal obligations might have been strong, but royal inheritance could not function without support from senior followers and regional leaders. A later text recording an orderly accession does not tell us all the negotiations behind it.",
+        "Tang-style forms of recognition offered an external vocabulary for this settlement. Titles could be circulated in diplomatic letters, reaffirming a rank that other courts understood, while local authority depended on agreements and enforcement. The two levels of legitimacy were related without being identical. A household subject to an influential provincial chief might encounter royal power only intermittently, yet the chief's place within the monarchy could be essential to keeping the wider polity together.",
+        "Material construction provides another perspective. Monumental buildings and elaborate roof tiles require investment that is unlikely to be sustained by a temporary raiding band alone. But placing every building precisely within King Mu's reign may be impossible. A stronger interpretation considers the accumulation of administrative ability across successive reigns and distinguishes securely dated early elements from later institutional maturity. That gradual approach explains endurance more convincingly than imagining that the complete Balhae state sprang into existence in 698 or 719."
+      ],
+      "sequence": 7,
+      "label": "Batch R · historiography and material source cross-checks"
+    }
+  ]
+}

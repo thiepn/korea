@@ -1,0 +1,129 @@
+{
+  "id": "IV.5.1",
+  "title": "The Northern World after Goguryeo and the Road to Balhae",
+  "kicker": "BALHAE · POLITICAL HISTORY",
+  "description": "A source-conscious account of the northern world after goguryeo and the road to balhae, with explicit limits on dynastic sources and archaeological inference.",
+  "release": "R",
+  "sourceStatus": "Original editorial synthesis; selective Korean institutional scholarship and primary-source criticism",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Foundation (698)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i100800",
+      "role": "Founding chronology from Yingzhou movements through Dongmo mountain; secondary institutional synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae (발해), Encyclopedia of Korean Culture",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Political institutions, rulers, geography and evidentiary debates"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Balhae Kingdom permanent gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201031000.do?showHallId=760&showroomCode=DM0010",
+      "role": "Material culture and museum historical interpretation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Capital Relocations",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i101000",
+      "role": "Capital movements and chronology"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Fall of Balhae (926)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i100900",
+      "role": "Late rulers and the Khitan conquest; disputed causes noted"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.5.1:b01",
+      "title": "The northern aftermath of 668",
+      "paragraphs": [
+        "Goguryeo's defeat in 668 did not dissolve its inhabitants into one new political community. Households, soldiers and aristocratic networks experienced conquest, relocation, local resistance and accommodation differently. Tang command structures attempted to govern territories and populations that had once answered to the Goguryeo court, while Silla developed its own position farther south. The distribution of military posts and the choices of local people remained contested. The founding of Balhae three decades later must be situated within this unsettled northern world, not presented as an inevitable restoration of the fallen kingdom.",
+        "The words Goguryeo remnants, Mohe and Tang subjects describe overlapping situations rather than three uniformly separate peoples. A refugee from Goguryeo could be enrolled within Tang territory and participate in a later movement eastward; a community identified in Chinese texts as Mohe might maintain its own chiefs and alliances. Later accounts give these categories clearer boundaries than daily experience probably permitted. A history attentive to displaced populations asks who commanded movement, how communities secured food and military protection, and why allegiance to an expanding or weakening state could change."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History dates Balhae's foundation to the late seventh-century Yingzhou disruptions and 698.",
+          "sourceIndex": 0,
+          "locator": "한국사 연대기, 발해 건국 (698)",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.1:b02",
+      "title": "Yingzhou and the crisis of imperial rule",
+      "paragraphs": [
+        "The Yingzhou region in the Liao westlands became a significant concentration of resettled populations and frontier forces. In 696 the Khitan rebellion led by Li Jinzhong severely disrupted Tang authority there. This revolt was not itself the founding of Balhae, but it created an opening in which leaders associated with Goguryeo and Mohe communities could move eastward. The institutional history from the National Institute of Korean History associates Geolgeol Jungsang and Geolsa Biu with the groups that left the region.",
+        "An opening in imperial control is not sufficient to explain what followed. Moving families and followers through contested country required provisions, negotiated passage and means of defence. Tang commanders attempted to recover authority, and rival groups did not necessarily share identical long-term objectives. The founder's later authority emerged from this struggle, with military leadership interacting with existing ties and new opportunities. The precise size and composition of the migrating population cannot be established from the tidy numbers sometimes repeated in survey histories."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies discusses varying models of Balhae political institutions and frontier governance.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 발해, 정치와 행정",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.1:b03",
+      "title": "The place of Mohe communities",
+      "paragraphs": [
+        "Mohe is a term used in Chinese historical writing for diverse northeastern groups; it should not be mistaken for a single centralized ethnicity with a common political agenda. Some communities participated in the establishment of Balhae, others came under its influence later, and still others could maintain independent or alternative external relationships. Geographic access to forests, rivers and frontier routes made these alliances consequential for the material basis of a new kingdom.",
+        "A stark distinction between a Goguryeo governing minority and a passive Mohe majority can be tempting, but it risks projecting one model of ethnic hierarchy across several centuries and territories. Royal genealogies, tombs, place names and administrative evidence can shed partial light on power and cultural practice without providing a census of individual identities. Balhae belongs both to the history of Goguryeo succession claims and to the history of northeastern populations whose agency was central to making and sustaining the state."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.1:b04",
+      "title": "Memory of Goguryeo and a newly made kingdom",
+      "paragraphs": [
+        "The eventual Balhae polity claimed connections to the territorial and political inheritance of Goguryeo. Such claims were not empty: displaced elites, geographical memory and material continuities could provide resources for legitimacy. They also did not make Balhae simply Goguryeo under another name. A court formed after major disruption had to govern different communities, construct diplomatic status and negotiate the changing balance between Tang, Silla and frontier powers.",
+        "A later Japanese diplomatic document attributing recovery of Goguryeo's old lands and Buyeo customs to Balhae is evidence for the way Balhae's rulers presented themselves abroad. It cannot independently certify every genealogical assertion made in the message. Historians use such texts to ask what audiences the court addressed and which aspects of inheritance it considered politically useful. State formation was an active process of selecting precedents while building institutions suitable to a new strategic environment."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.1:b05",
+      "title": "Why a borderland became a political centre",
+      "paragraphs": [
+        "The northern forests and river basins offered strategic advantages and challenges. Movement east from Yingzhou placed emerging leaders farther from some Tang military centres but not outside the reach of imperial armies or rival regional actors. Securing defensible terrain, establishing access to food and attracting followers could give a new court the means to survive beyond one campaign. The conventional foundation near Dongmo Mountain is therefore a political geography as well as a dated event.",
+        "Modern boundaries between China, Russia and the Korean peninsula must not be read back into the seventh century. The places involved lay within an older and changing network of river routes, military posts, settlements and alliances. Reconstructing these connections requires careful historical geography, because the names preserved in texts do not always correspond unambiguously to modern sites. Maps are necessary aids, but the map's precise line should not pretend to settle every disputed location."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.1:b06",
+      "title": "The problem of historical narratives",
+      "paragraphs": [
+        "Chinese dynastic histories, Korean historical scholarship and excavated material illuminate the northern transition in different ways. Court chronicles typically explain events through rulers, military campaigns and tributary relations, leaving displaced families and local negotiations mostly unrecorded. Archaeological continuities can complicate those political narratives but rarely identify the specific actors named by the texts. Inference should be labelled as such when describing who moved, why they joined a leader or what language they spoke.",
+        "The founding of Balhae is significant without reducing it to a national origin story. It reveals how conquest could redistribute populations yet fail to stabilize imperial frontiers, and how former subjects and regional communities could construct an enduring polity. This approach prepares the reader for the founding events owned by the next Subchapter, where Dae Joyeong's rise is examined specifically rather than repeatedly retelling the entire background of Goguryeo's fall."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.1:b07",
+      "title": "Geography against inherited maps",
+      "paragraphs": [
+        "The geography of Balhae's emergence requires particular attention to river corridors between Yingzhou, Liaodong and the eastern uplands. Modern topographic maps help identify possibilities, but a seventh-century traveller confronted seasonal routes, river crossings, local military positions and shifting alliances. A route that appears direct on a modern map could be impossible with children, animals and supplies during particular seasons. Historical texts compress these practical problems into a phrase about going east. The compression should not become a detailed invented itinerary.",
+        "Population movement also did not happen in a world devoid of earlier settlements. Communities already farming, herding, fishing or hunting in the region could supply or resist newcomers. Each group brought practical knowledge essential for using the landscape. A founding coalition may depend as much on agreements with residents as on victory over an imperial detachment. Archaeology can illuminate settlement and craft continuity, but matching a site to one named migrant leader needs additional evidence. The historian's job is to retain this local dimension within a narrative otherwise dominated by Tang and Balhae rulers.",
+        "The names given to regions are especially fraught because texts were compiled at different times and later geographical terms may not preserve seventh-century usage. A precise modern coordinate assigned to Dongmo Mountain or a frontier battle site can mask a scholarly debate about identification. Publishing the most plausible location together with alternative proposals and source uncertainty is better historical practice than presenting a contentious identification as self-evident. This is not an excuse for vagueness: it identifies the exact type of observation or text needed to make a location secure."
+      ],
+      "sequence": 7,
+      "label": "Batch R · historiography and material source cross-checks"
+    }
+  ]
+}

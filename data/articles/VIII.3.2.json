@@ -1,0 +1,141 @@
+{
+  "id": "VIII.3.2",
+  "title": "Gobu, Hwangtohyeon, Jeonju, and the First Donghak Peasant Uprising",
+  "kicker": "KOREA 1894–1896 · DONGHAK AND GABO",
+  "description": "Original evidence-based account of gobu, hwangtohyeon, jeonju, and the first donghak peasant uprising, distinguishing Korean political aims from Qing–Japanese coercion.",
+  "release": "R",
+  "sourceStatus": "Original editorial synthesis; contemporary diplomatic documents are perspective-bound primary sources, anchored to institutional histories",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gabo Reform chronology",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400600",
+      "role": "Domestic reform chronology, 1894 peasant rebellion, military intervention and February 1896 reversal"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Donghak Movement (동학운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016865",
+      "role": "Religious, social and political interpretations of uprising"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gabo Reform (갑오개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000925",
+      "role": "Institutional dates, council and reform trajectories"
+    },
+    {
+      "institution": "US Department of State",
+      "title": "Foreign Relations of the United States, 1894, documents of the First Sino-Japanese War",
+      "url": "https://history.state.gov/historicaldocuments/frus1894app1/index",
+      "role": "Contemporary diplomatic reports whose viewpoints require explicit source criticism"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Local Donghak Jipgangso (집강소)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055029",
+      "role": "Local peasant administrative organizations after Jeonju"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.3.2:b01",
+      "title": "Gobu: a local abuse becomes a challenge to authority",
+      "paragraphs": [
+        "The 1894 crisis began with rural grievances in and around Gobu, where the conduct of local official Jo Byeong-gap became a focus of anger. Allegations about taxation, imposed work and abusive administration were not abstract complaints against modernization. They concerned the way households experienced state officials, levies and uncertainty about justice. Jeon Bong-jun's organizing drew energy from this concrete conflict, but the movement soon extended beyond one magistrate.",
+        "The episode shows how a local grievance could become a test of broader political legitimacy. The removal or replacement of an official did not necessarily satisfy farmers who had discovered the possibility of collective action. The movement also inherited networks shaped by Donghak religion and earlier petitions, making it capable of reaching beyond a single county. Historians should distinguish the immediate Gobu protest from the subsequent regional mobilization rather than treating the entire year as one continuous army under one unchanging command."
+      ],
+      "sequence": 1,
+      "label": "Original history · imperial and domestic perspectives",
+      "evidence": [
+        {
+          "claim": "Korean sources document the Donghak uprising and Gabo political sequence of 1894.",
+          "sourceIndex": 1,
+          "locator": "동학운동, 1894 and Jeonju sequence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.2:b02",
+      "title": "Leadership and the Donghak connection",
+      "paragraphs": [
+        "Jeon Bong-jun was a leading organizer, but rural protest involved many local figures, religious leaders, village networks and participants whose motives differed. Some were committed Donghak adherents; others responded to unfair taxation or the abuse of political power. Donghak supplied organizational links, moral language and opportunities for trust across communities. Its religious character was not merely a disguise for economic rebellion.",
+        "The movement's strength depended partly on the ability to gather people and provisions while operating in a territory crossed by official forces. Participants had to communicate rapidly, assess risks and coordinate when to fight or negotiate. Official reports tend to describe leaders and enemies, while later commemorative accounts can magnify individual heroism. A historically responsible narrative uses named leaders without erasing the collective and locally rooted nature of the uprising."
+      ],
+      "sequence": 2,
+      "label": "Original history · imperial and domestic perspectives",
+      "evidence": [
+        {
+          "claim": "Contemporary diplomatic dispatches document the contested status and actions of foreign troops in Korea.",
+          "sourceIndex": 3,
+          "locator": "FRUS 1894 Appendix I, Korean governmental dispatches and diplomatic communications",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.2:b03",
+      "title": "Hwangtohyeon and the credibility of armed protest",
+      "paragraphs": [
+        "The peasant army's victories, including the battle of Hwangtohyeon, altered the government's calculation. An assembly that could defeat official troops was no longer a problem that one local reprimand would settle. The military successes helped strengthen recruitment and confidence among supporters while increasing anxiety in the central court and among local elites.",
+        "Winning a battle did not solve the movement's practical challenges. Volunteers needed food, shelter, effective communications and means of preventing disorder in areas they passed through. Military success could also attract participants with different expectations of reform. The peasant leadership had to manage an unstable coalition whose grievances ranged from abusive officials to wider questions of status, public revenue and outside influence. Sources that describe victories in heroic shorthand can obscure this organizational work."
+      ],
+      "sequence": 3,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.2:b04",
+      "title": "Jeonju and the paradox of success",
+      "paragraphs": [
+        "The occupation of Jeonju, the provincial centre, represented a major escalation because it challenged a key administrative node. The government confronted the difficulty of suppressing an organized force while imperial neighbors were already attentive to Korea's internal affairs. A local movement was becoming a regional political crisis with international consequences.",
+        "The capture of the city did not mean that peasant forces could immediately govern the entire kingdom or replace the central monarchy. Their bargaining power depended on conditions in Jeolla and on the ability of official forces to recover control. The distinction matters because later nationalist accounts may retroactively read a comprehensive revolution into every action, while hostile official narratives sometimes reduce political demands to violence. The evidence points to an active contest over administration and reform."
+      ],
+      "sequence": 4,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.2:b05",
+      "title": "Jeonju agreement and temporary accommodation",
+      "paragraphs": [
+        "The arrangement usually termed the Jeonju agreement or Jeonju Hwayak followed the military and political confrontation. Accounts differ in how precisely they describe its terms and the formal status of commitments. It provided an opening for withdrawal and for local forms of reform activity, rather than settling all disputes between the movement and the government.",
+        "The peasant army's subsequent establishment of jipgangso offices in Jeolla demonstrates that participants sought more than battlefield success. They attempted to supervise local administration and address everyday abuses. Yet the extent of effective control varied by town, and these bodies coexisted uneasily with official institutions. One should not imagine a single centrally codified democratic constitution operating uniformly across the province; the evidence instead shows uneven experiments in political participation."
+      ],
+      "sequence": 5,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.2:b06",
+      "title": "A Korean struggle with foreign consequences",
+      "paragraphs": [
+        "The government's appeal to Qing forces and Japan's dispatch of troops transformed the setting in which the peasant movement operated. Korean reform demands became entangled with a rivalry between empires. Contemporary diplomatic records show Korean officials protesting the continued presence of foreign troops after the immediate justification for intervention had changed.",
+        "The international consequence should not erase the movement's own agenda. Farmers did not organize simply to provide a pretext for a Sino-Japanese war. They challenged abuses and debated the kind of government that could protect livelihoods and dignity. The following unit owns the diplomatic and military escalation between Qing and Japan, while the peasant story retains its independent chronology and substantive demands."
+      ],
+      "sequence": 6,
+      "label": "Original history · imperial and domestic perspectives"
+    },
+    {
+      "id": "VIII.3.2:b07",
+      "title": "Jeonju as a political institution",
+      "paragraphs": [
+        "Jeonju was a provincial centre through which orders, taxes, court decisions and elite relationships circulated. Capturing such a place demonstrated that the peasant coalition could challenge administration beyond one county, but possession of its walls did not provide an alternative civil service able to govern the whole kingdom. Even a successful insurgent force required negotiations over food, security and the position of officials who remained responsible for local work. The movement's practical authority and its military prestige therefore operated on different scales.",
+        "The Jeonju agreement is frequently presented as an extensive numbered reform program. Scholars distinguish the evident political accommodation from uncertainty about the exact text and formal status of later standardized lists. Peasant withdrawal and the emergence of local jipgangso activity are better supported than a claim that a fully drafted national constitution was enforced after the fighting. Local practice varied with officials, organizers and available support. The gap between reform aspiration and everyday administration is not a failure to be concealed but one of the period's central historical questions.",
+        "Many participants also had to return to farming, family obligations and local economies. A rural coalition could not remain indefinitely mobilized without costs to planting, harvest and provisioning. Negotiation was thus meaningful as a way to secure space for change, not simply surrender or proof of unlimited peasant power. Later Japanese intervention radically shifted the balance and produced conditions under which organizers remobilized. The second uprising must be understood as a new decision under changed circumstances rather than the inevitable final stage of the first campaign."
+      ],
+      "sequence": 7,
+      "label": "Batch R · source critical regional context"
+    },
+    {
+      "id": "VIII.3.2:b08",
+      "title": "The local political imagination after Jeonju",
+      "paragraphs": [
+        "The jipgangso developed from Donghak organizational terminology and took on an administrative meaning during the movement's period of local influence. A local leader called a jipgang could exercise influence through community networks, but the office's practical reach depended upon the relationship with county authorities and supporters. The existence of these bodies shows that peasants and adherents could conceive of political accountability beyond petitioning a distant court. It does not establish that every office wielded identical powers.",
+        "Some communities sought redress for unfair burdens or abusive officials, while others confronted the more difficult question of maintaining order without reproducing the coercive methods they opposed. Administration required deciding who could collect resources, hear complaints and prevent conflicts. These tasks could generate tensions among the movement's own participants and between local elites and insurgent leaders. A vivid account should examine this practical work rather than present the offices only as a symbol of spontaneous popular democracy.",
+        "The evidence is uneven because reforming movements and governments document themselves differently. Central official records may treat local peasant institutions as temporary disorder, while later sympathizers may emphasize their participatory character. Oral or commemorative traditions can preserve meaningful memory but need comparison with surviving contemporary texts. Local arrangements also changed over time as Japanese military intervention transformed the strategic context and the prospect of renewed war became immediate. A single static institutional description cannot capture that movement.",
+        "When the second uprising began, political circumstances had shifted fundamentally from the period of negotiated withdrawal. The new demand to resist Japanese intrusion connected local self-government with a wider question of national autonomy. This does not mean all local reformers shared an identical foreign-policy program, but it shows how the meaning of political participation could expand under pressure. The jipgangso experience is thus important in its own right: it demonstrates attempts to act upon grievances, the limits of local authority and the way international conflict narrowed the possibilities of reform from below."
+      ],
+      "sequence": 8,
+      "label": "Batch R · original archival and institutional analysis"
+    }
+  ]
+}

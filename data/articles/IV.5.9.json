@@ -1,0 +1,129 @@
+{
+  "id": "IV.5.9",
+  "title": "Frontier Governance, Military Power, and Regional Peoples",
+  "kicker": "BALHAE · NINTH CENTURY AND CONQUEST",
+  "description": "Critical political history of frontier governance, military power, and regional peoples, with court texts, local governance, and conquest hypotheses held apart.",
+  "release": "R",
+  "sourceStatus": "Original historical synthesis with dated institutional source locators; source-critical and non-exhaustive",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Fall of Balhae",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i100900",
+      "role": "Chronology of post-Mun succession, Seon revival, 926 campaign and successor polities"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae (발해)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Regional peoples, office hierarchy, geographical reach and uncertainties"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Capital Relocations",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i101000",
+      "role": "Royal succession, capital shifts and archaeological caveats"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Balhae Kingdom gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201031000.do?showHallId=760&showroomCode=DM0010",
+      "role": "Excavated culture, later migration and material remnants"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae in Regional Administrative History",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054208",
+      "role": "Documentary structure of five capitals, prefectures and local authorities"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.5.9:b01",
+      "title": "The frontier was inhabited, not empty",
+      "paragraphs": [
+        "Descriptions of Balhae expanding into frontier territory can give the impression that the kingdom absorbed vacant land. The northeast was inhabited by communities with their own political leaders, movement patterns, economic strategies and relationships with neighboring powers. Incorporation could take several forms, including negotiated submission, the appointment of officials, elite alliance, military conquest and the collection of goods.",
+        "The word Mohe covers a diversity of groups in historical texts. It should not be converted into a monolithic subject of Balhae rule or treated as an identity without historical change. Some northern communities maintained direct relationships with Tang and other external actors, creating strategic competition for Balhae. Effective frontier policy depended on the cooperation or coercion of local intermediaries, not on colouring a territory royal on a map."
+      ],
+      "sequence": 1,
+      "label": "Historical synthesis · source uncertainty",
+      "evidence": [
+        {
+          "claim": "National Institute chronology identifies royal instability, Seon's recovery and the Khitan invasion of 926.",
+          "sourceIndex": 0,
+          "locator": "발해 멸망 (926), succession and Khitan campaign",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.9:b02",
+      "title": "Military authority depended on routes and supplies",
+      "paragraphs": [
+        "A royal order to assemble soldiers had to travel through intermediate authorities. Food, horses, weapons, winter clothing and transport determined how far a force could operate and for how long. The environments of forests, rivers and seasonal routes imposed different constraints from the relatively urbanized central capitals.",
+        "Formal command titles in a historical record do not establish that troops were permanently stationed in every district. Some communities may have supplied fighters during campaigns and otherwise exercised considerable local autonomy. The balance between central command and negotiated assistance could shift with the strength of particular rulers. An account of military power should therefore distinguish short expeditions, garrisons and recurrent obligations rather than assume one all-encompassing system."
+      ],
+      "sequence": 2,
+      "label": "Historical synthesis · source uncertainty",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies describes differentiated regional governance and uneven frontier authority.",
+          "sourceIndex": 1,
+          "locator": "발해 정치, 영토 및 지방 제도",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.9:b03",
+      "title": "Regional elites and the making of authority",
+      "paragraphs": [
+        "Balhae's court could incorporate local leaders by conferring offices or recognizing their position under royal titles. Such arrangements made governance possible across distance but could also give intermediaries bargaining power. Their ability to mobilize resources depended upon existing relationships with local people, which the court could not necessarily replace through proclamations.",
+        "The larger question concerns how different communities experienced the kingdom. The central court might describe an appointed governor, while residents saw a familiar local chief whose legitimacy rested on kinship, protection or access to resources. Archaeological remains might indicate cultural exchange without telling whether coercion accompanied it. Historians should avoid both images of perfect centralized control and romantic assumptions that all frontier allegiance was voluntary."
+      ],
+      "sequence": 3,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.9:b04",
+      "title": "Khitan power changes the balance",
+      "paragraphs": [
+        "Khitan groups were part of the wider northern world before the rise of Yelü Abaoji, but his consolidation of leadership and imperial ambitions altered the strategic environment dramatically. The Khitan regime had strengths in mobile warfare, coalition building and control of important routes. A frontier system effective against one configuration of competitors could prove vulnerable after these changes.",
+        "Balhae's relationship with the Khitans should not be reduced to a last-minute war. It developed within decades of shifting alliances and contest over regional influence. The source record is incomplete, particularly concerning the views of communities situated between the principal courts. Military and political relations must be interpreted as networks of power in which local actors could change allegiance under pressure or advantage."
+      ],
+      "sequence": 4,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.9:b05",
+      "title": "What administrative geography can tell us",
+      "paragraphs": [
+        "The five-capital, fifteen-prefecture organization attests to the ambition and some achievements of central government. It does not identify the exact social composition of each region or the amount of tribute flowing annually to the capital. Historical geography preserves names and sometimes routes; archaeology may identify urban layouts, fortifications and locally distinctive crafts.",
+        "Where the kinds of evidence align, confidence in an administrative identification increases. Where they disagree, a claim about a frontier province should be presented as disputed. The difficulty is especially important near modern international borders, where archaeological access and scholarly traditions differ. Reconstructions should be evaluated as historical hypotheses rather than national territorial claims."
+      ],
+      "sequence": 5,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.9:b06",
+      "title": "State strength and the costs of coordination",
+      "paragraphs": [
+        "Coordinating diverse regions can make a state more resilient by providing multiple sources of manpower and goods. It can also become costly when frontier obligations are contested or routes are threatened. A ruler may control a large realm in formal descriptions while having limited ability to respond quickly to a concentrated attack on one strategic approach.",
+        "This observation is not an explanation of the 926 collapse by itself. It identifies the kind of vulnerability historians must test against the campaign record. The conquest involved an expanding Khitan state and particular military decisions, not merely a mathematical comparison of territory sizes. The next unit addresses what sources actually establish about the assault and subsequent displacement."
+      ],
+      "sequence": 6,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.9:b07",
+      "title": "Frontier incorporation and local agency",
+      "paragraphs": [
+        "Royal descriptions of provincial control are important for identifying Balhae's ambitions, but they tend to give little voice to people incorporated under prefectural headings. A local chief might accept a court title in order to secure trade, retain customary authority or gain protection against rivals. Others could be compelled by military force. These different relationships would leave different historical traces, most of which remain difficult to distinguish at the level of one settlement.",
+        "It is inappropriate to treat a named Mohe community as politically passive simply because a court chronicle mentions it as subject territory. The community's leaders were participants in negotiations, resistance and military mobilization. Their strategies could change as Tang influence weakened and Khitan power expanded. The idea of one permanent ethnic alignment is especially implausible over such a long interval.",
+        "The limits of control become visible when considering communications. A capital could issue an appointment, yet practical enforcement required local knowledge, transport and confidence that the official would receive support. Distance did not preclude statehood, but it made governance relational and uneven. The network of roads and administrative centres thus represents a political achievement whose effectiveness depended on continuous cooperation, not simply on one successful conquest."
+      ],
+      "sequence": 7,
+      "label": "Batch R · deepening of political chronology"
+    }
+  ]
+}
