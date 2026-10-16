@@ -35,3 +35,7 @@ jobs:
           python -m playwright install --with-deps chromium
       - name: Validate desktop and mobile reading journeys
         run: python tests/batch_p_journeys.py
+      - name: Real Cloudflare branch-preview desktop/mobile acceptance
+        env:
+          KOREA_PREVIEW_URL: https://feat-batch-p-paleolithic-mod.korea-eo3.pages.dev
+        run: python tests/batch_p_preview.py
