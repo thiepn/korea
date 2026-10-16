@@ -1,0 +1,84 @@
+{
+  "id": "X.3.6",
+  "title": "Gender Roles, Feminism, Masculinity, Employment, and Gender Conflict",
+  "kicker": "SOUTH KOREAN SOCIETY",
+  "description": "Evidence-conscious social history of gender roles, feminism, masculinity, employment, and gender conflict.",
+  "release": "Q",
+  "sourceStatus": "Original synthesis with dated official statistical and institutional context; selective anchors, not full scholarly review",
+  "sources": [
+    {
+      "institution": "Ministry of Data and Statistics",
+      "title": "Final 2025 Birth Statistics, August 2026",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970652&pWise=sub&pWiseSub=I1",
+      "role": "Official final annual birth registrations and period total fertility rates, not causal inference"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024, responding to population decline",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en/full-report/responding-to-population-decline_7f6620e6.html",
+      "role": "Dated comparative assessment of work-family costs, employment, migration and gender gaps"
+    },
+    {
+      "institution": "Ministry of Data and Statistics",
+      "title": "2025 Marriage and Divorce Statistics, March 2026",
+      "url": "https://www.mods.go.kr/board.es?act=view&bid=204&list_no=444103&mid=a10301010000",
+      "role": "Registered family-status statistics with definitions and limitations"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026, geography of opportunity",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/reshaping-the-geography-of-opportunity_c9b7f11a.html",
+      "role": "Study of internal migration and spatial demographic change"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.3.6:b01",
+      "title": "Gender relations are not one national quarrel",
+      "paragraphs": [
+        "Contemporary South Korean gender roles changed through women's expanded education, economic development, democratization and campaigns over legal rights. These changes have not produced one uniform experience. Women in secure professional careers, women in precarious service work, men facing conscription, fathers who provide substantial care and people outside traditional expectations encounter different institutions. The language of a single gender conflict collapses these variations into two imagined opposing camps.",
+        "Online arguments can nevertheless affect social life. They turn disputes over labor access, sexual misconduct, military obligation, family expectations and political representation into emotionally charged symbols. Historians need to distinguish organized movements, formal policies, measurable inequalities and the claims that circulate in commentary. Treating inflammatory statements as representative of millions of people is no more reliable than ignoring documented discrimination simply because some online rhetoric is exaggerated."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · evidence limits",
+      "evidence": [
+        {
+          "claim": "OECD research discusses work–family constraints and labor participation in modern Korean society.",
+          "sourceIndex": 1,
+          "locator": "OECD Economic Surveys Korea 2024, responding to population decline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "X.3.6:b02",
+      "title": "Schooling and employment follow different trajectories",
+      "paragraphs": [
+        "Women's educational attainment has increased markedly, but degrees do not ensure the same career continuity or promotion prospects for everyone. Working hours, hiring practices, unequal household care, employer size, occupational sorting and career breaks influence average earnings. The OECD's 2024 Korea review identifies a substantial gender pay gap and significant motherhood-related career costs. Such an aggregate gap is descriptive, not proof that every observed difference comes from unequal pay for identical jobs.",
+        "Explanations should examine comparable roles, pay structures and experience alongside unequal access to those roles in the first place. Where anti-discrimination law exists, enforcement and the capacity to pursue complaints matter. Leave policies may formally cover workers who fear professional consequences from taking time away. Men may also encounter expectations that discourage participation in caregiving. Institutional change requires examining these practical constraints rather than resting the analysis on legal language alone."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · evidence limits"
+    },
+    {
+      "id": "X.3.6:b03",
+      "title": "Military service and the meaning of fair obligations",
+      "paragraphs": [
+        "Conscription has shaped many men's education timelines and entry into the labor market. Service duties can create disruption and invite disagreements about compensation, recognition and the distribution of civic obligations. Yet military experience differs by health, service route and personal situation; it does not explain all male economic outcomes or every debate involving women.",
+        "Public discourse sometimes combines conscription, workplace hiring, care burdens and sexual violence under one broad claim about fairness. These issues demand different evidence and different institutions. Reforming military service cannot by itself resolve workplace harassment; strengthening employment rights does not answer every question about the distribution of conscription burdens. A historical account can recognize grievances without endorsing the claim that equal rights for one group necessarily subtract rights from another."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · evidence limits"
+    },
+    {
+      "id": "X.3.6:b04",
+      "title": "Movements, households and changing possibilities",
+      "paragraphs": [
+        "Feminist organizations and campaigners have challenged workplace exclusion, harassment, violence and unequal family obligations. The movements have differed in generation, strategy and political outlook, and their critics have advanced varying concerns about policy design and perceived fairness. No slogan fully describes either side. Actual institutional outcomes must be assessed through law, evidence of implementation, and changes in lived opportunity.",
+        "Within families, changing expectations are negotiated through relationships rather than public campaigns alone. Partners may endorse shared care while working in organizations that assume someone else will handle emergencies at home. Younger adults may value autonomy while depending on parents for housing support. These tensions are historically specific and economically consequential. The best social history asks how resources, time and authority were distributed, whose choices expanded, and where old barriers persisted beneath new formal rights."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · evidence limits"
+    }
+  ]
+}

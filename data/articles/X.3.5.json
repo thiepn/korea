@@ -1,0 +1,84 @@
+{
+  "id": "X.3.5",
+  "title": "Low Fertility, Population Aging, Mortality, and Demographic Transformation",
+  "kicker": "SOUTH KOREAN SOCIETY",
+  "description": "Evidence-conscious social history of low fertility, population aging, mortality, and demographic transformation.",
+  "release": "Q",
+  "sourceStatus": "Original synthesis with dated official statistical and institutional context; selective anchors, not full scholarly review",
+  "sources": [
+    {
+      "institution": "Ministry of Data and Statistics",
+      "title": "Final 2025 Birth Statistics, August 2026",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970652&pWise=sub&pWiseSub=I1",
+      "role": "Official final annual birth registrations and period total fertility rates, not causal inference"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024, responding to population decline",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en/full-report/responding-to-population-decline_7f6620e6.html",
+      "role": "Dated comparative assessment of work-family costs, employment, migration and gender gaps"
+    },
+    {
+      "institution": "Ministry of Data and Statistics",
+      "title": "2025 Marriage and Divorce Statistics, March 2026",
+      "url": "https://www.mods.go.kr/board.es?act=view&bid=204&list_no=444103&mid=a10301010000",
+      "role": "Registered family-status statistics with definitions and limitations"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026, geography of opportunity",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/reshaping-the-geography-of-opportunity_c9b7f11a.html",
+      "role": "Study of internal migration and spatial demographic change"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.3.5:b01",
+      "title": "Birth rates and what they actually measure",
+      "paragraphs": [
+        "Korea's low fertility has become a symbol of wider uncertainty, but demographic vocabulary matters. The total fertility rate combines the age-specific births of a particular year into a hypothetical lifetime measure. It is not the actual number of children that an individual woman will have, nor is it a fixed prediction about the future. Changes in when people have children can influence this period indicator even when lifetime completed family size moves differently.",
+        "The Korean statistical authority released finalized data for 2025 in August 2026, reporting 254,341 births and a total fertility rate of 0.80. These figures rose compared with the previous year, but the increase does not erase a long period of very low fertility or establish why it occurred. A historian should consider marriage timing, the number of people of childbearing age, household formation, and policy while resisting the claim that one benefit or campaign single-handedly caused the change. An annual birth count is a documented observation; explanations require additional evidence."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · evidence limits",
+      "evidence": [
+        {
+          "claim": "Official Korean final 2025 birth statistics report a TFR of 0.80 and 254,341 registered births.",
+          "sourceIndex": 0,
+          "locator": "2025년 출생통계 확정치; 2026.08.26",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "X.3.5:b02",
+      "title": "Ageing has a changing geography",
+      "paragraphs": [
+        "Declining births and longer lives alter school enrollment, the supply of workers, the organization of pensions, and the need for care services. The consequences depend strongly on locality. An urban district attracting students and skilled employees may continue to add households even while a rural county loses younger residents and struggles to maintain public transportation. Age structure is thus not a uniform national condition.",
+        "Projections of old-age dependency are based upon assumptions about fertility, mortality and migration. They are valuable for planning but should not be written as if the projected conditions had already happened. Older people are not a single dependent group: many work, provide childcare, participate in local institutions, or assist relatives financially. Those activities matter economically and socially even when formal statistics classify them outside the workforce. A balanced account treats longevity as an achievement that also creates institutional challenges rather than depicting older citizens as an undifferentiated cost."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · evidence limits"
+    },
+    {
+      "id": "X.3.5:b03",
+      "title": "Work, care and the actual freedom to choose",
+      "paragraphs": [
+        "The cost of parenthood involves more than the price of baby products. Workers consider whether they can use leave without career penalties, whether they can obtain reliable childcare, and whether jobs permit predictable time at home. Housing security, education expenses, relationship quality and health also shape decisions. The OECD's 2024 assessment stresses the career costs women may face in connection with motherhood and the role of work-life balance.",
+        "It would nevertheless be wrong to assume that everyone wants a larger family or that all decisions arise from economic obstacles. Preferences, religion, partnerships, and personal circumstances vary. Effective policy can expand options without prescribing a morally required household size. Cash support may relieve immediate expenses; childcare provision and workplace changes address longer-lasting constraints. Their effects should be evaluated separately, using appropriate evidence and time horizons instead of measuring every initiative by its immediate influence on one year's fertility rate."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · evidence limits"
+    },
+    {
+      "id": "X.3.5:b04",
+      "title": "Longer lives and unequal access to support",
+      "paragraphs": [
+        "Ageing shifts demand toward preventive medicine, chronic disease management, accessible housing, and long-term care. But age alone does not determine disability, frailty or economic resources. Two people of the same age can have different health histories, savings, family support and opportunities for continued work. Mortality and healthy-life measures are necessary complements to the proportion of residents above an age threshold.",
+        "A demographic history must also ask who performs care. Family members, paid carers, hospitals and social services share responsibilities in unequal ways. Relying heavily on unpaid domestic work may reduce workforce participation, while expanding professional care requires training and sustainable financing. Immigration can contribute to labor supply, but fair recruitment and workplace integration matter. Society's response to ageing is therefore an institutional and ethical question involving work, public finance, housing, health and social relationships—not an arithmetic puzzle with one solution."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · evidence limits"
+    }
+  ]
+}

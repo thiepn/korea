@@ -1,0 +1,84 @@
+{
+  "id": "X.3.7",
+  "title": "Immigration, Multicultural Families, Foreign Residents, and an Increasingly Diverse Korea",
+  "kicker": "SOUTH KOREAN SOCIETY",
+  "description": "Evidence-conscious social history of immigration, multicultural families, foreign residents, and an increasingly diverse korea.",
+  "release": "Q",
+  "sourceStatus": "Original synthesis with dated official statistical and institutional context; selective anchors, not full scholarly review",
+  "sources": [
+    {
+      "institution": "Ministry of Data and Statistics",
+      "title": "Final 2025 Birth Statistics, August 2026",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970652&pWise=sub&pWiseSub=I1",
+      "role": "Official final annual birth registrations and period total fertility rates, not causal inference"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024, responding to population decline",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en/full-report/responding-to-population-decline_7f6620e6.html",
+      "role": "Dated comparative assessment of work-family costs, employment, migration and gender gaps"
+    },
+    {
+      "institution": "Ministry of Data and Statistics",
+      "title": "2025 Marriage and Divorce Statistics, March 2026",
+      "url": "https://www.mods.go.kr/board.es?act=view&bid=204&list_no=444103&mid=a10301010000",
+      "role": "Registered family-status statistics with definitions and limitations"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026, geography of opportunity",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/reshaping-the-geography-of-opportunity_c9b7f11a.html",
+      "role": "Study of internal migration and spatial demographic change"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.3.7:b01",
+      "title": "Migration creates many kinds of Korean residents",
+      "paragraphs": [
+        "South Korea's contemporary population includes manufacturing and agricultural workers, international students, professionals, refugees or asylum applicants, marriage migrants, and long-term residents whose children may have grown up in Korean schools. The term foreign resident hides differences in rights, duration and opportunity. Someone whose visa is tied to one workplace confronts different constraints from a permanent resident or naturalized citizen.",
+        "The country was never historically sealed off from movement, but modern immigration law and the scale of cross-border employment are distinctive. A credible narrative does not describe all migration as a recent loss of cultural homogeneity or a simple triumph of cosmopolitanism. It examines routes of entry, citizenship, language, residence, class, and institutions. Administrative categories provide important numbers while revealing relatively little about the individual networks and aspirations of those classified."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · evidence limits",
+      "evidence": [
+        {
+          "claim": "OECD research discusses work–family constraints and labor participation in modern Korean society.",
+          "sourceIndex": 1,
+          "locator": "OECD Economic Surveys Korea 2024, responding to population decline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "X.3.7:b02",
+      "title": "Work, recruitment and bargaining power",
+      "paragraphs": [
+        "Migrant labor sustains parts of agriculture, manufacturing, construction, services and other sectors. Labor demand is often concentrated geographically, including in rural districts and smaller industrial cities. Recruitment arrangements and rules governing changes of employer can affect the practical ability to leave unsafe conditions or collect unpaid wages. An individual may have legal rights but encounter language barriers, uncertain status or dependence on intermediaries when trying to exercise them.",
+        "Policy disputes involve legitimate questions about employment standards, wages, labor shortages and public services. These questions should be evaluated with sector-specific evidence rather than claims that all immigrants depress wages or that migration automatically solves every shortage. A well-run program must consider training, workplace safety and dispute resolution alongside the number of permits issued. Residents have roles as coworkers and neighbors, not only as an input in calculations of national economic growth."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · evidence limits"
+    },
+    {
+      "id": "X.3.7:b03",
+      "title": "Marriage migration and multilingual families",
+      "paragraphs": [
+        "Cross-border marriages create households in which language, citizenship, schooling and relationships to relatives in several countries may have to be negotiated. The Ministry of Data and Statistics reports marriages involving foreign spouses, but registration figures cannot explain how any particular family lives. Some households gain rich multilingual networks; others encounter exclusion, unequal power or limited access to legal information. Their experiences vary by class, gender, community and location.",
+        "The classification multicultural family may help public agencies identify needs for language and educational services. It may also produce stereotypes if children are defined only by a parent's nationality. Many children raised in Korea have ordinary attachments to their schools and neighborhoods while preserving family ties abroad. Historical analysis should keep formal policy categories separate from how individuals describe themselves. Effective institutions attend to both the rights of the adults and the changing identities of their children."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · evidence limits"
+    },
+    {
+      "id": "X.3.7:b04",
+      "title": "Students, settlement and the politics of belonging",
+      "paragraphs": [
+        "Universities recruit international students to advance education, research and exchange, and in some shrinking regions to sustain enrollment. Their futures depend on academic quality, housing, permitted employment and feasible paths into skilled work. A qualification obtained in Korea does not itself guarantee that employers will recognize a graduate's experience or that residence rules will allow a long-term career.",
+        "Citizenship, participation and cultural belonging do not always coincide. A person may work and volunteer for many years without the same political rights as a citizen, while citizens who grew up abroad may bring different linguistic experiences. Schools, hospitals, employers, municipalities and religious communities mediate everyday integration. A social history should record migrants' own agency while considering legitimate concerns about local services and opportunities through evidence rather than mutual suspicion. Demographic need is one reason migration matters, not an adequate definition of migrant lives."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · evidence limits"
+    }
+  ]
+}
