@@ -49,6 +49,86 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 5
+    },
+    {
+      "id": "X.2.4:b06",
+      "title": "The meaning of a good job changed",
+      "paragraphs": [
+        "The postwar industrial growth model often rewarded long service in major workplaces, although even at its height it never offered equivalent conditions to every worker. Large enterprises could provide relatively stable careers, negotiated wages, and benefits, while smaller subcontractors and service employers operated with fewer resources and weaker bargaining institutions. As global competition, economic crises, and technological shifts changed production, firms sought greater discretion over staffing. The historical issue is not merely an increase in temporary contracts but the divergence between protected insider positions and less secure forms of work.",
+        "The everyday meaning of a good job extends beyond wages. Predictability of hours, health coverage, opportunity for training, retirement rights, the ability to plan housing, and confidence that an employer will honor commitments all matter. A job may pay adequately this month and still impose substantial risk through uncertain renewal or weak protection against injury. Conversely, some flexible arrangements can offer valued autonomy. Distributional analysis must distinguish choice from necessity rather than equate every nontraditional contract with the same experience."
+      ],
+      "label": "Batch P · original substantive continuation",
+      "sequence": 6
+    },
+    {
+      "id": "X.2.4:b07",
+      "title": "After 1997, adjustment entered the workplace",
+      "paragraphs": [
+        "Financial restructuring and corporate reorganization created new pressures to reduce labor costs and adjust employment. Dismissal practices, negotiations with unions, and the regulation of dispatch or temporary work became politically salient. Firms argued that the ability to adapt was needed to survive an uncertain international economy. Workers and their representatives argued that adjustment often shifted the consequences of management and financial failures onto employees least able to bear them. These positions were not simply rhetorical; they referred to different economic risks.",
+        "A historically fair account asks which firms actually faced distress, what alternatives were available, and which social protections accompanied flexibility. Not all restructurings were identical. Some workplaces negotiated changes collectively, some workers moved into other employment quickly, and others faced extended insecurity. A national description of labor-market reform can hide divergent outcomes for industries, age groups, genders, and regions. The chronology of the crisis provides context, but the organization of employment is a continuing structure in its own right."
+      ],
+      "label": "Batch P · original substantive continuation",
+      "sequence": 7
+    },
+    {
+      "id": "X.2.4:b08",
+      "title": "The enterprise divide in bargaining power",
+      "paragraphs": [
+        "Large establishments may have formal unions and sufficient financial resources to negotiate over working conditions. Employees in small firms, household businesses, franchises, or fragmented service occupations often possess less collective leverage. This asymmetry can create a labor market in which bargaining power is concentrated among groups who already enjoy more secure positions. The existence of a strong union movement therefore does not necessarily mean that all vulnerable workers are well represented.",
+        "Union institutions are themselves diverse. They may be organized at enterprise or broader industrial levels, have differing relations to political movements, and pursue strategies ranging from negotiation to strikes. Their successes can improve conditions but may also reflect structural inequalities among workplaces. Treating unions as universally harmful to competitiveness or as perfectly representative of all labor is analytically weak. Historical analysis should follow the institutional conditions that allow collective voice and the populations excluded from it."
+      ],
+      "label": "Batch P · original substantive continuation",
+      "sequence": 8
+    },
+    {
+      "id": "X.2.4:b09",
+      "title": "Women, care, and interrupted careers",
+      "paragraphs": [
+        "Employment histories are shaped by the distribution of unpaid household and care labor. Workers who carry a larger share of childcare, eldercare, and domestic responsibility may have fewer opportunities for uninterrupted careers, overtime, promotion, or relocation. Formal employment rates alone do not capture the interaction between paid work and other necessary labor. A country can possess high levels of female education while still imposing heavy career penalties associated with parenthood.",
+        "The OECD's 2024 survey identifies significant work–family barriers and an unusually wide gender pay gap by international comparison. Such comparisons depend upon definitions, and they do not mean that every pay difference is attributable to one simple discriminatory decision. They indicate a structure in which occupational sorting, career interruption, seniority-based practices, working hours, and household expectations interact. Policies on leave, childcare, working conditions, and promotion can alter incentives, but outcomes must be measured rather than assumed."
+      ],
+      "label": "Batch P · original substantive continuation",
+      "sequence": 9
+    },
+    {
+      "id": "X.2.4:b10",
+      "title": "Young entrants and older workers at opposite ends",
+      "paragraphs": [
+        "Young adults encounter labor-market dualism through the competition for a limited set of prestigious and secure positions, sometimes after long periods of education and examination. Credentials can open doors but also intensify contests over relatively few desirable employers. Delayed stable employment affects the ability to save, move, marry, or establish independent households. The experience is not universal: industries and regions differ, and the earnings prospects of particular skills change over time.",
+        "Older people face a different set of constraints. A formal retirement age, seniority-based pay arrangements, health, the adequacy of pensions, and employer hiring practices shape whether continued work is possible or necessary. Some older adults choose meaningful work; others rely upon insecure employment because income support is insufficient. The coexistence of young job seekers and elderly workers cannot be explained by treating the number of jobs as a fixed quantity. Skills, productivity, demand, and institutions affect both groups."
+      ],
+      "label": "Batch P · original substantive continuation",
+      "sequence": 10
+    },
+    {
+      "id": "X.2.4:b11",
+      "title": "Migrant labor and the boundaries of membership",
+      "paragraphs": [
+        "A modern labor history must include migrant workers employed in manufacturing, agriculture, construction, services, and domestic or care-related occupations where relevant. Their legal status, recruitment channels, language access, and employer dependence can shape bargaining conditions. The ability to leave an unsafe workplace or claim unpaid wages may depend upon rules that citizens do not encounter in the same way.",
+        "Migration cannot be understood only as a response to labor shortages. It also raises questions of membership, family life, workplace safety, access to representation, and the regional distribution of economic activity. National labor statistics may classify people differently or fail to capture irregular situations. Historians should not infer a representative experience from one highly publicized dispute, but neither should they erase these workers from a narrative concentrated on large domestic corporations."
+      ],
+      "label": "Batch P · original substantive continuation",
+      "sequence": 11
+    },
+    {
+      "id": "X.2.4:b12",
+      "title": "Platforms, surveillance, and new management",
+      "paragraphs": [
+        "Digital systems can coordinate deliveries, allocate shifts, monitor productivity, and connect clients with independent workers. These capabilities can reduce coordination costs while changing how control operates. A person formally classified as independent may nonetheless face substantial constraints imposed by an algorithm, rating system, or platform contract. Conversely, some workers may value flexible access to tasks and the ability to combine sources of income.",
+        "The legal meaning of employment becomes contested where management is performed through software rather than a supervisor standing nearby. Questions about responsibility for accidents, transparency of decisions, and collective bargaining require institutional responses. History should distinguish the spread of new management techniques from claims that human judgment or employment law has become irrelevant. The technology changes the means through which power is exercised; it does not abolish power or the need to regulate it."
+      ],
+      "label": "Batch P · original substantive continuation",
+      "sequence": 12
+    },
+    {
+      "id": "X.2.4:b13",
+      "title": "A more inclusive measure of labor-market success",
+      "paragraphs": [
+        "Low unemployment can coexist with precarious contracts, substantial differences in pay, or underemployment among people seeking more hours. Employment indicators need to be read with wage distribution, hours, social insurance, workplace injury, career continuity, and opportunities for retraining. A policymaker might seek flexibility to encourage hiring while another emphasizes security to support household planning. Neither term alone supplies the evidence needed to adjudicate the trade-off.",
+        "The long trajectory of Korean work reflects the interaction of democratization, crises, corporate power, technological change, demographic pressure, and social policy. It cannot be understood by comparing only the strongest unions with the largest firms. The workers least visible in official narratives—part-time employees, subcontractors, migrants, carers, the disabled, and older people in insecure jobs—are often central to the distributional question. The historical challenge is to preserve their diversity without turning them into anonymous symbols of economic injustice."
+      ],
+      "label": "Batch P · original substantive continuation",
+      "sequence": 13
     }
   ]
 }
