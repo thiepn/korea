@@ -1,0 +1,115 @@
+{
+  "id": "IX.4.3",
+  "title": "The Second Republic and Korea's Brief Parliamentary Democratic Experiment",
+  "kicker": "SOUTH KOREAN DEMOCRATIZATION · EARLY REPUBLICS",
+  "description": "Original evidence-conscious political history of the second republic and korea's brief parliamentary democratic experiment, with critical treatment of coup-era and judicial archives.",
+  "release": "S",
+  "sourceStatus": "Original synthesis; National Archives provides dated records and regime-authored sources requiring criticism",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "April Revolution Chronology",
+      "url": "https://theme.archives.go.kr/next/419/info01.do?menuId=01",
+      "role": "Verified dates for 1960 protests, government resignation, Second Republic elections and May 16 coup"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "1960 Fraud Election and April Revolution: Case Files",
+      "url": "https://theme.archives.go.kr/next/history/samilos/sub2_1.do",
+      "role": "Prosecution and court records with distinction between contemporary charges and later findings"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Military Revolutionary Committee",
+      "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036770&isProvince=&mapInfo=mapno1",
+      "role": "Documented seizure of powers, anti-communist platform and press restrictions following May 16"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Military Coup Government Film of 1961",
+      "url": "https://theme.archives.go.kr/viewer/common/archWebViewer.do?archiveEventId=0047680388",
+      "role": "State-produced film showing junta's self-justifying proclamations; not neutral interpretation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.4.3:b01",
+      "title": "A parliamentary experiment after presidential rule",
+      "paragraphs": [
+        "Rhee's resignation opened the possibility of a fundamentally different distribution of power. The Second Republic adopted a parliamentary system in which the prime minister and cabinet held central executive responsibility while a president performed more limited functions. Yun Bo-seon became president and Chang Myon headed the government. This represented a deliberate attempt to avoid the concentration of authority associated with the First Republic.",
+        "The new constitutional form did not guarantee political stability. Parliamentary government requires parties able to assemble working coalitions, administrate public institutions and accept the legitimacy of rivals. The Democratic Party included factions with different expectations about reform and office. Competition within the governing camp could be vigorous without the mere existence of disagreement proving that the constitutional experiment was inherently unsuited to Korean society."
+      ],
+      "sequence": 1,
+      "label": "Original political history · archival context",
+      "evidence": [
+        {
+          "claim": "South Korean national archival chronology records the 1960 election, April events, subsequent Second Republic and May 1961 military coup.",
+          "sourceIndex": 0,
+          "locator": "4.19혁명 주요 일지, 1960–1961",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.4.3:b02",
+      "title": "The expectations unleashed by April",
+      "paragraphs": [
+        "The April Revolution had brought students, intellectuals and citizens into public life with demands for accountability. They did not all share identical economic or foreign-policy programs. Some prioritized punishment of election fraud and police violence; others hoped for social reform, labor protection or a more open discussion of national reunification. A parliamentary system had to accommodate these claims without losing its capacity to govern.",
+        "Civil freedoms expanded the range of publicly expressed ideas. The National Archives records student initiatives proposing contacts and meetings on inter-Korean questions in early 1961, material later military leaders condemned as dangerous. Such proposals should be understood in their original political context, not as evidence that every participant supported North Korea's government. Debate about reunification was one of several contested possibilities in an unusually open political moment."
+      ],
+      "sequence": 2,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.3:b03",
+      "title": "Addressing the abuses of the First Republic",
+      "paragraphs": [
+        "A new government inherited demands to investigate the March 15 election, police shootings and officials implicated in repression. Legal accountability was complicated by questions about evidence, the applicable law and the rights of defendants. Some citizens believed ordinary judicial procedures were too slow or inadequate, while officials worried about retroactive punishment and institutional continuity.",
+        "The National Archives' account of subsequent investigations shows that new legislation and special legal processes became part of the response. These choices illustrate a difficult problem after authoritarian rule: how to punish abuses without abandoning legal safeguards. The debate is an early example of transitional justice in South Korean history, though the later technical term should not obscure the specific institutions of 1960–1961."
+      ],
+      "sequence": 3,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.3:b04",
+      "title": "Economic problems outlasted regime change",
+      "paragraphs": [
+        "High unemployment, reconstruction needs and uneven living standards did not disappear with Rhee's resignation. A parliamentary cabinet faced pressure to act quickly while its fiscal and administrative capacity remained limited. Political opponents could exploit frustrations that no government could resolve in a few months.",
+        "It is misleading to infer that expanded speech and assembly caused poverty or administrative failure simply because economic problems remained visible under freer politics. Conversely, democratic legitimacy does not exempt officials from the need to administer public services. The historical test of the Second Republic concerns both its constitutional principles and the practical challenges inherited from the postwar state."
+      ],
+      "sequence": 4,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.3:b05",
+      "title": "Civil society's freedom and its disagreements",
+      "paragraphs": [
+        "Students, journalists, labor organizers and other groups made use of a less restrictive environment. Public demonstrations could advance legitimate demands while also straining local administration. Political mobilization after dictatorship rarely produces immediate consensus because the removal of a ruler reveals interests that had previously been suppressed or kept separate.",
+        "A fuller history assesses specific organizations and their goals rather than treating the period as disorder simply because many people spoke publicly. State and military propaganda after May 16 had incentives to portray the preceding republic as weak, corrupt or chaotic. Those claims are themselves primary sources for the coup regime's justification, not an objective final verdict on civilian government."
+      ],
+      "sequence": 5,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.3:b06",
+      "title": "The vulnerability of civilian supremacy",
+      "paragraphs": [
+        "The military retained significant institutional power, weapons and command structures while civilian parties argued over policy. A constitutional system can be formally parliamentary yet vulnerable if armed officers reject civilian authority. Tensions inside the military and dissatisfaction among some officers created openings for political intervention.",
+        "The May 16 coup ended the parliamentary experiment after less than a year. Its brevity should not be read as proof of inevitable failure; the seizure of power was a choice by particular officers under particular conditions. The Second Republic demonstrated an alternative constitutional arrangement and an expansion of debate. It also revealed how difficult durable democratic consolidation can be when the military possesses the capacity and willingness to govern directly."
+      ],
+      "sequence": 6,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.3:b07",
+      "title": "The fragility of accountability after a revolution",
+      "paragraphs": [
+        "The civilian government following Rhee inherited powerful expectations that police violence and electoral fraud would be punished. A new legal order also needed to avoid repeating the arbitrary methods it condemned. This meant deciding whether older law could address abuses, whether special courts were legitimate and how to protect the accused while recognizing victims. These questions exposed disagreements within the democratic coalition, but disagreement over justice does not imply that all participants rejected constitutional government.",
+        "Military authorities later criticized the Second Republic as weak and chaotic, a portrayal consistent with their desire to justify seizure of power. The National Archives' preserved state propaganda should therefore be read as evidence of the coup regime's political argument rather than a conclusive history of the parliamentary cabinet. The capacity of a new government to handle demonstrations and economic hardship was open to genuine criticism, but no such criticism automatically authorized officers to replace elected institutions by force.",
+        "The democratic experiment also had practical limits: party factions struggled to cooperate, administrative agencies retained personnel and habits formed under the prior system, and the armed forces maintained independent capacities. These were institutional problems that might have been addressed through further negotiation or reform. The May coup prevented such alternatives from being tested over a longer period. Its outcome cannot be used as retrospective proof that Korean parliamentary democracy was incapable of surviving."
+      ],
+      "sequence": 7,
+      "label": "Batch S · constitutional and archive-critical deepening"
+    }
+  ]
+}

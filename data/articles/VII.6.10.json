@@ -1,0 +1,115 @@
+{
+  "id": "VII.6.10",
+  "title": "Transport, Ports, Qing and Japanese Trade, Seoul, and Commercial Urbanization",
+  "kicker": "LATE JOSEON ECONOMY · MONEY AND PRODUCTION",
+  "description": "A source-conscious original history of transport, ports, qing and japanese trade, seoul, and commercial urbanization in the changing Joseon economy.",
+  "release": "S",
+  "sourceStatus": "Editorial historical synthesis based on selected Korean institutional works and dated primary extracts",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Late Joseon Commodity and Currency Economy",
+      "url": "https://contents.history.go.kr/eh_kk/teach/tong/iv/iv34.html",
+      "role": "Korean historical synthesis on coinage, public contractors, private merchant activity and regional hubs"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sources on Later Joseon Economy",
+      "url": "https://contents.history.go.kr/mobile/hm/list.do?periodCode=hm_age_60&typeCode=hm_ty_020",
+      "role": "Primary accounts on craft production, mining, regional commerce and trade"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Formation and Expansion of Jangsi",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_030_0060_0020_0040_0010",
+      "role": "Research synthesis on transport and integration of rural markets"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Rice and Cotton Cloth in Early Joseon Exchange",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_027_0050_0050_0040",
+      "role": "Historic background demonstrating coexistence of commodity monies with coinage"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.6.10:b01",
+      "title": "Moving goods was an economic activity",
+      "paragraphs": [
+        "Trade depended on the labor of carriers, boat crews, warehouse keepers and brokers whose work was often less visible than that of famous merchants. Heavy grain and salt posed different logistical problems from compact, high-value goods. River transport could make movement economical, but seasonal water levels, storms and port facilities set limits.",
+        "A merchant's profit depended not simply on buying cheaply and selling dearly but also on transport expenses, delays, losses and the cost of financing inventory. River crossings, mountain passes and poorly maintained roads could isolate communities during difficult months. A network that looks continuous on a map therefore required repeated local negotiations and the practical expertise of workers moving between places."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source limits",
+      "evidence": [
+        {
+          "claim": "Korean institutional sources describe expanded coin circulation, commodity production and interregional trade in later Joseon.",
+          "sourceIndex": 0,
+          "locator": "조선 후기 상품 화폐 경제: currency, merchants, mining and trade",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.6.10:b02",
+      "title": "Seoul concentrated government and private demand",
+      "paragraphs": [
+        "The capital was a consumer of food, textiles, fuel and craft products because royal institutions, officials and a large urban population required continuous supplies. Government procurement brought contracted suppliers into close contact with private trade, while legally privileged merchants competed with unauthorized sellers. The city's market geography included established shops and developing activity around places such as Chilpae and Songpa.",
+        "Urban growth did not make Seoul an economy detached from its countryside. Its food supply depended on grain-growing districts and on the transport that brought goods to warehouses and shops. A failure of routes or harvests could affect prices and public order in the city. Conversely, predictable urban demand could encourage producers farther away to cultivate or make goods intended for sale."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.10:b03",
+      "title": "Ports created regional specializations",
+      "paragraphs": [
+        "Commercial nodes such as Gang-gyeong and ports near the southern coast linked inland agricultural areas with coastal exchange. Loading, unloading, storage and navigation were local industries as well as channels for goods. A market in a port could serve nearby consumers while also gathering products for distant destinations.",
+        "Ports were not identical. Their position depended on navigable waters, river connections, local production and regulatory conditions. Some flourished as routes changed; others faced constraints from silting, competition or shifts in state purchasing. The mere appearance of a place on a modern tourist map cannot establish its eighteenth-century importance. Historical geography requires dated evidence for flows, merchants and settlements."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.10:b04",
+      "title": "Qing and Japanese trade had distinct frameworks",
+      "paragraphs": [
+        "Commercial exchange with Qing took place through officially recognized encounters and activities outside or alongside those arrangements. Border markets and private trade connected products, knowledge and people, but the categories gaesi and husi referred to different forms of exchange that must be read in their historical context.",
+        "Contact with Japan occurred under its own diplomatic and commercial rules, especially around the authorized trading environment at Busan. Merchants could obtain goods from abroad and redistribute them inland, while political authorities sought to regulate volumes, participants and information. These relationships should not be described as unrestricted international free trade. The importance of the channels lay partly in their constraints, which shaped costs, risks and opportunities."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.10:b05",
+      "title": "Kaesong, Uiju and networks of trust",
+      "paragraphs": [
+        "Kaesong merchants developed long-distance activities involving goods such as ginseng and established commercial relationships across regions. Uiju's position near the Qing frontier made it important for people and goods moving across the northern boundary. A merchant operating between several towns needed means of accounting, credit, reliable agents and information about prices and security.",
+        "The evidence for merchant institutions is stronger for some prominent firms and routes than for small traders. This selectivity should not produce a history in which the most successful actors stand for all commerce. Regional exchange depended on numerous carriers and intermediaries whose names are often absent. The growth of networks created new forms of opportunity while preserving strong disparities in capital and bargaining power."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.10:b06",
+      "title": "Commerce reshaped but did not erase the agrarian kingdom",
+      "paragraphs": [
+        "The expansion of markets and transport connected food, crafts and fiscal procurement more extensively than before. Some households sold specialized products and purchased necessities, while others remained primarily engaged in cultivation. Courts depended on merchant capacity for goods and revenue but also tried to preserve political control over privileged channels.",
+        "Neither commercial prosperity nor the survival of agrarian taxation determines the later outcome of Korean industrialization. The economic transformation of late Joseon should be understood on its own terms: a changing balance among land, labor, transport, money and state authority. Its contradictions—regional inequality, monopoly rights, credit dependence and public procurement—were as important as the growth of market activity. This closes the economic Chapter without assuming one inevitable path into the nineteenth-century crisis."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.10:b07",
+      "title": "Trade routes created information networks",
+      "paragraphs": [
+        "A commercial route was not merely a path along which goods travelled. Merchants and carriers communicated news of harvests, regulation, prices, creditworthiness and safety. A buyer in a distant town could adjust purchasing decisions based on such information before any cargo arrived. The usefulness of the route depended on reliable contacts as much as physical access. Where travel was interrupted, uncertainty could raise the cost of exchange even if the commodity itself remained available.",
+        "Frontier commerce involved distinctive legal and diplomatic arrangements. The officially organized exchanges with Qing and the private or less formal traffic around them operated under different expectations, while Japanese contacts at Busan were shaped by another regulatory order. Calling all this international trade without specifying institutions erases the control authorities attempted to exercise. Conversely, treating official limits as an absolute prohibition ignores the documented persistence of practical exchange through several channels.",
+        "Seoul and regional ports drew resources from hinterlands through these networks. Commercial urbanization should therefore be understood as a relationship among towns, villages, transport workers and administrative centres. The prosperity of one market did not mean equal benefit for producers far away. The central historical development was more extensive coordination of dispersed economic activity, not the sudden appearance of a free national market with uniform prices and rights."
+      ],
+      "sequence": 7,
+      "label": "Batch S · source-conscious material and fiscal context"
+    }
+  ]
+}

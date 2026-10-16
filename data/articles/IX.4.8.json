@@ -1,0 +1,115 @@
+{
+  "id": "IX.4.8",
+  "title": "Bu-Ma, Park's Assassination, the December 12 Coup, and the Seoul Spring",
+  "kicker": "SOUTH KOREAN DEMOCRATIZATION · 1979–1991",
+  "description": "Original documented history of bu-ma, park's assassination, the december 12 coup, and the seoul spring, distinguishing archival terminology, civic testimony and constitutional change.",
+  "release": "S",
+  "sourceStatus": "Original evidence-conscious synthesis using National Archives and Korean historical reference sources; dated casualty estimates contextualized",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "Gwangju Democratic Uprising Historical Records",
+      "url": "https://theme.archives.go.kr/next/koreaOfRecord/5_18.do",
+      "role": "Government archive narrative and official later reassessments of responsibility and casualties"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "May 18 Gwangju Democratic Movement",
+      "url": "https://encykorea.aks.ac.kr/Article/E0038496",
+      "role": "Scholarly synthesis of May 18–27, 1980, with political terminology and contested primary narratives"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Ninth Constitutional Amendment, October 29, 1987",
+      "url": "https://theme.archives.go.kr/next/rule/sub2_10.do",
+      "role": "Constitutional chronology and specific legal changes, operative February 25, 1988"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "April Revolution Historical Timeline",
+      "url": "https://theme.archives.go.kr/next/419/info01.do?menuId=01",
+      "role": "Comparative record of prior popular uprising and limits on executive authority"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.4.8:b01",
+      "title": "Bu-Ma and the limits of repression",
+      "paragraphs": [
+        "The protests in Busan and Masan in October 1979 exposed serious opposition to the Yushin order beyond the usual emphasis on Seoul campuses. Students and residents challenged repression and political exclusion in a highly charged environment. The response of police and military authorities showed the government's dependence on coercion to contain visible discontent.",
+        "The movement mattered not because it had a single unified program accepted by every participant, but because the scale of public dissent undermined claims that authoritarian stability enjoyed universal consent. Tensions among senior officials over how to respond became consequential. The protests should not be treated as mechanically causing Park Chung-hee's assassination, yet they formed part of the political crisis in which the regime's security leadership made decisions."
+      ],
+      "sequence": 1,
+      "label": "Original source-conscious political history",
+      "evidence": [
+        {
+          "claim": "National archival and scholarly records distinguish May 1980 violence, later recognition and the October 1987 constitutional changes.",
+          "sourceIndex": 1,
+          "locator": "5·18광주민주화운동 1980.05.18–27",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.4.8:b02",
+      "title": "The assassination and an uncertain succession",
+      "paragraphs": [
+        "Park was killed on 26 October 1979 by Kim Jae-gyu, head of the Korean Central Intelligence Agency, during a confrontation within the ruling establishment. The assassination abruptly removed the figure around whom Yushin power had been organized, but it did not create a functioning democracy overnight. Institutions and armed forces remained capable of constraining civilian political choices.",
+        "Debates continue over the immediate motives and wider meaning of the assassination, and a responsible account separates documented circumstances from later claims that it was principally a democratic uprising or a purely private dispute. The killing was an elite act under intense political strain. The question of what kind of government would follow became a struggle among military leaders, political actors and citizens rather than a constitutional procedure automatically completed by the president's death."
+      ],
+      "sequence": 2,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.8:b03",
+      "title": "The December 12 military seizure",
+      "paragraphs": [
+        "On 12 December 1979 a faction of military officers associated with Chun Doo-hwan moved against senior army command, strengthening its control within the armed forces. This event is often called a second coup or military insurrection and differed from a lawful succession in the chain of command. It created an additional centre of coercive power even while formal civilian institutions continued to exist.",
+        "The difference between nominal office and effective command is crucial. A president or cabinet might hold constitutional titles while an officer faction controlled key units, investigations and promotions. The December seizure also revealed that senior military leaders were not politically unified after Park's death. A narrative that says Chun simply inherited the presidency ignores the processes through which his group first secured military advantage."
+      ],
+      "sequence": 3,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.8:b04",
+      "title": "The Seoul Spring as a field of possibilities",
+      "paragraphs": [
+        "In the months after Park's death, students, politicians and civic groups pressed for constitutional reform and greater freedom. The period remembered as the Seoul Spring was not a completed democracy; it was an opening in which diverse actors believed political change might become possible. Some sought rapid elections, others deeper restructuring of security institutions or accountability for earlier abuses.",
+        "The movement encountered serious uncertainty about the continuing authority of the military. Demonstrations could expand civic participation while creating political pressure that the dominant officer faction interpreted as a threat. The historical significance lies in the coexistence of a real opening and the organized power capable of closing it. One should not write the outcome of May 1980 as predetermined from the first demonstration."
+      ],
+      "sequence": 4,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.8:b05",
+      "title": "May 17 and the closure of the opening",
+      "paragraphs": [
+        "The extension of martial law nationwide in May 1980 and the arrest of political figures marked a decisive assertion of power by the new military group. Universities were closed and public political activity restricted. The measures sharply reduced the legal avenues for debate that had widened since October.",
+        "Officials justified the move through the vocabulary of disorder and security. The historian should place such statements beside the actual institutional effect: suppression of an emerging civic movement and intensified military control of political life. The use of emergency powers resembled earlier authoritarian patterns, although the actors and immediate contexts had changed. The resistance in Gwangju emerged from this rupture."
+      ],
+      "sequence": 5,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.8:b06",
+      "title": "From Bu-Ma to Gwangju without a false straight line",
+      "paragraphs": [
+        "It is useful to connect the fall of Park, December military intervention and the May crisis, but the sequence should not be compressed into one plan known in advance by all participants. Each event changed the information and choices available. Protesters in October could not foresee the precise manner of Park's death, and supporters of constitutional reform in early 1980 confronted uncertain military alignments.",
+        "The history is one of contingency and organized power. Student and civic initiatives created opportunities, but control over troops and security services allowed a faction to impose a different outcome. Gwangju should be treated as a distinct city-wide struggle with its own participants and documented violence, not merely as the final panel in a story of elite succession. Its account follows in the next Subchapter."
+      ],
+      "sequence": 6,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.8:b07",
+      "title": "Why military command mattered after Park's death",
+      "paragraphs": [
+        "Park's assassination removed the long-standing president but did not automatically change which officers controlled units and investigations. The December 12 military seizure demonstrated the distinction between office and effective command. A new faction could acquire coercive advantage without first obtaining lawful executive authority, fundamentally constraining the options available to civilian politicians and citizens. This was not simply a quarrel over military promotions.",
+        "The period called the Seoul Spring contained real political possibilities. Students and party leaders discussed reform, newspapers could report a changing atmosphere, and citizens expected relief from Yushin constraints. Those hopes were neither naïve nor guaranteed success. The armed forces' internal struggle proceeded alongside them, and the organization of troops allowed one faction to close the opening. A history that describes democracy as inevitably doomed diminishes the choices and institutional risks of the period.",
+        "The nationwide expansion of martial law in May 1980 must be understood as an active intervention that suppressed public politics, not as the passive result of a disorderly society. Military authorities claimed emergency justification, while their measures restricted assembly, universities and political leadership. Gwangju's protests arose in this context but developed a distinctive urban history. Keeping those levels separate clarifies responsibility and avoids reducing the uprising to a footnote in military succession."
+      ],
+      "sequence": 7,
+      "label": "Batch S · additional institutional and archival critique"
+    }
+  ]
+}

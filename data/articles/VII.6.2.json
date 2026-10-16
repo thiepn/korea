@@ -1,0 +1,115 @@
+{
+  "id": "VII.6.2",
+  "title": "Rice Transplantation, Double Cropping, Irrigation, and Agricultural Intensification",
+  "kicker": "LATE JOSEON ECONOMY · AGRICULTURE",
+  "description": "Original evidence-conscious historical account of rice transplantation, double cropping, irrigation, and agricultural intensification, explaining regional variation, institutional incentives and source limitations.",
+  "release": "S",
+  "sourceStatus": "Editorial historical synthesis; selectively grounded in National Institute of Korean History scholarly and source editions",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sources on the Economy of Later Joseon",
+      "url": "https://contents.history.go.kr/mobile/hm/list.do?periodCode=hm_age_60&typeCode=hm_ty_020",
+      "role": "Annotated contemporary documents on commercial agriculture, rural disparities, crafts, taxation and marketplaces"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History: Joseon Economy and Markets",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_030_0060_0020_0040_0010",
+      "role": "Long-form historical research on development of periodic markets and economic networks"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Korean Agricultural History: Agriculture and Farmers",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_027_0050_0050_0030",
+      "role": "Agrarian historiography and limits of using records as direct production estimates"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daedong Sangjeong Law",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014255",
+      "role": "Regional adaptations of common tribute taxation amid differences in ecology and productivity"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.6.2:b01",
+      "title": "Transplanting rice reorganized work",
+      "paragraphs": [
+        "Rice transplanting, or iangbeop, involved raising seedlings in a nursery and moving them into prepared paddies. The practice became more widespread across parts of late Joseon, although its timing and suitability differed among regions. Transplanting could economize seed and help coordinate planting, but it also made dependable water especially important. Farmers had to synchronize nursery cultivation, soil preparation, and the intense labor of putting seedlings into fields during an appropriate interval.",
+        "It is misleading to call one technique universally superior without considering water, labor, and risk. In a district prone to drought, a nursery established before sufficient irrigation could leave a household in trouble. Direct sowing retained practical advantages under some conditions. Historical advice texts record practices and recommendations, not a census of universal adoption. A useful agrarian history asks where the technique spread, which households could secure necessary resources, and how it altered the agricultural calendar."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · evidence limitations",
+      "evidence": [
+        {
+          "claim": "National Institute of Korean History collections document agrarian and economic change across later Joseon with variable regional evidence.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사, 조선 후기 경제: commercial agriculture, rural disparities, economy",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.6.2:b02",
+      "title": "Irrigation was a social technology",
+      "paragraphs": [
+        "Reservoirs, canals, embankments, and managed streams required more than construction. Sediment had to be removed, gates repaired, access to water negotiated, and damage after storms addressed. The advantage of one field could depend on the cooperation of neighbors upstream. Local officials, landholders, and communities might participate in funding or labor obligations, but the distribution of responsibility was not necessarily equal.",
+        "An irrigation project could increase productive capacity while creating conflict over priority during shortage. A household near the head of a channel might receive water before one farther down. A landlord might direct tenants to maintain an embankment while claiming the larger benefit from higher yields. Written regulations can reveal what authorities wanted, whereas disputes reveal the frictions in implementation. Productive land was the outcome of recurring coordination, not simply a fixed natural endowment."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · evidence limitations"
+    },
+    {
+      "id": "VII.6.2:b03",
+      "title": "Double cropping and the cost of a full calendar",
+      "paragraphs": [
+        "Growing a winter crop such as barley followed by rice or another warm-season crop could raise the output obtained from the same land over a year. The feasibility depended on climate, field conditions, timing, and access to sufficient workers and inputs. Double cropping was not a uniformly available formula across northern and southern districts. Where feasible, it reduced some periods in which land stood idle while increasing pressure to complete each harvest and planting quickly.",
+        "A calculation of annual yield must distinguish grain produced, grain retained for seed, rent, taxes, and crop losses. More intensive use of land could improve food availability but also intensify household work and vulnerability to seasonal disruptions. The benefit from an additional crop might be consumed by higher rent if landlords could capture the increased value. Agriculture was therefore technical and distributive at once: the question was not only how much grew, but who controlled the resulting surplus."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · evidence limitations"
+    },
+    {
+      "id": "VII.6.2:b04",
+      "title": "Knowledge moved between texts and fields",
+      "paragraphs": [
+        "Agricultural manuals, official recommendations, and local experience exchanged knowledge about soils, planting seasons, fertilizer, and crop choice. Literate scholars could collect techniques already used by cultivators, systematize them, or criticize established practices. A printed manual demonstrates attention to agrarian improvement, not that every tenant had the book or could implement its advice.",
+        "Knowledge was transmitted through observation and labor as much as writing. An experienced cultivator's sense of water levels or the readiness of seedlings might determine whether a technique worked in practice. The historian should not assume innovation flowed only from court to village. People working the land could experiment and communicate results through family relationships, hired labor, and market travel. Written texts are indispensable sources precisely because much practical knowledge otherwise went unrecorded."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · evidence limitations"
+    },
+    {
+      "id": "VII.6.2:b05",
+      "title": "Higher yields did not eliminate rural poverty",
+      "paragraphs": [
+        "Reports of improved techniques often accompany claims of greater output, but historical averages are difficult to establish. Selective records from productive estates may overrepresent successful fields. Rainfall, pests, and local soils could change results greatly from one harvest to the next. Even a genuinely improved yield could coexist with debt and insecurity when rent, levies, and market prices reduced what the cultivator retained.",
+        "Labor-intensive innovations could also alter employment. A landholder might require more seasonal workers, while a small household might cooperate with neighbors to complete transplanting. Such adaptations could change village relationships without creating wage labor of a modern standardized kind. Comparing technical processes with contracts and household records produces a fuller picture than treating agricultural change as an engineering problem detached from society."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · evidence limitations"
+    },
+    {
+      "id": "VII.6.2:b06",
+      "title": "The limits of an agricultural revolution label",
+      "paragraphs": [
+        "Late-Joseon agriculture is sometimes described as undergoing a revolution, emphasizing irrigation, transplanting, double cropping, and commercialization. The term helps draw attention to significant changes but risks suggesting simultaneous adoption across the peninsula or a guaranteed transition to industrial growth. The actual history unfolded through regional adaptation and long periods of coexistence between old and new practices.",
+        "A responsible conclusion evaluates multiple types of evidence: yields where documented, land-use changes, agrarian treatises, irrigation projects, tenancy, and markets for crops. Technical change could enlarge production possibilities while strengthening inequalities in access to water and land. It also interacted with markets that supplied tools and purchased surplus. The proper historical account neither denies improvement nor turns one successful method into the single cause of late-Joseon economic transformation."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · evidence limitations"
+    },
+    {
+      "id": "VII.6.2:b07",
+      "title": "The labor bottleneck of transplanting",
+      "paragraphs": [
+        "Transplanting concentrates substantial work into a narrow seasonal window. Seedlings must reach an appropriate stage, paddies must be prepared and sufficient people must be available when conditions permit. Where family labor was inadequate, cultivators could seek reciprocal help, hire workers or coordinate through village relationships. The arrangement affected the feasibility of the technique just as strongly as the availability of irrigation. An innovation that raises output per field may nonetheless be inaccessible to households unable to mobilize workers at the right moment.",
+        "The possibility of coordinating planting also created disputes. Several farmers relying on the same water source might demand water in overlapping periods. A household at the downstream end could face greater uncertainty despite investing similar labor. Agreements about turns, maintenance and repairs were therefore part of agricultural technology. Documents concerning irrigation should be read as evidence of governance and environmental adaptation, not solely engineering. They reveal why farm improvement required relationships among people as well as tools and physical infrastructure.",
+        "This dependency has implications for evaluating yields. A report that a technique produced greater harvests on an irrigated estate cannot automatically be extrapolated to dry plots or less wealthy villages. It may reflect favorable land, intensive inputs or unusually successful labor coordination. Claims about an agrarian revolution deserve specification of the ecological and social conditions under which increased output was observed. Such precision does not diminish technical achievement. It explains why adoption proceeded unevenly and why old methods could remain rational alternatives."
+      ],
+      "sequence": 7,
+      "label": "Batch S · additional original contextual analysis"
+    }
+  ]
+}

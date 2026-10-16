@@ -1,0 +1,115 @@
+{
+  "id": "IX.4.6",
+  "title": "The Yushin Constitution, Emergency Powers, Surveillance, and the Deepening of Dictatorship",
+  "kicker": "SOUTH KOREAN DEMOCRATIZATION · PARK AND OPPOSITION",
+  "description": "Original constitutional and social history of the yushin constitution, emergency powers, surveillance, and the deepening of dictatorship, distinguishing regime claims from rights and opposition.",
+  "release": "S",
+  "sourceStatus": "Editorial original synthesis; selected National Institute of Korean History and archives material, non-exhaustive",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "October Yushin, 1972",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i500200",
+      "role": "Chronology of emergency declaration, dissolution of assembly and Yushin constitutional order"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "1987 Democratic Constitution Amendment",
+      "url": "https://theme.archives.go.kr/next/rule/sub2_10.do",
+      "role": "Constitutional details clarifying distinctions between Yushin, Fifth and Sixth Republic"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government Record of 1961 Military Political Promises",
+      "url": "https://theme.archives.go.kr/viewer/common/archWebViewer.do?archiveEventId=0047680388",
+      "role": "Contemporaneous regime propaganda, not an independent characterization"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangju May 18 Democratic Movement",
+      "url": "https://encykorea.aks.ac.kr/Article/E0038496",
+      "role": "Background to organized opposition under authoritarian politics"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.4.6:b01",
+      "title": "October 17: emergency as an instrument",
+      "paragraphs": [
+        "On 17 October 1972 Park Chung-hee declared an exceptional political situation, dissolved the National Assembly, suspended significant constitutional functions and imposed martial law. The National Institute of Korean History's chronology records the subsequent announcement of a draft constitution and the establishment of the Yushin order by December. The government justified the measures through national survival and reunification.",
+        "These justifications should be read as arguments advanced by the rulers, not as neutral proof that parliamentary government had become impossible. The political context of tension with North Korea and international diplomatic change was real, but the measures also concentrated power in the presidency and constrained domestic competition. A historian needs to distinguish perceived threats from the institutional choices made in their name."
+      ],
+      "sequence": 1,
+      "label": "Evidence-conscious original political synthesis",
+      "evidence": [
+        {
+          "claim": "National Institute of Korean History records the October 1972 dissolution of parliament and Yushin constitutional restructuring.",
+          "sourceIndex": 0,
+          "locator": "한국사 연대기, 10월 유신 1972, declaration of 17 October",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.4.6:b02",
+      "title": "A constitution designed around the incumbent",
+      "paragraphs": [
+        "The Yushin constitution provided for a National Conference for Unification, whose delegates participated in choosing the president. This removed ordinary direct presidential choice and greatly reduced the possibility of electoral displacement of the incumbent. Constitutional terms and indirect mechanisms presented the arrangement as legal, while its concentration of power weakened democratic accountability.",
+        "The conference's role should be analysed within the broader architecture rather than treated as a normal legislative check. The president acquired extraordinary leverage over appointments and emergency measures, and institutions that might have challenged him had limited independence. Formal legality is not the same as freely accepted constitutional legitimacy. The conditions under which the new charter was enacted matter to understanding what it allowed."
+      ],
+      "sequence": 2,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.6:b03",
+      "title": "Emergency decrees and the suppression of criticism",
+      "paragraphs": [
+        "Yushin emergency measures criminalized various forms of political opposition and criticism of the constitutional order. Students, journalists, intellectuals and activists faced surveillance, arrest or intimidation. The possibility of punishment could produce self-censorship far beyond the cases formally prosecuted.",
+        "A court conviction under these measures demonstrates the workings of coercive law, not automatically the wrongfulness of the underlying political expression. Later judicial and historical reassessments have emphasized violations of rights. To reconstruct this history accurately one must examine the specific legal instrument, the type of conduct it punished and the conditions of trial. Generic statements about repression obscure the mechanisms through which a constitutional text became an everyday constraint on speech."
+      ],
+      "sequence": 3,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.6:b04",
+      "title": "Intelligence and informal political authority",
+      "paragraphs": [
+        "The Korean Central Intelligence Agency and other security institutions played major roles in monitoring political threats and managing opposition under Park. Intelligence services could acquire influence through information, detention and proximity to the executive, including powers not readily visible in public constitutional charts.",
+        "This environment blurred the distinction between enforcing ordinary criminal law and defending the ruler's political position. Officials could treat dissent as a security risk, while critics had limited means to challenge information held in secret. The result was not uniform control over all citizens, but a durable climate of surveillance that changed how organizations met, published and planned demonstrations. The institutional history of authoritarianism extends beyond presidential speeches and parliamentary debates."
+      ],
+      "sequence": 4,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.6:b05",
+      "title": "Resistance did not disappear",
+      "paragraphs": [
+        "The Yushin system provoked opposition from students, religious figures, lawyers, journalists, workers and politicians. Their priorities and methods differed. Some argued for constitutional rights through petitions and statements; others organized demonstrations, labor disputes or networks of assistance for those prosecuted.",
+        "This diversity matters because it challenges the stereotype of resistance as a single centralized ideological movement. Churches could provide meeting places and moral frameworks without all denominations or leaders agreeing on strategy. Workers often mobilized around wages, conditions and organizing rights while encountering the political limits placed on independent unions. The subsequent Chapter unit examines these constituencies more fully, distinguishing shared opposition to coercion from differences in social objectives."
+      ],
+      "sequence": 5,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.6:b06",
+      "title": "Economic success did not provide permanent legitimacy",
+      "paragraphs": [
+        "The regime's developmental achievements continued to shape perceptions of Park, but they could not resolve the absence of effective constitutional checks. Demands for accountability were intensified by visible inequality, labor conflicts and the perception that power could no longer change hands through meaningful elections.",
+        "Yushin endured until Park's assassination in October 1979, not because society had ceased to contest it but because the state could impose high costs on opposition. The collapse of the system was connected to political unrest and divisions among top security figures, without a single simple causal chain. Its history illustrates how a state can be administratively capable and constitutionally unaccountable at the same time."
+      ],
+      "sequence": 6,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.6:b07",
+      "title": "Emergency rule altered ordinary civic decisions",
+      "paragraphs": [
+        "An emergency decree does not reach citizens only when an arrest occurs. Its effects include the possibility that a teacher, reporter or community organizer will avoid a lawful-looking discussion because the boundaries of prohibited criticism are uncertain. Under Yushin, broad state powers and politically dependent institutions reduced confidence that such boundaries would be interpreted fairly. A history of repression should therefore examine the public climate as well as the number of formal prosecutions.",
+        "The National Institute of Korean History records the abrupt October 1972 dissolution of the legislature and later promulgation of a constitution concentrating presidential power. These dated acts show the institutional rupture. The regime's public vocabulary of reunification and emergency security should be read alongside the charter's actual structure, especially indirect presidential selection and the executive's extensive coercive reach. Security concerns existed, but they did not determine the only possible constitutional response.",
+        "Understanding opposition also requires acknowledging its persistence under risk. Lawyers could contest prosecutions, church groups might shelter activists, and students could organize despite bans. Such action did not prove repression was ineffective; it demonstrates that coercion failed to extinguish political disagreement. The history of Yushin is the continuing contest between concentrated state authority and citizens seeking enforceable limits upon that authority."
+      ],
+      "sequence": 7,
+      "label": "Batch S · additional institutional and archival critique"
+    }
+  ]
+}

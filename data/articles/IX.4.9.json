@@ -1,0 +1,126 @@
+{
+  "id": "IX.4.9",
+  "title": "Gwangju, Chun Doo-hwan, and the Fifth Republic",
+  "kicker": "SOUTH KOREAN DEMOCRATIZATION · 1979–1991",
+  "description": "Original documented history of gwangju, chun doo-hwan, and the fifth republic, distinguishing archival terminology, civic testimony and constitutional change.",
+  "release": "S",
+  "sourceStatus": "Original evidence-conscious synthesis using National Archives and Korean historical reference sources; dated casualty estimates contextualized",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "Gwangju Democratic Uprising Historical Records",
+      "url": "https://theme.archives.go.kr/next/koreaOfRecord/5_18.do",
+      "role": "Government archive narrative and official later reassessments of responsibility and casualties"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "May 18 Gwangju Democratic Movement",
+      "url": "https://encykorea.aks.ac.kr/Article/E0038496",
+      "role": "Scholarly synthesis of May 18–27, 1980, with political terminology and contested primary narratives"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Ninth Constitutional Amendment, October 29, 1987",
+      "url": "https://theme.archives.go.kr/next/rule/sub2_10.do",
+      "role": "Constitutional chronology and specific legal changes, operative February 25, 1988"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "April Revolution Historical Timeline",
+      "url": "https://theme.archives.go.kr/next/419/info01.do?menuId=01",
+      "role": "Comparative record of prior popular uprising and limits on executive authority"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.4.9:b01",
+      "title": "The immediate context of May 18",
+      "paragraphs": [
+        "The Gwangju Democratic Movement began on 18 May 1980 after military authorities extended martial law and restricted political activity. Students protested the measures and troops were deployed, with violence escalating across the city. The Academy of Korean Studies treats the period from 18 through 27 May as a distinct democratic movement rather than the disorder label used in some authoritarian accounts.",
+        "Terminology matters because the military regime described participants in ways that could justify coercion. Researchers must read security communiqués as primary evidence of what authorities asserted, not as neutral descriptions. Students were prominent early participants, but the struggle rapidly involved residents from different occupations and ages. Reconstructing their experiences requires records from the city, testimony and later investigations as well as national government archives."
+      ],
+      "sequence": 1,
+      "label": "Original source-conscious political history",
+      "evidence": [
+        {
+          "claim": "National archival and scholarly records distinguish May 1980 violence, later recognition and the October 1987 constitutional changes.",
+          "sourceIndex": 1,
+          "locator": "5·18광주민주화운동 1980.05.18–27",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.4.9:b02",
+      "title": "Military violence and civilian mobilization",
+      "paragraphs": [
+        "The use of force against demonstrators helped expand participation and anger. Citizens who had not originally joined student protests encountered violent confrontations and demanded accountability. The movement's character changed as people sought to protect one another and defend the city against further repression.",
+        "A source-conscious narrative needs to avoid inventing one uniform intention for every person who participated. Some residents sought the withdrawal of troops, others attempted to restore safety, and others articulated broader demands for democracy. The details of particular deaths and injuries require careful citation and sensitivity to families. Official casualty figures have changed as investigations, recognition processes and standards of counting developed."
+      ],
+      "sequence": 2,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.9:b03",
+      "title": "A city under extraordinary conditions",
+      "paragraphs": [
+        "After troops withdrew from central areas during part of the uprising, residents organized aspects of public life and local order under unusual circumstances. There were efforts to provide food, medical care, information and collective decision-making. The material difficulty of sustaining a city amid interrupted communications and fear is central to understanding the event beyond a sequence of street battles.",
+        "Memories of civic solidarity are historically significant, but they should be grounded in documented actions rather than idealized claims that all conflicts disappeared. Residents disagreed over strategy, negotiations and the handling of weapons. Such debates were part of a genuine struggle under pressure. The persistence of disagreements does not invalidate the movement's demand that state force be accountable to the people."
+      ],
+      "sequence": 3,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.9:b04",
+      "title": "May 27 and the military assault",
+      "paragraphs": [
+        "Military forces reentered Gwangju in the final assault on 27 May, ending the organized resistance in the city. The deaths, detentions and injuries made Gwangju one of the decisive traumatic events of modern Korean political history. Survivors faced repression and public narratives intended to cast their actions as unlawful.",
+        "The National Archives records that the Sixth Republic's later official report counted 191 dead and 852 wounded in a particular accounting. These historical numbers should be dated and attributed rather than presented as a complete final enumeration of all suffering. Other classifications include missing persons, later deaths and additional injuries. Responsibility and casualty history require examination of the methods used by each investigating body."
+      ],
+      "sequence": 4,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.9:b05",
+      "title": "Suppression of information and the politics of memory",
+      "paragraphs": [
+        "Authoritarian information controls hindered the public's ability to learn what occurred. Government statements and state-controlled media propagated accounts that later evidence challenged. Activists and relatives preserved testimony, photographs and documents, often at personal risk. These efforts mattered because future accountability depended upon records that the governing regime did not necessarily want widely circulated.",
+        "A history of memory should distinguish eyewitness testimony, later recollection, official investigation and commemorative practice. None is made automatically infallible by sympathy or institutional status. Yet the accumulation of testimony and documentary evidence has firmly established the reality of military repression and the movement's democratic significance. The shift in public recognition reflects changes in political power as well as historical investigation."
+      ],
+      "sequence": 5,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.9:b06",
+      "title": "Gwangju in the long democratization struggle",
+      "paragraphs": [
+        "The injustice of 1980 became a rallying point for subsequent opposition movements, influencing student activism, civic organizations and debates over the legitimacy of Chun Doo-hwan's government. It shaped how many South Koreans understood the stakes of constitutional reform: elections alone were insufficient if armed institutions could override popular rights.",
+        "This legacy did not produce immediate democracy, and it should not erase other social movements or the differences among those who invoked Gwangju. The path to 1987 included labor, religious, legal and party activism with intersecting priorities. Gwangju's enduring significance lies in the exposure of coercive state power and the persistence of demands for truth, recognition and accountable government."
+      ],
+      "sequence": 6,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.9:b07",
+      "title": "Investigating violence and the ethics of numbers",
+      "paragraphs": [
+        "The study of Gwangju requires precise attention to how casualty figures are produced. A government report issued years after the events may count confirmed deaths under particular administrative categories. Later recognition processes can include missing people, those who died of injuries, or additional forms of victimization. Different totals need not represent deliberate disagreement if their definitions differ. Writers should state the date, institution and basis of each figure.",
+        "The National Archives preserves a later official accounting while acknowledging the prolonged struggle to establish truth. The Academy of Korean Studies identifies 18–27 May 1980 as the period of the movement. These references provide a sound chronological framework, but a full understanding also requires testimony, judicial records and historical research attentive to what martial-law authorities concealed. Official documents from the time can be evidence of repression and disinformation, not simply independent factual reporting.",
+        "Care for victims also means resisting invented details about individual last moments or motives. Historical writing can describe the documented use of force and the collective organization of residents without fictional dialogue. The efforts to sustain food, medical attention and public order during the period of troop withdrawal are politically important because they show forms of civic action under extreme pressure. These achievements did not eliminate disagreement among participants, and recognizing that disagreement makes the account more credible."
+      ],
+      "sequence": 7,
+      "label": "Batch S · additional institutional and archival critique"
+    },
+    {
+      "id": "IX.4.9:b08",
+      "title": "Documentation was part of resistance",
+      "paragraphs": [
+        "Under martial law, families and residents faced severe obstacles to communicating their experience outside Gwangju. Information was restricted, officials circulated derogatory descriptions of participants and surviving documents could expose their holders to risk. Testimony, photographs and later organized investigations became important not merely for commemoration but for making accountability possible. Recording events in an environment of coercion was itself a consequential civic activity.",
+        "The period after 1980 demonstrates why the absence of open reporting during the violence cannot be treated as an absence of abuse. Scholars reconstruct actions through multiple evidentiary streams produced at different times, each with its own strengths. Official records may provide dates or chains of command yet omit victims' perspectives. Memory can preserve lived experience but must be compared with other evidence where factual disputes arise. The cumulative process explains changing public recognition of the uprising.",
+        "The transition of Gwangju from a stigmatized event in authoritarian discourse to a formally recognized democratic movement was therefore political and historical. It required citizens to change institutions capable of authorizing investigations and public memorials. Remembering the event responsibly means distinguishing secure findings from remaining disputes while refusing to reproduce unsupported defamatory characterizations as if they were neutral labels."
+      ],
+      "sequence": 8,
+      "label": "Batch S · primary sources, institutions and consequences"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "IX.4.1",
+  "title": "Syngman Rhee after the War: Anti-Communism, Constitutional Manipulation, and Authoritarian Rule",
+  "kicker": "SOUTH KOREAN DEMOCRATIZATION · EARLY REPUBLICS",
+  "description": "Original evidence-conscious political history of syngman rhee after the war: anti-communism, constitutional manipulation, and authoritarian rule, with critical treatment of coup-era and judicial archives.",
+  "release": "S",
+  "sourceStatus": "Original synthesis; National Archives provides dated records and regime-authored sources requiring criticism",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "April Revolution Chronology",
+      "url": "https://theme.archives.go.kr/next/419/info01.do?menuId=01",
+      "role": "Verified dates for 1960 protests, government resignation, Second Republic elections and May 16 coup"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "1960 Fraud Election and April Revolution: Case Files",
+      "url": "https://theme.archives.go.kr/next/history/samilos/sub2_1.do",
+      "role": "Prosecution and court records with distinction between contemporary charges and later findings"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Military Revolutionary Committee",
+      "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036770&isProvince=&mapInfo=mapno1",
+      "role": "Documented seizure of powers, anti-communist platform and press restrictions following May 16"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Military Coup Government Film of 1961",
+      "url": "https://theme.archives.go.kr/viewer/common/archWebViewer.do?archiveEventId=0047680388",
+      "role": "State-produced film showing junta's self-justifying proclamations; not neutral interpretation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.4.1:b01",
+      "title": "War did not end political emergency",
+      "paragraphs": [
+        "South Korea emerged from the Korean War with severe material destruction, a divided peninsula and a governing order that treated security as an urgent and continuing problem. Syngman Rhee presented strong anti-communism as central to national survival, an argument supported by the realities of war and repeated confrontation. Yet security policy also supplied a language for suppressing domestic rivals and restricting public debate.",
+        "The National Security Law had already been enacted before the war and was used in a political environment where accusations of leftist association could carry severe consequences. Historical analysis must distinguish genuine security threats from the manipulation of those threats against critics. A state could defend itself against an armed northern adversary while violating the rights of its own citizens. The existence of one problem does not erase the other."
+      ],
+      "sequence": 1,
+      "label": "Original political history · archival context",
+      "evidence": [
+        {
+          "claim": "South Korean national archival chronology records the 1960 election, April events, subsequent Second Republic and May 1961 military coup.",
+          "sourceIndex": 0,
+          "locator": "4.19혁명 주요 일지, 1960–1961",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.4.1:b02",
+      "title": "A presidency sustained through changed rules",
+      "paragraphs": [
+        "Rhee's continued rule depended not only on popularity but on changes to constitutional arrangements. The 1952 political crisis around the wartime government in Busan produced a change favoring direct presidential election. In 1954 the disputed amendment concerning term limits allowed Rhee to seek further office, demonstrating how rules could be reshaped around the incumbent.",
+        "These episodes show why elections alone do not establish a fully competitive constitutional order. The ability to alter eligibility, constrain opponents and use official power to influence voting affects whether citizens have genuine alternatives. Supporters defended Rhee as an experienced national leader at a time of danger, while critics saw increasingly personalized government. The historian should reconstruct the institutional struggle without assuming every citizen shared one position on the president."
+      ],
+      "sequence": 2,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.1:b03",
+      "title": "The Liberal Party and administrative influence",
+      "paragraphs": [
+        "The Liberal Party provided the incumbent with an organized electoral vehicle, but political competition was shaped by government influence over police and local authorities. When public employees, election managers or coercive institutions align with a governing party, formal voting rights can coexist with pressure and fraud. The relationship between administrative resources and elections is central to understanding the late Rhee government.",
+        "Opposition politicians operated under significant constraints, yet dissent survived in electoral contests, journalism and local organizations. A credible narrative avoids presenting the state as all-powerful or the opposition as automatically unified. Rival candidates and factions differed in priorities, and the social consequences of opposition varied according to place and profession. The story is the contest over meaningful accountability, not merely a biography of party leaders."
+      ],
+      "sequence": 3,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.1:b04",
+      "title": "Aid, reconstruction and contested legitimacy",
+      "paragraphs": [
+        "Postwar reconstruction relied heavily on American assistance, international security arrangements and domestic institutions struggling to rebuild production. Government supporters could point to survival and anti-communist alignment as achievements. Critics could question corruption, unequal distribution of aid and the concentration of executive power. Economic policy and constitutional politics were connected through access to contracts, positions and public resources.",
+        "These relationships should not be flattened into a claim that all aid was corrupt or that political repression made reconstruction impossible. Infrastructure and social welfare needs were real, and officials performed necessary public work within a contested system. The historian must consider material recovery while keeping the legal rights of citizens as a separate standard of governance. Prosperity, poverty and electoral freedom do not reduce to one measure."
+      ],
+      "sequence": 4,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.1:b05",
+      "title": "Repression and the narrowing of permissible politics",
+      "paragraphs": [
+        "The late 1950s brought intensified pressure against political opponents and critics, including cases involving progressive political activity and restrictions on press freedom. Jo Bong-am's prosecution and eventual execution became an emblem of the coercive reach of national security politics. Later reassessments challenged the justice of proceedings that had been defended at the time as necessary protection.",
+        "Source criticism matters because police reports and security charges represent claims made by the state, not independent proof of guilt. Courts can issue judgments within politically constrained institutions. Historians compare legal proceedings, contemporary journalism and later reviews rather than treating the original indictment as conclusive. The structure of political fear helps explain the significance of the electoral confrontation in 1960."
+      ],
+      "sequence": 5,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.1:b06",
+      "title": "An increasingly vulnerable governing coalition",
+      "paragraphs": [
+        "By the approach to the 1960 elections, frustration with fraud and concentrated authority had spread across different communities. Students were not the only critics, but their organizing made certain abuses highly visible. The government's confidence in its administrative machinery concealed the danger that overt electoral manipulation could unite previously separate groups in protest.",
+        "The sequence leading to April was not a spontaneous moral awakening without background. Constitutional revisions, repression, election practices and local grievances accumulated over years. The March contest transformed discontent into public mobilization when citizens perceived that ordinary mechanisms of accountability had failed. The next Subchapter owns the detailed chronology of Masan, the students' protests and Rhee's resignation, preserving the causal background here without duplicating the events themselves."
+      ],
+      "sequence": 6,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.1:b07",
+      "title": "The role of policing in electoral authority",
+      "paragraphs": [
+        "An electoral contest may meet the outward requirements of ballot casting while losing its credibility through administrative pressure. Under Rhee, police and local officials possessed powers that could influence registration, campaign activity and public meetings. Evidence of government-linked fraud and violence in 1960 demonstrates the importance of institutions below the presidential palace. The president's authority depended on many officials whose decisions shaped whether citizens could actually exercise constitutional rights.",
+        "The record of the 1960 prosecutions and investigations is particularly valuable because it identifies alleged mechanisms rather than relying only on general descriptions of corruption. Later courts and research have reevaluated particular findings, and historians should explain which claims are supported by contemporaneous documents and which represent retrospective interpretations. An indictment is a source about the state and its accusations, not automatically a transparent account of everything that happened.",
+        "A comparative perspective makes the constitutional problem clearer. Rhee's defense of a vulnerable state against communism was an important part of his public legitimacy, yet using security institutions to constrain electoral opponents undermined the distinction between national defense and incumbent protection. The conflict did not arise suddenly in March 1960. It accumulated through constitutional revisions, policing and the narrowing of opposition, then became visible when electoral manipulation provoked mass resistance."
+      ],
+      "sequence": 7,
+      "label": "Batch S · constitutional and archive-critical deepening"
+    }
+  ]
+}

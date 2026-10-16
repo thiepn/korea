@@ -1,0 +1,115 @@
+{
+  "id": "VII.6.8",
+  "title": "Sangpyeong Tongbo, Currency, Credit, Accounting, and Monetization",
+  "kicker": "LATE JOSEON ECONOMY · MONEY AND PRODUCTION",
+  "description": "A source-conscious original history of sangpyeong tongbo, currency, credit, accounting, and monetization in the changing Joseon economy.",
+  "release": "S",
+  "sourceStatus": "Editorial historical synthesis based on selected Korean institutional works and dated primary extracts",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Late Joseon Commodity and Currency Economy",
+      "url": "https://contents.history.go.kr/eh_kk/teach/tong/iv/iv34.html",
+      "role": "Korean historical synthesis on coinage, public contractors, private merchant activity and regional hubs"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sources on Later Joseon Economy",
+      "url": "https://contents.history.go.kr/mobile/hm/list.do?periodCode=hm_age_60&typeCode=hm_ty_020",
+      "role": "Primary accounts on craft production, mining, regional commerce and trade"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Formation and Expansion of Jangsi",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_030_0060_0020_0040_0010",
+      "role": "Research synthesis on transport and integration of rural markets"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Rice and Cotton Cloth in Early Joseon Exchange",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_027_0050_0050_0040",
+      "role": "Historic background demonstrating coexistence of commodity monies with coinage"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.6.8:b01",
+      "title": "A coin did not replace every other means of payment",
+      "paragraphs": [
+        "The Sangpyeong Tongbo copper coin became increasingly important in late Joseon exchange, particularly from the later seventeenth century. Its circulation helped merchants and households quote prices and settle obligations in units that were easier to divide than grain or cloth. Yet the existence of widely used copper money did not mean barter disappeared or that every transaction occurred with coins.",
+        "Earlier exchange practices employed rice and cotton cloth as measures of value, and goods could continue to be used in payments where coin was scarce or unsuitable. The National Institute of Korean History's discussions of currency trace these older practices. A historical account should distinguish the legal authorization of coin production, its actual distribution and the willingness of people to accept particular forms of payment. A law establishing money is not evidence that all users instantly trust it."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source limits",
+      "evidence": [
+        {
+          "claim": "Korean institutional sources describe expanded coin circulation, commodity production and interregional trade in later Joseon.",
+          "sourceIndex": 0,
+          "locator": "조선 후기 상품 화폐 경제: currency, merchants, mining and trade",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.6.8:b02",
+      "title": "Why small transactions needed change",
+      "paragraphs": [
+        "A shopper buying food, a craftsman selling a tool and an employer paying occasional labor needed a workable way to compare and divide values. Coins could lower some transaction costs and make prices easier to quote, especially where a network of markets already existed. Their advantages depended on supply: too few small coins could make ordinary purchases difficult, while rapid changes in issue or quality could undermine confidence.",
+        "Money's social history is therefore about circulation as much as minting. Merchants could carry coins along established routes, while government payments and procurement might spread them into particular districts. The same coins could circulate several times among households before returning to a tax collector or major merchant. The historian should examine where currency was found in practice and how exchanges were recorded rather than assume uniform use from a single royal decree."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.8:b03",
+      "title": "Credit extended market participation",
+      "paragraphs": [
+        "Merchants and farmers often needed to transfer value without carrying the full payment at every stage. Advances against later delivery, loans and accounts kept between partners could support trade and production. These relationships required confidence that someone would honor a debt and some means to resolve disputes.",
+        "Credit was not a single standardized modern banking system. Arrangements varied in security, interest, timing and participants. A merchant with partners in several towns could rely on reputational and family ties while a poorer farmer borrowed seed from a landlord under quite different conditions. Written account books sometimes survive for prominent firms or estates, but everyday informal arrangements leave a thinner trail. A history of monetization must preserve that variation."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.8:b04",
+      "title": "Prices reflected geography and obligation",
+      "paragraphs": [
+        "The price of the same grain or textile could differ between a local village market and Seoul because transport, storage and risk were costly. Seasonal harvests, political requisition, weather and currency availability influenced the terms of sale. Market growth could connect regions more closely without eliminating all price differences.",
+        "The role of coins also varied by what was being bought. A large land transaction, an ordinary meal and an official procurement contract imposed different needs for valuation and settlement. People could denominate prices in monetary units while fulfilling an obligation partly in goods or through credit. Such mixed arrangements caution against treating monetization as a clean transition from primitive barter to modern cash, or as identical in every part of Joseon."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.8:b05",
+      "title": "Money and public finance interacted",
+      "paragraphs": [
+        "Some fiscal changes increased the need to secure goods through government purchases and payments to contractors. Coin helped some of these transactions, while procurement continued to require real grain, cloth, metal and labor. A state cannot feed officials or armies with an accounting unit alone; suppliers needed networks able to gather and transport products.",
+        "The connection between taxes and money was consequently indirect as well as direct. Taxes could be assessed in one commodity, converted into a monetary equivalent or used to purchase another commodity. Each stage created opportunities for exchange, profit and dispute over conversion rates. The growth of currency use reveals more complex interaction between the public treasury and private suppliers than a model of two entirely separate economies."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.8:b06",
+      "title": "The limits of calling it one monetary economy",
+      "paragraphs": [
+        "Coins are material objects whose distribution can be excavated or documented, but their presence at a site does not reveal every transaction for which they were used. Hoarding, loss, inheritance and later disturbance complicate interpretation. Written prices are also shaped by units and local reporting practices.",
+        "The spread of Sangpyeong Tongbo is historically significant because it helped support wider networks of trade and accounting. It did not equalize opportunities or free users from debt. Those with reserves and access to credit could benefit differently from households selling products under pressure. Coinage is best understood as an enabling institution interacting with markets, transport and social power, not as an independent cause of all late-Joseon economic change."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.8:b07",
+      "title": "Monetization can deepen vulnerability",
+      "paragraphs": [
+        "Coin use widened the possible forms of exchange, but it could also expose a household to demands that could no longer be met directly with goods it produced. Someone needing cash at a specific date might sell grain when prices were low or borrow at unfavorable terms. A merchant with reserves could exploit different timing and transport opportunities. These possibilities do not make copper coin inherently harmful, but they reveal that a convenient unit of payment operates inside unequal distributions of resources.",
+        "The historical interpretation of credit requires special caution. A record showing an advance and repayment may represent cooperative support, commercial investment or an obligation enforced by a powerful patron. Its social meaning cannot be read from the mere presence of money. Borrowers had differing alternatives; lenders assumed differing risks. Some accounts were maintained through networks across towns, while others arose within one village. A uniform label such as banking can obscure the actual institutions of trust and coercion.",
+        "Metal coinage also retained dependence on physical production and circulation. Currency availability could vary where transport was costly, and prices in coin might not be comparable across sources without checking units and context. A monetary economy is a set of practices, not a proclamation. The most valuable history links money to specific questions about payment, debt, accounting and the power to wait for favorable conditions."
+      ],
+      "sequence": 7,
+      "label": "Batch S · source-conscious material and fiscal context"
+    }
+  ]
+}

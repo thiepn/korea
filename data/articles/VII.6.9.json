@@ -1,0 +1,126 @@
+{
+  "id": "VII.6.9",
+  "title": "Handicrafts, Mining, Salt, Fisheries, Workshops, and Wage Labor",
+  "kicker": "LATE JOSEON ECONOMY · MONEY AND PRODUCTION",
+  "description": "A source-conscious original history of handicrafts, mining, salt, fisheries, workshops, and wage labor in the changing Joseon economy.",
+  "release": "S",
+  "sourceStatus": "Editorial historical synthesis based on selected Korean institutional works and dated primary extracts",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Late Joseon Commodity and Currency Economy",
+      "url": "https://contents.history.go.kr/eh_kk/teach/tong/iv/iv34.html",
+      "role": "Korean historical synthesis on coinage, public contractors, private merchant activity and regional hubs"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sources on Later Joseon Economy",
+      "url": "https://contents.history.go.kr/mobile/hm/list.do?periodCode=hm_age_60&typeCode=hm_ty_020",
+      "role": "Primary accounts on craft production, mining, regional commerce and trade"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Formation and Expansion of Jangsi",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_030_0060_0020_0040_0010",
+      "role": "Research synthesis on transport and integration of rural markets"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Rice and Cotton Cloth in Early Joseon Exchange",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_027_0050_0050_0040",
+      "role": "Historic background demonstrating coexistence of commodity monies with coinage"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.6.9:b01",
+      "title": "Production beyond the farm was often rural",
+      "paragraphs": [
+        "Textiles, ceramics, tools, salt, fish products and other goods were produced in many settings, from households to workshops connected with officials or merchants. The distinction between agriculture and industry is less clear when a farming family spins thread in one season and tends fields in another. Skilled workers might sell part of their output while maintaining other obligations or access to land.",
+        "Historical accounts often emphasize the decline of some government-supervised craft arrangements and the growing role of private producers. This is a meaningful change but should not be depicted as the overnight disappearance of official production. Different crafts had different requirements for raw materials, skill, fuel, capital and transport. The state's continued demand could sustain specialized suppliers even as regulatory forms changed."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source limits",
+      "evidence": [
+        {
+          "claim": "Korean institutional sources describe expanded coin circulation, commodity production and interregional trade in later Joseon.",
+          "sourceIndex": 0,
+          "locator": "조선 후기 상품 화폐 경제: currency, merchants, mining and trade",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.6.9:b02",
+      "title": "Textiles reveal the organization of domestic labor",
+      "paragraphs": [
+        "Cloth production could involve obtaining fiber, spinning, weaving, dyeing, finishing and carrying goods to buyers. Much of this work was dispersed among households and rarely entered surviving records under the independent names of all workers. Cloth could be used domestically, sold for money, or transferred as part of obligations.",
+        "A market in textiles did not automatically mean a factory system with wage contracts. Merchants might supply fiber and purchase finished goods, while households used family labor and tools they owned. The economic return depended on input prices, time and access to buyers. A history attentive to gender should examine the importance of women's textile labor without asserting that every woman performed the same tasks or had the same control over proceeds."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.9:b03",
+      "title": "Mining required capital and political negotiation",
+      "paragraphs": [
+        "Extracting minerals demanded labor, tools, access to ore, transport and sometimes difficult arrangements over rights and official controls. Changes in regulations and demand could encourage private operators to expand production or create disputes over concessions. The National Institute of Korean History preserves government discussions of mining activity that reveal the state's continuing concern with revenue and oversight.",
+        "A record of increased mining does not prove that all ventures were profitable or independent of elite patronage. Technical difficulties, exhausted deposits and transport costs could limit production. Workers might be hired under varied terms, and their conditions are not fully described by a court report about expected output. The distinction between an authorized operation, a prosperous merchant investment and the lived experience of a miner is important."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.9:b04",
+      "title": "Salt and fisheries connected environments and cities",
+      "paragraphs": [
+        "Coastal salt production and fishing supplied goods consumed far beyond the shore. Preservation, packing and transport mattered because urban buyers were separated from production sites by distance and time. Coastal households required access to equipment and favorable seasons, while merchants could aggregate output and carry it inland.",
+        "The sea's abundance should not be romanticized as free wealth. Weather, vessel risk and seasonal variation affected the reliability of fisheries. Salt-making required fuel, labor and suitable sites, with ecological costs that might not appear in fiscal accounts. State regulation and regional trading networks shaped who could participate and what prices producers received. These sectors demonstrate how an expanding commodity economy depended on both environmental knowledge and the routes connecting specialized districts."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.9:b05",
+      "title": "Wages and dependencies took varied forms",
+      "paragraphs": [
+        "Some laborers received money, grain or other compensation for specific tasks. Others were bound through status arrangements, tenancy, household ties or debt. Finding paid labor in a workshop does not establish a uniform free labor market, and the mere persistence of old obligations does not mean all workers were unfree.",
+        "Historians need to identify the actual terms of a relationship: duration, payment, mobility, enforcement and alternatives. A temporary hire for mining or transport differed from a specialist employed repeatedly by a government supplier. These distinctions reveal the complexity of the labor economy. The growth of private manufacturing could open work opportunities while maintaining significant inequalities in bargaining power and access to capital."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.9:b06",
+      "title": "Specialization and its limits",
+      "paragraphs": [
+        "Greater production for exchange encouraged some craftspeople and merchants to concentrate on products demanded by larger markets. Specialized output could improve skills and make trade more predictable, but it also increased dependence on external supplies and purchasers. Disruption in credit or transport might quickly reduce a workshop's ability to operate.",
+        "Late Joseon's craft and extractive sectors were neither purely traditional nor modern industry waiting to happen. They formed varied systems of skilled work within a hierarchical agrarian state. Their significance lies in how households, merchant networks and official procurement connected dispersed labor to consumers. Understanding that interaction is more informative than ranking sectors by their resemblance to factories of later centuries."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source limits"
+    },
+    {
+      "id": "VII.6.9:b07",
+      "title": "The hidden scale of skilled household production",
+      "paragraphs": [
+        "An official record may name a merchant supplying cloth or ceramics without naming the people who performed the labor. One producer could rely on family work, apprentices, hired workers or services contracted from other households. The distribution of earnings along that chain was not necessarily transparent to the final buyer. Historical scholarship on crafts therefore needs to investigate production organization, not only quantities traded or celebrated objects.",
+        "Material culture offers an alternative archive. Tools, kiln sites, mineral remains and discarded production fragments can reveal technical choices beyond the court's fiscal interest. Yet the preservation of a furnace or kiln does not show the wage of every person who worked there. Texts describing prosperous mining ventures likewise may omit injuries, seasonal instability and the cost of obtaining equipment. Combining archaeological and documentary evidence is especially important in these sectors.",
+        "Specialization could create more opportunities for workers whose skills were valued, but dependence on outside buyers carried risk when demand or transport failed. In a household combining cultivation and craft, bad weather could affect both the food supply and the time available for production. Economic activity should not be forced into neat modern sectors, because the people involved often shifted between them according to season and necessity."
+      ],
+      "sequence": 7,
+      "label": "Batch S · source-conscious material and fiscal context"
+    },
+    {
+      "id": "VII.6.9:b08",
+      "title": "Labor status and the market are separate dimensions",
+      "paragraphs": [
+        "A person making ceramics or extracting minerals could sell a product through market exchange while working within an unequal status relationship. Commodity sales do not tell us whether the producer could freely change employer, choose residence or retain the value created. A household weaving cloth for a merchant may possess its own tools and negotiate price; another may depend upon an advance whose repayment terms restrict choice.",
+        "The terminology of wage labor needs similar care. Payment for a day's hauling, a season's craftwork or a long-term workshop task might occur in grain, cash or goods. These arrangements resemble aspects of later wage employment without constituting a single standardized labor market. The existence of remuneration is an observable economic fact; the degree of independence requires investigation of contracts, customary obligations and alternatives.",
+        "This distinction clarifies why commercial expansion did not simply dissolve the social hierarchy of the kingdom. New forms of exchange could coexist with inherited privilege and debt-based dependence. Workers' skill and mobility might increase in some sectors while constraints persisted elsewhere. The historian gains precision by studying markets and labor authority as interacting but distinct systems."
+      ],
+      "sequence": 8,
+      "label": "Batch S · primary sources, institutions and consequences"
+    }
+  ]
+}

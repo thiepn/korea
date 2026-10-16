@@ -1,0 +1,115 @@
+{
+  "id": "IX.4.5",
+  "title": "The Third Republic: Electoral Authoritarianism, Party Politics, and Park Chung-hee's Political Order",
+  "kicker": "SOUTH KOREAN DEMOCRATIZATION · PARK AND OPPOSITION",
+  "description": "Original constitutional and social history of the third republic: electoral authoritarianism, party politics, and park chung-hee's political order, distinguishing regime claims from rights and opposition.",
+  "release": "S",
+  "sourceStatus": "Editorial original synthesis; selected National Institute of Korean History and archives material, non-exhaustive",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "October Yushin, 1972",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i500200",
+      "role": "Chronology of emergency declaration, dissolution of assembly and Yushin constitutional order"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "1987 Democratic Constitution Amendment",
+      "url": "https://theme.archives.go.kr/next/rule/sub2_10.do",
+      "role": "Constitutional details clarifying distinctions between Yushin, Fifth and Sixth Republic"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government Record of 1961 Military Political Promises",
+      "url": "https://theme.archives.go.kr/viewer/common/archWebViewer.do?archiveEventId=0047680388",
+      "role": "Contemporaneous regime propaganda, not an independent characterization"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangju May 18 Democratic Movement",
+      "url": "https://encykorea.aks.ac.kr/Article/E0038496",
+      "role": "Background to organized opposition under authoritarian politics"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.4.5:b01",
+      "title": "Elections and executive advantage",
+      "paragraphs": [
+        "The Third Republic beginning in 1963 reintroduced formal electoral politics under Park Chung-hee, but the political field was not level. Incumbent institutions, security agencies, restrictive laws and the legacy of military rule gave the executive substantial advantages. Opposition parties could campaign and win support, yet the ability to criticize powerful officials or mobilize dissent was constrained in ways not captured by a simple tally of seats.",
+        "A useful historical distinction separates the genuine choices some voters expressed from the institutional setting in which they voted. Park's electoral victories reflected political support among constituencies impressed by development and security, while coercion and unequal access to state resources limited opposition opportunities. One should neither declare every ballot meaningless nor equate an election with full democratic accountability. The interplay between popular legitimacy and administrative dominance was the regime's defining feature."
+      ],
+      "sequence": 1,
+      "label": "Evidence-conscious original political synthesis",
+      "evidence": [
+        {
+          "claim": "National Institute of Korean History records the October 1972 dissolution of parliament and Yushin constitutional restructuring.",
+          "sourceIndex": 0,
+          "locator": "한국사 연대기, 10월 유신 1972, declaration of 17 October",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.4.5:b02",
+      "title": "Parties operated within constrained competition",
+      "paragraphs": [
+        "The ruling Democratic Republican Party developed organizational links to the government and sought to translate economic achievements into votes. Opposition leaders contested elections and criticized executive rule, sometimes cooperating across ideological and personal differences. Internal divisions could weaken opposition strategy, but those divisions did not create the structural asymmetry between state power and challengers.",
+        "Political competition occurred within a security climate shaped by division from North Korea and the prominence of anti-communism. Accusations and legal proceedings could restrict the range of acceptable dissent. At the same time, parties had to respond to issues of regional development, inequality and relations with Japan. Their politics cannot be reduced solely to a referendum on dictatorship. Electoral alliances and disputes mattered because the executive still sought popular confirmation of its rule."
+      ],
+      "sequence": 2,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.5:b03",
+      "title": "The normalization with Japan controversy",
+      "paragraphs": [
+        "The 1965 normalization of diplomatic relations with Japan was consequential for economic and foreign policy. It also generated protests and arguments over the colonial past, compensation, sovereignty and the legitimacy of negotiating under authoritarian conditions. State leaders presented normalization in strategic and developmental terms, while students and other critics challenged both its substance and the government's conduct.",
+        "This dispute demonstrates that opposition politics was not simply rejection of economic development. Protesters could disagree about the terms of agreements and accountability even if increased trade or external investment offered opportunities. The later economic consequences of normalization should not be used to dismiss the concerns raised at the time. Public memory of colonial rule affected how citizens evaluated the government's willingness to make binding international arrangements."
+      ],
+      "sequence": 3,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.5:b04",
+      "title": "Economic planning and political consent",
+      "paragraphs": [
+        "The developmental state directed investment, cultivated exporters and mobilized finance through institutions with considerable executive authority. This contributed to major industrial transformation, but the political system offered limited channels for workers and opponents to influence priorities. Industrial achievement and restrictions on freedom occurred simultaneously.",
+        "It is historically untenable to claim that growth proves coercion was necessary or that repression means no improvement in living conditions took place. Different groups experienced the developmental project differently: firms could secure loans, workers accepted demanding schedules, and urban households gained opportunities while facing housing and labor pressures. The economic narrative must be evaluated through production and distribution, and the political narrative through rights and accountability. Neither metric subsumes the other."
+      ],
+      "sequence": 4,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.5:b05",
+      "title": "The 1969 amendment and the limits of office",
+      "paragraphs": [
+        "The constitutional change that permitted Park to seek a third presidential term in 1971 raised questions about whether the incumbent was rewriting rules to avoid the ordinary constraint of succession. Supporters emphasized continuity and leadership; critics argued that terms were meaningful only if officeholders could not change them for their own advantage.",
+        "The controversy has a longer history in the First Republic's manipulation of presidential eligibility. That similarity should not erase differences in context and institutions, but it demonstrates a recurring challenge in constitutional politics: executives may seek legitimacy through formal procedures while narrowing the practical power of those procedures to remove them. The emergence of intense competition around the 1971 election heightened this tension."
+      ],
+      "sequence": 5,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.5:b06",
+      "title": "From electoral authoritarianism to Yushin",
+      "paragraphs": [
+        "The 1971 presidential contest with Kim Dae-jung showed significant opposition support even within an unequal system. Park's government responded to its political insecurity amid concerns about regional tensions and the international security environment. In 1972 it dismantled central parts of the existing constitutional order through an extraordinary intervention.",
+        "The shift was neither an ordinary election result nor a modest administrative adjustment. It marked the transition from a presidential government maintaining restricted electoral competition to a more openly authoritarian structure built around indirect presidential selection and sweeping emergency authority. Its specific legal mechanisms belong to the next Subchapter. The crucial trajectory is how the executive progressively converted temporary political advantage into institutional insulation from accountability."
+      ],
+      "sequence": 6,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.5:b07",
+      "title": "Constitutional competition under executive control",
+      "paragraphs": [
+        "Third Republic elections created moments in which opposition candidates could bring grievances before the public. A strong challenger might mobilize regional support and force the ruling camp to answer questions about corruption, economic inequality or civil liberties. Yet the playing field remained unequal because the executive could draw upon administrative influence and surveillance. Historians should examine particular campaigns and rules rather than either dismiss all votes as staged or assume electoral victory conferred unconstrained constitutional legitimacy.",
+        "The political meaning of the 1969 term-limit amendment is clearer when considered against the earlier manipulation of presidential eligibility under Rhee. Two different regimes changed the constraints upon an incumbent in ways that made ordinary transfer of power less likely. The comparison should not erase the genuinely different economic, security and party circumstances, but it reveals a recurring problem: leaders sought the appearance of constitutional continuity while adjusting the constitution to preserve their own position.",
+        "The debate over normalization with Japan likewise demonstrates that opponents were not united by hostility to growth. Many protesters focused on historical responsibility and the ability of a coercively governed state to make agreements binding future citizens. Their concerns could coexist with recognition that economic exchange might offer benefits. A balanced political history should not treat the eventual expansion of trade as proof that all contemporary objections were without merit."
+      ],
+      "sequence": 7,
+      "label": "Batch S · constitutional and archive-critical deepening"
+    }
+  ]
+}

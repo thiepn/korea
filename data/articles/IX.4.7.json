@@ -1,0 +1,115 @@
+{
+  "id": "IX.4.7",
+  "title": "Students, Workers, Churches, Journalists, Lawyers, Intellectuals, and the Democratic Opposition",
+  "kicker": "SOUTH KOREAN DEMOCRATIZATION · PARK AND OPPOSITION",
+  "description": "Original constitutional and social history of students, workers, churches, journalists, lawyers, intellectuals, and the democratic opposition, distinguishing regime claims from rights and opposition.",
+  "release": "S",
+  "sourceStatus": "Editorial original synthesis; selected National Institute of Korean History and archives material, non-exhaustive",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "October Yushin, 1972",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i500200",
+      "role": "Chronology of emergency declaration, dissolution of assembly and Yushin constitutional order"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "1987 Democratic Constitution Amendment",
+      "url": "https://theme.archives.go.kr/next/rule/sub2_10.do",
+      "role": "Constitutional details clarifying distinctions between Yushin, Fifth and Sixth Republic"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government Record of 1961 Military Political Promises",
+      "url": "https://theme.archives.go.kr/viewer/common/archWebViewer.do?archiveEventId=0047680388",
+      "role": "Contemporaneous regime propaganda, not an independent characterization"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangju May 18 Democratic Movement",
+      "url": "https://encykorea.aks.ac.kr/Article/E0038496",
+      "role": "Background to organized opposition under authoritarian politics"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.4.7:b01",
+      "title": "The democratic opposition had many social bases",
+      "paragraphs": [
+        "Students played highly visible roles in South Korean democratization, but the movement cannot be reconstructed from campuses alone. Industrial workers, religious organizations, journalists, writers, lawyers, opposition politicians and families of prisoners participated in different ways. They did not always agree about the relation between labor demands, national reunification and constitutional democracy.",
+        "The diversity gave resistance breadth while creating strategic debate. An organization might focus on a particular detained person, another on workplace safety, and another on the right to elect a president. Those goals could intersect when state repression made ordinary advocacy dangerous. The historian should identify specific constituencies and moments rather than assign one continuous organizational membership to everyone opposing military-backed rule over several decades."
+      ],
+      "sequence": 1,
+      "label": "Evidence-conscious original political synthesis",
+      "evidence": [
+        {
+          "claim": "National Institute of Korean History records the October 1972 dissolution of parliament and Yushin constitutional restructuring.",
+          "sourceIndex": 0,
+          "locator": "한국사 연대기, 10월 유신 1972, declaration of 17 October",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.4.7:b02",
+      "title": "Students made campuses contested public spaces",
+      "paragraphs": [
+        "University communities organized demonstrations, statements and educational gatherings that challenged authoritarian authority. Campus life offered networks for circulating information and sustaining friendships, while surveillance, expulsions and police intervention could interrupt study and careers. Not every student joined, and the risks differed by institution and period.",
+        "The state's treatment of campus protest as a security problem strengthened its political meaning. A demand for transparent elections or academic independence might lead to detention, encouraging participants to question the legitimacy of a wider governing system. Histories that romanticize students as uniformly heroic neglect internal disagreements and the ordinary personal costs of participation. Histories that portray them merely as disorderly miss their contributions to public debate."
+      ],
+      "sequence": 2,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.7:b03",
+      "title": "Labor organizing challenged the development bargain",
+      "paragraphs": [
+        "Workers in export industries and other sectors contributed to rapid growth under demanding conditions. Campaigns for wages, safety, workplace dignity and independent representation sometimes collided with the state's efforts to contain industrial conflict. Women's labor organizing was particularly consequential in industries where young women made up large workforces yet had limited bargaining power.",
+        "These campaigns had economic and political dimensions. Workers might not initially frame a dispute as a demand to replace the president, but policing of collective action exposed the limits of permitted participation. Allies in religious groups and legal circles could assist with publicity, shelter or representation. It is reductive either to treat all union activism as a covert political party or to detach labor rights from the authoritarian institutions restricting them."
+      ],
+      "sequence": 3,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.7:b04",
+      "title": "Churches and religious ethics in politics",
+      "paragraphs": [
+        "Protestant and Catholic individuals and organizations participated in campaigns for justice, legal protection and democratic rights. Some clergy defended detainees, hosted gatherings and criticized state violence. Religious participation was not universal: congregations and leaders differed in political views, and some supported anti-communist government priorities.",
+        "The moral significance of religious activism should be analysed through documented actions rather than general claims that Christianity caused democratization. Religious institutions could offer meeting spaces, international relationships and language emphasizing human dignity, yet secular organizations also performed indispensable work. Cooperation across these lines enlarged civic networks. A fair history recognizes both the resources religious communities provided and the divisions within them."
+      ],
+      "sequence": 4,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.7:b05",
+      "title": "Journalism, censorship and the effort to document abuse",
+      "paragraphs": [
+        "Journalists confronted pressure over what could be published, and editors or outlets faced punishment when reports challenged official narratives. Suppression mattered because citizens often learned of abuses through fragmentary information, private networks or foreign broadcasts. Lawyers and writers documented proceedings, preserved testimony and challenged the meaning of emergency laws.",
+        "Not every publication operated independently, and censorship could induce accommodation as well as resistance. The historical record includes state media that framed coercion as order, alongside oppositional writing that sought to expose contradictions. Neither can be treated as a complete neutral view. Source criticism is central to this history: one must ask who could speak, who faced punishment and which documents survived because activists deliberately preserved them."
+      ],
+      "sequence": 5,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.7:b06",
+      "title": "Coalition, disagreement and democratic significance",
+      "paragraphs": [
+        "By the 1980s multiple opposition constituencies contributed to campaigns for constitutional change. Their political projects ranged from liberal electoral reform to radical labor or student movements. They sometimes coordinated on immediate demands while maintaining disagreements over economic policy, relations with North Korea or the role of foreign allies.",
+        "The importance of a coalition lies in its capacity to mobilize broadly without requiring identical beliefs. Political change depended on participation, public information and the willingness of citizens to bear risks. A history of democratization should not erase tensions after a successful demonstration, because those differences reappeared in later elections and social policy. The immediate common objective of constraining executive power was compatible with a genuinely plural political future."
+      ],
+      "sequence": 6,
+      "label": "Evidence-conscious original political synthesis"
+    },
+    {
+      "id": "IX.4.7:b07",
+      "title": "Coalitions were built through practical cooperation",
+      "paragraphs": [
+        "A student group and a labor organization could disagree sharply about economic ideology while cooperating to publicize a detention or demand fair treatment from police. Lawyers contributed specialized skills in drafting petitions and documenting procedures. Religious organizations sometimes supplied meeting places, while journalists tried to circulate information that authorities wanted to restrict. These were practical relationships, not evidence that everyone belonged to one permanently unified movement.",
+        "The vulnerability of a network depended partly on its visibility. A prominent politician could draw international attention, while an unknown factory worker might face dismissal or harassment without a public audience. Archival survival reflects this difference: famous speeches and court cases are better documented than the daily choices of participants whose names never entered national records. The historian should actively consider how that imbalance shapes the narrative.",
+        "Working for democracy also meant disagreement about what freedom required. Constitutional elections, independent unions, press rights, gender equality and economic reform were related but distinct objectives. Some movements prioritized immediate restoration of political competition, while others insisted that workplace power must change as well. Treating this diversity as a weakness misunderstands the value of plural civic action. Broad coalitions allowed demands for rights to cross social and organizational boundaries."
+      ],
+      "sequence": 7,
+      "label": "Batch S · additional institutional and archival critique"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "IX.4.4",
+  "title": "The May 16 Coup, Military Government, and the Reconstruction of Political Power",
+  "kicker": "SOUTH KOREAN DEMOCRATIZATION · EARLY REPUBLICS",
+  "description": "Original evidence-conscious political history of the may 16 coup, military government, and the reconstruction of political power, with critical treatment of coup-era and judicial archives.",
+  "release": "S",
+  "sourceStatus": "Original synthesis; National Archives provides dated records and regime-authored sources requiring criticism",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "April Revolution Chronology",
+      "url": "https://theme.archives.go.kr/next/419/info01.do?menuId=01",
+      "role": "Verified dates for 1960 protests, government resignation, Second Republic elections and May 16 coup"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "1960 Fraud Election and April Revolution: Case Files",
+      "url": "https://theme.archives.go.kr/next/history/samilos/sub2_1.do",
+      "role": "Prosecution and court records with distinction between contemporary charges and later findings"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Military Revolutionary Committee",
+      "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036770&isProvince=&mapInfo=mapno1",
+      "role": "Documented seizure of powers, anti-communist platform and press restrictions following May 16"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Military Coup Government Film of 1961",
+      "url": "https://theme.archives.go.kr/viewer/common/archWebViewer.do?archiveEventId=0047680388",
+      "role": "State-produced film showing junta's self-justifying proclamations; not neutral interpretation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.4.4:b01",
+      "title": "The coup as a seizure of constitutional power",
+      "paragraphs": [
+        "On 16 May 1961 military officers led by Park Chung-hee seized control of crucial institutions in Seoul and displaced the civilian government. State archival descriptions identify the Military Revolutionary Committee, with Jang Do-yeong initially chairing it and Park serving as vice chairman and principal organizer. The operation was not a normal transfer of power under the Second Republic's constitution.",
+        "The coup leaders described their action as a national revolution to end corruption, secure the country and reconstruct the economy. Those objectives should be read as political claims made to justify military rule. Their existence does not transform the use of armed force against civilian government into an election. Understanding the coup requires attention to the military networks and institutional conditions that allowed a relatively small group to take control of key sites."
+      ],
+      "sequence": 1,
+      "label": "Original political history · archival context",
+      "evidence": [
+        {
+          "claim": "South Korean national archival chronology records the 1960 election, April events, subsequent Second Republic and May 1961 military coup.",
+          "sourceIndex": 2,
+          "locator": "군사혁명위원회, 1961.05.16–18",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.4.4:b02",
+      "title": "The proclamations and what they reveal",
+      "paragraphs": [
+        "The junta's published pledges emphasized anti-communism, relations with the United States and other allies, the elimination of corruption, economic reconstruction and eventual return to civilian leadership. They also claimed authority to suspend gatherings and censor the press. The National Archives preserves original state media productions showing how the coup was presented to the public.",
+        "A government-produced newsreel is a primary source for public justification and propaganda. It is not independent proof that the promises were fulfilled. The coexistence of pledges to restore legitimate politics with immediate bans on assembly and press freedom reveals a characteristic authoritarian argument: extraordinary coercion was portrayed as temporarily necessary for a better future. Historians should test that claim against subsequent institutions and elections."
+      ],
+      "sequence": 2,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.4:b03",
+      "title": "A new governing machinery",
+      "paragraphs": [
+        "The coup authorities reorganized the Military Revolutionary Committee into the Supreme Council for National Reconstruction, which held extensive political authority. It supervised lawmaking and government under military leadership rather than remaining a narrow emergency advisory council. New bodies could issue regulations, investigate opponents and shape economic priorities.",
+        "The concentration of authority altered how ministries, police and courts related to citizens. Administrative efficiency might improve in some tasks, but the capacity to act quickly does not establish that dissenting citizens had lawful means to constrain the rulers. Military discipline and bureaucratic appointment should not be mistaken for public consent. The junta's institutional reconstruction provides the background for later economic planning without duplicating the industrial policies owned by a separate Chapter."
+      ],
+      "sequence": 3,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.4:b04",
+      "title": "Purges and the question of justice",
+      "paragraphs": [
+        "The junta pursued campaigns against alleged corruption and political misconduct, including special investigative and judicial institutions. National Archives materials note that military-era revolutionary courts addressed matters connected to the 1960 fraud election while also prosecuting political figures accused of actions against the new order.",
+        "This mixture complicates any narrative that presents anti-corruption trials as neutral justice. Some underlying abuses were real and demanded accountability; proceedings under military control also created opportunities for selective prosecution. The historian needs to distinguish charges inherited from the First Republic from cases directed against those newly categorized as subversive. A court's verdict under exceptional authority cannot substitute for an assessment of legal fairness."
+      ],
+      "sequence": 4,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.4:b05",
+      "title": "Economic promises and political control",
+      "paragraphs": [
+        "The coup program stressed economic reconstruction, responding to genuine hardship and the perception that civilian governments had been ineffective. Subsequent planning institutions pursued ambitious development strategies. Their achievements and costs form an important part of modern Korean history but must not be used to retroactively justify the initial seizure of power.",
+        "A historian can recognize growth under military-led rule while also identifying restricted political competition and censorship. Economic modernization is not equivalent to democratization. Citizens may benefit materially from state policy while lacking means to replace leaders or criticize the government without risk. The tension became central to the politics of the Third Republic and the opposition that developed around it."
+      ],
+      "sequence": 5,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.4:b06",
+      "title": "Returning to elections without surrendering influence",
+      "paragraphs": [
+        "The junta eventually presided over a transition to elections and the civilian presidency of Park Chung-hee in 1963. Park's electoral legitimacy and his earlier acquisition of power were different matters; holding an election did not erase the coup. The continued influence of former officers, intelligence agencies and authoritarian institutional practices shaped the new political order.",
+        "The concept of a civilianized military government captures the problem more accurately than either total continuity or a clean democratic break. New parties and formal contests existed, but the capacity to constrain opponents remained unequal. The Third Republic thus began with an unstable combination of electoral institutions and executive concentration, whose evolution belongs in the next Subchapter."
+      ],
+      "sequence": 6,
+      "label": "Original political history · archival context"
+    },
+    {
+      "id": "IX.4.4:b07",
+      "title": "The coup government's promise to leave power",
+      "paragraphs": [
+        "The junta's public commitments included eventual transfer of authority to upright civilian politicians. This promise is historically important because it recognized the need to explain why soldiers were governing a republic. The regime simultaneously restricted assembly, censored the press and created a concentrated governing council. Its words should be compared with the period during which officers remained politically dominant and the conditions established for the later elections.",
+        "New prosecutorial and investigative institutions gave the junta the means to portray itself as purifying government. Some investigations addressed genuine abuses associated with Rhee's final years. Others extended political discipline to movements and publications active during the Second Republic. The presence of both categories should be recorded instead of describing all prosecutions as independent justice or all as fictitious. A historian must separate the underlying accusation, the evidence and the fairness of the procedure.",
+        "Military political intervention also had consequences inside the armed forces. Allegiance to the new ruling group could influence appointments and careers, making military authority a continuing political resource even after formal civilianization. This dynamic complicates the claim that the 1963 transition simply restored normal separation between soldier and politician. The Third Republic inherited personnel, security structures and habits of executive command that shaped the opportunities for opposition."
+      ],
+      "sequence": 7,
+      "label": "Batch S · constitutional and archive-critical deepening"
+    }
+  ]
+}
