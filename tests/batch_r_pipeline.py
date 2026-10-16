@@ -76,4 +76,4 @@ assert second['assets_changed']==0,'nondeterministic compiler'
 assert first['largest_pack']<=24000 and first['largest_shard']<=48000
 assets=[p.relative_to(ROOT/'dist').as_posix() for p in (ROOT/'dist').rglob('*') if p.is_file()]
 assert assets and all(not x.startswith(('canonical/','content/','scripts/','tests/','data/articles/')) for x in assets)
-print(f'PASS Batch R exact baseline: +{delta:,} original narrative words, {new_passages} passages, 17 new/3 append-only articles, 17+ anchored sources, 2 complete chapters, {len(assets)} safe public assets.')
+print(f'PASS Batch R exact baseline: +{delta:,} original narrative words, {new_passages} passages, 17 new/3 append-only articles, 17+ anchored source locators, 2 complete chapters, {len(assets)} safe public assets.')

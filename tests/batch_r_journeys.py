@@ -36,4 +36,4 @@ with sync_playwright() as pw:
         assert not errors,(w,errors)
         page.close()
     browser.close()
-print('PASS Batch R desktop/mobile generated assets: both full Chapters, two pathways, citation, Korean search, demography, zero pageerrors or horizontal overflow.')
+print('PASS Batch R desktop/mobile generated assets: both full Chapters, two pathways, citation, Korean search, 1895 political history, zero pageerrors or horizontal overflow.')
