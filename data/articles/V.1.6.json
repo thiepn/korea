@@ -1,0 +1,70 @@
+{
+  "id": "V.1.6",
+  "title": "Gyeongjong, Land Allocation, and the Search for Dynastic Stability",
+  "kicker": "EARLY GORYEO · TENTH-CENTURY STATE FORMATION",
+  "description": "Original historical account of governing, reform and society in early Goryeo.",
+  "release": "N",
+  "sourceStatus": "Original editorial synthesis with selected Korean-language primary-text anchors and secondary research; later compilations are distinguished from tenth-century testimony.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "전시과 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0049507",
+      "role": "Specialist scholarly article on initial land-revenue allotments in 976 and later revisions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.1.6:b01",
+      "title": "From wartime rewards to a scheme of service",
+      "paragraphs": [
+        "Land distribution presented a problem that victory could not settle once and for all. Under Taejo, rewards recognized service in the wars and rewarded figures whose support mattered to the dynasty. Under Gyeongjong, the establishment of the *sijeong jeonsigwa* in 976 introduced a more structured approach to allocating revenues from fields and woodland. A later reader must be careful with the word ownership. The system involved claims to collect revenues from designated land, not necessarily unrestricted title to soil or the labor of everyone residing there. The institutional distinction was central because it determined how officials could sustain themselves while the monarchy retained a claim over the framework of distribution."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The initial jeonsigwa land-revenue allotment scheme was established in 976 under Gyeongjong.",
+          "sourceIndex": 0,
+          "locator": "전시과, 제정 시기와 시정전시과의 분급 기준",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.1.6:b02",
+      "title": "Why rank was not the only question",
+      "paragraphs": [
+        "The early scheme considered official rank and qualities or standing associated with the recipient. This mixed criterion matters. A ruler looking to transform a political coalition into a service hierarchy could not simply ignore existing reputations and relationships. Assignments acknowledged the weight of those relationships while drawing them into a common scheme. Lists preserved in later institutional histories give valuable information about categories and rules, but do not reveal each award's local implementation. If an official held a revenue right on a field cultivated elsewhere, the actual transfer still passed through people who harvested, measured and transported produce. Bureaucratic categories therefore connected to practical burdens on households that rarely speak in the archive."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.1.6:b03",
+      "title": "The meaning of *jeon* and *si*",
+      "paragraphs": [
+        "The system's name points to land and woodland, *jeon* and *si*, and reminds readers that agrarian support depended on more than grain alone. Fuel and woodland products mattered in the operation of households and institutions. Yet the distribution of rights should not be portrayed as a uniformly administered modern cadastre. Records describing the scheme changed through later reforms; the form of a rule does not prove that every region was equally accessible to the state. Further revisions under Mokjong and much later rulers show the instability of settlements that had to reconcile available resources with claims by officials. A system designed to stabilize the royal center could generate grievances when its obligations outgrew the land or revenue available."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The land-allotment scheme distinguished revenue claims relating to agricultural and woodland resources.",
+          "sourceIndex": 0,
+          "locator": "전시과, 내용 / 전지 및 시지",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.1.6:b04",
+      "title": "An economic settlement with human consequences",
+      "paragraphs": [
+        "It is tempting to narrate the establishment of the land-allocation scheme as a technical achievement that closed an era of arbitrary rewards. It did offer an official vocabulary for regularized support. But we should also ask whose surplus met those claims. Farmers could face obligations whose beneficiary was not the person making everyday decisions in their settlement. Local collectors and powerful households could complicate an apparently simple division between royal state and private estate. Gyeongjong's initiative belongs in the consolidation story because it tied the status of office to recurring resources; the conflict between written entitlement and local reality remained. The first land reform was a beginning in the history of political economy, not the final mapping of a kingdom."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

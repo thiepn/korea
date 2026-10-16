@@ -1,0 +1,68 @@
+{
+  "id": "V.1.3",
+  "title": "Hyejong, Jeongjong, and the Succession Crisis after Taejo",
+  "kicker": "EARLY GORYEO · TENTH-CENTURY STATE FORMATION",
+  "description": "Original historical account of governing, reform and society in early Goryeo.",
+  "release": "N",
+  "sourceStatus": "Original editorial synthesis with selected Korean-language primary-text anchors and secondary research; later compilations are distinguished from tenth-century testimony.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "태조 (Taejo of Goryeo)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0059032",
+      "role": "Secondary historical reference; reign dates and royal strategy are contextual, not eyewitness testimony"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 12: 고려 왕조의 성립과 발전",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_012_0030_0010_0020_0050",
+      "role": "Institutional synthesis of the early dynasty and its local political foundations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.1.3:b01",
+      "title": "A throne was not a peaceful inheritance",
+      "paragraphs": [
+        "The decades immediately after Taejo's death expose the contradiction inside his achievement. Marriage diplomacy had linked the founder to prominent families, but it also created children whose relatives could support rival claims. Hyejong succeeded in 943 and died only two years later; Jeongjong followed and ruled to 949. Court historians preserve dramatic accounts of suspicion and plotting, but those stories come through later political narratives with particular explanations of legitimacy. Rather than imagine every prince plotting continuously, we can ask what a succession meant where royal kinship and regional allegiance were deeply entangled. An official might swear to the crown and nevertheless believe that his family's safety depended on one claimant defeating another. A failed contender's supporters could retain local influence even after a palace confrontation ended."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Hyejong succeeded Taejo in 943 and Jeongjong followed amid succession uncertainty in the 940s.",
+          "sourceIndex": 1,
+          "locator": "왕건 즉위 이후 초기 왕위 계승 및 정치적 혼란",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.1.3:b02",
+      "title": "What Wang Gyu's story can and cannot show",
+      "paragraphs": [
+        "The episode traditionally known as Wang Gyu's rebellion is often treated as the central emblem of Hyejong's instability. It is useful evidence that later chroniclers understood the succession as endangered by powerful in-laws and regional factions. But the chronology, motives, and responsibility are filtered by accounts written after the event. A narrative of a court restored to order invites us to accept the winning side's categories of treason and loyalty. The surviving texts reveal political uncertainty more clearly than they reveal every actor's intentions. The historian should neither dismiss the episode nor inflate it into a complete description of politics throughout the country. Palace danger may have been acute while many local communities continued their own work under longstanding authorities."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.1.3:b03",
+      "title": "Jeongjong's northern horizon",
+      "paragraphs": [
+        "Jeongjong's reign carries a particular association with Seogyeong and northern political geography. The willingness to consider the northern city as more than a ceremonial counterpart to Gaegyeong reveals how the monarchy used space to manage legitimacy and strategic anxiety. Court decisions about a second center involved resources, personnel, and the symbolism of Goguryeo inheritance. Even an abandoned plan could affect political alignments. The northern landscape was not an empty buffer: it had settlements, trade routes, and communities with different interests. Later descriptions of royal plans tell us what rulers imagined possible, not exactly how inhabitants experienced every official demand. Succession and geography were related because a dynasty with insecure central relationships could seek new bases of authority."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "V.1.3:b04",
+      "title": "The succession as a problem of institutions",
+      "paragraphs": [
+        "The repeated short reigns made one question unavoidable: could government continue when a ruler died without forcing major houses to gamble their futures? A court office could preserve records and procedure, but an aristocratic coalition might still decide which ruler would be able to occupy it. The distinction between personal following and enduring institution was the unresolved inheritance of the founder. Gwangjong's later interventions addressed this insecurity, though often with punishments and status investigations that provoked new conflicts. The 940s thus should not appear merely as a list of weak kings between famous ones. They reveal how unstable a successful founding settlement could become when it was asked to reproduce itself across generations."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

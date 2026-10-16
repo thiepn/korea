@@ -1,0 +1,130 @@
+{
+  "id": "V.1.1",
+  "title": "Goryeo after 936: The Challenge of Governing a Reunified Realm",
+  "kicker": "EARLY GORYEO · TENTH-CENTURY STATE FORMATION",
+  "description": "Original historical account of governing, reform and society in early Goryeo.",
+  "release": "N",
+  "sourceStatus": "Original editorial synthesis with selected Korean-language primary-text anchors and secondary research; later compilations are distinguished from tenth-century testimony.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "태조 (Taejo of Goryeo)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0059032",
+      "role": "Secondary historical reference; reign dates and royal strategy are contextual, not eyewitness testimony"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 12: 고려 왕조의 성립과 발전",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_012_0030_0010_0020_0050",
+      "role": "Institutional synthesis of the early dynasty and its local political foundations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.1.1:b01",
+      "title": "A victory assembled from incompatible promises",
+      "paragraphs": [
+        "The end of the Later Three Kingdoms wars in 936 gave Wang Geon a celebrated victory, but it did not hand his government a uniform set of institutions. Some places had followed commanders who controlled fortresses and soldiers; others looked to families that managed farmland, ferries, temples, and local ritual life. The same man who pledged allegiance to Goryeo could still expect his followers to honor obligations made before unification. In a war chronicle a rival's submission is an event. In the daily life of the new dynasty, submission was the beginning of a negotiation about office, taxation, policing, land, and prestige. This difference explains why the first generations after 936 matter just as much as the battles that ended the wars. A court could be the acknowledged center of a realm long before it could reliably tell every district how to collect grain or settle a quarrel.",
+        "A map colored with one dynastic name conceals the different rhythms of that bargain. Coastal traders used routes that a land-based commander might barely control; monks and temples maintained networks spanning political boundaries; ordinary cultivators needed a tolerable arrangement with whoever demanded their harvest. Regional authority was not necessarily an obstacle temporarily surviving from a defective past. It was part of the mechanism through which the monarchy initially reached communities it could not administer directly. To call the outcome unification is not wrong, but it risks making a sequence of conditional relationships sound like an instantaneous transfer of power. The question for the new dynasty was whether people would keep obeying a monarch when the memory of military victory no longer settled local disagreements."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Wang Geon ruled as Goryeo Taejo, whose reign ended in 943 and whose unification took effect after the Later Three Kingdoms struggles.",
+          "sourceIndex": 0,
+          "locator": "태조: 생애 및 주요 활동, 918–943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.1.1:b02",
+      "title": "The evidence belongs to later authors too",
+      "paragraphs": [
+        "Much of what we narrate about this founding age comes through texts organized centuries afterward. The *Goryeosa* was compiled under Joseon, and its biographies and royal annals were shaped by the conventions and anxieties of that later world. They preserve indispensable information, but they do not place the historian in a tenth-century council chamber. A later chronicler can date an appointment, summarize a policy, or frame a ruler as virtuous or destructive without recording what workers, displaced families, and local intermediaries made of the change. This is especially consequential for the reigns immediately after Taejo. Their political history is often written from the problem that later historians thought they solved: the replacement of competing power holders by legitimate royal administration. That was not an inevitable development visible to everyone at the time.",
+        "The court's own claim to govern also generated sources that sought to persuade. Foundation narratives praise magnanimity, describe marriages as bridges between houses, and transform contingent choices into exemplary policies. None of these genres should be discarded. Their rhetorical ambitions tell us what kind of obedience rulers wanted, and what images of themselves they expected powerful readers to find convincing. But a passage praising a king's care for his people cannot by itself establish a change in a village's welfare. Nor can a dramatic account of a disloyal lord measure how broadly dissent extended. The most responsible story treats transmitted episodes as evidence with a provenance, then asks which material, institutional, or geographical traces can make an interpretation stronger—or reveal its limits."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.1.1:b03",
+      "title": "Offices did not erase old relationships",
+      "paragraphs": [
+        "The distribution of official titles could turn military comrades into members of a recognizable ranking order. Yet titles were also a language in which a successful regional magnate and the court could affirm a settlement without abandoning all local powers. A rank conveyed honor, access, and expectations; its practical content depended on the court's resources and on the cooperation of people outside the palace. Marriage could be an equally powerful instrument. Alliances linked the royal house to regional families, but they also multiplied claims upon the king and his successors. A royal marriage could create a coalition today and competing succession constituencies tomorrow. Dynastic family life therefore belongs inside the history of state formation, not in a separate romantic chronicle.",
+        "A court seeking revenue faced different questions from one celebrating loyalty. Who knew the location of taxable fields? Who could attest a household's status? Who supplied transport when grain was moved to a storehouse? Who could prevent an armed group from interrupting collection? Such mundane capabilities were distributed among local leaders, clerks, religious houses, and households. Central orders became effective when those intermediaries found it advantageous—or unavoidable—to cooperate. A successful government had to establish procedures that outlasted personal connections without destroying every personal connection on which it depended. This was a balancing act rather than a single reform. The ultimate prominence of a sophisticated bureaucracy should not make its beginnings seem automatic."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "V.1.1:b04",
+      "title": "Farmers and dependents beneath the settlement",
+      "paragraphs": [
+        "From the vantage point of a cultivator, the official narrative of reunification was less important than whether fields could be planted and crops retained. Warfare damaged irrigation, disrupted exchange, and exposed families to seizure or forced movement; peace could offer real relief. Yet the same political stabilization could make taxation more regular and obligations more predictable, not always lighter. A household might welcome an end to raids while resenting a new collector's claim to a share of its crop. People bound in servile statuses faced further uncertainties. Whether someone was regarded as free, attached to an estate, or transferable between powerful patrons affected their work and prospects. Later reform controversies suggest that status was contested, but they do not permit us to reconstruct an exact experience for every family in 936.",
+        "Those without the ability to submit petitions or sponsor inscriptions are least audible in surviving political narratives. Their absence can tempt a writer to invent scenes of marketplace celebration or suffering to make history vivid. The better approach is to make the structural stakes vivid without passing fiction off as testimony. A change in a local master's allegiance might leave a family's immediate employer unchanged; a shift in jurisdiction might suddenly affect marriage, migration, or litigation; the reopening of a road could change prices long before a royal decree reached the village. These possibilities give the foundation an economic and social texture, while remaining explicitly interpretations rather than unattributed documentary facts."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "V.1.1:b05",
+      "title": "Geography was a program of government",
+      "paragraphs": [
+        "The emerging monarchy inherited a peninsula whose routes, mountains, and regional memories could not be made equal by proclamation. Gaegyeong was connected to the founder's own region and became a political capital, while Seogyeong represented ambitions and memories associated with the north and with Goguryeo. Their significance was not merely symbolic. Court travel, supply, military planning, and the circulation of officials depended on paths between centers and surrounding communities. Naming a city a favored political place involved spending labor and resources and asking distant inhabitants to accept the place's special claims. Ritual attention to mountains and temples reinforced the idea that the monarchy's reach had a sacred as well as administrative geography.",
+        "Centrality, however, was uneven. A road usable by officials in one season might be difficult for farmers moving produce at another; maritime traffic followed a different calendar and set of hazards. People near the capital could experience royal authority more frequently than people in a distant valley. Northern strategy affected landholding and garrison demands differently from life in southern agricultural communities. A map of state-building should therefore show routes and distance, not just boundaries. This interpretation connects Goryeo's early settlement to the later history of the examination system, local administration, and frontier defense. Each was another attempt to solve the same basic problem: how far could instructions made at the center become actions elsewhere?"
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "National historical synthesis documents regional strongmen and the late-Silla power networks preceding Goryeo unification.",
+          "sourceIndex": 1,
+          "locator": "Ⅰ. 고려 귀족사회의 형성 > 고려의 건국과 호족",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.1.1:b06",
+      "title": "The king's kindness and the dynasty's coercion",
+      "paragraphs": [
+        "Taejo's remembered willingness to accommodate former rivals is often contrasted with harsh action by some successors. The contrast is useful as a history of political language, but it is too simple as a morality play. Accommodation required the capability to punish defection, and centralization could be presented as justice for people subjected to elite abuses. Later accounts of slave-status investigations show how a policy benefiting some claimants could threaten aristocratic households and thus attract mutually incompatible evaluations. At the same time, royal purges could destroy the very allies whose support had enabled unification. No single scale of gentleness to cruelty captures the institutional dilemmas of rulers trying to maintain supremacy over men with their own regional bases.",
+        "The strongest continuity between Taejo and later rulers may be their shared predicament rather than the similarity of their solutions. Every reign confronted the question of whether loyalty was owed to a sovereign office or to the person who had built a particular relationship. When a reigning monarch died, the difference became acute. The royal family contained multiple possible successors; important groups could read the legitimacy of one prince differently from that of another. The unsettled succession after Taejo is therefore not an interruption of consolidation but one of its first severe tests. The next readings follow the consequences of that test through the court struggles of the 940s, the sharper reforms under Gwangjong, and the quieter work of giving the monarchy repeatable procedures."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "V.1.1:b07",
+      "title": "What a united kingdom meant by 1000",
+      "paragraphs": [
+        "By the beginning of the eleventh century, Goryeo had developed institutions far more legible than the conditional network through which the war had been won. Civil examinations, differentiated official ranks, administrative jurisdictions, and policy arguments framed in learned language gave political competition recognizable forms. They did not end conflict or social hierarchy. A successful petitioner was still dependent on connections; a local official still needed intermediaries; a farmer still experienced government primarily through obligations. But the monarchy could now make claims about legitimate office and the common realm with a consistency that distinguished it from a coalition assembled in wartime.",
+        "This Chapter should be read as an account of consolidation, not the delayed triumph of a prewritten nation-state. The people of Goryeo inhabited a world of dynastic houses, Buddhist patronage, regional ties, and intersecting diplomatic horizons. Later generations could remember this period as the origin of administrative patterns that endured for centuries. They could also reshape its meaning to serve later conflicts. Holding those two facts together—the growth of real governing capacity and the constructed nature of its memory—makes the decade after 936 the beginning of a history, not its conclusion."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "V.1.1:b08",
+      "title": "The monastery as a political landscape",
+      "paragraphs": [
+        "Buddhist establishments deserve a place in the foundation story that does not reduce them to royal ornaments. Their estates, educational activity, commemorations and relationships with donors created enduring networks that an emerging court could neither invent nor simply ignore. A ruler's support for a monastery might be a declaration of piety and a practical decision to attach a respected institution to a new order. For someone living nearby, however, the monastery could be a landlord, employer, source of ritual services or destination for assistance. The same relationship thus carried different meanings according to status and distance from the palace. Later critics of court generosity to religious institutions reveal that the allocation of resources remained contested. Their criticism should be read as political argument, not as evidence that religious patronage had no social uses.",
+        "The new dynasty's inherited religious landscape was also diverse. Local communities and royal families did not necessarily treat ritual as a matter neatly separated from government. Temples could commemorate the dead, mark routes through landscapes, and provide occasions on which elites publicly recognized one another. Such activities help explain why the monarchy could govern through institutions other than salaried officials. But direct claims about an individual monastery's tenth-century income or exact workforce need particular records, not a generic assumption that every monastery was wealthy. The historian is safest when distinguishing the structural capacity of religious institutions from the lived circumstances of each place. This distinction recurs in Choe Seung-ro's later criticism of expensive court-sponsored ceremonies."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "V.1.1:b09",
+      "title": "A founder could not freeze the future",
+      "paragraphs": [
+        "Perhaps the most misleading feature of a triumphant foundation story is the suggestion that its author could foresee the workings of the next century. Taejo's marriage coalitions and regional settlements made sense in the world that produced them. They did not determine whether an anxious successor would privilege one branch of the royal family, whether an adviser would advocate stricter rules, or whether an official would be able to enforce a grant far away. A monarchy's survival required continuous reinterpretation of earlier compromises. Even the meaning of obedience could change: loyalty to the individual king gradually had to coexist with loyalty to a court that claimed permanent authority despite changes of ruler.",
+        "The available evidence is best read with this temporal uncertainty intact. We know some measures through narratives written much later, and we know later consequences with a clarity the actors lacked. An explanation can connect decisions without transforming the connections into intentions. In particular, the creation of a civil examination system in 958 should not be placed on Taejo's imagined checklist from 936. Its institutional logic addressed problems visible in the early settlement, but it emerged amid fresh conflicts and advice. History gains causal depth when it permits people to solve one problem and thereby create another, instead of casting every event as a scheduled stage on the road toward an already defined state."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    }
+  ]
+}

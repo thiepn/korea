@@ -30,6 +30,24 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "V.1.2:b04",
+      "title": "The injunctions as inherited advice and as evidence",
+      "paragraphs": [
+        "The Ten Injunctions associated with Taejo are often read as direct instructions carried faithfully from founder to successor. Their transmission through later historical writing makes that confidence difficult to sustain without qualification. They are also valuable as a record of what later generations believed the foundation ought to teach. Advice about religious institutions, regional considerations and dynastic continuity made the founder an authority invoked in disputes that occurred long after his death. Reading the injunctions alongside the histories of succession and Seogyeong shows why political memory was more than reverence: an argument attributed to Taejo could influence what a later king thought legitimate. This is contextual analysis, not a claim that each surviving formulation can be authenticated word for word to 943."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "V.1.2:b05",
+      "title": "Family policy remained a source of future conflict",
+      "paragraphs": [
+        "A royal marriage might confirm the allegiance of an important house, but it also gave that house an investment in its descendants' future. The foundation's celebrated inclusiveness could therefore become a structural succession difficulty once Taejo's personal prestige was gone. An official recognizing the monarchy might still distinguish sharply between possible heirs. Hyejong's and Jeongjong's brief reigns indicate how uncertain those relationships remained. The story adds a complication to the conventional contrast between an accommodating founder and forceful successors: compromise was indispensable to winning the realm, but every compromise could produce claims that later kings had to manage without the founder's authority."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
     }
   ],
   "release": "C"

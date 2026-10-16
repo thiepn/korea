@@ -1,0 +1,150 @@
+{
+  "id": "V.1.7",
+  "title": "Seongjong, Choe Seung-ro, and the Confucian Reorganization of Government",
+  "kicker": "EARLY GORYEO · TENTH-CENTURY STATE FORMATION",
+  "description": "Original historical account of governing, reform and society in early Goryeo.",
+  "release": "N",
+  "sourceStatus": "Original editorial synthesis with selected Korean-language primary-text anchors and secondary research; later compilations are distinguished from tenth-century testimony.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "시무28조 (Twenty-Eight Proposals)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032358",
+      "role": "Authored scholarly interpretation; 982 submission and survival of 22 provisions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "성종의 12목 설치 — 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_046_0040",
+      "role": "Primary Goryeosa text and commentary on Seongjong establishing twelve mok in 983"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "의창, 상평창, 대비원, 혜민국, 각종 보 — 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_063_0010&tabId=03&treeId=010403&whereStr=",
+      "role": "Primary Goryeosa quotation and commentary on 993 sangpyeongchang provisions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "최승로의 시무28조 — 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_046_0020",
+      "role": "Primary-source transcription and historical introduction; surviving proposals are incomplete"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.1.7:b01",
+      "title": "The memorial arrives in a divided institutional world",
+      "paragraphs": [
+        "When Seongjong invited senior officials to submit assessments of the realm in 982, the act acknowledged a problem deeper than the absence of a good policy. The court had inherited institutions from different reigns, along with memories of reform, violence, and competing claims on the throne. It needed a language in which an adviser could criticize royal practice without seeming to reject the dynasty itself. Choe Seung-ro responded with an extended statement on the previous five rulers and what is traditionally called the Twenty-Eight Proposals. His memorial turned historical appraisal into a program for government. The fact that only twenty-two of the twenty-eight items survive is not a footnote to be waved away. It limits every modern account that pretends to reconstruct the complete program.",
+        "The memorial's political intelligence lay partly in making criticism a form of loyalty. A king who asks what predecessors did well and badly permits a discussion of principles above personal preference. Choe praised parts of the earlier settlement while condemning practices he presented as extravagant or coercive. His criticisms often concern what a government can sustain: excessive court guards, lavish Buddhist ceremonies, neglected local administration, and burdens imposed without proper deliberation. Each topic connected moral language to material resources. Yet Choe was not speaking for an undifferentiated population. He belonged to a scholarly elite and defended forms of official hierarchy from which families like his could benefit. His document is indispensable evidence precisely because its standpoint can be examined."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Choe Seung-ro presented proposals to Seongjong in 982; only 22 of the 28 clauses are extant.",
+          "sourceIndex": 0,
+          "locator": "시무28조: 982년 상서 / 28조 중 22조 전승",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.1.7:b02",
+      "title": "Learning became a governing claim",
+      "paragraphs": [
+        "Confucian learning provided a vocabulary for judging the conduct of rulers, the selection of officials, and the responsibilities of administration. Seongjong's reforms strengthened that vocabulary through educational and bureaucratic measures. It is easy to describe this as the triumph of Confucianism over Buddhism, but the simpler formula misses the coexistence of religious practice and political thought. Buddhist institutions remained deeply established. Choe's complaint frequently concerned the perceived cost or disorder of particular ceremonies rather than every aspect of Buddhist teaching. A ruler could patronize Buddhism and expect officials to master Confucian texts. Different traditions offered overlapping ways to legitimate and discipline political power.",
+        "Education was therefore both an intellectual and a social project. The increased prestige of textual mastery gave some families an incentive to cultivate sons capable of entering official life through examination and appointment. A government relying on trained officials needed rules about rank, personnel, records, and disciplinary review. But it could not instantly supply books and teachers equally throughout the kingdom. The resulting learned elite might identify itself with the court more strongly than with a regional military leader, while still maintaining local property ties. The claimed universality of good government did not make the social route into it universal. Noting that distinction keeps the history of education connected to land and privilege rather than presenting it as disembodied enlightenment."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.1.7:b03",
+      "title": "Twelve centers and the distance between an order and a village",
+      "paragraphs": [
+        "In 983 Seongjong established twelve administrative centers known as *mok* and sent officials to them. The *Goryeosa* text preserved by the National Institute of Korean History records an edict declaring concern for the common people and describing the reliance on provincial officials. The institutional change mattered because it aimed to give the monarchy a more regular presence beyond the capital. Yet twelve centers did not mean that the court immediately staffed and controlled every locality. Administrative presence had depth and distance: an order conveyed to a provincial center still required local officials, transport, language of obligation, and means of enforcement to reach households in its surrounding communities.",
+        "The ideological preface to the edict should be read both as a claim and as evidence about the kind of claim a ruler wanted to make. A concern for suffering subjects was a standard attribute of legitimate kingship, but it could also structure tangible policies. A district receiving an official might gain another place to appeal a dispute; it might also confront more systematic demands for supplies. The existence of a central representative did not dissolve local power. Instead, local families could become brokers through whom the new administration operated. The balance between oversight and dependence shaped the limits of early centralization. Seongjong's achievement was to extend institutional reach, not to end the politics of mediation."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Seongjong established twelve mok in 983 to expand provincial administrative reach.",
+          "sourceIndex": 1,
+          "locator": "고려사 권3, 성종 2년 2월 무자 / 12목 설치",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.1.7:b04",
+      "title": "A region is not a blank space on an administrative map",
+      "paragraphs": [
+        "The monarchy's geography included mountain valleys, agricultural plains, coastal routes, and communities whose leading figures possessed status older than the Goryeo court. The appointment of an external official introduced a new relationship into these places. A governor could become a counterweight to a powerful local family, but could also be drawn into alliance with it. If the court expected a register of households or land, the knowledge required to prepare it often rested with residents and existing scribes. Conflicts over the accuracy of such registers could determine whether subjects bore obligations they regarded as legitimate. Thus an administrative reform reached into social questions—who counted, what counted as property, and who could speak convincingly for a community.",
+        "The larger system cannot be understood only from an official list of offices. In some regions a royal intervention may have been frequent, in others sporadic. Personnel could change while customary obligations persisted. A provincial title might travel farther than the supply chain needed to support its holder. A historian must also distinguish laws announced in one reign from institutional patterns documented more clearly in a later period. Reading an eleventh-century structure backward into 983 risks overstating the reach of Seongjong's administration. The twelve centers are a decisive landmark, but they open the question of practical implementation rather than closing it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "V.1.7:b05",
+      "title": "The debate about China and the meaning of borrowing",
+      "paragraphs": [
+        "Choe Seung-ro argued about which elements of Chinese culture and government should be adopted and how they should be adapted. The court stood within a wider East Asian field of diplomatic, textual, and institutional exchange. Borrowing a term for an office or a model of schools could create new capacities, but no imported blueprint erased local histories. Choe's criticism of earlier indiscriminate borrowing is itself evidence of the tension. He could admire a learned tradition and insist that policy respond to Goryeo circumstances. This was not a choice between cultural isolation and complete imitation. It was an argument about which practices could serve a kingdom with its own political settlement, geographical problems, and religious institutions.",
+        "The terms in which advisers framed that argument were available mainly to literate officials. Artisans, traders, farming households, and servile workers did not produce the surviving memorials in equal numbers. Their interests nonetheless entered the political debate as costs, grievances, labor requirements, and ideals of public welfare. Choe's advice to restrain burdensome ceremonies, for instance, indicates an awareness that royal prestige could extract resources. But it remains an official's account of the burden, not testimony from a household providing labor or grain. Such distinctions matter whenever a reform is celebrated as compassionate. We can identify its stated public purpose without claiming to know uniformly how it felt to those subject to it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "V.1.7:b06",
+      "title": "Buddhism, taxation, and the expenditure of legitimacy",
+      "paragraphs": [
+        "Religious patronage was not merely a private choice by a believing king. Temples and ceremonies brought people, gifts, skilled labor, and networks of prestige into the court's orbit. They could help represent the monarchy as protected by sacred forces. They could also compete with other claims upon wealth and labor. Choe's criticism of lavish practices was therefore a debate about political economy as well as morality. It would be wrong to infer from the memorial that all Buddhist establishments imposed the same burdens or that the adviser meant to dismantle the religion. His proposed distinctions between moral cultivation and government show a selective argument for limiting extravagance while preserving a wider religious landscape.",
+        "A kingdom deciding how to fund court ceremonies, armies, education, and provincial administration must establish priorities, but its records often express those priorities in ethical terms. Calling a practice wasteful is a judgment that depends on what purpose one thinks resources should serve. The reader can reconstruct that judgment's political implications without adopting it automatically. One person might experience a public festival as relief, participation, or religious merit; another might see compulsory contributions. Our sources preserve the argument over expense more directly than these varied experiences. The institutional significance of Seongjong's reign rests partly in creating space for such arguments within a recognizable advisory framework."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "V.1.7:b07",
+      "title": "Grain, crisis, and an expanding public responsibility",
+      "paragraphs": [
+        "Seongjong's later government used granary institutions to articulate a responsibility to respond to price fluctuation and scarcity. A surviving *Goryeosa* passage concerning the *sangpyeongchang* under 993 refers to stores at the capitals and administrative centers, with measures for buying and releasing grain in different conditions. The record should not be mistaken for evidence that every plan functioned consistently or that beneficiaries received relief equally. But its existence places fiscal administration and welfare vocabulary together. The crown wanted to be seen as capable not only of punishing and collecting but also of moderating uncertainty that affected livelihoods.",
+        "The practical questions resemble those raised by the foundation in 936. Who managed the grain? Who measured quality and quantity? Who decided when conditions justified sale or distribution? How could a subject distinguish public provision from private favoritism? An official system of stores required many people beyond the ruler who authorized it. The country had not become a modern welfare state; nor was the ideal of protection mere ornament. The granary policy illustrates how an increasingly structured monarchy could turn moral claims into administrative procedures, while leaving implementation contingent on the social relationships and resources of each district."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "V.1.7:b08",
+      "title": "Consolidation without a final settlement",
+      "paragraphs": [
+        "Seongjong's reign is often given a clear place in an arc from founder's coalition through violent centralization to Confucian bureaucracy. That outline can help orient a reader, but no single reign completed the transformation. Local elites persisted; royal kin continued to matter; Buddhist institutions remained influential; succession and frontier affairs could still destabilize government. An examination certificate did not cancel patronage, and a provincial office did not remove the need for cooperation from people already influential there. Later changes under Mokjong, Hyeonjong, and still later rulers modified arrangements established during these early decades. The state was a continuing negotiation made more durable by records, schools, offices, and rules.",
+        "The Chapter's deeper story is the construction of public authority out of rival sources of legitimacy. Taejo had to gather those sources into a winning political center; Gwangjong attempted to discipline them with sharp interventions; Seongjong enlarged the administrative and intellectual vocabulary in which they could be negotiated. Choe Seung-ro's memorial survives as a remarkable witness to that process. It shows an adviser who could turn a dynasty's imperfect past into an argument about its possible future. The archive also obliges us to remember what he could not tell us. A well-organized state was not identical to a well-documented society, and the people least visible in its documents were often those bearing the most immediate costs."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8,
+      "evidence": [
+        {
+          "claim": "The record of Seongjong’s 993 granary policy specifies stores at the two capitals and provincial centers.",
+          "sourceIndex": 2,
+          "locator": "고려사 권80, 식화지 상평의창 성종 12년 2월",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.1.7:b09",
+      "title": "The archive's missing administrators",
+      "paragraphs": [
+        "Written reform programs can make government look like a conversation between kings and gifted advisers. Yet even the most thoughtful memorial depended upon people able to carry papers, keep accounts, resolve local disputes and distribute grain. Some worked as official clerks; others possessed skills within households or religious institutions whose contributions were not recorded as formal policy. Their expertise affected whether a plan succeeded. A tax assessment needed reliable knowledge of land and harvest; a granary needed supervision against loss; a school needed teachers and materials. The intellectual center could formulate standards, but administration acquired meaning through this less visible work. Our ability to name the advisers should not become a reason to treat everyone else as background scenery.",
+        "The surviving documents also privilege moments of announcement. A decree beginning an institution may survive while reports of its uneven daily operation do not. Where later chronicles praise an achievement, a historian should ask whether subsequent revisions suggest that the first arrangement was incomplete. Conversely, a contemporary complaint does not prove that all subjects rejected a measure. The careful use of written records therefore demands attention to time and genre: proclamation, memorial, institutional regulation and later moral judgment answer different questions. The expansion of administrative writing is itself historical evidence, but it is not the same as the expansion of our access to ordinary voices. This distinction makes Seongjong's reign more human: its policies were made in dialogue between a court that imagined an orderly realm and the people whose labor had to sustain the imagined order."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    }
+  ]
+}

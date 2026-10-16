@@ -1,0 +1,154 @@
+{
+  "id": "V.1.4",
+  "title": "Gwangjong: Emancipation, Purges, and the Strengthening of Royal Authority",
+  "kicker": "EARLY GORYEO · TENTH-CENTURY STATE FORMATION",
+  "description": "Original historical account of governing, reform and society in early Goryeo.",
+  "release": "N",
+  "sourceStatus": "Original editorial synthesis with selected Korean-language primary-text anchors and secondary research; later compilations are distinguished from tenth-century testimony.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "우리역사넷: 광종의 노비안검법과 고려사 사료",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_i200500",
+      "role": "Primary text excerpts and analysis; differentiates queen-biography portrayal and later criticism"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "최승로의 시무28조 — 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_046_0020",
+      "role": "Primary-source transcription and historical introduction; surviving proposals are incomplete"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "시무28조 (Twenty-Eight Proposals)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032358",
+      "role": "Authored scholarly interpretation; 982 submission and survival of 22 provisions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.1.4:b01",
+      "title": "Emancipation as a royal political act",
+      "paragraphs": [
+        "A record about Gwangjong's inspection of slave status in 956 can be read as a confrontation between royal authority and a society in which powerful households claimed labor from dependent people. It was also a confrontation over who could define a person's lawful status. The basic principle was that people held as slaves without sufficient justification might have their status examined, and some could be restored to freedom. That proposition mattered beyond the individuals directly involved. A local magnate's ability to identify someone as his dependent was a source of economic power, and the monarchy's assertion that it could review the claim was a challenge to the authority that supported it. Reform therefore altered the rules of evidence and appeal as well as labor relations.",
+        "The National Institute of Korean History draws attention to the way later sources frame the measure. One account appears in the biography of Gwangjong's queen in the *Goryeosa*, where resistance to the investigations is prominent. Choe Seung-ro's subsequent criticism offers a second, interested evaluation. These texts do not constitute a neutral roll of all the people who benefited or suffered. They reveal that the measure remained politically contentious. A release from wrongful bondage, if granted, could mean a profound transformation for a person and family; a protesting slaveholder could frame the same intervention as a dangerous disruption of established order. A narrative that simply labels the law humane or tyrannical ignores the collision of authority and interests preserved in the sources."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Gwangjong ordered a review of servile status in 956, described in the later Goryeosa biography of Queen Daemok.",
+          "sourceIndex": 0,
+          "locator": "고려사 대목왕후 열전, 광종 7년 노비안검 조치",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.1.4:b02",
+      "title": "The boundary between household and palace",
+      "paragraphs": [
+        "A dynasty depended upon access to service, resources, and people whose loyalty it could command. Rival elite houses also maintained dependents, soldiers, and retainers. The state could not monopolize power while influential families continued to exercise every form of independent control that had made them strong in the Later Three Kingdoms era. Gwangjong's program is best understood against that competition. Reforming statuses might reduce some private holdings and potentially expand the pool of households more directly legible to government. Yet modern claims that the measure straightforwardly filled a royal tax register should be treated cautiously unless supported by particular evidence. Changing a status in principle did not automatically deliver collection capacity on the ground.",
+        "For a dependent worker the dispute was not abstract. A successful petition could affect whether one could form a legally recognized household, inherit, move, or owe work to a former master. But someone facing an established patron may also have feared retaliation, delays, or the inability to sustain life once separated from a household's resources. A royal promise would only be meaningful if a claimant could reach officials empowered to act. Our sources rarely describe such proceedings from the individual's own perspective. The historian should neither reduce enslaved people to passive symbols of a monarch's virtue nor invent testimony to fill the silence. The silence itself tells us how unequal the surviving archive is."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.1.4:b03",
+      "title": "Examination papers and a new public language",
+      "paragraphs": [
+        "Gwangjong is also associated with introducing civil service examinations in 958. Examinations created a formal route into public office based on demonstrated mastery of literary and administrative learning, while remaining embedded in social hierarchies that shaped access to education. The surviving record connects the initiative with the advice of Ssang Gi, a scholar from the Later Zhou world. Its significance was not that the state suddenly abolished patronage. Rather, the court gained a mechanism for naming competence in terms other than kinship or service in war. A candidate's answers could be ranked, recorded, and incorporated into a scheme of official legitimacy. This altered what successful families encouraged their sons to learn.",
+        "The examination also changed what the monarchy could claim about itself. A king selecting trained officials could present government as ordered by norms of cultivation and service rather than the permanent ownership of positions by founding families. But the people who could prepare for such examinations required books, teachers, time, and support. New official careers could therefore strengthen certain elites while excluding others. The system's beginnings belong to the same story as slave-status inspections: both tested the extent to which royal rules could override obligations and classifications controlled privately. The two measures addressed different domains, and one should not force them into an overly tidy master plan. Their common political logic is nevertheless hard to miss."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "V.1.4:b04",
+      "title": "Ceremony, titles, and the performance of hierarchy",
+      "paragraphs": [
+        "Gwangjong's government is also remembered for changing official dress and using an imperial style of authority, including reign names. These acts are sometimes dismissed as theatrical additions to more material reforms. Yet display is one way governments make hierarchy publicly intelligible. Costume can tell a visitor whom to approach first, who may sit where, and whose word carries official force. A reign name marks time according to the monarch's authority; it places the court within a diplomatic world of competing claims to universal or regional precedence. A ruler who changes ranks and visual distinctions is attempting to make power legible in encounters that occur far beyond the throne room.",
+        "The same symbols could provoke resentment when they placed old allies beneath new appointees. Distinctions that seem routine after generations of repetition might be politically radical when first adopted. Court ritual also consumed resources; ceremonies required labor and patronage. Buddhist institutions could help sanctify the ruler while drawing criticism from officials anxious about excess. Choe Seung-ro's later memorials attacked extravagance and moral disorder in ways shaped by his own commitments, not by impartial budget analysis. This illustrates a recurring problem in the Chapter: the best surviving witnesses to royal programs often belonged to factions whose political fortunes depended upon the verdict."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "The civil service examination system began in Gwangjong’s reign and is part of the later debate about official selection.",
+          "sourceIndex": 2,
+          "locator": "시무28조: 오조정적평과 광종대 제도 변천",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.1.4:b05",
+      "title": "Purges and the fragility of reform",
+      "paragraphs": [
+        "The late Gwangjong reign was marked by accusations, punishments, and the destruction or intimidation of important figures. A purely institutional history might celebrate a king who weakened independent magnates, but such a view can flatten the personal cost and political fear involved. Elites who had accepted Taejo's settlement could see relatives endangered. A court dependent on accusations could lose the trust required for straightforward advice. Victims' families might transmit stories in which royal reform became inseparable from persecution. Modern readers should avoid treating every accusation as proof of a genuine conspiracy, yet should also recognize that a king surrounded by ambitious families faced real risks. Historical explanation need not legitimize the violence it explains.",
+        "Political purges also affected the quality of information flowing to the throne. Officials speak differently when criticism can be construed as disloyalty. This matters when interpreting the sources we have: an absence of recorded protest may indicate fear, censoring, or missing records, not enthusiasm. Gwangjong's successor inherited an administration whose institutions were stronger in some respects and whose relationships could be badly strained. The consolidation of a monarchy depends on both enforcing decisions and persuading influential people that predictable rules will protect them. What Gwangjong accomplished in the first capacity may have compromised the second. Later reforms tried to rebuild authority through regular institutions and learned advice."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "V.1.4:b06",
+      "title": "Gwangjong in the judgment of later scholars",
+      "paragraphs": [
+        "In 982, Choe Seung-ro sent Seongjong a memorial containing evaluations of five earlier kings and proposals for government. Gwangjong figured prominently as both a figure of strength and a warning. Such an assessment is not a simple contemporaneous report on 956 or 958. It is an intervention written after the reign, by an adviser attempting to guide a new monarch. The memorial's preservation allows a valuable comparison between policies and the arguments they later generated. But the comparison should resist collapsing into the adviser's verdict. Choe had reasons to favor stable elite administration, restrained patronage, and the moral language of Confucian government. His critique shows a vision of a well-ordered court, not an all-seeing view of earlier subjects' experiences.",
+        "The documentary chain extends still further: the *Goryeosa* that preserved such material was compiled centuries afterward. Its organization under biographies, annals, and institutional treatises can place the same policy in different moral frames. The placement of the 956 inspection in the queen's biography is an example. A researcher must ask why this account was located there, what narrative the compiler associated with the queen's protest, and what independent corroboration exists. A political history constructed from such texts can be compelling without concealing the mediation of its evidence. In fact, attention to the evidence often makes the historical conflict more vivid."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "V.1.4:b07",
+      "title": "Freedom, force, and enduring institutions",
+      "paragraphs": [
+        "Gwangjong's reign illustrates why the early Goryeo state cannot be described as moving smoothly from regional autonomy to rational bureaucracy. An examination could create new official aspirations, but not equal educational opportunity; an investigation could release some people from improper enslavement, but not make the society free; rank distinctions could regularize court life, but not remove factional conflict. Royal violence could break resistance while leaving memories of injustice that weakened the monarchy after the king died. These contradictions are not small exceptions to a successful reform program. They define the difficulty of trying to make a powerful central government out of institutions and relationships developed under fragmented rule.",
+        "The next stage under Gyeongjong and Seongjong was therefore not simply a continuation of Gwangjong's will. It involved choices about land assignments, the standing of old families, the role of learned officials, and the relationship between Buddhist devotion and Confucian administrative language. A society can inherit a reform and reject its author, keep its institutions while criticizing its methods, or reinterpret its motives in later political battles. Gwangjong's government is a useful test of that distinction. It demands that we read achievements and injuries together and refuse the reassurance of an uncomplicated hero or villain."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "V.1.4:b08",
+      "title": "A policy seen from opposite sides of a household dispute",
+      "paragraphs": [
+        "Imagine the kind of disagreement a status inquiry had to confront, without pretending to reproduce a case whose file has not survived. One side could invoke a long-standing dependency and support from people who recognized it; the other could argue that bondage had been imposed wrongfully during disorder. The official charged with reviewing the claim would need credible testimony or written evidence, yet the availability of each might depend on the power of the people involved. This is a structural inference from the nature of the policy, not a reconstructed trial. It reveals why the royal command alone could not guarantee an equitable outcome. The capacity to classify people required institutions able to hear, record and enforce decisions against resistance.",
+        "Even the language of reform could diverge from the realities it created. A former dependent might gain a formal recognition of freedom while facing unfamiliar obligations to the state or the practical challenge of maintaining an independent livelihood. A master who lost a labor claim could interpret the decision as a personal injury to household authority. The queen's objection, as transmitted by later compilers, reminds us that elites could speak from within the palace against the king's initiative. But the transmitted drama of royal disagreement should not displace the less visible claims of people whose status was actually at stake. An account of emancipation without their constrained agency would repeat the archive's preference for the powerful."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8,
+      "evidence": [
+        {
+          "claim": "Choe Seung-ro submitted an assessment of earlier rulers and political proposals to Seongjong in 982.",
+          "sourceIndex": 1,
+          "locator": "최승로 시무28조, 오조치적평과 현전 조항",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.1.4:b09",
+      "title": "Why institutional gains did not cancel political costs",
+      "paragraphs": [
+        "Historians sometimes measure a ruler by whether policies survived the ruler's death. That criterion is useful but incomplete. An examination system can be retained even if its founder's purges become a warning; a slave-status investigation can leave memories of released people and of powerful households threatened by the same law. Public institutions are not moral accounting devices that automatically offset deaths, fear, or dislocation. Gwangjong's choices also affected the legitimacy of later rulers who claimed to restore order after him. They could inherit titles and recruitment practices while emphasizing restraint, counsel and consensus as correctives to earlier methods.",
+        "The afterlife of reform shows that institutional continuity can coexist with sharp disagreement about a reign's character. Choe Seung-ro had to engage with Gwangjong because the king mattered to the political system he hoped Seongjong would govern. The memorial's power derives in part from that tension: it could recognize useful capacities and condemn excess without advocating a simple return to the founding coalition. Reading the reign as a single triumph of centralization erases those contested inheritances. Reading it only as persecution ignores genuine institutional innovation. The contradictory record is not a problem to be smoothed away; it is the substance of the period's political history."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "V.1.4:b10",
+      "title": "The archive's missing administrators",
+      "paragraphs": [
+        "Written reform programs can make government look like a conversation between kings and brilliant advisers. Yet even the most thoughtful memorial depended upon people able to carry papers, keep accounts, resolve local disputes and distribute grain. Some worked as official clerks; others possessed skills within households or religious institutions whose contributions were not recorded as formal policy. Their expertise affected whether a plan succeeded. A tax assessment needed reliable knowledge of land and harvest; a granary needed supervision against loss; a school needed teachers and materials. The intellectual center could formulate standards, but administration acquired meaning through this less visible work. Our ability to name the advisers should not become a reason to treat everyone else as background scenery.",
+        "The surviving documents also privilege moments of announcement. A decree beginning an institution may survive while reports of its uneven daily operation do not. Where later chronicles praise an achievement, a historian should ask whether subsequent revisions suggest that the first arrangement was incomplete. Conversely, a contemporary complaint does not prove that all subjects rejected a measure. The careful use of written records therefore demands attention to time and genre: proclamation, memorial, institutional regulation and later moral judgment answer different questions. The expansion of administrative writing is itself historical evidence, but it is not the same as the expansion of our access to ordinary voices."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    }
+  ]
+}

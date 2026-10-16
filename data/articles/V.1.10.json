@@ -1,0 +1,74 @@
+{
+  "id": "V.1.10",
+  "title": "Consolidating the Goryeo Dynasty at the Turn of the Eleventh Century",
+  "kicker": "EARLY GORYEO · TENTH-CENTURY STATE FORMATION",
+  "description": "Original historical account of governing, reform and society in early Goryeo.",
+  "release": "N",
+  "sourceStatus": "Original editorial synthesis with selected Korean-language primary-text anchors and secondary research; later compilations are distinguished from tenth-century testimony.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "성종의 12목 설치 — 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_046_0040",
+      "role": "Primary Goryeosa text and commentary on Seongjong establishing twelve mok in 983"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "의창, 상평창, 대비원, 혜민국, 각종 보 — 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_063_0010&tabId=03&treeId=010403&whereStr=",
+      "role": "Primary Goryeosa quotation and commentary on 993 sangpyeongchang provisions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "전시과 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0049507",
+      "role": "Specialist scholarly article on initial land-revenue allotments in 976 and later revisions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.1.10:b01",
+      "title": "The turn of the century was not the end of reform",
+      "paragraphs": [
+        "By about 1000, Goryeo had outlasted the leaders who assembled its first coalition. The dynasty possessed examinations, more regular categories of appointment, and a language of government articulated by advisers such as Choe Seung-ro. Seongjong's officials could claim responsibilities in selected regional centers, while institutional records specified ranks and obligations more precisely than the founding generation had been able to do. These developments changed the quality of royal government, but not every locality was administered directly or equally. Families long prominent outside Gaegyeong remained influential. A state's ability to issue an order could still exceed its ability to ensure the order was obeyed."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "V.1.10:b02",
+      "title": "A realm located among other powers",
+      "paragraphs": [
+        "The northern frontier and the political world of the Khitan Liao made consolidation a problem of diplomacy and defense as well as internal administration. The existence of an organized court mattered when it needed to negotiate, communicate, and mobilize resources under external pressure. But foreign relations did not belong only to rulers and armies. Merchants, border communities, interpreters and people displaced by insecurity inhabited the regions affected by conflict. Later diplomatic successes and crises should not be projected backward as if officials in 936 knew what would follow. The closing decade of the tenth century appears clearer to us precisely because subsequent events gave its institutional changes long consequences."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "The 993 sangpyeongchang edict describes a grain stabilization scheme and its allocation across selected centers.",
+          "sourceIndex": 1,
+          "locator": "고려사 권80, 성종 12년 2월 상평창",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.1.10:b03",
+      "title": "Revenue, relief and legitimacy",
+      "paragraphs": [
+        "A dynasty that had developed rules for officials and land revenues also faced obligations to subjects confronting poor harvests and price changes. Seongjong's *sangpyeongchang* measures in 993 connected the regulation of grain stores with a royal claim to protect vulnerable populations. Whether every measure worked as intended is a separate question. The point is that the monarchy described public responsibility in forms that required specialized administration, local supervision and financial resources. Policy thus linked the grand problems of legitimacy to mundane questions about storage, accounting and distribution. Court historians recorded those declarations because they illustrated appropriate rulership; historians today must also ask how their practical consequences could be verified."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "V.1.10:b04",
+      "title": "What this century left unresolved",
+      "paragraphs": [
+        "The early monarchy had converted much wartime loyalty into more durable institutions. Yet its examination system still operated amid unequal learning opportunities; its fiscal rights depended on real producers; its provincial reach depended on regional intermediaries; and its memorials conveyed the priorities of those permitted to write them. Military and succession emergencies would continue to test this system. Later reforms of the land-allocation rules show that the first regulations could not settle every competition for scarce revenue. Consolidation was therefore provisional, though substantial. The foundation had not become a modern state, but it had built capacities through which later Goryeo rulers could govern and be challenged. Reading the next Chapters with this provisional quality in view prevents institutional history from becoming an inevitable march toward centralized power."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

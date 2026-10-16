@@ -16,6 +16,7 @@
     "test:h": "python3 tests/batch_h_pipeline.py && python3 tests/batch_h_journeys.py",
     "test:i": "python3 tests/batch_i_pipeline.py && python3 tests/batch_i_journeys.py",
     "test:k": "python3 tests/batch_k_pipeline.py && python3 tests/batch_k_journeys.py",
-    "test:l": "python3 tests/batch_l_pipeline.py && python3 tests/batch_l_journeys.py"
+    "test:l": "python3 tests/batch_l_pipeline.py && python3 tests/batch_l_journeys.py",
+    "test:n": "python3 tests/batch_n_pipeline.py && python3 tests/batch_n_journeys.py"
   }
 }
