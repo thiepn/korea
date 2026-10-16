@@ -24,6 +24,7 @@ collections=[
  ('baekje-river-maritime-complete','Baekje: the complete river and maritime kingdom','Ten connected studies follow the Han basin court, international exchange, the 475 catastrophe, Ungjin recovery, Sabi culture, and the fall of 660.','Ten connected readings',[f'III.2.{i}' for i in range(1,11)]),
  ('silla-everyday-life-complete','Silla: everyday lives and unequal opportunities','Ten connected studies of households, fields, craft, trade, cities, health and leisure beyond the royal court.','Ten connected readings',[f'IV.3.{i}' for i in range(1,11)]),
  ('gojoseon-evidence-and-memory-complete','Gojoseon: archaeological evidence and historical memory','Ten connected studies compare Bronze Age evidence, transmitted Joseon–Yan encounters, contested origin traditions and later uses of antiquity.','Ten connected readings',[f'II.1.{i}' for i in range(1,11)]),
+ ('opening-korea-treaty-ports-complete','Opening Korea: the full treaty-port Chapter','Ten connected histories of commerce, jurisdiction, Qing and Japanese diplomacy, technical learning, ideas, and the 1882 United States treaty.','Ten connected readings',[f'VIII.1.{i}' for i in range(1,11)]),
  ('ideas-and-expression','Ideas and expression','Foundation stories, learning, writing, reform, and cultural influence.','Cultural history',['II.1.2','IV.2.2','V.1.5','VI.4.2','VIII.1.5','X.5.10']),
 ]
 trails=[]

@@ -1,0 +1,83 @@
+{
+  "id": "VIII.1.10",
+  "title": "The Early Social, Economic, and Cultural Consequences of Opening",
+  "kicker": "THE TREATY-PORT WORLD · LATE JOSEON",
+  "description": "An original historical account of changing law, commerce, diplomacy, technical learning, and daily life after the opening.",
+  "release": "L",
+  "sourceStatus": "Selective primary-text and institutional contextual annotations; historical synthesis has not been independently reviewed claim by claim.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "한국문화사 26 — 개항과 쌀 수출",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_026_0060_0010_0010_0010",
+      "role": "Source-backed history of 1876 scarcity, Busan grain exports, Wonsan and Incheon opening dates"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "한국문화사 26 — 쌀 수출의 증가와 유통권",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_026_0060_0010_0010_0020",
+      "role": "Documented regional grain circuits and changing internal distribution before and after 1876"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "통상사 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0059338",
+      "role": "Opening-period office handling foreign commerce and the changes after 1882"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.1.10:b01",
+      "title": "Opening first arrived unevenly",
+      "paragraphs": [
+        "The consequences of opening were not delivered to the entire peninsula in one uniform package. A family near Busan could encounter imported goods, foreign residents, and new employment opportunities before a household far from the coast saw any direct change. Officials in the capital might spend their days studying treaties while a grain-producing district felt the effects through altered prices and transport routes. Social historians need to hold those differences together. Korea was not a society without exchange or outside knowledge before 1876, and the new treaties did not create modern everyday life overnight. What they changed were particular constraints and opportunities: the jurisdiction of certain foreigners, the destinations of some commercial shipments, the information available to officials, and the terms on which new kinds of institutions could be debated."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VIII.1.10:b02",
+      "title": "The grain trade changed local horizons",
+      "paragraphs": [
+        "New export demand could connect a provincial crop to a distant market and alter the expectations of merchants, landlords, tenants, and consumers. The actual consequences depended on harvest conditions, bargaining position, debt, and the ability to transport produce. Increased trade might provide cash to some sellers while raising costs for households that had to buy their food. This is not a contradiction to be eliminated with a national average. It is a feature of a system in which participants occupied unequal economic positions. In coastal and inland distribution networks, merchants had long coordinated movement of goods; opening could shift which routes mattered and who captured the margin between farm and port. Treating every farmer as a victim or every entrepreneur as a beneficiary would erase the variation that sources invite us to investigate."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Rice export routes redirected southern Korean grain toward Busan and Japan after opening.",
+          "sourceIndex": 1,
+          "locator": "쌀 수출의 증가와 유통권, market distribution section",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.10:b03",
+      "title": "New knowledge came through ordinary encounters",
+      "paragraphs": [
+        "Language learning, translation, travel, and the circulation of books made foreign institutions more visible. Some knowledge arrived through official delegations; other information spread through ports and private conversation. The difference mattered. A court memorandum was designed to advise policy, whereas a merchant's experience might concern prices, timetables, or payment. Neither provided a complete account of the foreign society being encountered. Koreans interpreted what they learned through existing intellectual traditions and practical needs. A report on military manufacturing could lead to questions about training and schools, while imported textiles could prompt changes in purchasing decisions without a public debate about modernity. This gradual mixture of deliberate reform and unplanned adaptation gives social history its particular texture."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VIII.1.10:b04",
+      "title": "Everyday benefits and unequal burdens",
+      "paragraphs": [
+        "The language of modernization often foregrounds technologies and institutions that later historians consider successful. A history of opening should also ask who gained access to them and under what terms. A merchant with capital, language contacts, and transport resources might find opportunities that were unavailable to a small-scale carrier. New goods could create pleasure or convenience while increasing pressure on traditional producers. Consular jurisdiction provided legal advantages to some foreigners; Korean residents navigated the resulting order with much less leverage. The evidence is rarely rich enough to calculate the distribution of benefits precisely for each group. We can still recognize that the gains and costs were not the same for everyone. An archive dominated by officials and foreign traders requires active caution when describing the perspectives of less documented residents."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VIII.1.10:b05",
+      "title": "A transition without one inevitable destination",
+      "paragraphs": [
+        "Looking backward from colonial annexation can turn the first years of opening into a story in which every road was already leading to the same outcome. This denies the uncertainty under which people acted. Korean officials debated revision, alternative relationships, and institutional reform; merchants negotiated within new constraints; scholars argued about morality and survival; communities adapted at different speeds. These choices did not remove the inequalities of the treaty order, but they were real choices nonetheless. The opening years created new patterns of commerce and knowledge while intensifying disputes about sovereignty, taxation, and authority. Their legacy should be explained through the decisions and institutions of the period, not through an imagined certainty about what later decades would bring. The most revealing question is how ordinary and official life changed as the future remained unsettled."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    }
+  ]
+}

@@ -427,6 +427,70 @@
       "detail": "Foreign relations, commercial openings and questions of sovereignty move to the foreground."
     },
     {
+      "year": 1876,
+      "id": "VIII.1.3",
+      "era": "VIII",
+      "date": "1876–1882",
+      "title": "Foreign merchants encounter a changing jurisdiction",
+      "detail": "Extraterritorial rules and new commercial settlement arrangements altered how disputes could be heard, creating uneven legal protection around early treaty ports."
+    },
+    {
+      "year": 1876,
+      "id": "VIII.1.4",
+      "era": "VIII",
+      "date": "1876 onward",
+      "title": "Trade routes begin to shift toward external buyers",
+      "detail": "After the first commercial arrangements, Korean grain routes increasingly connected inland suppliers with foreign vessels, amid harvest uncertainty and tariff controversy."
+    },
+    {
+      "year": 1880,
+      "id": "VIII.1.2",
+      "era": "VIII",
+      "date": "1880",
+      "title": "Wonsan joins the treaty-port network",
+      "detail": "Wonsan opened in 1880 after Busan had begun its new phase of foreign trade, drawing local transporters and merchants into an unevenly regulated coastal economy."
+    },
+    {
+      "year": 1880,
+      "id": "VIII.1.7",
+      "era": "VIII",
+      "date": "1880–1881",
+      "title": "Joseon chaekryak provokes a strategic controversy",
+      "detail": "Kim Hong-jip brought Huang Zunxian’s policy text to court after his 1880 Japan mission; its proposals prompted disagreement over opening, alliances and state legitimacy."
+    },
+    {
+      "year": 1880,
+      "id": "VIII.1.8",
+      "era": "VIII",
+      "date": "1880–1882",
+      "title": "Qing mediation shapes Korea’s new diplomatic choices",
+      "detail": "Qing China, Japan, and the prospect of links with the United States figured in Joseon debates about external pressure, administrative reform and political autonomy."
+    },
+    {
+      "year": 1881,
+      "id": "VIII.1.6",
+      "era": "VIII",
+      "date": "1881",
+      "title": "Yeongseonsa learners depart for Qing technical training",
+      "detail": "Kim Yun-sik led trainees toward Tianjin arsenals and discussions with Qing officials, combining military technology education and wider diplomatic consultation."
+    },
+    {
+      "year": 1882,
+      "id": "VIII.1.9",
+      "era": "VIII",
+      "date": "22 May 1882",
+      "title": "Joseon and the United States sign a treaty",
+      "detail": "At Jemulpo, Korean and American plenipotentiaries signed an agreement combining friendship clauses, consular arrangements and commercial provisions."
+    },
+    {
+      "year": 1882,
+      "id": "VIII.1.10",
+      "era": "VIII",
+      "date": "1876–1882",
+      "title": "Early opening changes local economies and knowledge",
+      "detail": "Across port towns and inland networks, new patterns of grain trade, technical education, foreign residence and official authority affected communities unevenly."
+    },
+    {
       "date": "1894–1896",
       "year": 1894,
       "era": "VIII",
@@ -1063,6 +1127,86 @@
       "from": "I.4.2",
       "to": "II.1.1",
       "why": "The transition from chiefdom models to identifiable states shows why one named kingdom cannot be projected onto every earlier settlement."
+    },
+    {
+      "from": "VIII.1.1",
+      "to": "VIII.1.3",
+      "why": "The treaty’s legal provisions acquire practical meaning in the unequal judicial rules governing Japanese merchants and their disputes with Korean traders."
+    },
+    {
+      "from": "VIII.1.2",
+      "to": "VIII.1.4",
+      "why": "Coastal ports and inland grain routes form one economic system: shipping changes alter what wholesalers and producers can sell and where."
+    },
+    {
+      "from": "VIII.1.3",
+      "to": "VIII.1.9",
+      "why": "Comparing treaty-based legal privileges in the Japanese port regime and the later American agreement clarifies why particular clauses matter."
+    },
+    {
+      "from": "VIII.1.4",
+      "to": "IV.3.7",
+      "why": "Early treaty-port commerce can be compared with Silla markets to show continuity in Korean brokerage and differences in foreign legal structures."
+    },
+    {
+      "from": "VIII.1.5",
+      "to": "VIII.1.7",
+      "why": "Reports gathered in Meiji Japan entered Korean debates about reform, including which foreign practices could be learned without political dependence."
+    },
+    {
+      "from": "VIII.1.6",
+      "to": "VIII.1.9",
+      "why": "The Tianjin mission combined military-technical training with consultations relevant to the diplomatic route toward the 1882 United States treaty."
+    },
+    {
+      "from": "VIII.1.7",
+      "to": "VI.4.3",
+      "why": "Arguments over translation and institutional learning echo earlier choices about language, authority and the politics of writing in Joseon."
+    },
+    {
+      "from": "VIII.1.8",
+      "to": "VIII.1.9",
+      "why": "The American treaty followed a wider debate about balancing neighboring powers and the limits of assurances made in an unequal strategic setting."
+    },
+    {
+      "from": "VIII.1.10",
+      "to": "VII.6.5",
+      "why": "To understand opening-era trade, compare earlier Joseon market institutions and the changing pressures placed on local producers and carriers."
+    },
+    {
+      "from": "VIII.1.3",
+      "to": "IX.1.6",
+      "why": "Different foreign jurisdictions and later occupation administration can be compared without assuming they were legally identical systems."
+    },
+    {
+      "from": "VIII.1.4",
+      "to": "X.2.4",
+      "why": "Economic adjustment in treaty-port households offers a longer perspective on how external markets reshape work and distribute risks unevenly."
+    },
+    {
+      "from": "VIII.1.6",
+      "to": "IV.3.6",
+      "why": "Technical artisans in the Tianjin mission provide a contrast with earlier specialized craft labor and the changing social value of practical knowledge."
+    },
+    {
+      "from": "VIII.1.7",
+      "to": "VIII.9.2",
+      "why": "The disagreements over opening form a necessary earlier context for the later variety of nationalist and reformist programs under colonial pressure."
+    },
+    {
+      "from": "VIII.1.9",
+      "to": "IX.1.10",
+      "why": "Hopes attached to foreign friendship clauses can be read beside the much later limits of external support during Korea’s division and diplomacy."
+    },
+    {
+      "from": "VIII.1.10",
+      "to": "X.3.1",
+      "why": "The uneven household effects of economic opening invite comparison with later debates about education, social opportunity and economic inequality."
+    },
+    {
+      "from": "VIII.1.2",
+      "to": "III.2.2",
+      "why": "Comparing Baekje maritime exchange with nineteenth-century treaty ports shows that foreign contact predates the treaty system by many centuries."
     }
   ]
 }
