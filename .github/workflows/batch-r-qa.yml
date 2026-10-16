@@ -1,4 +1,4 @@
-name: Batch R — Neolithic and South Korean Society QA
+name: Batch R — Balhae and Donghak-Gabo Historical Corpus QA
 on:
   push:
     branches:
