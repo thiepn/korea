@@ -1,0 +1,118 @@
+{
+  "id": "IV.5.6",
+  "title": "Capitals, Provinces, Roads, and Territorial Administration",
+  "kicker": "BALHAE · STATE AND TERRITORY",
+  "description": "Evidence-grounded history of capitals, provinces, roads, and territorial administration, separating transmitted institutions from excavated practice.",
+  "release": "R",
+  "sourceStatus": "Original editorial synthesis using Korean historical reference works and material culture, selective contextual citations",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Capital Relocations",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i101000",
+      "role": "Cross-checks capital sequences and the 793 succession uncertainty"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae (발해)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Historical texts and disputed dates of provincial system consolidation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Local Administrative Institutions (지방행정제도)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054208",
+      "role": "Five capitals, fifteen prefectures and sixty-two reported subprefectures"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Balhae Kingdom gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201031000.do?showHallId=760&showroomCode=DM0010",
+      "role": "Physical capital sites and archaeological displays"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae writings and calligraphy",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_037_0030_0030_0020",
+      "role": "Material and epigraphic evidence of a multilingual and Tang-connected elite"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.5.6:b01",
+      "title": "Five capitals are not five equal governments",
+      "paragraphs": [
+        "Historical accounts describe Balhae's network of five capitals, fifteen prefectures and sixty-two subprefectures or provinces in forms derived largely from Chinese dynastic compilations. These figures are useful but should not be converted uncritically into a comprehensive contemporary census of functioning offices. The Academy of Korean Studies notes uncertainty about when the mature arrangement was completed, commonly placing its establishment by the early ninth century.",
+        "A central court could use a primary seat of monarchy while other capitals served as administrative, strategic or symbolic hubs. Relative importance changed with royal movements and surrounding economic conditions. The network was a tool for integrating dispersed spaces, not evidence that every capital exercised identical authority. Maps are reconstructed from historical place names and excavated settlements, and disputed identifications remain part of the scholarly record."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History describes Balhae capitals and royal relocations.",
+          "sourceIndex": 0,
+          "locator": "발해의 천도, NIHK chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.6:b02",
+      "title": "Sanggyeong and the built form of kingship",
+      "paragraphs": [
+        "Sanggyeong Yongcheonbu, often associated with the Shangjing Longquanfu site near modern Ning'an, displays the significance of a planned metropolitan centre. Large structural foundations, street alignments, roof tiles and palace areas reflect the concentration of labour and material resources around the court. The resemblance to Tang-style urban planning demonstrates cultural exchange without making the city a mere copy of Chang'an.",
+        "Monumental construction required sustained political capacity: artisans, transport, timber, fired tiles, food and workers. Architectural remains can demonstrate planned building, but cannot tell how every suburb was populated or which classes lived along each street. Nor should one restored map be presented as a flawless photograph of the eighth century. The city's material history continued through multiple reigns and should be separated from legends about one ruler's original intention."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies discusses five capitals and fifteen prefectures within a debated chronology.",
+          "sourceIndex": 2,
+          "locator": "지방행정제도: 발해, 5경 15부 62주",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.6:b03",
+      "title": "Prefectures and indirect governance",
+      "paragraphs": [
+        "The fifteen bu formed important regional nodes below the royal centre. Textual accounts associate them with subordinate ju and other administrative units, but local circumstances varied. Some areas contained long-standing communities and leaders who could mediate the king's demands. A district's formal classification need not mean officials sent from the capital supervised every household continuously.",
+        "The distinction between an appointed governor and a chief incorporated into a royal hierarchy matters for explaining Balhae's territorial reach. A court might collect goods or mobilize troops through an existing local leader while retaining less control over everyday disputes. Documentary gaps make it hard to determine the proportion of direct and indirect administration. Regional archaeology and the careful mapping of offices provide evidence for competing interpretations, not a simple test of whether a place belonged to Balhae."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.6:b04",
+      "title": "Roads made administration possible",
+      "paragraphs": [
+        "Cities and prefectural centres depended on practical connections: land routes through difficult terrain, navigable rivers and passages toward neighboring courts. A journey between capitals involved provisions, guides, secure stops and coordination among regions. The existence of named routes in historical texts can identify corridors of significance but does not prove a uniformly maintained road surface for the whole distance.",
+        "Transport infrastructure also shaped the limits of military power. An army could cross a boundary on a campaign without a court retaining the ability to deliver orders and collect resources each season. Such logistical constraints help explain why Balhae could be territorially extensive yet administratively uneven. The central challenge was making political claims effective across varied ecology and distance."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.6:b05",
+      "title": "Territorial maps and the problem of precision",
+      "paragraphs": [
+        "Maps of Balhae commonly cover large areas of today's northeastern China and the Russian Far East, in addition to northern parts of the peninsula. Boundaries are difficult to establish precisely, partly because evidence for population, administrative naming and temporary military influence is not equivalent. Scholarly debates concern the locations of particular prefectures and the extent of royal control in borderland districts.",
+        "The figures five, fifteen and sixty-two themselves demand source criticism: the received New Book of Tang lists sixty named ju although it reports a total of sixty-two. Treating the difference as an embarrassment to conceal would deprive readers of an excellent example of the limitations of transmitted geography. Scholars use later geographical works, inscriptions and excavation to evaluate identifications. Where evidence remains insufficient, a hatched frontier is more faithful than a confidently drawn line."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.6:b06",
+      "title": "Administration across cultural differences",
+      "paragraphs": [
+        "Balhae's territory brought communities with varying languages, economic patterns and historical relationships under claims of royal authority. Local administration necessarily involved negotiation, but texts usually record those relationships from the viewpoint of court-centred institutions. We cannot reconstruct a uniform policy toward every community based simply on a list of prefectures.",
+        "Different forms of rule were compatible within one kingdom. In some regions, court officials may have monitored agriculture and transport; in others, ties of allegiance, tribute and military support may have been more important. This is not proof that the kingdom was fragile or incoherent. Large premodern states often governed unevenly. The evidence invites examination of how political expectations were translated through existing local leadership rather than a binary judgment of complete sovereignty versus no sovereignty."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}

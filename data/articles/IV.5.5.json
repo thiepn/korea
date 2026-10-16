@@ -1,0 +1,118 @@
+{
+  "id": "IV.5.5",
+  "title": "King Mun and the Institutional Maturation of Balhae",
+  "kicker": "BALHAE · STATE AND TERRITORY",
+  "description": "Evidence-grounded history of king mun and the institutional maturation of balhae, separating transmitted institutions from excavated practice.",
+  "release": "R",
+  "sourceStatus": "Original editorial synthesis using Korean historical reference works and material culture, selective contextual citations",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Capital Relocations",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i101000",
+      "role": "Cross-checks capital sequences and the 793 succession uncertainty"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae (발해)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Historical texts and disputed dates of provincial system consolidation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Local Administrative Institutions (지방행정제도)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054208",
+      "role": "Five capitals, fifteen prefectures and sixty-two reported subprefectures"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Balhae Kingdom gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201031000.do?showHallId=760&showroomCode=DM0010",
+      "role": "Physical capital sites and archaeological displays"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae writings and calligraphy",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_037_0030_0030_0020",
+      "role": "Material and epigraphic evidence of a multilingual and Tang-connected elite"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.5.5:b01",
+      "title": "The reign of Mun and the work of durable power",
+      "paragraphs": [
+        "King Mun, whose lengthy reign began in 737 and ended in 793, presided over a different political problem from the urgent frontier warfare of his predecessor. His court had to consolidate the kingdom while sustaining relationships with Tang, Silla, Japan and internal regional leaders. A durable state required a more predictable means of mobilizing revenue, officials and transport than crisis campaigning alone could provide.",
+        "It is tempting to credit every subsequent administrative institution to one exceptional ruler. The evidence seldom permits such precision. Written sources often report offices and ritual titles as features of the dynasty without dating their introduction exactly. King Mun's reign provides a plausible setting for important institutional consolidation, but the final form of the provincial system may belong to later phases. Historians should therefore distinguish developments securely associated with Mun from achievements retrospectively attributed to his era."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History describes Balhae capitals and royal relocations.",
+          "sourceIndex": 0,
+          "locator": "발해의 천도, NIHK chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.5:b02",
+      "title": "Tang models and Balhae choices",
+      "paragraphs": [
+        "Balhae's court selectively drew upon the administrative culture of Tang. Institutional terminology, diplomatic documentation, court ceremony and educational practices reveal considerable familiarity with Chinese written governance. Borrowing a term did not require that an office functioned exactly as its namesake in Chang'an. Adoption could allow the king to organize responsibilities, communicate internationally and present an ordered monarchy while adapting rules to available personnel.",
+        "The government faced a distinctive mix of coastal, agricultural and forest-frontier regions. Offices effective in a densely settled capital district need not have operated identically in peripheral territories. A court's written administrative map is also a statement of political aspiration. Excavated seals, architectural foundations and inscriptions can establish particular forms of institutional life, yet gaps remain between a formal blueprint and daily practice. Administrative creativity can include imitation, revision and negotiation at once."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies discusses five capitals and fifteen prefectures within a debated chronology.",
+          "sourceIndex": 2,
+          "locator": "지방행정제도: 발해, 5경 15부 62주",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.5:b03",
+      "title": "State learning and elite formation",
+      "paragraphs": [
+        "Learning written Chinese and diplomatic protocol provided access to a transregional political language. Balhae's elite engaged Tang intellectual and ceremonial culture, but this should not be translated into an assumption that all subjects were literate or that the court's schooling resembled a standardized national system. The surviving record highlights people who composed, transmitted or received elite documents.",
+        "Administrative knowledge matters because successful succession cannot rely indefinitely upon the founder's personal following. Training and selecting specialists helps preserve routines as individuals die or offices change hands. At the same time, access to learning can concentrate opportunity in established households. Our knowledge of who was excluded is thin, making it essential not to portray court educational institutions as representative of the kingdom's entire social life."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.5:b04",
+      "title": "Royal tomb inscriptions as exceptional voices",
+      "paragraphs": [
+        "Tomb epitaphs associated with Balhae princesses, including Princess Jeonghye and Princess Jeonghyo, supply unusual information about royal chronology, lineage and commemorative language. They are elite self-presentations, not neutral population surveys. Their titles, literary conventions and burial contexts illuminate the way royal families made rank visible and memorialized relationships.",
+        "Such records also help historians check details that are uncertain in external dynastic chronicles. A stone inscription is securely located in a particular archaeological context, but its praise of a princess may follow established rhetorical conventions. We can use the material to investigate court education, rank and ceremony without assuming that the recorded ideals governed relations in every household. The value lies in reading text and artifact together."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.5:b05",
+      "title": "Moving the capital and moving administration",
+      "paragraphs": [
+        "King Mun is associated with movement of the royal capital, including the development of Sanggyeong and a later transfer toward Donggyeong. These shifts changed access to roads, river corridors, military routes and populations. They may have reflected court rivalry, strategic defence or economic advantages, but claims about private motives are less secure than the archaeology and chronology of the settlements themselves.",
+        "A capital relocation is a major institutional undertaking. It can require new construction, movement of archives and specialists, provision of food, protection of approach routes and redistribution of benefits among elites. Even when the court moved, parts of the older capital could remain inhabited and administratively significant. The term five capitals describes a network of important centres rather than a sequence of five complete state replacements. Its detailed structure is examined separately from this ruler's individual story."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.5.5:b06",
+      "title": "Succession at the end of a long reign",
+      "paragraphs": [
+        "The years following King Mun's death were politically unsettled. Later history records brief reigns and conflict before a more stable succession eventually reappeared. The National Institute of Korean History's discussion of capital movement associates the early post-Mun crisis with the disputed accession of Dae Wonui and later attempts to regain stability.",
+        "The existence of succession conflict warns against describing Mun's institutional consolidation as an irreversible triumph. Courts can build powerful administrative practices and still struggle over legitimate inheritance. Political stability depends not only on written offices but on negotiated relationships among members of the ruling house, advisers and military leaders. The next history of the ninth century traces how Balhae recovered from these difficulties rather than treating Mun's death as the completion of state-building."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}
