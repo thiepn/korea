@@ -1,0 +1,104 @@
+{
+  "id": "IX.4.10",
+  "title": "The June Democratic Struggle, the 1987 Constitution, and the Democratic Transition through 1991",
+  "kicker": "SOUTH KOREAN DEMOCRATIZATION · 1979–1991",
+  "description": "Original documented history of the june democratic struggle, the 1987 constitution, and the democratic transition through 1991, distinguishing archival terminology, civic testimony and constitutional change.",
+  "release": "S",
+  "sourceStatus": "Original evidence-conscious synthesis using National Archives and Korean historical reference sources; dated casualty estimates contextualized",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "Gwangju Democratic Uprising Historical Records",
+      "url": "https://theme.archives.go.kr/next/koreaOfRecord/5_18.do",
+      "role": "Government archive narrative and official later reassessments of responsibility and casualties"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "May 18 Gwangju Democratic Movement",
+      "url": "https://encykorea.aks.ac.kr/Article/E0038496",
+      "role": "Scholarly synthesis of May 18–27, 1980, with political terminology and contested primary narratives"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Ninth Constitutional Amendment, October 29, 1987",
+      "url": "https://theme.archives.go.kr/next/rule/sub2_10.do",
+      "role": "Constitutional chronology and specific legal changes, operative February 25, 1988"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "April Revolution Historical Timeline",
+      "url": "https://theme.archives.go.kr/next/419/info01.do?menuId=01",
+      "role": "Comparative record of prior popular uprising and limits on executive authority"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.4.10:b01",
+      "title": "From the Fifth Republic to a widening opposition",
+      "paragraphs": [
+        "Chun Doo-hwan's Fifth Republic combined constitutional institutions with significant restrictions on dissent and political competition. Opposition parties, students, workers and civic networks continued to organize despite surveillance and arrest. Their demands varied, but the issue of direct presidential elections increasingly served as a common constitutional focus.",
+        "The development of a broader coalition depended on accumulated grievances and organizational learning. Groups disagreed about methods and the desired social order after authoritarian rule. The democratic campaign did not require all those disagreements to be resolved. Shared opposition to closed political succession gave diverse constituencies a common immediate demand capable of reaching far beyond one campus or party."
+      ],
+      "sequence": 1,
+      "label": "Original source-conscious political history",
+      "evidence": [
+        {
+          "claim": "National archival and scholarly records distinguish May 1980 violence, later recognition and the October 1987 constitutional changes.",
+          "sourceIndex": 2,
+          "locator": "대한민국헌법 제9차 개정, 1987.10.29",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.4.10:b02",
+      "title": "The death of Park Jong-cheol and public outrage",
+      "paragraphs": [
+        "In January 1987 student activist Park Jong-cheol died under police interrogation, and revelations concerning torture and official handling of the case deepened public anger. The event made the accountability of security institutions concrete. It also illustrated the importance of journalists, families, religious figures and legal networks in bringing information to the public.",
+        "The historian must distinguish documented findings from early misleading official claims. State accounts made before investigation cannot be accepted simply because they were issued by authorities. The disclosure of abuse strengthened calls for a different constitutional system and for safeguards against arbitrary detention. The movement's moral force was inseparable from these concrete injuries, not only abstract arguments about electoral procedure."
+      ],
+      "sequence": 2,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.10:b03",
+      "title": "June demonstrations and mass participation",
+      "paragraphs": [
+        "The June Democratic Struggle brought large numbers of people into demonstrations during 1987, with protests expanding across cities and social groups. Students remained active, but participation extended to professionals, office workers, religious communities and many residents whose involvement changed the political balance. The movement's strength was its visibility and breadth under conditions where continued repression carried rising costs.",
+        "The injury and subsequent death of student Lee Han-yeol became another powerful symbol of state violence. Public responses reflected anger and demands for genuine electoral choice. The precise number of demonstrators differs by event and estimate, and one should not treat a single crowd figure as the complete measure of the movement. Organizational networks and shared demands mattered as much as spectacular individual gatherings."
+      ],
+      "sequence": 3,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.10:b04",
+      "title": "June 29 and the negotiated opening",
+      "paragraphs": [
+        "Roh Tae-woo announced a set of political concessions on 29 June 1987, including direct presidential election and measures concerning civil liberties. These commitments reflected the pressure of public mobilization as well as calculations within the ruling establishment about how to preserve influence during transition. The declaration was consequential but not the same as full democracy already achieved.",
+        "A reform announcement requires translation into law, elections and enforceable institutions. Opposition actors also faced decisions about strategy and electoral cooperation. The government did not simply surrender all power in one moment, while activists did not gain complete control over the resulting order. The negotiated character of the opening explains both its achievements and the constraints that accompanied it."
+      ],
+      "sequence": 4,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.10:b05",
+      "title": "The 1987 constitutional settlement",
+      "paragraphs": [
+        "The constitutional amendment was confirmed by referendum on 29 October 1987 and came into force on 25 February 1988. The National Archives records the creation of a directly elected five-year single-term presidency, strengthened protections for suspects and due process, the removal of some emergency powers and renewed parliamentary oversight. These are specific institutional changes, not merely ceremonial recognition of popular protest.",
+        "Direct presidential election restored a central form of accountability absent under Yushin and constrained under the Fifth Republic. Yet constitutional text alone cannot guarantee impartial policing, free labor organization or the eradication of older networks of influence. The distinction between legal rules and practice remains necessary after democratization. A historical assessment should identify changes to enforceable institutions and continue to examine who could actually exercise newly recognized rights."
+      ],
+      "sequence": 5,
+      "label": "Original source-conscious political history"
+    },
+    {
+      "id": "IX.4.10:b06",
+      "title": "The transition through 1991 and what remained",
+      "paragraphs": [
+        "Roh Tae-woo won the December 1987 presidential election against a divided opposition. The result demonstrates that democratic opening does not mean the opposition must immediately take power. The new electoral structure allowed meaningful competition while former authoritarian networks retained substantial resources. The following years included parliamentary contestation, civic pressure, labor mobilization and continued struggles over past abuses.",
+        "By 1991 democratic institutions had gained experience without resolving every question about state security, regional political division and accountability for violence. It is misleading to describe the transition either as the instant completion of democracy or as a meaningless change because the governing camp survived the first election. The achievements were significant constitutional constraints and expanded political choice. Their durability would depend on further civic participation, institutional enforcement and the willingness of competing parties to accept electoral rules."
+      ],
+      "sequence": 6,
+      "label": "Original source-conscious political history"
+    }
+  ]
+}
