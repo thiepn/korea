@@ -1,0 +1,100 @@
+{
+  "id": "III.2.10",
+  "title": "Late Baekje: Court Politics, Strategic Realignment, and the Road to 660",
+  "kicker": "BAEKJE: COMPLETE CHAPTER",
+  "description": "Original historical synthesis with explicitly identified institutional and primary-source anchors; interpretations have not been independently peer-reviewed.",
+  "release": "I",
+  "sourceStatus": "Selective primary and institutional sources; broader prose editorial synthesis not line-by-line verified",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "의자왕 — King Uija",
+      "url": "https://encykorea.aks.ac.kr/Article/E0043357",
+      "role": "641–660 reign and scholarly discussion of the fall"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "흑치상지 — Baekje restoration resistance",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_n102100",
+      "role": "Resistance after the 660 Sabi fall"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Archaeological chronology and registered site descriptions, 475–660 CE"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.2.10:b01",
+      "title": "The city at the end of a long experiment",
+      "paragraphs": [
+        "Late Baekje is often narrated backward from its fall in 660. Once the ending is known, earlier political disputes can appear to be obvious signs of unavoidable collapse. This perspective denies contemporaries the uncertainty in which they actually acted. Baekje's court had survived the destruction of its Hanseong capital, rebuilt authority at Ungjin, and invested heavily in Sabi. That historical resilience did not guarantee further survival, but neither was the kingdom already doomed when the final royal decades began. Competition with Silla over strategic districts, relations with Goguryeo, and the expanding diplomatic and military power of Tang China all shaped the choices available to the Sabi court. A local military success might reassure elites while making a rival more determined to seek a powerful external ally. In a regional system, victories and dangers could be produced by the same policy."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "III.2.10:b02",
+      "title": "Uija and the politics of retrospective blame",
+      "paragraphs": [
+        "King Uija ruled from 641 until Baekje's defeat in 660. Later traditions often painted him as a ruler whose indulgence and rejection of counsel explained the country's fall. Such portraits deserve to be read as political literature as well as historical testimony. The Academy of Korean Studies' treatment of Uija notes both a forceful earlier reign and later accusations of court failure. A historian should not resolve a complex interstate war merely by repeating the image of a luxurious palace. The changing Silla–Tang relationship, campaigns on several fronts, the cost of prolonged competition, and divisions within the ruling coalition belong in the explanation too. Moral judgments about kings were common devices for explaining dynastic catastrophe; they might preserve perceptions of elite conflict while magnifying individual vice into a universal cause. The problem is not whether leadership matters. It is how to establish which decisions had demonstrable effects, which are inferred from the outcome, and which are literary conventions applied after defeat."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Uija ruled Baekje from 641 until the Sabi defeat of 660",
+          "sourceIndex": 0,
+          "locator": "AKS 의자왕 biography, reign and fall",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.2.10:b03",
+      "title": "Two advancing armies",
+      "paragraphs": [
+        "The campaign of 660 involved Silla forces on land and Tang forces approaching by sea. Their coordination created problems that the Baekje court could not treat as a single border conflict. The remembered fighting at Hwangsanbeol, associated with the Baekje commander Gyebaek, occupies a prominent place in later historical consciousness. Accounts of heroic resistance may contain information about the battle while also carrying strongly moralized themes of loyalty and sacrifice. Treating them as literal transcripts of commanders' thoughts would be irresponsible. Militarily, Baekje faced a coalition that could threaten strategic routes and the capital in close succession. Holding one pass could not necessarily prevent an army from moving along another line or a fleet from bringing pressure into the river basin. The larger campaign has to be understood through coordination, logistics, and the mismatch between Baekje's defenses and the scale of the assault, not only through one famous battlefield."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "III.2.10:b04",
+      "title": "Sabi and the collapse of royal command",
+      "paragraphs": [
+        "The fall of Sabi and Uija's surrender ended Baekje's independent monarchy. The final days were politically tangled. Korean reference scholarship has raised questions about the actions of military and local officials, including alternative readings of the final capture of the king from epitaphic evidence. That is a reminder that even the apparent clarity of defeat has documentary disputes. A capital's fall does not instantly make every local commander disarm or every community accept a new government. The experience of conquest differed between court members carried away, garrisons that surrendered, and groups that continued resistance. A dynastic endpoint in a chronicle therefore marks one political event, not an immediate disappearance of Baekje people, crafts, religious traditions, or regional networks. The distinction matters when considering the resistance that followed and the lives of those who moved into new political arrangements."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "III.2.10:b05",
+      "title": "After the monarchy",
+      "paragraphs": [
+        "Resistance in former Baekje territory continued after 660, showing that the conquest of a capital was not identical with secure control of a society. Later sources describe fortified strongholds, commanders who organized followers, and attempts to draw support from across the sea. These movements involved competing claims to legitimate authority as well as practical efforts to secure food, fortifications, and routes. Some people may have supported restoration out of loyalty, some because they feared occupation, and others because local circumstances encouraged resistance. The surviving texts do not let us assign one motive to all participants. Nor should the final military defeats be treated as the end of cultural continuity. Crafts, Buddhist institutions, writing traditions, and family networks could move across political borders. Baekje's afterlife is thus not a sentimental appendix but a significant history of how states disappear while social worlds endure in changed forms."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "Armed Baekje restoration movements continued after the royal collapse of 660",
+          "sourceIndex": 1,
+          "locator": "NIHK 흑치상지, Baekje restoration movement section",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.2.10:b06",
+      "title": "A kingdom not reducible to its defeat",
+      "paragraphs": [
+        "Baekje's fourth- to seventh-century history is often framed as rise, brilliance, and extinction. That frame is convenient but too narrow for the evidence. The political center moved from the Han basin to Ungjin and then Sabi; maritime and diplomatic relations changed; Buddhist patronage grew; aristocratic institutions were repeatedly negotiated; and ordinary communities experienced shifting demands. The story contains defeats that made innovation urgent and achievements that could intensify geopolitical risks. Archaeological sites and inscriptions allow us to recover some dimensions with remarkable precision. Other dimensions, particularly the speech and motives of people outside elite records, remain uncertain. To read Baekje closely is to see a kingdom that experimented with statecraft while surrounded by other ambitious societies. Its end in 660 was decisive for royal independence, but not a simple verdict on every century that had preceded it. The final chapter opens into the larger question of how the post-660 Korean peninsula was reorganized—and how memories of Baekje were preserved, disputed, and reinvented afterward."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "III.2.6",
+  "title": "Goguryeo Pressure and the Fall of Hanseong",
+  "kicker": "IN-DEPTH HISTORY",
+  "description": "Original historical synthesis with explicitly identified institutional and primary-source anchors; interpretations have not been independently peer-reviewed.",
+  "release": "I",
+  "sourceStatus": "Selective primary and institutional sources; broader prose editorial synthesis not line-by-line verified",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje royal palaces and Hanseong–Ungjin transition (한국문화사)",
+      "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_039_0070_0020_0010_0020_0020&whereStr=",
+      "role": "475 Hanseong collapse, 475–538 Gongju palace context"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Ungjin period overview (우리역사넷)",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h71_0040_0010_0030_0020",
+      "role": "Kings Dongseong and Muryeong, recovery and Sabi relocation chronology"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Archaeological chronology and registered site descriptions, 475–660 CE"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.2.6:b01",
+      "title": "When a capital became a battlefield",
+      "paragraphs": [
+        "In 475 the balance that had supported Baekje's old capital broke. Goguryeo, now operating from a strengthened northern position, mounted the offensive remembered for the fall of Hanseong and the death of King Gaero. Later narratives compress the event into a grim set of names and actions: attack, capture, royal death, and the flight south. But a capital's destruction is also a political emergency that extends far beyond the combatants. A court whose legitimacy rested on particular places suddenly had to explain why those places were no longer safe. Officials needed to establish new lines of communication, families with royal connections needed protection, stored resources might be inaccessible, and allied communities had to decide whether the weakened crown remained worth supporting. None of those problems was settled by the end of one military campaign. The fall of Hanseong exposed how a successful political geography could turn into vulnerability. Its access to river routes and northern approaches had served a powerful center; the same connectivity made its position strategically important to an expanding rival. The shock of 475 therefore demands an institutional and social history alongside the recorded military catastrophe."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Hanseong fell to Goguryeo attack in 475 and King Gaero died during the crisis",
+          "sourceIndex": 0,
+          "locator": "NIHK 한국문화사, Ungjin-period palace subsection, introduction",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.2.6:b02",
+      "title": "A northern rival with its own strategic logic",
+      "paragraphs": [
+        "Goguryeo's pressure on Baekje cannot be explained as an isolated desire to humiliate one king. The fifth-century northern kingdom had been consolidating military and political capacities, expanding influence over frontier communities, and shifting its center of gravity toward the Pyongyang region. The southward direction of strategy brought the Han basin into sharper competition. From a northern court's perspective, corridors, settlements, and fortresses in this region could be important for defensible frontiers and access to trade. From Baekje's perspective, they formed the environment of its capital and the base of its political prestige. This asymmetry made compromise difficult. It is easy for retrospective narrative to personify the crisis as a contest between two monarchs. Yet even royal ambitions required commanders, local knowledge, recruitment, food, and cooperation from actors who never appear by name. Goguryeo's success mattered in part because its campaign intersected with the structure of Baekje authority. The conquest of an outer district was one thing; attacking the city that embodied dynastic continuity was another. We should not extrapolate exact tactical movements from a bare chronicle notice, but neither should we understate the long preparation that regional warfare required."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.2.6:b03",
+      "title": "Gaero and the problem of explanation",
+      "paragraphs": [
+        "King Gaero's death has often been placed within a moral narrative of a ruler whose failures brought punishment on the state. Histories written centuries later could describe excessive works, misplaced trust, or disastrous political judgment. Such judgments have their own history. Political writers often explained defeat through personal virtue and vice because royal conduct was a meaningful category in their understanding of government. A modern historian must distinguish that interpretive language from independently demonstrated causes. Labor-intensive construction could generate resentment, but the extent of any particular burdens is not established merely by a hostile story. A court might misjudge an opponent and still face wider strategic disadvantages. A royal death could become a lesson about bad government even when the surviving evidence cannot fully separate individual choices from accumulated military and diplomatic changes. The respectful way to read these accounts is neither to accept every moral accusation nor to dismiss their narratives as useless. They preserve information about how political failure was later remembered, which can be studied alongside the broader geopolitical situation. A richer explanation leaves room for contingency: other choices might have mattered, but we cannot know which would have been decisive."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "III.2.6:b04",
+      "title": "The human scale of displacement",
+      "paragraphs": [
+        "After the loss of Hanseong, the political geography of Baekje had to be remade. Historical records focus on the movement of the king and his entourage to Ungjin, the Gongju region. That is essential, but the people affected by a capital's fall were not all court servants. Families might have abandoned familiar neighborhoods, craft workers might have lost patrons, and residents near military routes might have experienced requisition or insecurity. The sources do not preserve a detailed register of such households. We can therefore discuss displacement as a plausible consequence of warfare and rapid capital change without inventing its numerical scale. A royal refugee and a farmer who remained behind would have confronted radically different forms of uncertainty. Regional elites faced another dilemma: how tightly to bind themselves to a weakened monarchy. For some, supporting the court could be an investment in future power; for others, local autonomy might become more attractive. The everyday history of 475 lies in that unequal distribution of risk. Survival of the dynasty does not mean that each dependent community experienced the transition in the same way."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "III.2.6:b05",
+      "title": "Why Ungjin?",
+      "paragraphs": [
+        "The transfer to Ungjin was not an arbitrary change of address. Its position along the Geum River, the protective terrain associated with Gongsanseong, and access to routes into the southwestern peninsula created a plausible new center. The move reduced immediate exposure to the contested northern capital zone while allowing a reorganized royal government to remain connected to productive districts and regional allies. But a safer location was not automatically an ideal capital. A court arriving under emergency conditions needed places to reside, provisions to distribute, and a political understanding with those already powerful around the new seat. Later histories describe the move under King Munju in 475; archaeological research on Gongsanseong helps us imagine its physical framework without giving us a diary of how the transfer proceeded. The choice of Ungjin represented both retreat and adaptation. The dynasty had lost its ancestral urban center yet retained enough networks to claim continuity. This distinction explains why Baekje's story did not end with the collapse. The capacity to relocate the court shows that kingship was not identical with one fortress, even if that fortress had been central to royal identity."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "Baekje relocated its capital to the Ungjin Gongju region in 475",
+          "sourceIndex": 2,
+          "locator": "UNESCO Historic Areas listing, Ungjin period 475–538 CE",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.2.6:b06",
+      "title": "A weakened crown among powerful partners",
+      "paragraphs": [
+        "Relocation could save a dynasty while changing the terms under which it ruled. Early Ungjin politics are often described as unstable, with struggles among leaders and a royal house seeking renewed authority. This is not surprising in general terms: court offices, military commands, and access to resources become more contested after severe defeat. But the particular motives of named participants must be drawn from the sources, not deduced from a universal theory of palace conspiracy. The crown needed supporters who could provide men, food, and territorial access. Those supporters might demand influence or resist attempts to recentralize government. Relationships created during emergency could persist long afterward. A city thus becomes a window into the political structure of a kingdom: to whom did the king owe his continued throne, and how could that debt be repaid without surrendering the possibility of independent command? The answers were not settled once and for all. Baekje's following decades show recurring attempts to stabilize the monarchy while preserving the connections that had kept the state alive."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "III.2.6:b07",
+      "title": "Diplomacy after defeat",
+      "paragraphs": [
+        "Baekje's foreign relationships became more consequential, not less, after Hanseong's fall. Military support, marriage alliances, and diplomatic recognition could help a threatened dynasty resist Goguryeo and demonstrate that it remained a legitimate interlocutor in East Asia. Cooperation with Silla appears especially important in the wider fifth-century balance. Yet a useful alliance is rarely free of competing interests. A partner may help defend one frontier while extending its own influence elsewhere. Court correspondence with Chinese states could provide prestige and channels of exchange without placing troops at the endangered border. Relations across the sea likewise operated on overlapping levels of court diplomacy and practical maritime connection. A state in crisis might pursue several relationships at once, and each came with uncertainties. Seen this way, the decades after 475 are not simply an interval of humiliation between stronger rulers. They were years in which Baekje experimented with ways to survive politically in a regional environment it could no longer dominate. The success of those efforts would become visible only gradually."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "III.2.6:b08",
+      "title": "Archaeology in a city of recovery",
+      "paragraphs": [
+        "Gongsanseong and the royal tombs in the Gongju region offer evidence beyond royal narrative. Excavations reveal fortifications and funerary spaces associated with a court that sought dignity and continuity despite political crisis. The material record does not speak in one voice. Building phases can be difficult to separate, later repairs alter surviving structures, and some identifications remain provisional. Yet the surviving places show that the Ungjin period left more than a temporary campsite. The court established a built environment in which political ceremonies, defense, residence, and royal commemoration could proceed. The discovery in 1971 of the undisturbed tomb of King Muryeong, who ruled decades after the move, transformed understanding of this period by providing named inscriptions and tightly datable objects. It is important not to move that sixth-century evidence backward wholesale into the first emergency of 475. An object from the recovered monarchy can demonstrate later connections and institutions; it cannot reconstruct every decision made by Munju's frightened court. The continuity between catastrophe and recovery was historical, not instantaneous."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "III.2.6:b09",
+      "title": "The costs of calling it a 'dark age'",
+      "paragraphs": [
+        "The expression 'dark age' sometimes enters stories of states after a major defeat, but it can conceal more than it explains. Political instability did not stop all exchange, religious practice, craft production, or family formation. Archaeology may reveal a community continuing activity even when surviving written narratives concentrate on coups and frontier warfare. At the same time, survival should not be romanticized. A shift of capital could bring new burdens to host communities, and the redistribution of elite property could produce winners and losers. We can recognize both change and continuity without pretending to know more than the evidence permits. Nor should the account be organized exclusively around a future triumph under Muryeong or Seong. Those rulers did not make earlier decades a mere waiting room. People acted within the uncertainties of their own present. The useful question is how political continuity was achieved with institutions weakened, partners empowered, and old landscapes lost. That process is a history of adaptation, not a moral intermission."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "III.2.6:b10",
+      "title": "What the fall did not destroy",
+      "paragraphs": [
+        "The fall of Hanseong destroyed Baekje's control of a core capital region, but not the possibility of reorganized kingship. The distinction rests on several capacities: the royal line could still be recognized; elite households could still support a court; productive regions remained accessible; and diplomatic connections offered alternatives to solitary resistance. None guaranteed success. Their convergence made survival possible. We should end with the limits of the evidence as well as its explanatory possibilities. The precise routes of fleeing households, the words exchanged at an emergency council, and the full distribution of lost property remain largely beyond our reach. What can be traced is a sequence: northern pressure, the political and military crisis of 475, the movement to Ungjin, contested consolidation, and an eventual re-emergence of stronger royal government. Historical continuity here is not proof that defeat was somehow harmless. It is the record of a state whose institutions and society endured a territorial and symbolic rupture, then were altered by the work of responding to it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "III.2.6:b11",
+      "title": "The chronology of damage and decision",
+      "paragraphs": [
+        "One difficulty in narrating a catastrophic year is that surviving accounts tend to place a sequence of political decisions inside a few dramatic lines. A withdrawal, a succession, and a capital move may appear nearly simultaneous on the printed page, although organizing people and establishing a new seat involved many distinct tasks. This does not prove that an alternative official chronology existed; it warns that annalistic concision should not be mistaken for ease of implementation. Historians must ask what could reasonably have moved with a fleeing court, what remained in place, and what needed to be recreated through negotiations with those who controlled Ungjin. The destruction or capture of a capital's central institutions would also disrupt records and later historical memory, making our evidentiary picture less complete precisely where the experience was most intense. Rather than invent a detailed itinerary, the account should compare the chronicle sequence with what archaeology shows about the occupation and later development of the Gongju sites. The documentary thinness is part of the episode's history, not merely an inconvenience to storytelling."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    },
+    {
+      "id": "III.2.6:b12",
+      "title": "The capital as a broken archive",
+      "paragraphs": [
+        "A capital houses the apparatus by which a kingdom remembers itself. Records, seals, stored gifts, ceremonial places, and offices are not equivalent to armed defenders, but all can be endangered during a siege. We cannot calculate how many Baekje documents disappeared in 475; the sources do not give such a census. The larger point is methodological: a violent transition can damage the evidence through which later people reconstruct the event. This may help explain why stories concentrate on the royal death and named commanders rather than explaining ordinary administration in the days that followed. It also reminds us that archives are political institutions. What a new court carried to Ungjin, what it copied, and what it reconstructed from memory could matter for future claims about authority. We should not invent a particular ledger rescued from a burning office. The historically sound insight is narrower and more consequential: the collapse of a political center can also narrow the surviving record of its own collapse."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 12
+    }
+  ]
+}

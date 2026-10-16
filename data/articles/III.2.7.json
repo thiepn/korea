@@ -1,0 +1,59 @@
+{
+  "id": "III.2.7",
+  "title": "The Ungjin Period: Survival and Reconstruction",
+  "kicker": "BAEKJE: COMPLETE CHAPTER",
+  "description": "Original historical synthesis with explicitly identified institutional and primary-source anchors; interpretations have not been independently peer-reviewed.",
+  "release": "I",
+  "sourceStatus": "Selective primary and institutional sources; broader prose editorial synthesis not line-by-line verified",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Ungjin period overview (우리역사넷)",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h71_0040_0010_0030_0020",
+      "role": "Kings Dongseong and Muryeong, recovery and Sabi relocation chronology"
+    },
+    {
+      "institution": "National Research Institute of Cultural Heritage",
+      "title": "무령왕릉 지석 — Inscription from King Muryeong’s Tomb",
+      "url": "https://portal.nrich.go.kr/kor/ksmUsrView.do?ksm_idx=2554&menuIdx=584",
+      "role": "Primary inscription and archaeological context; dates of death and burial"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.2.7:b01",
+      "title": "An emergency settlement becomes a court",
+      "paragraphs": [
+        "Ungjin could not remain simply a refuge if Baekje's monarchy was to survive. The new center required defensible buildings, royal and aristocratic residences, roads and supply arrangements, and relationships with local people who had lived in the Geum River basin before the displaced capital arrived. Gongsanseong's physical setting gives the court a credible home in the landscape, but it does not resolve how responsibility for construction or defense was divided. Political histories record an unstable beginning, with rapid royal changes and contests for influence. Rather than treat every reported intrigue as the entire story, we can ask why the governing coalition was so difficult to hold together. A king whose throne had survived invasion might need aristocratic troops more urgently than his predecessor had. Local families around Ungjin could become indispensable and thereby more influential."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "III.2.7:b02",
+      "title": "Rebuilding public authority",
+      "paragraphs": [
+        "The reigns of Dongseong and Muryeong are commonly associated with the gradual recovery of state authority. A revised royal network did not simply restore the old Hanseong system. The court was operating in a different place, with a different balance among regional partners and new strategic concerns. Diplomacy with Silla, contact with southern Chinese courts, and management of officials were instruments in that reconstruction. The growing monumental presence of the Ungjin monarchy can be studied through royal tombs, elite objects, and the defensive landscape. These traces show a court investing in continuity and status. They do not disclose a complete bureaucratic register. Especially for the period before Muryeong, claims about precise provincial powers should be qualified. It is safer to describe a process of reasserting authority than to project later standardized administration backward as if it appeared in a single reform decree."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.2.7:b03",
+      "title": "Tomb and document",
+      "paragraphs": [
+        "Muryeong's tomb is valuable partly because it ties an identifiable person and dates to artifacts that might otherwise be interpreted through typology alone. The inscription gives the king's death in 523 and later burial in 525, while the queen's records preserve a separate funerary chronology. Such documents anchor the later Ungjin period more firmly than many earlier reigns can be anchored. But even a named tomb is not a complete history of royal government. It shows wealth, ritual, skilled production, and transregional artistic contact. The political arguments come from comparing these objects with texts and other sites, and from recognizing what each sort of source cannot prove. Ungjin's recovery was a gradual reassembly of authority, public ceremony, and regional connections that would make a further capital move conceivable."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Muryeong died in 523 and was formally interred in 525 according to the excavated inscription",
+          "sourceIndex": 1,
+          "locator": "NRICH 무령왕릉 지석, inscription overview and king epitaph",
+          "type": "direct"
+        }
+      ]
+    }
+  ]
+}
