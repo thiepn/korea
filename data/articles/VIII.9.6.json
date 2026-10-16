@@ -1,0 +1,56 @@
+{
+  "id": "VIII.9.6",
+  "title": "Cultural Nationalism, Education, Economic Self-Strengthening, and Gradualist Independence",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "3·1 독립 선언서 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_123_0040",
+      "role": "Primary declaration and contextual commentary on the mass mobilization of 1919"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.9.6:b01",
+      "title": "Education when the state was not one's own",
+      "paragraphs": [
+        "A school could become a site of national work even when it did not openly call for immediate revolt. Educators tried to sustain Korean literacy, historical knowledge, practical skills, and habits of collective responsibility under an unequal colonial system. Their choices were constrained by official regulations, funding, and surveillance. Some schools sought spaces of autonomy within the permitted curriculum; others were forced to compromise or closed. A textbook's vocabulary, a history lesson's omissions, and the language spoken in a classroom could become political questions. Education was thus not an alternative to independence in a simple sense. For supporters of gradual self-strengthening, it was the means by which people might acquire the knowledge and organization required to make sovereignty durable.",
+        "Not everyone shared that argument. Critics worried that cultural projects might become accommodations with the colonial status quo, particularly if they presented advancement as possible without changing political authority. Supporters replied that a people deprived of institutions could not afford to neglect schools, industry, or cooperative activity. The dispute was made harder because the costs and benefits were distributed unevenly. Urban families with money could sometimes send children into new educational networks, while rural households needed children's labor. Women faced restrictions and opportunities different from those experienced by men. A successful institution might offer genuine learning to some and still leave many people excluded. Its national value must therefore be assessed alongside its social reach."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The 1919 declaration linked national independence with civil and human dignity, one strand in later education-centered arguments.",
+          "sourceIndex": 0,
+          "locator": "3·1 독립 선언서, 선언의 원칙",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.6:b02",
+      "title": "Print, discussion, and everyday political language",
+      "paragraphs": [
+        "Newspapers and magazines became important places where Koreans argued about the meaning of national capacity. A newspaper did not simply broadcast a finished consensus. It brought together writers, editors, advertisers, printers, distributors, and readers whose interests could conflict. The newspaper's survival depended upon commercial revenue and navigating censorship; it was neither wholly free nor necessarily wholly controlled. Periodicals could discuss economic cooperatives, education, language, women's work, and social reform under a political vocabulary shaped by the limits of what could be printed. Readers learned to notice silences and circumlocutions as well as statements. The very existence of these public conversations formed part of an emerging civil sphere under colonial rule.",
+        "The opening of new major Korean-language newspapers in 1920 belongs in the context of the policy changes following the March First Movement. Describing the period as one of relaxed cultural administration must not imply the end of coercion. Policing, censorship, and unequal political rights continued. A more differentiated media environment created possibilities for organizing and debate, but also new boundaries around acceptable public expression. Scholars working with newspapers must pay attention to which issues reached print, which were suppressed, and whether editors changed positions under pressure. Surviving printed words are an invaluable archive of argument, yet they do not represent all the speech that occurred beyond the newspaper office."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.9.6:b03",
+      "title": "Self-strengthening and its limits",
+      "paragraphs": [
+        "Economic campaigns encouraged Koreans to support Korean-owned businesses and cultivate skills thought necessary for national survival. Such strategies could mobilize consumers and investors but faced a fundamental problem: they operated within a colonial market whose institutions were not arranged on equal terms. Success demanded capital, distribution networks, and access to infrastructure. Appeals to national solidarity did not dissolve class differences among business owners, employees, peasants, and consumers. A campaign asking people to purchase a particular product might serve an enterprise's survival while placing a higher cost upon households with limited income. National economic language could therefore bind people together and expose disagreement about whose sacrifices counted as necessary.",
+        "Cultural nationalism should not be dismissed as timid merely because it emphasized institutions rather than attacks. Nor should it be celebrated as uniformly emancipatory. Schools, newspapers, and campaigns expanded the resources through which Koreans discussed a collective future; their leaders also sometimes privileged middle-class interests and moral ideals that other reformers contested. The history is most illuminating when cultural work is set beside armed resistance, mass protest, and labor organizing. Each engaged a different set of constraints, and people sometimes participated in more than one. The distinction between gradualism and militancy shaped argument, but everyday life did not reliably divide into exclusive political categories."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

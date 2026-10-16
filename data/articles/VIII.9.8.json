@@ -1,0 +1,145 @@
+{
+  "id": "VIII.9.8",
+  "title": "Students, Youth, Women, and Mass Protest: The June Tenth and Gwangju Student Movements",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "6·10 만세 운동 격문 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_124_0030",
+      "role": "Primary protest leaflet and commentary on the June Tenth mobilization"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "6·10학생운동의 전개 / 신편 한국사",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_049_0040_0060_0040_0030",
+      "role": "Specialist synthesis with dates and organizational specifics; written after the events"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "6·10 만세 운동과 광주 학생 운동 / 우리역사넷",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m31_0110_0030",
+      "role": "Broad retrospective treatment of student protest, not a participant diary"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.9.8:b01",
+      "title": "The timetable of a protest is also a student timetable",
+      "paragraphs": [
+        "Student politics took shape within schools, examination schedules, boarding arrangements, commutes, and disputes over instruction. Colonial schooling created new spaces where young people from different backgrounds met, but it also made hierarchy intensely visible in rules about language, discipline, and treatment. Student protest did not emerge from youthful emotion alone. Reading groups, relationships with teachers, and connections to public organizations supplied ways to turn grievance into coordinated action. A train journey could become a site of conflict because it placed students from different institutions into repeated contact outside classroom supervision. Everyday routes mattered to politics. So did the capacity to communicate quickly across schools when authorities tried to isolate a dispute.",
+        "The June Tenth demonstrations of 1926, linked to the funeral of Emperor Sunjong, drew on the symbolic public space of a royal ceremony while expressing claims very different from dynastic restoration alone. Students and activists sought occasions on which visible gathering could convey opposition despite surveillance. The event shows that an anniversary or funeral can create temporary political opportunities without guaranteeing unified leadership or a predetermined result. Police intelligence and later commemorations each emphasize particular figures. The larger achievement was in demonstrating that political messages could move through student networks and reach audiences beyond the original circle of organizers."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The June Tenth independence protests occurred in 1926 around Sunjong’s funeral.",
+          "sourceIndex": 0,
+          "locator": "6·10 만세 운동 격문 / 1926.6.10",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.8:b02",
+      "title": "Gwangju and the reach of solidarity",
+      "paragraphs": [
+        "The Gwangju student movement began in the context of discriminatory treatment and tensions on school commutes before expanding into a major protest movement in November 1929. An incident involving Korean and Japanese students near Naju station is often narrated as its immediate spark. Its meaning cannot be understood without the prior climate of educational inequality and student organization. Gwangju students had already developed reading and mutual-support networks, and the conflict became a test of whether the authorities would administer justice impartially. When police intervention appeared to favor Japanese students, an episode that might otherwise have remained a local dispute became evidence for a larger system of unequal treatment.",
+        "The November demonstrations involved students from multiple schools and connected local anger to demands about education, national dignity, and political freedom. News traveled despite controls, and solidarity actions emerged elsewhere. The extension was not automatic. It required messengers, printed appeals, networks among students, and the willingness of people to face punishment. Women students participated, yet conventional accounts often direct attention toward male leaders. A more complete picture asks which schools sent participants, how female students navigated gendered rules, and whether the surviving archive records their independent claims. It is also necessary to examine the response of nationalist and socialist public organizations, whose support could amplify student demands and also reshape their political framing."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "NIHK documents a continuing student protest tradition culminating in the later Gwangju mobilization.",
+          "sourceIndex": 2,
+          "locator": "6·10 만세 운동과 광주 학생 운동",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.8:b03",
+      "title": "Youth is not a single political identity",
+      "paragraphs": [
+        "Students had unequal family resources and future prospects. Some faced the possibility of expulsion from the only schooling their family could finance. Others were connected to established urban organizations. Their disagreement about tactics or ideology is not evidence of a deficient movement; it reflects the range of circumstances in which collective action occurred. Young workers who could not attend school also engaged politics through different institutional channels. When histories call students the conscience of the nation, they can overlook the material risks students and their families actually weighed. A protest leader's eloquent statement records a perspective, but it should not substitute for every participant's experience.",
+        "Educational authority was one of the colonial state's daily faces. That fact made schools places where even narrowly framed demands could acquire a political force that officials found threatening. The demand to teach Korean history, allow student self-government, or end discrimination could imply that colonial institutions lacked legitimate authority. Student protest thus connected national politics to ordinary questions about who might learn, speak, or choose. Remembering the movement should involve its organizational patience and social diversity as well as the drama of street demonstrations. It also requires resisting the easy claim that every youthful grievance was planned in advance as a step toward national liberation."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VIII.9.8:b04",
+      "title": "The school as a contested public institution",
+      "paragraphs": [
+        "A colonial classroom was shaped by budgets, teaching materials, language policies, and examination systems. These details mattered to students because education offered prospects for employment and social standing while also communicating assumptions about legitimate political authority. A rule concerning school conduct could appear administrative from the perspective of an official and discriminatory from the perspective of a student required to obey it. The resulting conflict was not reducible to classroom disorder. Students compared their treatment with that of others and developed claims about fairness that could lead toward more explicit political objections. This made educational institutions unusually sensitive sites for the wider contradictions of colonial governance.",
+        "Reading groups and student associations offered channels through which young people could explore the political meaning of daily grievances. Such groups could form around literary or scientific interests and develop wider concerns without following one prescribed route to nationalism. A participant might value intellectual exchange, the chance to speak outside official supervision, or solidarity with classmates who faced punishment. When police reports identified a group as subversive, that classification described the state's perception and perhaps a part of the group's activity. It should not automatically replace the more varied motives of its members. Close reading of student writings and records of school disputes can recover the ways politics emerged from institutional experience."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VIII.9.8:b05",
+      "title": "A regional protest could become a national question",
+      "paragraphs": [
+        "The Gwangju movement demonstrates how local circumstances could acquire national resonance. Conflict around a shared commute drew attention to the unequal treatment of Korean and Japanese students. Existing networks helped students respond, while official decisions about policing and discipline affected whether the confrontation would subside or escalate. The November demonstrations became news elsewhere because the circumstances spoke to experiences familiar to students in other schools. The mechanism of solidarity depended upon letters, printed notices, personal contacts, and organizational assistance; it was not an automatic emotional reaction across the country. Participants invested work and accepted risk in order to turn a local protest into wider action.",
+        "Public support was not uniform. Parents and teachers weighed the likely punishment of students against the injustice they perceived. Some organizations wished to coordinate protest but feared arrests that could destroy fragile networks. Others saw a moment in which broader mobilization was possible. Such disagreements should not be hidden behind a celebratory image of total unity. A movement becomes larger precisely because people make different calculations and still find reasons to act together on particular demands. The expanding protests involved female students as well as male students, but surviving narrative traditions have not always paid equal attention to their organization and demands. An evidence-conscious account must look for their voices without inventing them where the records are silent."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "VIII.9.8:b06",
+      "title": "Political education continued after the demonstration",
+      "paragraphs": [
+        "A demonstration did not exhaust a student's political life. Punishment, expulsion, surveillance, and changed family circumstances could alter future choices. Some participants maintained connections with activist groups, while others returned to study or work under continuing restrictions. Historical memory often follows the best-known leaders, but an account of the movement's social consequences needs to consider dispersed experiences. A student's ability to continue education depended on family resources and official responses; a working-class household might have fewer options after an expulsion than an affluent one. Thus the cost of protest was distributed unequally even within a shared political campaign.",
+        "The longer history of student action also shows why the label youth should not stand as a complete explanation. Educational institutions generated particular grievances and forms of organization. The March First protests of 1919, the June Tenth demonstrations of 1926, and the Gwangju movement of 1929 occurred in different immediate circumstances, yet activists could learn from prior methods of communication and from the risks of repression. Later generations drew upon those episodes again. Linking them through continuity of organizing is more persuasive than treating every student protest as an identical expression of timeless courage. Such a perspective grants students agency while retaining the changing political and social conditions that shaped their action."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "VIII.9.8:b07",
+      "title": "The classroom and street as contested political spaces",
+      "paragraphs": [
+        "Schools could teach discipline, respect for rank and obedience, yet they also placed large numbers of young people in regular contact with peers who shared grievances. Students encountered public ideas through classes, newspapers, literary circles and informal conversation; this did not turn each classroom into a clandestine organization. The relationship between an academic institution and political action changed when particular encounters, punishments or incidents gave private criticism a public focus. A local demonstration could expand as other students recognized similar experiences and created channels of solidarity. The significance of student protest therefore lies not merely in the courage of young participants but in the social infrastructure of education: schedules, dormitories, clubs, journeys home and networks of alumni.",
+        "The Gwangju student movement of 1929 spread beyond one locality, but the process was neither instantaneous nor socially uniform. Organizers had to produce arguments persuasive to people with different commitments, and colonial authorities tried to isolate the unrest through school discipline and policing. Protest brought immediate educational risks; expulsion or arrest could alter a young person's chances of employment and family support. Participation was therefore a decision made amid obligations rather than a cost-free statement of national sentiment. A history attentive to these circumstances treats students as social actors negotiating institutional pressure, family expectations and political ideals, not as a single heroic mass with identical motives."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "VIII.9.8:b08",
+      "title": "Women, visibility, and the unequal archive",
+      "paragraphs": [
+        "The category of 'student activist' can conceal divisions of gender, school type and economic means. Girls' schools and women's organizations produced their own patterns of mobilization, and girls could challenge both colonial surveillance and the expectation that respectable female education avoid political controversy. Their participation should not be included merely as a footnote to male-led demonstrations. To recover it requires attention to names in disciplinary lists, recollections, local association records and press accounts whose authors did not necessarily share women's interpretation of events. Women who organized food, messages or shelter for others might never appear in arrest statistics, yet these contributions shaped whether a protest could continue.",
+        "Not all students had the same access to print, travel or sustained education. Urban institutions were more visible to colonial authorities and later commemorators than small local schools. A regional archive may preserve detailed police surveillance of one meeting while leaving another network nearly invisible. Researchers should resist turning documentary visibility into a hierarchy of patriotism. The absence of a written record about a particular group is an invitation to search other records, not a license to supply a fictional scene. The history of youth politics is strongest when it explains the structures that made certain voices loud and others difficult to hear."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "VIII.9.8:b09",
+      "title": "The problem of memory after independence",
+      "paragraphs": [
+        "Commemorations of student protest often assign a movement an exemplary role in the nation's eventual liberation. The recognition is understandable: public opposition by young people under a coercive colonial regime involved substantial personal risks. Yet celebrating later outcomes may flatten the original diversity of ideas. Some students wanted national independence immediately; others organized around discriminatory schooling, political freedoms or particular cases of repression; many held several grievances at once. A careful narrative can describe the convergence of demands without imposing a single retrospective manifesto on every participant.",
+        "These episodes also changed in significance as former students grew older, entered new political camps and remembered their youth in divergent ways. A memoir written decades later may capture the force of personal experience while inadvertently rearranging chronology or emphasizing later beliefs. Colonial police files possess dates and names but were produced to control dissent. Newspapers chose what to print under censorship. Reading these sources against each other produces a more credible, and often more moving, picture than reliance on one commemorative tradition alone. It also reminds readers that the participants did not know the future: they acted under uncertainty, making student politics a history of choices rather than an inevitable chapter in a national script."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "VIII.9.8:b10",
+      "title": "What different records permit us to establish",
+      "paragraphs": [
+        "A protest chronology assembled from multiple sources is stronger than a famous anniversary alone. A contemporary notice might indicate that a meeting was planned, without proving that everyone attended. A police report can document detention while describing motives in the vocabulary of colonial administration. A school register establishes enrollment, but not a student's private loyalties; a memoir supplies feeling and recollection, but is vulnerable to hindsight. Each source answers a different question, and their points of agreement deserve more weight than any one dramatic detail. When witnesses disagree about a crowd's size, a route through the city, or the order of arrests, the disagreement belongs in the narrative rather than beneath it. The decision to preserve uncertainty is not a failure to honor the participants. It allows their difficult choices, made with incomplete information, to appear as history rather than prearranged legend."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    }
+  ]
+}

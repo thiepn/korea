@@ -27,6 +27,8 @@ collections=[
  ('opening-korea-treaty-ports-complete','Opening Korea: the full treaty-port Chapter','Ten connected histories of commerce, jurisdiction, Qing and Japanese diplomacy, technical learning, ideas, and the 1882 United States treaty.','Ten connected readings',[f'VIII.1.{i}' for i in range(1,11)]),
  ('late-joseon-family-complete','Later Joseon: families and everyday life','Ten connected studies of lineages, marriage, childhood, labor, houses, clothing, food, illness and mourning in a changing society.','Ten connected readings',[f'VII.5.{i}' for i in range(1,11)]),
  ('goryeo-foundation-complete','Goryeo: the full founding and consolidation Chapter','Ten connected studies show how royal marriages, uncertain succession, reforms, land revenue, provincial administration and court memory shaped a dynasty after 936.','Ten connected readings',[f'V.1.{i}' for i in range(1,11)]),
+ ('goryeo-religion-complete','Goryeo: religion and the many worlds of belief','Ten linked histories of kingship, monastic work, learning, rites, lay devotion, and the meeting of Buddhist and Confucian practice.','Ten connected readings',[f'V.5.{i}' for i in range(1,11)]),
+ ('independence-movements-complete','Korean independence: movements and contested strategies','Ten linked histories of 1919 republicanism, borderland armed movements, cultural and class politics, students, and wartime resistance.','Ten connected readings',[f'VIII.9.{i}' for i in range(1,11)]),
  ('ideas-and-expression','Ideas and expression','Foundation stories, learning, writing, reform, and cultural influence.','Cultural history',['II.1.2','IV.2.2','V.1.5','VI.4.2','VIII.1.5','X.5.10']),
 ]
 trails=[]

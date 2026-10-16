@@ -1,0 +1,62 @@
+{
+  "id": "V.5.10",
+  "title": "Everyday Religion: Women, Lay Believers, Local Communities, and Religious Pluralism",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "요세의 백련결사와 천태사상 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_067_0100",
+      "role": "Epigraphic extract in Dongmunseon with NIHK historical commentary on religious associations"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "연등회와 팔관회 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_067_0020",
+      "role": "Primary Goryeosa quotations on royal lantern and Palgwan ritual; compiled retrospectively"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.5.10:b01",
+      "title": "Religion through the eyes of the household",
+      "paragraphs": [
+        "Most people in Goryeo did not spend their days debating the relationship between doctrinal learning and Seon. Their encounters with religion might center on birth, illness, marriage, the threat of a poor harvest, or the death of a family member. Buddhist rites provided one language for hope and mourning, but households could draw on other practices and local networks. A single family might contribute to a monastery on an anniversary, remember ancestors within kinship arrangements, and seek ritual attention at a place locally regarded as powerful. We should not force these actions into an exclusive confessional identity. Historical evidence often reveals a practice without recording a participant's systematic account of why it belonged to one religion rather than another.",
+        "The sources privilege those able to commission durable inscriptions or enter a monastery's written accounts. This creates a powerful distortion. A named donor may tell us more about the capacity of affluent households to memorialize devotion than about the intensity of belief among poor villagers. Women sometimes appear as patrons or commemorated figures, but their actions should not be read as representative of all women. Servants and cultivators often enter documents only when they are attached to a property transaction. Their religious experiences must therefore be approached through qualified reconstruction rather than imagined quotations. To recover ordinary religious life is as much a task of respecting archival silence as of finding exceptional examples."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The Yeose religious-association inscription mentions social participants in a Buddhist network, but it is a commemorative document.",
+          "sourceIndex": 0,
+          "locator": "『동문선』 권117 원묘국사비명 / 결사 참여",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.5.10:b02",
+      "title": "Women, giving, and moral agency",
+      "paragraphs": [
+        "Women could support temples, dedicate offerings, and participate in family rites, though possibilities varied with status, wealth, and the stage of life. A royal or aristocratic woman had access to resources unavailable to a field laborer, and the survival of memorial inscriptions compounds that difference in visibility. Yet religious activity could provide forms of agency that do not fit neatly into later assumptions about formal officeholding. Commissioning a prayer, supporting the copying of a text, or sustaining a commemorative rite could express personal intention and strengthen ties within a kin network. Such actions also involved material choices about how resources should be used. The devotional and economic dimensions cannot responsibly be separated by declaring one genuine and the other secondary.",
+        "Household religion also carried disagreements. Relatives might differ on the appropriate use of property, the scale of an offering, or which rituals should mark a death. Specialists could offer different counsel. The ideal of an orderly religious household may therefore be a prescription created precisely because actual life involved uncertainty. Historians who find instructions about correct rites should ask what problems they sought to settle. This is especially important when reading a later text that portrays the dynasty's religious past as either exemplary or decadent. Such judgments reveal changing standards of criticism as well as earlier practices. The language of reform is evidence for a debate, not an omniscient report on what every family believed."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.5.10:b03",
+      "title": "Local communities and the rhythms of obligation",
+      "paragraphs": [
+        "Village religious activity followed rhythms that differed from the royal calendar. Agricultural seasons, local festivals, exchanges of labor, and family commemorations could organize participation. Temples benefited from such patterns, but the scale and form of local observance cannot be mapped from a metropolitan court list. A familiar difficulty recurs: records that describe exceptional royal ceremonies are detailed precisely because they are exceptional, while ordinary practices are less likely to be recorded. The historian must avoid converting an elite archive into a comprehensive social survey. Material remains and regional documents can widen the picture, although interpretation must allow for uncertainty about use and meaning.",
+        "Religious plurality was not necessarily an abstract celebration of tolerance. Different practices could coexist because they served different purposes or because communities negotiated their claims. At times, competition for patronage, labor, land, or prestige could sharpen boundaries. Goryeo's religious world was held together through shared landscapes and social obligations rather than through the absence of conflict. The most persuasive account brings patrons and practitioners into the same history as anonymous workers, travelers, mourners, and neighbors. It shows how an institution praised for learning or royal protection also entered the choices and constraints of people who would never write a theological treatise."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

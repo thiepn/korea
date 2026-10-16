@@ -1,0 +1,56 @@
+{
+  "id": "V.5.5",
+  "title": "Monasteries, Temple Lands, Monastic Communities, and the Buddhist Economy",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "장경도감 / 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048250",
+      "role": "Specialist overview of the different canonical printing institutions and their dates"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.5.5:b01",
+      "title": "Temples were workplaces as well as sanctuaries",
+      "paragraphs": [
+        "It is tempting to describe a medieval monastery only through its images, ceremonies, or prominent masters. But a functioning community needed kitchens, stores, roofs, fuel, fields, tools, paths, water, and people whose labor kept its religious life possible. Monks who recited texts or taught pupils occupied buildings that had to be repaired. Visitors consumed food; festival crowds required accommodation; ritual offerings required materials grown or purchased elsewhere. Some monasteries were supported by extensive land and donors, while others operated on a more precarious scale. The economy of Buddhist institutions therefore joined agriculture to learning and liturgy. This does not make religious devotion insincere. Rather, it places it in the world where people must sustain convictions through tangible expenditure and organized work.",
+        "Temple property could connect institutions with local communities in unequal ways. Endowment might provide stability for teaching and charity, but the income from land had to be raised somewhere. Villagers who cultivated temple-affiliated plots did not necessarily share the perspective of officials who praised a gift's merit. A document concerning rights to produce or fees can illuminate the structure of that relationship more clearly than a pious inscription, yet each source has limits. The inscription foregrounds an ideal; the document records a claim. Neither automatically reveals how a cultivator experienced a particular year's harvest. General claims that monks were either benevolent providers or exploitative landlords erase variation among establishments and the changing constraints of specific periods."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "AKS describes organized Buddhist printing institutions whose work relied upon material resources and state support.",
+          "sourceIndex": 0,
+          "locator": "장경도감: 국가 간행 사업과 교장도감",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.5.5:b02",
+      "title": "Monastic households and specialized labor",
+      "paragraphs": [
+        "The community around a temple was not homogeneous. Ordained specialists followed particular disciplines and lineages; lay workers supplied service, craft knowledge, and agricultural labor; patrons arrived with expectations; travelers might remain for only a few days. Some work was seasonal, while repairs or copying enterprises demanded more concentrated mobilization. The surviving names often privilege donors, abbots, and court officials. That imbalance in evidence should shape how a historian narrates the institution. One can reconstruct that an enormous woodblock project demanded skilled carving, timber preparation, transport, proofreading, and storage without inventing a complete list of wages or the identities of every worker. Physical objects provide evidence for work even where records do not preserve its social arrangements in detail.",
+        "Many donors wished to create lasting memorials through gifts of land, buildings, or ritual implements. Endowment could keep prayers or commemorations going beyond a single lifetime. Such acts linked family memory with institutional continuity. In return, the monastery acquired obligations to maintain a practice and manage the resources intended to sustain it. Those obligations could outlast the political fortunes of the donor's family, but they might also be contested by heirs, neighboring landholders, or changing governments. Property histories reveal religion as a network of durable promises subject to ordinary disagreement. In a realm where royal, aristocratic, and regional interests intersected, the economic independence of a monastery could be both the basis for intellectual work and a source of political concern."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.5.5:b03",
+      "title": "Work, wealth, and criticism",
+      "paragraphs": [
+        "Criticism of monastic wealth is part of Goryeo religious history, but it needs chronological precision. Writers disturbed by apparent luxury could portray the monastery as neglecting its obligations. Reforming monks could call for discipline and cultivation without necessarily rejecting the material provisions required by a community. Officials concerned about taxation could view privileged estates as competing with state revenues. These arguments are not interchangeable. A charge of doctrinal laxity is different from a dispute over fiscal exemptions, even when both concern the same institution. A historian should resist reading every late critique backward into the supposed essence of Goryeo Buddhism. Temple economies expanded and contracted in response to patronage, conflict, and administrative change.",
+        "The material foundations of religious institutions offer a bridge to social history. When monastic accounts survive, they can place food and land in view; when buildings remain, their scale and construction reveal the labor involved in preserving a cult and its texts. When neither survives, a generalization should remain qualified. Rather than asking whether religion was 'spiritual' or 'economic,' one can ask how a society distributed labor in order to maintain spiritual commitments. That question restores artisans, tenants, porters, and kitchen workers to a history too often written entirely through elite patrons and renowned teachers. It also explains why periods of invasion or crop failure threatened much more than ceremonial splendor: they disrupted the material conditions of Buddhist community life."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

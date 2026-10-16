@@ -1,0 +1,142 @@
+{
+  "id": "VIII.9.3",
+  "title": "The Provisional Government of the Republic of Korea: Republic, Diplomacy, and Government in Exile",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "대한민국 임시 헌장 (1919.4.11.)",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_123_0060&treeId=010701",
+      "role": "Primary provisional charter in Korean; ideals do not prove implementation under colonial rule"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "대한민국 임시 헌법 (1919.9.11.)",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_123_0100",
+      "role": "Primary text of revised provisional constitution and scholarly discussion of organizational unification"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "임시정부 개편 노력 / 국민대표회의 선언서 (1923)",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_123_0115",
+      "role": "Primary declaration and analysis of competing provisional-government reform plans"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "대한민국임시정부의 어려운 형편 / 백범일지",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_126_0055",
+      "role": "First-person retrospective memoir excerpt; memory and perspective must be evaluated"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.9.3:b01",
+      "title": "What does a republic mean when it cannot govern its territory?",
+      "paragraphs": [
+        "The March First demonstrations exposed a national demand for independence but did not answer how a Korean government could be organized while colonial rule continued. In 1919, activists advanced competing proposals in Shanghai, Seoul, and the Russian Far East. Each drew upon contacts and political ideas formed before and during the protests. The Shanghai Provisional Government became central to the later story, but the early existence of more than one claimed authority reveals that national agreement on an objective did not automatically produce agreement on institutions. The founding of an assembly, the adoption of republican language, and the appointment of officials were acts meant to create legitimacy in circumstances where ordinary elections and the possession of a capital were impossible. Government existed initially as a claim sustained by people willing to recognize and act upon it.",
+        "That claim mattered. A republic proposed citizenship in place of dynastic subjecthood and sought to make sovereignty belong to the Korean people. It also had to confront the enormous distance between constitutional vocabulary and effective power. An executive decree issued abroad could not be enforced across Korea as though colonial police were absent. The government's supporters nevertheless developed communications and fund-raising networks through which orders, information, and resources moved. These were fragile channels; what survived in formal archives may exaggerate their reach. To understand the Provisional Government, one must evaluate both its constitutional imagination and its actual capacity. Declaring a new political order is not identical to establishing it, yet the declaration may shape future expectations and relationships in ways that endure beyond the immediate institution's weakness."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The April 1919 provisional charter declares a democratic republic and formal equality.",
+          "sourceIndex": 0,
+          "locator": "대한민국 임시 헌장 제1조·제3조",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.3:b02",
+      "title": "The labor behind exile government",
+      "paragraphs": [
+        "Government in exile depended upon clerks, couriers, typists, translators, financiers, and hosts whose activity rarely occupies the center of celebratory accounts. Maintaining an office could involve arranging a lease, finding paper, preserving confidential lists, receiving displaced people, and persuading supporters to contribute again after disappointment. Financial pressures made claims of authority especially vulnerable. Officials could disagree about priorities or resign; supporters might prefer other leaders or alternative forms of struggle. Political continuity could not simply be assumed from a government name. Documents recording changing ministers and locations reveal both an institution's persistence and the difficulty of sustaining coherence without secure territory or a regular tax base.",
+        "Diplomacy was similarly laborious. Delegates needed introductions, translations, petitions, and ways of making Korea visible within international discussions dominated by larger states. The postwar rhetoric of self-determination inspired hopes, but the distribution of diplomatic power after the First World War limited those hopes sharply. Korean emissaries could present a persuasive moral case without being admitted to the negotiating tables that determined the settlement. The rejection or marginalization of a claim did not mean that the effort was pointless, but it demanded a reassessment of methods. Some activists regarded international lobbying as necessary preparation; others feared it displaced the effort to organize power more directly. These disagreements should be narrated as competing political strategies rather than as moral tests of commitment."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.9.3:b03",
+      "title": "Unity remained unfinished work",
+      "paragraphs": [
+        "The incorporation of rival governmental initiatives in 1919 is often presented as a decisive founding moment. It was a significant institutional step, but ideological disagreement did not disappear. Constitutional visions ranged across different interpretations of republican leadership, popular representation, and the relation between a provisional executive and military activity. As years passed, divisions over foreign patrons, fundraising, and administrative structure could deepen. At particular moments, the Provisional Government's formal survival depended upon individuals whose perseverance outlasted the resources at their disposal. A government can possess symbolic significance and suffer severe organizational weakness at the same time. A history that acknowledges both gives fuller meaning to the persistence of its supporters.",
+        "The Provisional Government's later place in South Korean constitutional memory is a second historical question, distinct from its day-to-day functioning in exile. Later generations have good reasons to remember republican language and resistance. Their commemorations, however, cannot supply retroactive evidence for the degree of control exercised in a specific locality in 1920. Primary documents, colonial surveillance reports, private letters, and retrospective constitutional interpretations should be read as sources with different purposes. The story is neither an effortless birth of modern democracy nor an inconsequential circle of exiles. It is an account of how people without a sovereign state attempted to construct one in words, institutions, foreign relationships, and dangerous communication networks."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VIII.9.3:b04",
+      "title": "What a government-in-exile could claim to represent",
+      "paragraphs": [
+        "Representation presented the Provisional Government with a problem no constitutional article could settle by itself. How could an assembly chosen in circumstances of occupation and dispersal speak in the name of a population denied ordinary political participation? Supporters relied on the moral legitimacy of the independence cause, personal connections among activists, and their willingness to take organizational risks. Yet rival groups could offer their own claims, sometimes equally rooted in anticolonial commitment. Debates over leadership were therefore not simple contests between patriots and opponents. They concerned procedure, accountability, foreign relations, and the concentration of scarce resources. A government seeking to embody a nation also had to persuade its most active supporters that it was entitled to make difficult choices on their behalf.",
+        "Legal language gave these debates a common framework. A constitution could identify institutions and articulate principles even when it could not create the normal administrative conditions for their exercise. The ideal of popular sovereignty might be announced more clearly than it could be implemented. This gap did not necessarily make the language hollow. Political movements often use institutions to declare standards against which their own conduct can later be judged. The question is whether the institution's actual decisions, membership practices, and claims to authority are documented. A surviving text proves that a constitution was adopted or circulated; it does not prove that all supporters understood it alike or that the government exercised full authority over every affiliated organization."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VIII.9.3:b05",
+      "title": "Communication across an occupied peninsula",
+      "paragraphs": [
+        "The practical difficulty of communication is easy to underestimate in a narrative centered on declarations. The Provisional Government needed ways to exchange messages with supporters in Korea and other diaspora communities, transmit instructions, and receive money. Its communications and liaison systems required local contacts who risked arrest. A successful dispatch might result in little archival record, while a disrupted route could leave extensive police documentation. This uneven survival complicates the historian's task. Colonial investigations may identify particular couriers or fundraisers but also reflect the priorities of an authority seeking to criminalize their activity. The historian must check dates, compare independent accounts, and avoid converting an interrogation's claims into unqualified fact.",
+        "Fundraising was inseparable from political confidence. A contributor who trusted a particular representative might distrust another claimant to leadership. Distance encouraged rumors; changing circumstances could interrupt supplies; activists had to justify expenditures to supporters with little ability to inspect what was being done. The mundane details of keeping receipts, replacing lost correspondence, and maintaining secure addresses were central to the existence of the institution. They also limited what leaders could promise. A proclamation of national representation could inspire hope, while the actual apparatus operated through the uncertain cooperation of individuals far from the office where decisions were announced."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "VIII.9.3:b06",
+      "title": "Exile government and the politics of the future",
+      "paragraphs": [
+        "Participants disagreed over the relationship between diplomacy, education, direct action, and building military capacity. These were not only disagreements about speed. Each strategy assumed something different about the international system and the kinds of power available to Koreans. Diplomatic activists hoped a favorable global settlement could open possibilities; supporters of armed resistance doubted that foreign governments would act without pressure; organizers of social institutions worried about the long work of making a future state viable. The Provisional Government attempted to operate within and across these debates. Its authority expanded or contracted according to whether people accepted its role in allocating attention and resources among them.",
+        "The government's later place in the Republic of Korea's public memory is historically important but should not determine how earlier choices are described. The actors of 1919 did not possess a map of the Korean political settlement after 1945. They imagined a sovereign future while living through a present in which their claim remained contested and often precarious. That uncertainty makes the constitutional experiment more, not less, significant. It reveals how people attempted to make sovereignty institutionally imaginable before they could exercise it territorially. The achievement should be measured through texts, networks, diplomacy, organizational continuity, and demonstrated action, with the limits of each kind of evidence made clear."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "VIII.9.3:b07",
+      "title": "The provisional republic as a living constitutional experiment",
+      "paragraphs": [
+        "A declaration of republican government in exile was both a claim against Japanese colonial sovereignty and a proposal about authority among Koreans themselves. The 1919 provisional charter did more than nominate officials: it set out a democratic republic, formal equality and a range of freedoms, presenting a prospective political order in language that colonized people could debate. Its textual boldness should be neither dismissed because it lacked a liberated territory nor inflated into proof that every principle was routinely upheld. Political legitimacy and practical ability are different historical questions. A movement's constitution can embody sincere commitments even while its resources, representation and policing powers remain fragile. Reading the articles alongside institutional correspondence and contested leadership decisions helps distinguish these dimensions.",
+        "The charter also records a striking tension. It imagined public membership unqualified by status or wealth and yet was written in a setting where communication with people under occupation was hazardous. Elections, legislative consultation and governmental accountability could not operate as they would in a state possessing secure jurisdiction. Provisional institutions used meetings, nominations, correspondence and claims of delegation to make political decisions across distance. These practices deserve to be reconstructed on their own terms rather than judged only against a modern national electoral system. The larger question is how a community denied legal recognition by the colonial power sustained the idea that popular sovereignty, not imperial administration, authorized public rule."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "The September 1919 provisional constitution assigned sovereignty to the Korean people.",
+          "sourceIndex": 1,
+          "locator": "대한민국 임시 헌법 제2조, 1919.9.11",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.3:b08",
+      "title": "The costs of unity among competing routes to independence",
+      "paragraphs": [
+        "The attempt to join initiatives in Shanghai, the Russian Far East and Korea itself into a unified government illustrated both ambition and constraint. Each had its own political inheritance and supporters. Agreeing on the form of a single institution did not automatically reconcile diplomatic strategies, military organizing or relationships with social movements. Even activists who accepted the need for common representation could dispute the financial and organizational privileges of a particular leadership. The clashes are more than an embarrassing interruption in an otherwise smooth story of national unity. They show that the idea of independence did not prescribe a single method for achieving it, nor an uncontested constitution for the future state.",
+        "The National Representatives' Conference of 1923 arose from a profound dissatisfaction with the movement's leadership and direction. Its debates are evidence of political creativity as well as division: participants recognized the necessity of coordination while arguing about who should lead and how institutions should be remade. Subsequent memories often select whichever faction appears closest to later political outcomes. A historian instead asks what information was available to participants in 1923, what resources they expected, and what risks they perceived in choosing diplomacy, reorganization or new forms of struggle. That restores uncertainty to decisions later narrated as steps toward an inevitable end."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "VIII.9.3:b09",
+      "title": "Diplomatic language and everyday administration",
+      "paragraphs": [
+        "Letters addressed to foreign governments were often written to persuade audiences unfamiliar with Korean society and cautious about antagonizing Japan. Their rhetoric emphasized principles likely to resonate with international law and the postwar discourse of self-determination. The political opportunities were nevertheless limited by great-power priorities. The failure of a petition to secure recognition cannot by itself prove that its authors were unserious; nor does the eloquence of the petition prove that officials abroad possessed leverage. The process has to be traced through actual submissions, responses, meetings and omissions. Silence in another government's archive may mean indifference, bureaucratic triage or a record not preserved; it should not be turned into an invented conversation.",
+        "Meanwhile the daily administration of an unrecognized government consumed money and labor. The rent of an office, salaries or subsistence for workers, copying costs and messages all required support. Money might arrive irregularly from compatriots who had their own responsibilities and their own ideas about priorities. Couriers and fundraisers faced particular danger when they operated under colonial surveillance. Their work created channels by which the political center could learn about distant activity and project influence back toward it. Such channels also broke. A sober history makes space for lost funds, imperfect information and people whose names disappeared after an arrest or a move to another city."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    }
+  ]
+}

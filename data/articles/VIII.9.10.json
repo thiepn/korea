@@ -1,0 +1,62 @@
+{
+  "id": "VIII.9.10",
+  "title": "Armed Resistance after 1931: Manchuria, China, the KPG, and the Allied War",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "대한민국 임시 헌법 (1919.9.11.)",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_123_0100",
+      "role": "Primary text of revised provisional constitution and scholarly discussion of organizational unification"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "봉오동·청산리 전투 / 우리역사넷",
+      "url": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0040",
+      "role": "Legacy textbook overview; useful orientation, not uncritical evidence for disputed casualty totals"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.9.10:b01",
+      "title": "After 1931 the map of resistance changed",
+      "paragraphs": [
+        "Japan's expansion into Manchuria in 1931 transformed the political geography in which Korean independence organizations had operated. Military occupation and wider war made some earlier bases much less secure while generating new opportunities for coalition against Japanese expansion. Korean activists interacted with Chinese nationalist and communist organizations, but cooperation depended upon shifting military conditions and political negotiations. There was no single Korean armed movement directed by one headquarters throughout the 1930s and 1940s. Different groups operated in different regions, followed different political visions, and adapted to changing sources of support. The history becomes intelligible only when these distinct trajectories are placed on the same map without collapsing them into one unified army.",
+        "The Chinese mainland offered spaces for diplomacy, armed preparation, and government-in-exile activity, while also exposing Korean organizations to the needs and constraints of their hosts. Korean fighters in the northeast encountered guerrilla warfare shaped by difficult terrain and the vulnerability of civilian populations. Other organizations attached their fortunes to Chinese Nationalist institutions and eventually to the wider Allied struggle. Their goals overlapped in opposition to Japanese rule but did not always include agreement about postwar Korea. Describing them simply as 'the resistance' can be useful in a broad overview but becomes misleading when it replaces careful explanation of command structures and ideological difference."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Korean independence army activity formed part of a changing, multi-front armed movement beyond the peninsula.",
+          "sourceIndex": 1,
+          "locator": "봉오동·청산리 전투 및 해외 독립군 개관",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.10:b02",
+      "title": "Training for a war with an uncertain end",
+      "paragraphs": [
+        "Military training required time, equipment, and dependable support. The creation of the Korean Liberation Army under the Provisional Government in 1940 was an institutional statement that a Korean government-in-exile intended to contribute armed forces to the struggle against Japan. The scale and autonomy of the force were conditioned by relations with Chinese authorities. Military significance must be assessed in light of its actual resources, proposed operations, and connections to Allied planning rather than measured only by its ceremonial name. The existence of an army did not guarantee the ability to mount independent large-scale campaigns. It did, however, supply a visible organization through which supporters could articulate a claim to participate in liberation.",
+        "Elsewhere, Korean participants fought in contexts whose later political trajectories diverged sharply. The fact that people opposed the same empire did not mean they trusted one another or held a common vision for the peninsula. In subsequent decades, the Cold War encouraged both Koreas to emphasize lineages of resistance that supported their separate claims to legitimacy. Such commemorations contain valuable testimony and reveal the politics of memory, but they cannot replace a chronological analysis of the diverse wartime groups. Historians must distinguish a later state's preferred genealogy from evidence about wartime affiliation and action."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.9.10:b03",
+      "title": "The end of empire did not settle the meaning of independence",
+      "paragraphs": [
+        "The Japanese surrender in August 1945 ended colonial rule but did not immediately restore a single independent Korean government. American and Soviet occupation arrangements, disputes over domestic political representation, and emerging international tensions created a political landscape very different from the unified sovereignty many activists had sought. Exile politicians, guerrilla veterans, students, socialists, conservative nationalists, and people who had endured colonial rule in Korea all approached liberation with distinct expectations. Their experiences could not be compressed into a single postwar program. The rupture between anticolonial cooperation and postliberation division is one of the central problems of modern Korean history.",
+        "A serious account of wartime resistance does not use the failure to secure immediate unification to discount decades of sacrifice. Nor does it convert the eventual establishment of rival Korean states into the predetermined goal of earlier participants. Their future was open, their resources unequal, and their choices contingent upon foreign governments and local communities they did not command. The history ends with people whose political imagination exceeded the institutions they would inherit. That perspective connects the era of clandestine organization to the history of liberation and partition without letting what happened afterward erase the range of futures resistance activists had once pursued."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

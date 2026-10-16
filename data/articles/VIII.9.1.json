@@ -1,0 +1,62 @@
+{
+  "id": "VIII.9.1",
+  "title": "Post-Annexation Underground Organizations, Exile Bases, and Overseas Independence Networks",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "3·1 독립 선언서 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_123_0040",
+      "role": "Primary declaration and contextual commentary on the mass mobilization of 1919"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "대한민국 임시 헌장 (1919.4.11.)",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_123_0060&treeId=010701",
+      "role": "Primary provisional charter in Korean; ideals do not prove implementation under colonial rule"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.9.1:b01",
+      "title": "Independence after annexation meant building networks without a state",
+      "paragraphs": [
+        "The formal annexation of Korea in 1910 did not create a single underground organization or a unified strategy for its recovery. It removed the possibility of ordinary national political competition, while leaving people with existing educational, religious, commercial, and family connections. Some activists imagined preparing a disciplined generation through schools and social reform. Others sought funds, weapons, foreign recognition, or a place outside the reach of colonial police. These activities could overlap, but they demanded different skills and exposed participants to different dangers. An organization able to circulate a pamphlet in a Korean town did not necessarily have the resources to maintain recruits in Manchuria. The history of early resistance begins with that fragmentation. People had to invent a politics that could survive even when the territory they claimed as a nation was administered by another state.",
+        "Colonial policing gave extraordinary importance to habits that may otherwise appear mundane. A reliable postal address, a sympathetic shopkeeper, an acquaintance working on a railway, or a teacher willing to travel could connect activists separated by mountains and borders. Communications were vulnerable to interception and betrayal, and secrecy could undermine the trust needed for collective work. A group might employ coded correspondence or personal messengers, but every extra transfer created opportunities for surveillance and misunderstanding. The archival evidence is unbalanced: police records preserve investigations and accusations in far greater detail than successful unnoticed conversations. A history written solely from those files risks reproducing the state's view of every participant as a conspirator and overlooking the ordinary solidarities through which political connections were sustained."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The 1919 declaration framed independence as a public moral claim that circulated under colonial rule.",
+          "sourceIndex": 0,
+          "locator": "3·1 독립 선언서, 1919년 3월 1일",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.1:b02",
+      "title": "Borders as opportunities and liabilities",
+      "paragraphs": [
+        "Exile bases developed in Manchuria, the Russian Far East, China, Japan, and beyond because geography changed the possibilities of organizing. Distance from Japanese colonial officials could make education, fundraising, or military preparation feasible. Yet leaving Korea did not mean entering political freedom. Activists encountered Chinese, Russian, or other authorities with their own security concerns. Migrant communities had to negotiate land, work, language, and local relationships as well as support for independence. Some families viewed armed preparation as essential; others feared that military activity would endanger settlements dependent on fragile arrangements with host authorities. The diaspora should therefore be examined as a set of communities with political options and material pressures, not merely a heroic staging ground waiting for the next battle.",
+        "Money linked distant plans to people who might never cross a border. Donations, commercial earnings, remittances, and collections organized by trusted individuals could support travel, printing, schools, and military supplies. Each contribution also demanded judgment about whose leadership deserved trust. When later national histories combine disparate activities under a seamless movement, they can conceal those disputes over authority and resources. Activists asked whether diplomatic representations should come first, whether clandestine training could be maintained, and whether mass education was itself a form of resistance. None of these questions had an answer visible in advance. Understanding the movement requires recovering the uncertainty in which choices were made rather than granting its participants knowledge of the liberation achieved in 1945."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.9.1:b03",
+      "title": "What underground records can and cannot tell us",
+      "paragraphs": [
+        "Documents recovered from police investigations can identify organizations, dates, and names. They are indispensable, but interrogations conducted under coercive conditions raise special evidentiary problems. A confession cannot be treated in the same way as an independently preserved letter, even if it contains useful verifiable details. Memoirs written after liberation present a different difficulty: participants knew what eventually happened and could organize confused early efforts as the prelude to victory. Historians compare such accounts with contemporary newspapers, correspondence, school records, and diplomatic files. Agreement among independently produced records strengthens a claim; repetition among sources sharing a common origin does not.",
+        "The most enduring achievement of the early underground movement was perhaps organizational imagination. Networks made it possible to conceive political activity across boundaries imposed by annexation, while schools and associations kept debates about national survival alive. They were neither uniformly successful nor united. Rivalry, funding shortages, surveillance, and the daily need to work could interrupt projects for years. Some initiatives disappeared with little record. Others supplied people and methods later used in 1919 and after. That unevenness is historical substance, not an embarrassment to be edited away. The story is richer when it explains how activists assembled networks under constraints rather than treating every organization as one stage in an inevitable march toward independence."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

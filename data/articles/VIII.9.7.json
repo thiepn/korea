@@ -1,0 +1,56 @@
+{
+  "id": "VIII.9.7",
+  "title": "Socialism, Communism, Labor, Peasant Movements, and Colonial Class Politics",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "신간회 / 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032606",
+      "role": "Specialist secondary article on the united front founded in February 1927"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.9.7:b01",
+      "title": "Why national freedom and social equality could not be separated for everyone",
+      "paragraphs": [
+        "Colonial rule imposed political inequality, but the society under it was not socially equal. Workers, tenants, small traders, and landowners experienced different pressures. For activists influenced by socialism, the problem of Korean independence was connected with exploitation in factories, mines, fields, and transport. Political sovereignty might remove foreign rule without changing the local distribution of wealth or authority. This argument resonated with people whose immediate grievances concerned wages, rent, debt, and workplace discipline. It did not mean every labor dispute was a direct expression of a unified communist strategy. Local conflicts had their own histories, and participants' goals could range from modest reforms to a comprehensive transformation of society.",
+        "The growth of socialist and communist networks in the 1920s was shaped by events far beyond Korea, especially the Russian Revolution and debates over international revolutionary organization. Translating those ideas into Korean conditions required decisions about class categories, the role of the peasantry, and how to relate to nationalist associations. Activists could disagree intensely while sharing hostility to colonial rule. Later accounts sometimes arrange them into tidy factions defined by fixed doctrines. Contemporary politics was less orderly. Small groups merged or split, people changed allegiance, and police repression disrupted organizational continuity. The circulation of a manifesto reveals an intended program, not the degree to which that program guided every meeting or strike."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The 1927 Singanhoe united left nationalists and socialists and operated within a broader colonial social-movement setting.",
+          "sourceIndex": 0,
+          "locator": "신간회 연원 및 변천, 1927년 창립",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.7:b02",
+      "title": "Workers, tenants, and the practical art of collective action",
+      "paragraphs": [
+        "Organizing a strike demanded more than a slogan. Participants needed trust, agreement about demands, and confidence that others would withstand retaliation. A factory worker could lose wages or employment; a tenant risking eviction faced a different exposure. Organizers had to communicate across work sites and decide whether a dispute concerned pay, treatment, scheduling, contract terms, or wider political objectives. The history of collective action therefore has a material scale. It follows the conditions under which a common grievance became an organization, and the circumstances in which negotiations or repression dissolved one. Statistics on strikes can help establish patterns, but they should be read with attention to changes in reporting categories and the interests of the authority compiling them.",
+        "Rural politics likewise cannot be reduced to a single peasant voice. Tenant cultivators, owner-farmers, seasonal laborers, and village notables occupied unequal positions. Crop failures and price changes could deepen conflicts whose origins lay in contracts and the distribution of land. A peasant association might campaign for lower rent and a fairer division of harvests, while leaders framed the same struggle as part of national liberation. These perspectives were not necessarily incompatible, but the relationship had to be constructed through debate. Historians should not assume that the most ideologically articulate participant spoke for everyone. Petitions, court documents, contemporary reports, and later memories each illuminate different aspects of the dispute."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.9.7:b03",
+      "title": "United fronts and the fear of co-optation",
+      "paragraphs": [
+        "Cooperation between socialist and nationalist groups reflected both strategic need and mutual suspicion. Participants understood that a narrowly organized group could be isolated by colonial authorities. A wider association promised public presence and resources, yet threatened disagreement about leadership, priorities, and acceptable compromise. Some socialists feared that elite nationalists would subordinate labor interests to general appeals for unity. Some nationalists feared that social revolutionary goals would weaken support for independence. The possibility of cooperation therefore required concrete negotiated arrangements, not simply a declaration that all participants loved the country.",
+        "Colonial repression intensified these dilemmas. If a legal association could be banned or its meetings monitored, organizers needed to judge whether public visibility was worth the danger. Illegal networks faced infiltrations and arrests, but public groups could reach audiences otherwise inaccessible. The history of colonial class politics lies in those choices. It is not a subplot that can be added after a familiar political narrative; it changes what independence meant to workers and tenants. An inclusive historical account recognizes that national and class identities could reinforce, strain, or reconfigure each other rather than assuming one necessarily swallowed the other."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

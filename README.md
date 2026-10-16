@@ -251,3 +251,7 @@ Source manuscripts: `content/editorial/batch_j_silla_society.md`, `content/edito
 Chapter VIII.1 now has all ten published topics, with three individually 2,000+-word new essays, bounded source-first imports, 19 passage-evidence anchors, a complete reading route, Korean aliases, and curated links into the earlier history library. The unchanged publishing command is `python3 scripts/build_release.py`; the focused check is `npm run test:l`. See `BATCH_L_REPORT.md` for exact limits, source provenance and verification.
 
 **Batch M:** Ninth complete Chapter `VII.5` (later-Joseon families and everyday life), 8 original articles and 2 append-only deepened articles; 9,000 new words across 58 passages with 14 selected institutional evidence annotations. Current total: 158 articles, 784 passages, 109,655 words, 21 curated routes, 86 atlas landmarks, 132 explanations. See [BATCH_M_REPORT.md](BATCH_M_REPORT.md) for preservation and source limitations.
+
+### Batch O — Religion, resistance and longer historical reading
+
+Batch O publishes 22,930 additional original narrative words across a complete Goryeo religious-life Chapter (`V.5`) and complete colonial independence-movements Chapter (`VIII.9`), plus append-only expansion of earlier work. See [BATCH_O_REPORT.md](BATCH_O_REPORT.md) for authorship, source qualifications, preservation, desktop/mobile browser evidence, and release status.

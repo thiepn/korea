@@ -1,0 +1,56 @@
+{
+  "id": "VIII.9.9",
+  "title": "Singanhoe, Nationalist–Socialist Cooperation, and United-Front Politics",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "신간회 / 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032606",
+      "role": "Specialist secondary article on the united front founded in February 1927"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.9.9:b01",
+      "title": "The promise of an organization large enough to disagree",
+      "paragraphs": [
+        "Singanhoe was founded in 1927 as a cooperation initiative involving nationalist and socialist activists. Its existence challenged the idea that the colonial independence movement divided permanently into incompatible camps. Participants understood the danger of fragmentation and the attraction of a public organization able to mobilize local branches. The agreement was not an intellectual merger. People brought different assessments of social inequality, education, political tactics, and the meaning of eventual self-government. Their ability to work together depended on keeping some disagreements unresolved while selecting activities to pursue in common. In that sense, Singanhoe was an experiment in practical politics under repression, not the discovery of an already unified national will.",
+        "Local branches gave the association significance beyond a few central leaders. A branch could convene meetings, attract supporters, respond to local discrimination, or connect students with a broader public. The relationship between central decisions and local action was not necessarily smooth. Distance, differing membership, and surveillance shaped what each branch could do. Membership estimates and branch totals vary in the historical literature and may reflect changing dates or definitions. Rather than treating an impressive number as the entire explanation for influence, historians should ask how regularly members participated and what kinds of collective work the association sustained. A large nominal organization can have uneven practical reach."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Singanhoe was established in February 1927 as a nationalist-socialist united front.",
+          "sourceIndex": 0,
+          "locator": "신간회 연원 및 변천, 1927년 2월",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.9:b02",
+      "title": "The 1929 student movement and a test of solidarity",
+      "paragraphs": [
+        "Gwangju student protests presented Singanhoe with a challenge that translated its general rhetoric into specific action. Supporting students could draw the organization into confrontation with colonial authorities while demonstrating the relevance of its coalition to a national audience. The episode revealed how educational grievances, nationalist opposition, and wider social organizing might reinforce one another. It also exposed limits. Leaders could disagree about timing, public statements, and the extent to which an association should encourage demonstrations when repression was predictable. A coalition has to manage the consequences of action among members with different tolerances for risk.",
+        "The colonial government regarded forms of organized solidarity as potentially dangerous, and surveillance, arrests, and restrictions constrained what associations could achieve. The resulting pressures altered internal relationships. It is tempting to judge the movement solely by whether it immediately won a political demand. Such a measure would ignore the organizational experience and connections accumulated through local campaigns. Equally, one should not portray every meeting as a step toward inevitable victory. Singanhoe's history contains projects that failed, divisions that deepened, and decisions that made sense to participants without producing the results they desired."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.9.9:b03",
+      "title": "Dissolution and its competing explanations",
+      "paragraphs": [
+        "The association was dissolved in 1931 amid ideological changes, organizational conflict, and shifting strategies within socialist and nationalist circles. Accounts differ on the relative importance of these factors. A historian should identify which explanation is supported by contemporary debates and which arises from retrospective attempts to locate blame. The end of a united front demonstrates that coalition maintenance is itself political labor. Founding declarations do not resolve disagreements about representation, tactics, or class demands. Those disagreements reappear whenever circumstances change enough to force choices the declaration postponed.",
+        "Singanhoe nonetheless remains important because it showed both the possibilities and fragility of broad anticolonial organization. A coalition could give public expression to grievances not easily contained within one ideological movement. It could connect teachers, students, workers, and local associations through overlapping participation. Its failure to survive does not negate those connections, but neither should nostalgia conceal that its participants could not maintain a durable settlement. Reading the history this way makes the episode relevant to the study of political organization more generally: cooperation is never merely an absence of differences; it is a set of institutions and habits through which differences are managed until they can no longer be managed."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}
