@@ -5,10 +5,11 @@ on:
       - feat/batch-q-neolithic-south-korean-society
   pull_request:
     paths:
-      - 'data/articles/**'
-      - 'scripts/**'
-      - 'content/atlas/**'
-      - 'tests/**'
+      # Historical fixture is pinned to Batch Q and must not block subsequent additive batches.
+      - 'data/articles/I.3.*.json'
+      - 'data/articles/X.3.*.json'
+      - 'tests/batch_q_*'
+      - 'tests/fixtures/batch_q_*'
       - '.github/workflows/batch-q-qa.yml'
 jobs:
   historical-corpus:
