@@ -403,6 +403,30 @@
       "detail": "The end of major invasion leaves households, farms and institutions confronting immense disruption."
     },
     {
+      "year": 1600,
+      "id": "VII.5.1",
+      "era": "VII",
+      "date": "Seventeenth–eighteenth centuries",
+      "title": "Lineage compilations shift toward paternal succession",
+      "detail": "The organization of printed genealogies increasingly emphasizes male-line descendants; the transition varies by family and surviving edition."
+    },
+    {
+      "year": 1650,
+      "id": "VII.5.4",
+      "era": "VII",
+      "date": "Later Joseon",
+      "title": "Childhood depends on a web of labor and care",
+      "detail": "Household instructions, inheritance papers and informal teaching reveal different demands on children across social ranks."
+    },
+    {
+      "year": 1680,
+      "id": "VII.5.5",
+      "era": "VII",
+      "date": "Later Joseon",
+      "title": "Household work sustains family status",
+      "detail": "Domestic production and service connect food, textile making, household management and unequal labor obligations."
+    },
+    {
       "date": "Seventeenth–eighteenth centuries",
       "year": 1700,
       "era": "VII",
@@ -411,12 +435,52 @@
       "detail": "Local academies combine books, moral reputation and contests over public influence."
     },
     {
+      "year": 1700,
+      "id": "VII.5.6",
+      "era": "VII",
+      "date": "Seventeenth–nineteenth centuries",
+      "title": "Inner and outer quarters become increasingly differentiated",
+      "detail": "In substantial houses, the changing anchae and sarangchae layout registers gendered reception, work and ritual space."
+    },
+    {
+      "year": 1720,
+      "id": "VII.5.7",
+      "era": "VII",
+      "date": "Later Joseon",
+      "title": "Food preservation and consumption show regional contrasts",
+      "detail": "Household diet follows local crops, price shocks, seasonal preservation, labor and uneven access to resources."
+    },
+    {
+      "year": 1740,
+      "id": "VII.5.8",
+      "era": "VII",
+      "date": "Later Joseon",
+      "title": "Clothing displays rank and transforms through fashion",
+      "detail": "Materials, labor, conventions and market availability affect dress and the visual negotiation of status."
+    },
+    {
       "date": "Late Joseon",
       "year": 1750,
       "era": "VII",
       "id": "VII.5.2",
       "title": "Families remake marriage and inheritance",
       "detail": "Household residence, property rights and ritual obligations change unevenly over generations."
+    },
+    {
+      "year": 1760,
+      "id": "VII.5.9",
+      "era": "VII",
+      "date": "Later Joseon",
+      "title": "Medical care combines formal institutions and household support",
+      "detail": "Female practitioners, medical examinations and kin caregiving operated within unequal systems of access."
+    },
+    {
+      "year": 1800,
+      "id": "VII.5.10",
+      "era": "VII",
+      "date": "Later Joseon",
+      "title": "Mourning and ritual succession reorder family obligations",
+      "detail": "The conduct of funerals and lineage remembrance combines formal ritual ideals with costs, care and local variation."
     },
     {
       "date": "1876",
@@ -566,7 +630,7 @@
       "date": "25 June 1950",
       "year": 1950,
       "era": "IX",
-      "id": "IX.3.2",
+      "id": "IX.3.1",
       "title": "Invasion and the fall of Seoul",
       "detail": "An offensive becomes a war experienced as mass flight, fear and rapidly changing front lines."
     },
@@ -715,11 +779,11 @@
     },
     {
       "from": "IX.1.1",
-      "to": "IX.3.2",
+      "to": "IX.3.1",
       "why": "The unresolved political division of 1945 shaped the crisis that became war."
     },
     {
-      "from": "IX.3.2",
+      "from": "IX.3.1",
       "to": "X.1.2",
       "why": "The war's institutional legacies remain part of the history of civilian rule."
     },
@@ -760,7 +824,7 @@
     },
     {
       "from": "IX.3.3",
-      "to": "IX.3.2",
+      "to": "IX.3.1",
       "why": "The southward collapse after the June invasion set the military and civilian conditions from which the Busan Perimeter defense emerged."
     },
     {
@@ -1207,6 +1271,86 @@
       "from": "VIII.1.2",
       "to": "III.2.2",
       "why": "Comparing Baekje maritime exchange with nineteenth-century treaty ports shows that foreign contact predates the treaty system by many centuries."
+    },
+    {
+      "from": "VII.5.1",
+      "to": "VII.5.2",
+      "why": "The genealogical claim of paternal succession shaped, but never fully determined, marriage and residence decisions."
+    },
+    {
+      "from": "VII.5.1",
+      "to": "VII.5.3",
+      "why": "Women sometimes managed property and labor despite declining prominence in male-line genealogical representations."
+    },
+    {
+      "from": "VII.5.1",
+      "to": "VII.5.10",
+      "why": "Ritual succession and ancestry books give related but different accounts of who should sustain family memory."
+    },
+    {
+      "from": "VII.5.2",
+      "to": "VII.5.4",
+      "why": "Marriage arrangements shaped where children lived, who supported their education and which relatives contributed to care."
+    },
+    {
+      "from": "VII.5.3",
+      "to": "VII.5.5",
+      "why": "Women’s practical authority becomes visible through household stores, textile work and the supervision of dependent labor."
+    },
+    {
+      "from": "VII.5.4",
+      "to": "VII.5.9",
+      "why": "Birth, childhood illness and adult care relied upon overlapping household and specialist networks."
+    },
+    {
+      "from": "VII.5.5",
+      "to": "VII.5.6",
+      "why": "The kitchen, courtyard and inner quarters were workplaces, not simply picturesque architectural features."
+    },
+    {
+      "from": "VII.5.5",
+      "to": "VII.5.7",
+      "why": "Food preservation exposes the hidden time, fuel and labor underpinning hospitality and daily meals."
+    },
+    {
+      "from": "VII.5.6",
+      "to": "VII.5.8",
+      "why": "Dress and residential layout each marked hierarchy, but material resources limited what ideals could be realized."
+    },
+    {
+      "from": "VII.5.7",
+      "to": "VII.5.9",
+      "why": "Diet, scarcity and household reserves affected both vulnerability to disease and the resources available for care."
+    },
+    {
+      "from": "VII.5.9",
+      "to": "VII.5.10",
+      "why": "Serious illness and deaths could turn medical decisions into mourning, succession and economic survival problems."
+    },
+    {
+      "from": "VII.5.1",
+      "to": "VI.4.3",
+      "why": "Changes in Korean writing expanded some forms of household communication without eliminating the prestige of classical genealogies."
+    },
+    {
+      "from": "VII.5.5",
+      "to": "IV.3.6",
+      "why": "Specialized craft labor in Silla offers a longer perspective on production without treating the two periods as identical."
+    },
+    {
+      "from": "VII.5.7",
+      "to": "VIII.1.10",
+      "why": "The everyday consequences of nineteenth-century opening can be compared with earlier household food networks and regional prices."
+    },
+    {
+      "from": "VII.5.4",
+      "to": "X.3.1",
+      "why": "Education in later Joseon illustrates how the meanings of literacy, opportunity and family investment changed historically."
+    },
+    {
+      "from": "VII.5.9",
+      "to": "X.4.3",
+      "why": "Later medical institutions and household care invite comparison with modern health systems while avoiding anachronistic diagnosis."
     }
   ]
 }

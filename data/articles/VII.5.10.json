@@ -1,0 +1,91 @@
+{
+  "id": "VII.5.10",
+  "title": "Aging, Death, Funerals, Mourning, and the Household Life Course",
+  "kicker": "LATER JOSEON · HOUSEHOLD HISTORY",
+  "description": "Original social history of kinship, work, care and everyday lives in later Joseon.",
+  "release": "M",
+  "sourceStatus": "Editorial historical synthesis with selective, claim-level contextual and institutional sources; not independently reviewed sentence by sentence.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "사례 — 관혼상제와 변화",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025508",
+      "role": "Secondary account of shifting ritual priorities including ancestral rites and mourning"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "상례 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0027059",
+      "role": "Historical conceptual description of funeral rites"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "조선 — 가족과 친족",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051904",
+      "role": "Secondary contextual synthesis of family, rites and hierarchy"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.5.10:b01",
+      "title": "Death reorganized those left behind",
+      "paragraphs": [
+        "The death of a household member was both an intimate loss and a reordering of obligations. Care for the sick ended or changed; mourning began; work had to be redistributed; property and ritual succession could become urgent questions. The language of filial piety gave grief a public framework, but the material requirements of funerals were demanding. Families needed help moving bodies, preparing clothing, arranging burial, feeding visitors and maintaining memorial rites. Affluent lineages could draw on specialized expertise and communal funds. Households without those resources faced the same emotional need with fewer practical means."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Funeral rites concerned both treatment of the deceased and restoration of kinship obligations among survivors.",
+          "sourceIndex": 1,
+          "locator": "상례, 정의 및 절차 / 가계의 계승",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.10:b02",
+      "title": "Ritual manuals and actual practice",
+      "paragraphs": [
+        "Confucian rites supplied influential models for mourning periods, funeral procedure and ancestral commemoration. Such manuals represented aspirations and debates, not a uniform ritual observed in every home. A lengthy mourning requirement could interfere with employment and subsistence, raising questions about how less affluent people complied, adapted or failed to comply. Earlier Buddhist practices and local customs did not vanish at the publication of a new ritual book. Historians read prescriptive texts alongside material burial evidence and family accounts to understand how ceremonies actually changed."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Later Confucian four-rites practice intensified mourning and ancestral worship organized through the principal male heir.",
+          "sourceIndex": 0,
+          "locator": "사례, 상례와 제례 변천",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.10:b03",
+      "title": "Memory and the authority to commemorate",
+      "paragraphs": [
+        "The person recognized as principal mourner or ritual successor gained responsibilities and sometimes influence over family property and lineage standing. Adoption and succession disputes could shape how ancestors were commemorated. Women performed indispensable labor during funerals but did not always receive corresponding formal authority in ritual descriptions. A grave marker might celebrate a person's virtue while erasing conflicts that accompanied the burial. Memorial records are evidence about what survivors wished to preserve; they are not unfiltered biographies of those who died."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VII.5.10:b04",
+      "title": "Aging before the funeral",
+      "paragraphs": [
+        "Older people did not all experience dependency in the same way. Some controlled resources and exercised authority over marriage or inheritance decisions; others depended on adult children, neighbors or employers. Frailty could change where a person slept and who supplied food, heating and medical attention. Respect for elders was a powerful stated ideal, but it did not guarantee comfort or security. A household under pressure could experience tensions between obligations to old and young. The history of aging requires attention to both social authority and bodily vulnerability."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VII.5.10:b05",
+      "title": "When mourning entered everyday life",
+      "paragraphs": [
+        "A funeral might draw relatives from distant places and renew connections that ordinary work left unattended. Debt, travel and disputes could emerge alongside solidarity. Annual rites kept a dead person's name attached to living households, although participation and available records remained selective. For some families, burial and ancestral commemoration formed the physical center of lineage identity; others could not maintain such elaborate practices. By following death through administration, work, architecture, feeling and memory, the reader returns to the Chapter's main point: family was continuously made and remade, never merely inherited as an unchanging structure."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    }
+  ]
+}

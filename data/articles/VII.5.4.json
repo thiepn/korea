@@ -1,0 +1,138 @@
+{
+  "id": "VII.5.4",
+  "title": "Pregnancy, Birth, Childhood, Education, and Socialization",
+  "kicker": "LATER JOSEON · HOUSEHOLD HISTORY",
+  "description": "Original social history of kinship, work, care and everyday lives in later Joseon.",
+  "release": "M",
+  "sourceStatus": "Editorial historical synthesis with selective, claim-level contextual and institutional sources; not independently reviewed sentence by sentence.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "조선 — 가족과 친족",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051904",
+      "role": "Secondary contextual synthesis of family, rites and hierarchy"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "가부장제 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000200",
+      "role": "Secondary historical synthesis of female agency and later patrilineal consolidation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "풍속화 — 조선 후기 생활의 시각 자료",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_30&levelId=kc_r300850",
+      "role": "Secondary interpretation of genre paintings; representations are not census data"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.5.4:b01",
+      "title": "A birth was not a private event",
+      "paragraphs": [
+        "The arrival of a child in later Joseon was a family event with medical, ritual, economic, and emotional dimensions. The household prepared bedding and food, sought assistance from relatives or experienced women, and interpreted the infant's survival through both practical expectations and culturally established practices. Pregnancy and childbirth could threaten the lives of mothers and infants, yet surviving literate accounts often present the birth mainly as the production of a descendant. That mismatch is an important warning. A family's need for heirs cannot stand in for a pregnant woman's experience; neither can a later moral text show how every birth was conducted. To reconstruct a childhood, historians combine household papers, legal prescriptions, medical writing, pictures, stories, and sometimes archaeology rather than trusting any one source to describe an average life.",
+        "The care network was often larger than the parents. Grandparents, older siblings, female relatives, neighbors, domestic workers, and sometimes midwives might assist in various circumstances. The household's rank shaped who was available and who was expected to serve whom. A prosperous family could have help with cooking or washing during recovery; an impoverished one could struggle to spare labor during a crucial planting or harvest period. These differences are easy to miss when a surviving family record announces a son with celebratory economy. For historical readers, the interesting question is not simply what rite celebrated the birth but what resources made care possible and whose work allowed everyone else to treat it as an occasion for celebration."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VII.5.4:b02",
+      "title": "Waiting through the first uncertain days",
+      "paragraphs": [
+        "Newborn vulnerability gave the earliest days special significance. Families observed practices of seclusion and household protection whose forms changed by locality and period. Some customs later described under labels such as samchil-il are better treated as evidence of continuing concern over infant survival than as fixed rituals performed everywhere in precisely the same manner. When a baby survived the first weeks, celebrations might acknowledge a passage from uncertainty into greater confidence. Yet a newborn's survival did not settle the family's practical needs. Nursing, warmth, cleanliness, and attentive observation all required sustained labor. Relatives might disagree about recommended food or about how to interpret sickness; a mother could be both the object of concern and the person carrying the largest burden of care.",
+        "Medical texts approached birth in a vocabulary shaped by humoral and cosmological assumptions different from contemporary medicine. Some prescriptions were copied within elite households, while others circulated through spoken advice and local practice. It is anachronistic either to dismiss all earlier knowledge as ignorance or to claim that inherited remedies achieved modern clinical results. A historian can document what people believed, how practitioners were trained, and what techniques they described without endorsing a treatment. For families, the uncertainty of birth could inspire both practical improvisation and ritual appeals. Such responses coexisted, and the balance could change with the availability of practitioners, money, and supportive kin."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VII.5.4:b03",
+      "title": "Childhood demanded work before status",
+      "paragraphs": [
+        "Young children were not simply smaller adults, but neither were they isolated in a protected sphere of play. Age changed what work was expected, and family circumstances changed that timetable. Rural children saw planting, fuel collection, cooking, textile production, and care for younger siblings from close range. A child in a market settlement might assist a vendor or learn the routes of deliveries. In a wealthier household, the presence of servants or enslaved workers altered what counted as a child's duty. Such contrasts matter when we read prescriptive accounts that praise industriousness or filial conduct. The ideals could sound universal while the ability to practice them in a particular form depended on a family's means.",
+        "Gender mattered but did not mechanically determine every skill. Girls might be taught textile work, household management, reading or writing according to the household's priorities and resources. Boys might learn farming, account keeping, or classical study, again with large differences by status. A child's aptitude could be observed, praised, or neglected, yet the evidence rarely permits an intimate psychological portrait. Some documented young people resisted expectations; others sought to meet them because success could bring security. Childhood was therefore a gradual encounter with the obligations of kinship, not a singular ceremony in which one day transformed dependence into mature membership."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VII.5.4:b04",
+      "title": "Learning outside the examination hall",
+      "paragraphs": [
+        "The image of a boy reading classical texts in a village school has become a convenient symbol of Joseon education. It captures an important part of the story but leaves out far more children than it includes. Instruction took place through family teaching, private tutors, local study, apprenticeship, work alongside adults, and oral explanation. Some households possessed books; others relied on access to nearby literate people. Literacy itself had layers. Being able to recognize names or characters, keep a simple account, read vernacular stories, and compose elegant classical prose were very different capacities. The examination-centered path available to certain status groups cannot stand as the model for every child.",
+        "The spread of vernacular writing created additional opportunities for communication and reading, without eliminating the prestige of literary Chinese among educated men. Girls and women could read and write in Korean in settings where formal scholarly recognition remained restricted. The content of learning also differed: practical recipes, letters, ritual instructions, arithmetic, textile measurements, and commercial negotiation could matter as much to a household's functioning as a classical maxim. When an archive consists mainly of prestigious essays, practical expertise becomes strangely invisible. One purpose of social history is to recover the knowledge that never needed to pass an official examination in order to matter."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "Confucian moral expectations coexisted with significant historical changes in kinship and women’s family roles.",
+          "sourceIndex": 1,
+          "locator": "가부장제, 가족제도의 역사적 변천",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.4:b05",
+      "title": "Teaching obedience, producing disagreement",
+      "paragraphs": [
+        "Education was also moral and relational. Children were expected to recognize seniority, perform greetings, respect obligations to parents and grandparents, and understand that actions reflected upon the household. Formal instruction could use Confucian classics and moral stories; informal instruction used correction, observation, reward, and repeated practice. But shared words such as filial piety did not produce identical households. Parents could disagree about a child's future. A son could resist entering study to assist with cultivation or trade; a daughter could insist on a marriage choice that elders considered inconvenient. The surviving archive rarely preserves such conversations verbatim, but lawsuits and household disputes show that normative expectations had to be negotiated.",
+        "Ritual language gave adults ways to justify authority. It also offered younger relatives terms in which to appeal against arbitrariness. A parent who ignored a dependent's needs could be criticized as failing responsibilities, not merely as exercising legitimate control. We should avoid imagining family relationships as either harmonious obedience or constant rebellion. Most households managed routine practical decisions against a backdrop of unequal authority and mutual need. A child's socialization taught both how to defer and how to ask for support, whom to consult, and how to act when obligations collided. The result was a form of practical social knowledge."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "VII.5.4:b06",
+      "title": "Food, clothing, and the rhythm of care",
+      "paragraphs": [
+        "Daily care tied childhood to the household economy. Food depended on harvest quality, transport, land access, wages, and storage. In years of scarcity, adults could make painful choices about portions, borrowing, or migration. Clothing had to be made, mended, and adjusted as children grew; a hand-me-down garment carried evidence of work and resourcefulness. Seasonal cold and heat posed demands on housing, fuel, and bedding. Families with secure storage could buffer some shocks; those already indebted were exposed to rapid deterioration. These structural conditions shaped the experience of growing up more decisively than a single celebrated ritual.",
+        "The household's material infrastructure had educational effects too. A child learning to handle a heated floor, a cooking fire, a loom, or an animal acquired useful caution and skill. Older children might be expected to look after younger ones, gaining responsibility at the cost of time for their own learning. The burden could fall especially heavily on girls but varied by family. An account centered on affection alone misses how care was produced; an account centered on labor alone misses why kin made sacrifices for children. Historical writing must hold both together, while acknowledging that sources record discipline and obligation more reliably than ordinary tenderness."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "VII.5.4:b07",
+      "title": "Children and the written state",
+      "paragraphs": [
+        "The state encountered children through the household. Registration, tax obligations, inheritance, slavery status, and rules governing marriage linked personal lives to administrative categories. A child might be counted for reasons unrelated to personal development, and records could treat status as inherited. Such documents matter enormously to historians but should not be mistaken for a complete census of emotional lives. An age recorded on paper may reflect administrative convention, scribal practice, or imperfect knowledge; it cannot always be converted into a modern birthday. Family registers are evidence of how officials classified people and of where particular people could be found, not necessarily of everyone who actually lived together every day.",
+        "One of the most difficult issues concerns children born into dependency. Where slavery or hereditary status structures applied, the opportunities available to a child could be narrowed before schooling or individual capacity mattered. Describing only educated sons from yangban households distorts that reality. Historians should ask how status appeared in records, whether it could change, and what labor relationships surrounded the child. Yet they should also resist inventing first-person memories for people whose voices do not survive. A responsible narrative can make structural inequality visible without claiming access to a particular child's thoughts."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "VII.5.4:b08",
+      "title": "Leaving childhood had no single threshold",
+      "paragraphs": [
+        "Marriage, work, examination study, movement to another household, and ritual coming-of-age practices could each mark transitions, but not always at the same age. A young person might become responsible for a sibling long before acquiring legal or social independence. Others remained financially reliant on elders into adulthood. The domestic cycle was therefore connected to land, illness, and death as much as to age. An heir's duty to sustain ancestral rites might begin when a parent died unexpectedly; a daughter managing her own family could continue to provide assistance to her birth household. The formal division between dependent children and independent adults often failed to capture these overlapping roles.",
+        "Childhood is best reconstructed through careful juxtaposition of source types. A moral treatise tells us what its author wished parents and children to do; a gift record shows what property a family actually transferred; a household register reveals state categories; a painting can show a pose or setting without proving that scene was ordinary; a medical text documents treatment recommendations without proving outcomes. Their contrasts are the story. The next subject, household labor, traces the many people whose everyday work enabled childhood care to happen. It includes parents and children but also servants, hired hands, and others hidden behind the respectable household's public name."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "VII.5.4:b09",
+      "title": "The politics of remembrance and lost children",
+      "paragraphs": [
+        "Death in infancy or youth could shape what families recorded and what they deliberately left unwritten. A preserved memorial text may idealize a child's brief life through virtues that the child barely had time to demonstrate; an account book might record only funeral expenditures. Children who died without surviving literate relatives often vanished almost completely from historical evidence. That archival loss does not make their lives less consequential. It changes the ethical responsibilities of the historian, who must describe the documentary asymmetry rather than improvise the child's interior voice. When bereaved families sought ritual consolation, practical support or explanations for tragedy, they acted within a world of kin obligations that could be both protective and demanding.",
+        "Surviving stories about prodigiously learned children have particular biases. They tend to praise precocity in forms already valued by educated adults, so they tell us as much about examination culture and household ambition as about children's capabilities. A child remembered for elegant classical composition enters the literary record; a child skilled at bargaining over fuel or caring for younger siblings is much less likely to do so. To compare these forms of skill is not to deny the importance of classical education. It is to ask why an archive gave one kind of learning a durable monument and left another as an unrecorded practice. The distinction deepens our understanding of socialization as a broad human activity rather than a route to a single prestigious career."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "VII.5.4:b10",
+      "title": "Following the child between institutions",
+      "paragraphs": [
+        "A single young person could pass through multiple environments that should not be confused with one another: an ancestral home, relatives' houses, informal work settings, places of learning, markets, and ritual gatherings. Mobility could be temporary, seasonal or permanent. An orphan might depend on an uncle's household; a son might lodge near a teacher; a daughter might move after marriage; a servant child might be transferred by another family's property decision. The last case demonstrates how inequality distorted even the ordinary language of kinship and care. ‘Belonging to a household’ did not always mean receiving its protections on equal terms.",
+        "For historians, tracing these moves requires comparing documents that rarely describe people consistently. Residence appears in a register, an apprenticeship in an account, a kin relationship in a legal claim, and grief in a letter. Each is partial, but their disagreement can be illuminating. A household described as stable in a genealogy might have been constantly rearranging its residents to manage debt, labor, and education. That instability need not imply indifference. It was often a practical answer to scarcity. Childhood was made through these changing relationships, and a complete narrative should let them remain complicated rather than fit them into an idealized picture of an unchanging domestic unit."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    }
+  ]
+}

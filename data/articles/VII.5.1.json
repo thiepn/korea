@@ -1,0 +1,162 @@
+{
+  "id": "VII.5.1",
+  "title": "Patrilineal Lineages, Jokbo, and the Reorganization of Family Identity",
+  "kicker": "LATER JOSEON · HOUSEHOLD HISTORY",
+  "description": "Original social history of kinship, work, care and everyday lives in later Joseon.",
+  "release": "M",
+  "sourceStatus": "Editorial historical synthesis with selective, claim-level contextual and institutional sources; not independently reviewed sentence by sentence.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "족보 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0052821",
+      "role": "Secondary scholarly account; compares early inclusive and later agnatic genealogical structures"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "가부장제 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000200",
+      "role": "Secondary historical synthesis of female agency and later patrilineal consolidation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "분재기 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0024857",
+      "role": "Document genre description for actual property transfers and family inheritance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "별급문기 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0023006",
+      "role": "Surviving period document genre for separate property gifts; not a universal pattern"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "사례 — 관혼상제와 변화",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025508",
+      "role": "Secondary account of shifting ritual priorities including ancestral rites and mourning"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.5.1:b01",
+      "title": "A family could be drawn in several directions",
+      "paragraphs": [
+        "A household in later Joseon could be understood in several different ways, depending on the document and the question being asked. A resident list described people sharing a dwelling or obligations; a marriage arrangement linked families that might live far apart; an inheritance paper named claimants to a particular field or servant; a genealogy presented a longer story of descent. None offered a transparent photograph of daily intimacy. Their combined effect was nevertheless powerful. They made relationships recognizable, enforceable, and disputable beyond the immediate memories of the people concerned. A child's future might be negotiated through a marriage alliance years before a clerk wrote the next record, while an ancestor's name acquired new political importance after several generations. To read these records historically is to ask who needed a relationship documented, whose claim it could validate, and who might disappear between its lines.",
+        "When later writers celebrated the paternal line as the foundation of social order, they described an influential ideal, not a timeless condition. Earlier arrangements could give daughters, sons-in-law, and their descendants an explicit place in property distribution and ancestry. Some families maintained lasting connections to a wife's relatives and even used those relationships to secure housing, labor, or opportunities. A lineage's subsequent decision to emphasize agnatic succession changed how it represented older kin. It did not erase every older practice at once. A document from one century may map a network of mutual marriages while a later compilation converts that network into a sequence of fathers and sons. The difference is a historical change in the meaning of legitimate family rather than a simple improvement in record keeping."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VII.5.1:b02",
+      "title": "Genealogies are constructed archives",
+      "paragraphs": [
+        "The jokbo, or compiled genealogy, was not merely a storehouse of birth dates. Its editors chose organizing principles, gathered testimony, decided which ancestors could be linked reliably, and negotiated which branches to include. Early genealogies sometimes recorded sons and daughters and connections through marriage in ways surprising to readers accustomed to strictly male descent. Later compilations increasingly centered the paternal surname line. The Academy of Korean Studies notes this historical shift in its research account of jokbo: it matters because the format itself produces a picture of social structure. The more standardized the descent diagram, the easier it could become to see an apparently continuous line extending backward through centuries. The apparent continuity, however, was an editorial achievement requiring money, cooperation, and a degree of social authority.",
+        "A genealogy could be consulted as evidence of rank, as a framework for arranging rituals, or as a basis for recognizing someone as kin. Such uses created incentives to preserve information carefully, but also incentives to embellish it, suppress inconvenient marriages, or dispute a branch's standing. A household without the resources to participate in compilation was less likely to leave such a trace. Where a genealogy does survive, the historian should compare its claims with property documents, local registers, inscriptions, and separate editions. Genealogical silence is not proof that a woman lacked influence, just as an elaborate printed family tree is not proof that every named person experienced privileges associated with the illustrious ancestors at the top of the page."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "The format of Korean genealogies shifted from emphasizing varied affinal ties toward a stronger male-line organization.",
+          "sourceIndex": 0,
+          "locator": "조선 전기 족보의 특징 / 조선 후기의 족보",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.1:b03",
+      "title": "The making of a patrilineal common sense",
+      "paragraphs": [
+        "Patriliny grew through rituals, inheritance arrangements, schooling, marriage preferences, and institutional decisions acting together. A family prepared an heir not simply to inherit wealth but to sustain memorial obligations. The man expected to perform ancestral rites became central to household reproduction, and adoption could be used to maintain a ritual line where a recognized male heir was absent. The rules were not identical for all times or places. Families had to balance ideals of eldest-son continuity with the practical need to support children and negotiate among brothers. Records of contested succession reveal precisely the friction that a later genealogy's orderly chart can conceal. Every claim that an arrangement was ‘customary’ should be read alongside the people who contested it.",
+        "For daughters and sons-in-law, the change was consequential even when it did not eliminate all claims. Earlier property documents show women participating in inheritance and asset management. Later ritual priorities and male-line genealogies could shift expectations of what constituted a rightful share or a suitable successor. Yet regional habit, family wealth, the absence of sons, and individual relationships continued to matter. A widow might manage household land during a son's minority; a daughter might be needed to maintain an elderly parent; a maternal relative might secure education or employment. The historian therefore follows the distribution of choices, not a neat dividing line between an ‘equal’ early past and an ‘oppressive’ late one. Change was profound but uneven."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VII.5.1:b04",
+      "title": "Marriage makes a lineage outward-facing",
+      "paragraphs": [
+        "Even a family determined to present itself through an unbroken paternal line depended on ties outside that line. Marriage brought new households together, moved resources across village or county boundaries, and created obligations between relatives who could disagree about precedence. A marriage might be arranged with attention to examination standing, household reputation, land, and the reliability of intermediaries. Kinship operated both through formal rules and through the quiet work of gifts, visits, letters, childcare, and assistance after crop failure. A family could speak the language of hierarchy while relying upon the very maternal and affinal relations that its genealogy displayed only at the margins.",
+        "Elite marriage strategies must not be mistaken for the experience of every family. Tenants, artisans, traders, servants, and poorer cultivators had different resources and vulnerabilities. A carefully negotiated alliance was less useful if it could not pay for a wedding, secure a roof, or feed a new household. Marriage records and moral essays concentrate disproportionately on families able to write and store them. Household formation itself could occur through migration, service, widowhood, or remarriage, subjects that prescribed genealogies often treated awkwardly. A village's real social map was composed of residence, labor, mutual borrowing, and ritual affinity alongside descent. The formal names mattered, but they were not the whole map."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VII.5.1:b05",
+      "title": "The document that divided a life",
+      "paragraphs": [
+        "Property partitions make the negotiations especially visible. A bunjaegi, or division document, could specify fields, houses, and sometimes enslaved people as inheritable assets. Writing an agreement did not guarantee harmony; it acknowledged the possibility of future disagreement and attempted to establish the record that would settle it. A document could name witnesses or scribes and assign shares in ways that explain why a particular child received a certain piece of property. The legal instrument turned intimate family decisions into formal claims capable of surviving the deaths of the people who made them. In the same way, separate gifts recorded on byeolgeup documents might reward examination success, marriages, the birth of a child, or assistance in hardship.",
+        "The historian has to face what the inventory counts. An estate's wealth might include ownership claims over people whose lives were then allocated alongside land. The listing does not communicate their perspective; it registers the property logic of those who controlled the archive. A story that ends with a family's inheritance settlement but never asks about the servants or enslaved laborers named in it is incomplete. Likewise, an inventory can identify a rich relative's silverware more readily than the work of the person who cleaned it. Property documents are indispensable for reconstructing household economies, but their categories reveal the assumptions of a system and the limits of its empathy."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "VII.5.1:b06",
+      "title": "Ancestral rites bind the living",
+      "paragraphs": [
+        "Ritual practice helped make the lineage a continuing corporate body. Repeated memorial observances required schedules, offerings, clothing, knowledgeable participants, and funds. A family with a maintained ancestral site or ritual hall had physical locations around which people could assemble and recognize seniority. The ordinary work of preparation was significant: grain had to be purchased or prepared; vessels cleaned; food arranged; distant relatives informed. The nominal right to preside over a ritual should not be confused with the full quantity of labor required to sustain it. Ritual obligation also produced conflicts about cost, rank, the order of succession, and the status of a child from an unrecognized union.",
+        "Over time, rites described in Confucian manuals gained prestige, and the four-rites vocabulary of coming of age, marriage, funerals, and ancestral sacrifice helped organize elite expectations. Actual households adapted those instructions to local practice and means. The distinction is visible in the tension between commentaries debating the correct ceremony and vernacular or practical records of what families could manage. It is therefore misleading to write as if one newly published ritual treatise instantly reorganized the entire peninsula. The importance of the manuals lies in how they supplied persuasive standards used to judge behavior, educate the young, resolve disputes, and eventually naturalize what had once been disputed innovations."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6,
+      "evidence": [
+        {
+          "claim": "Joseon family property was documented in division papers that specified recipients and distributions.",
+          "sourceIndex": 2,
+          "locator": "분재기, 종류 및 문서 구성",
+          "type": "direct"
+        },
+        {
+          "claim": "A separate gift document could mark marriage, examination success, recovery from illness and other special circumstances.",
+          "sourceIndex": 3,
+          "locator": "별급문기, 별급 사유와 문서 양식",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.1:b07",
+      "title": "The lineage has an address",
+      "paragraphs": [
+        "A descent group could acquire a geography: a village identified with a surname, a collection of graves and ancestral facilities, communal property, or a network of scholars and marriage partners. This made kinship partly territorial. A family moving into a new district might advertise its connections by erecting monuments or maintaining marriage ties with recognized local households. Lineage solidarity could support education, mutual aid, and funeral expenses; it could also draw boundaries against tenants, outsiders, and claimants whom its elders considered unsuitable. Shared ancestry did not eliminate competition for positions, exemptions, or rents. The collective family was a resource that could protect some members and discipline others.",
+        "The enduring appearance of lineage villages can hide their long development. A village might become strongly identified with a descent group only after generations of property accumulation, branch settlement, and commemorative construction. Surviving houses often represent later stages, not the earliest pattern. A historical account needs to ask when a shrine was added, when graves were gathered, how land was endowed, and who paid for ritual upkeep. It should also examine departures: men who migrated to seek work, daughters married elsewhere, people expelled from registers, and impoverished branches that could not maintain elite status. Mobility and absence are as revealing as rootedness."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "VII.5.1:b08",
+      "title": "Women appear at the edges of the formal line",
+      "paragraphs": [
+        "Women can be difficult to follow in genealogies organized by paternal succession, but they are not absent from family history. Marriage letters, dowry and gift records, lawsuits, poems, household accounts, and biographies can expose different kinds of influence. Some women supervised household production, managed land, taught children, controlled access to stored goods, or mediated conflict between relatives. Their opportunities were constrained by class, period, marital status, and the claims of male kin. A wealthy widow did not live the same life as a rural woman struggling to feed children through seasonal work. Nor did formal rhetoric about seclusion necessarily describe every woman's actual movement through fields, markets, and neighboring houses.",
+        "It is tempting to answer a question about women with a list of famous women. That creates another elite archive without showing how people normally survived. In many homes, a woman's practical authority emerged through feeding, clothing, and managing the household and its workers, activities that remained indispensable even when they won little ritual acknowledgment. A better history asks who controlled keys, food stores, and accounts, who could sign or contest a transaction, and who was responsible when a household's obligations could not be met. These are questions that formal genealogies alone cannot answer, but they are necessary to understand the institutions that genealogies helped defend."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8,
+      "evidence": [
+        {
+          "claim": "Ancestral ritual succession became an increasingly emphasized element of later Joseon Confucian kinship.",
+          "sourceIndex": 4,
+          "locator": "사례, 제례 변화와 장자 중심 봉사",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.1:b09",
+      "title": "Family identity is a negotiation across centuries",
+      "paragraphs": [
+        "Later Joseon did not discover kinship; it reordered the forms in which kinship could carry prestige and claim legitimacy. Genealogies made selected lines visible, rituals made them repeatable, and property papers gave family decisions durable legal consequences. The institutions reinforced one another without producing uniform behavior. Historians can establish patterns in surviving documents, but no single record warrants an account of every household. A name appearing beside a known ancestor might reveal genuine affiliation, a contested claim, or a later editor's desire to place a branch within an esteemed history. Each possibility requires separate investigation.",
+        "The resulting history is neither a simple story of Confucian ideas descending upon passive people nor a celebration of an unchanged Korean family. Ideals mattered because people argued over them, paid for them, used them to claim benefits, and sometimes defied them. The household mattered because it handled decisions that states could not settle in detail: feeding dependents, arranging residence, negotiating marriage, caring for elders, and distributing losses. When the next chapter turns to birth and childhood, the line of descent will become a living arrangement again. Names written in books became children needing food, adults doing work, and ancestors remembered—selectively—by those who survived."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    }
+  ]
+}

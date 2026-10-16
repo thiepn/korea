@@ -1,0 +1,147 @@
+{
+  "id": "VII.5.9",
+  "title": "Health, Disease, Medicine, Epidemics, Disability, and Care",
+  "kicker": "LATER JOSEON · HOUSEHOLD HISTORY",
+  "description": "Original social history of kinship, work, care and everyday lives in later Joseon.",
+  "release": "M",
+  "sourceStatus": "Editorial historical synthesis with selective, claim-level contextual and institutional sources; not independently reviewed sentence by sentence.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "의녀 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0043144",
+      "role": "Institutional history of women medical practitioners, including 1406 establishment"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "의과 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0043125",
+      "role": "Historical medical examination and relevant institutions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "조선 — 가족과 친족",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051904",
+      "role": "Secondary contextual synthesis of family, rites and hierarchy"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.5.9:b01",
+      "title": "Illness changes a household's geography",
+      "paragraphs": [
+        "Disease in later Joseon crossed thresholds that architecture and etiquette tried to maintain. A sick person might remain in the inner rooms while family members fetched water, herbs, food, and advice; an epidemic could make visiting relatives both a duty and a hazard. The first effect of illness was often economic: hands stopped working, harvest tasks were delayed, and stored reserves began to disappear. When a household sought treatment, it weighed distance, cash, family reputation, and knowledge of accessible practitioners. An account of medical institutions that omits these practical choices is a history of offices rather than of sickness. A patient in the capital near an established practitioner lived within a very different system of opportunity from someone in an isolated hamlet.",
+        "Modern diagnoses should not be imposed too easily on descriptions of historical symptoms. Terms for fever, swelling, cough, and digestive disorders did not map reliably onto present-day disease categories. Even the word translated as ‘epidemic’ could cover multiple experiences and contemporary explanations. We can trace when outbreaks were reported and what measures authorities or communities adopted, but assigning a modern microbe to every historical illness would be false precision. Historians therefore reconstruct overlapping worlds: bodily suffering, practical treatment, environmental conditions, ritual responses, and the changing capacity of families to sustain dependent members."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VII.5.9:b02",
+      "title": "Medicine was a layered field",
+      "paragraphs": [
+        "Court medicine, formal state institutions, learned practitioners, local specialists, household recipes, and informal assistance were not the same institution. The offices of the royal household served different patients and purposes from public relief agencies or specialists in the provinces. Appointment systems, examinations in medicine, and the circulation of manuals created a recognized professional world. Yet people often first sought help from someone they already knew. Consultation might involve a trained physician, an older relative knowledgeable about remedies, or a neighbor with experience of similar illness. The difference between official prestige and local trust could shape treatment as much as a written diagnosis.",
+        "Medical books were tools that moved through learned networks, not proofs that every treatment was available to everyone. A manuscript copied by an affluent household cannot stand as evidence that the same prescription reached laborers unable to read it. Nor should the existence of a state clinic imply universal access. The need for payment, travel, supplies, and skilled interpretation narrowed the possible routes to care. A source-centered account asks who could obtain an appointment, who carried medicines, how referrals were arranged, and what social obstacles prevented examination. It also asks which kinds of help remain invisible because they left no written title in the archive."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Medical examinations were used to select officials for the medical bureaus of Joseon.",
+          "sourceIndex": 1,
+          "locator": "의과, 시행 대상과 소속 기관",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.9:b03",
+      "title": "Women as patients and healers",
+      "paragraphs": [
+        "The institution of uinyeo, women trained as medical practitioners, emerged in the early Joseon period in response to the difficulty that some women faced in being examined by male physicians. The Academy of Korean Studies dates the establishment of this program to 1406, and its institutional history also records the exploitation of some medical women in court entertainments. This conjunction complicates any celebratory account of professional opportunity. Women practitioners acquired specialized knowledge and performed necessary care, but many entered training through statuses that did not confer the freedom or respect associated with male officialdom.",
+        "The historical problem extends beyond formal titles. Women bore a major share of care within households whether or not the state recognized them as physicians. Pregnancy, birth injuries, nursing, infectious illness, and aging required observation and sustained attention. A mother, daughter, daughter-in-law, or servant might be responsible for the exhausting hours between clinical visits. Much of this care was not described in a medical treatise, even though a treatment could not work without someone preparing food, keeping a room warm, or cleaning bedding. We should not convert that invisible labor into an idyllic image of female devotion; it could be demanded under severe inequality."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Female medical practitioners were formally instituted in 1406 to address constraints on examining women.",
+          "sourceIndex": 0,
+          "locator": "의녀, 연혁 / 1406년 제생원",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.9:b04",
+      "title": "Epidemics make inequality visible",
+      "paragraphs": [
+        "A contagious outbreak affected communities unevenly. People who could suspend travel or store additional food possessed advantages over itinerant workers and households close to subsistence. Those sharing crowded spaces with many dependents faced particular difficulties. Government responses might include relief, instructions, concern over burials, or efforts to manage movement, but policy announcements cannot by themselves measure the help delivered. A record of dispatched grain is not necessarily a record of everyone fed. The logistical history—roads, warehouses, local officials, and people entrusted to distribute supplies—is part of the medical history.",
+        "Epidemics also tested moral expectations. Visiting an ill parent or attending a funeral could be understood as duties, while fear of infection made proximity frightening. Religious and ritual practices offered languages for interpreting calamity; medical reasoning offered others. They should be studied as historically situated responses rather than judged solely by the standards of modern prevention. Some people sought help from several traditions in succession or at the same time. To describe this as confusion would miss the rationality of acting amid uncertainty when no single practitioner could promise recovery."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VII.5.9:b05",
+      "title": "Healers' knowledge was practical and contested",
+      "paragraphs": [
+        "A consultation involved interpreting reported symptoms, observing changes, and determining what treatment seemed appropriate. Learned physicians discussed bodily balance through conceptual systems unfamiliar to present-day clinical medicine. Those systems could structure careful observation and record keeping even where their explanatory assumptions differed from current science. To translate their terminology directly into modern biomedical categories is risky; to assume that all interventions were ineffective is equally unjustified without evidence. The more defensible historical question asks how expertise was recognized, transmitted, challenged, and compensated, and what results contemporaries believed they had seen.",
+        "Pharmacies, markets, herbal suppliers, and family gardens linked care to trade and ecology. A recipe might call for materials expensive or difficult to acquire in a particular season. Substitution could change a treatment; so could differences in preparation and storage. Illness could generate debt as surely as it could generate sympathy. A family that spent its reserves on care might become vulnerable to landlords or lenders. Medicine was therefore entangled with the household economy, and the most persuasive historical narratives connect medical concepts to the material systems that made treatments accessible or impossible."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "VII.5.9:b06",
+      "title": "Disability is more than a diagnosis",
+      "paragraphs": [
+        "Not everyone recovered. Chronic illness, impairment, aging, and injury altered what work was possible and how others interpreted dependency. The historical record can reveal institutional attitudes and certain experiences, but it seldom offers the self-description needed to reconstruct every person's sense of identity. Terms used in official registers or moral anecdotes may be stigmatizing or imprecise. A person excluded from examination or formal office could still possess expertise, family responsibilities, and social relationships. Treating them only as objects of care reproduces the narrowing vision of many surviving elite sources.",
+        "Household responses could be mixed: assistance coexisted with exploitation, respect with resentment, and practical accommodation with limits imposed by poverty. The consequences of impairment also changed with occupation. A craft worker injured in one hand, a tenant suffering persistent fever, and an elder with reduced mobility faced different hazards. Good social history asks which tasks could be rearranged, how kin shared obligations, and whether public relief existed without assuming a uniform experience. It must allow the possibility of agency while refusing to invent heroic narratives unsupported by testimony."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "VII.5.9:b07",
+      "title": "The state's concern and the household's burden",
+      "paragraphs": [
+        "Government medical initiatives are conspicuous in royal chronicles because officials argued about them and recorded decisions. The weight of daily care, however, usually fell elsewhere. Even when an office issued prescriptions, someone had to gather fuel and prepare broth. When relief grain was allocated, another person had to carry it home and make it last. This is the gap between institutional history and the history of illness as lived. Policy mattered, but it traveled through people and resources, and each link could fail. A realistic portrayal of health therefore combines formal offices with family economies, transport, labor, and the unequal distribution of risk.",
+        "Royal case histories should be handled with additional caution. Detailed surviving records can tempt us to describe the health system through the best-documented patients, whose entourages and material resources were exceptional. A court physician's diagnostic exchange is valuable evidence about learned medicine and its political setting; it is not an average clinical visit. Conversely, the near absence of a rural child from the archive does not imply that the child lacked treatment or care. It means our evidence is thin. A public historical library must present that inequality of surviving testimony clearly rather than hide it under the confidence of a smooth general narrative."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "VII.5.9:b08",
+      "title": "Death, relief, and historical humility",
+      "paragraphs": [
+        "Serious illness could bring households toward mourning and inheritance questions, connecting the medical world with the legal and ritual subjects of the surrounding Chapter. Who would care for surviving children? Who could keep a tenancy if the principal worker died? Which relatives were expected to contribute to funeral costs? Medical outcomes carried consequences through generations. A narrative about health belongs among histories of land, kinship, clothing, food, and household labor because none can be separated cleanly at the point of need. The clinic and the kitchen were part of one system of survival, even if documents described them in different vocabularies.",
+        "The archive lets us establish institutions such as the uinyeo program, examine learned curricula, and identify particular relief policies. It does not let us calculate population-wide survival rates from a few memorable cases or assign every old fever a confident modern diagnosis. Reliable history can be vivid without pretending to know what no witness recorded. The reader should leave this chapter understanding both the sophistication and the limitations of earlier medical knowledge, the unequal distribution of care, and the profound work of the people who kept households functioning through illness. The final section on aging and funerals continues this account when care turns into commemoration."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "VII.5.9:b09",
+      "title": "Care in motion",
+      "paragraphs": [
+        "People sometimes had to travel to obtain treatment, moving between hamlet, market town, and administrative center. Every journey had a cost: a sick person needed assistance, animals or carriers might be hired, and the accompanying relative could lose valuable work time. Access was therefore defined as much by roads, weather, household labor, and social connections as by the existence of medical expertise. A record of a prominent doctor in a district establishes that certain care existed; it does not establish that a tenant several hours away could reach it. Similarly, the written circulation of an herbal formula does not show whether the necessary ingredients were available during an epidemic or bad harvest.",
+        "The difficulty of reaching care could alter decisions before anyone saw a practitioner. Families watched symptoms, argued over timing, and used remedies they could prepare themselves. If a person improved, the treatment chosen might be credited with success; if not, relatives might seek another specialist or a different explanation. Such accounts illuminate medical judgment under uncertainty but cannot, without further evidence, demonstrate clinical effectiveness. Presenting this distinction accurately is a form of respect for the people involved. It acknowledges their efforts to act reasonably in the circumstances while avoiding claims that exceed the surviving record."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "VII.5.9:b10",
+      "title": "Patients and the surviving record",
+      "paragraphs": [
+        "The hardest historical question may be how to keep patients visible when most sources were created by officials, scholars, or elite family writers. A physician's case note describes selected symptoms and reasoning; it rarely records a patient's entire day. A state order on epidemic relief describes the government's intent, not the relief recipient's experience. A family letter can offer extraordinary detail about fear and devotion, yet represents a socially narrow group able to preserve such writing. No source deserves to be dismissed, but each needs a different question. Connecting them makes it possible to show care as a social relationship, not merely the transfer of a prescription.",
+        "The responsible writer should also identify the point at which the evidence ends. We can follow documented institutions and contemporary ideas. We can discuss the economic burdens of illness using household histories and the uneven character of assistance. We cannot reconstruct the clinical course of an unnamed village family merely by combining a royal medical manual with an account of famine. Describing those boundaries openly allows the subject to remain intellectually rich. It protects readers from the false intimacy of invented episodes while preserving the central argument: health was experienced not in isolation but within households that distributed labor, knowledge, hope, and loss unequally.",
+        "A final caution is necessary when discussing household choices. It is easy to read decisions through today's language of individual preference, but a family facing illness often negotiated among several imperfect options with unequal power. Patients might not control the resources needed for treatment; a caregiver might sacrifice income without consenting freely to every demand; an official might classify recipients using administrative rules. The result was neither a purely private tragedy nor an impersonal public problem. The limits of the archive are part of the explanation, and naming them is essential to any serious account of care."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    }
+  ]
+}
