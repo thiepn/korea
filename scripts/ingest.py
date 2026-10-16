@@ -13,6 +13,18 @@ import argparse,json,hashlib,sys
 from pathlib import Path
 from build_corpus import DATA,canonical
 
+def is_contiguous_replay(existing:list[dict],incoming:list[dict])->bool:
+    """Recognize exact earlier imports even after later append batches.
+
+    Do not treat a partial overlap as a replay: that remains an error so
+    incremental history cannot silently lose or rewrite any passage.
+    """
+    length=len(incoming)
+    return bool(length and len(existing)>=length and any(
+        existing[pos:pos+length]==incoming
+        for pos in range(len(existing)-length+1)
+    ))
+
 def run(path:Path,dry_run=False):
     allowed=canonical(); plans={}; changes=[]
     for n,line in enumerate(path.read_text(encoding='utf-8').splitlines(),1):
@@ -46,7 +58,7 @@ def run(path:Path,dry_run=False):
         if base['title']!=allowed[key]:raise ValueError(f'line {n}: existing title diverges from canonical')
         already=[{'title':b['title'],'paragraphs':b['paragraphs'],'evidence':b.get('evidence',[])} for b in base['blocks']]
         incoming=[{'title':b['title'].strip(),'paragraphs':[p.strip() for p in b['paragraphs']],'evidence':b.get('evidence',[])} for b in blocks]
-        if incoming and len(already)>=len(incoming) and already[-len(incoming):]==incoming:
+        if is_contiguous_replay(already,incoming):
             changes.append({'id':key,'status':'unchanged (idempotent replay)'})
             continue
         if existing and mode=='replace':raise ValueError(f'line {n}: cannot replace published article {key}')
