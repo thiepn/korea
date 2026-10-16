@@ -1,3 +1,5 @@
+**Batch K:** Seventh complete Chapter `II.1` (Gojoseon); 7 original articles + 3 append-only deepened; 9,331 new words, 55 passages, 11 evidence anchors. Total: 143 articles, 660 passages, 91,600 words, 19 pathways, 70 chronology landmarks and 100 explained connections. See [BATCH_K_REPORT.md](BATCH_K_REPORT.md) for editorial distinctions and QA.
+
 # KOREA — Interactive History Universe
 
 **Phase 1: functional local prototype · 15 October 2026**

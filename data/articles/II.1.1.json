@@ -1,0 +1,160 @@
+{
+  "id": "II.1.1",
+  "title": "The Historical Problem of Gojoseon",
+  "kicker": "GOJOSEON · SOURCES AND REGIONAL HISTORY",
+  "description": "Original historical synthesis distinguishing material evidence, transmitted sources and debated modern reconstructions.",
+  "release": "K",
+  "sourceStatus": "Selective direct/contextual citations; unresolved chronology, geography and broader interpretation not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 — 고조선의 명칭과 성립",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0010_0010",
+      "role": "Modern historical analysis of the name, early statehood, medieval sources and divergent periodization"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 — 고조선의 위치와 강역",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0010_0050",
+      "role": "Review of Liaodong, Pyongyang and migration hypotheses, textual chronology and disputed geography"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "사료로 본 한국사 — 고조선의 성장과 변화 (魏略 in 三國志)",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0020",
+      "role": "Transmitted primary-text excerpt on royal titles, diplomacy and the Yan Qin Kai attack; compiled through later authors"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "고조선 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003937",
+      "role": "Scholarly synthesis of early centers, bronze dagger assemblages and debate; some placements are contested"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.1.1:b01",
+      "title": "The first question is what the name can mean",
+      "paragraphs": [
+        "A history of Gojoseon begins with a disconcerting problem: the familiar name gathers together evidence that does not come from one time, place, or type of witness. There are bronze objects excavated in northeastern China and the northwestern Korean Peninsula; brief references to Joseon in texts produced in ancient China; courtly traditions copied by later historians; and the medieval Korean stories through which many readers first encounter Dangun. Each is evidence of something, but not necessarily of the same something. A named kingdom, a community of related material practices, a remembered ancestor, and the modern idea of a national beginning are four different historical objects. Confusing them can make the early past seem clearer than it is. The term Gojoseon itself belongs to later ways of distinguishing ancient Joseon from the later dynasty founded in 1392. A reader therefore should not imagine a prehistoric official stamping that modern compound name upon documents. The problem is not to decide whether an ancient Korean past existed. It clearly did. The problem is to identify when a particular polity can be distinguished within that past, how far our evidence permits a description of it, and which questions must remain open."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "II.1.1:b02",
+      "title": "Four archives that refuse to line up neatly",
+      "paragraphs": [
+        "One archive is the ground: graves, pottery, blades, settlement traces, and changing methods of manufacture. Another consists of transmitted Chinese-language accounts that name Joseon or describe rulers and frontiers. A third contains later Korean compilations that preserve foundation traditions and interpretations of the ancient world. A fourth is modern scholarship itself, including decisions about how to date an object, where to draw a map, and which sources deserve greatest weight. The first archive is largely anonymous; an excavated sword does not tell us which king, if any, claimed the landscape around its burial. The second often reports external encounters and conflicts, describing a neighbor through categories important to Chinese courts. The third sometimes looks back across more than a thousand years. The fourth cannot avoid its own inherited questions. These archives can correct one another, but they do not become interchangeable when placed on the same page. Archaeological distributions suggest cultural interaction or social differentiation, not automatically the shape of an ancient tax district. An old textual name may identify a political power without revealing the daily language of its population. A foundation account is a particularly rich witness to the community that preserved and reshaped it, even where no contemporary evidence establishes the narrated date."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "II.1.1:b03",
+      "title": "What the written record actually makes possible",
+      "paragraphs": [
+        "The clearest political descriptions emerge comparatively late in the long span covered by stories about Gojoseon. Accounts transmitted through works such as the Weilüe, quoted in the Sanguozhi, place Joseon in a competitive environment with the state of Yan and speak of rulers, titled advisers, negotiation, and armed conflict. Such passages matter because they imply political actors capable of diplomacy and organized resistance. Yet they survive through later editorial chains. A quotation embedded in a third-century compilation of a work no longer complete is not a voice recorded without mediation at a fourth-century BCE frontier. We need to ask which section is quotation, which is commentary, and what the writer intended to explain. The Shiji's account of the final conflict with Han speaks much more concretely of officials and military leaders, but it concerns a later political situation close to conquest in 108 BCE. One cannot simply carry every late title and institution backward to an imagined uninterrupted regime thousands of years old. Neither is it sensible to dismiss these reports merely because they are external. Their detailed political vocabulary is crucial evidence; its limits are part of that evidence. Good history begins where these qualifications become questions rather than apologies."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The Weilüe tradition survives in later citation and depicts titled rulers and diplomacy with Yan.",
+          "sourceIndex": 2,
+          "locator": "魏略 quotation in 三國志 vol.30, section 고조선의 성장과 변화",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "II.1.1:b04",
+      "title": "The extraordinary survival of ordinary objects",
+      "paragraphs": [
+        "Bronze daggers often carry enormous weight in presentations of Gojoseon. The Liaoning-type, frequently called the lute-shaped dagger because of its outline, belongs to a broad regional world; later slender bronze daggers figure in other distributions. Variations in blade form, burial assemblage, and accompanying pottery invite comparison across the Liaodong region and the peninsula. They also pose methodological traps. The presence of one type cannot prove that every site belonged to one government. A prestige object can move as a gift, prize, purchase, imitation, or burial offering, sometimes after a long period of use. A burial containing many costly objects can indicate inequality, ritual display, or concentrated access to labor without demonstrating the existence of a named central bureaucracy. Conversely, the absence of an ornate grave in a surveyed area does not mean there were no politically influential households. Sites survive and are discovered unevenly. Archaeological dating is a range derived from associations and methods, not a year on a king list. A plausible reconstruction can relate changing metalworking to elite competition; it should be visibly labeled a reconstruction when the historical ruler of a particular blade cannot be identified."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "II.1.1:b05",
+      "title": "The temptation of an uninterrupted royal line",
+      "paragraphs": [
+        "Many origin stories organize time through succession. They make a world intelligible by connecting an ancestor to a later people and by filling the gap with reigns and founding events. Such organization is meaningful, but it does not prove that every interval was occupied by a continuously documented monarchy. A royal line in a late source can compress centuries of different communities into one remembered polity. Equally, the word king may cover various configurations of power: a military leader with allies, a chief in a federation, a ruler with court officers, or a figure to whom later historians assigned familiar titles. Gojoseon's historical reality must be argued through dated evidence, not deduced from the narrative requirement that a beginning must lead smoothly to an end. The decisive question is not whether a community had leaders—it would be surprising if settlements and exchange networks lacked authority—but what kinds of authority extended beyond particular kin groups, and how they were maintained. That requires looking at production, coercion, diplomacy, movement, and the organization of resources together. No single impressive artifact or venerable story can do all of that work."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "II.1.1:b06",
+      "title": "Borders are not lines waiting to be found",
+      "paragraphs": [
+        "Maps of ancient Gojoseon often display a confident colored outline from Liaoning toward northwestern Korea. Maps are helpful when they show routes and ecological regions. They mislead when they transform uncertain influence into the modern geometry of a sovereign state. An early kingdom could maintain powerful relationships in one valley, intermittent control along a route, and shifting alliances beyond both. Sources may refer to lands taken by Yan without making the location of every named boundary certain to historians. Even the identification of ancient rivers and settlements can involve disputed place-name sequences transmitted in much later geographical commentaries. The western Liaodong landscapes and the Taedong basin have both figured in arguments about political centers, sometimes in the form of a proposed historical relocation. Those are arguments, not multiple versions of one observed palace move. We should distinguish a site at which objects were discovered, a region in which a culture was practiced, and a place identified with a textual capital. When a reader can see why scholars infer each location, maps become an invitation to investigate rather than a claim of certainty produced by software."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6,
+      "evidence": [
+        {
+          "claim": "Scholars have offered competing Liaodong, Pyongyang, and movement reconstructions for the center.",
+          "sourceIndex": 1,
+          "locator": "고조선의 위치와 강역, subsection 위치문제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.1.1:b07",
+      "title": "The problem of anachronistic populations",
+      "paragraphs": [
+        "It is natural to ask whether Gojoseon's inhabitants were Korean. The question needs unpicking. A community in the first millennium BCE did not possess modern passports, standardized national school histories, or the nineteenth- and twentieth-century language of ethnic nationhood. Political loyalty, kin membership, ritual practice, speech, marriage, and residence could create layered identities. Neither a tomb form nor a sword design supplies a reliable transcription of the language spoken beside it. Terms such as Yemaek appear in transmitted records and historical scholarship, but their geographical and chronological range must be studied rather than treated as exact counterparts to modern ethnic labels. It is legitimate to explore continuities in northern Korean and Manchurian histories; it is not legitimate to leap from the discovery of a burial to a precise modern ethnic category without intermediate evidence. Refusing anachronism does not sever Korean history from its antiquity. It protects the ancient people from being reduced to predictions of states they could not have known. Their world was connected across what are now national borders long before those borders existed."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "II.1.1:b08",
+      "title": "Different accounts can preserve different truths",
+      "paragraphs": [
+        "Dangun's foundation story records cosmology, sacred descent, human-animal transformation, cultivation, and ethical aspiration within a later textual witness. It does not provide a contemporary royal inscription dated 2333 BCE. The Gija or Jizi narrative connected Joseon with a figure from classical Chinese antiquity and later acquired great significance for Korean political and moral thought. It is not evidence that an entire Bronze Age culture was imported by one man. Reports of conflict with Yan, meanwhile, concern regional competition more directly than sacred origins. These accounts should not be ranked as if they were three competing witnesses to a single breakfast. They answer different questions and were transmitted through different chains. A myth may tell us about remembered legitimacy. A classical genealogy can reveal claims about civilization and ritual. A war narrative can indicate a borderland relationship. The historian's task is to describe what each source can illuminate and refuse to borrow certainty from one genre to make another genre appear complete. This is especially important when the result would turn complex multi-centred change into an oversimplified sequence of named founders."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "II.1.1:b09",
+      "title": "Institutions are visible mostly through their crises",
+      "paragraphs": [
+        "Written evidence becomes vivid during conflict. Negotiations fail, armies advance, ministers defect, and a king falls. The resulting accounts name officers and report decisions that would otherwise have gone unrecorded. That vividness distorts our historical view. If officials appear most clearly when a state is threatened, it would be mistaken to infer that politics consisted chiefly of emergency meetings. Irrigation, storehouses, relationships with local leaders, ritual observances, and the distribution of valuable goods may have sustained authority on ordinary days. Archaeology can help frame such possibilities, but it does not specify their administrative titles. Even the number of villages or the boundaries of a ruler's normal authority remain uncertain for much of Gojoseon's history. A strong narrative can acknowledge this silence while drawing attention to the practical conditions under which ruling would have been possible. The silence also warns against treating a late account of ministers as a standard civil-service chart for every preceding century. Historical institutions are processes changing across time, not decorative labels copied backward from the final act."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "II.1.1:b10",
+      "title": "A chronology with honest gaps",
+      "paragraphs": [
+        "The chronological question is often posed as a demand for a single founding year. Yet the formation of more concentrated political institutions usually occurs through generations of alliance, conflict, settlement, and technical change. An exact date might survive for a battle described in a reliable contemporary inscription; the emergence of a regional kingdom need not leave such a trace. The record concerning Joseon becomes more politically explicit by the Warring States era, while some archaeological assemblages are earlier. That chronological mismatch does not mean earlier populations vanished or the late kingdom came from nothing. It means that evidence for a cultural landscape predates securely identifiable descriptions of a named political formation. Later conventional foundation dates should be displayed in a distinct category from archaeological periodization and ancient textual references. The distinction is also necessary when translating between dates in different historical calendars. Without it, a neat timeline can silently suggest that a legendary birth, the introduction of a bronze technique, and the appointment of a political official all have equivalent evidentiary status. They do not."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "II.1.1:b11",
+      "title": "Why the controversy matters beyond specialists",
+      "paragraphs": [
+        "Debates about Gojoseon can become heated because they touch identity, school teaching, colonial-era historical claims, and modern territorial imagination. An argument about the Liaodong center is not simply a quarrel over an old city: it can seem to shift where a national past begins. But the past cannot be made more secure by treating disagreement as disloyalty. Critical historical method distinguishes disagreement over evidence from the dismissal of a community's cultural memory. Historical writing is stronger when it permits readers to see the choices made: why one archaeologist treats a burial distribution as evidence of social networks rather than state territory, why another places greater confidence in transmitted geographical references, and why the dates of compilation matter. Those explanations invite understanding without requiring the reader to accept every scholarly proposal as equally persuasive. A textbook sentence may be confident for teaching purposes; a research monograph may reopen its foundations. The website's responsibility is to identify the difference and tell a comprehensible story without concealing that the underlying inquiry continues."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    },
+    {
+      "id": "II.1.1:b12",
+      "title": "How to read the rest of this Chapter",
+      "paragraphs": [
+        "The rest of II.1 offers different entrances into one historical problem. Its origin traditions should be read beside the dates of their surviving manuscripts. Material culture should be examined in relation to workshops, burial choices, and regional movement rather than treated as a direct map of kings. A geographical discussion should distinguish named places, excavated sites, and disputed reconstructions. The political section explores what royal and advisory titles make conceivable without inventing a complete constitution. The economic and social sections ask how production and unequal power might have operated outside the record of diplomatic conflict. Relations with Yan place Joseon in an interstate environment where neighbors supplied much of the surviving written evidence. Finally, the historiographical section examines how all these materials became modern stories. The order is cumulative rather than a march toward certainty. The reader should leave with more precise questions, not merely more names: whose statement is this, when was it recorded, how does it connect to things that survive, and what remains a plausible but unproven interpretation?"
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 12
+    }
+  ]
+}

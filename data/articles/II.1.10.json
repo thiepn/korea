@@ -1,0 +1,160 @@
+{
+  "id": "II.1.10",
+  "title": "Gojoseon in Korean Historiography and Historical Memory",
+  "kicker": "GOJOSEON · SOURCES AND REGIONAL HISTORY",
+  "description": "Original historical synthesis distinguishing material evidence, transmitted sources and debated modern reconstructions.",
+  "release": "K",
+  "sourceStatus": "Selective direct/contextual citations; unresolved chronology, geography and broader interpretation not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "한국사 연대기 — 단군 (三國遺事)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_n100800",
+      "role": "Secondary chronology of the medieval recording of the foundation story, with source and motifs"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 — 조선 초기 단군조선·기자조선의 역사화",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_026_0020_0030_0010_0010_0010",
+      "role": "Early Joseon commemoration of Dangun and Gija; evidence for later ritual, not Bronze Age events"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 — 고조선의 명칭과 성립",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0010_0010",
+      "role": "Modern historical analysis of the name, early statehood, medieval sources and divergent periodization"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "기자조선 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0008396",
+      "role": "Historical critique and legacy of the Gija/Jizi migration and dynastic tradition"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.1.10:b01",
+      "title": "An ancient kingdom with many afterlives",
+      "paragraphs": [
+        "Gojoseon has a second history that begins after the polity itself had disappeared. It is the history of how later communities remembered, classified, and argued about the ancient past. A political society at the turn of the first millennium BCE and a medieval scholar seeking the origins of the land he inhabited did not inhabit the same intellectual world. Neither did an early Joseon court considering ancestral rites, a colonial-era historian constructing an account of Korean development, or a modern museum choosing objects for an exhibition. Each encountered different surviving evidence and brought different questions to it. This is why the writing of Gojoseon history deserves a chapter of its own. Claims that seem to concern a single ancient king may actually reveal much about the moment when the claim was preserved or contested. Asking how the past was represented is not a distraction from the ancient polity. It helps explain which documents survived, why certain narratives acquired public authority, and how modern readers came to expect an origin story with a date, a founder, a capital, and a colored territory."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "II.1.10:b02",
+      "title": "The survival of a story is itself historical",
+      "paragraphs": [
+        "The Dangun account is most familiar through the Samguk yusa, compiled in the late thirteenth century by the Buddhist monk Iryeon. That date is central to how the text should be read. The account may draw on older materials and traditions, but the extant compilation is a medieval witness to an ancient story, not a first-hand observer of the beginnings it narrates. It contains descent from a heavenly figure, the bear who becomes a woman, and the foundation associated with Dangun Wanggeom. These motifs have generated interpretations involving ritual authority, the union of communities, and the cultural significance of agriculture. Some readings are imaginative and instructive; few can be proven as literal accounts of a specific Bronze Age merger. The Samguk yusa was produced in a world already marked by long Korean political history, Buddhist institutions, and relationships with neighboring empires. Its power lies partly in that distance: it gives modern readers insight into how earlier periods were imagined when a later community was making sense of its own place in history. The event described and the act of transmitting it are different events; both can be studied seriously."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Samguk yusa transmitted a Dangun story in a medieval compilation rather than in a prehistoric chronicle.",
+          "sourceIndex": 0,
+          "locator": "단군, section 삼국유사에 기록된 단군신화",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.1.10:b03",
+      "title": "Gija and the ethics of a classical past",
+      "paragraphs": [
+        "The story of Gija, or Jizi, offered another route to imagining Joseon's antiquity. Connected to the world of the Shang and early Zhou traditions in Chinese classics, the figure became important in Korean intellectual history as a symbol of moral instruction, proper governance, and antiquity acknowledged through a prestigious written tradition. But narrative prestige and archaeological proof are not the same thing. The specific proposition that Jizi migrated east and established a documented state over the entire region cannot be established merely by finding later Korean and Chinese texts that revered him. Scholarly criticism has questioned the migration story and the practice of mapping excavated Bronze Age assemblages directly to a Gija dynasty. Yet simply erasing Gija from historical narrative would create another mistake. The story mattered for centuries to people who shaped institutions, rituals, diplomatic self-presentations, and historical learning. We need two distinct questions: what happened in the ancient period, and what later literati believed or wished the ancient period could tell them about civilized rule. A historical museum should answer both without using the second as a substitute for the first."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "II.1.10:b04",
+      "title": "Medieval compilers did not write modern archaeology",
+      "paragraphs": [
+        "The Samguk yusa and the Jewang ungi approached Joseon's deep past through different literary forms and schemes of succession. Their categories helped subsequent generations imagine how Dangun, Gija, and Wiman related within a long historical narrative. These works emerged before archaeological typology, radiocarbon dating, the excavation of modern stratigraphic sites, and contemporary theories of political formation. Their authors relied on texts, local traditions, moral frameworks, and literary purposes available to them. To criticize them for failing to meet standards invented much later is unhelpful. To treat them as if they were modern field reports is equally unhelpful. Their historical value includes the information they transmit and the ways they organise it. A different sequence in two medieval compilations can show how unstable an apparently familiar classification was. Historiography begins when these differences are noticed, not smoothed away. The language of an ancient single kingdom can itself be the result of later narrative organization. That is why a site's canonical hierarchy should not force the historical evidence into an uninterrupted sequence of reigning houses merely because such a sequence is easier to navigate."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "II.1.10:b05",
+      "title": "Joseon-era ritual and the politics of antiquity",
+      "paragraphs": [
+        "The dynasty founded in 1392 inherited older stories and developed new ways to incorporate them into public ritual. Records of early Joseon discussions treat Dangun and Gija as figures deserving attention in state-sponsored commemoration, though their relative standing and meaning could be debated. This is not proof that ancient kings were historically identified in a modern archaeological sense. It shows that historical memory was active political work. To sponsor a shrine or discuss sacrifices was to make claims about a dynasty's place in a larger moral order. The regime's commitment to Confucian learning gave Gija particular significance as an emblem of civilizing instruction; Dangun could represent an older native origin. The coexistence of these emphases created both overlap and tension. Later reformers and historians encountered traditions already anchored in institutions, not simply stories available on a page. The history of Gojoseon as memory therefore passes through calendars, shrines, educational texts and debates among officials. Such acts affected how descendants felt they belonged to a historical community, even though they tell us much more securely about Joseon-period political culture than about any prehistoric royal court."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "Early Joseon court discussions addressed official sacrifices to Dangun and Gija.",
+          "sourceIndex": 1,
+          "locator": "조선 초기, state ritual after 1392",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.1.10:b06",
+      "title": "Historical geography became a field of argument",
+      "paragraphs": [
+        "Where was ancient Joseon's center? The question generated different answers long before the most recent political controversies. Scholars weighed place names, river descriptions, and accounts of relations with Yan and Han, arguing for locations in Liaodong, around Pyongyang, or for movement between regional centers. Evidence is fragmentary partly because place names shifted and because descriptions surviving in later commentaries can carry assumptions made by their editors. The question cannot be settled simply by placing a marker where a modern map looks plausible. Archaeological discoveries have added information about bronze dagger distributions and settlement patterns, but these too require interpretation. A geographically coherent archaeological complex may not correspond to one state with sharply defined borders. Modern readers are often shown maps with little indication of the argument behind them. A better digital atlas would let them compare what an excavated site demonstrates, what a transmitted text names, and what an historian infers. Those categories may overlap, but a transparent map should never hide the difference. This is not indecision: it is precision about the type of confidence available."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "II.1.10:b07",
+      "title": "Colonial historiography and the struggle for historical agency",
+      "paragraphs": [
+        "The modern study of Korean antiquity developed under conditions of war, empire, colonial rule, national independence and ideological division. Historical narratives became arguments about Korea's capacity for political action and about the relationship of the peninsula to surrounding empires. Under Japanese colonial rule, official historical scholarship could serve political frameworks that minimized the agency of Koreans or emphasized dependence. Korean nationalist historians challenged such interpretations, sometimes making ancient origins a central resource for collective dignity. Neither an imperial framework nor a patriotic response should be adopted uncritically as a source of Bronze Age facts. Their importance lies in how they shaped historical questions, textbook selection, interpretations of territory, and the emotional stakes attached to archaeological finds. A contested claim about the date or center of Gojoseon may inherit assumptions from more than one twentieth-century controversy. The historian must recognize the moral urgency of recovering agency while still asking whether a particular reading is supported by the surviving sources. Historical dignity does not depend on the acceptance of an unsupported royal chronology; it also resides in the careful reconstruction of diverse ancient communities."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "II.1.10:b08",
+      "title": "The problem with treating one excavation as a referendum",
+      "paragraphs": [
+        "A richly equipped grave can become a symbol within debates about early statehood. Its objects are photographed, compared with other finds, and sometimes featured as physical evidence for Gojoseon's long history. But a grave does not vote for a hypothesis. Its scientific context matters: excavation method, associated material, stratigraphy, conservation history, dating, and comparison with other assemblages. Older collections may have incomplete documentation, and modern interpretations can revise earlier typologies. A bronze dagger associated with a Liaoning site may demonstrate a sophisticated regional craft tradition and still leave the inhabitants' specific political designation uncertain. If an excavated complex resembles finds from neighboring regions, the resemblance could reflect exchange as well as common administration. The public presentation of archaeological evidence often condenses a complicated scholarly judgment into a label under glass. The website should resist that compression by explaining which part of a claim comes directly from the object and which part comes from an identification proposed by researchers. Such distinctions are particularly important when visitors arrive expecting either total certainty or total skepticism."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "II.1.10:b09",
+      "title": "Northern Korea, Manchuria and modern borders",
+      "paragraphs": [
+        "The ancient world of Joseon cannot be narrated entirely within present-day national borders. The Liaodong region and the northwestern peninsula were connected by movement, exchange and political rivalry. Yet modern states' borders shape access to archaeological sites, museum collections, and historical records. Scholarship produced in North Korea, South Korea, China and elsewhere may employ different periodizations, terminology and political assumptions. Sometimes the same material phenomenon is described through rival ethnic or state-centered narratives. That does not require treating every interpretation as equally credible. It does require identifying what evidence is being compared and considering whether historians are disputing a find, its date, its cultural attribution, or the meaning of the word state. Access limitations are not evidence for one interpretation over another. No modern government can automatically be read backward as the natural owner of a Bronze Age community. The task is to investigate regional relationships across the ancient landscape while openly acknowledging the modern conditions under which evidence has been collected, catalogued and taught."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "II.1.10:b10",
+      "title": "A foundation date can be culturally important without being archaeologically verified",
+      "paragraphs": [
+        "The conventional Dangun foundation year, 2333 BCE, carries enormous symbolic importance in Korean historical consciousness. It appears in educational traditions and commemorative frameworks that connect national beginnings with deep antiquity. Cultural importance, however, is not the same type of claim as a date established by a contemporary inscription. Bronze Age social formations developed across long periods, and the earliest dated material cannot simply be synchronized to a literary foundation calculation. When a website displays an exact year without a provenance label, it encourages visitors to mistake a conventional or mythic chronology for a securely dated political event. The same interface can present both without disrespect: one layer of the timeline identifies dates used in historical tradition, another shows archaeologically dated periods, and a third marks written references with their own dates of composition. Readers can then understand how a symbolic beginning helped organize collective memory while recognizing that archaeology does not certify the year. Historical thinking gains strength, not loses it, when different kinds of time are made legible together."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "II.1.10:b11",
+      "title": "A story can be central to identity and open to examination",
+      "paragraphs": [
+        "Some readers approach Dangun, Gija, and Gojoseon with inherited reverence; others approach them through a skeptical research question. A responsible historical work need not force either group to abandon its reasons for interest. It can describe what a tradition meant for later communities while asking how it reached them. It can give reasons for a scholarly interpretation without turning uncertainty into embarrassment. It can distinguish ancient political power from modern national identity without denying that historical memory has shaped the latter. This requires a writing style in which uncertainties are not placed in an apologetic footnote after a confident tale. Instead, the uncertainty itself becomes narratable: a passage about why two chronicles classify the past differently, a portrait of how objects move among regions, or an account of how a dynasty sponsored ancestral rites. The absence of a definitive early royal record leaves room for disciplined inquiry, not for invented scenes presented as quotation. Readers deserve the richness of several afterlives of Gojoseon, not the forced simplicity of a single unbroken origin story."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    },
+    {
+      "id": "II.1.10:b12",
+      "title": "A history still being written",
+      "paragraphs": [
+        "What would change our understanding most? Better-dated settlement sequences, newly published excavation contexts, systematic comparison of Liaoning and peninsular material, careful textual work on transmitted Chinese accounts, and more transparent discussion of competing geographical proposals would all matter. Each new discovery should enter a body of evidence rather than instantly settle a nationalist dispute. A corpus that distinguishes direct source text, scholarly interpretation and editorial synthesis can be updated without rewriting its canonical addresses or erasing earlier debate. A reader should be able to follow one argument about a Liaodong center, inspect the kinds of evidence used, and compare it with a more cautious map. The article can remain enjoyable because research itself contains movement: changing questions, unexpected survival, material finds that unsettle familiar chronologies, and old stories that acquire new meanings. The most durable historical conclusion is not that the earliest Korean state has become completely known. It is that its remains, names and memories demand different methods, and that using those methods makes the ancient world more complex, more human, and more worthy of sustained attention."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 12
+    }
+  ]
+}
