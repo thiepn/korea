@@ -1,0 +1,74 @@
+{
+  "id": "I.2.8",
+  "title": "Cooperation, Social Organization, and Knowledge Transmission",
+  "kicker": "PALEOLITHIC KOREA",
+  "description": "Evidence-conscious history of cooperation, social organization, and knowledge transmission, with archaeological limits and regional variation.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; selected institutional context, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Permanent Exhibition — Paleolithic Period",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do",
+      "role": "Museum interpretation of Korean Paleolithic tools and archaeological evidence"
+    },
+    {
+      "institution": "Korea Citation Index",
+      "title": "단양 수양개 유적에서 좀돌날문화의 출현",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002662842",
+      "role": "Published sequence analysis of Suyanggae Upper Paleolithic lithic industries"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.2.8:b01",
+      "title": "The difficult archaeology of relationships",
+      "paragraphs": [
+        "Stone tools record acts of making and using things more readily than social obligations. An excavated core cannot tell us who taught the skill, who had authority to decide where to camp, or how a group responded to illness. Yet material production almost certainly took place within relationships because skills require learning, resources require negotiation, and vulnerable members need support. The challenge is to infer social processes without inventing an ethnography of a population whose members left no names or self-descriptions.",
+        "Archaeologists approach cooperation indirectly, through the organization of activities and the repeated spatial relationships of artifacts, rather than by reading institutions from shapes. Multiple knapping sequences in one activity area could indicate several workers or repeated visits by a single person. A shared kill or transported large carcass might require coordination in some circumstances, but the inference must depend on the actual assemblage. Social interpretation becomes strongest when distinct evidence types support it independently."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 1
+    },
+    {
+      "id": "I.2.8:b02",
+      "title": "Learning a technical sequence",
+      "paragraphs": [
+        "A novice may copy the appearance of a finished tool without understanding the preparation that made it possible. Complex reduction sequences make hidden demands: raw material must be assessed, striking surfaces prepared, force controlled, mistakes repaired, and useful pieces recognized. Such abilities are learned through observation and practice. Repeated patterns of scars across an assemblage can illuminate conventional solutions, but they cannot reveal the words or gestures used to teach them.",
+        "Knowledge transmission has a geography. If people moved seasonally or met other groups, a successful technique could spread beyond the place where an individual learned it. Alternatively, similar problems could lead to similar independent solutions. Tool resemblance alone does not settle these possibilities. A careful interpretation compares sequences and dates, and asks whether raw materials traveled along with technical conventions. The educational implication is that prehistoric expertise was real even when its teachers and apprentices are invisible."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 2
+    },
+    {
+      "id": "I.2.8:b03",
+      "title": "Food, care, and unequal preservation",
+      "paragraphs": [
+        "Survival required activities beyond making weapons. Finding water, preparing food, managing heat, recognizing hazards, obtaining fiber or wood, and attending to vulnerable companions are all relevant human problems. Some may have depended on cooperative arrangements, but particular norms cannot be identified from the general fact that people survived. Research on ancient care can sometimes draw on skeletal remains, traces of injury, and evidence of long-term survival with impairment, where such remains are securely contextualized. It would be irresponsible to transfer conclusions from one distant archaeological population to another without direct Korean evidence.",
+        "Social histories once treated Paleolithic communities as almost exclusively groups of men pursuing large animals. That image reflects both popular expectations and unequal archaeological visibility. Gathering, child care, knowledge of plants, cooking, repair, and activities using perishable objects do not produce the same monumental artifacts. The appropriate correction is not to fabricate named female specialists, but to explain what disappears when a history relies only on spectacular surviving stones."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 3
+    },
+    {
+      "id": "I.2.8:b04",
+      "title": "Power, difference, and caution",
+      "paragraphs": [
+        "People in small mobile communities may have differed in experience, age, practical skill, access to resources, or social influence. Those differences do not necessarily imply hereditary ranks or chiefdoms. Evidence for durable inequalities requires more than unequal quantities of tools at a few sites. Burial differentiation, repeated differences in access to valued goods, or reliable settlement hierarchies might support arguments in later contexts, but the Paleolithic record often cannot sustain such precision.",
+        "Modern categories such as class, nation, tribe, and formal government can make early human relationships seem clearer than they were. They should not be adopted as default labels for every archaeological assemblage. The responsible vocabulary expresses the scale of the evidence: recurring activity, possible shared knowledge, likely cooperation in some tasks, and uncertainty about enduring institutions. There is intellectual value in describing a past society without claiming to know its constitution."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 4
+    },
+    {
+      "id": "I.2.8:b05",
+      "title": "What comparison can legitimately contribute",
+      "paragraphs": [
+        "Ethnographic accounts of more recent mobile foragers can help scholars imagine possible arrangements for learning, provisioning, and movement. They cannot serve as direct records of Paleolithic inhabitants of the peninsula. The same ecological challenge can produce different social responses, and recent communities have histories of their own. Analogies should therefore test hypotheses rather than supply missing facts.",
+        "A meaningful account of knowledge transmission balances this restraint with recognition of competence. The people who left stone assemblages mastered actions involving observation, anticipation, repair, and local materials. Their intellectual worlds need not be described as primitive simply because the archive is fragmentary. Equally, it is unsound to assign them elaborate mythologies or hereditary political systems on the basis of universal statements about humanity. The strongest narrative makes the evidence, and its silence, part of the story."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 5
+    }
+  ]
+}

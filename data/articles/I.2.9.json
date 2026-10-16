@@ -1,0 +1,74 @@
+{
+  "id": "I.2.9",
+  "title": "Ice Age Environments and Human Adaptation",
+  "kicker": "PALEOLITHIC KOREA",
+  "description": "Evidence-conscious history of ice age environments and human adaptation, with archaeological limits and regional variation.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; selected institutional context, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Permanent Exhibition — Paleolithic Period",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do",
+      "role": "Museum interpretation of Korean Paleolithic tools and archaeological evidence"
+    },
+    {
+      "institution": "Korea Citation Index",
+      "title": "단양 수양개 유적에서 좀돌날문화의 출현",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002662842",
+      "role": "Published sequence analysis of Suyanggae Upper Paleolithic lithic industries"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.2.9:b01",
+      "title": "The peninsula did not have one Ice Age",
+      "paragraphs": [
+        "The Pleistocene included repeated climatic changes rather than a single continuous winter. During colder phases the distributions of vegetation, animal populations, and habitable routes could differ sharply from those of warmer intervals. People who moved through the peninsula responded to environments that changed across generations and also fluctuated from season to season. Reconstructing these shifts requires evidence from sediments, pollen where preserved, landforms, sea-level history, and regional paleoclimate studies. The result is a series of conditional environmental models, not a photograph of one fixed prehistoric landscape.",
+        "Global glacial stages can help situate local sequences, but the dates and characteristics of conditions in one valley cannot simply be read off an ice-core diagram from elsewhere. Regional moisture, altitude, exposure, and the influence of the surrounding seas mattered. Some places may have offered sheltered resources during harsh periods while others became less accessible. Broad statements about cold weather are not enough to explain particular occupations."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 1
+    },
+    {
+      "id": "I.2.9:b02",
+      "title": "Sea level and the vanished coastal plain",
+      "paragraphs": [
+        "During periods of lower global sea level, land now beneath shallow coastal waters was exposed. The geography of the Yellow Sea margins and the connections between river basins therefore differed from modern shorelines. Habitats accessible to prehistoric populations may now be submerged, limiting what excavators can sample. A modern coastal site does not necessarily indicate a community living at the ancient water's edge.",
+        "This lost geography complicates claims about movement and subsistence. Routes across lowlands may have been possible in some intervals and disrupted as water levels rose. Rivers extended across exposed shelves and later changed their courses. Archaeologists must combine geological reconstructions with material finds; the mere possibility of a route does not prove that a specific group traveled it. Maps that show one ancient coastline should state the time and uncertainty of the reconstruction."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 2
+    },
+    {
+      "id": "I.2.9:b03",
+      "title": "Cold-weather technology without caricature",
+      "paragraphs": [
+        "Stone tools offered durable cutting edges, but coping with cold also required access to fuel, suitable shelter, and strategies for clothing or protection. The organic materials involved rarely survive in ordinary open-air deposits. Thus the apparent technological record can be biased toward cutting implements even when many survival tasks centered on wood, hides, fibers, and fire. Evidence for a particular structure or garment must remain site-specific.",
+        "Adaptation should be treated as an interaction among skills and resources, not as the automatic consequence of a climatic event. A colder spell could increase the cost of movement while altering the distributions of prey and plants. Different groups might respond in different ways, including changing the timing of visits, using alternate routes, or adjusting equipment. A convincing argument connects environmental chronology with local archaeological change rather than assuming that every new blade was invented because temperatures fell."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 3
+    },
+    {
+      "id": "I.2.9:b04",
+      "title": "Fauna and the risks of ecological inference",
+      "paragraphs": [
+        "Animal remains can help reconstruct habitat and human activity when identification, dating, and formation processes are secure. But a bone assemblage may reflect predator accumulation, natural deaths, or later disturbance as well as human consumption. Cut marks and burning require careful analysis; a list of animal species is not automatically a menu. Ecological reconstruction depends on recognizing those alternatives.",
+        "Pollen, phytoliths, and other plant proxies can complement faunal evidence, though their preservation and spatial resolution differ. A deposit may sample a wider catchment than the immediate campsite. When researchers compare evidence from multiple locations they must also ask whether the sites were occupied at the same time. An elegant regional story built from deposits thousands of years apart can disguise change as a single ecological system."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 4
+    },
+    {
+      "id": "I.2.9:b05",
+      "title": "Resilience, vulnerability, and historical scale",
+      "paragraphs": [
+        "Paleolithic populations faced weather variability without the later infrastructures of cities or states, but that does not make their lives a continuous disaster. Learned knowledge of resources, flexible movement, and diverse equipment may have enabled long histories of occupation. Archaeology can document persistence in a region without identifying the same biological or cultural population across every interval. A human presence in different layers does not establish unbroken ancestry.",
+        "Environmental history is more than a background explanation for artifacts. It shapes which places were attractive, which deposits survived, and which questions can now be answered. The climatic past also cautions against simple determinism. Similar changes could have different consequences depending on local resources and previous human practice. The story of adaptation is therefore one of varied choices under changing constraints, with uncertainty built into the evidence itself."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 5
+    }
+  ]
+}
