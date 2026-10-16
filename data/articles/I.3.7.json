@@ -1,0 +1,84 @@
+{
+  "id": "I.3.7",
+  "title": "Maritime Adaptation, Islands, and Seafaring",
+  "kicker": "NEOLITHIC KOREA",
+  "description": "An evidence-conscious account of maritime adaptation, islands, and seafaring in the Neolithic peninsula.",
+  "release": "Q",
+  "sourceStatus": "Original archaeological synthesis; selective scholarly references, interpretations qualified",
+  "sources": [
+    {
+      "institution": "Journal of Archaeological Research",
+      "title": "Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea",
+      "url": "https://doi.org/10.1007/s10814-024-09204-7",
+      "role": "Research synthesis of households, coastal middens, burials and demographic/settlement controversies"
+    },
+    {
+      "institution": "Journal of Anthropological Archaeology",
+      "title": "Population and social aggregation in the Neolithic Chulmun villages of Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S027841651500080X",
+      "role": "Interpretive analysis of settlement formation, aggregation and chronologies"
+    },
+    {
+      "institution": "Current Anthropology",
+      "title": "The Transition from Foraging to Farming in Prehistoric Korea",
+      "url": "https://doi.org/10.1086/658488",
+      "role": "Archaeobotanical and economic history of mixed subsistence"
+    },
+    {
+      "institution": "Quaternary International",
+      "title": "Coastal farmers during the Early and Middle Holocene: Archaeobotanical and grain impression studies on the east coast Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618219308122",
+      "role": "Early pottery, plant remains and changing classification of Chulmun tradition"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.3.7:b01",
+      "title": "Islands belonged to a working seascape",
+      "paragraphs": [
+        "A modern map presents Korea's islands as dots separated from a mainland by empty blue space. For maritime-adapted Neolithic groups, channels, shorelines, landing places, tides, and productive fishing areas could be part of a connected environment. A passage across water might be routine in favorable conditions and dangerous during a seasonal storm. Archaeologists find shell deposits, pottery, bone implements, and other evidence in insular settings, but reconstructing the routes between sites requires more than joining the dots. The sea was an ecological resource and a medium of movement with its own constraints.",
+        "The presence of people on islands implies that water crossings occurred in relevant circumstances, but it does not disclose the shape of every vessel or the social organization of travel. Wooden craft, bindings, and other perishable equipment would seldom survive in ordinary soils. Voyages may have been organized for gathering, visits between communities, relocation, exchange, or some combination of purposes. A long history should avoid announcing a single sophisticated seafaring tradition from all finds taken together. It can instead identify the different maritime capacities that particular archaeological contexts reasonably imply."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis · debated interpretations",
+      "evidence": [
+        {
+          "claim": "Archaeological syntheses describe regionally varied Chulmun households, sites and forms of social aggregation.",
+          "sourceIndex": 0,
+          "locator": "Journal of Archaeological Research, Community Formation, 2025, Neolithic site and social analyses",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.3.7:b02",
+      "title": "Subsistence made navigation consequential",
+      "paragraphs": [
+        "Fishing, shellfish collection, and other coastal pursuits did not take place in a permanently calm environment. People needed knowledge of tidal exposure, changing weather, available landings, and the behavior of marine animals. Some coastal locations offered easier access to a range of habitats than inland sites. Shell middens in the south and on islands testify to substantial exploitation, but their accumulation can span many generations, and the work that made them remains partly invisible.",
+        "The relationship between catch and residence varied. An island location might serve as a recurrent seasonal destination rather than a permanent residential center; some excavated deposits are consistent with repeated settlement use. A large body of fish remains should not be interpreted as a fleet-based commercial operation without evidence of organization and scale. Ecological specialization and broad-spectrum harvesting are not opposites: a group could be skilled at marine exploitation while also gathering plants and hunting on land, or acquiring resources through contact with other communities."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.7:b03",
+      "title": "Objects cross water more easily than identities",
+      "paragraphs": [
+        "The discovery of similar vessels or selected raw materials on opposite shores can indicate that objects, techniques, or people traveled. These are related but distinct explanations. Pottery may have been carried as a useful container, copied after a meeting, or made independently in related traditions. To argue for a route, analysts compare compositional characteristics, manufacturing practices, chronology, and the distribution of intermediate sites. A resemblance in decoration is not a passport documenting the nationality of its maker.",
+        "Maritime connections extend the relevant comparative geography beyond today's national borders. Northeast Asian coasts and islands were environments of potential contact long before modern polities existed. But the possibility of travel does not prove a constant corridor or one-directional cultural influence. Chronological gaps, changing sea levels, and uneven survey coverage make reconstructing connections difficult. The task is to evaluate material circulation while resisting simple stories of colonization, cultural diffusion, or unbroken ancestry inferred from one attractive artifact type."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.7:b04",
+      "title": "Burials, communities, and the value of restraint",
+      "paragraphs": [
+        "Some coastal island sites contain human burials that provide rare information about bodies and funerary action. The scholarly synthesis of Chulmun communities discusses remains from Yokji-do and Gadeok-do Janghang among the evidence for burial practices. Multiple interments in a locality can suggest repeated use and communal significance, yet burial counts are not population censuses. The individuals interred may reflect selective rules that archaeologists cannot fully reconstruct.",
+        "Personal ornaments and associated implements can invite claims about rank or identity, but such interpretations need comparison across grave contexts and careful assessment of preservation. The same object could have served different purposes, and a grave with many goods is not automatically evidence of hereditary aristocracy. Island histories are often written around voyaging; the burials remind readers that shores also hosted relationships with the dead, memory, and place. What those relationships meant in particular Neolithic communities remains a subject of investigation rather than a recoverable narrative of named customs."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis · debated interpretations"
+    }
+  ]
+}
