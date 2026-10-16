@@ -1,0 +1,104 @@
+{
+  "id": "VII.6.7",
+  "title": "Jangsi, Private Merchants, Regional Commerce, and Market Integration",
+  "kicker": "LATE JOSEON ECONOMY · LAND AND EXCHANGE",
+  "description": "Original evidence-conscious historical account of jangsi, private merchants, regional commerce, and market integration, with institutional and regional context.",
+  "release": "S",
+  "sourceStatus": "Editorial historical synthesis from selected Korean historical references, not comprehensive peer review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical Documents for Later Joseon Economic History",
+      "url": "https://contents.history.go.kr/mobile/hm/list.do?periodCode=hm_age_60&typeCode=hm_ty_020",
+      "role": "Annotated primary source excerpts on tenancy, wealthy and poor farmers, markets and artisans"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Periodic Markets in Joseon",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_030_0060_0020_0040_0010",
+      "role": "Research synthesis on growth, periodic scheduling and interregional exchanges"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Late Joseon Commerce and Currency",
+      "url": "https://contents.history.go.kr/eh_kk/teach/tong/iv/iv34.html",
+      "role": "Teaching synthesis on Daedong contractors, private merchant networks, coinage and ports"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daedong Sangjeong Law (대동상정법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014255",
+      "role": "Evidence that taxation varied across provinces due to agricultural conditions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.6.7:b01",
+      "title": "Periodic markets organized rural time",
+      "paragraphs": [
+        "Jangsi were recurrent markets in which farmers, artisans and merchants met to exchange goods. The National Institute of Korean History traces their emergence in the late fifteenth century and expansion across the peninsula in subsequent centuries. Many operated on a five-day cycle, and neighboring markets could adjust their dates so that traders moved between locations.",
+        "A market day was thus part of a regional schedule, not an isolated annual festival. The distance a person could travel and return within a day shaped where a market was useful. Terrain, roads and river crossings influenced the network. A trader might carry goods from several villages, while a farmer sold a modest surplus and purchased necessities. These relationships made an economy of dispersed production more connected without eliminating local self-provisioning."
+      ],
+      "sequence": 1,
+      "label": "Historical analysis · institutional evidence",
+      "evidence": [
+        {
+          "claim": "Korean historical records document land, market and fiscal transformations unevenly across later Joseon.",
+          "sourceIndex": 1,
+          "locator": "신편 한국사 30권, 장시의 형성과 확산",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.6.7:b02",
+      "title": "The scale of growth requires caution",
+      "paragraphs": [
+        "Historical teaching materials describe roughly a thousand periodic markets by the late eighteenth century, but enumerations depend on the period and methods of compiling lists. Market existence does not establish constant activity or a fixed number of stalls. A small mountain market differed greatly from a major transport hub, and the apparent precision of a national total should not obscure such differences.",
+        "The chronological growth was substantial enough to change economic opportunities. A household could sell products beyond the immediate village while buyers gained access to salt, textiles, tools and other goods. The development was not wholly directed from Seoul; local demand and regional routes mattered. The history of markets must therefore describe how decentralized activity grew within, and sometimes against, a monarchy concerned with regulation and fiscal revenue."
+      ],
+      "sequence": 2,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.7:b03",
+      "title": "Private merchants were not all alike",
+      "paragraphs": [
+        "The term sasang or private merchant refers to people and firms operating outside certain officially privileged market categories. Some merchants traveled with small bundles, while others managed extensive networks, warehouses and credit relationships. Merchants near Seoul's Chilpae or Songpa markets occupied different positions from regional traders in Kaesong, Pyongyang or Uiju.",
+        "Grouping these actors as one emerging bourgeoisie can overstate their common interests and the similarity of their business methods. Merchants operated through capital, trust, kin networks and relationships with officials. Some depended on government procurement or negotiated rights within regulated markets. Others prospered through moving goods between rural producers and urban customers. Their role was substantial but still embedded in hierarchical political institutions."
+      ],
+      "sequence": 3,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.7:b04",
+      "title": "Licensed privilege and market contestation",
+      "paragraphs": [
+        "Seoul's officially sanctioned market shops held privileges associated with supplying the capital and protecting recognized sellers against unauthorized competition. Private merchants challenged the boundaries of these rights, generating disputes over who could sell particular goods and where. The category nanjeon, or unauthorized markets, appears in regulatory debates and reflects the interests of officials and licensed merchants.",
+        "Competition was not necessarily a modern contest among firms under equal law. Particular sellers could draw on political backing while others depended on mobility or informal arrangements. Customers might benefit from additional sources of goods even when regulators saw disorder. A discussion of commercial freedom must therefore ask whose monopoly was being defended, whose livelihood was threatened and how the state balanced revenue, procurement and access to necessities."
+      ],
+      "sequence": 4,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.7:b05",
+      "title": "Brokers, fairs and everyday communication",
+      "paragraphs": [
+        "Trade brought information along with commodities. Prices from another town, news of poor harvests, or the availability of a specialist artisan could move through marketplaces. Brokers linked buyers and sellers who did not know each other, but their fees and trustworthiness were points of negotiation. Transactions depended on measurements, quality assessment and forms of credit that were not uniform across the peninsula.",
+        "Periodic markets also provided social meeting places, although the archaeological and documentary records rarely reveal every conversation. Kin networks and religious or cultural events could overlap with market travel. The significance of these gatherings should not be romanticized as universally free space. Status distinctions and regulation remained influential, and women or lower-status participants could experience unequal opportunities according to locality and occupation."
+      ],
+      "sequence": 5,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.7:b06",
+      "title": "Integration without a single national price",
+      "paragraphs": [
+        "A wider network of markets can move goods and information across regions, but it does not imply that all prices converged or that transport was inexpensive. Perishable goods, bulky grain and high-value medicinal products faced different economics. Roads could become unusable seasonally, and local tolls or security concerns affected costs.",
+        "Historians study price records, merchant networks and the growth of transport hubs to evaluate degrees of integration. They should not equate the spread of jangsi with the instantaneous emergence of one national free market. Late Joseon's commercial expansion was real and regionally uneven. The next histories of currency and transport explain how merchants managed exchange and why physical routes remained as important as the legal right to sell."
+      ],
+      "sequence": 6,
+      "label": "Historical analysis · institutional evidence"
+    }
+  ]
+}

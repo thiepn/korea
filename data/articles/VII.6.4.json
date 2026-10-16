@@ -1,0 +1,104 @@
+{
+  "id": "VII.6.4",
+  "title": "Landownership, Tenancy, Landlords, and Rural Differentiation",
+  "kicker": "LATE JOSEON ECONOMY · LAND AND EXCHANGE",
+  "description": "Original evidence-conscious historical account of landownership, tenancy, landlords, and rural differentiation, with institutional and regional context.",
+  "release": "S",
+  "sourceStatus": "Editorial historical synthesis from selected Korean historical references, not comprehensive peer review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical Documents for Later Joseon Economic History",
+      "url": "https://contents.history.go.kr/mobile/hm/list.do?periodCode=hm_age_60&typeCode=hm_ty_020",
+      "role": "Annotated primary source excerpts on tenancy, wealthy and poor farmers, markets and artisans"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Periodic Markets in Joseon",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_030_0060_0020_0040_0010",
+      "role": "Research synthesis on growth, periodic scheduling and interregional exchanges"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Late Joseon Commerce and Currency",
+      "url": "https://contents.history.go.kr/eh_kk/teach/tong/iv/iv34.html",
+      "role": "Teaching synthesis on Daedong contractors, private merchant networks, coinage and ports"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daedong Sangjeong Law (대동상정법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014255",
+      "role": "Evidence that taxation varied across provinces due to agricultural conditions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.6.4:b01",
+      "title": "Land in the register and land in use",
+      "paragraphs": [
+        "Landholding in late Joseon involved legal claims, practical cultivation, rental agreements, and fiscal assessment that did not always coincide. A person named in a state register might not cultivate a plot personally, while a tenant responsible for farming it might have limited control over its future use. The value of land depended on water, soil, accessibility and the capacity to protect harvests.",
+        "A historian should resist assuming the village was dominated everywhere by one standardized landlord class. Some households held small plots, some rented land, and some combined ownership and tenancy. Estates differed in size and the degree to which owners supervised production. Conflicts arose over boundaries, inheritances, debt, and obligations to local authorities. Official tax data illuminate parts of this history but do not provide a complete list of the people who worked every field."
+      ],
+      "sequence": 1,
+      "label": "Historical analysis · institutional evidence",
+      "evidence": [
+        {
+          "claim": "Korean historical records document land, market and fiscal transformations unevenly across later Joseon.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 조선 후기 경제, land and fiscal extracts",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.6.4:b02",
+      "title": "Rents linked agricultural success to hierarchy",
+      "paragraphs": [
+        "A tenant might pay an agreed proportion of the harvest or meet obligations under other arrangements; the forms and terms differed across regions and decades. Share arrangements divided output but could also distribute risk unevenly when crop failures occurred. Fixed demands posed a different danger because the amount owed did not necessarily fall with yield.",
+        "Rent cannot be understood solely by comparing a nominal fraction with a modern idea of fairness. Landlords might supply seed, animals, tools or irrigation access, while tenants supplied family labor. The bargaining power of each side depended on alternative land, available credit, enforcement and local authority. A contract may describe formal commitments without revealing whether coercion or custom shaped compliance. The economic historian needs the contractual setting and the social relationship together."
+      ],
+      "sequence": 2,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.4:b03",
+      "title": "Debt could convert insecurity into dispossession",
+      "paragraphs": [
+        "Households borrowed for seed, taxes, ceremonies, land purchase or emergencies. Debt could finance productive investment but became dangerous when repayment depended upon a harvest that failed. Land was a valuable asset for settling obligations, and its transfer could deepen differentiation between households able to lend and households needing resources.",
+        "The surviving cases are often exceptional because conflict or administrative involvement produced written evidence. They should not be turned into an exact national distribution of ownership. Nevertheless, the mechanisms of accumulation are intelligible: sustained surpluses enable investment, while repeated deficits force sales or tenancy. These processes could operate over generations without one spectacular act of seizure. Social difference grew through ordinary transactions as well as visible abuses."
+      ],
+      "sequence": 3,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.4:b04",
+      "title": "Household succession and land fragmentation",
+      "paragraphs": [
+        "The division of property among descendants could reduce an individual heir's acreage unless families consolidated or acquired additional plots. Inheritance rules, marriage arrangements and the resources of wider kin networks shaped who obtained productive land. The historical record often privileges legally recognized male heads, obscuring the labor and property interests of other household members.",
+        "Fragmentation could produce intensive cultivation of smaller plots or encourage family members to work beyond agriculture. Some households sought tenancy, trade or skilled craftwork while continuing to identify as rural. A narrow distinction between peasant and merchant misses these mixed strategies. Land was socially meaningful both as a productive resource and as a basis for claims about household independence, inheritance and standing within a community."
+      ],
+      "sequence": 4,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.4:b05",
+      "title": "Commercial farming and unequal opportunity",
+      "paragraphs": [
+        "As markets became more extensive, certain producers raised crops or livestock with sale in mind rather than only household consumption. Market opportunities differed depending on distance to a town, transport routes and access to suitable inputs. Larger or better-funded households could sometimes specialize more effectively, while smaller cultivators needed flexible combinations of food crops and sales.",
+        "It would be inaccurate to call all commercially oriented cultivators capitalist farmers in the modern sense. The intensity of investment and use of hired labor varied, and old social obligations remained important. The presence of commodity production does not by itself prove that people freely chose their labor relations. Historians evaluate estate records, prices, tenancy and transport together to understand where market participation enlarged autonomy and where it strengthened dependence."
+      ],
+      "sequence": 5,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.4:b06",
+      "title": "Class categories are historical questions",
+      "paragraphs": [
+        "Later scholarship sometimes describes a polarized countryside of wealthy landlords and landless tenants. This interpretation captures important pressures but should be tested against regional evidence and changing definitions of status. Tax categories, recorded households and land registers use different units of analysis. A smallholder who rents additional acreage cannot be assigned mechanically to only one class.",
+        "A richer rural history follows household trajectories: inheritance, credit, migration, the sale of labor, and the ability to withstand crises. Differentiation was real without being identical everywhere. The subsequent histories of fiscal reform and regional markets show why ownership mattered: access to land helped determine tax burdens, purchasing power, and who could benefit from increasing commercial opportunities."
+      ],
+      "sequence": 6,
+      "label": "Historical analysis · institutional evidence"
+    }
+  ]
+}

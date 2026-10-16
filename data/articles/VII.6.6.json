@@ -1,0 +1,104 @@
+{
+  "id": "VII.6.6",
+  "title": "Yeongjeong, Gyunyeok, Military Finance, and Fiscal Reform",
+  "kicker": "LATE JOSEON ECONOMY · LAND AND EXCHANGE",
+  "description": "Original evidence-conscious historical account of yeongjeong, gyunyeok, military finance, and fiscal reform, with institutional and regional context.",
+  "release": "S",
+  "sourceStatus": "Editorial historical synthesis from selected Korean historical references, not comprehensive peer review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical Documents for Later Joseon Economic History",
+      "url": "https://contents.history.go.kr/mobile/hm/list.do?periodCode=hm_age_60&typeCode=hm_ty_020",
+      "role": "Annotated primary source excerpts on tenancy, wealthy and poor farmers, markets and artisans"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Periodic Markets in Joseon",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_030_0060_0020_0040_0010",
+      "role": "Research synthesis on growth, periodic scheduling and interregional exchanges"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Late Joseon Commerce and Currency",
+      "url": "https://contents.history.go.kr/eh_kk/teach/tong/iv/iv34.html",
+      "role": "Teaching synthesis on Daedong contractors, private merchant networks, coinage and ports"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daedong Sangjeong Law (대동상정법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014255",
+      "role": "Evidence that taxation varied across provinces due to agricultural conditions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.6.6:b01",
+      "title": "The state's fiscal problem was not a single tax",
+      "paragraphs": [
+        "Late Joseon fiscal obligations included land taxation, military-related payments, and demands linked to tribute or public service. Reforms attempted to limit arbitrary assessment and make obligations predictable, but different taxes had different bases and regional histories. Treating all levies as one fixed national percentage would conceal what households actually faced.",
+        "The Daedong system's conversion of much tribute into assessments connected to land did not eliminate the need to maintain armies, officials, and granaries. The fiscal state still faced shortfalls and distributional conflicts. When courts announced a simplification, the benefits depended on whether local officials and intermediaries complied. Economic history needs to distinguish formal rules from actual extraction and from the goods the government ultimately purchased."
+      ],
+      "sequence": 1,
+      "label": "Historical analysis · institutional evidence",
+      "evidence": [
+        {
+          "claim": "Korean historical records document land, market and fiscal transformations unevenly across later Joseon.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 조선 후기 경제, land and fiscal extracts",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.6.6:b02",
+      "title": "Yeongjeong and the logic of standardization",
+      "paragraphs": [
+        "Under the Yeongjeong arrangements associated with seventeenth-century land-tax regularization, fiscal planners sought more predictable assessments, conventionally remembered through the formula of a low standard collection per unit of land. This was not a complete abolition of other charges, and collection practices varied. Land surveys and classifications were crucial because a uniform nominal rule depends on determining which land it applies to.",
+        "A headline about reducing taxes can therefore mislead when it ignores secondary costs, exemptions and assessments that remained contested. Households benefited differently according to land quality and their position as owners or tenants. The historian must ask which institution collected a payment, who bore it under rental agreements, and how officials reported the result. A statute was an attempt to govern fiscal information, not immediate proof of equal burdens."
+      ],
+      "sequence": 2,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.6:b03",
+      "title": "Military finance and the Gyunyeok law",
+      "paragraphs": [
+        "The Gyunyeok law of 1750 reduced a major cloth-based military service burden for many commoner households, conventionally described as a cut from two bolts to one. The reform addressed complaints that military taxes were unequal, especially when exemptions and substitutions concentrated payments among less powerful people.",
+        "Lowering a visible burden raised the problem of replacing lost revenue. The state explored other sources of fiscal support, including charges involving landholding and resources. This redistribution mattered because a reform benefiting one group could create new costs for another. A meaningful evaluation considers both relief granted and funding arrangements. It also asks whether official rates translated into household experience rather than assuming that the promulgated figure settled fiscal injustice."
+      ],
+      "sequence": 3,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.6:b04",
+      "title": "Exemptions created political conflict",
+      "paragraphs": [
+        "Status, office, and administrative classification could influence who paid particular obligations. If privileged households escaped or reduced a burden, ordinary families might experience the system as both financially difficult and morally illegitimate. Attempts to expand the payment base could provoke resistance from people whose established exemptions were threatened.",
+        "Fiscally effective policies needed political authority to define taxable persons and property. The records of debate reveal a court struggling to reconcile competing ideas of justice, order and military necessity. Language about fairness can express real concern while leaving some structural inequalities intact. The state did not possess a neutral administrative machine independent of the elites and local intermediaries who supplied much of its information."
+      ],
+      "sequence": 4,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.6:b05",
+      "title": "Regional variation survived national reform",
+      "paragraphs": [
+        "The northern and mountainous provinces posed different agricultural conditions from more productive rice-growing areas. The Academy of Korean Studies documents variants of Daedong tribute assessment, including sangjeong arrangements designed to accommodate regions where a uniform charge based on crop yields was impractical. This regional history cautions against imagining one reform replacing all older practices simultaneously.",
+        "Different local economies required different mixes of grain, cloth, coin and labor. Transport costs and the timing of harvests could affect the real weight of an apparently identical nominal assessment. Some adaptations improved feasibility; others complicated oversight and opened opportunities for arbitrary application. Fiscal history is therefore inseparable from geography. The same central objective could produce locally different institutions rather than an automatically harmonized system."
+      ],
+      "sequence": 5,
+      "label": "Historical analysis · institutional evidence"
+    },
+    {
+      "id": "VII.6.6:b06",
+      "title": "What fiscal reform could and could not accomplish",
+      "paragraphs": [
+        "Stable taxation could help the court plan expenditure and reduce some opportunities for abusive intermediaries. It could also encourage markets when government procurement used contractors and standardized goods. Yet a more predictable levy could coexist with indebtedness, tenancy and severe harvest shocks. Administrative improvements did not automatically create an egalitarian countryside.",
+        "The late Joseon fiscal story is neither permanent corruption nor an inevitable progression toward modern public finance. It involves specific policies with beneficiaries, costs, resistance and uneven enforcement. Comparing ordinances, local records and economic outcomes helps explain why reform mattered while resisting claims that one law solved every problem. Markets, money and the state's continuing resource requirements remained tightly connected."
+      ],
+      "sequence": 6,
+      "label": "Historical analysis · institutional evidence"
+    }
+  ]
+}
