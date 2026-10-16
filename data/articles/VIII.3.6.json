@@ -1,0 +1,118 @@
+{
+  "id": "VIII.3.6",
+  "title": "The Second Donghak Uprising and Japanese–Government Suppression",
+  "kicker": "KOREA 1894–1896 · EMPIRE AND REFORM",
+  "description": "A documented account of the second donghak uprising and japanese–government suppression, distinguishing violence, administrative aims and later memory.",
+  "release": "R",
+  "sourceStatus": "Original synthesis, qualified institutional sources and perspective-limited contemporary diplomatic records",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Donghak Movement (동학운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016865",
+      "role": "The movement's stages, political-religious ideals and repression"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Peasant Movement (농민운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013107",
+      "role": "Staged Donghak campaign, Jeonju, jipgangso and Ugeumchi"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gabo Reforms 1894–1896",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400600",
+      "role": "Government and international context"
+    },
+    {
+      "institution": "US Office of the Historian",
+      "title": "FRUS 1894 Appendix: Korean Council Reforms",
+      "url": "https://history.state.gov/historicaldocuments/frus1894app1/d53",
+      "role": "Primary diplomatic reproduction of decrees; reflects translation choices and foreign observation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gabo Reform (갑오개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000925",
+      "role": "Council and cabinet chronology and substantive measures"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.3.6:b01",
+      "title": "The second uprising had changed political stakes",
+      "paragraphs": [
+        "The renewed Donghak mobilization in the autumn of 1894 occurred under circumstances profoundly different from the first battles near Gobu. Japan's military intervention and expanding influence transformed the peasant struggle from a confrontation primarily with local officials into an increasingly explicit resistance to foreign domination as well as Korean authorities. Leaders faced decisions about cooperation, geographic coordination and the urgency of armed action.",
+        "The movement was not a single homogeneous army with identical demands across every district. Northern and southern Donghak networks had different histories and strategic calculations, and their cooperation was significant precisely because it was not automatic. The convergence of forces created possibilities for a broader campaign while also complicating supply and command. Explaining the second uprising requires attention to those coalitions instead of assuming everyone who had participated in the spring would immediately return to the battlefield."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Historical scholarship documents the 1894–1896 sequence and military-political consequences.",
+          "sourceIndex": 0,
+          "locator": "동학운동 chronology and regional resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.6:b02",
+      "title": "The moral appeal of defending the country",
+      "paragraphs": [
+        "Anti-Japanese resistance gained urgency as Japanese soldiers influenced the capital and the Korean government, and the Sino-Japanese War expanded. Movement rhetoric connected national danger with longstanding opposition to corrupt administration. For rural participants, these were not necessarily separate causes: officials who failed to protect communities and foreign soldiers operating with impunity could appear parts of a wider collapse of just rule.",
+        "Religious practices and Donghak ideals remained integral to organization. It is misleading to portray the movement as having suddenly discarded faith for modern nationalism. The language of moral equality, collective solidarity and care for the people shaped how organizers understood the political emergency. At the same time, the precise words preserved in declarations require scrutiny for date, authorship and later editorial reconstruction."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional references distinguish reform policies, military coercion and their contested legitimacy.",
+          "sourceIndex": 4,
+          "locator": "갑오개혁, 제2차 reform and Eulmi aftermath",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.6:b03",
+      "title": "The northern march and its logistics",
+      "paragraphs": [
+        "Peasant forces attempted to extend resistance beyond their earlier regional centre and challenge Japanese-backed power in routes leading toward the capital. Military movement required food, weapons, suitable terrain and reliable information about opposing forces. Local support could sustain a column, but extended campaigning also created burdens for communities along its path.",
+        "A map of arrows approaching Gongju can obscure these material constraints. Militia forces with uneven weaponry and experience confronted modernized Japanese troops and Korean government units operating in coalition. Firepower, organization and access to supplies influenced outcomes, although numerical disparities alone cannot explain every battle. Historians need to reconstruct the sequence of engagements and the choices available to the participants instead of attributing defeat to an abstract contrast between tradition and modernity."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.6:b04",
+      "title": "Ugeumchi and the defeat of the march",
+      "paragraphs": [
+        "The fighting at Ugeumchi near Gongju became the decisive symbol of the second uprising's defeat. Japanese and Korean government forces blocked the peasant advance, inflicting severe losses and breaking the capacity for a sustained northern campaign. The event should be understood within a series of engagements rather than as a single battlefield moment that immediately ended all resistance.",
+        "Casualty totals in later narratives vary and may depend on estimates produced for political purposes. A conservative account identifies the defeat and its strategic result while separating documented figures from commemorative numbers. The battle's significance lies not merely in unequal firearms but in how a mass political movement confronted the combined power of a reorganizing Korean state and an imperial army."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.6:b05",
+      "title": "Suppression and the lives of survivors",
+      "paragraphs": [
+        "Defeat brought pursuit, arrests and executions, while many participants faced the challenge of returning to farms and communities transformed by the fighting. Some organizers continued resistance in different forms. The official record often preserves charges and punishments more readily than the experiences of widows, displaced households or people forced into concealment.",
+        "The repression raises questions about who could claim lawful authority in 1894. Government forces acting under a reform program that promised improved justice participated in suppressing people who had demanded relief from administrative abuse. It is a mistake to resolve the contradiction by calling all reformers false or all insurgents virtuous. The period combined genuine institutional agendas with harsh coercion under foreign military pressure."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.6:b06",
+      "title": "What defeat did not erase",
+      "paragraphs": [
+        "The 1894 uprising failed to establish a durable national alternative government, but its demands and memories remained important in later political and religious developments. Donghak's transformation and subsequent Cheondogyo history belong to a longer story beyond the military defeat. Local reforms, participation and experiences of oppression continued to shape accounts of legitimate governance.",
+        "The historical result should not be measured solely by immediate military victory. The movement exposed the depth of rural frustration and the limited capacity of existing institutions to address it. It also shows the limits of armed mobilization when facing superior military resources and imperial intervention. A source-conscious account can respect its significance without claiming that the participants shared every aim attributed to them by later nationalist or democratic histories."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}

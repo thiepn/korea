@@ -1,0 +1,118 @@
+{
+  "id": "VIII.3.9",
+  "title": "The Assassination of Queen Min, the Eulmi Reforms, and Political Radicalization",
+  "kicker": "KOREA 1894–1896 · EMPIRE AND REFORM",
+  "description": "A documented account of the assassination of queen min, the eulmi reforms, and political radicalization, distinguishing violence, administrative aims and later memory.",
+  "release": "R",
+  "sourceStatus": "Original synthesis, qualified institutional sources and perspective-limited contemporary diplomatic records",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Donghak Movement (동학운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016865",
+      "role": "The movement's stages, political-religious ideals and repression"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Peasant Movement (농민운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013107",
+      "role": "Staged Donghak campaign, Jeonju, jipgangso and Ugeumchi"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gabo Reforms 1894–1896",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400600",
+      "role": "Government and international context"
+    },
+    {
+      "institution": "US Office of the Historian",
+      "title": "FRUS 1894 Appendix: Korean Council Reforms",
+      "url": "https://history.state.gov/historicaldocuments/frus1894app1/d53",
+      "role": "Primary diplomatic reproduction of decrees; reflects translation choices and foreign observation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gabo Reform (갑오개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000925",
+      "role": "Council and cabinet chronology and substantive measures"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.3.9:b01",
+      "title": "A palace murder and a crisis of sovereignty",
+      "paragraphs": [
+        "On 8 October 1895 Queen Min, subsequently honored as Empress Myeongseong, was assassinated at Gyeongbokgung during an attack involving Japanese agents and Korean collaborators associated with Japanese designs. The event was not an ordinary episode of cabinet competition. It demonstrated the vulnerability of the monarchy to violent intervention near the royal household and provoked deep outrage.",
+        "Accounts of the killing survive through diplomatic reports, witness testimony and later historical reconstruction. They differ in perspective and detail, but the central fact of the murder and Japanese participation is established. Describing the queen solely through the label pro-Russian oversimplifies her political agency and the competing strategies within the court. Her death was a crucial escalation in the struggle over Korea's ability to choose its external and internal policies."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Historical scholarship documents the 1894–1896 sequence and military-political consequences.",
+          "sourceIndex": 0,
+          "locator": "동학운동 chronology and regional resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.9:b02",
+      "title": "The motives behind a violent intervention",
+      "paragraphs": [
+        "Japanese strategists were concerned about rival influence at court as Korean leaders attempted to maneuver among neighboring powers after the Sino-Japanese War. The plot to remove the queen was tied to those calculations. Yet reducing the event to a neat causal formula such as the elimination of Russian influence alone risks ignoring internal factional politics and the different intentions of individuals who participated.",
+        "The historians' task is to reconstruct the organization of the assault, the actors who authorized or facilitated it, and the resulting diplomatic crisis from corroborated evidence. Sensational detail that rests on unverified later retellings should be labelled accordingly. A history of political violence requires attention to responsibility without using conjectural scenes to heighten drama."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional references distinguish reform policies, military coercion and their contested legitimacy.",
+          "sourceIndex": 4,
+          "locator": "갑오개혁, 제2차 reform and Eulmi aftermath",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.9:b03",
+      "title": "The Eulmi cabinet and renewed measures",
+      "paragraphs": [
+        "After the assassination, the Kim Hong-jip cabinet carried forward another phase of administrative change, often called the Eulmi Reforms. Measures included adoption of the solar calendar, changes to education and public institutions, and controversial rules affecting dress and hair. Some proposals had a rational administrative purpose, but the circumstances of their introduction severely damaged their credibility.",
+        "The Academy of Korean Studies distinguishes the Eulmi phase as the third stage within the broader Gabo reform movement. Its dates and boundaries can vary somewhat by the author, especially around cabinet reconstruction. This reminds readers that period labels organize a rapidly shifting set of policies rather than announce a fixed program supported uniformly by all officials. The reform ministry and its Japanese backing were inseparable in public perception."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.9:b04",
+      "title": "The hair-cutting order as a political symbol",
+      "paragraphs": [
+        "The compulsory cutting of traditional male topknots became a powerful point of resistance. It affected the body and public identity directly, intersecting with Confucian ideas of filial piety and the respectful treatment of hair received from one's parents. Critics could experience the order as a humiliating sign of forced imitation under Japanese influence.",
+        "The decree's political force did not mean every Korean held precisely the same view about hair or modernization. Some reformers favored changed dress and personal habits, while others might accept institutional reforms but oppose coercive alteration of appearance. The hair-cutting controversy reveals a general problem in state reform: the difference between enabling new practices and using police power to compel them in the absence of consent."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.9:b05",
+      "title": "Righteous armies and an expanding resistance",
+      "paragraphs": [
+        "The combination of palace murder, foreign pressure and the hair-cutting order contributed to the mobilization of early anti-Japanese righteous armies. These movements differed in leadership and aims from the Donghak peasant forces, even where both opposed Japanese intervention. Some appealed more explicitly to conservative Confucian authority and defence of the monarchy.",
+        "A national account should not merge every resistance movement into one continuous organization merely because later memory treats them as part of a common struggle. Social bases, religious frameworks and strategies varied. Yet the simultaneous emergence of different forms of opposition shows how the reform order lost legitimacy across more than one political constituency."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.9:b06",
+      "title": "Why Eulmi reform did not stabilize the state",
+      "paragraphs": [
+        "The cabinet possessed instruments for issuing orders but lacked the broad political settlement needed to make them acceptable. Palace violence had destroyed trust; competing foreign powers watched the court; and resistance was developing beyond Seoul. Administrative innovations could not compensate for a perception that sovereign decision-making itself had been violated.",
+        "The crisis did not prove that modern schools, calendars or courts were inherently unworkable. It showed that institutional legitimacy matters alongside technical design. The following unit traces King Gojong's movement to the Russian legation and the destruction of the cabinet that had directed the reforms, completing this intense two-year political sequence."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}

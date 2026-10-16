@@ -1,0 +1,118 @@
+{
+  "id": "VIII.3.8",
+  "title": "The Second Gabo Reform Phase and the Reorganization of Government",
+  "kicker": "KOREA 1894–1896 · EMPIRE AND REFORM",
+  "description": "A documented account of the second gabo reform phase and the reorganization of government, distinguishing violence, administrative aims and later memory.",
+  "release": "R",
+  "sourceStatus": "Original synthesis, qualified institutional sources and perspective-limited contemporary diplomatic records",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Donghak Movement (동학운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016865",
+      "role": "The movement's stages, political-religious ideals and repression"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Peasant Movement (농민운동)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013107",
+      "role": "Staged Donghak campaign, Jeonju, jipgangso and Ugeumchi"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gabo Reforms 1894–1896",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400600",
+      "role": "Government and international context"
+    },
+    {
+      "institution": "US Office of the Historian",
+      "title": "FRUS 1894 Appendix: Korean Council Reforms",
+      "url": "https://history.state.gov/historicaldocuments/frus1894app1/d53",
+      "role": "Primary diplomatic reproduction of decrees; reflects translation choices and foreign observation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gabo Reform (갑오개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000925",
+      "role": "Council and cabinet chronology and substantive measures"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.3.8:b01",
+      "title": "From the first council to a revised government",
+      "paragraphs": [
+        "The first Gabo reforms were followed by a further restructuring of Korea's central institutions as the war and foreign influence continued. Japanese policy became more assertive after earlier reform coalitions shifted, while Korean officials disagreed about the proper organization of ministries, justice and royal authority. The second phase of reforms should not be mistaken for a merely technical continuation of the first.",
+        "Changing which institution could initiate a decree or appoint officials mattered politically. A cabinet arrangement could weaken older palace networks while strengthening particular ministers, and revisions to administrative rules reflected struggles for control as much as abstract constitutional theory. The same word reform therefore encompasses different coalitions over a relatively short interval. Periodizing the phases helps explain why policies adopted in one setting could be reversed or revised under the next."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Historical scholarship documents the 1894–1896 sequence and military-political consequences.",
+          "sourceIndex": 0,
+          "locator": "동학운동 chronology and regional resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.8:b02",
+      "title": "Hongbeom Fourteen Articles and constitutional claims",
+      "paragraphs": [
+        "The Hongbeom Fourteen Articles, promulgated in early 1895, outlined principles for governing and affirmed Korea's independent position in relation to Qing. They addressed royal governance, administration and public institutions within a program of political renovation. Such a text is a significant statement of ambition; it is not evidence that a modern representative constitution already operated in practice.",
+        "Declarations that prohibited particular abuses or prescribed orderly government had to compete with factional conflict and the presence of foreign forces. The court's ability to implement promises varied. A historical analysis should place the Articles within contemporary struggles over cabinet authority and external recognition, rather than read them backwards through later democratic constitutional expectations."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional references distinguish reform policies, military coercion and their contested legitimacy.",
+          "sourceIndex": 4,
+          "locator": "갑오개혁, 제2차 reform and Eulmi aftermath",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.3.8:b03",
+      "title": "Cabinet power, royal authority and legitimacy",
+      "paragraphs": [
+        "One recurring issue was whether the king's household and political ministers would exercise separate powers. A government seeking responsible administration might regard a sharper distinction as essential for reliable budgets and laws. Members of the royal court might see some reforms as constraints imposed under foreign military pressure. The conflict did not create two wholly consistent camps, because positions changed with circumstances.",
+        "A ministry could gain formal authority without gaining the personnel or revenue needed to function. Local officials remained important intermediaries, and old relationships could influence appointments. Consequently the new central structure should be evaluated through both law and administrative practice. A paper change in hierarchy is part of institutional history, but it is not the whole history of who could govern."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.8:b04",
+      "title": "Justice, police and the meaning of state authority",
+      "paragraphs": [
+        "The reform program sought greater separation of judicial functions and a more systematic police administration. This ambition arose in a context where arbitrary punishment and coercive local practices were important grievances. But new police capacity could also enable governments to suppress opposition, including the Donghak insurgents. Modern organization does not by itself guarantee a benign use of state power.",
+        "A contemporary diplomatic translation records proposals to restrict arrest, trial and punishment to recognized courts and officers. This is strong evidence that legal reformers regarded older practices as problems. It does not demonstrate immediate universal compliance. Historians should compare such rules to actual prosecutions, detentions and the treatment of political opponents as the reform order changed."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.8:b05",
+      "title": "Finance, recruitment and the place of expertise",
+      "paragraphs": [
+        "A more defined finance ministry aimed to strengthen control over taxation, debt and official spending. Altered recruitment procedures challenged the monopoly of older examination credentials and emphasized different forms of administrative competence. These proposals could open opportunities for some people while favoring groups with access to new schooling or personal connections.",
+        "The administration also needed expertise in diplomacy, military accounting and technical matters that older institutions had supplied unevenly. Reforming official recruitment and education was therefore tied to the broader task of sustaining a government able to regulate revenue and implement law. Whether the new procedures delivered fair selection could not be determined solely from their announced intent."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.3.8:b06",
+      "title": "The limits of a hurried political transformation",
+      "paragraphs": [
+        "Reforms introduced amid military intervention, war and changing cabinet alliances faced a serious problem of legitimacy. Even sensible administrative measures could be perceived as instruments of Japanese power, particularly as soldiers remained influential around the capital. Opponents could reject the coercive setting while supporting some changes in principle.",
+        "The second Gabo phase reveals the difficulty of separating the content of change from the conditions under which it was made. Its institutions were meaningful and its ambitions substantial, yet it lacked a settled political framework to protect the process. The assassination of Queen Min and the subsequent Eulmi reforms transformed those conditions again, making political continuity increasingly fragile."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}
