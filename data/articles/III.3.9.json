@@ -1,0 +1,72 @@
+{
+  "id": "III.3.9",
+  "title": "Queens, Aristocrats, and Crisis in the Seventh Century",
+  "kicker": "SILLA · COMPLETE CHAPTER",
+  "description": "A new chapter-scale original synthesis; selected factual anchors have institutional sources, interpretations and uncertainties remain editorial.",
+  "release": "G",
+  "sourceStatus": "Specific claims are marked with institutional references; the remaining essay is interpretive synthesis, not claim-by-claim peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Queen Seondeok (선덕여왕)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0028652",
+      "role": "Reign, Daeya fortress, Buddhist building patronage and political crisis"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gyeongju Historic Areas",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "role": "Documented archaeological monuments, tomb groups and Hwangnyongsa and Bunhwangsa buildings"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.3.9:b01",
+      "title": "A queen in a contested kingdom",
+      "paragraphs": [
+        "Seondeok ruled from 632 to 647, inheriting a kingdom whose expanding ambitions had not removed its vulnerability. She was no temporary caretaker inserted between more consequential kings. Her reign encompassed warfare, diplomatic pressure, elite rivalry and major religious patronage. Later accounts frequently read her gender as the central fact of the reign, whether to praise extraordinary wisdom or to explain political disorder. Such narratives reveal attitudes of their authors as well as conditions of her own court. The task is to understand a monarch working through institutions and crises, not to turn her into either a symbol without agency or an exception without context.",
+        "Her accession after King Jinpyeong's death belongs to the problem of succession in a status-bound royal family. Members of the ruling elite had to weigh legitimacy against military urgency. Seondeok's authority therefore depended on alliances and public acts of rule, not simply on being named in the royal genealogy. Queenship was possible within Silla's political structure, but possibility did not eliminate resistance. Dynastic categories made her eligible while furnishing rivals with arguments about whether her leadership should continue."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "III.3.9:b02",
+      "title": "Temples, towers and political imagination",
+      "paragraphs": [
+        "During Seondeok's reign major Buddhist projects helped express public kingship. Bunhwangsa was built in 634, and the great nine-storey pagoda at Hwangnyongsa is associated with construction in 645. The remains of these places, described within the UNESCO Gyeongju listing, are concrete historical anchors. The structures also accumulated later meanings and narratives, some of which interpret their height and organization as promises of protection against foreign powers. To read those stories responsibly is to distinguish a surviving material site from the meanings subsequent communities assigned to it.",
+        "Religious patronage could connect the court to monks, craftspeople, donors and audiences far beyond the inner palace. The labour needed for a monumental tower was itself a statement about the scale of royal resources. Yet a sacred building does not cancel the existence of political conflict outside its walls. The same reign saw grave military setbacks, and a temple that symbolized order could rise while commanders worried about threatened frontiers. That simultaneity gives the period its complexity."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.3.9:b03",
+      "title": "The fall of Daeya and the logic of diplomacy",
+      "paragraphs": [
+        "The fall of Daeya fortress to Baekje in 642 was a severe blow to Silla and particularly to Kim Chunchu's family. It changed the practical calculations of those advocating new alliances and intensified the search for outside support. A military loss could reshape the court's diplomatic direction just as much as a conquest could. Missionary or commercial contact is sometimes portrayed as the main reason kingdoms looked outward; in this case the logic of survival and revenge was immediate and political.",
+        "Negotiation with Tang should not be romanticized as the discovery of an obvious partner. The Tang court had interests of its own and could assess Korea's competing rulers as elements in a larger strategic setting. Silla envoys could seek help, but acceptance would come with costs and dependencies. The diplomacy that later made a Tang alliance possible was shaped by these difficult conversations and by the pressure of domestic rivals who wanted different solutions."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Seondeok reigned from 632 to 647 and faced the fall of Daeya fortress in 642.",
+          "sourceIndex": 0,
+          "locator": "Queen Seondeok: events of 642 and reign",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.3.9:b04",
+      "title": "Revolt, death and historical reputation",
+      "paragraphs": [
+        "Seondeok died in 647 as rebellion involving aristocratic leaders, traditionally associated with Bidam and Yeomjong, threatened the court. The conjunction of revolt and royal death invites dramatic storytelling, but the record should not be treated as an exact transcript of court motives. Later descriptions can turn a complex conflict over appointments, succession and strategy into a moral judgment on the sex of the ruler. It is more useful to ask which groups were dissatisfied, what the rebels hoped to change, and how the loyalist coalition was able to continue.",
+        "The succession of another queen, Jindeok, makes it difficult to tell a simple story in which Seondeok's reign proved that women could not rule. The court remained committed to finding authority within a particular royal world while confronting military danger. The crisis is a reminder that queens and kings alike ruled in relationship to aristocratic families, commanders and external powers. Gender mattered; it was not the only force at work."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

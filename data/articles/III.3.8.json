@@ -1,0 +1,72 @@
+{
+  "id": "III.3.8",
+  "title": "Royal Authority, Bone Rank, and the Late Sixth-Century State",
+  "kicker": "SILLA · COMPLETE CHAPTER",
+  "description": "A new chapter-scale original synthesis; selected factual anchors have institutional sources, interpretations and uncertainties remain editorial.",
+  "release": "G",
+  "sourceStatus": "Specific claims are marked with institutional references; the remaining essay is interpretive synthesis, not claim-by-claim peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Bone-Rank System (골품제도)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004196",
+      "role": "Rank and social restrictions, with questions of periodization"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Kim Yushin (김유신)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0010086",
+      "role": "Gaya ancestry, military leadership, alliance with Chunchu"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.3.8:b01",
+      "title": "Rank was built into opportunity",
+      "paragraphs": [
+        "The bone-rank system associated with Silla placed descent at the centre of eligibility for status and office. It was not merely an etiquette book distinguishing polite forms of address. Rank constrained political advancement and, as later sources describe it, affected marriage, the permitted scale of houses, clothing and other public signals of position. A capable individual might serve the state faithfully while encountering a ceiling that talent alone could not cross. Such rules gave aristocratic competition a recognizable structure, but did not end it. Indeed, a political culture that assigned enormous value to inherited position also made marriage and lineage arguments consequential.",
+        "Much of the system is reconstructed from records written after its formative period. Historians therefore differ on the chronology of particular categories and the extent to which later accounts accurately reflect sixth-century everyday practice. The basic role of hereditary rank is not in serious doubt, but certainty about every regulation would be misplaced. A sophisticated discussion asks when a rule became enforceable, where it was recognized, and how people negotiated around it. Normative prescription and lived experience should not automatically be treated as the same thing."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Bone rank imposed hereditary restrictions on office, marriage, housing and public dress.",
+          "sourceIndex": 0,
+          "locator": "Definition and nature of the bone-rank system",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.3.8:b02",
+      "title": "The politics of royal marriage",
+      "paragraphs": [
+        "Within a tightly graded elite, marriage could be a political act as much as a family event. Alliances among aristocratic houses affected succession prospects and the distribution of offices. Since the survival of a line might depend on descendants of a particular marriage, disputes about legitimate kinship could become disputes about the future of the kingdom. Royal daughters, sisters and widows might be central to that calculus even when surviving narratives devote more space to named male commanders. Treating women as merely passive links between families would obscure the political leverage that descent systems could sometimes confer.",
+        "The limits were equally real. High-born women faced expectations imposed by rank and politics; lower-status women and men generally appear less often in the written account. The prominence of particular queens should not be confused with an equal political field for all women. Bone rank was a hierarchy that distributed privilege unequally even as it created distinctive openings within the royal lineage. The system's importance lies partly in these contradictions."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.3.8:b03",
+      "title": "Courtiers and the problem of consensus",
+      "paragraphs": [
+        "Royal power in Silla was exercised amid assemblies and aristocratic interests. Later narratives refer to elite consultation and to offices that could anchor opposition as well as support. A king who made appointments still had to live with the political weight of families whose resources and military influence mattered. When the court expanded territory, success enlarged the spoils available for distribution and the number of rivals entitled to demand a share. At the same time, officers operating outside the capital acquired local knowledge and networks of their own.",
+        "A modern reader should resist importing the image of a parliament into these meetings. Elite deliberation did not express universal representation; it was a mechanism among powerful participants. Yet it could constrain the monarch meaningfully. The tension between ancestral rank and changing needs of warfare provides a thread through late-sixth-century affairs and the leadership struggles that preceded Silla's seventh-century transformation."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "III.3.8:b04",
+      "title": "A hierarchy that could not stop change",
+      "paragraphs": [
+        "Hereditary status offered continuity. It told people where they belonged and made certain expectations predictable, at least for those who occupied privileged positions. But kingdoms at war needed commanders, administrators, interpreters and negotiators with abilities that did not always fit smoothly into older social arrangements. Successful expansion might elevate a family from a newly incorporated region, while old aristocrats guarded their precedence. Even an established hierarchy had to adjust to changing circumstances.",
+        "The later prominence of Kim Yushin, whose family background linked him to Gaya's royal traditions, illustrates the interaction between inherited identity and political opportunity. His career should not be reduced to a simple tale of a talented outsider overturning the order, since his family was already integrated into the aristocratic world. Rather, it shows how kinship, military service and strategic partnership could work within and across formal lines. The bone-rank system was resilient, but it never made politics motionless."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}
