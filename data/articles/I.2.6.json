@@ -1,0 +1,74 @@
+{
+  "id": "I.2.6",
+  "title": "Hunting, Gathering, Fishing, and Paleolithic Subsistence",
+  "kicker": "PALEOLITHIC KOREA",
+  "description": "Original archaeological and social history of hunting, gathering, fishing, and paleolithic subsistence, with explicit evidence limits.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; selected institutional and archaeological sources, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "A Handaxe that Changed the Understanding of Paleolithic Culture",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do",
+      "role": "Museum object interpretation, especially Jeongok-ri handaxe; museum narrative is a synthesis rather than excavation stratigraphy"
+    },
+    {
+      "institution": "Korea Citation Index",
+      "title": "단양 수양개 유적에서 좀돌날문화의 출현",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002662842",
+      "role": "Published archaeology abstract on Upper Paleolithic Suyanggae stratigraphy and microblade technologies"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.2.6:b01",
+      "title": "Food histories without menus",
+      "paragraphs": [
+        "Prehistoric subsistence must be reconstructed from uneven traces: animal bones, charred plants, tool edges, microscopic residues, and the places where people carried out work. Each kind of evidence samples only part of past eating. Bone is more likely to survive under some soil conditions than delicate leaves or tubers; fish remains can vanish in deposits where larger mammal bones endure. A report listing identifiable species is therefore not the same as a complete diet.",
+        "The seasonal abundance of food also matters. A river valley might provide fish at particular times, edible plants at others, and routes followed by animals during migration. Archaeologists can model such opportunities using paleoenvironmental data, but actual exploitation requires archaeological support. It is methodologically unsound to borrow a detailed diet from a distant site and install it unchanged in the Korean peninsula simply because the periods appear similar."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 1
+    },
+    {
+      "id": "I.2.6:b02",
+      "title": "Hunting as a chain of labor",
+      "paragraphs": [
+        "A successful hunt would have involved much more than the moment a weapon struck its target. Locating animals, assessing terrain, moving safely, cutting carcasses, extracting usable material, and distributing food all required decisions. Stone flakes can help identify cutting or scraping tasks when wear, associated fauna, and context support that inference. But a sharp point cannot always tell us whether it served as a projectile, a knife, or something else. Reconstructing hunting technology must connect artifact form to evidence of use rather than assume a modern familiar function.",
+        "Large-animal hunting has often dominated visual representations of the Paleolithic, partly because large bones make impressive museum objects. That emphasis can distort the economics of daily survival. Small prey, fish, shellfish in suitable settings, gathered plants, and opportunistic resources may all have mattered. The proportions cannot be supplied as universal percentages. A careful chapter should consider the diverse possible strategies while distinguishing documented exploitation from reasonable ecological expectations."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 2
+    },
+    {
+      "id": "I.2.6:b03",
+      "title": "Gathering and the disappearing organic toolkit",
+      "paragraphs": [
+        "Plant foods and raw materials are especially difficult to recover. Roots, nuts, greens, berries, bark, and fibers may leave few visible traces when preservation is poor. Grinding stones, residues, or distinctive wear sometimes help reconstruct plant processing, but they do not automatically specify the species or recipe involved. Gathering can be a demanding form of expertise: knowing when foods ripen, how they can be prepared, where water remains available, and which materials are useful for containers or bindings.",
+        "The relative invisibility of plants in excavated deposits should not be converted into a story of their insignificance. It is a sampling problem. A stone tool may remain for tens of thousands of years while a carrying basket disappears entirely. Conversely, one preserved seed does not demonstrate that a whole community depended mainly on that plant. Archaeology must work between these errors by integrating preservation studies, residue analysis, habitat reconstruction, and comparisons with appropriate limits."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 3
+    },
+    {
+      "id": "I.2.6:b04",
+      "title": "Water as a resource and a route",
+      "paragraphs": [
+        "Rivers, streams, wetlands, and coastlines offered water, plant habitats, animals, and corridors for movement. Their importance changed as coastlines shifted and climates altered the flow of rivers. An inland Paleolithic site found today far from the sea may have occupied a quite different landscape during a low sea-level interval. Fishing and shoreline resource use should therefore be considered within the geography of each period, not modern political maps.",
+        "A claim about Paleolithic fishing needs evidence proportionate to its precision. Fish bone identification, equipment remains, stable-isotope analysis under appropriate conditions, or associated features could strengthen an argument. A site's proximity to a river is not enough to demonstrate a particular catch. The same caution applies to shellfish collecting and watercraft. Later maritime traditions belong to different historical contexts and cannot be projected backward to fill a thin Paleolithic record."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 4
+    },
+    {
+      "id": "I.2.6:b05",
+      "title": "Risk, sharing, and the limits of analogy",
+      "paragraphs": [
+        "Subsistence strategies were shaped by the danger of failure. Food could be abundant one season and scarce the next; cold, injury, and sudden landscape change could alter plans. Transporting tools, storing usable material where possible, sharing knowledge of reliable places, and cooperating in difficult work could reduce risk. These are broad social possibilities, not accounts of particular named communities. To claim definite rules of sharing or kinship from a stone scatter would exceed the evidence.",
+        "A richer historical account includes people who did not hunt: children learning practical tasks, older members with remembered knowledge, injured companions, and everyone involved in processing materials or maintaining shelter. Archaeology seldom makes these individuals visible as named persons. Still, asking what kinds of work sustained human survival prevents a narrow narrative in which technology and hunting prowess stand in for society as a whole. The goal is not an invented Paleolithic household, but a more complete account of what the evidence can and cannot reveal about daily life."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 5
+    }
+  ]
+}

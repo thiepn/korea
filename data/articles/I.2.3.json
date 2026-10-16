@@ -1,0 +1,74 @@
+{
+  "id": "I.2.3",
+  "title": "Early Paleolithic Sites and Stone Industries",
+  "kicker": "PALEOLITHIC KOREA",
+  "description": "Original archaeological and social history of early paleolithic sites and stone industries, with explicit evidence limits.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; selected institutional and archaeological sources, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "A Handaxe that Changed the Understanding of Paleolithic Culture",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do",
+      "role": "Museum object interpretation, especially Jeongok-ri handaxe; museum narrative is a synthesis rather than excavation stratigraphy"
+    },
+    {
+      "institution": "Korea Citation Index",
+      "title": "단양 수양개 유적에서 좀돌날문화의 출현",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002662842",
+      "role": "Published archaeology abstract on Upper Paleolithic Suyanggae stratigraphy and microblade technologies"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.2.3:b01",
+      "title": "The earliest surfaces are not a single starting line",
+      "paragraphs": [
+        "To follow early Paleolithic archaeology across the Korean peninsula is to move between landscapes with different conditions of survival. Old river terraces, loess-like deposits, slopes, and cutbanks do not preserve a continuous history of occupation. A terrace may retain a scatter of worked stone only because sediment quickly buried it. Another place may have been occupied repeatedly but later eroded down to bedrock. When investigators speak of an early site, therefore, they are describing both human activity and the geological accident that allowed part of it to survive. The absence of discoveries in a district cannot be turned into evidence that nobody crossed it.",
+        "Excavators must establish whether a stone lies where people left it or where later water carried it. Sorting of pebbles, abrasion on edges, orientation of flakes, and the distribution of artifacts through a deposit can help distinguish purposeful working from geological movement. A date for a sediment layer is not always a date for the manufacture of an individual object. Interpretations improve when several dating methods, sediments, and technical observations converge. Public maps that use one dot to mark a discovery conceal those necessary qualifications. The historian should treat each dot as a claim with a particular strength rather than as a secure milestone in an uninterrupted national chronology."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 1
+    },
+    {
+      "id": "I.2.3:b02",
+      "title": "Jeongok-ri and a change in archaeological expectations",
+      "paragraphs": [
+        "The Jeongok-ri finds in the Hantan River region made one of the most visible interventions in the study of East Asian Paleolithic technology. Handaxes recovered there challenged a former geographical distinction that had treated bifacial handaxe technologies as characteristic of western Eurasia and Africa while assigning much of East Asia to a separate, supposedly simpler tradition. The discovery did not prove that all regional technologies were identical; rather, it showed that a tidy boundary could not survive contact with the archaeological material. Museum displays rightly emphasize its importance, but a more careful account also asks which artifact types were present together, how terraces formed, and whether distributions represent one activity or several occupations separated by long spans.",
+        "Jeongok-ri is significant not because it offers a national inventor of the handaxe, but because it demonstrates how a new set of finds can overturn an old model. The so-called Movius Line belonged to a history of scholarly classification. Its revision belongs to a history of methods, fieldwork, and comparison. A visitor can appreciate the striking symmetry of a handaxe while remembering that symmetry alone does not identify its maker, function, or precise age. Excavation reports and sediment analysis matter more than the drama of an isolated object."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 2
+    },
+    {
+      "id": "I.2.3:b03",
+      "title": "Cores, flakes, and the organization of work",
+      "paragraphs": [
+        "Stone industries are better understood as sequences of action than as collections of memorable shapes. A toolmaker first encountered raw material with a particular fracture structure, size, and texture. The choice to detach a sharp flake from a cobble, maintain a usable core, or thin both faces of a large blank had consequences for time, transport, and the kinds of edges available. The discarded core can therefore be as informative as the finished tool. Refitting pieces may reveal the order of removals, and study of flakes can distinguish stages of reduction even when the intended implement was carried away.",
+        "Different tasks generate different archaeological signatures. Short visits to gather stone may leave testing debris and rejected pieces. Processing animal tissue or plants may involve expedient flakes that were never formally retouched. Residential activity could leave a broader range of implements and waste, but stone-only survival often hides the organic tools that made the work possible. A typological list of choppers, chopping tools, handaxes, and flakes can orient newcomers, yet it becomes misleading if each named type is assigned an unchanging function or a single evolutionary stage."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 3
+    },
+    {
+      "id": "I.2.3:b04",
+      "title": "Regional materials and alternative pathways",
+      "paragraphs": [
+        "The geography of raw material helps explain why technological variation cannot be read as a ladder from primitive to advanced. Volcanic stone, quartz, quartzite, and other workable rocks break differently. The shape of river cobbles varies; the energy required to carry a heavy blank varies as well. Toolmakers adapting to a location could choose robust edges that look different from artifacts made elsewhere, even if their practical knowledge was comparable. Technical comparison needs to control for geology before assigning every difference to culture.",
+        "Northern and southern districts also had different river systems, caves, and routes across uplands. An assemblage from a river basin may record raw material collected at gravel bars, whereas a site near rocky outcrops may register local extraction and repeated processing. These patterns can be studied without projecting modern regional or ethnic identities into remote prehistory. A material connection between places requires more than visual similarity; sourcing studies, manufacturing traces, and contextual chronology are needed to argue that knowledge, objects, or people moved between them."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 4
+    },
+    {
+      "id": "I.2.3:b05",
+      "title": "Interpretive limits and the public image of early humans",
+      "paragraphs": [
+        "Ancient stone objects cannot by themselves disclose the language, ethnicity, kinship terminology, or beliefs of their makers. Nor does a site inventory count everyone who lived nearby. Children, older people, caregivers, and people whose work relied heavily on wood or fiber may be scarcely visible in the record. To write social history from chipped stone requires restraint: the evidence establishes activity and technical competence, while demographic and social interpretation depends on broader archaeological patterns and carefully labeled comparisons.",
+        "There is an enduring temptation to organize the earliest inhabitants into a procession of increasingly sophisticated 'cultures' ending in the present. That storyline makes attractive museum graphics but falsely suggests that later Korean identities were waiting inside the first handaxe. The actual achievement is more interesting. Across changing landscapes, people used local knowledge and learned skills to solve immediate material problems. Archaeology records fragments of those solutions, not an inevitable march toward any later kingdom or nation."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 5
+    }
+  ]
+}

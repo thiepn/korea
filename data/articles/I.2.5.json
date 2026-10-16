@@ -1,0 +1,74 @@
+{
+  "id": "I.2.5",
+  "title": "Upper Paleolithic Transformation",
+  "kicker": "PALEOLITHIC KOREA",
+  "description": "Original archaeological and social history of upper paleolithic transformation, with explicit evidence limits.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; selected institutional and archaeological sources, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "A Handaxe that Changed the Understanding of Paleolithic Culture",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do",
+      "role": "Museum object interpretation, especially Jeongok-ri handaxe; museum narrative is a synthesis rather than excavation stratigraphy"
+    },
+    {
+      "institution": "Korea Citation Index",
+      "title": "단양 수양개 유적에서 좀돌날문화의 출현",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002662842",
+      "role": "Published archaeology abstract on Upper Paleolithic Suyanggae stratigraphy and microblade technologies"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.2.5:b01",
+      "title": "A transformation with regional chronologies",
+      "paragraphs": [
+        "Upper Paleolithic change involved new patterns of working stone, changing distributions of tools, and adaptations to cold and variable environments. It was not one event that reached every part of Northeast Asia on the same date. Blades and microblades are often central to identifying phases of this history, yet their appearance and relative importance vary among sites. To describe a transformation responsibly, archaeologists must first establish the stratigraphic sequence that links older and newer assemblages rather than arranging objects by apparent sophistication.",
+        "Evidence from Suyanggae near Danyang has been especially useful because excavations have identified multiple occupation layers with distinct technologies. Research on the site discusses blade-based horizons and the development of microblade production across the later Upper Paleolithic. The sequence allows technological questions to be attached to particular deposits instead of being answered by one isolated artifact. Even there, the site tells us most directly about practices preserved in the excavated locality, not every human group across the peninsula."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 1
+    },
+    {
+      "id": "I.2.5:b02",
+      "title": "Long blades and prepared cores",
+      "paragraphs": [
+        "A blade is not simply a small sharp stone. Archaeological blade technologies involve controlling removals so that elongated flakes with relatively regular shapes can be produced from a core. Preparing striking platforms and core surfaces can require sustained attention to how a sequence of removals will affect later ones. A skilled knapper can adapt such techniques to the shape and quality of available rock, but the amount of waste and the range of outcomes depend on both experience and material constraints.",
+        "Blades could be used directly, modified into tools, or incorporated into equipment made largely of perishable substances. Their presence does not automatically establish a single hunting method. A blade fragment in a deposit is one component of a larger technical system that may have included handles, bindings, plant fibers, wood, leather, and adhesive. Many of those elements are unlikely to survive. The archaeologist therefore reconstructs a chain of operations while acknowledging that the most visible material was not necessarily the most socially important."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 2
+    },
+    {
+      "id": "I.2.5:b03",
+      "title": "Microblades as parts of composite technologies",
+      "paragraphs": [
+        "Microblades offer a particularly revealing case because they are often understood as replaceable cutting inserts. Instead of crafting every implement as one large object, people could produce standardized small blanks and mount them within a haft or composite edge. This general interpretation depends on technological and use-wear evidence, however; a specific Korean microblade should not automatically be assigned to a documented arrow or spear unless its archaeological context supports the identification.",
+        "The potential advantages of composite equipment were logistical. Small inserts could reduce the need to carry heavy reserves of stone and could be replaced when damaged. But producing them might require suitable cores, preparation, and learned skill. Such techniques thus reveal a balance among transport, risk, anticipated activities, and available resources. They should not be treated as an uncomplicated measure of superior intelligence; different assemblages may reflect different tasks rather than an evolutionary contest among populations."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 3
+    },
+    {
+      "id": "I.2.5:b04",
+      "title": "Knowledge moves through hands and landscapes",
+      "paragraphs": [
+        "Technical sequences have a social history because complex knapping methods are learned. A novice can imitate a finished outline more easily than the hidden sequence that produces it. Repeated patterns in cores and flakes may indicate customary teaching or shared technical practices, though they cannot disclose the language spoken during instruction. Movement between camps, encounters with other groups, and observation of skilled makers could all spread knowledge, but direct evidence for a particular route remains difficult to establish.",
+        "Regional comparisons across the Amur basin, northeast China, and the peninsula help frame these possibilities. Similarities may suggest connections, but dating precision and local variation matter. A later technology appearing in two places does not by itself tell us whether people migrated, objects circulated, or a useful solution developed more than once. The historical task is to assemble a sequence of material connections rather than narrate a modern nation’s prehistoric cultural inheritance."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 4
+    },
+    {
+      "id": "I.2.5:b05",
+      "title": "The broadening human record",
+      "paragraphs": [
+        "Stone is the most persistent evidence of the Upper Paleolithic, not a complete inventory of life. Evidence for ornamentation, marking, pigment, or symbolic practices must be assessed site by site, with close attention to context and alternative explanations. A scratched stone is not automatically writing, a calendar, or religious art. It can nevertheless invite careful investigation of repeated marks and the actions required to make them. Such questions bring the study of technique into contact with the history of communication without demanding certainties the finds cannot support.",
+        "The Upper Paleolithic thus marks a family of changing solutions to problems of movement, subsistence, and material production. It is not a neat bridge to later pottery-making settlements or the state. Some practices endured while others were abandoned, reworked, or reinvented. The archaeological record is richest when analyzed as a set of regional trajectories interacting with cold-stage environments, not as a single procession in which every group advances together."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 5
+    }
+  ]
+}
