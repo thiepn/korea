@@ -1,0 +1,118 @@
+{
+  "id": "IV.5.4",
+  "title": "King Mu, Territorial Expansion, and Conflict with Tang",
+  "kicker": "BALHAE · POLITICAL HISTORY",
+  "description": "A source-conscious account of king mu, territorial expansion, and conflict with tang, with explicit limits on dynastic sources and archaeological inference.",
+  "release": "R",
+  "sourceStatus": "Original editorial synthesis; selective Korean institutional scholarship and primary-source criticism",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Foundation (698)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i100800",
+      "role": "Founding chronology from Yingzhou movements through Dongmo mountain; secondary institutional synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae (발해), Encyclopedia of Korean Culture",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Political institutions, rulers, geography and evidentiary debates"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Balhae Kingdom permanent gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201031000.do?showHallId=760&showroomCode=DM0010",
+      "role": "Material culture and museum historical interpretation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Capital Relocations",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i101000",
+      "role": "Capital movements and chronology"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Fall of Balhae (926)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i100900",
+      "role": "Late rulers and the Khitan conquest; disputed causes noted"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.5.4:b01",
+      "title": "The kingdom at war on the frontier",
+      "paragraphs": [
+        "Under King Mu, Balhae confronted an especially intricate configuration of Tang frontier power, Khitan and Xi groups, and northern Mohe communities. The security of routes and the allegiance of neighboring leaders were inseparable from the wider contest between the empire and northern states. Military action was not simply the expression of a restless monarch. It could be an attempt to prevent strategic encirclement and sustain access to communities whose allegiance mattered to the kingdom.",
+        "The Heishui Mohe relationship illustrates this tension. Tang contacts with Heishui groups created concerns at the Balhae court over another channel of imperial influence north of its own territory. Sources describe an attempted intervention and a dispute involving Dae Munye, a royal relative who resisted the policy. Their testimony survives through political narratives with particular motives, so the sequence and diplomatic rhetoric must be distinguished from verified battlefield movements."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History dates Balhae's foundation to the late seventh-century Yingzhou disruptions and 698.",
+          "sourceIndex": 0,
+          "locator": "한국사 연대기, 발해 건국 (698)",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.4:b02",
+      "title": "Dae Munye and the limits of royal agreement",
+      "paragraphs": [
+        "Dae Munye's disagreement with King Mu demonstrates that the ruling household was not a single strategic mind. Opposition to a proposed northern campaign could arise from calculations of military risk, existing personal networks or different assessments of Tang reaction. A member of the dynasty might find refuge beyond Balhae's control and thereby become a diplomatic problem, not merely a family matter.",
+        "Later sources reconstruct the conflict in a way that stresses obedience, punishment and the right to choose a foreign patron. Historians can use the account to understand the possibilities of frontier politics while avoiding claims about private motives that the texts do not secure. The event makes Balhae's court visible as an arena of argument and coercion, challenging images of a perfectly unified government responding mechanically to external threats."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies discusses varying models of Balhae political institutions and frontier governance.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 발해, 정치와 행정",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.4:b03",
+      "title": "The 732 attack on the Tang coast",
+      "paragraphs": [
+        "In 732 a Balhae force attacked the Tang coastal region around Dengzhou in Shandong under the command traditionally attributed to Jang Munhyu. The expedition was exceptional because it projected violence across the sea rather than simply contesting a mountain pass. Tang accounts and later reconstructions identify this as a serious confrontation, though tactical details and exact totals should not be asserted without clear sourcing.",
+        "Such an operation presupposed maritime organization, information about a distant target, and the ability to mobilize personnel and provisions. It should not be extrapolated into an unsupported claim that Balhae maintained a permanent oceanic empire or dominated all Northeast Asian shipping. The political consequence was the announcement that Balhae could pressure the empire through more than one frontier, complicating Tang's response to an already crowded strategic environment."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.4:b04",
+      "title": "Tang countermoves and Silla",
+      "paragraphs": [
+        "Tang attempted to use neighboring powers in responding to Balhae. Accounts of a campaign involving a Tang-aligned Silla thrust northward in the 730s need to be read in relation to weather, terrain, distance and the political calculations of Silla's court. The existence of an alliance or request for assistance does not make Silla merely a passive instrument of Chinese policy.",
+        "The region's strategic geography hindered easy victory. Long supply routes could reduce the effectiveness of large forces, while a planned campaign could fail to reach its objectives for several reasons. Retrospective national narratives sometimes portray the war as a simple duel of Korean and Chinese forces. In practice it involved multiple courts and locally situated populations whose participation and incentives were not identical. The military history is best reconstructed through dated campaigns and their immediate outcomes."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.4:b05",
+      "title": "Diplomacy after armed confrontation",
+      "paragraphs": [
+        "War did not eliminate the utility of formal diplomacy. The Tang and Balhae courts continued to operate within a world of embassies, recognition, contested titles and trade. The significance of a military clash cannot be judged solely from whether an enemy capital was occupied. A campaign may alter bargaining power or demonstrate resolve while leaving borders and internal government largely intact.",
+        "Balhae's rulers had reasons to maintain channels with Tang even when relations were hostile: knowledge, commerce and the prestige of international recognition retained value. Relations with Japan provided another avenue, but not one that automatically substituted for Tang ties. Interdependence and conflict were features of the same political field. This helps explain why the diplomatic record contains changes of tone and purpose across relatively short intervals."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.5.4:b06",
+      "title": "Expansion is not a single coloured map",
+      "paragraphs": [
+        "Maps showing Balhae at its greatest extent often combine evidence from different reigns and source traditions. A claim of control over a corridor may derive from a court's geographic description rather than from excavated administrative offices across every settlement. Frontier influence could fluctuate, with negotiated relations in one district and closer royal presence in another.",
+        "King Mu's military record should therefore not be translated into a permanent territorial line that stayed unchanged until 926. Conquest, tribute, political alliance and settlement administration are different mechanisms. The following chapters examine how later governments converted some advantages into more durable provincial structures. In this reign, the central story is how the state confronted an empire and neighboring groups while seeking to secure a foothold within an unstable northern political order."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    }
+  ]
+}
