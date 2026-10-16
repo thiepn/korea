@@ -49,6 +49,56 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 5
+    },
+    {
+      "id": "I.3.4:b06",
+      "title": "The chronological trap of the village plan",
+      "paragraphs": [
+        "An excavated settlement plan may show the outlines of dozens of pit dwellings, but those outlines were not necessarily occupied simultaneously. Houses can overlap, be rebuilt after abandonment or become visible only because floor depressions preserved better than other features. If structures were erected over a long interval, the plan may combine generations of activity into a picture that looks like one enormous village.",
+        "Researchers therefore ask for secure dates from individual dwellings, stratigraphic sequences, and relationships among rebuilding episodes. Work on Chulmun social aggregation debates whether some large sites represent stable co-residential groups or repeated congregations of smaller communities. The distinction is consequential: it affects estimates of population, the organization of food provisioning and the scale of social interaction. Counting features alone cannot settle it."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.4:b07",
+      "title": "Pit-house construction as collective labor",
+      "paragraphs": [
+        "Excavation can reveal floor plans, hearths and architectural cuts, but the above-ground materials of roofs and walls often disappear. Reconstructions of houses require hypotheses about timber, thatch or other organic materials, and the archaeological evidence may support several designs. Building even a modest shelter required procuring material, preparing the ground and coordinating tasks; periodic repair could be as significant as initial construction.",
+        "These practical demands invite questions about cooperation, but they do not establish a specific kinship or political system. A household could have built its own shelter, neighbors could have helped, or a broader group might have organized work. No excavated hearth identifies who directed construction. Careful interpretation separates what the physical features prove from the social possibilities they suggest. This restraint permits a more credible account than assigning every Neolithic settlement a chief or standardized family structure."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.4:b08",
+      "title": "Storage and the scheduling of return",
+      "paragraphs": [
+        "Storage pits may indicate efforts to preserve resources or organize repeated access to a location, yet not every pit held food and not every stored food was cultivated. Contents, residues and the relation of a feature to domestic floors are important. A pit could have served different purposes at successive times or been filled with refuse after its original use ended.",
+        "When demonstrable, storage changes the economics of movement. People may have reason to return to a site where useful supplies remain and may invest more in maintaining the surrounding settlement. At the same time, storage creates risks of spoilage, theft and loss from flooding. Such trade-offs matter for mobile as well as relatively sedentary communities. The growth of durable housing and storage can support increasing attachment to place without requiring that a fully agricultural economy was already established."
+      ],
+      "sequence": 8,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.4:b09",
+      "title": "Outside the doorway: activity spaces",
+      "paragraphs": [
+        "Dwelling interiors represent only part of social life. Food preparation, waste disposal, toolmaking, drying, gatherings and children's activities could occur outdoors. Archaeologists use spatial distributions of flakes, pottery, hearths and pits to investigate these areas. But repeated use and natural movement of objects can blur boundaries. A cluster of artifacts does not necessarily identify one person's permanent workspace.",
+        "The spatial relationship between houses and activity areas is historically meaningful when contemporaneity can be established. It may reveal coordination, separation of fire-related work from sleeping places, or recurrent choices about where to store material. Such patterns are stronger evidence for organization than unsupported claims about the emotions or exact hierarchy of inhabitants. They show how people arranged a practical world and negotiated the shared use of space."
+      ],
+      "sequence": 9,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.4:b10",
+      "title": "Village life within a mobile region",
+      "paragraphs": [
+        "Permanent and temporary residence form a spectrum. Some households might return to a familiar location in particular seasons, while others remained for longer periods or shifted between connected sites. A large village may have depended on coastal or inland resources obtained elsewhere. Tool raw materials and subsistence evidence can illuminate these connections without documenting every journey.",
+        "The history of Chulmun settlements becomes more convincing when read as an interacting landscape of places, not isolated ovals on excavation maps. River changes, erosion and coastal submergence affect which locations survive. A seemingly empty corridor may reflect the destruction of earlier deposits rather than lack of movement. The importance of villages therefore lies not only in houses but in the networks of resources, practical knowledge and recurring relationships that made residence possible."
+      ],
+      "sequence": 10,
+      "label": "Batch Q · original append-only historical analysis"
     }
   ]
 }

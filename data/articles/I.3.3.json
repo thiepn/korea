@@ -30,6 +30,56 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "I.3.3:b04",
+      "title": "What a pottery fragment preserves",
+      "paragraphs": [
+        "A single potsherd may retain information about its maker's technical choices even when its original vessel cannot be reconstructed. Clay composition, inclusions, wall thickness, surface treatment and firing conditions can illuminate the stages of manufacture. The presence of a comb-like mark is only one property among many. Specialists study whether an implement was dragged, impressed or rocked across the surface, and whether decoration followed a regular manufacturing sequence. A decorative motif cannot simply be read as a pictorial message from an otherwise undocumented religious world.",
+        "Some early vessel forms had pointed or rounded bases, but their use depended on context and support. The National Museum of Korea's well-known Amsa-dong example helps viewers see how incised lines and dots could cover a substantial portion of a vessel. It does not prove that all people in the peninsula used identical shapes or assigned a fixed meaning to each motif. Wear, carbonized residues and deposits associated with a pot can offer more practical information about use than an ungrounded symbolic interpretation."
+      ],
+      "sequence": 4,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.3:b05",
+      "title": "Cooking, heat and the versatility of vessels",
+      "paragraphs": [
+        "Pottery makes possible forms of cooking and processing that depend on a container able to withstand heat and retain liquid. In Neolithic contexts this could include preparation of plant foods, fish or other resources, but assigning a specific recipe requires residues or other evidence. A soot-darkened vessel demonstrates exposure to burning in some circumstances, not necessarily the same contents or cooking method at every site.",
+        "The investment in preparing clay, shaping walls, drying vessels and firing them also has an economic dimension. Pottery can be heavy and fragile compared with some organic containers. Its advantages depend partly on how long a group expects to use a place and how easily broken containers can be replaced. Increased pottery frequency can thus relate to recurrent settlement use without proving that every settlement was permanent. A historian should examine the whole household material repertoire rather than elevate ceramics into a unique marker of civilized life."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.3:b06",
+      "title": "Decoration as practice, not automatic identity",
+      "paragraphs": [
+        "An archaeologist can compare how makers shaped clay and applied designs to detect traditions of learning. Similarity might result from people copying a neighbor's technique, meeting skilled potters during seasonal gatherings, or carrying finished vessels across a region. A decorated pot need not mark a rigid ethnic boundary, and a plain pot at the same site does not necessarily belong to a different population.",
+        "The distribution of Chulmun pottery illustrates the danger of using a visual type as a complete cultural package. Contemporary pottery traditions can differ regionally and through time while sharing selected traits. Formal classification is useful for constructing chronologies when combined with stratigraphy, but styles may persist or recur in different settings. The history of pottery should therefore distinguish a tool for archaeologists from a self-identified community that the evidence cannot recover."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.3:b07",
+      "title": "Broken vessels and repairing a material world",
+      "paragraphs": [
+        "The fragments left in pits or middens are residues of use and discard. A pot may have been broken during cooking, stepped on, repaired and eventually abandoned, or redeposited when a dwelling was rebuilt. The condition of edges and the relationship among fragments can help reconstruct this history. An intact pot from an unusual context may not represent the ordinary lifespan of vessels used every day.",
+        "Repair and replacement are significant because they reveal how resources and skills were valued. Creating a new vessel requires access to clay, fuel, space and knowledgeable labor. A pot that remains useful despite a crack may deserve time spent mending it. This economic reasoning remains hypothetical unless specific repair traces survive, but it provides concrete questions for material analysis. A museum collection that favors complete decorated examples can unintentionally hide the ordinary maintenance work central to ceramic life."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.3:b08",
+      "title": "Comparing ceramic economies across landscapes",
+      "paragraphs": [
+        "Pottery found in coastal middens is associated with different food and mobility questions from pottery in inland household deposits. The same vessel form may serve several functions, and a location with abundant sherds may simply have accumulated refuse over a long period. Sampling practices also affect interpretations: early excavation campaigns sometimes collected visually distinctive decorated pieces preferentially.",
+        "Recent archaeobotanical work demonstrates why ceramic and subsistence histories need to be studied together. Grain impressions, plant residues and associated macrofossils can challenge assumptions that all Chulmun potters relied predominantly on marine food or lacked cultivation. Such evidence should be evaluated critically, with attention to dating and identification. The vessels are part of a changing set of techniques, not proof of a single immutable Neolithic lifestyle."
+      ],
+      "sequence": 8,
+      "label": "Batch Q · original append-only historical analysis"
     }
   ],
   "release": "C"
