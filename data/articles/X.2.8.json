@@ -54,7 +54,15 @@
         "The OECD's 2024 and 2026 economic assessments discuss financial-stability concerns associated with household debt and property markets. Such reports are dated assessments, not timeless descriptions of one fixed risk level. Regulators face competing goals: restraining excessive leverage, protecting financial institutions, supporting creditworthy borrowers, and avoiding a disorderly adjustment. Tight restrictions may protect the system while making access harder for applicants without existing wealth. Relaxation may temporarily expand borrowing while increasing vulnerability if income growth does not keep pace."
       ],
       "label": "Original economic history · dated source context",
-      "sequence": 3
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "OECD economic surveys identify housing finance and household debt as structural macrofinancial concerns.",
+          "sourceIndex": 1,
+          "locator": "OECD Economic Surveys Korea 2024, housing and household debt analysis",
+          "type": "context"
+        }
+      ]
     },
     {
       "id": "X.2.8:b04",

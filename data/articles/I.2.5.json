@@ -28,7 +28,15 @@
         "Evidence from Suyanggae near Danyang has been especially useful because excavations have identified multiple occupation layers with distinct technologies. Research on the site discusses blade-based horizons and the development of microblade production across the later Upper Paleolithic. The sequence allows technological questions to be attached to particular deposits instead of being answered by one isolated artifact. Even there, the site tells us most directly about practices preserved in the excavated locality, not every human group across the peninsula."
       ],
       "label": "Editorial synthesis · evidence-sensitive",
-      "sequence": 1
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Published excavation research describes distinct Suyanggae microblade-bearing horizons and chronological change.",
+          "sourceIndex": 1,
+          "locator": "KCI research 2020, Suyanggae localities 3 and 6, cultural layers 2–4",
+          "type": "direct"
+        }
+      ]
     },
     {
       "id": "I.2.5:b02",

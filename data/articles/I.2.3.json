@@ -38,7 +38,15 @@
         "Jeongok-ri is significant not because it offers a national inventor of the handaxe, but because it demonstrates how a new set of finds can overturn an old model. The so-called Movius Line belonged to a history of scholarly classification. Its revision belongs to a history of methods, fieldwork, and comparison. A visitor can appreciate the striking symmetry of a handaxe while remembering that symmetry alone does not identify its maker, function, or precise age. Excavation reports and sediment analysis matter more than the drama of an isolated object."
       ],
       "label": "Editorial synthesis · evidence-sensitive",
-      "sequence": 2
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "National Museum of Korea documents the Jeongok-ri handaxe and the reconsideration of the old Movius boundary.",
+          "sourceIndex": 0,
+          "locator": "NMK visitor trail, Jeongok-ri handaxe: 1978 excavation and Movius interpretation",
+          "type": "direct"
+        }
+      ]
     },
     {
       "id": "I.2.3:b03",

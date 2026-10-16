@@ -50,7 +50,15 @@
         "Not every semiconductor is the same product. Memory, logic fabrication, equipment, materials, design services, and advanced packaging are distinct activities with their own entry barriers and strategic vulnerabilities. The 2020s expansion of artificial intelligence infrastructure increased attention to advanced memory, but it did not eliminate dependencies on foreign machinery, intellectual property, or final demand. The 2026 OECD survey explicitly treats strong semiconductor exports as both a growth engine and a source of concentration risk. Any particular forecast must be dated rather than made part of a permanent encyclopedia conclusion."
       ],
       "label": "Original economic history · contextual sources",
-      "sequence": 2
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "The OECD identifies strong semiconductor exports and associated cyclical concentration risk in July 2026.",
+          "sourceIndex": 0,
+          "locator": "OECD Economic Surveys Korea 2026, abstract and Executive summary",
+          "type": "direct"
+        }
+      ]
     },
     {
       "id": "X.2.7:b03",

@@ -54,7 +54,15 @@
         "The OECD's July 2026 assessment identifies ageing and the fiscal demands associated with it as central structural challenges. It also discusses barriers faced by women combining paid employment and motherhood, labor-market dualism, and productivity gaps between large and smaller firms. These problems interact. A society cannot reliably address fertility by treating births as an isolated target while ignoring housing costs, job insecurity, unequal caregiving, and the prospects of young adults. Nor can immigration be discussed purely as a numerical fix without institutions for integration, rights, and social participation."
       ],
       "label": "Original economic history · dated source context",
-      "sequence": 3
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The OECD's July 2026 survey identifies rapid ageing and fiscal and productivity reforms as structural pressures.",
+          "sourceIndex": 0,
+          "locator": "OECD Economic Surveys Korea 2026, Key messages and Executive summary",
+          "type": "direct"
+        }
+      ]
     },
     {
       "id": "X.2.10:b04",

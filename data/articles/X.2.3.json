@@ -40,7 +40,15 @@
         "Emergency stabilization and long-term restructuring followed different clocks. Foreign exchange pressures might ease after policy action and creditor negotiations, while reorganization of corporate ownership, bank balance sheets, and labor relations could take years. Reports that classify an economy as recovered may refer to aggregate production or reserves, not to households and workers who have regained their previous security. Separating these measures prevents a misleading narrative of instantaneous restoration."
       ],
       "label": "Original economic history · contextual sources",
-      "sequence": 1
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The IMF documents the 1997 crisis, stabilization program and corporate-financial restructuring.",
+          "sourceIndex": 3,
+          "locator": "IMF Public Information Notice 99/115, 29 December 1999, Background",
+          "type": "context"
+        }
+      ]
     },
     {
       "id": "X.2.3:b02",
