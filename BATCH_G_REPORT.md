@@ -41,3 +41,9 @@
 - More Korean-language primary source transcriptions, scholarly disagreements, archaeological chronology and comprehensive passage-level claim checking are needed.
 - Curated aliases cannot replace full Korean morphological or Hanja search. Local reading preferences are not synchronized between devices.
 - The historical atlas is a curated guide, not a complete independently verified chronology. Public-origin runtime performance has not been measured.
+
+## Post-merge regression hardening
+
+- A subsequent qualification pass exposed that the original Batch G preservation test assumed the previous corpus was always Git `HEAD`, invalid after merging. It now locates the exact preserved F baseline (`c747bdd5...` on remote, local mirror fallback) and accepts future additive corpus growth.
+- The source importer now recognizes complete matching earlier passage sequences anywhere in a published article, not only the final suffix. That lets older import batches be replayed safely after another batch appends more passages. Partial or conflicting overlaps still fail closed.
+- The importer change is accompanied by explicit tests for in-sequence replay, and the original B/C pipeline tests were rerun successfully.
