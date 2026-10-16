@@ -1,0 +1,104 @@
+{
+  "id": "I.3.5",
+  "title": "Hunting, Fishing, Gathering, and Coastal Abundance",
+  "kicker": "NEOLITHIC KOREA",
+  "description": "A source-conscious Neolithic history of hunting, fishing, gathering, and coastal abundance, with material contexts and competing interpretations.",
+  "release": "Q",
+  "sourceStatus": "Original historical-archaeological synthesis, selective published research, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "Journal of Archaeological Research",
+      "title": "Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea (2025)",
+      "url": "https://doi.org/10.1007/s10814-024-09204-7",
+      "role": "Peer-reviewed archaeological synthesis; disagreements over co-residence and seasonal aggregation are explicit"
+    },
+    {
+      "institution": "Current Anthropology",
+      "title": "The Transition from Foraging to Farming in Prehistoric Korea (2011)",
+      "url": "https://doi.org/10.1086/658488",
+      "role": "Comparative archaeobotanical and chronology study; regional subsistence was mixed"
+    },
+    {
+      "institution": "Quaternary International",
+      "title": "Coastal farmers during the Early and Middle Holocene: archaeobotanical and grain impression studies on the east coast Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618219308122",
+      "role": "Specialized investigation of plant remains and chronology; warns against equating missing botanical evidence with no cultivation"
+    },
+    {
+      "institution": "Journal of Anthropological Archaeology",
+      "title": "Population and social aggregation in the Neolithic Chulmun villages of Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S027841651500080X",
+      "role": "Published settlement-demography argument; alternative aggregation models should be retained"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.3.5:b01",
+      "title": "A shoreline built of accumulated meals",
+      "paragraphs": [
+        "Shell middens make coastal Neolithic life unusually visible because discarded shells and associated deposits can survive in concentrations large enough for systematic excavation. But a midden is not simply a kitchen refuse pile from a single season. It may accumulate over long occupation episodes and include construction material, hearth debris, animal bone, fragments of pottery, and traces of activities that changed through time. Excavators need to separate depositional layers before combining species counts into a picture of diet.",
+        "Sites near Busan, including Dongsam-dong, provide evidence of marine exploitation that is central to understanding southern coastal Chulmun history. Fish, shellfish, and marine mammals appear in relevant archaeological assemblages, but their proportions vary by locality and the methods used to recover remains. Small fish bones can be missed where sediment was not sieved finely. Plant foods may be underrepresented without flotation and microscopic analysis. A history that equates the most durable shell with the most important calorie source repeats a preservation bias rather than describing a diet."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis · evidence-conscious",
+      "evidence": [
+        {
+          "claim": "Published archaeological studies show variation in Neolithic settlement and subsistence patterns.",
+          "sourceIndex": 0,
+          "locator": "Journal of Archaeological Research (2025), Chulmun settlement and regional chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.3.5:b02",
+      "title": "Fishing required knowledge beyond hooks",
+      "paragraphs": [
+        "Fishing depended on identifying productive waters, observing seasonal movements, using appropriate equipment, and managing the risks of weather and currents. Stone and bone implements, net-related weights when securely identified, and faunal remains can indicate parts of these practices; many lines, nets, floats, vessels, and containers would have been perishable. A particular artifact should not be labeled a fishing tool merely because it was found beside the sea. Use wear, form, associated species, and wider context must support that conclusion.",
+        "The possibility of different fishing methods expands the economic analysis. A strategy aimed at fish moving predictably through a narrow channel involves different scheduling from opportunistic shoreline collecting. Some catches could be processed or shared immediately; others might be preserved, but claims about drying or storage require appropriate archaeological indicators. Fishing was both a subsistence pursuit and a form of landscape expertise transmitted across generations. Its sophistication should not be judged by whether agricultural fields were already present."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.5:b03",
+      "title": "Terrestrial food alongside coastal abundance",
+      "paragraphs": [
+        "Coastal settlements did not inhabit an exclusively marine world. The published archaeobotanical research on Korean shell middens has reported acorn remains and other plant evidence, challenging the old tendency to infer an overwhelmingly seafood diet from shell-rich sites alone. Plant processing can require substantial labor, including collection, sorting, crushing, leaching in some cases, and storage under suitable conditions. Yet an excavated nut or residue does not establish a single recipe or the relative importance of plant foods across a community.",
+        "Terrestrial animal remains and inland resource opportunities likewise complicate simple labels. People could exploit multiple ecological zones through seasonal travel, exchange, and varied daily work. The importance of wild plants and animals changed as local environments and technologies changed. Study of broad-spectrum foodways helps move the historical question away from whether Neolithic Koreans were fishermen or farmers. More useful is how combinations of food sources buffered seasonal uncertainty, shaped settlement choices, and produced different burdens of labor within households."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.5:b04",
+      "title": "Unequal preservation and contested reconstructions",
+      "paragraphs": [
+        "A shell deposit often preserves its own environmental history as well as traces of food. Sea-level changes, storm events, erosion, and later disturbance can reshape the archaeological distribution. A large midden does not by itself certify that a community was permanently sedentary or socially hierarchical. Some sites may reflect recurrent visits by mobile groups; others contain house evidence suggesting more stable residence. Different interpretations require different assumptions about the contemporaneity of activities.",
+        "A carefully researched coastal chapter should ask who is missing. Gathering shellfish and processing food can involve people of different ages and abilities, yet tools rarely identify the gender of their users. Children may have learned the shore's resources through participation long before becoming expert fishers. These are plausible features of human social life, not documented biographies from a particular settlement. Historical writing gains precision by distinguishing the labor demonstrated by remains from the social arrangements that cannot be securely reconstructed."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.5:b05",
+      "title": "Shell layers preserve rhythms imperfectly",
+      "paragraphs": [
+        "A stratified shell midden can contain changes in mollusk species, size and habitat that suggest shifts in harvesting practice or local environments. Such patterns may be affected by season, access, pollution, depositional disturbance and the methods used to collect samples. Specialists sometimes use growth indicators or other techniques to explore seasonality, but the result belongs to particular contexts and cannot be extended to every Korean coast.",
+        "The presence of different species through time may reflect environmental change as much as culinary preference. Rising sea levels alter tidal flats and estuaries; storms can move deposits; subsequent occupation can disturb earlier layers. Reconstructing subsistence thus requires integrating zoological analysis with geology and chronology. A large amount of shell does not establish the number of people present or the exact proportion of food that shellfish supplied. The midden is a cumulative record whose formation must first be understood."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · evidence-conscious original expansion"
+    },
+    {
+      "id": "I.3.5:b06",
+      "title": "Coastal abundance depended on terrestrial labor",
+      "paragraphs": [
+        "Marine harvesting required equipment, carrying capacity, fuel, water, processing space and shelter. Many of these needs depended upon land-based resources and organic materials that survive poorly. Even a settlement heavily engaged in fishing could not be described adequately through fish hooks and bone counts alone. People had to maintain the tools and places where food was prepared.",
+        "Food sharing and preservation could affect the scale of social relationships, but particular rules for distributing catches are not recoverable from an ordinary midden. The historian can analyze work and practical dependencies without inventing formal markets or hereditary obligations. This also helps avoid assigning every coastal task to a stereotyped gender or age. The material record shows skill and repeated activity; the identities and social duties of many workers remain beyond secure reconstruction."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · evidence-conscious original expansion"
+    }
+  ]
+}

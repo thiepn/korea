@@ -1,0 +1,42 @@
+name: Batch Q — Neolithic and South Korean Society QA
+on:
+  push:
+    branches:
+      - feat/batch-q-neolithic-south-korean-society
+  pull_request:
+    paths:
+      # Historical fixture is pinned to Batch Q and must not block subsequent additive batches.
+      - 'data/articles/I.3.*.json'
+      - 'data/articles/X.3.*.json'
+      - 'tests/batch_q_*'
+      - 'tests/fixtures/batch_q_*'
+      - '.github/workflows/batch-q-qa.yml'
+jobs:
+  historical-corpus:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build allowlisted production release
+        run: python scripts/build_release.py
+      - name: Validate canonical hashes, article preservation, words and content pack integrity
+        run: python tests/batch_q_pipeline.py
+      - name: Syntax check application scripts
+        run: |
+          node --check app.js
+          node --check exploration.js
+          node --check content-platform.js
+          node --check reader-window.js
+      - name: Install Chromium browser test runtime
+        run: |
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Run exact-head desktop/mobile generated-asset journeys
+        run: python tests/batch_q_journeys.py
+      - name: Run actual Cloudflare Pages preview desktop/mobile journeys
+        env:
+          KOREA_PREVIEW_URL: https://feat-batch-q-neolithic-south.korea-eo3.pages.dev
+        run: python tests/batch_q_preview.py

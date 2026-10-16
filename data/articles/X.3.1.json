@@ -30,6 +30,87 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "X.3.1:b04",
+      "title": "The examination as a sorting institution",
+      "paragraphs": [
+        "The College Scholastic Ability Test, commonly called Suneung, carries weight because admission to certain universities is linked to perceived employment opportunities and social standing. Yet its role changes through reforms, and admissions decisions also involve other components. Presenting the test as the single determining factor in every student's life is inaccurate. The OECD's 2026 survey argues that reducing test weight without simplifying alternative criteria can even increase uncertainty and demand for private coaching.",
+        "A high-stakes examination can create clear, comparable standards and reward sustained preparation. But its competitive consequences depend upon how many desirable places and careers exist and what resources families can dedicate to preparation. The social history of testing is thus inseparable from employer recruitment and educational hierarchy. The test is one mechanism within an institutional system, not the isolated cause of every educational pressure."
+      ],
+      "sequence": 4,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "X.3.1:b05",
+      "title": "Private tutoring and family resources",
+      "paragraphs": [
+        "Hagwons range widely in subject, cost, size and pedagogical approach. Private tutoring may help individual students master mathematics or languages, but households differ in their ability to pay, arrange transport and provide time for study. When parents believe that admission competition has high economic stakes, spending can become self-reinforcing even if every family would prefer a less demanding environment.",
+        "OECD analysis in 2026 links intensive tutoring to examination-focused study, while noting strengths in Korean students' measured academic performance and concerns about continuing adult learning. It would be misleading to claim all tutoring is useless or that all publicly educated students are disadvantaged. The issue is whether the additional investment produces durable understanding and equal opportunity, or mainly redistributes relative positions in a tournament for scarce prestigious pathways."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "X.3.1:b06",
+      "title": "The day of a student has several institutions",
+      "paragraphs": [
+        "The ordinary school day is shaped by national curricula, classroom teachers, assessment, extracurricular activities, family expectations and sometimes evening tutoring. Students also participate in music, sports, faith communities, clubs and friendships that cannot be reduced to exam preparation. The balance differs across region, household resources, school type and age. A history built exclusively around sleepless examination candidates mistakes a recognizable public image for a universal daily schedule.",
+        "Schooling also serves social functions: learning to cooperate, encountering people from different backgrounds, receiving care, and building confidence. A school can nurture intellectual curiosity while operating inside pressures to produce high test scores. Reforms that add career guidance or after-school support should be assessed by how students experience them and by whether they reduce disparities, not by slogans about creativity alone."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "X.3.1:b07",
+      "title": "Credential prestige and the employment market",
+      "paragraphs": [
+        "High university participation reflects the expansion of educational opportunity, yet the wage advantage associated with some qualifications can diminish when graduates enter labor markets with unequal jobs. The OECD's 2026 Korea analysis notes weaker private returns to degrees in some circumstances and problems of education-to-job mismatch. This does not mean students should abandon higher education. It means that fields of study, institutional quality, workplace skills and regional opportunities all matter.",
+        "Prestige may be valuable as a signal to employers even when it does not fully measure ability. Families aware of that reality may devote resources to entrance preparation. Policies directed only at schools can struggle if labor markets continue to allocate large rewards to a limited number of employers. Understanding the education system requires examining the structure of opportunity into which graduates are entering."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "X.3.1:b08",
+      "title": "Learning after graduation",
+      "paragraphs": [
+        "Education does not end when a degree is awarded. Workers need opportunities to learn new technologies, communicate across disciplines, and update skills during career changes. Yet training access differs by employer size, occupation and age. Someone employed in a well-resourced research organization may receive support unavailable to a subcontracted or self-employed worker.",
+        "The OECD's 2026 discussion emphasizes adult skills and self-directed learning as concerns despite high youth attainment. A history of Korean education should therefore include both the achievements of mass schooling and the challenge of sustaining skills across a long working life. Neither standardized examinations nor classroom hours alone capture this capacity. The enduring social question is whether education expands genuine life options or merely intensifies competition for existing hierarchies."
+      ],
+      "sequence": 8,
+      "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "X.3.1:b09",
+      "title": "The exam and the geography of access",
+      "paragraphs": [
+        "A student living near numerous established tutoring providers may have different choices from a student in a rural district where specialist instruction requires travel or digital access. Online tutoring can reduce geographic barriers but cannot erase unequal study space, devices, parental time or information about admissions. Families also differ in their ability to absorb fees and the opportunity cost of preparation. Competition is therefore structured by resources before an exam paper is opened.",
+        "The OECD's 2026 research argues that regional university quality and job prospects matter alongside national admissions rules. When students believe only a few metropolitan pathways provide secure futures, improving teaching in one school may not reduce the overall pressure. The allocation of desirable jobs and housing affordability influence decisions made long before university applications. This historical connection explains why examination reform by itself has often struggled to transform the social role of private tutoring."
+      ],
+      "sequence": 9,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.1:b10",
+      "title": "Distinguishing learning from competitive signaling",
+      "paragraphs": [
+        "An educational activity may build useful mathematical reasoning, language fluency or scientific understanding, while also serving as a signal of preparedness for selective institutions. These functions are related but not identical. When assessment focuses narrowly on predictable tasks, teaching can improve scores without developing every capacity needed in later study and work. Conversely, success in an examination may reflect substantial discipline and genuine knowledge.",
+        "A credible history of Korean education recognizes the achievements of widespread schooling and strong measured performance without overlooking incentives that favor memorization or high-cost coaching. Alternatives such as portfolios, interviews or multiple admissions tracks have their own equity problems because they may reward families able to purchase guidance. A durable reform debate must ask what evidence of learning is sought, who can prepare that evidence, and how the labor market rewards the resulting qualifications."
+      ],
+      "sequence": 10,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.1:b11",
+      "title": "Educational success depends on what is measured",
+      "paragraphs": [
+        "Korean students have repeatedly demonstrated strong performance in several international assessments. This achievement is real but does not answer every question about the education system. Tests measure defined abilities under particular conditions, while adult work and civic participation require a wider and changing range of knowledge. A system can prepare students exceptionally well for certain examinations and still face problems in career guidance, practical experience or later skills maintenance.",
+        "The 2026 OECD review explicitly distinguishes measured youth attainment from concerns about critical thinking, self-directed learning and adult training. It would overstate the evidence to claim that Korean students lack creativity as a group; test and survey instruments yield more specific findings, and innovative work exists throughout the society. But it would also be misleading to conclude that high average examination scores eliminate inequality in opportunity or mental pressure associated with selective admissions.",
+        "Reform should begin by specifying the desired outcome: sound subject knowledge, durable learning strategies, fair access to universities, or better matching between skills and jobs. Policies that address one may not automatically improve the others. Understanding the historical relationship between school and work is therefore more useful than assigning the whole education system a simple grade of success or failure."
+      ],
+      "sequence": 11,
+      "label": "Batch Q · additional original evidence-conscious analysis"
     }
   ],
   "release": "C"

@@ -1,0 +1,108 @@
+{
+  "id": "X.3.9",
+  "title": "Seoul Concentration, Regional Inequality, Local Depopulation, and the Geography of Opportunity",
+  "kicker": "SOUTH KOREAN SOCIETY",
+  "description": "Original modern social history of seoul concentration, regional inequality, local depopulation, and the geography of opportunity, distinguishing lived experience from averages.",
+  "release": "Q",
+  "sourceStatus": "Original editorial synthesis; regional indicators and interpretations depend on dated institutional research",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026 — Reshaping the geography of opportunity",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/reshaping-the-geography-of-opportunity_c9b7f11a.html",
+      "role": "Dated 2026 geographic and intergenerational demographic analysis"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "Background on low fertility, employment, housing, education and demographic pressure"
+    },
+    {
+      "institution": "OECD",
+      "title": "Education at a Glance 2026: Korea",
+      "url": "https://www.oecd.org/en/publications/education-at-a-glance-2026_c0e523a9-en/korea_5e4f6d39-en.html",
+      "role": "2026 country note distinguishing observed education indicators and projected age-cohort shifts"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.3.9:b01",
+      "title": "Seoul's attraction is produced by institutions",
+      "paragraphs": [
+        "The Seoul metropolitan area concentrates headquarters, advanced services, universities, cultural institutions and major transport connections. These advantages reinforce one another: employers locate where skilled workers and clients are available, while workers move toward places with varied jobs and possibilities for advancement. Universities and professional networks add to the attraction. The resulting pattern is neither simply a government plan nor the outcome of individual preference. It is an evolving system of cumulative geographic advantage.",
+        "A relocation to the capital region can improve someone's earning prospects and educational options while demanding high housing costs and long commutes. The balance differs by occupation and income. Families able to support deposits, training or periods without earnings can take risks unavailable to others. The OECD's 2026 research links spatial mobility to intergenerational opportunity and notes that the effects are not the same for all backgrounds. Geography therefore affects the practical meaning of social mobility."
+      ],
+      "sequence": 1,
+      "label": "Original social history · evidence-aware",
+      "evidence": [
+        {
+          "claim": "OECD 2026 documents disparities between Seoul metropolitan concentration and regional opportunities.",
+          "sourceIndex": 0,
+          "locator": "OECD Economic Surveys Korea 2026, Chapter 4, migration and regional inequality",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "X.3.9:b02",
+      "title": "Regional decline follows reinforcing mechanisms",
+      "paragraphs": [
+        "Smaller cities and rural areas may lose young adults to metropolitan labor markets. As the population ages and the number of children falls, schools and other services can become difficult to sustain, making the area less attractive to families deciding where to live. Employers may struggle to recruit workers or attract investment. This feedback can deepen disparities even where residents retain strong attachments to local communities.",
+        "The OECD's 2026 study discusses how demographic decline and regional divergence reinforce each other. Yet regional Korea is not uniformly shrinking or economically weak. Some industrial hubs have specialized strengths, transport access and universities capable of supporting productive employment. A history that treats everything outside Seoul as an empty periphery erases these differences. Spatial policy must identify distinct places and their economic networks rather than prescribe identical investments everywhere."
+      ],
+      "sequence": 2,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.9:b03",
+      "title": "The costs of concentration appear in the capital too",
+      "paragraphs": [
+        "Concentration raises the value of land and may increase rents, commuting time and congestion. These costs can make it harder for younger workers to build independent households even when their wages are higher than those offered elsewhere. Public infrastructure partly addresses the problem but may also enhance the desirability and price of nearby locations. A regional strategy must therefore consider both the metropolitan pull and the opportunities available beyond it.",
+        "Calls for decentralization can conceal different goals. Moving a government office, creating a research campus, improving transport to a secondary city and supporting a local care network are not interchangeable policies. Their effectiveness depends on complementary employers, housing and skills. Projects should be judged by durable opportunities for residents rather than ribbon-cutting ceremonies or initial construction spending. A factory built without adequate community infrastructure may struggle to retain its workforce."
+      ],
+      "sequence": 3,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.9:b04",
+      "title": "Migration out is also a family history",
+      "paragraphs": [
+        "When young adults relocate, families may become geographically separated. Older relatives can lose nearby support while young households face new childcare and housing pressures. The pattern is not necessarily one of abandonment: people maintain ties through visits, digital communication and financial transfers. But the costs of distance depend on income, health and transportation access.",
+        "A demographic map cannot show these emotional and practical obligations directly. Social researchers use interviews and household surveys to understand how decisions about residence are negotiated within families. Local decline is therefore a matter of changing care arrangements and community continuity as well as population totals. Policy that counts residents alone can miss the quality of the networks sustaining them."
+      ],
+      "sequence": 4,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.9:b05",
+      "title": "Place-based policy requires a theory of change",
+      "paragraphs": [
+        "Improving education, healthcare, digital connectivity and transport may make regional living more viable. Building productive clusters can create jobs that attract and retain workers, while managed adaptation may be appropriate where population declines make the maintenance of every facility impractical. The OECD recommends differentiated approaches to lagging regions and regional hubs rather than relying only on uniform redistribution.",
+        "There are real trade-offs. Concentrating services can improve quality but increase travel burdens; spreading resources thinly may preserve access while reducing effectiveness. Communities should not be viewed as passive recipients of plans designed elsewhere. The historical measure of success is whether residents gain meaningful options, including the ability to stay, to move and to maintain connections without bearing unreasonable costs."
+      ],
+      "sequence": 5,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.9:b06",
+      "title": "Regional universities and the graduate's decision",
+      "paragraphs": [
+        "A university outside the Seoul metropolitan area can offer strong teaching, specialized research and ties to local employers, yet students may still expect that many prestigious careers require a later move toward the capital. This expectation can reinforce institutional concentration: employers follow skilled workers, and skilled workers follow employers. Investment in a campus without corresponding job opportunities may not reverse the process.",
+        "The OECD's 2026 regional analysis discusses regional universities within a broader strategy for productive hubs. Stronger local professional networks, research collaboration, childcare, transport and housing can make staying more attractive. However, the effectiveness of these measures must be judged by durable employment outcomes. Relocation also has benefits, and policies should expand choices rather than punish people for moving. The goal is an economic geography in which remaining outside the capital does not close off the possibility of a satisfying career."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · social evidence and regional context"
+    },
+    {
+      "id": "X.3.9:b07",
+      "title": "Service access and the politics of distance",
+      "paragraphs": [
+        "For a resident in a shrinking rural district, access to a hospital, bank, school or government office can become more difficult as demand falls. Consolidating facilities may improve specialist quality but increase the time needed to reach them. Digital substitutes can help with some services yet may exclude people lacking reliable connectivity or accessible interfaces.",
+        "These decisions cannot be made solely through a national cost average. Travel times, road conditions, disability, household car ownership and public transport frequency shape the burden. Public debate over regional equality is therefore a debate about the minimum services that residents should realistically be able to reach. Historical analysis can compare policy choices and their consequences without pretending that every community must preserve exactly the same institutional form."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · social evidence and regional context"
+    }
+  ]
+}

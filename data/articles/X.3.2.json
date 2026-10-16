@@ -1,0 +1,114 @@
+{
+  "id": "X.3.2",
+  "title": "Work Culture, Working Hours, Corporate Life, Precarity, and Youth Employment",
+  "kicker": "SOUTH KOREAN SOCIETY",
+  "description": "Social history and evidence of work culture, working hours, corporate life, precarity, and youth employment.",
+  "release": "Q",
+  "sourceStatus": "Original social-historical synthesis using dated OECD and official Korean statistical reports; analysis not independently peer-reviewed",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026 — Education, labour matching and adult skills",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/smarting-up-education-and-life-long-learning_707e5ccd.html",
+      "role": "July 2026 analysis of education and labor duality; policy recommendations are not outcomes"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "Analysis of work-family barriers, labor duality, social finance and wellbeing"
+    },
+    {
+      "institution": "Ministry of Data and Statistics (Korea)",
+      "title": "2025 Marriage and Divorce Statistics (19 March 2026)",
+      "url": "https://www.mods.go.kr/board.es?act=view&bid=204&list_no=444103&mid=a10301010000",
+      "role": "Administrative registered marriages and divorces, measured by registration date rather than all family relationships"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026 — Reshaping the geography of opportunity",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/reshaping-the-geography-of-opportunity_c9b7f11a.html",
+      "role": "Regional and intergenerational inequality, based on research and reported survey indicators"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.3.2:b01",
+      "title": "Working for the organization and living beyond it",
+      "paragraphs": [
+        "Accounts of modern South Korean employment frequently emphasize corporate loyalty, hierarchical workplaces, and long hours. Such patterns have historical foundations in industrialization, large-company personnel systems, and expectations of collective effort, but the national labor market has never been uniform. A stable position in a major conglomerate differs profoundly from work in a small manufacturer, a cafe, a hospital, a family business, or a digital platform. Gender, employment status, seniority, and industry condition the everyday meaning of a job.",
+        "The expression work culture should not become a stereotype about an entire population. Some employers adopted flexible scheduling, international management practices, and new expectations about personal time, while others retained rigid supervision and demanding schedules. Legal limits may constrain hours without removing pressure to stay late or remain electronically reachable. Studying this history means asking which occupations changed, which protections workers could enforce, and how people made choices under unequal bargaining power."
+      ],
+      "sequence": 1,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.2:b02",
+      "title": "The labor-market divide has institutional roots",
+      "paragraphs": [
+        "Korea's dual labor market distinguishes relatively secure positions from less protected, frequently lower-paid work in a way that interacts with firm size and sector. OECD research links these differences to competition for desirable jobs, educational pressures, and weaker opportunities to accumulate skills. The division is not adequately described by counting employees in regular and nonregular categories alone. Contracts, benefits, promotion practices, pension coverage, and realistic mobility into better positions all affect outcomes.",
+        "A large company may offer training and a long career path while relying on contractors who do similar work under different conditions. A temporary worker may have comparable ability but less capacity to refuse unsafe schedules or negotiate wages. Conversely, not every flexible contract is involuntary or disadvantageous. The historical question concerns institutions that make risk uneven and persistent. Reform debates weigh hiring incentives against security, and successful policy should be evaluated by movement between kinds of work rather than simply changes in legal terminology."
+      ],
+      "sequence": 2,
+      "label": "Original social history · dated evidence",
+      "evidence": [
+        {
+          "claim": "OECD identifies differences in employment security and opportunities for skills development.",
+          "sourceIndex": 0,
+          "locator": "OECD Economic Surveys: Korea 2026, Chapter 3, labor and education",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "X.3.2:b03",
+      "title": "New entrants, credentials, and job queues",
+      "paragraphs": [
+        "Young adults confront a labor market in which tertiary education is widespread yet not every degree leads directly to the career expected. Large employers and certain professions may attract competition far exceeding the number of positions available. Some graduates prepare for additional examinations, take temporary work, or adjust plans. The resulting delay in stable earnings affects housing, family formation, and confidence about the future, but experiences differ by university, field, locality, gender, and family resources.",
+        "The OECD's 2026 survey notes that the private economic return to some degrees has weakened even as educational attainment remains high. That finding should not be turned into the claim that education has lost all value; it indicates a need to distinguish credentials, skills, and labor-market matching. Connections between universities and local industries matter. When high-quality jobs concentrate in particular places, students elsewhere confront relocation and housing costs as part of the employment decision. Social mobility becomes intertwined with geography."
+      ],
+      "sequence": 3,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.2:b04",
+      "title": "Seniority, retirement, and midcareer disruption",
+      "paragraphs": [
+        "Pay based strongly on seniority can reward experience and loyalty while sometimes making firms reluctant to retain or hire older employees. The practice of so-called honorary retirement, where workers leave before the formal retirement age, illustrates how legal rules and actual career lengths may diverge. Some people begin second careers in small businesses, self-employment, or less secure occupations; others continue professional work with accumulated expertise. There is no single representative trajectory.",
+        "Ageing increases the policy importance of productive later-life employment and access to retraining. The OECD's 2026 analysis points to steep declines in measured adult skills with age and low participation in learning-by-doing in some settings. This does not mean older people are inherently incapable of adapting. It directs attention to workplace organization and opportunities to update skills. Education during childhood is not sufficient if employers do not invest in ongoing learning and if workers fear that additional training will not lead to a better match."
+      ],
+      "sequence": 4,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.2:b05",
+      "title": "Care burdens, migration, and people excluded from the core",
+      "paragraphs": [
+        "Employment statistics alone cannot measure the amount of work required to sustain society. Childcare, eldercare, domestic labor, and support for family members with disabilities compete with paid working hours, and the distribution of that work affects career continuity. Migrant workers may fill jobs with challenging schedules or conditions while facing legal and linguistic barriers in exercising rights. Small-business owners often work long hours without having the same insurance or bargaining structures as wage employees.",
+        "The historical account gains credibility when it places these experiences alongside accounts of executives and organized industrial workers. The image of a uniform hardworking nation hides important disparities in who can control their time, accumulate savings, or withstand unemployment. A balanced interpretation recognizes industrial achievement and the economic contributions of high commitment while investigating the costs borne by groups whose labor is least visible in corporate histories."
+      ],
+      "sequence": 5,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.2:b06",
+      "title": "The meaning of a working hour",
+      "paragraphs": [
+        "The official number of working hours depends on definitions and survey methods, while everyday availability may extend beyond the hours recorded. A person can leave the office on time and still monitor workplace messages; another may perform shift work with little control over when rest occurs. Working-time policy should therefore be studied alongside the right to disconnect, scheduling predictability, overtime compensation and enforcement.",
+        "Some companies have adopted more flexible approaches, and others operate under conditions that make long hours difficult to change. The presence of technology does not guarantee autonomy, since digital monitoring can increase control over workers. A national stereotype about industriousness cannot explain these institutional differences. The historical question is whether workers have real bargaining power over time and whether productivity gains allow shorter hours without transferring costs to more precarious employees."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.2:b07",
+      "title": "Small businesses and the invisible employer-worker overlap",
+      "paragraphs": [
+        "The owner of a small restaurant or shop may work longer than many wage employees while simultaneously carrying financial risks, managing relatives' labor and responding to customers. Such people do not fit neatly into narratives that contrast powerful employers with powerless workers. A family business can provide independence and strong local relationships while also exposing owners and helpers to insecure earnings and limited rest.",
+        "Understanding employment therefore requires separating legal status from economic vulnerability. Contractors, franchisees and platform sellers may formally be independent yet depend heavily on a small number of customers or intermediaries. Protections designed for employees may not extend fully to them. Historical reforms should be judged by whose circumstances actually improved, including people beyond highly visible large-company workplaces."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · institutional social history"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "I.3.6",
+  "title": "Cultivation and the Beginnings of Food Production",
+  "kicker": "NEOLITHIC KOREA",
+  "description": "A source-conscious Neolithic history of cultivation and the beginnings of food production, with material contexts and competing interpretations.",
+  "release": "Q",
+  "sourceStatus": "Original historical-archaeological synthesis, selective published research, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "Journal of Archaeological Research",
+      "title": "Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea (2025)",
+      "url": "https://doi.org/10.1007/s10814-024-09204-7",
+      "role": "Peer-reviewed archaeological synthesis; disagreements over co-residence and seasonal aggregation are explicit"
+    },
+    {
+      "institution": "Current Anthropology",
+      "title": "The Transition from Foraging to Farming in Prehistoric Korea (2011)",
+      "url": "https://doi.org/10.1086/658488",
+      "role": "Comparative archaeobotanical and chronology study; regional subsistence was mixed"
+    },
+    {
+      "institution": "Quaternary International",
+      "title": "Coastal farmers during the Early and Middle Holocene: archaeobotanical and grain impression studies on the east coast Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618219308122",
+      "role": "Specialized investigation of plant remains and chronology; warns against equating missing botanical evidence with no cultivation"
+    },
+    {
+      "institution": "Journal of Anthropological Archaeology",
+      "title": "Population and social aggregation in the Neolithic Chulmun villages of Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S027841651500080X",
+      "role": "Published settlement-demography argument; alternative aggregation models should be retained"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.3.6:b01",
+      "title": "Cultivation is not the same as agricultural dependence",
+      "paragraphs": [
+        "The appearance of domesticated plants in a Neolithic context raises several questions that should be kept separate. Were seeds cultivated locally, collected from elsewhere, exchanged, or introduced through movement? Did a household use small plots while still depending mainly on fishing and gathered food? Can the archaeologist demonstrate repeated cultivation practices rather than an isolated grain? Crop presence alone does not tell us the proportion of calories that farming supplied or whether permanent fields reorganized the community.",
+        "Research on the transition from foraging to farming in prehistoric Korea emphasizes mixed economic strategies. Some Chulmun contexts yielded evidence consistent with millet use, while wild plant remains and marine resources remained important. The arrival of cultivation was therefore not necessarily a rapid economic revolution. Its significance might first have been supplementary reliability, experimentation, or participation in exchange networks. Historical accounts should avoid equating the first grain with the origin of settled village life, since some settlements preceded substantial agricultural dependence."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis · evidence-conscious",
+      "evidence": [
+        {
+          "claim": "Published archaeobotanical research demonstrates mixed foraging and cultivation in Chulmun contexts.",
+          "sourceIndex": 1,
+          "locator": "Current Anthropology 52 S4 (2011), Chulmun subsistence and case studies",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.3.6:b02",
+      "title": "Finding tiny plants in large excavations",
+      "paragraphs": [
+        "Plant evidence can disappear unless soil is sampled with methods suited to small and fragile remains. Flotation separates carbonized seeds and other organic fragments from sediments, but results depend on sampling decisions and preservation. Waterlogged environments occasionally preserve organic materials that would otherwise decay. Impressions of grains in pottery can be informative, yet identification and association require expert analysis. An excavation that found no crops may never have searched in the way a modern archaeobotanist would.",
+        "This creates a research-history problem. Older site reports and modern projects are not automatically comparable. A growing number of identified grains could reflect improved detection rather than a real prehistoric increase. Conversely, securely dated changes in species frequency across comparable samples may strengthen a case for cultivation. The archaeobotanical literature repeatedly warns against treating absence of recovered seeds as proof of absence of farming. That principle does not license claims about undocumented crops; it merely identifies why both positive and negative evidence must be evaluated in context."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.6:b03",
+      "title": "Fields, weeds, and changing schedules",
+      "paragraphs": [
+        "Cultivating a plant changes labor even before farming becomes the basis of subsistence. It may require preparing soil, guarding a plot, returning at a particular season, processing harvested material, and retaining seed for later planting. Those commitments can alter the rhythm of movement and create incentives to revisit certain places. But plots need not produce fixed year-round villages. Seasonal cultivation is compatible with mobility and with intensive use of aquatic or forest resources.",
+        "A hypothesis about local cultivation can be strengthened through multiple indicators: domesticated plant remains, associated weeds, harvesting or grinding equipment where function is supported, storage features, and settlement sequences. No one indicator proves the full arrangement. The mere existence of pits does not establish grain storage, just as a ground stone does not uniquely identify crop processing. By separating tasks and evidence, historians can describe economic change without imposing the modern opposition between nomadic hunter-gatherers and settled farmers."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.6:b04",
+      "title": "The transition into Mumun agriculture",
+      "paragraphs": [
+        "The later Mumun period developed much more extensive farming practices and distinct material and settlement configurations in many regions, but the boundary is not best described as the disappearance of one people and arrival of another ready-made civilization. Chronology, settlement changes, and material differences invite hypotheses about migration, exchange, local adoption, and combinations of these processes. Evaluating them demands more evidence than a contrast between decorated and undecorated pottery.",
+        "In this chapter the emphasis belongs on the antecedents: mixed subsistence, small-scale cultivation, and the gradual transformation of daily work. The institutions and social consequences of later Bronze Age farming belong principally to Part I's Bronze Age chapter. This ownership distinction avoids reading later intensive agriculture backward into every Chulmun settlement. It also protects the reality of a long interval in which fishing, gathering, hunting, and cultivation could be complementary elements of household security."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.6:b05",
+      "title": "A crop could supplement rather than replace wild food",
+      "paragraphs": [
+        "The identification of millet in certain Chulmun contexts is historically important because it adds cultivation to the economic repertoire rather than instantly replacing fishing and gathering. A community might value cultivated grain as a predictable supplement while still collecting acorns or exploiting marine habitats. The relative importance of each resource would change with season, weather, local soil and access to other territories. Archaeobotanical evidence is strongest when it demonstrates repeated, dated occurrence across well-sampled deposits.",
+        "The transition to food production is often told as a competition between efficient farmers and less efficient foragers. That framing overlooks risk. Cultivation can fail because of drought, pests or labor shortages. Wild foods may remain available when a crop fails, while cultivated food can support a settlement when another resource is scarce. Diversification can therefore be a rational strategy even when crop yields appear modest. Historical interpretation should examine the complementarity of activities rather than force communities into fixed labels based on whichever plant or tool survives best in an excavation."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · research-grounded continuity"
+    },
+    {
+      "id": "I.3.6:b06",
+      "title": "A grain's provenance must be established",
+      "paragraphs": [
+        "A single charred grain found with pottery can become an attractive headline. Before treating it as proof of local farming, researchers need to establish its botanical identification, the age of the deposit, the risk of contamination, and whether its context indicates use or cultivation. Grain impressions in ceramics are useful but require attention to whether the vessel was produced locally or transported. The presence of a domesticated plant documents contact with it, not necessarily the place where it grew.",
+        "Plant data are often rare because preservation is poor and older excavations did not consistently recover microscopic remains. A claim that there was no agriculture in a region should therefore be stated narrowly, describing the limits of the available sample. At the same time, uncertainty cannot become permission to invent crops where none have been identified. Evidence-conscious history distinguishes demonstrated plant use, probable cultivation, and stronger claims about agricultural dependence. That distinction allows a better account of gradual experimentation and exchange before the later expansion of farming."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · research-grounded continuity"
+    },
+    {
+      "id": "I.3.6:b07",
+      "title": "A field is an archaeological interpretation",
+      "paragraphs": [
+        "When scholars describe cultivation, they infer a sequence of practices: selection of seed, disturbance of soil, care for growing plants, harvesting and future planting. Few individual stages are likely to be preserved in an early Neolithic setting. A domesticated grain can be evidence that people used a plant, but by itself does not reveal whether a household grew it locally, acquired it from neighbors or brought it during travel.",
+        "Other traces, including associated weeds, tools, storage residues or patterns of repeated deposition, can strengthen the hypothesis of local production. The presence of a grinding implement is not sufficient to prove farming, because gathered plants also require processing. A pit containing botanical remains may have been filled after its original use. Robust economic history needs converging indicators and carefully dated contexts, not an attractive chain of assumptions.",
+        "The intellectual stakes are substantial: assuming that the first detected crop marks the beginning of settled life can erase older durable villages and underestimate the diversity of mixed subsistence. Conversely, refusing to recognize cultivation until agriculture dominated the diet would obscure experimentation that later became consequential. The useful distinction is between plant use, cultivation and dependence, with the evidential thresholds for each made explicit."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · additional original evidence-conscious analysis"
+    }
+  ]
+}

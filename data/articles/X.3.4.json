@@ -1,0 +1,114 @@
+{
+  "id": "X.3.4",
+  "title": "Marriage, Household Formation, Divorce, Single-Person Households, and Changing Family Life",
+  "kicker": "SOUTH KOREAN SOCIETY",
+  "description": "Social history and evidence of marriage, household formation, divorce, single-person households, and changing family life.",
+  "release": "Q",
+  "sourceStatus": "Original social-historical synthesis using dated OECD and official Korean statistical reports; analysis not independently peer-reviewed",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026 — Education, labour matching and adult skills",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/smarting-up-education-and-life-long-learning_707e5ccd.html",
+      "role": "July 2026 analysis of education and labor duality; policy recommendations are not outcomes"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "Analysis of work-family barriers, labor duality, social finance and wellbeing"
+    },
+    {
+      "institution": "Ministry of Data and Statistics (Korea)",
+      "title": "2025 Marriage and Divorce Statistics (19 March 2026)",
+      "url": "https://www.mods.go.kr/board.es?act=view&bid=204&list_no=444103&mid=a10301010000",
+      "role": "Administrative registered marriages and divorces, measured by registration date rather than all family relationships"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026 — Reshaping the geography of opportunity",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/reshaping-the-geography-of-opportunity_c9b7f11a.html",
+      "role": "Regional and intergenerational inequality, based on research and reported survey indicators"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.3.4:b01",
+      "title": "Household formation has changed more than one way",
+      "paragraphs": [
+        "The modern Korean household includes married couples with children, couples without children, single adults, multigenerational arrangements, single parents, and other living situations. The prevalence and social recognition of these forms have changed alongside education, urbanization, employment, housing, longevity, and law. Describing the shift as the collapse of the traditional family is inadequate: the historical family itself varied across class, locality, and period. Marriage patterns within affluent urban households were never the only way Koreans organized care and belonging.",
+        "The question is how legal and economic institutions interact with intimate decisions. A person may wish to marry but lack a stable income or affordable home. Another may prefer independence and value relationships outside marriage. Others face constraints from caregiving obligations or family expectations. Statistics record registered arrangements more readily than motivations. Historians should not infer that everyone who remains unmarried rejects family life or that marriage demonstrates identical gender expectations for every couple."
+      ],
+      "sequence": 1,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.4:b02",
+      "title": "The marriage statistics require precise reading",
+      "paragraphs": [
+        "Korea's Ministry of Data and Statistics reported approximately 240,000 registered marriages during 2025, an increase of 8.1 percent from 2024, in the release dated 19 March 2026. Registered divorces numbered roughly 88,000 that year. These counts reflect reporting dates under administrative rules rather than every relationship formed or ended during the calendar year. They should not be divided casually to claim that a fixed share of marriages will end in divorce. The groups and timing behind the two measures differ.",
+        "The same release put the average first-marriage ages at 33.9 for men and 31.6 for women. Averages conceal regional and socioeconomic variation, and one year's movement cannot establish a permanent reversal of longer trends. A rise in registrations may reflect delayed ceremonies, changes in the size of age cohorts, or shifting decisions as well as policy. The most useful narrative asks how marriage timing interacts with work, housing, family expectations, and the demographic background rather than assigning a simple moral verdict to a statistical change."
+      ],
+      "sequence": 2,
+      "label": "Original social history · dated evidence",
+      "evidence": [
+        {
+          "claim": "The 2025 registered marriage and divorce statistics were published 19 March 2026.",
+          "sourceIndex": 2,
+          "locator": "Ministry of Data and Statistics 2025 Marriage and Divorce Statistics, 2026.03.19",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "X.3.4:b03",
+      "title": "Raising children as a shared and unequal project",
+      "paragraphs": [
+        "Child-rearing in contemporary Korea often involves extensive family decisions about housing, employment, school placement, and access to childcare. Grandparents may provide care, but their availability varies, and reliance upon them can create pressures of its own. Paid childcare services, workplace leave rules, and the distribution of domestic work can expand or restrict the practical freedom to have children. The difference between formal eligibility for leave and the ability to use it without career penalty is especially important.",
+        "Work–family policy cannot be assessed only by the size of a subsidy. Parents consider predictable working hours, security of their positions, division of care, and whether public services can actually meet demand. Some households may benefit from stronger paternal leave while others need affordable housing or accessible early childhood programs. A history sensitive to lived experience should not reduce women to prospective mothers or men to wage earners; roles are changing, unevenly and sometimes amid conflict, across different generations and workplaces."
+      ],
+      "sequence": 3,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.4:b04",
+      "title": "Divorce, independence, and the organization of care",
+      "paragraphs": [
+        "Divorce changes financial and caregiving arrangements but need not have one uniform meaning. People may leave difficult relationships, renegotiate obligations to children, or face insecurity after separation. Registration data identify legal events; they do not explain why a particular household changed or whether wellbeing improved. The public discussion of divorce is often shaped by cultural expectations that can conceal unequal resources available to people navigating legal procedures.",
+        "Single-person households also include contrasting experiences. A young professional choosing urban independence, a person unable to afford shared family housing, and an older adult living alone after bereavement may appear in the same statistical category. Policies on housing, safety, transport, community services, and care address different needs for each. Counting people who live alone cannot establish the number who feel lonely, nor does co-residence guarantee support. Modern family history is the history of institutions and relationships, not simply the distribution of marital labels."
+      ],
+      "sequence": 4,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.4:b05",
+      "title": "Family change without a simple moral arc",
+      "paragraphs": [
+        "Descriptions of individualism, Confucian values, and generational revolt can be useful starting points but are not complete explanations. Family decisions occur inside property markets, employment structures, public policy, and networks of care. The influence of religion, kinship obligation, personal preference, and economic risk differs across people. Older parents may provide substantial financial support to adult children while themselves needing care; a household can be emotionally close despite physical separation.",
+        "The historical challenge is to preserve both agency and constraint. Contemporary Koreans are not uniformly choosing the same future, and the state cannot command a preferred family form into existence through slogans. Better evidence comes from comparing registers, censuses, time-use surveys, longitudinal research, and accounts from households themselves. The resulting history should make room for continuity in affection and responsibility even as legal residence and marriage patterns change."
+      ],
+      "sequence": 5,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.4:b06",
+      "title": "A household statistic is not a complete relationship map",
+      "paragraphs": [
+        "Statistics classify residents by who shares an address, but families often span multiple homes and even countries. Grandparents may provide daily care without co-residing; grown children may support parents through transfers or visits; partners may maintain close relationships while living separately. A single-person household is therefore not an individual without social ties. Likewise a large household may contain internal inequalities of authority and resources.",
+        "Historians need to compare residence records with time-use studies, interviews and the legal organization of responsibility. Administrative categories are indispensable for counting housing needs and service demand but cannot by themselves tell whether people experience warmth, conflict, safety or loneliness. The transformation of family life involves changes in both physical arrangements and obligations across them, and these dimensions need not move in parallel."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.4:b07",
+      "title": "Longer lives reshape kinship obligations",
+      "paragraphs": [
+        "As life expectancy increased, families became more likely to include several adult generations alive simultaneously, even when they lived apart. Support can move in both directions: older parents may assist grandchildren and household formation while adult children provide health or financial support later. Where public care is limited, these expectations can create intensive burdens that vary with class and the distribution of siblings.",
+        "Marriage and household choices occur within these longer networks. An adult may postpone relocation because a relative needs care, or move for better work to finance support at a distance. The history of changing households is therefore not a simple story of individualism replacing family obligations. New living arrangements may preserve strong ties while altering the institutions through which care is delivered and the workers, often women, expected to coordinate it."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · institutional social history"
+    }
+  ]
+}

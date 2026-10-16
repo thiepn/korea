@@ -1,0 +1,104 @@
+{
+  "id": "I.3.9",
+  "title": "Exchange, Mobility, and Interregional Networks",
+  "kicker": "NEOLITHIC KOREA",
+  "description": "An evidence-conscious account of exchange, mobility, and interregional networks in the Neolithic peninsula.",
+  "release": "Q",
+  "sourceStatus": "Original archaeological synthesis; selective scholarly references, interpretations qualified",
+  "sources": [
+    {
+      "institution": "Journal of Archaeological Research",
+      "title": "Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea",
+      "url": "https://doi.org/10.1007/s10814-024-09204-7",
+      "role": "Research synthesis of households, coastal middens, burials and demographic/settlement controversies"
+    },
+    {
+      "institution": "Journal of Anthropological Archaeology",
+      "title": "Population and social aggregation in the Neolithic Chulmun villages of Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S027841651500080X",
+      "role": "Interpretive analysis of settlement formation, aggregation and chronologies"
+    },
+    {
+      "institution": "Current Anthropology",
+      "title": "The Transition from Foraging to Farming in Prehistoric Korea",
+      "url": "https://doi.org/10.1086/658488",
+      "role": "Archaeobotanical and economic history of mixed subsistence"
+    },
+    {
+      "institution": "Quaternary International",
+      "title": "Coastal farmers during the Early and Middle Holocene: Archaeobotanical and grain impression studies on the east coast Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618219308122",
+      "role": "Early pottery, plant remains and changing classification of Chulmun tradition"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.3.9:b01",
+      "title": "The movement of stone is a material problem",
+      "paragraphs": [
+        "Exchange in the Neolithic is often inferred from objects found far from their geological sources. Such finds can demonstrate movement without showing whether a maker carried the item personally, passed it to another group, or obtained it through several encounters. Geochemical sourcing and detailed analysis of manufacturing practices can strengthen claims about origin; visual resemblance alone may be insufficient. Items used over long periods could travel with their owners and arrive at a discard site far from their first place of use.",
+        "A map of stone sources and findspots is therefore not automatically a map of trade routes. It omits transfers that involved perishable goods and visits that left little archaeological trace. The frequency and context of objects matter. A handful of distinctive stones in one deposit may indicate episodic access rather than a sustained specialized distribution system. Historians should ask what moved, how confidently its source is known, and which alternative processes can explain its location before speaking of markets or professional traders."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis · debated interpretations",
+      "evidence": [
+        {
+          "claim": "Archaeological syntheses describe regionally varied Chulmun households, sites and forms of social aggregation.",
+          "sourceIndex": 0,
+          "locator": "Journal of Archaeological Research, Community Formation, 2025, Neolithic site and social analyses",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.3.9:b02",
+      "title": "Decorative traditions and the circulation of skill",
+      "paragraphs": [
+        "Pottery technology is learned through decisions about clay preparation, temper, vessel shape, decoration, drying, and firing. Similar motifs or forms might reflect teachers and apprentices, observation during encounters, movement of vessels, or independent adaptation. The most diagnostic evidence often lies in manufacturing sequences rather than finished appearance alone. A vessel with a familiar incised pattern but different clay and forming methods can complicate claims of direct import.",
+        "Communities could maintain recognizable habits while incorporating techniques learned elsewhere. The existence of regional ceramic traditions should not require isolation, just as circulation should not erase local choices. Chronology is central: two traditions can resemble one another without having existed at the same time. Comparative analysis needs secure dates and sufficient samples. Where either is lacking, proposed directions of influence should be treated as hypotheses rather than settled migration histories."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.9:b03",
+      "title": "Gatherings without documented marketplaces",
+      "paragraphs": [
+        "Mobility and communication could bring people together for practical, social, or ceremonial purposes, but archaeology usually records the residue rather than the event itself. A site with many hearths or unusual material diversity may have served gatherings, but it might also reflect long-term repeated use by smaller groups. The difference turns on contemporaneity and depositional history. The archaeological synthesis of Chulmun community formation specifically weighs aggregation against persistent co-residence at some settlements.",
+        "It is unwarranted to declare an ancient marketplace simply because nonlocal artifacts occur together. Market institutions require more specific evidence than circulation alone. Nor should every shared decorative technique be called ritual exchange. Where social intentions cannot be recovered, scholars may still analyze the scale and frequency of contact from materials. The goal is an account of interaction that respects the limits of what sites preserve."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.9:b04",
+      "title": "Coastal routes and inland corridors",
+      "paragraphs": [
+        "Rivers, estuaries, and maritime passages offered routes through environments that changed as sea level and land use shifted. A group connected to coastal harvests might also reach inland stone sources or plant-rich habitats, and visitors could transmit skills across these settings. Yet the precise contours of such networks are not fixed by a modern coastline. Geological reconstruction and dated archaeology must guide any proposed corridor.",
+        "Interregional contact also shaped how modern researchers interpret the peninsula. A site excavated on an island is often analyzed within a present administrative region even though its Neolithic contacts may have been across water. A comparative approach can widen the question without projecting modern national identities onto ancient participants. Material evidence for connection does not entail one homogenous Neolithic society. It suggests opportunities for learning and movement among communities whose organization, languages, and self-identifications remain largely inaccessible."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.9:b05",
+      "title": "Movement is not synonymous with commerce",
+      "paragraphs": [
+        "A nonlocal tool or exotic material may reflect travel by its owner, reciprocal gifting, exchange during a gathering, a sequence of transfers, or movement of a whole group. These pathways are not equivalent. The term trade can suggest prices and specialist middlemen that are not documented for a particular prehistoric context. Researchers should distinguish circulation as an observable material pattern from commercial institutions as a more demanding historical interpretation.",
+        "The same discipline applies to imported pottery and shared decorative motifs. A vessel found outside its apparent production zone might have been transported as a container, exchanged for another object, or carried during migration. Its provenance must be established through material analysis rather than shape alone. A technique shared across regions could arise from learning without a single pot ever crossing the distance. By comparing multiple artifact classes and secure dates, archaeologists can narrow possibilities, but routes remain models rather than reconstructed itineraries."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · research-grounded continuity"
+    },
+    {
+      "id": "I.3.9:b06",
+      "title": "Networks could change with ecology and chronology",
+      "paragraphs": [
+        "The attractiveness of travel corridors depended on river systems, coastlines, available resources and social circumstances. Sea-level change may create or close opportunities for movement, while local raw material sources can draw people from different environments. A connection suggested by one archaeological horizon may not remain equally active centuries later.",
+        "A map with permanent arrows can therefore impose false continuity upon a dynamic past. The better representation consists of dated relationships, the materials supporting them, and explicit gaps in knowledge. Modern international borders are not appropriate units for the earliest exchanges, but the research conducted within those borders affects what finds are available. Historical accounts should acknowledge uneven survey coverage and interpretive traditions. The meaningful achievement is understanding how communities learned from and encountered others without turning every resemblance into proof of a unified civilization."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · research-grounded continuity"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "X.3.3",
+  "title": "Class, Wealth, Housing, Social Mobility, and the Experience of Inequality",
+  "kicker": "SOUTH KOREAN SOCIETY",
+  "description": "Social history and evidence of class, wealth, housing, social mobility, and the experience of inequality.",
+  "release": "Q",
+  "sourceStatus": "Original social-historical synthesis using dated OECD and official Korean statistical reports; analysis not independently peer-reviewed",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026 — Education, labour matching and adult skills",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/smarting-up-education-and-life-long-learning_707e5ccd.html",
+      "role": "July 2026 analysis of education and labor duality; policy recommendations are not outcomes"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "Analysis of work-family barriers, labor duality, social finance and wellbeing"
+    },
+    {
+      "institution": "Ministry of Data and Statistics (Korea)",
+      "title": "2025 Marriage and Divorce Statistics (19 March 2026)",
+      "url": "https://www.mods.go.kr/board.es?act=view&bid=204&list_no=444103&mid=a10301010000",
+      "role": "Administrative registered marriages and divorces, measured by registration date rather than all family relationships"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026 — Reshaping the geography of opportunity",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/reshaping-the-geography-of-opportunity_c9b7f11a.html",
+      "role": "Regional and intergenerational inequality, based on research and reported survey indicators"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.3.3:b01",
+      "title": "Income and wealth explain different inequalities",
+      "paragraphs": [
+        "Two households receiving similar wages can experience radically different prospects if one owns a valuable apartment and the other pays high rent while servicing debt. Income is a flow of resources; wealth is a stock of claims accumulated through savings, inherited property, asset prices, and borrowing. The social meaning of inequality depends upon both. A national wage distribution may understate the importance of housing equity and family transfers in determining who can start an independent household or endure an employment shock.",
+        "South Korea's urban development and financial history altered the value of property in particular locations. People who purchased homes in expanding metropolitan districts during earlier decades may have benefited from appreciation, while later entrants faced rising deposits and purchase costs. The difference should not be explained solely as an individual difference in diligence. Timing, geography, government infrastructure, credit access, and inherited assets matter. At the same time, the trajectories of owners and renters are diverse, and no one generation shares a uniform economic position."
+      ],
+      "sequence": 1,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.3:b02",
+      "title": "Housing creates unequal access to opportunity",
+      "paragraphs": [
+        "A home determines more than shelter. Its location can shape commutes, schooling options, proximity to care, social networks, and job searches. The Seoul metropolitan area concentrates highly paid employment and prestigious institutions, making access to particular neighborhoods economically valuable. High prices can exclude people from those advantages or force heavy borrowing. Living farther away may lower housing costs but increase time lost in transport.",
+        "The OECD's 2026 regional assessment links migration toward the Seoul metropolitan area to educational and labor opportunities, while identifying weaker mobility prospects for some young people outside it. Relocation can improve earnings but also involve costs that parents with fewer resources cannot easily finance. Inequality therefore has a spatial structure: staying in one region and moving to another both carry different risks depending on family support. Analyses that consider only differences between individuals miss the way cities concentrate opportunity and transmit advantage."
+      ],
+      "sequence": 2,
+      "label": "Original social history · dated evidence",
+      "evidence": [
+        {
+          "claim": "The OECD describes regional inequality linked to Seoul concentration and household resources.",
+          "sourceIndex": 3,
+          "locator": "OECD Economic Surveys: Korea 2026, Chapter 4, geography of opportunity",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "X.3.3:b03",
+      "title": "Credit, deposits, and the meaning of risk",
+      "paragraphs": [
+        "Korean housing finance includes conventional mortgages and distinctive rental arrangements such as jeonse, in which tenants provide a large deposit. A deposit can reduce recurring rent but exposes the renter to the reliability of repayment and potentially to debt used to raise it. The landlord's financial position and the legal safeguards surrounding the property matter. Modern cases of deposit-related losses revealed vulnerabilities that cannot be captured by an average asking rent.",
+        "Credit may permit young households to acquire housing sooner, yet it also links family budgets to interest rates and property valuations. An increase in property prices can benefit owners while making participation harder for newcomers. Policies restraining borrowing might reduce systemic risk and simultaneously disadvantage applicants lacking inherited capital. Evaluating them requires distinguishing financial stability, affordability, and distributional effects rather than assuming that all three goals move together."
+      ],
+      "sequence": 3,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.3:b04",
+      "title": "Intergenerational mobility must be measured",
+      "paragraphs": [
+        "The belief that children will surpass their parents materially shaped expectations during earlier decades of rapid growth. In a mature economy with expensive housing and competitive professional pathways, that expectation may be less secure. Yet dramatic anecdotes about privileged families do not establish the overall level of intergenerational mobility. Researchers use panel surveys, comparisons of income ranks, and statistical measures of how parental economic position relates to that of adult children. These instruments require attention to sample size, cohort, and the distinction between earnings and total wealth.",
+        "An OECD–Bank of Korea analysis discussed in the 2026 survey suggests that geography and family resources interact in shaping mobility, and that outcomes differ among birth cohorts. It is an empirical finding within specified methods, not proof that no person from modest circumstances can advance. The social question concerns how many pathways remain realistically open and which public institutions reduce dependence on family wealth. Education, regional job quality, housing, and access to social insurance all influence the answer."
+      ],
+      "sequence": 4,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.3:b05",
+      "title": "A society richer on average and anxious in practice",
+      "paragraphs": [
+        "South Korea's increased living standards are historically significant. Long-run improvements in infrastructure, healthcare, and consumption coexist with households that feel financially vulnerable. This is not necessarily a contradiction: national averages cannot communicate uncertainty about job renewal, medical care, rent, or helping ageing parents. Wealth concentrated in illiquid property may fail to finance daily obligations, while households without assets can be highly sensitive to small income losses.",
+        "A credible history must resist both celebratory claims that growth eliminated class differences and sweeping descriptions of universal hardship. It should ask what institutions enabled prosperity, who gained access, how risks shifted after economic crises, and which forms of capital reproduce advantage. Inequality is experienced through social relationships and local environments as well as through ratios. Its explanation belongs in the interaction among labor markets, housing, education, family resources, and public policy."
+      ],
+      "sequence": 5,
+      "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.3:b06",
+      "title": "How assets influence a child's chances",
+      "paragraphs": [
+        "Family assets can support a student's relocation, reduce the need for paid work during study, provide a rental deposit or finance retraining after a failed job search. Those transfers may never appear as wages, but they alter the options available to young adults. Even among households with similar income, the presence of property or accessible savings can change how much risk a family can absorb.",
+        "Intergenerational inequality is not just a matter of heirs receiving large estates. Ordinary assistance with tuition, housing or childcare may influence educational and labor trajectories. The OECD's 2026 mobility work links geographical movement with parental resources. A history sensitive to these mechanisms helps explain why apparently universal opportunities can produce unequal practical access. The question is not whether parents should support children, but how public institutions can prevent lack of private support from closing important pathways."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.3:b07",
+      "title": "Wealth measures have their own blind spots",
+      "paragraphs": [
+        "Property valuation can change quickly without altering the income that a household earns, and assets may be difficult to sell without losing a home. Debt can turn ownership into a source of vulnerability when interest rates rise. Two households with equal net worth may face different liquidity constraints or location-specific costs. National summaries need these distinctions to avoid portraying every homeowner as securely prosperous.",
+        "Survey evidence also depends on accurate reporting of assets, debt and household composition. Wealth inequality cannot be inferred directly from differences in consumption, and a sudden fall in prices may reduce measured wealth while easing entry for buyers. Historians should distinguish changes in asset values from changes in access to opportunity, even though the two often interact. The lived meaning of class is shaped by work, housing, family transfers and social security together."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.3:b08",
+      "title": "Relative rank and absolute living standards",
+      "paragraphs": [
+        "People can enjoy much better material conditions than previous generations while feeling that their position in a competitive housing or employment hierarchy has weakened. Absolute living standards and relative social standing answer different questions. Better transportation, healthcare and digital services may raise wellbeing, while rising rent or concentrated professional rewards make certain milestones harder to reach. An account that cites only average national income cannot settle both issues.",
+        "Household comparisons also require attention to composition and lifecycle. A younger renter and an older owner may have very different asset positions even if their annual incomes resemble each other. Some disparities reflect savings accumulated over time; others depend on inheritance, location and policy. Researchers studying intergenerational mobility try to separate these mechanisms through data on parents and adult children, but the results depend on cohort and measurement.",
+        "The social meaning of inequality is found partly in the distribution of choices. Can a worker relocate to a productive region, retrain during unemployment, support an ill parent or start an independent home without overwhelming debt? These opportunities cannot be read from one ratio. They require combining financial data with the institutions that provide or restrict access to education, housing, care and secure employment."
+      ],
+      "sequence": 8,
+      "label": "Batch Q · additional original evidence-conscious analysis"
+    }
+  ]
+}

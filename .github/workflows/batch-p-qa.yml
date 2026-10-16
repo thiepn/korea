@@ -5,11 +5,12 @@ on:
       - feat/batch-p-paleolithic-modern-economy
   pull_request:
     paths:
-      - 'data/articles/**'
-      - 'scripts/**'
-      - 'content/atlas/**'
-      - 'tests/**'
-      - '.github/workflows/batch-p-qa.yml'
+      # This historical acceptance fixture is pinned to the Batch P article inventory.
+      # Later additive batches must use their own cumulative baseline checks.
+      - 'data/articles/I.2.*.json'
+      - 'data/articles/X.2.*.json'
+      - 'tests/batch_p_*'
+      - 'tests/fixtures/batch_p_*'
 jobs:
   historical-corpus:
     runs-on: ubuntu-latest

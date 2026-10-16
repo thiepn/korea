@@ -1,0 +1,118 @@
+{
+  "id": "X.3.8",
+  "title": "Youth, Generations, Digital Social Life, Loneliness, and Changing Social Relationships",
+  "kicker": "SOUTH KOREAN SOCIETY",
+  "description": "Original modern social history of youth, generations, digital social life, loneliness, and changing social relationships, distinguishing lived experience from averages.",
+  "release": "Q",
+  "sourceStatus": "Original editorial synthesis; regional indicators and interpretations depend on dated institutional research",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026 — Reshaping the geography of opportunity",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/reshaping-the-geography-of-opportunity_c9b7f11a.html",
+      "role": "Dated 2026 geographic and intergenerational demographic analysis"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "Background on low fertility, employment, housing, education and demographic pressure"
+    },
+    {
+      "institution": "OECD",
+      "title": "Education at a Glance 2026: Korea",
+      "url": "https://www.oecd.org/en/publications/education-at-a-glance-2026_c0e523a9-en/korea_5e4f6d39-en.html",
+      "role": "2026 country note distinguishing observed education indicators and projected age-cohort shifts"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.3.8:b01",
+      "title": "Generation labels hide inequalities within age groups",
+      "paragraphs": [
+        "Generational labels can make social change easier to discuss. People who grew up during rapid industrialization remember different circumstances from those whose childhood included broadband, smartphones and social media. Yet individuals born in the same decade do not share the same family resources, education or regional opportunities. A young adult with secure employment and parental housing support may have little in common economically with a peer facing temporary contracts and high deposits.",
+        "Treating the young as one dissatisfied constituency or older people as uniformly traditional produces a misleading picture. Cohort analysis needs to distinguish age effects, developments that affect all age groups in a particular year, and longer-lasting experiences associated with birth cohorts. Otherwise the recession that struck a person at age twenty may be described as a timeless characteristic of their generation. Historians should consider the institutions through which experiences were formed before deciding what a generational difference explains."
+      ],
+      "sequence": 1,
+      "label": "Original social history · evidence-aware",
+      "evidence": [
+        {
+          "claim": "OECD 2026 documents disparities between Seoul metropolitan concentration and regional opportunities.",
+          "sourceIndex": 0,
+          "locator": "OECD Economic Surveys Korea 2026, Chapter 4, migration and regional inequality",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "X.3.8:b02",
+      "title": "Connected networks, fragmented attention",
+      "paragraphs": [
+        "Mobile communication changed the practical experience of coordinating friendships, study and work. Online communities permit contact among people who do not share a neighborhood, and digital services make participation in culture more immediate. But the same networks can reward competitive comparison, constant availability and rapid conflict. The social effects vary by platform design, group norms and personal circumstances.",
+        "Digital history should not confuse number of contacts with quality of relationships. A person can maintain important friendships through messages while feeling isolated in other parts of life; another can be offline much of the day while embedded in supportive local communities. Research into loneliness and mental health requires validated measures rather than anecdotes about screen use. Blaming smartphones alone for all social distress ignores housing, employment, family and educational pressures that often accompany the experience of youth."
+      ],
+      "sequence": 2,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.8:b03",
+      "title": "Youth independence and dependence coexist",
+      "paragraphs": [
+        "Extended education and intense job competition can delay a secure financial transition from parents to independent living. Families may finance tuition, examination preparation, rent deposits or periods of unemployment. Such support can protect young adults and simultaneously reinforce inequality, since parents vary in what they can provide. The social meaning of adulthood thus becomes intertwined with housing markets and employment stability.",
+        "Young people also participate in caregiving, religious organizations, voluntary work and family businesses. Accounts centered entirely on delayed marriage or competitive examinations miss these roles. Historical analysis can recognize anxiety about careers and housing without portraying a whole generation as passive. Agency includes organizing new communities, changing employment, moving cities, entering creative work and refusing expectations that individuals regard as unsuitable."
+      ],
+      "sequence": 3,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.8:b04",
+      "title": "Loneliness is not a synonym for living alone",
+      "paragraphs": [
+        "The growth of single-person households has encouraged public concern about isolation, but household composition and social connection are different concepts. A person living alone can have a strong network of friends and relatives, while someone in a crowded home can lack meaningful support. Programs addressing loneliness should therefore be assessed by the relationships and access to services they foster rather than solely by changes in residential arrangements.",
+        "The distinction matters across ages. Students relocating for university, migrant workers separated from family, caregivers with limited time, and older adults after bereavement face different social challenges. A historically useful account examines community centers, workplaces, congregations, neighborhoods and digital networks as changing venues for connection. The same institution can be welcoming for one group and difficult to access for another because of schedules, language or disability."
+      ],
+      "sequence": 4,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.8:b05",
+      "title": "Participation beyond formal politics",
+      "paragraphs": [
+        "Young adults engage public issues through elections, demonstrations, consumer choices, online campaigns, unions and local associations, but involvement is uneven. Highly visible digital disputes can give a false picture of public consensus. A minority with intense commitment may dominate a forum, while many others focus on family, work or practical community concerns.",
+        "The historical narrative should distinguish reported opinion polls, turnout, organized membership and platform engagement. These measure different forms of participation and can be shaped by sampling and selection. Intergenerational misunderstanding becomes more tractable when each group is studied through its institutions and constraints rather than characterized through the most inflammatory statements that circulate about it. Social relationships are made and remade through common spaces as well as conflict."
+      ],
+      "sequence": 5,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.8:b06",
+      "title": "Anxiety about the future has several sources",
+      "paragraphs": [
+        "Youth insecurity is often associated with a single competitive examination or employment statistic. In practice the transition to adulthood can combine university choices, debt, rent, job-search time and expectations about supporting relatives. Each pressure interacts with the others, but different individuals face different combinations. A graduate with stable parental housing support experiences uncertainty differently from a person financing rent and care obligations through irregular work.",
+        "A historical comparison should resist claims that one generation is inherently less resilient. Earlier cohorts encountered war, poverty, political repression or other disruptions under different institutional conditions. Later cohorts may enjoy greater material possibilities while navigating steeper competition for some forms of secure employment. The relevant questions concern the resources and protections available to people in particular times, not a competition over which generation deserves the most sympathy."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · social evidence and regional context"
+    },
+    {
+      "id": "X.3.8:b07",
+      "title": "Digital belonging and offline public space",
+      "paragraphs": [
+        "Online communities create opportunities to maintain friendships across distance, organize practical help and find people with shared interests. These benefits coexist with platforms that amplify conflict or impose pressure to remain visible. The quality of a connection cannot be inferred from the number of messages, followers or hours spent online.",
+        "Libraries, parks, sports clubs, churches, universities and other local institutions remain relevant spaces for shared activity. Access depends on transport, affordability, schedules and disability accommodation. A person moving frequently for study or work may struggle to sustain such ties. An account of changing social relationships should therefore connect technology with housing, labor and urban design rather than blaming or celebrating a device in isolation."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · social evidence and regional context"
+    },
+    {
+      "id": "X.3.8:b08",
+      "title": "Do not confuse a cohort with a personality",
+      "paragraphs": [
+        "Claims that an entire generation is apathetic, entitled or excessively online often generalize from memorable anecdotes. Social surveys have sampling limits, and the loudest voices on digital platforms are rarely representative of all users. People of the same age experience sharply different family resources, housing markets and workplaces.",
+        "Meaningful comparison follows changing institutions: expanded tertiary education, evolving job security, higher metropolitan housing costs and digitally mediated communication. These conditions alter available options but do not dictate a uniform response. The historical unit of analysis must remain a population with internal differences, not a stereotype presented as demographic fact."
+      ],
+      "sequence": 8,
+      "label": "Batch Q · corroboration and interpretive limits"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "I.3.2",
+  "title": "Chulmun Chronology and Regional Cultural Traditions",
+  "kicker": "NEOLITHIC KOREA",
+  "description": "A source-conscious Neolithic history of chulmun chronology and regional cultural traditions, with material contexts and competing interpretations.",
+  "release": "Q",
+  "sourceStatus": "Original historical-archaeological synthesis, selective published research, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "Journal of Archaeological Research",
+      "title": "Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea (2025)",
+      "url": "https://doi.org/10.1007/s10814-024-09204-7",
+      "role": "Peer-reviewed archaeological synthesis; disagreements over co-residence and seasonal aggregation are explicit"
+    },
+    {
+      "institution": "Current Anthropology",
+      "title": "The Transition from Foraging to Farming in Prehistoric Korea (2011)",
+      "url": "https://doi.org/10.1086/658488",
+      "role": "Comparative archaeobotanical and chronology study; regional subsistence was mixed"
+    },
+    {
+      "institution": "Quaternary International",
+      "title": "Coastal farmers during the Early and Middle Holocene: archaeobotanical and grain impression studies on the east coast Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618219308122",
+      "role": "Specialized investigation of plant remains and chronology; warns against equating missing botanical evidence with no cultivation"
+    },
+    {
+      "institution": "Journal of Anthropological Archaeology",
+      "title": "Population and social aggregation in the Neolithic Chulmun villages of Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S027841651500080X",
+      "role": "Published settlement-demography argument; alternative aggregation models should be retained"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.3.2:b01",
+      "title": "Why Chulmun is not an ethnic label",
+      "paragraphs": [
+        "Chulmun, also transliterated Jeulmun, refers to an archaeological tradition often recognized through particular pottery treatments and associated material assemblages. The term is a research convention. It does not identify a language, a single ancestry, or a political community that used the name for itself. A decorated sherd may resemble one from another valley because techniques circulated, because makers faced similar practical possibilities, or because the pieces share broad typological features. Those possibilities should not be converted automatically into migration or common ethnicity.",
+        "Archaeological cultures are especially vulnerable to maps with hard outlines. A line surrounding finds of one vessel type can appear to define a people, whereas the underlying data are excavated sites separated by unsampled spaces and dated with unequal precision. The appearance of comb decoration does not erase plain pottery, and different technological choices can coexist in one region. Regional history needs to explain variation rather than force every site into an identical cultural package. The name helps readers locate an argument, but the argument rests on stratigraphic association, vessel manufacture, settlement evidence, and dated sequences."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis · evidence-conscious",
+      "evidence": [
+        {
+          "claim": "Published archaeological studies show variation in Neolithic settlement and subsistence patterns.",
+          "sourceIndex": 0,
+          "locator": "Journal of Archaeological Research (2025), Chulmun settlement and regional chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.3.2:b02",
+      "title": "Chronology has more than one clock",
+      "paragraphs": [
+        "Researchers use various schemes for early, middle, and late Chulmun, often expressed in calibrated years before present or calendar years BCE. Converting these systems without regard to calibration can produce apparent contradictions that are not substantive archaeological disagreements. A date attached to carbonized material has a different significance from a period assigned by the style of a vessel. A site may contain multiple occupation layers or deposits disturbed after use; a single published date need not describe the entire assemblage.",
+        "The scholarly synthesis by researchers of Korean community formation cautions that settlement sizes, sequences, and associations change with excavation and interpretation. When comparing periods, historians should ask which dates measure activity directly, whether samples belong to houses or surrounding deposits, and how the chronological model handles outliers. The boundaries between phases may be useful analytical conventions while changes on the ground were gradual. A robust narrative distinguishes overlapping practices from the artificial clarity of printed period names."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.2:b03",
+      "title": "Regional traditions as different choices",
+      "paragraphs": [
+        "Coastal communities along the south and southeast encountered marine environments and left abundant shell deposits at some locations. Riverine and inland assemblages preserve different combinations of houses, pits, plant remains, and vessels. Northern regions and islands supply still other material relationships. These contrasts should not be explained by ecology alone. People learned decorative habits, participated in exchange, and chose how to organize residence. One community could draw upon a wider repertoire than its most prominent pottery style suggests.",
+        "Raw material and excavator attention also matter. A location explored during large urban construction may be represented by hundreds of recorded features, while another valley remains scarcely investigated. Collections made in earlier decades may emphasize display-worthy pottery over the tiny plant remains recovered through modern flotation. Consequently, reported regional differences are partly differences in how archaeology was practiced. Specialists seek comparable sampling and dates before interpreting a variation as cultural isolation or technological backwardness. The peninsula was a connected and unevenly researched landscape, not ten neatly separate Neolithic provinces."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.2:b04",
+      "title": "From classification to historical explanation",
+      "paragraphs": [
+        "Pottery typologies are necessary for identifying assemblages, but typological similarity does not explain why vessels were used. Researchers can investigate clay selection, firing temperatures, vessel capacity, surface treatment, repair, and carbonized residues to reconstruct practical work. When a decorative form becomes common, that change could reflect learning networks, shared aesthetic expectations, or ways of marking household and community relationships. The meaning of any particular motif rarely survives in recoverable testimony.",
+        "A historical synthesis should also describe disagreement. For example, apparent growth in the number of dwellings at some middle Chulmun locations could imply more permanent co-resident communities, periodic aggregation of smaller groups, or multiple building episodes separated by time. Resolving this requires careful chronology of individual features rather than assuming all houses visible on a plan stood together. The Chulmun sequence is therefore a set of questions about adaptation, practice, and community formation. Its regional traditions are analytical starting points, not final explanations of identity."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.2:b05",
+      "title": "Multiple clocks for one archaeological assemblage",
+      "paragraphs": [
+        "A pottery style assigned to one phase and a radiocarbon estimate from an associated hearth do not always tell the same chronological story. One date may come from fuel burned during use, another from material redeposited after abandonment, and a third from comparison with vessels found elsewhere. A sound chronology evaluates these associations, any laboratory uncertainties and the likelihood that deposits were mixed. The difference between calibrated and uncalibrated years before present can create additional confusion for readers who assume a number is a straightforward calendar date.",
+        "Period labels remain useful because they permit comparison across many excavations. They become dangerous when they appear more precise than the evidence. A mid-Chulmun horizon is not proof that every household across the peninsula adopted a new vessel shape in a single generation. Some practices persisted and others overlapped. Historians should state when a dating framework is region-specific and explain how sites were assigned to it. Such explanations let readers understand why scholars can disagree without implying that archaeology has no standards for assessing chronology."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · evidence-conscious original expansion"
+    },
+    {
+      "id": "I.3.2:b06",
+      "title": "The history of collecting shapes the imagined culture",
+      "paragraphs": [
+        "Early archaeologists frequently used easily recognized ceramic decoration to define cultural units. That work created important comparative collections but could privilege the decorative material that museums most readily displayed. Later research into microscopic residues, stone production, settlement floors and plant remains expanded the evidence beyond the sherd. A so-called pottery culture may in fact contain many distinct strategies of food provisioning and dwelling.",
+        "Changing research methods also alter where sites appear on maps. Excavation accompanying roads, housing construction or other development may concentrate knowledge in regions undergoing the most disturbance. Areas with little development can remain archaeologically underrepresented even when they were historically significant. This creates a double selection problem: what survived in ancient sediments, and which surviving deposits modern people investigated. A persuasive Chulmun synthesis accounts for both before describing regional cultural boundaries as though they were fixed historical facts."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · evidence-conscious original expansion"
+    },
+    {
+      "id": "I.3.2:b07",
+      "title": "An early pottery date does not name the whole period",
+      "paragraphs": [
+        "Early ceramic finds from parts of the Korean peninsula, including material associated with Jeju, complicate a simple equation between the first pottery and the appearance of classic comb-pattern decoration. Some forms predate the pottery styles that gave the Chulmun period its familiar label. The distinction matters because archaeological periodization can be organized by the first use of a material, the emergence of a widespread stylistic tradition, or changes in subsistence and settlement. Those thresholds need not coincide.",
+        "Different researchers may therefore use apparently inconsistent boundaries while discussing related evidence. The appropriate response is to examine precisely what each chronology is intended to classify and how the relevant contexts were dated. A history intended for general readers should not conceal the disagreement beneath one impressively exact calendar date. It should distinguish the earliest secure occurrence, a disputed earlier proposal, and the period during which a practice became regionally widespread.",
+        "This distinction also guards against a misleading picture of a cultural invention spreading evenly from a single source. Early ceramics might occur in scattered settings without creating one coherent economic system. Later widespread decorative traditions could involve varied forms of cultural learning across regions. Classification identifies patterns in recovered material; it does not supply a narrative of one original potter or one population's movement without independent evidence."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · additional original evidence-conscious analysis"
+    }
+  ]
+}

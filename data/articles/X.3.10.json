@@ -1,0 +1,108 @@
+{
+  "id": "X.3.10",
+  "title": "Food, Consumption, Fashion, Leisure, Travel, and the Transformation of Everyday Lifestyle",
+  "kicker": "SOUTH KOREAN SOCIETY",
+  "description": "Original modern social history of food, consumption, fashion, leisure, travel, and the transformation of everyday lifestyle, distinguishing lived experience from averages.",
+  "release": "Q",
+  "sourceStatus": "Original editorial synthesis; regional indicators and interpretations depend on dated institutional research",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026 — Reshaping the geography of opportunity",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en/full-report/reshaping-the-geography-of-opportunity_c9b7f11a.html",
+      "role": "Dated 2026 geographic and intergenerational demographic analysis"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "Background on low fertility, employment, housing, education and demographic pressure"
+    },
+    {
+      "institution": "OECD",
+      "title": "Education at a Glance 2026: Korea",
+      "url": "https://www.oecd.org/en/publications/education-at-a-glance-2026_c0e523a9-en/korea_5e4f6d39-en.html",
+      "role": "2026 country note distinguishing observed education indicators and projected age-cohort shifts"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.3.10:b01",
+      "title": "A meal is a changing social institution",
+      "paragraphs": [
+        "Contemporary Korean food culture includes household cooking, school meals, workplace canteens, street food, restaurant dining and delivery. These settings have different labor demands, prices and social meanings. A meal shared with relatives may express obligations and continuity, while a quick lunch near the office is shaped by commuting and work schedules. Describing national cuisine only through internationally famous dishes obscures the ways people actually eat across income, generation and region.",
+        "Ingredients and preparation have histories of trade, agriculture, refrigeration, supermarkets and changing household size. The availability of imported foods and new retail formats expanded choices without erasing local cooking. Popular nostalgia for an unchanging traditional table can hide the fact that diets have continuously adapted to economic constraints and new products. A sound history asks how production and consumption were organized rather than treating taste as a timeless ethnic characteristic."
+      ],
+      "sequence": 1,
+      "label": "Original social history · evidence-aware",
+      "evidence": [
+        {
+          "claim": "OECD 2026 documents disparities between Seoul metropolitan concentration and regional opportunities.",
+          "sourceIndex": 0,
+          "locator": "OECD Economic Surveys Korea 2026, Chapter 4, migration and regional inequality",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "X.3.10:b02",
+      "title": "Convenience changes who performs the work",
+      "paragraphs": [
+        "Convenience stores, online grocery orders and delivery platforms allow households to obtain food with less advance planning. This can assist people with long work hours or limited cooking facilities, but it depends on logistics, packaging, energy and a workforce that prepares and transports orders. The consumer's saved time may correspond to demanding schedules elsewhere in the service chain.",
+        "Single-person households are an important part of this market but not the only one. Families with children, shift workers and older residents may all value prepared meals for different reasons. The social consequences of convenience should be evaluated through actual costs, labor conditions and access. Treating all convenience food as cultural decline ignores the practical limits of time, mobility and household resources, while celebrating delivery solely as innovation conceals the work that makes it possible."
+      ],
+      "sequence": 2,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.10:b03",
+      "title": "Fashion and identity across generations",
+      "paragraphs": [
+        "Clothing expresses aspirations, professional expectations, personal taste and social belonging. School and workplace dress codes can constrain some choices, while streetwear and digital communities facilitate experimentation. Global fashion trends interact with Korean brands and designers, and cultural exports can make domestic aesthetics visible internationally. These exchanges do not imply that every resident follows the same trend.",
+        "The economics of fashion includes supply chains, retail property, marketing, and increasingly digital sales. Rapid turnover can create concerns about waste and labor conditions, while secondhand markets and durable design reflect other preferences. A history concentrating on celebrity outfits would miss clothing used in factories, classrooms, small businesses and domestic work. Everyday dress records the intersection of consumption and institutions at many levels of society."
+      ],
+      "sequence": 3,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.10:b04",
+      "title": "Leisure is shaped by working time and place",
+      "paragraphs": [
+        "Travel, gaming, sport, cinema, religious gatherings, cafés and community activities provide different forms of recreation. Access depends upon discretionary income, transport, family duties, physical ability and time away from work. A worker on irregular shifts may have fewer opportunities to share leisure with friends even when entertainment is abundant. Urban infrastructure and changing household budgets alter what activities are practical.",
+        "Domestic tourism and overseas travel have expanded possibilities for some residents, while costs and mobility constraints remain unequal. Parks, public sports facilities and accessible cultural venues can support social connection without requiring high consumption. Tourism advertising offers one view of a place, but inhabitants encounter it through housing, seasonal employment and infrastructure pressures. The chapter should account for leisure as lived time rather than a catalog of attractions."
+      ],
+      "sequence": 4,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.10:b05",
+      "title": "Consumption is not a single path to wellbeing",
+      "paragraphs": [
+        "Economic development gave households access to products and services unimaginable to earlier generations. Consumer choice can reflect greater material security and personal freedom, but it also interacts with debt, status competition and environmental costs. A new device or fashionable district may matter to identity without being necessary for everyone's satisfaction. Statistics on retail sales do not tell us whether consumers feel connected, secure or healthy.",
+        "The broader history of everyday life links meals, clothing, travel and leisure to the distribution of work, care and opportunity. For some people consumption is a reward for long effort; for others the same market creates pressure to keep up with social expectations. A balanced account neither romanticizes earlier scarcity nor equates prosperity with endless purchasing. It studies the institutions through which people organize ordinary pleasures, obligations and belonging in changing circumstances."
+      ],
+      "sequence": 5,
+      "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.10:b06",
+      "title": "Retail spaces change social routines",
+      "paragraphs": [
+        "Traditional markets, supermarkets, department stores, convenience shops and online platforms offer different combinations of price, accessibility and social interaction. A street market may support repeated personal ties between vendors and residents, while a supermarket offers standardized selection and predictable hours. Digital orders expand reach but reduce some encounters and introduce new dependence on delivery labor.",
+        "The growth of one retail format does not necessarily mean the disappearance of all others. Consumers use several channels depending on time, budget and the nature of a purchase. Local authorities sometimes seek to preserve markets for economic and cultural reasons, but success should be evaluated through actual livelihoods and access rather than nostalgia. The changing landscape of shops helps explain how everyday mobility, neighborhood identity and consumer expectations developed together."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · social evidence and regional context"
+    },
+    {
+      "id": "X.3.10:b07",
+      "title": "Leisure follows unequal distributions of free time",
+      "paragraphs": [
+        "The availability of cinemas, concerts, parks and travel services does not mean every worker can use them. Long commutes, shift schedules, childcare and limited disposable income determine the practical possibilities of recreation. People also differ in what they value: a family meal, online gaming, hiking, worship, sport or time alone may be meaningful for different reasons.",
+        "A history of leisure should connect the consumer economy with working-time regulation and the public provision of shared spaces. Access for older residents and people with disabilities is part of this story. The most popular entertainment products reveal cultural trends but cannot substitute for studying ordinary routines. Cultural exports may shape an international image of Korea, while everyday experiences remain diverse and linked to particular places and resources."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · social evidence and regional context"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "I.3.10",
+  "title": "From Chulmun to Mumun",
+  "kicker": "NEOLITHIC KOREA",
+  "description": "An evidence-conscious account of from chulmun to mumun in the Neolithic peninsula.",
+  "release": "Q",
+  "sourceStatus": "Original archaeological synthesis; selective scholarly references, interpretations qualified",
+  "sources": [
+    {
+      "institution": "Journal of Archaeological Research",
+      "title": "Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea",
+      "url": "https://doi.org/10.1007/s10814-024-09204-7",
+      "role": "Research synthesis of households, coastal middens, burials and demographic/settlement controversies"
+    },
+    {
+      "institution": "Journal of Anthropological Archaeology",
+      "title": "Population and social aggregation in the Neolithic Chulmun villages of Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S027841651500080X",
+      "role": "Interpretive analysis of settlement formation, aggregation and chronologies"
+    },
+    {
+      "institution": "Current Anthropology",
+      "title": "The Transition from Foraging to Farming in Prehistoric Korea",
+      "url": "https://doi.org/10.1086/658488",
+      "role": "Archaeobotanical and economic history of mixed subsistence"
+    },
+    {
+      "institution": "Quaternary International",
+      "title": "Coastal farmers during the Early and Middle Holocene: Archaeobotanical and grain impression studies on the east coast Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618219308122",
+      "role": "Early pottery, plant remains and changing classification of Chulmun tradition"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.3.10:b01",
+      "title": "What does an archaeological transition name?",
+      "paragraphs": [
+        "Chulmun and Mumun are archaeological period terms built around recognizable material patterns, notably pottery. They do not record a decree announcing that one historical society ended and another began. In many regions Mumun-associated sites and subsistence systems developed under conditions different from those of earlier Chulmun settlements. Changes in dwellings, agricultural practices, material culture, and land use invite explanation, but their timing was not necessarily simultaneous throughout the peninsula.",
+        "A dramatic map showing one population replacing another can convert a classification scheme into a migration story without enough evidence. Conversely, claiming entirely seamless continuity can obscure real changes in settlement and production. Each model needs support from securely dated layers, patterns of technology, food remains, and, where justified, other independent evidence. A sherd alone cannot establish ancestry or ethnicity. The transition should be narrated as a set of regional historical processes rather than one simple cultural conquest."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis · debated interpretations",
+      "evidence": [
+        {
+          "claim": "Archaeological syntheses describe regionally varied Chulmun households, sites and forms of social aggregation.",
+          "sourceIndex": 0,
+          "locator": "Journal of Archaeological Research, Community Formation, 2025, Neolithic site and social analyses",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.3.10:b02",
+      "title": "Crops and settlement changed the balance of work",
+      "paragraphs": [
+        "In parts of the peninsula later agriculture became more prominent, with consequences for labor scheduling, storage, the reuse of land, and settlement organization. These changes help define differences between many Chulmun and Mumun contexts. Yet earlier communities had already experimented with cultivation and, in some places, substantial residence. The issue is not the instantaneous invention of crops or villages; it is how the relative importance of practices changed and what new demands followed.",
+        "Agricultural intensification can increase production while creating different vulnerabilities: fields require maintenance, harvests may fail, and investment in a place can make relocation costly. These are analytical possibilities, not uniform outcomes demonstrated at every site. The later Bronze Age chapter owns the detail of expanding farming and its social consequences. This concluding Neolithic unit identifies the threshold without absorbing that history or assuming that food production by itself mechanically produced political hierarchy."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.10:b03",
+      "title": "Sites disappear from the record in uneven ways",
+      "paragraphs": [
+        "Some research synthesizing Chulmun settlement notes that large late-phase residential sites become less visible archaeologically, while pottery appears at relatively ephemeral locations. Such an observation raises several explanations. People may have organized movement differently, changed construction practices, relocated settlements to places now destroyed or submerged, or participated in populations and economies associated with emerging Mumun traditions. Reduced archaeological visibility is not identical to demographic collapse.",
+        "Chronological gaps demand particular care. Radiocarbon samples may cluster where archaeologists excavated and where carbonized material survived. A change in site counts cannot by itself prove a sudden abandonment of a whole region. More detailed excavation and spatial modeling may narrow the possibilities, but a responsible history retains uncertainty where the record is thin. It also avoids using pottery labels as unambiguous indicators of the number of people living in a place."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.10:b04",
+      "title": "Ends and beginnings in retrospect",
+      "paragraphs": [
+        "From the viewpoint of later historical Korea, the Neolithic can appear to be a preparatory age before agriculture, bronze, and states. Such retrospective ordering undervalues societies whose economic and social arrangements were effective within their own environments. Maritime knowledge, ceramic craft, mixed subsistence, and patterns of residence deserve analysis without requiring that they culminate in the institutions of later kingdoms.",
+        "The boundary between Chulmun and Mumun marks a useful archaeological reorganization, not the disappearance of people who failed to progress. Cultural practices can be adopted, adapted, maintained, or abandoned without implying superiority. A substantial history of Neolithic Korea ends with competing explanations and the surviving evidence that could test them. It then allows the dedicated Bronze Age history to explain the institutional, environmental, and material changes of the new period on its own terms."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.10:b05",
+      "title": "Why disappearance of sites need not mean disappearance of people",
+      "paragraphs": [
+        "Archaeological visibility can shift abruptly when settlement locations, construction methods or disposal practices change. A fall in the number of excavated late Chulmun dwellings may reflect population movement, the reorganization of residence, preservation failure, or the changing categories under which archaeologists classify sites. An absence of visible house floors is not a direct census showing depopulation.",
+        "To evaluate the transition, researchers need dated sequences that connect features across localities and compare types of evidence beyond pottery. Changes in crops, dwelling configuration and material practices can be real without corresponding to the displacement of every earlier inhabitant. Likewise the persistence of one technique does not prove complete continuity of population. The strongest narratives resist both the fantasy of a sudden total replacement and the equally unsupported assertion that all changes were internal and gradual."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · research-grounded continuity"
+    },
+    {
+      "id": "I.3.10:b06",
+      "title": "The transformation was not simply technological progress",
+      "paragraphs": [
+        "Mumun-associated communities in some places organized farming, settlement and material production in markedly different ways from earlier Chulmun settings. These differences can be described in terms of economic obligations and social consequences without ranking their people as more advanced. Intensive cultivation may support larger and more persistent settlements while creating new risks from harvest failure and labor demands. Mobility and marine expertise remained effective strategies in other settings.",
+        "The historian should also distinguish archaeological periods from the intellectual expectations of later nation-building. The emergence of agriculture does not automatically explain the appearance of a state, and ceramic replacement does not identify one ethnicity conquering another. The deeper story is how human practices changed under ecological, demographic and social conditions that can be partially reconstructed. Ending with well-defined open questions is more faithful to the evidence than a triumphant narrative in which every earlier technique existed solely to prepare for Bronze Age society."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · research-grounded continuity"
+    },
+    {
+      "id": "I.3.10:b07",
+      "title": "Testing continuity and migration models",
+      "paragraphs": [
+        "An argument that migration shaped the Chulmun–Mumun transition needs more evidence than changed pottery forms. Researchers compare dated settlement sequences, manufacturing practices, shifts in subsistence and independent biological evidence where it exists and is interpretable. A change in vessel decoration does not establish replacement of a whole population, since tools and techniques can move without their makers.",
+        "Continuity requires equally rigorous evaluation. The persistence of one craft does not prove that every household or social institution endured unchanged. Archaeology should compare the predictions of competing models against material observations from the same regional sequence. This prevents an important prehistoric transition from being recruited into later nationalist narratives of unbroken ancestry or imagined absolute replacement."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · corroboration and interpretive limits"
+    }
+  ]
+}

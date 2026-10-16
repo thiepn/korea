@@ -1,0 +1,104 @@
+{
+  "id": "I.3.8",
+  "title": "Household, Labor, Gender, and Demography",
+  "kicker": "NEOLITHIC KOREA",
+  "description": "An evidence-conscious account of household, labor, gender, and demography in the Neolithic peninsula.",
+  "release": "Q",
+  "sourceStatus": "Original archaeological synthesis; selective scholarly references, interpretations qualified",
+  "sources": [
+    {
+      "institution": "Journal of Archaeological Research",
+      "title": "Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea",
+      "url": "https://doi.org/10.1007/s10814-024-09204-7",
+      "role": "Research synthesis of households, coastal middens, burials and demographic/settlement controversies"
+    },
+    {
+      "institution": "Journal of Anthropological Archaeology",
+      "title": "Population and social aggregation in the Neolithic Chulmun villages of Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S027841651500080X",
+      "role": "Interpretive analysis of settlement formation, aggregation and chronologies"
+    },
+    {
+      "institution": "Current Anthropology",
+      "title": "The Transition from Foraging to Farming in Prehistoric Korea",
+      "url": "https://doi.org/10.1086/658488",
+      "role": "Archaeobotanical and economic history of mixed subsistence"
+    },
+    {
+      "institution": "Quaternary International",
+      "title": "Coastal farmers during the Early and Middle Holocene: Archaeobotanical and grain impression studies on the east coast Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618219308122",
+      "role": "Early pottery, plant remains and changing classification of Chulmun tradition"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.3.8:b01",
+      "title": "An excavated dwelling is not a family tree",
+      "paragraphs": [
+        "Neolithic pit houses offer unusual opportunities to investigate the household scale of prehistoric life. Hearths, floors, pits, and distributions of implements identify places where people performed activities in relation to one another. But a house does not automatically equal a nuclear family, and its excavation does not disclose the number, age, or gender of inhabitants. Dwellings may have been rebuilt, reused, or abandoned at different times, and some activities happened outside their walls.",
+        "The chronological relationship among buildings is essential. A village plan with numerous house depressions can represent contemporaneous neighbors, a shifting arrangement of residences, or several episodes of occupation layered across generations. Radiocarbon dates and the relationships between features can test competing models. Published work on Chulmun settlement aggregation specifically debates these possibilities. Social histories that count every excavated structure as one simultaneous household risk inventing communities larger and more stable than the evidence allows."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis · debated interpretations",
+      "evidence": [
+        {
+          "claim": "Archaeological syntheses describe regionally varied Chulmun households, sites and forms of social aggregation.",
+          "sourceIndex": 0,
+          "locator": "Journal of Archaeological Research, Community Formation, 2025, Neolithic site and social analyses",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.3.8:b02",
+      "title": "Food work and the division of time",
+      "paragraphs": [
+        "Household life depended upon processing resources as well as obtaining them. Preparing fish, grinding or leaching plant foods where practiced, caring for fires, repairing tools, maintaining shelters, and managing stores would have occupied substantial time. The archaeological record preserves these activities unevenly: a stone implement survives while a basket or binding vanishes. The conspicuous object is not necessarily the most important economic one.",
+        "Attributing these tasks to modern gender categories is a further danger. Ethnographic examples of labor organization differ widely and do not directly report Korean Chulmun conventions. Archaeologists may sometimes infer repeated task zones from residues or tools, but they cannot identify the gender of each worker from the distribution. A careful account can recognize that care, food preparation, and learning sustained communities without manufacturing an idyllic household scene or projecting patriarchal arrangements backward from historical states."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.8:b03",
+      "title": "Demography without census records",
+      "paragraphs": [
+        "Paleodemography attempts to reason from settlements, burials, and changing site frequencies, but every source has sampling problems. The number of graves depends on who was buried in the recovered cemetery and how many burials survived. Dwellings differ in use and contemporaneity. Visible sites are shaped by erosion, development, survey activity, and the longevity of particular activities. Population estimates should therefore be presented as models with assumptions rather than as discoveries of exact prehistoric headcounts.",
+        "The same considerations apply to health and mortality. Skeletal remains can reveal some injuries or conditions when preservation is adequate, but they rarely represent all people equally. Individuals who received different treatment at death may be missing. A lack of preserved remains does not establish that people lived longer, shorter, or healthier lives than neighboring populations. The historian can identify the questions and material methods without importing rates from other times and places as though they were observed in Neolithic Korea."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.8:b04",
+      "title": "Sharing, authority, and the limits of hierarchy",
+      "paragraphs": [
+        "Co-resident groups required ways of coordinating activity, allocating space, managing conflict, and sharing practical knowledge. Those general problems do not establish formal chiefs, hereditary elites, or egalitarian rules in every settlement. Evidence for persistent inequality requires patterned differences across more than one unusual grave or dwelling. The Chulmun literature explores community formation and possible aggregation, but it also cautions against inferring a centralized political system from larger sites alone.",
+        "Describing prehistoric people as socially simple because the archive is thin is no better than attributing complex institutions without evidence. Households could sustain intricate obligations and skills that left no durable record. A historical account should separate arrangements that are necessary for collective living from particular cultural solutions that remain unknown. This produces a more complete social history precisely because it preserves uncertainty rather than replacing it with an ethnographic stereotype."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis · debated interpretations"
+    },
+    {
+      "id": "I.3.8:b05",
+      "title": "Care and childhood in a poorly preserved archive",
+      "paragraphs": [
+        "A settlement could not persist without people learning how to find food, use tools, maintain shelter and navigate relationships. Children likely acquired many practical abilities through participation and observation, although the record seldom identifies their artifacts unambiguously. A small tool is not automatically a child's object; differences in size may reflect task, raw material or reuse. Researchers can explore learning through manufacturing mistakes and spatial patterns while preserving alternative explanations.",
+        "Care work is particularly difficult to recover because helping a sick companion, preparing food for dependents, or transmitting seasonal knowledge need not produce specialized durable objects. Rather than invent a Neolithic family around every hearth, a historian can describe the necessary material tasks and assess what evidence supports claims about cooperation. This approach also avoids assigning gathering, cooking or care to women by default. The archaeology records activity much better than it records cultural expectations about who performed it. Recognizing that limit yields a more responsible account of social life."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · research-grounded continuity"
+    },
+    {
+      "id": "I.3.8:b06",
+      "title": "The household was part of a wider community",
+      "paragraphs": [
+        "Even where a dwelling plan is clear, the relationship between its occupants and neighboring structures is uncertain. A residence may have been part of a cluster of kin, an association of cooperating households, or an arrangement that changed with seasonal aggregation. Large settlements invite hypotheses about shared work and collective decision-making, but architecture alone cannot identify councils, hereditary chiefs or egalitarian norms.",
+        "Burial practices and distributions of material goods provide possible additional evidence, yet exceptional graves may reflect ritual selection or preservation rather than permanent social rank. The methodological challenge is to avoid assuming that all large communities had hierarchy or that small ones were socially undifferentiated. Archaeological patterns must be repeated and temporally secure before broad claims about status are justified. A careful account thus describes the scale of observable cooperation without inventing a constitution for a society whose voices were not recorded."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · research-grounded continuity"
+    }
+  ]
+}
