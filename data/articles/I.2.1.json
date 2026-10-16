@@ -123,6 +123,26 @@
       ],
       "label": "Batch P · original evidence-sensitive continuation",
       "sequence": 12
+    },
+    {
+      "id": "I.2.1:b13",
+      "title": "Beyond national beginnings",
+      "paragraphs": [
+        "Paleolithic tools in the peninsula are evidence of people who worked and moved there, not of a modern nation already present in embryo. Terms such as Korean Paleolithic identify a modern research geography; they cannot tell us the names or identities of the toolmakers. Keeping that distinction clear makes room for connections across northeast Asian environments and avoids interpreting every technical resemblance as a claim about ancestry.",
+        "This restraint does not diminish the importance of the discoveries. It strengthens them by allowing the material record to change our understanding of human adaptation without being enlisted into later political narratives. The most productive questions concern what people made, how they learned, where they moved, and what circumstances shaped the survival of their traces."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 13
+    },
+    {
+      "id": "I.2.1:b14",
+      "title": "A visitor's guide to reading uncertainty",
+      "paragraphs": [
+        "Museum labels necessarily condense difficult research. A date may refer to the layer around an object, a period assigned by typological comparison, or a revised estimate from newer analyses. A display may present one reconstruction while a scholarly report weighs alternatives. Readers should look for the distinction between observed material, plausible interpretation, and unresolved dispute.",
+        "The goal of a public history is not to overwhelm visitors with methodological warnings. It is to make the relationship between evidence and explanation legible. Once that relationship is understood, uncertainty becomes part of the attraction of prehistoric history: each find has the capacity to revise an account that remains open to discoveries and better methods."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 14
     }
   ]
 }

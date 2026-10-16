@@ -85,6 +85,76 @@
       ],
       "label": "Original economic history · dated source context",
       "sequence": 6
+    },
+    {
+      "id": "X.2.10:b07",
+      "title": "Fiscal space and competing public obligations",
+      "paragraphs": [
+        "Population ageing influences public finances because pension payments, healthcare, long-term care, and infrastructure needs evolve as the age distribution changes. Yet these pressures do not mechanically determine one fiscal outcome. Tax policy, employment participation, retirement practices, productivity, and the design of services all shape the amount of revenue available and the cost of commitments. An older population may also possess assets and skills that do not appear in a simple dependency ratio.",
+        "The OECD's July 2026 economic survey calls for stronger fiscal institutions and changes in spending priorities and revenue policy. Its projections should be identified as scenarios rather than records of events that have already occurred. Political disagreement about taxes and benefits concerns who should pay for collective commitments and who receives support. Historical analysis cannot resolve that disagreement through a single ratio, but it can show the institutions and assumptions through which alternatives are evaluated."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 7
+    },
+    {
+      "id": "X.2.10:b08",
+      "title": "The productivity divide beneath national averages",
+      "paragraphs": [
+        "Large export champions often exhibit advanced technology and sophisticated management, while many small and medium-sized enterprises operate with fewer resources for investment, training, and research. A high national export ranking can therefore coexist with uneven productivity across employers. The problem cannot be solved merely by ordering every business to innovate. Access to finance, skilled workers, competition, adoption costs, and the structure of customer relationships shape what smaller firms can realistically achieve.",
+        "A growth model that raises productivity more broadly could improve wages and resilience without requiring every region to host a world-leading semiconductor factory. But policies meant to support small companies can also entrench unproductive firms if they reward survival without learning. The institutional challenge is to foster competition and transition while protecting people from abrupt loss of livelihood. The Bank of Korea's analysis of persistent investment weakness after crises adds another reason to examine how risk and expectations affect private investment decisions."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 8
+    },
+    {
+      "id": "X.2.10:b09",
+      "title": "Care work is economic infrastructure",
+      "paragraphs": [
+        "A shrinking working-age population and rising care needs make the organization of childcare, eldercare, disability support, and healthcare economically consequential. These services require trained workers, financing, and coordination across families, employers, and governments. When care is treated solely as a private household responsibility, its costs can reduce paid employment opportunities, particularly for people expected to perform unpaid work.",
+        "Policy discussions focused only on automation or migration miss this institutional foundation of labor supply. Better support for care can enable participation while improving wellbeing, but quality and working conditions within care occupations must also be considered. A system that expands services by relying on insecure, underpaid labor may move costs rather than remove them. Historicizing care connects the macroeconomic discussion of ageing with the everyday social experience that abstract forecasts cannot capture."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 9
+    },
+    {
+      "id": "X.2.10:b10",
+      "title": "Migration as a choice about institutions",
+      "paragraphs": [
+        "Workforce constraints increase attention to immigration, but an increase in arrivals does not automatically resolve mismatches in skills, regions, or employment conditions. Employers, migrants, and communities need institutions for recruitment, legal protection, language access, housing, and integration. Long-term demographic effects depend upon settlement and participation rather than numbers alone.",
+        "South Korea's economic relations with foreign workers and residents have histories that extend beyond recent labor shortages. A mature growth strategy should recognize migrants as workers, neighbors, and potential long-term members of society rather than temporary inputs into a demographic calculation. This perspective also makes visible the risk of uneven bargaining power when visas or workplace changes are controlled by employers. The design of labor rights is part of the productivity and fairness question, not an unrelated social issue."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 10
+    },
+    {
+      "id": "X.2.10:b11",
+      "title": "Trade strategy without a fantasy of isolation",
+      "paragraphs": [
+        "Firms confronted with export controls, tariffs, and industrial subsidies may seek alternative suppliers or overseas production capacity. Diversification can reduce exposure to a single shock, but specialized production depends upon networks that cannot be recreated instantly. Technical standards, intellectual property, process know-how, equipment, and customer relationships accumulate over time. Economic security is consequently a matter of managing dependencies rather than abolishing them.",
+        "A selective shift in production location could strengthen access to a market while imposing higher costs or new concentration elsewhere. Evaluating a policy requires tracing those trade-offs and distinguishing announced projects from realized output. Korea's position between major economic partners gives the issue unusual weight, but historical analysis should resist claims that present diplomatic alignments make one industrial outcome inevitable. Companies and states can adjust strategies as conditions change."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 11
+    },
+    {
+      "id": "X.2.10:b12",
+      "title": "Regional contraction is not national uniformity",
+      "paragraphs": [
+        "Ageing and population loss have different effects across places. Some metropolitan districts continue to attract employment and investment while smaller cities and rural counties struggle to maintain schools, transport, and services. An aggregate national population figure can conceal this redistribution. Local decline may weaken the tax base and reduce access to care, which in turn makes remaining in a community harder for residents.",
+        "Industrial strategy interacts with this geography. A new factory may create employment but also require housing, utilities, training institutions, and reliable transport. Moving jobs alone does not guarantee a sustainable region; building infrastructure without economic demand can create another form of fiscal burden. Regional policy therefore belongs within the discussion of a future growth model, even though its fuller lived consequences are treated in the dedicated social-history chapters."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 12
+    },
+    {
+      "id": "X.2.10:b13",
+      "title": "Distinguishing forecasts from historical outcomes",
+      "paragraphs": [
+        "Future growth and demographic projections are essential inputs to policy, but their meaning depends upon assumptions. The OECD's July 2026 projections reflect information available at publication and may be revised as energy prices, trade, investment, and policy decisions change. A history written later should not present such forecasts as facts. It should record the institutional context in which decision makers used them.",
+        "The durability of this chapter rests in its questions: what new sources of productivity are emerging, how does an ageing society share work and care, how can external dependencies be managed, and who bears the cost of transition? Specific policies and growth numbers may change. The underlying interactions among technology, trade, demography, finance, environment, and social distribution will continue to structure debate. A serious economic history gives readers mechanisms with which to evaluate future developments, not a rehearsed prediction of either inevitable decline or limitless growth."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 13
     }
   ]
 }
