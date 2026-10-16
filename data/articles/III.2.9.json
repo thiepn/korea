@@ -1,0 +1,82 @@
+{
+  "id": "III.2.9",
+  "title": "Sabi Baekje: Reform, Buddhism, and Cultural Flourishing",
+  "kicker": "BAEKJE: COMPLETE CHAPTER",
+  "description": "Original historical synthesis with explicitly identified institutional and primary-source anchors; interpretations have not been independently peer-reviewed.",
+  "release": "I",
+  "sourceStatus": "Selective primary and institutional sources; broader prose editorial synthesis not line-by-line verified",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "사비천도 — Relocation to Sabi",
+      "url": "https://encykorea.aks.ac.kr/Article/E0071959",
+      "role": "538 planned relocation, politics and reform interpretation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "성왕 — King Seong",
+      "url": "https://encykorea.aks.ac.kr/Article/E0029457",
+      "role": "523–554 reign, reform, Sabi, 554 death"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Archaeological chronology and registered site descriptions, 475–660 CE"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.2.9:b01",
+      "title": "A capital planned for a different future",
+      "paragraphs": [
+        "Seong's relocation to Sabi in 538 was not another emergency flight. The court that moved toward present-day Buyeo was imagining a more durable political center after decades of recovery at Ungjin. The new landscape offered river routes, wider spaces for political construction, and opportunities to reshape the relation between palace, administrative districts, ritual sites, and defensive works. The contrast with 475 is important. A forced retreat had preserved the monarchy; a deliberate move could express its ambitions. Yet planning did not eliminate political costs. Building a capital meant mobilizing workers and transferring elite households, rearranging patterns of patronage, and negotiating the status of those attached to the older center. Modern archaeological remains at Gwanbuk-ri, Busosanseong, Jeongnimsa, and the Naseong wall give the city's history physical form. They also have different excavation histories and do not reconstruct every street or neighborhood. Sabi should be studied as a built political project rather than a polished miniature of a later planned city."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "King Seong moved Baekje’s capital from Ungjin to Sabi in 538",
+          "sourceIndex": 0,
+          "locator": "AKS 사비천도 entry, date and results",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.2.9:b02",
+      "title": "Buddhist patronage and learned institutions",
+      "paragraphs": [
+        "Buddhist temples became especially visible expressions of sixth- and seventh-century Baekje court culture. A temple could be a place of devotion and teaching, a receiver of gifts, a network of skilled artisans, and a sign of royal or aristocratic patronage. Architectural and artistic forms reveal contact with Chinese Buddhist worlds and, through Baekje participation, connections with communities across the sea. But the diffusion of religious practice was neither uniform nor a simple decree from the throne. Rural and local traditions remained, while court sponsorship concentrated resources at prominent sites. When modern visitors see the surviving remains of Jeongnimsa or Mireuksa, they encounter a material trace of that sponsorship. A great religious complex says something about elite priorities, and about the mobilization of labor and expertise, but cannot alone establish how often ordinary people visited or how they combined Buddhist practice with other sacred obligations. The most illuminating history holds public monumentality beside the less visible range of personal religious lives."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.2.9:b03",
+      "title": "Reform and strategic exposure",
+      "paragraphs": [
+        "The Academy of Korean Studies associates the Sabi move with renewed efforts to strengthen kingship, reorder government, and give Baekje a fresh basis for external ambition. Administrative reform is important here because relocation and centralization were connected: a palace could more effectively coordinate officials only if offices had clearly recognized functions and links to the countryside. At the same time, Seong continued to face Goguryeo and Silla in a competitive region. His effort to regain former Han territory produced temporary success alongside strategic danger. The turning point in relations with Silla and the king's death in 554 cannot be explained simply as punishment for an overly ambitious capital project. Domestic reforms, military alliances, geography, and events that rulers did not control interacted with one another. Sabi was a durable achievement, but the kingdom based there would continue to live under the shadow of vulnerable frontiers."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "King Seong undertook state reorganization and died during the 554 conflict",
+          "sourceIndex": 1,
+          "locator": "AKS 성왕 biography, reforms and last years",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.2.9:b04",
+      "title": "Art as an argument",
+      "paragraphs": [
+        "Baekje's Sabi-period art has sometimes been admired as if aesthetic refinement were evidence of political tranquility. The relationship is not so simple. Sculptures, ornaments, tile patterns, and temple foundations emerged from communities that could also be involved in warfare, forced labor, diplomatic rivalry, and social inequality. Cultural achievement and coercive capacity can belong to the same state. The UNESCO Baekje Historic Areas bring eight sites together precisely because they show interactions of planning, religion, construction, and exchange rather than one surviving palace alone. A decorative object is also the endpoint of a chain of material decisions: obtaining resources, mastering techniques, finding patrons, and selecting a symbol meaningful to viewers. The wider East Asian connections of those forms do not erase Baekje artisans' choices. Sabi's artistic history gains depth when it is read as part of political economy instead of being separated from it as a timeless national style."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

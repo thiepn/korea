@@ -1,0 +1,51 @@
+{
+  "id": "III.2.4",
+  "title": "Baekje, China, and the Southern Dynasties",
+  "kicker": "BAEKJE: COMPLETE CHAPTER",
+  "description": "Original historical synthesis with explicitly identified institutional and primary-source anchors; interpretations have not been independently peer-reviewed.",
+  "release": "I",
+  "sourceStatus": "Selective primary and institutional sources; broader prose editorial synthesis not line-by-line verified",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Archaeological chronology and registered site descriptions, 475–660 CE"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Baekje Historic Areas of World Heritage exhibition",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=113856&listType=list&menuId=past&schM=view",
+      "role": "Gongju, Buyeo, Iksan sites and 475–660 chronology"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.2.4:b01",
+      "title": "A letter crossing the sea",
+      "paragraphs": [
+        "Relations with southern Chinese courts were one of Baekje's ways of locating itself within East Asian diplomacy. An embassy could carry messages, gifts, and assertions of rank, but its significance was not exhausted by a title granted or a tribute entry copied into a history. Successful contact required routes, translators, ceremonial conventions, and the mutual understanding that receiving envoys served both sides. Chinese dynasties could use investiture to express a world order centered on their own authority; Baekje rulers could use the same encounter to establish prestige and consolidate domestic claims. To describe the relationship only as submission or only as equality misses the different purposes contained in a single diplomatic act."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "III.2.4:b02",
+      "title": "Technologies and religious worlds",
+      "paragraphs": [
+        "Buddhist institutions, written learning, and objects associated with refined court culture circulated in the same broad world of contact. Transmission did not resemble pouring a finished civilization into an empty vessel. Baekje elites selected, adapted, sponsored, and redistributed ideas and techniques in a setting that already possessed its own political and artistic traditions. A pattern in a tomb, a method of brick construction, or a manuscript practice may indicate contact but rarely establishes an exclusive route or a single named transmitter. The more securely documented diplomatic moments sit within a much larger pattern of material exchange. Comparative archaeological work helps specify that pattern, but readers should beware easy equations between style and ethnic identity. An imported form could be remade for a Baekje audience."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.2.4:b03",
+      "title": "What embassies cannot show",
+      "paragraphs": [
+        "Court chronicles privilege kings, tribute gifts, and recognizable offices. They say much less about ship crews, merchants, craftsmen, women connected to cross-border households, or the politics of coastal settlements. The absence should shape the questions we ask. Was a mission also a chance to build relationships for future exchange? Were practical skills carried alongside formal ritual knowledge? How far could a court control the contacts that made its prestige visible? We cannot put exact answers into the mouths of people whose testimonies do not survive. But we can recognize that royal diplomacy depended on people outside the palace. The maritime history of Baekje belongs equally to systems of knowledge and to the difficult material business of moving persons and things across the water."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

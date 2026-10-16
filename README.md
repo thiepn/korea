@@ -228,3 +228,12 @@ synthesis, not comprehensive peer-reviewed scholarship.
 ## Batch H — Liberation to partition (complete Chapter)
 
 Source-driven fourth complete Chapter `IX.1.1`–`IX.1.10`, with seven new entries and append-only deepening of four earlier subjects. The original 1945–1948 evidence anchors and their limitations are documented in `content/research/batch_h_sources.json`; the human-authored Markdown manuscripts are `content/editorial/batch_h_*.md` and their replayable import is `content/imports/batch_h_collections.jsonl`. Run `python3 scripts/prepare_batch_h.py` to reprepare from editable sources, `python3 scripts/ingest.py content/imports/batch_h_collections.jsonl --dry-run` to check replay and `npm run test:h` for integrity and Chromium journeys. `python3 scripts/build_release.py` publishes only compiled assets. Batch H does not modify the canonical v1.1 architecture.
+
+## Batch I — Baekje: Complete River and Maritime Kingdom (October 2026)
+
+- Fifth fully readable canonical Chapter: **III.2**, covering ten fixed topics, 8 new authorship entries, plus append-only changes to six prior articles.
+- 9,821 manuscript words (compiled total: **129 articles / 549 passages / 72,819 words**); three new Baekje articles contain >=2,000 compiled words each.
+- 17 curator-written reading routes, 57 timeline landmarks, and 74 explained cross-article links, with Korean discovery aliases for Baekje titles.
+- Reader claim annotations identify direct inscriptional facts versus contextual institutional research. The prose is independent synthesis, **not claim-level peer-reviewed scholarship**.
+- Editable source: `content/editorial/batch_i_baekje_collection.md`, `content/editorial/batch_i_deepening.md`. Reproducible import: `python3 scripts/prepare_batch_i.py && python3 scripts/ingest.py content/imports/batch_i_baekje.jsonl`.
+- Tests: `npm run test:i`. The canonical v1.1 archive and existing published passages are preserved; Cloudflare release remains `python3 scripts/build_release.py` → `dist`.

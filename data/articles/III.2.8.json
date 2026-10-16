@@ -1,0 +1,171 @@
+{
+  "id": "III.2.8",
+  "title": "King Muryeong and Baekje's Renewed Internationalism",
+  "kicker": "IN-DEPTH HISTORY",
+  "description": "Original historical synthesis with explicitly identified institutional and primary-source anchors; interpretations have not been independently peer-reviewed.",
+  "release": "I",
+  "sourceStatus": "Selective primary and institutional sources; broader prose editorial synthesis not line-by-line verified",
+  "sources": [
+    {
+      "institution": "National Research Institute of Cultural Heritage",
+      "title": "무령왕릉 지석 — Inscription from King Muryeong’s Tomb",
+      "url": "https://portal.nrich.go.kr/kor/ksmUsrView.do?ksm_idx=2554&menuIdx=584",
+      "role": "Primary inscription and archaeological context; dates of death and burial"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Archaeological chronology and registered site descriptions, 475–660 CE"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Baekje Historic Areas of World Heritage exhibition",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=113856&listType=list&menuId=past&schM=view",
+      "role": "Gongju, Buyeo, Iksan sites and 475–660 chronology"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.2.8:b01",
+      "title": "The tomb that gave the king a date",
+      "paragraphs": [
+        "A vast part of early Korean history survives as a negotiation between the names in chronicles and the objects in excavated earth. The tomb of King Muryeong brought those two forms of knowledge unusually close. Discovered in the Songsan-ri tomb area during drainage work in 1971, it contained inscribed stone records naming the royal occupants and recording their funerary chronology. For the king, the inscription preserves a death date in 523 and burial in 525. The queen's records describe her death and subsequent interment on a separate schedule. These inscriptions do not merely confirm an identification. They allow archaeologists to associate a large assemblage of objects with a comparatively secure moment, turning craft style and funerary choice into dated historical evidence. The achievement is significant precisely because so many ancient tombs lack named inscriptions or were looted before modern investigation. We can study Muryeong not simply as another ruler in a list but as a person whose burial received a carefully designed material and textual treatment. Yet the inscription was created by an elite funerary establishment with its own conventions; it is not an unfiltered portrait of the society outside the tomb."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The tomb of King Muryeong was discovered in 1971 with name-bearing stone inscriptions",
+          "sourceIndex": 0,
+          "locator": "NRICH inscription entry, overview of 1971 discovery and finds",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.2.8:b02",
+      "title": "A king between uncertainty and reconstruction",
+      "paragraphs": [
+        "Muryeong's reign, conventionally dated 501–523, sits within Baekje's recovery from the late fifth-century crisis. By his accession the monarchy had survived the loss of Hanseong, but the political terms of survival had involved dependence on powerful regional and court actors. Strengthening royal authority required more than declaring the king supreme. Officials needed reliable routes for orders and resources, aristocratic factions had to see some benefit in cooperation, and the court had to maintain allies in an uncertain external environment. Later historical accounts credit the monarchy with efforts to strengthen territorial administration, including the dispatch of royal representatives to regional centers. The precise operation and chronology of each institution require care, but the direction of the historical problem is clear. A dispersed political order needed credible connections to a king located at Ungjin. The tomb's wealth cannot by itself demonstrate that administrative problems were solved. It does reveal the ambition to present royal government as enduring, cultivated, and capable of commanding extraordinary resources."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.2.8:b03",
+      "title": "The inscription as a document",
+      "paragraphs": [
+        "The stones recovered from the tomb are often discussed as funerary epitaphs and land-purchase documents. Their terse classical Chinese text records dates and presents the royal burial through a ritualized transaction with the spirit world. The inscriptions are primary sources, yet their words require interpretation within funerary custom and the Chinese writing culture available to Baekje elites. A statement that land was purchased for a burial should not be read as a modern deed proving ownership through ordinary civil law. It tells us how a particular elite ritual described the relationship between human burial and spiritual space. Scholars also debate details of mortuary procedure, including the precise force of expressions describing mourning and reburial. Readers can legitimately learn the securely attested deaths and burials without pretending that every phrase has one uncontroversial interpretation. This is a model for historical reading more broadly: the closer we get to a source, the more precisely we can say what its text contains, and the more carefully we should distinguish that from an account of surrounding practice."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The inscription records Muryeong’s death in 523 and burial in 525",
+          "sourceIndex": 0,
+          "locator": "NRICH king inscription, death and burial date translation",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.2.8:b04",
+      "title": "The chamber and its builders",
+      "paragraphs": [
+        "The tomb's brick chamber and associated objects connect Muryeong's court with the material and architectural world of southern China. Similarities in construction techniques and funerary forms are evidence of contact and cultural selection. They do not reduce Baekje craftsmanship to imitation. Organizing a royal burial demanded planning, materials, skilled workers, ritual specialists, and a court able to coordinate them over time. Its sophistication also depended on labor that is seldom named. The people who cut materials, carried bricks, prepared wooden furnishings, or fashioned ornaments remain largely invisible in the written record. Archaeological analysis can identify techniques and sometimes places of origin more confidently than individual makers. A respectful narrative should resist inventing biographies to fill that silence. Instead we can describe a system of specialist knowledge moving through a kingdom that was becoming increasingly confident of its international connections. The result was a royal space that displayed status while also becoming an inadvertent archive for historians many centuries later."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "The tomb’s brick chamber and related grave goods show southern Chinese influences",
+          "sourceIndex": 0,
+          "locator": "NRICH archaeological description of brick chamber and furnishings",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.2.8:b05",
+      "title": "Objects in more than one style",
+      "paragraphs": [
+        "The objects from Muryeong's tomb are famous for fine metalwork and their suggestions of far-reaching exchange. Ornament, timber, ceramics, and ritual fittings show that the court participated in networks broader than the Geum basin. But a decorative element resembling a motif from another region does not identify its maker's birthplace or prove direct diplomatic contact with every place in which that motif appeared. Designs travel through multiple intermediaries and can be transformed along the way. A piece of wood may have a provenance distinguishable from the site where its coffin was assembled. A glass bead's technical history is different again. Each object must be studied through its material, context, manufacturing method, and comparative examples. The broader lesson is that Baekje was neither isolated nor passively absorbing an undifferentiated foreign civilization. Its royal funerary assemblage combined local choices with forms circulating in a dynamic East Asian network. What we see in the tomb is a curated display of high status; the rest of the society cannot be inferred by scaling that display downward."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "III.2.8:b06",
+      "title": "The court seen through absence",
+      "paragraphs": [
+        "A royal tomb is rich in some kinds of evidence and poor in others. It can show that precious objects were concentrated at the top of society but not the precise distribution of land among rural households. It can reveal sophisticated craftsmanship but not average wages, nutrition, or life expectancy. It can preserve a funerary chronology but not the full transcript of a court debate. This asymmetry matters because Muryeong's reputation as a restorer of Baekje strength can tempt us to use the burial as proof of administrative transformation. The inference is possible only as one element in a larger argument. Written notices about territorial government, diplomacy, and the king's military interests have to be considered beside archaeology, while each retains its limitations. The dazzling objects become more historically interesting when they are allowed to remain specific objects in a particular ritual setting. They offer strong evidence of elite resources and cross-regional culture, not a universal measure of national prosperity."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "III.2.8:b07",
+      "title": "Foreign courts and the circulation of recognition",
+      "paragraphs": [
+        "Muryeong's monarchy operated within a world where rulers sought diplomatic recognition from courts across the Yellow Sea and maintained relations with neighboring polities. These connections were useful to a dynasty that needed to demonstrate continuing status after a severe military defeat. Court-to-court exchange carried ceremonial expectations, but also opportunities for artistic and technical contact. Titles and gifts in the chronicles can seem remote from the material record of a brick tomb until we recognize that both formed part of an elite political language. The same court that communicated its place in a wider order might choose objects and architectural forms expressing participation in that order. Such a connection is interpretive, not proof that a particular embassy caused a particular design choice. It helps frame the early sixth century as a phase of deliberate political presentation. A capital beside a river could project claims beyond its immediate defensive position by sending and receiving people, letters, and prestige objects."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "III.2.8:b08",
+      "title": "When recovery becomes remembered history",
+      "paragraphs": [
+        "The centuries between Muryeong's burial and modern historical scholarship changed how his reign was understood. Chronicles and later histories placed him within a sequence of royal reform and territorial struggle. Modern excavation supplied a powerful counterweight: a material complex with inscriptions capable of checking at least some names and dates. The tomb also entered heritage culture, museum display, education, and debates about cultural exchange. There is a risk that a spectacular discovery may dominate its period so completely that less glamorous sites and communities disappear from view. To avoid that risk, we should return repeatedly to the wider network of settlements, agricultural areas, and coastal routes upon which the royal world depended. The king's funeral was a concentrated political performance; the successful maintenance of government required activity beyond the chamber walls. Muryeong matters in both capacities, as an identifiable ruler and as the center of evidence for a larger and only partly recovered society."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "III.2.8:b09",
+      "title": "The question of successors",
+      "paragraphs": [
+        "Muryeong's successor Seong inherited a monarchy with more resources for statecraft than the court in 475 had possessed. That inheritance did not predetermine what came next. Seong would undertake a new capital relocation to Sabi in 538, giving different form to the project of royal centralization. The existence of Muryeong's well-furnished tomb does not explain why such a move became possible, but it fits a pattern of renewed elite confidence and cross-regional ties. The challenge for the historian is to trace what changed between an emergency capital and a planned political center. How were roads and fiscal obligations organized? Which aristocratic partners still mattered? How did military competition encourage or constrain administrative reform? We have limited answers to many of these questions. The fact that they remain open is not a reason to abandon historical narrative, but a reason to mark the boundary between material evidence and plausible reconstruction."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "III.2.8:b10",
+      "title": "An unusually firm point in an uncertain story",
+      "paragraphs": [
+        "Muryeong's tomb gives us a rare place to stand securely in Baekje chronology. The king died in 523; the funerary inscriptions and archaeological context place the royal burial in a framework that can be cross-checked against other evidence. Around that secure point lie broader interpretations of recovery, kingship, social hierarchy, and international exchange. Confidence should vary accordingly. We can be firmer about inscriptions and their recorded dates than about the everyday intentions of a distant courtier. We can be confident that a wealthy burial mobilized remarkable craftsmanship without assuming that every rural household enjoyed the benefits of recovery. The tomb is valuable not because it eliminates uncertainty but because it teaches how different layers of certainty can coexist. It is both the memorial of a specific royal household and an unusually powerful instrument for reconstructing a sixth-century kingdom."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "III.2.8:b11",
+      "title": "The inscription and the craft of exactness",
+      "paragraphs": [
+        "The royal stone inscription is especially useful for teaching the difference between an observation and an inference. A researcher can inspect the text, identify the names and calendrical information it records, and compare those features with its archaeological setting. That is one kind of statement. The claim that the inscription reveals a unified political ideology across all Baekje society is quite another; it would demand additional evidence. Even descriptions of the funerary sequence require attention to how classical expressions were used in comparable documents. The authority of a primary source does not make every modern paraphrase equally secure. Some aspects of the Muryeong burial have been debated because an epitaph is a compact ritual text, not a modern report written to settle our questions. This is why a collection of clearly specified institutional references matters more than attaching a prestigious museum name to a broad essay. Evidence should show exactly which assertion rests on which feature of the find, and the reader should be able to trace that claim outward to the primary text."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    },
+    {
+      "id": "III.2.8:b12",
+      "title": "A royal body and a changing historical discipline",
+      "paragraphs": [
+        "The 1971 discovery became a defining event not simply because of the objects recovered but because an intact context could be documented systematically. Archaeology changes with its methods: recording techniques, conservation practices, and scientific analysis all shape what later scholars can ask of an assemblage. A buried chamber becomes a historical archive only when its relationships are carefully preserved in notes, drawings, photographs, and collections. Later research can return to the finds to investigate materials, technology, or exchange more precisely than the first excavation team could. Museums make that work visible to a broad public, but display choices inevitably emphasize some objects over others. The striking ornament may draw attention while the less dramatic ceramic or wooden component carries equally useful chronological information. This dynamic places responsibility on both writer and reader. We should admire the craftsmanship without confusing spectacle with evidence, and we should read the epitaph's dates as secure points without granting its silence the power to answer questions it never addressed."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 12
+    },
+    {
+      "id": "III.2.8:b13",
+      "title": "Dating objects without dating every institution",
+      "paragraphs": [
+        "Muryeong's inscriptions transform the evidentiary value of objects recovered in the same undisturbed chamber. Archaeologists can place a distinctive item within a constrained funerary sequence, compare its technique with objects excavated elsewhere, and propose networks of production with more chronological discipline. This does not mean that all comparable objects were made in the same year or that a single stylistic form was confined to one kingdom. Artisans learned, repeated, altered, and transmitted techniques over generations. Dating requires context, not visual resemblance alone. The lesson extends to government: a richly furnished tomb is strong testimony to the court's prestige and access to skilled production, but its date cannot by itself identify when a rank system, tax arrangement, or provincial reform was first established. The tomb offers a firm anchor for a carefully delimited set of facts. A compelling history gains credibility by refusing to fasten every nearby conjecture to that one secure anchor."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 13
+    }
+  ]
+}

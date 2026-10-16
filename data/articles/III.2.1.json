@@ -1,0 +1,137 @@
+{
+  "id": "III.2.1",
+  "title": "Baekje at the Beginning of the Fourth Century",
+  "kicker": "IN-DEPTH HISTORY",
+  "description": "Original historical synthesis with explicitly identified institutional and primary-source anchors; interpretations have not been independently peer-reviewed.",
+  "release": "I",
+  "sourceStatus": "Selective primary and institutional sources; broader prose editorial synthesis not line-by-line verified",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje royal palaces and Hanseong–Ungjin transition (한국문화사)",
+      "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_039_0070_0020_0010_0020_0020&whereStr=",
+      "role": "475 Hanseong collapse, 475–538 Gongju palace context"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Archaeological chronology and registered site descriptions, 475–660 CE"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical textbooks: Baekje and the fourth-century northern campaigns",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_p61_0050_0010_0040",
+      "role": "Later historical teaching account of Geunchogo’s 371 campaign; chronology contextual not a contemporary report"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.2.1:b01",
+      "title": "The fourth century as a problem of scale",
+      "paragraphs": [
+        "A river does not announce when the settlements on its banks have become a kingdom. In the fourth century, communities around the Han basin could move along waterways, exchange agricultural produce, draw on nearby hills for timber and stone, and communicate with coastal ports. These advantages supplied the material setting for Baekje's political expansion. But a river corridor is not a finished state. Every larger claim to authority had to be made real in households that furnished labor, communities that recognized officials, and ambitious families who might obey the royal court today while pursuing their own bargains tomorrow. Reading Baekje at the beginning of this century therefore requires attention to the interval between the king recorded in later histories and the social structures that made kingship effective. The chronicles supply reigns and campaigns; archaeology supplies foundations, pottery, burial distributions, and the changing scale of construction. The two bodies of evidence illuminate each other without answering the same questions. A wall demonstrates organized work and some capacity to mobilize resources. It does not by itself tell us how a tax demand was negotiated or what a farmer thought about the court. That gap is not an invitation to invent ordinary speech. It is a reason to hold political narrative beside the quieter traces of life."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "III.2.1:b02",
+      "title": "A capital landscape rather than a dot on a map",
+      "paragraphs": [
+        "Hanseong, Baekje's early capital region, is often reduced to a point near today's Seoul. The lived landscape was considerably more complicated. River branches, terraces, crossings, routes toward the coast, and defensible elevations determined how people and supplies might circulate. Fortified sites now associated with early Baekje remind us that political centers contained spaces for residence, storage, administration, and display, not merely barracks preparing for war. An enormous earthwork had to be maintained after the day it was constructed. Water had to be obtained, food moved, buildings repaired, and large gatherings supplied. Controlling a central enclosure meant something only if roads and boats continued to connect it to the countryside. Yet archaeology does not preserve a single complete map of every royal building or household within that urban region. Even apparently clear identifications of capital structures have histories of excavation and scholarly disagreement. The most useful picture combines secure material features with modest claims about what they may have enabled. A court based beside the Han could communicate in more than one direction: upstream to interior communities, downstream toward the sea, and overland into the southern peninsula. This geographic position helps explain opportunity, not an inevitable political destiny."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.2.1:b03",
+      "title": "Sources that remember victory",
+      "paragraphs": [
+        "Later Korean histories organize the fourth century around named rulers and decisive campaigns. King Geunchogo becomes a pivotal figure because the traditions associate his reign with a particularly forceful expansion of Baekje power. Such accounts matter; without them many political sequences would be nearly invisible. Yet these narratives were written and transmitted long after the earliest actions they report. Their chronology, terminology, and emphasis have passed through political cultures with their own questions about legitimacy and good government. A later record of a victory is evidence for a remembered claim and may preserve an event; it is not a contemporary field report that can be read without interpretation. The distinction is especially important when modern maps depict broad territorial blocks with crisp borders. A kingdom's influence might be felt through tribute, marriage, garrisons, alliances, or local authorities that remained powerful in their own right. Those arrangements did not necessarily leave a straight frontier. To tell the story as an advancing colored shape is to lose the negotiations through which royal expansion became sustainable. Political power was measured not only by how far an army marched but by what could still be governed after it returned."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "III.2.1:b04",
+      "title": "Rich districts and uneven dependence",
+      "paragraphs": [
+        "The agricultural resources of the western and southwestern peninsula loom large in accounts of Baekje's rise. Grain, craft production, ironworking, and access to exchange routes could support a court more complex than the communities from which it grew. It is tempting to translate economic abundance directly into an automatic supply of soldiers and weapons. Such a translation hides the difficult middle step: an elite had to persuade or compel others to part with produce, labor, materials, and time. Regional families would have controlled different shares of those resources and had different reasons to cooperate. What later appears as an integrated kingdom may have contained several layers of obligation, with direct royal supervision at the center and looser terms toward outer districts. Geography created contrasts within the realm as well. River flats, cultivated valleys, mountain routes, and littoral settlements did not face identical agricultural seasons or transport costs. A good harvest near the capital could not erase shortage elsewhere. The strength of a political center rested partly on its ability to manage these uneven demands. This is a broader interpretation of state formation rather than a quantified fourth-century fiscal account; reliable figures for the ordinary Baekje household do not survive."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "III.2.1:b05",
+      "title": "Neighbors in an interconnected peninsula",
+      "paragraphs": [
+        "Baekje's growth cannot be separated from Goguryeo, the remaining networks of the former commandery world, southern polities, and the expanding Silla kingdom. Diplomatic choices emerged from this competitive geography. The court might seek recognition from a Chinese dynasty, exchange goods with archipelago communities, or align with one neighbor against another without committing to a permanent friendship. Historical relationships were dynamic, and the categories used by modern textbooks should not obscure that fact. A relationship described as an alliance could encompass unequal contributions, personal pledges, economic exchange, and repeated revision. A conflict with Goguryeo might alter access to a corridor or the standing of Baekje's royal house well before it altered every village's daily life. Eastern and southern communities watched these contests with interests that cannot simply be equated with any one capital's aspirations. The peninsular political order was a changing field of opportunities and dangers. That is why the same region can appear in historical narratives as frontier, homeland, diplomatic prize, and supply route depending on who is speaking."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "III.2.1:b06",
+      "title": "Royal stories and workaday histories",
+      "paragraphs": [
+        "It is possible to imagine the logistical consequences of a more ambitious court without claiming to reconstruct a particular historical family's day. Officials needed means to count resources; households needed to anticipate demands; artisans who produced military equipment or prestigious gifts needed materials and patrons. The actual degree of standardization is far less certain than the general importance of these activities. Royal history gives us concentrated moments: an accession, a campaign, a diplomatic audience. Social history asks what happened between those moments. How did agricultural families respond to extended requisitions? How long would an exchange route remain attractive in a year of insecurity? Could a community profit by positioning itself between competing centers? These questions turn apparently peripheral villages into necessary parts of the story. They also help explain why archaeological evidence is indispensable. Pottery distributions, fortified sites, craft residues, and settlement patterns can challenge a story constructed only from royal names. A kingdom is sustained through recurring actions, not through an annal's summary alone."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "III.2.1:b07",
+      "title": "The northern horizon",
+      "paragraphs": [
+        "Fourth-century Baekje reached toward a world where Goguryeo increasingly asserted itself in the northern peninsula. Historians commonly emphasize a major clash in 371, when Goguryeo's King Gogukwon died during Baekje's northern offensive. The event mattered because royal death and battlefield humiliation could alter legitimacy and strategic expectations far beyond the immediate location of fighting. But assigning every later change to that single encounter would distort the history. Political ascendancy required subsequent decisions about defenses, partnerships, personnel, and the costs of holding influence. For Goguryeo, the defeat belonged to its own narrative of crisis and reconstruction. For Baekje, it could be remembered as proof of military effectiveness and an argument for the court's authority. These interpretations were not necessarily shared by the agricultural and trading communities whose routes became unsafe or advantageous. The late fourth-century balance was a sequence of adjustments rather than a durable settlement. The following centuries would expose how vulnerable a court could become when a once-favorable landscape ceased to provide secure protection."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "The early expansion tradition includes a 371 battle in which Goguryeo king Gogukwon died",
+          "sourceIndex": 2,
+          "locator": "NIHK historical textbook narrative, Geunchogo paragraph; later retrospective account",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.2.1:b08",
+      "title": "Commerce without a single direction",
+      "paragraphs": [
+        "A western capital also faced outward toward maritime routes. The sea was neither a clear boundary nor an empty highway. Voyages depended on knowledge of tides, seasonal winds, harbors, safe stopping points, and relationships between those who traveled and those who received them. Gifts and useful goods could move through the same channels that carried religious ideas, writing practices, political information, and artisans' techniques. But finding a foreign-style object in one grave does not identify the nationality of the person who carried it, much less prove a permanent colony or political dependency. Commercial and diplomatic systems overlap without being identical. We can see the importance of contact without assuming that every exchange was commanded by the Baekje palace. Independent networks and intermediaries likely helped connect court initiatives with movement on the ground. When later histories emphasize famous missions, they make the visible apex of a system that also required shipbuilders, interpreters, guides, merchants, and the labor of ordinary producers. The exact human composition of those routes remains harder to recover than their general existence."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "III.2.1:b09",
+      "title": "How much state existed already?",
+      "paragraphs": [
+        "Modern readers expect a fourth-century state to have uniform offices, provincial boundaries, revenue schedules, and a court that can summon forces on command. The degree to which Baekje possessed each element at every moment must be established, not assumed. Some administrative ideas may be visible in later descriptions of institutions but could have taken generations to develop. Elite burials show rank and unequal access to resources without listing all formal powers. Fortifications imply collective labor but do not show how authority was distributed within the workforce. A court able to lead a powerful expedition could still depend on regional partners for supplies and obedience. Distinguishing political capability from bureaucracy is particularly important here. Rather than judge early Baekje by whether it resembled a much later centralized kingdom, we can identify the capacities it demonstrably sought: concentration of leadership, ability to coordinate armies and public works, and communication with distant polities. The evidence supports a history of increasing scale, but it does not authorize a single institutional blueprint projected backward from mature Baekje."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "III.2.1:b10",
+      "title": "Standing at the beginning",
+      "paragraphs": [
+        "At the beginning of the fourth century, Baekje's future was not guaranteed. Its riverine setting gave it possibilities, not immunity from rival kingdoms, internal competition, or changing regional arrangements. Some achievements would be recorded as victories; others would survive as earthworks, graves, imported ceramics, and altered settlement patterns. Together they form a kingdom in motion. The reader should leave this opening chapter with a set of questions rather than a finished national legend. What distinguishes a fortified capital from a political center that can endure? How could a court incorporate powerful regional lineages without surrendering authority to them? Why did the same river landscape make Baekje prosperous and eventually make Hanseong a strategic target? And how did maritime contact alter a kingdom whose great political choices were also made on inland battlefields? The next nine subjects trace these problems through expansion, diplomacy, catastrophe, recovery, and an ultimately unsuccessful effort to preserve independence. Each is a stage in the history of institutions and people, not a chapter in a predetermined rise-and-fall story."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "III.2.1:b11",
+      "title": "A kingdom of more than one history",
+      "paragraphs": [
+        "The problem of describing Baekje's early expansion is also a problem of whose history is counted. A chronicle may follow a succession of kings and classify nearby communities by their relationship to the capital. Material evidence offers a less obedient landscape: local burials retain distinctive forms, production techniques do not change at the same pace everywhere, and a river network can sustain many intersecting interests. The term kingdom should not make us imagine the instantaneous disappearance of such differences. Communities could participate in larger political arrangements without abandoning all their customs, and elites could express loyalty to a king while guarding hereditary prestige. This makes the fourth century an especially important starting point for later chapters about diplomacy and state formation. Baekje's growing resources depended on a countryside that could not be reduced to a passive background. Its foreign initiatives depended on travelers and interpreters the sources rarely name. Its northern campaigns depended on military networks capable of crossing a difficult and contested region. A larger Baekje was consequently a more complicated Baekje, and that complexity created new sources of strength and vulnerability at the same time."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    }
+  ]
+}

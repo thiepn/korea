@@ -1,0 +1,59 @@
+{
+  "id": "III.2.3",
+  "title": "Hanseong Baekje: Capital, Court, and Political Order",
+  "kicker": "BAEKJE: COMPLETE CHAPTER",
+  "description": "Original historical synthesis with explicitly identified institutional and primary-source anchors; interpretations have not been independently peer-reviewed.",
+  "release": "I",
+  "sourceStatus": "Selective primary and institutional sources; broader prose editorial synthesis not line-by-line verified",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje royal palaces and Hanseong–Ungjin transition (한국문화사)",
+      "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_039_0070_0020_0010_0020_0020&whereStr=",
+      "role": "475 Hanseong collapse, 475–538 Gongju palace context"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Baekje Historic Areas of World Heritage exhibition",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=113856&listType=list&menuId=past&schM=view",
+      "role": "Gongju, Buyeo, Iksan sites and 475–660 chronology"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.2.3:b01",
+      "title": "The court within a defended landscape",
+      "paragraphs": [
+        "Hanseong Baekje was not simply a royal household surrounded by huts. Fortified spaces, administrative gathering places, waterways, agricultural hinterlands, and roads were all implicated in the exercise of authority. Archaeological work at Pungnap and Mongchon has made early Baekje's capital region much more tangible, yet surviving walls must not be made to answer questions they cannot resolve. They demonstrate substantial construction and urban organization without preserving a complete schedule of court business. What mattered was the relationship between an enclosed political center and people who supplied it. Offices and aristocratic households needed food, craft products, building materials, and labor. Roads brought information inward and demands outward. A royal compound might display ceremony and hierarchy, while nearby workshops exposed the material requirements of prestige. The social meaning of Hanseong lay in these connections, not merely in the location of a palace on a modern archaeological plan."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The Hanseong capital zone included major earthworks and a river-linked administrative landscape",
+          "sourceIndex": 0,
+          "locator": "NIHK palace history, early Baekje capital descriptions and Pungnap discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.2.3:b02",
+      "title": "Rank as a political language",
+      "paragraphs": [
+        "Baekje's early elite order is often described in later sources using ranked officials and a kingdom headed by a strong monarch. Those sources were shaped by practices familiar to their compilers. We should be cautious about assuming that an elaborate system existed unchanged across centuries. Rank could mean privileged access to the king, authority over troops, legal precedence, distinctive clothing, or family reputation; these attributes did not always coincide. A court must make differences visible if ambitious elites are to accept its distribution of rewards. Ceremonial seating, gifts, marriages, and recognized offices were possible instruments. Yet any model of court life must allow local aristocrats bargaining power and the danger of exclusion. Hanseong's political world was a competitive one in which the crown's success could intensify struggles over the very resources royal power created."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.2.3:b03",
+      "title": "Architecture and political memory",
+      "paragraphs": [
+        "A wall is rebuilt, a building changes its use, and the next generation may still describe the site as ancestral. Political capitals acquire memory as much as masonry. The Han basin supplied a landscape where court claims could be enacted through repetitive public practice: audiences, ceremonies, levies, receptions of envoys, and funerary commemorations. These activities are interpretive possibilities rather than a reconstructed calendar for a particular reign. What is secure is the broad connection between large-scale construction, elite display, and the growth of a political center. Readers should distinguish the archaeological record of a place from the much later narration of its kings. That distinction becomes especially important when the capital falls in 475. A city that had concentrated wealth and meaning for generations would leave behind more than a defeated garrison. Losing Hanseong was also losing a visible center of political legitimacy."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}
