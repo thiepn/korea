@@ -1,0 +1,68 @@
+{
+  "id": "V.1.9",
+  "title": "Gaegyeong, Seogyeong, and the Geography of Dynastic Legitimacy",
+  "kicker": "EARLY GORYEO · TENTH-CENTURY STATE FORMATION",
+  "description": "Original historical account of governing, reform and society in early Goryeo.",
+  "release": "N",
+  "sourceStatus": "Original editorial synthesis with selected Korean-language primary-text anchors and secondary research; later compilations are distinguished from tenth-century testimony.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "태조 (Taejo of Goryeo)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0059032",
+      "role": "Secondary historical reference; reign dates and royal strategy are contextual, not eyewitness testimony"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 12: 고려 왕조의 성립과 발전",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_012_0030_0010_0020_0050",
+      "role": "Institutional synthesis of the early dynasty and its local political foundations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.1.9:b01",
+      "title": "Two cities, several possible identities",
+      "paragraphs": [
+        "Gaegyeong and Seogyeong were not just administrative labels. Their relationship expressed the dynasty's challenge of making its capital a convincing center while also honoring traditions of northern power and Goguryeo succession. Gaegyeong grew from Wang Geon's own regional environment and served as the court's main political seat. Seogyeong offered a different geography, with associations that could be mobilized in arguments about history, sacred landscape, and border strategy. The two centers enabled rulers to imagine a realm whose center of gravity was not confined to the city in which a monarch ordinarily held court. Political geography was thus also an argument about the past and about the future."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Taejo’s founding strategy connected Gaegyeong with northern political ambitions and later Seogyeong policy.",
+          "sourceIndex": 0,
+          "locator": "태조 주요 활동 / 북진 정책과 지방 관계",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.1.9:b02",
+      "title": "A capital needs carriers and workers",
+      "paragraphs": [
+        "A royal center depended on a steady movement of goods and people. Food, fuel, building materials, horses, envoys and official documents had to reach it. The demand imposed costs on surrounding communities and on those managing transport. Royal building projects could be statements of magnificence while also requiring skilled artisans and laborers who rarely appear by name in court narratives. To read a capital's history only through its palaces is to miss its logistics. An administrative center could also develop markets, religious patronage, educational institutions and patterns of residence that gave it social weight beyond the palace. The state generated economic opportunities even as it extracted resources."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.1.9:b03",
+      "title": "The northern city as memory and strategy",
+      "paragraphs": [
+        "Seogyeong's place in the dynasty's imagination was shaped by more than military calculation. An inherited tradition about sacred landscape or earlier kingdoms could make the city symbolically essential even when a king did not move the court there. Northern roads, garrisons and diplomatic horizons made the matter practical as well. Jeongjong's reported interest in developing the northern center suggests a ruler could use geography to answer anxieties about succession and legitimacy. Yet not every later statement about the city's destined importance can be treated as a direct reflection of tenth-century motives. Cultural memory accumulates around a place and can give earlier decisions meanings that their authors did not specify."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "V.1.9:b04",
+      "title": "Distance defines experience of the monarchy",
+      "paragraphs": [
+        "Residents nearer Gaegyeong might meet officials, soldiers and court demand more often than those in remote provinces. A regional strongman could use the symbolic authority of the capital while protecting considerable autonomy in a particular valley. The crown's ability to move a document was not equivalent to its ability to enforce one. Geography helps explain why a system of offices, roads, provincial centers and local brokers grew together. Later conflicts surrounding Seogyeong show that questions about the proper center of the realm could remain politically explosive. The early foundations matter because they provided a vocabulary of multiple centers that subsequent generations repeatedly reinterpreted."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

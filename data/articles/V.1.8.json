@@ -1,0 +1,62 @@
+{
+  "id": "V.1.8",
+  "title": "Regional Strongmen, Local Autonomy, and the Early Centralization Bargain",
+  "kicker": "EARLY GORYEO · TENTH-CENTURY STATE FORMATION",
+  "description": "Original historical account of governing, reform and society in early Goryeo.",
+  "release": "N",
+  "sourceStatus": "Original editorial synthesis with selected Korean-language primary-text anchors and secondary research; later compilations are distinguished from tenth-century testimony.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 12: 고려 왕조의 성립과 발전",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_012_0030_0010_0020_0050",
+      "role": "Institutional synthesis of the early dynasty and its local political foundations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.1.8:b01",
+      "title": "The court depended on people it hoped to restrain",
+      "paragraphs": [
+        "The word *hojok* is often translated as regional strongmen, but it does not describe a uniform class with identical origins or powers. Some leaders had cultivated military authority in the late Silla world; others relied upon kin networks, control of exchange routes, temples, or local administrative experience. Their influence might be deeply rooted in one region while barely recognized in another. After 936, the royal government could hardly disregard them: it needed local knowledge to collect revenues, settle disputes, and mobilize transport. A court decree written in Gaegyeong became effective when people somewhere else chose, or were made, to enact it. Early centralization was therefore a bargain between the need for cooperation and the monarchy's fear of autonomous power."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "V.1.8:b02",
+      "title": "Marriage, hostages, and recognition",
+      "paragraphs": [
+        "Taejo's alliances included royal marriages and arrangements through which regional leaders gained recognized positions. Later descriptions of the *sasim-gwan* and *giin* institutions connect local affiliation and the presence of people associated with regional families at the center. These arrangements can be interpreted as attempts to make powerful relationships visible and manageable. They should not all be flattened into a single program of hostage-taking: institutions developed over time and could combine honor, obligation, and constraint. For the families concerned, a young relative's residence near the court might create opportunities while also limiting freedom. The historical record often tells us the institutional purpose more directly than the emotions of the person required to serve it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "The early Goryeo monarchy employed regional alliances and court-local institutions in integrating powerful provincial families.",
+          "sourceIndex": 0,
+          "locator": "고려의 건국과 호족: 대호족정책, 호족의 동향",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.1.8:b03",
+      "title": "Local administration was an encounter",
+      "paragraphs": [
+        "If a newly appointed official arrived at a regional center, he did not encounter blank registers and obedient subjects waiting to be categorized. Local people had knowledge of fields, obligations, customary practices, and political feuds. Scribes, brokers, and wealthy houses could decide which information reached the newcomer. Central authority developed through alliances and disputes over such knowledge. The appointment of governors could provide some subjects a route around overbearing local elites; it could also bring new taxation or discipline. This unevenness makes the history more interesting than a simple victory of modern-seeming administration over feudal disorder. Both centralized and local power could be protective, self-interested, and coercive in different circumstances."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "V.1.8:b04",
+      "title": "What changed over the long tenth century",
+      "paragraphs": [
+        "Gwangjong's slave-status investigations and new examinations challenged particular forms of inherited influence. Seongjong's provincial centers and learned administration extended the court's institutional reach. Neither erased the local foundations of politics. Earlier households adapted by seeking official careers, investing in education, or translating regional standing into bureaucratic rank. The Goryeo state gradually obtained stronger ways to speak through records and offices, while local intermediaries remained necessary to realize its purposes. Consolidation is best understood as a changing relationship between centers and regions, not the sudden extinction of the regional world that made dynastic unification possible in the first place."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

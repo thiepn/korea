@@ -315,12 +315,68 @@
       "detail": "Wang Geon's successors face the enduring challenge of connecting regional powers to one court."
     },
     {
+      "date": "943–949",
+      "year": 943,
+      "era": "V",
+      "id": "V.1.3",
+      "title": "The founder’s heirs struggle for stable succession",
+      "detail": "Short reigns and contested ties to powerful families reveal the fragility of a court assembled through marriage and regional bargaining."
+    },
+    {
+      "date": "956",
+      "year": 956,
+      "era": "V",
+      "id": "V.1.4",
+      "title": "Gwangjong inspects claims of servile status",
+      "detail": "The royal review of enslavement reaches deep into household power; later records disagree over its fairness and political consequences."
+    },
+    {
       "date": "958",
       "year": 958,
       "era": "V",
       "id": "V.2.5",
       "title": "Recruiting officials by examination",
       "detail": "The court adds a learned pathway into office within a society of unequal resources."
+    },
+    {
+      "date": "958",
+      "year": 958,
+      "era": "V",
+      "id": "V.1.5",
+      "title": "Gwangjong begins civil service examinations",
+      "detail": "A formal path to official rank based on assessed learning joins older networks of family standing and personal recommendation."
+    },
+    {
+      "date": "976",
+      "year": 976,
+      "era": "V",
+      "id": "V.1.6",
+      "title": "Gyeongjong establishes the first jeonsigwa scheme",
+      "detail": "Early rules governing allocations of agricultural and woodland revenue link service, rank, and the court’s claim to define legitimate rewards."
+    },
+    {
+      "date": "982",
+      "year": 982,
+      "era": "V",
+      "id": "V.1.7",
+      "title": "Choe Seung-ro submits policy advice to Seongjong",
+      "detail": "His historical assessments and surviving proposals debate extravagance, local government, office, and royal responsibility."
+    },
+    {
+      "date": "983",
+      "year": 983,
+      "era": "V",
+      "id": "V.1.8",
+      "title": "Seongjong extends royal reach through twelve mok",
+      "detail": "The court’s appointed provincial centers mark a turn toward regular administration, without ending reliance on regional intermediaries."
+    },
+    {
+      "date": "993",
+      "year": 993,
+      "era": "V",
+      "id": "V.1.10",
+      "title": "Grain stabilization becomes a policy of rule",
+      "detail": "The transmitted *Goryeosa* notice describes stores at capitals and regional centers, joining fiscal technique to claims of public welfare."
     },
     {
       "date": "Goryeo period",
@@ -1351,6 +1407,61 @@
       "from": "VII.5.9",
       "to": "X.4.3",
       "why": "Later medical institutions and household care invite comparison with modern health systems while avoiding anachronistic diagnosis."
+    },
+    {
+      "from": "V.1.1",
+      "to": "III.3.10",
+      "why": "The way Silla’s earlier political order was negotiated into a new kingdom shows why 936 was a political beginning, not a uniform administrative endpoint."
+    },
+    {
+      "from": "V.1.1",
+      "to": "V.1.2",
+      "why": "Taejo’s marriage diplomacy was one tool for translating military victory into a settlement powerful regional families could accept."
+    },
+    {
+      "from": "V.1.3",
+      "to": "V.1.4",
+      "why": "The succession crisis made the political significance of Gwangjong’s institutional and coercive reforms particularly acute."
+    },
+    {
+      "from": "V.1.4",
+      "to": "II.1.6",
+      "why": "Early Goryeo disputes about royal classification of dependent people invite comparison with earlier states’ uncertain elite authority."
+    },
+    {
+      "from": "V.1.4",
+      "to": "V.1.5",
+      "why": "Status investigations and examinations approached the monarchy’s competition with entrenched household influence by different institutional routes."
+    },
+    {
+      "from": "V.1.6",
+      "to": "IV.3.2",
+      "why": "Early Goryeo land-revenue entitlements can be compared with Silla landholding, without assuming identical ownership or taxation systems."
+    },
+    {
+      "from": "V.1.7",
+      "to": "V.1.8",
+      "why": "Seongjong’s reform advice and appointed provincial officials connect ideals of learned governance to the practical limits of local reach."
+    },
+    {
+      "from": "V.1.7",
+      "to": "VI.1.4",
+      "why": "Choe Seung-ro’s arguments about responsible government can be studied beside Jeong Do-jeon’s later founding constitutional vision."
+    },
+    {
+      "from": "V.1.9",
+      "to": "VI.1.3",
+      "why": "The political geography of Gaegyeong and Seogyeong offers a contrast with Joseon’s later contested selection and building of Hanyang."
+    },
+    {
+      "from": "V.1.10",
+      "to": "VII.5.5",
+      "why": "A tenth-century monarchy’s fiscal claims are a distant counterpart to the labor and material obligations that supported later households."
+    },
+    {
+      "from": "V.1.7",
+      "to": "V.2.3",
+      "why": "Provincial and central offices developed together: ideals of government became durable only when staffed, recorded and funded."
     }
   ]
 }
