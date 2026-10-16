@@ -139,6 +139,26 @@
       ],
       "label": "Batch P · additional original historical analysis",
       "sequence": 12
+    },
+    {
+      "id": "I.2.5:b13",
+      "title": "Technological overlap rather than replacement",
+      "paragraphs": [
+        "Excavated tool assemblages may combine methods that later classifications separate into different periods. Such overlap can arise because techniques were used for different tasks, because groups learned alternative procedures, or because deposits mixed occupations. Analysts should first establish whether the association is genuine before calling it a transitional culture. One method may be favored for fine cutting inserts while another remains practical for robust edges. That is not a failure to adopt the new technique; it is a possible response to material and functional diversity.",
+        "The strongest explanations link the spatial and technological information with secure chronology. An abrupt change in tool frequency at one site may be meaningful without occurring at the same time elsewhere. The history of technological change becomes richer when it permits coexistence, experimentation, and local specialization. The chapter is not a race to identify the earliest inventor, but an investigation of how knowledge and material practice were organized."
+      ],
+      "label": "Batch P · original analytical extension",
+      "sequence": 13
+    },
+    {
+      "id": "I.2.5:b14",
+      "title": "Skill, choice, and the social history of invention",
+      "paragraphs": [
+        "A technical method can spread because it solves a recurrent problem, because respected practitioners teach it, or because groups encounter each other during movement. The archaeological record may preserve standardized outcomes while concealing the social relations that made them possible. Inference should not be confused with observation: a sequence of skilled removals demonstrates learned action, but does not tell us the name of a teacher or the rules governing apprentices.",
+        "Innovation also involves maintenance and adaptation. A method that works with one raw material may need modification in a different geological environment. What looks like an imperfect copy may instead be a rational adjustment to available stone. Evaluating these possibilities requires examining the whole manufacturing sequence rather than ranking artifacts by resemblance to one ideal form. Technological history is consequently a history of practice, not just a catalog of inventions."
+      ],
+      "label": "Batch P · original analytical extension",
+      "sequence": 14
     }
   ]
 }

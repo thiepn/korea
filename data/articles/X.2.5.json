@@ -135,6 +135,26 @@
       ],
       "label": "Batch P · original digital economic history",
       "sequence": 14
+    },
+    {
+      "id": "X.2.5:b15",
+      "title": "Connectivity is not the same as participation",
+      "paragraphs": [
+        "A country can achieve fast network coverage while leaving people with unequal capacity to benefit. Someone with a reliable connection but limited digital literacy may struggle with services that assume familiarity with accounts, verification, or complex forms. People with visual, motor, or cognitive disabilities may encounter inaccessible design even when technical infrastructure is excellent. Age and language can also shape participation.",
+        "The economic significance of accessibility is frequently underestimated. When government, banking, commerce, and health services migrate online, exclusion can become a material barrier to work and social life. Inclusive interfaces, offline alternatives, technical support, and meaningful user testing are therefore part of the social history of digital modernization. A networked society should be evaluated not merely by average speed but by who can actually use its institutions."
+      ],
+      "label": "Batch P · original analytical extension",
+      "sequence": 15
+    },
+    {
+      "id": "X.2.5:b16",
+      "title": "When digital adoption becomes dependency",
+      "paragraphs": [
+        "Digitization can reduce time and transaction costs, but it can also create new points of failure. Businesses may become dependent on a small number of payment providers, app stores, online marketplaces, or cloud services. An outage or rule change can interrupt activity far beyond the company that owns the platform. Concentrated intermediation can also create difficult bargaining relationships even where services remain popular.",
+        "Digital economic resilience requires interoperability, security, competition, and contingency arrangements. These issues are not evidence that technological change is undesirable. They show that useful networks create shared dependencies that deserve institutional attention. An historically durable account follows how societies learn to govern the systems they increasingly rely upon rather than equating digital adoption with an automatically completed improvement in wellbeing."
+      ],
+      "label": "Batch P · original analytical extension",
+      "sequence": 16
     }
   ]
 }
