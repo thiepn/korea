@@ -1,0 +1,84 @@
+{
+  "id": "I.3.1",
+  "title": "The Postglacial World and the Emergence of Neolithic Lifeways",
+  "kicker": "NEOLITHIC KOREA",
+  "description": "A source-conscious Neolithic history of the postglacial world and the emergence of neolithic lifeways, with material contexts and competing interpretations.",
+  "release": "Q",
+  "sourceStatus": "Original historical-archaeological synthesis, selective published research, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "Journal of Archaeological Research",
+      "title": "Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea (2025)",
+      "url": "https://doi.org/10.1007/s10814-024-09204-7",
+      "role": "Peer-reviewed archaeological synthesis; disagreements over co-residence and seasonal aggregation are explicit"
+    },
+    {
+      "institution": "Current Anthropology",
+      "title": "The Transition from Foraging to Farming in Prehistoric Korea (2011)",
+      "url": "https://doi.org/10.1086/658488",
+      "role": "Comparative archaeobotanical and chronology study; regional subsistence was mixed"
+    },
+    {
+      "institution": "Quaternary International",
+      "title": "Coastal farmers during the Early and Middle Holocene: archaeobotanical and grain impression studies on the east coast Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618219308122",
+      "role": "Specialized investigation of plant remains and chronology; warns against equating missing botanical evidence with no cultivation"
+    },
+    {
+      "institution": "Journal of Anthropological Archaeology",
+      "title": "Population and social aggregation in the Neolithic Chulmun villages of Korea",
+      "url": "https://www.sciencedirect.com/science/article/pii/S027841651500080X",
+      "role": "Published settlement-demography argument; alternative aggregation models should be retained"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.3.1:b01",
+      "title": "After the glaciers: a landscape in motion",
+      "paragraphs": [
+        "The beginning of the Holocene changed the peninsula without converting every place into the same new environment. As temperatures rose after the coldest phases of the last glacial cycle, forests, wetlands, river courses, and the resources available to people shifted at different rates. The relationship between humans and the land was not a single progression from cold plains to comfortable woods. Seasonal variation remained demanding, and local topography mediated the effects of larger climatic change. Archaeologists reconstruct these settings from coastal geology, pollen, animal remains, sediments, and a scattered record of human occupation; none of these gives a perfect view of every decade.",
+        "Rising sea levels were especially important because they submerged some low-lying landscapes formerly available for movement and subsistence. The modern coastline is therefore a poor fixed frame for the early Holocene. A site now inland may once have been closer to a changing estuary; a settlement whose activities depended upon an ancient shore may lie beneath water today. These transformations complicate the interpretation of site densities. A greater number of visible coastal deposits might reflect preservation and modern excavation patterns as much as a sudden decision by everyone to live beside the sea. The environmental history sets conditions for decisions; it does not dictate one inevitable social outcome."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis · evidence-conscious",
+      "evidence": [
+        {
+          "claim": "Published archaeological studies show variation in Neolithic settlement and subsistence patterns.",
+          "sourceIndex": 0,
+          "locator": "Journal of Archaeological Research (2025), Chulmun settlement and regional chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.3.1:b02",
+      "title": "Pottery before a farming society",
+      "paragraphs": [
+        "In many popular accounts the Neolithic begins when people plant crops and cease moving. Korean archaeology requires a different order of inquiry. Early pottery and sustained use of aquatic resources did not depend upon immediate adoption of a fully agricultural economy. Ceramic vessels were useful for preparing, storing, and processing foods, including foods gathered or harvested from wild environments. Their appearance should not be treated as a certification that households possessed fields, livestock, or permanent dwellings. Different practices developed together in some places and independently in others.",
+        "The ceramic sequence also resists a single national starting date. Certain early plain wares appear before the familiar comb-pattern vessel styles, and regional sequences differ. Materials from Jeju and other locations raise questions about the first appearance of containers, but the dating and association of individual finds need close inspection. What counts as a Neolithic beginning depends partly upon which technological and economic criteria one selects. A label useful for organizing museum galleries can blur distinctions among early ceramic use, emerging cultivation, household residence, and the later intensification of agricultural production."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.1:b03",
+      "title": "Broad-spectrum opportunities, not a single menu",
+      "paragraphs": [
+        "Postglacial environments offered varied resources: shellfish, fish, other marine animals, riverine foods, forest plants, nuts, and terrestrial game. The archaeologist cannot turn that list into the known menu of every community. Shell deposits favor preservation of certain materials, while plant remains may be recovered only through particular sampling techniques. An abundance of oyster shells in one excavation may represent a long accumulation of meals or processing activity rather than exclusive dependence on oysters. Meanwhile an inland site may preserve pottery and pits without giving equally visible evidence for the foods that sustained it.",
+        "The movement between settings matters. Households might visit a coast during a productive season, return to an interior location, maintain several activity places, or occupy a favored settlement for a substantial portion of the year. The literature debates how frequently large Chulmun sites were continuously inhabited rather than assembled from repeated visits. That question cannot be settled by counting pit houses without checking whether they were contemporary. Postglacial lifeways were diverse adaptive arrangements, not a single newly invented lifestyle shared by all inhabitants of the peninsula."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.1:b04",
+      "title": "People, places, and archaeological visibility",
+      "paragraphs": [
+        "The material archive becomes richer when vessels, storage pits, and dwelling traces appear, but it remains selective. A hearth preserves heating or cooking activity more readily than conversation, shared work, or family obligations. A grinding or cutting implement can suggest processing without identifying the person who operated it. Burials offer rare perspectives on individuals but cannot by themselves reconstruct the population of a whole coast. Specialists therefore combine household layouts, technology, food residues, environmental evidence, and relative chronology while keeping different evidential scales separate.",
+        "It is tempting to describe the postglacial transformation as the first step toward later states. That retrospective storyline obscures the practical choices of communities living long before such institutions appeared. Pottery, seasonal movement, cultivation experiments, and co-residential settlements each have their own history and may take different directions. The proper starting question is how people made lives possible amid changing resources, not why they failed to become Bronze Age farmers sooner. In Part I the Neolithic is a world in its own right, whose ending and connections to Mumun communities are examined only after its distinctive practices are understood."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis · evidence-conscious"
+    }
+  ]
+}
