@@ -100,6 +100,17 @@
       ],
       "sequence": 10,
       "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.1:b11",
+      "title": "Educational success depends on what is measured",
+      "paragraphs": [
+        "Korean students have repeatedly demonstrated strong performance in several international assessments. This achievement is real but does not answer every question about the education system. Tests measure defined abilities under particular conditions, while adult work and civic participation require a wider and changing range of knowledge. A system can prepare students exceptionally well for certain examinations and still face problems in career guidance, practical experience or later skills maintenance.",
+        "The 2026 OECD review explicitly distinguishes measured youth attainment from concerns about critical thinking, self-directed learning and adult training. It would overstate the evidence to claim that Korean students lack creativity as a group; test and survey instruments yield more specific findings, and innovative work exists throughout the society. But it would also be misleading to conclude that high average examination scores eliminate inequality in opportunity or mental pressure associated with selective admissions.",
+        "Reform should begin by specifying the desired outcome: sound subject knowledge, durable learning strategies, fair access to universities, or better matching between skills and jobs. Policies that address one may not automatically improve the others. Understanding the historical relationship between school and work is therefore more useful than assigning the whole education system a simple grade of success or failure."
+      ],
+      "sequence": 11,
+      "label": "Batch Q · additional original evidence-conscious analysis"
     }
   ],
   "release": "C"

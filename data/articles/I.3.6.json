@@ -99,6 +99,17 @@
       ],
       "sequence": 6,
       "label": "Batch Q · research-grounded continuity"
+    },
+    {
+      "id": "I.3.6:b07",
+      "title": "A field is an archaeological interpretation",
+      "paragraphs": [
+        "When scholars describe cultivation, they infer a sequence of practices: selection of seed, disturbance of soil, care for growing plants, harvesting and future planting. Few individual stages are likely to be preserved in an early Neolithic setting. A domesticated grain can be evidence that people used a plant, but by itself does not reveal whether a household grew it locally, acquired it from neighbors or brought it during travel.",
+        "Other traces, including associated weeds, tools, storage residues or patterns of repeated deposition, can strengthen the hypothesis of local production. The presence of a grinding implement is not sufficient to prove farming, because gathered plants also require processing. A pit containing botanical remains may have been filled after its original use. Robust economic history needs converging indicators and carefully dated contexts, not an attractive chain of assumptions.",
+        "The intellectual stakes are substantial: assuming that the first detected crop marks the beginning of settled life can erase older durable villages and underestimate the diversity of mixed subsistence. Conversely, refusing to recognize cultivation until agriculture dominated the diet would obscure experimentation that later became consequential. The useful distinction is between plant use, cultivation and dependence, with the evidential thresholds for each made explicit."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · additional original evidence-conscious analysis"
     }
   ]
 }

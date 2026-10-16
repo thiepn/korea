@@ -109,6 +109,17 @@
       ],
       "sequence": 7,
       "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.3:b08",
+      "title": "Relative rank and absolute living standards",
+      "paragraphs": [
+        "People can enjoy much better material conditions than previous generations while feeling that their position in a competitive housing or employment hierarchy has weakened. Absolute living standards and relative social standing answer different questions. Better transportation, healthcare and digital services may raise wellbeing, while rising rent or concentrated professional rewards make certain milestones harder to reach. An account that cites only average national income cannot settle both issues.",
+        "Household comparisons also require attention to composition and lifecycle. A younger renter and an older owner may have very different asset positions even if their annual incomes resemble each other. Some disparities reflect savings accumulated over time; others depend on inheritance, location and policy. Researchers studying intergenerational mobility try to separate these mechanisms through data on parents and adult children, but the results depend on cohort and measurement.",
+        "The social meaning of inequality is found partly in the distribution of choices. Can a worker relocate to a productive region, retrain during unemployment, support an ill parent or start an independent home without overwhelming debt? These opportunities cannot be read from one ratio. They require combining financial data with the institutions that provide or restrict access to education, housing, care and secure employment."
+      ],
+      "sequence": 8,
+      "label": "Batch Q · additional original evidence-conscious analysis"
     }
   ]
 }
