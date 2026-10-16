@@ -49,6 +49,66 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 5
+    },
+    {
+      "id": "VIII.3.5:b06",
+      "title": "The promise of legal equality and its institutional conditions",
+      "paragraphs": [
+        "Gabo measures aimed at diminishing inherited status distinctions are often remembered as a dramatic announcement of equality. The juridical significance was real: legal categories of privilege and inherited subordination were challenged explicitly. Yet a declaration that all people could be treated equally before state institutions did not transform property relations, schooling or local authority overnight. Formerly privileged households often retained wealth, cultural capital and administrative connections.",
+        "The abolition of slavery-like hereditary status and restrictions on traditional elite privileges posed different practical problems. Establishing a legal principle could change the terms in which a person claimed protection, but individuals still needed access to courts and officials able to enforce the new rule. Those living far from Seoul might experience slow or uneven implementation. Historians should therefore distinguish the content of reform, its first reception and the long afterlife of unequal social structures."
+      ],
+      "sequence": 6,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "VIII.3.5:b07",
+      "title": "Marriage rules and the government of family life",
+      "paragraphs": [
+        "The reform council discussed ending restrictions affecting widow remarriage and early marriage, showing that modernizing policy entered intimate and familial arrangements as well as bureaucratic offices. The contemporary translation preserved in American diplomatic records records these proposals, while its explanatory notes reflect a foreign observer's interpretations of Korean practices. The primary text must be read against Korean law and social history rather than accepted as a complete ethnography.",
+        "Family change involved more than allowing a previously restricted act. Marriage arrangements were bound to lineage standing, property transfers and the expectations of relatives. A formal right could be difficult to exercise where customary sanctions remained strong, and the effects likely differed by class and locality. Treating reform as instantly liberating every household would make the administrative document do more evidential work than it can support."
+      ],
+      "sequence": 7,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "VIII.3.5:b08",
+      "title": "The new fiscal relationship between palace and state",
+      "paragraphs": [
+        "The separation of royal household expenditures from general state finance sought to reduce overlapping claims on revenue. Departments charged with collecting funds, recording obligations and paying officials needed to know which authority could authorize spending. This was not merely a matter of tidy bookkeeping: control over revenue affected appointments, supplies, military resources and the balance between the king and ministers.",
+        "The reform council's plans for revenue registers and investigation of debts indicate a recognition that existing accounts were inadequate. They also expose how difficult implementation would be. Land tax records depended on local reporting, and the people benefiting from informal exactions had incentives to resist a new system. Comparing prescribed procedures with provincial practice reveals the uneven process through which the state tried to make abstract fiscal authority more concrete."
+      ],
+      "sequence": 8,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "VIII.3.5:b09",
+      "title": "The legacy of status after abolition",
+      "paragraphs": [
+        "A statute removing an official status distinction cannot erase social assumptions, economic dependence or forms of deference developed over generations. Former low-status communities might gain new routes to protection yet still encounter discrimination or lose livelihoods dependent on the old order. Elite families could accept new legal vocabulary while reproducing advantage through education and property.",
+        "This tension is not unique to Korea, but its explanation must remain anchored in Korean institutions. It would be wrong to assume that imported liberal concepts alone produced the changes, since domestic criticisms of abuse and status had already circulated. Nor did the existence of Korean reformist ideas make Japanese coercion irrelevant. Legal modernity and the compromised political setting in which it was legislated need to be examined together."
+      ],
+      "sequence": 9,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "VIII.3.5:b10",
+      "title": "Court legislation and rural authority",
+      "paragraphs": [
+        "Many reforms were promulgated in Seoul but depended on county magistrates, clerks, constables and local elites for practical execution. Their cooperation could be hesitant or uneven. A new rule might be publicly announced but scarcely understood in one district, while another locality experienced significant change because officials actively implemented it.",
+        "The Donghak jipgangso bodies created during the same year illuminate a different way of imagining local accountability. Peasant organizers attempted to supervise or reform administration from below, whereas central reform councils issued directives through the machinery of the state. Comparing these two projects helps explain both their shared concerns and their divergent legitimacy. Neither was a fully functioning national system with uniform practical consequences in 1894."
+      ],
+      "sequence": 10,
+      "label": "Batch R · documented historical expansion"
+    },
+    {
+      "id": "VIII.3.5:b11",
+      "title": "Legitimacy after the new laws",
+      "paragraphs": [
+        "The reforms were frequently ambitious, and many addressed genuine defects in legal and administrative life. Nevertheless, their close association with military intervention weakened public trust. Citizens could approve of a particular change while rejecting the officials or foreign power that demanded it. Opposition to coercion should not automatically be equated with opposition to equality, just as support for an efficient finance office does not entail acceptance of outside political domination.",
+        "The Eulmi assassination crisis and subsequent royal refuge altered the political order in which those laws had been enacted. Some measures survived through later revision, while others lost force or changed interpretation. To evaluate the Gabo program historically is to consider both the institutional possibilities it opened and the severe constraints on legitimate implementation. Its significance lies partly in that unresolved combination rather than in a simple verdict of success or failure."
+      ],
+      "sequence": 11,
+      "label": "Batch R · documented historical expansion"
     }
   ]
 }
