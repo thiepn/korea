@@ -1,0 +1,68 @@
+{
+  "id": "IV.3.6",
+  "title": "Labor, Artisans, Workshops, and Production",
+  "kicker": "SILLA SOCIAL HISTORY · COMPLETE CHAPTER",
+  "description": "An original account connecting social structures, material evidence, and the limits of the surviving record.",
+  "release": "J",
+  "sourceStatus": "Selected claim-level documentary links; unannotated interpretations are editorial synthesis, not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "역대 국사교과서 — unified Silla economy and markets",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m51_0050_0010",
+      "role": "Textbook overview of capital markets, production and Tang commerce; general context, not transaction ledger"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "동궁과 월지 — Silla material culture",
+      "url": "https://contents.history.go.kr/mobile/eh/view.do?code=ganada&levelId=eh_r0090_0010",
+      "role": "Educational archaeological account of Wolji and excavated courtly artifacts; not representative of rural society"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.3.6:b01",
+      "title": "Craft as knowledge lodged in hands",
+      "paragraphs": [
+        "Silla's workshops were places of technical knowledge as well as production. Metalworkers, potters, builders, woodworkers, textile producers and makers of ritual objects learned skills that could not be reduced to a palace command. Some expertise was transmitted by repetition, apprenticeship and collective work; the identities of most individual artisans are lost. The surviving objects are often more eloquent about technique than about workplace hierarchy. A beautifully finished metal fitting can suggest controlled casting or joining processes, while evidence of mistakes and repairs can reveal experimentation. Yet neither object proves that its maker was free, enslaved, locally resident or attached to a court establishment. Production could occur under different kinds of patronage. A monastery ordering a ritual object, an official demanding equipment and a family repairing household tools created overlapping but not identical economic relationships. To see craft labor as merely decorative is to miss how central it was to a kingdom's material capacity. Roof tiles, tools, carts and vessels required skilled work no less than crowns or sculpture did."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.6:b02",
+      "title": "The temple construction site as an economy",
+      "paragraphs": [
+        "A major Buddhist building project condensed many kinds of labor into one landscape. The artistic result may dominate modern photographs, but construction required quarrying, transport, carpentry, firing, metalworking and food supply for workers. Patrons had to sustain the project through changing seasons and practical setbacks. The relation of builders to patrons could include wages, service obligations and dependence; the sources seldom tell us which arrangement applied to every person on a specific site. Archaeological traces of kilns, tools and building techniques help recover tasks while leaving many labor relations unresolved. Religious meaning and economic work were inseparable. A completed temple altered ceremonial life, but its existence also testifies to the mobilization of people and materials long before consecration. It is tempting to assign all achievements to a named patron or monk. Material history insists that anonymous technicians translated ambitious designs into durable forms."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Silla urban and temple production included textile and metal crafts and specialized manufacturing.",
+          "sourceIndex": 0,
+          "locator": "역대 국사교과서, 통일 신라 production and trade section",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.6:b03",
+      "title": "Women, fiber and the recurring cycle of making",
+      "paragraphs": [
+        "Weaving and cloth production connect households to broader markets and institutions. The village register counts mulberry trees and other resources that may have supported textile-related production; later accounts of a weaving competition suggest how strongly literary memory linked women and cloth. However, the dates, practices and precise organization of textile work cannot be mechanically reconstructed from these sources. Preparing fibers, spinning, weaving, dyeing and repairing required recurring decisions about labor and materials. Clothing needed replacement and adaptation even when elite fashion remained unchanged. Cloth could be a practical household necessity, an exchange good and a visible marker of rank. That range of functions means weaving should not be confined to a picturesque image of domestic leisure. The work could be arduous and economically consequential. The people responsible for it rarely appear as named producers in the surviving chronicles, an absence that says more about the survival of records than about their historical importance."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IV.3.6:b04",
+      "title": "Workshops, status and the limits of evidence",
+      "paragraphs": [
+        "The distribution of craft work under Silla was shaped by status differences, the demands of elites and the access to raw materials. Court-linked workshops would have faced different expectations from local producers of tools or vessels. A spectacular royal object may have passed through several hands before its final finishing. We can compare techniques across finds, identify concentrations of production and infer networks of supply, but the wage of the individual caster or the precise rules of an eighth-century guild remain difficult to establish. Later institutional forms cannot safely be treated as unchanged survivals. Skill could give certain workers leverage while failing to remove dependence imposed by class or patronage. The historical account should therefore distinguish technical achievement, which is often materially visible, from labor rights and social mobility, which are much harder to document. The most convincing measure of Silla craftsmanship is not a single masterpiece but the continuous organization of specialized tasks across everyday and monumental settings."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

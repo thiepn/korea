@@ -22,6 +22,7 @@ collections=[
  ('liberation-to-partition','Liberation to Partition: the complete Chapter','Ten linked studies follow the local awakening of 1945 through occupation, political rivalry, social crisis, and divided state formation.','Ten connected readings',[f'IX.1.{i}' for i in range(1,11)]),
  ('new-korea-after-1945','After 1945: governing and surviving','A thematic detour from the end of empire through local political organization, everyday survival, and the outbreak of war.','Public life and division',['IX.1.1','IX.1.4','IX.1.6','IX.1.8','IX.1.9','IX.1.10','IX.3.3']),
  ('baekje-river-maritime-complete','Baekje: the complete river and maritime kingdom','Ten connected studies follow the Han basin court, international exchange, the 475 catastrophe, Ungjin recovery, Sabi culture, and the fall of 660.','Ten connected readings',[f'III.2.{i}' for i in range(1,11)]),
+ ('silla-everyday-life-complete','Silla: everyday lives and unequal opportunities','Ten connected studies of households, fields, craft, trade, cities, health and leisure beyond the royal court.','Ten connected readings',[f'IV.3.{i}' for i in range(1,11)]),
  ('ideas-and-expression','Ideas and expression','Foundation stories, learning, writing, reform, and cultural influence.','Cultural history',['II.1.2','IV.2.2','V.1.5','VI.4.2','VIII.1.5','X.5.10']),
 ]
 trails=[]

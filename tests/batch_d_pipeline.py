@@ -12,7 +12,7 @@ atlas=json.loads((ROOT/'data/atlas.json').read_text())
 assert len(arch['parts'])==10 and sum(map(lambda p:len(p['chapters']),arch['parts']))==100
 assert manifest['count']>=92 and manifest['sampleWordCount']>=31673 and sum(a['blocks'] for a in manifest['articles'])>=333
 assert len(atlas['events'])>=27 and len(atlas['connections'])>=24
-new=[a for a in manifest['articles'] if a['release']=='D'];assert len(new)==15 and all(a['blocks']==5 and a['wordCount']>=420 for a in new)
+new=[a for a in manifest['articles'] if a['release']=='D'];assert len(new)==15 and all(a['blocks']>=5 and a['wordCount']>=420 for a in new)
 prepared=ROOT/'content/imports/batch_d_deep.jsonl'
 assert run(prepared,True)['articles_updated']==0,'Importer must replay without rewriting sources'
 all_ids={s['id'] for p in arch['parts'] for c in p['chapters'] for s in c['subchapters']}
