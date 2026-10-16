@@ -1,0 +1,27 @@
+{
+ "version":1,
+ "note":"Selected source anchors were checked against the identified institutional pages in October 2026. A passage annotation marks only the specific claim shown, not validation of surrounding narrative. Coverage differs among subjects.",
+ "references":{
+  "museum":{"institution":"National Hangeul Museum","title":"Hunminjeongeum: The Design of a Writing System Beyond Millennia","url":"https://www.hangeul.go.kr/en/exhi/dailyExhibition.do","role":"Original 28 letters, consonant/vowel principles, early Buddhist vernacular publication"},
+  "museumGuide":{"institution":"National Hangeul Museum","title":"A Guide to Hunminjeongeum — published institutional guide","url":"https://www.hangeul.go.kr/published-data/academicArchives/598?curr_menu_cd=0104020000&page=1","role":"Additional background on design principles, original material and explanations"},
+  "unesco":{"institution":"UNESCO Memory of the World","title":"Hunminjeongum Manuscript","url":"https://www.unesco.org/en/memory-world/hunminjeongum-manuscript","role":"1443 completion, 1446 manuscript, Haerye and early court scholars"},
+  "nara":{"institution":"U.S. National Archives","title":"Armistice Agreement for the Restoration of the South Korean State (1953)","url":"https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state","role":"Primary agreement transcription, signing, DMZ and repatriation provisions"},
+  "naraContext":{"institution":"U.S. National Archives","title":"Korean War Armistice Agreement, 1953","url":"https://www.archives.gov/publications/prologue/2003/summer/korean-war-armistice","role":"Interpretive overview of negotiation duration and agreement; U.S. archival perspective"},
+  "icrc":{"institution":"International Committee of the Red Cross","title":"Historical Timeline—ICRC, Geneva Conventions and the Republic of Korea","url":"https://www.icrc.org/en/article/historical-timeline-icrc-geneva-conventions-korea","role":"Documented humanitarian work, refugee assistance, prisoner tracing, limited mission access"},
+  "icrcArchive":{"institution":"ICRC Archives and Library","title":"ICRC action during the Korean War (1950–1953)","url":"https://blogs.icrc.org/cross-files/icrc-action-in-the-korean-war-br-1950-1953/","role":"Archive finding aid and institutional limits; not a complete civilian casualty history"}
+ },
+ "articles":{
+  "VI.4.5":{"refs":["museum","museumGuide"],"claims":[{"passage":0,"source":"museum","claim":"The five basic consonant shapes were designed with reference to vocal organs.","locator":"Permanent exhibition, section on 28 letters and basic consonants","type":"direct"}]},
+  "VI.4.6":{"refs":["museum","unesco"],"claims":[{"passage":0,"source":"museum","claim":"The three basic vowel signs symbolize heaven, earth and humanity.","locator":"Permanent exhibition, discussion of original basic vowels","type":"direct"}]},
+  "VI.4.7":{"refs":["unesco","museum"],"claims":[{"passage":2,"source":"unesco","claim":"The Hunminjeongeum manuscript was promulgated in the ninth lunar month of 1446.","locator":"UNESCO manuscript catalogue description","type":"direct"}]},
+  "VI.4.8":{"refs":["unesco","museum"],"claims":[]},
+  "VI.4.9":{"refs":["museum","museumGuide"],"claims":[{"passage":0,"source":"museum","claim":"Buddhist scriptures were published in Hangul during its early period.","locator":"Permanent exhibition, learning and dissemination panel","type":"direct"}]},
+  "VI.4.10":{"refs":["museumGuide","unesco"],"claims":[]},
+  "IX.3.5":{"refs":["naraContext","icrcArchive"],"claims":[]},
+  "IX.3.6":{"refs":["naraContext","nara"],"claims":[{"passage":2,"source":"naraContext","claim":"Ceasefire negotiations continued over approximately two years while fighting persisted.","locator":"National Archives interpretive article on 1951–1953 talks","type":"context"}]},
+  "IX.3.7":{"refs":["naraContext","icrcArchive"],"claims":[]},
+  "IX.3.8":{"refs":["icrc","icrcArchive"],"claims":[{"passage":1,"source":"icrc","claim":"ICRC operations during the Korean War included POW camp visits, tracing and some civilian relief.","locator":"ICRC historical timeline, 1950–1953 mission sections","type":"direct"}]},
+  "IX.3.9":{"refs":["nara","icrcArchive"],"claims":[{"passage":0,"source":"nara","claim":"Negotiations took 158 meetings over two years and seventeen days.","locator":"National Archives, armistice historical introduction","type":"direct"},{"passage":2,"source":"nara","claim":"The armistice provides separate mechanisms for direct repatriation and neutral handling of other prisoners.","locator":"Agreement, Article III, paragraph 51","type":"direct"}]},
+  "IX.3.10":{"refs":["nara","icrc"],"claims":[{"passage":0,"source":"nara","claim":"The armistice was signed on July 27, 1953 and provided for a 4,000-metre-wide demilitarized zone.","locator":"National Archives, agreement and historical introduction","type":"direct"},{"passage":1,"source":"nara","claim":"The agreement established the Military Armistice Commission and provisions for civilian movements.","locator":"Agreement, Articles II–III","type":"direct"}]}
+ }
+}

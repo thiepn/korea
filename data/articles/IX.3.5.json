@@ -1,0 +1,64 @@
+{
+  "id": "IX.3.5",
+  "title": "Chinese Intervention, the Retreat from the North, and the Recapture of Seoul",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "U.S. National Archives",
+      "title": "Korean War Armistice Agreement, 1953",
+      "url": "https://www.archives.gov/publications/prologue/2003/summer/korean-war-armistice",
+      "role": "Interpretive overview of negotiation duration and agreement; U.S. archival perspective"
+    },
+    {
+      "institution": "ICRC Archives and Library",
+      "title": "ICRC action during the Korean War (1950–1953)",
+      "url": "https://blogs.icrc.org/cross-files/icrc-action-in-the-korean-war-br-1950-1953/",
+      "role": "Archive finding aid and institutional limits; not a complete civilian casualty history"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.3.5:b01",
+      "title": "Across a border and into a new war",
+      "paragraphs": [
+        "The United Nations Command's advance northward after the recapture of Seoul changed what armies believed might be possible. The initial purpose of repelling an invasion of the Republic of Korea began to overlap with the prospect of imposing a new political settlement over the peninsula. At first, the movement of the front could suggest that North Korean organized resistance had been broken. Yet geography was extending supply lines into unfamiliar territory, while the political meaning of each further advance became more dangerous. The border with China was not merely a line on a map. It marked a region whose military importance was entangled with Chinese security assessments, the future of the North Korean government, and calculations made in Moscow and Washington.",
+        "A campaign of pursuit looks different from the perspective of its commanders and from the perspective of civilians who live along its route. Soldiers might see a road as the quickest path toward a retreating force; villagers might see the same road filling with troops, vehicles, and people carrying whatever possessions they could move. The speed of an offensive can outrun reliable information about an adversary's intentions. In late 1950, assumptions about how far the conflict could spread came under the harshest possible test. The subsequent reversal is best understood not as a sudden historical accident but as the meeting of political miscalculation, Chinese operational decisions, and the difficulties of campaigning in northern Korea."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IX.3.5:b02",
+      "title": "Chinese intervention changes the field",
+      "paragraphs": [
+        "Chinese forces entered the fighting in substantial numbers in the autumn of 1950, challenging the idea that the war could be ended simply by moving farther north. Their intervention altered not only the size of the opposing armies but also the practical conditions of combat. Roads, mountains, weather, surprise, and the coordination of scattered units all influenced events. Discussions of Chinese operations often emphasize movement at night and attacks that exploited gaps and overextended formations. Such descriptions must not become timeless stereotypes about a national army. Tactics reflected available equipment, strategic circumstances, battlefield choices, and learning during the campaign.",
+        "The shock of the intervention was partly psychological. A force advancing with confidence must suddenly reconsider its objectives, its supply arrangements, and the survival of isolated elements. Evacuation and withdrawal require planning even when they are represented later as orderly moves on a map. Vehicles can clog roads; wounded people must be moved; commanders may disagree about how long to hold a position. Stories of exceptional courage belong within that wider and less tidy environment. The change in the war's direction also demonstrated that neither side could determine the military outcome without considering the interests and capacity of outside powers."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IX.3.5:b03",
+      "title": "Seoul changes hands again",
+      "paragraphs": [
+        "The retreat from northern Korea carried the fighting southward and placed Seoul once more in danger. When the city fell again in early 1951, the political and civilian consequences were profound. A capital is an administrative center, but it is also a place of homes, work, hospitals, families, and accumulated memory. Repeated changes of military control disrupted all of those functions. Residents confronted evacuation, shortages, uncertainty about political allegiance, and the risk that actions necessary for survival might later be judged as evidence of disloyalty. An account limited to lines on operational maps cannot adequately represent the experience of a city repeatedly exposed to war.",
+        "The subsequent recovery of Seoul did not bring a simple restoration of normal life. Buildings and institutions had been damaged, residents had dispersed, and the military front was still unstable. The armies learned hard lessons about the limits of their power, while civilians were left to piece together routines amid continuing danger. The intervention had transformed a war initially framed around the survival of one state into a prolonged contest over how the peninsula would be divided. The shift from rapid movement toward a more static front was already becoming visible, even before formal negotiations began."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IX.3.5:b04",
+      "title": "The change in war aims",
+      "paragraphs": [
+        "The northward advance was not a purely military sequel to the defense of South Korea. It forced decision-makers to consider whether the destruction of the North Korean regime, the reunification of the peninsula by force, and the prevention of renewed attack could all be pursued together. Such aims appeared differently from Washington, Seoul, Beijing, and Moscow. They also carried different risks for soldiers expected to implement them and civilians living where battle would move. What one government described as liberation could be experienced by another as the approach of an existential threat. The logic of intervention became harder to control as objectives expanded.",
+        "After Chinese intervention, the conflict exposed the limits of political certainty built on short-term military success. A map that had shown rapid movement north could soon show equally alarming reversals. Leaders had to revise estimates of the enemy and of the likely cost of continuing. These revisions were not merely private moments of learning: they affected orders, alliances, public explanations, and possibilities for negotiation. The reversal should therefore be remembered as more than a striking tactical episode. It was a warning that political goals, military capability, and the intentions of neighboring powers could not be treated separately."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

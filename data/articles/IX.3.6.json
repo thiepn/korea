@@ -1,0 +1,72 @@
+{
+  "id": "IX.3.6",
+  "title": "Stalemate, Trench Warfare, and Attrition, 1951–1953",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "U.S. National Archives",
+      "title": "Korean War Armistice Agreement, 1953",
+      "url": "https://www.archives.gov/publications/prologue/2003/summer/korean-war-armistice",
+      "role": "Interpretive overview of negotiation duration and agreement; U.S. archival perspective"
+    },
+    {
+      "institution": "U.S. National Archives",
+      "title": "Armistice Agreement for the Restoration of the South Korean State (1953)",
+      "url": "https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state",
+      "role": "Primary agreement transcription, signing, DMZ and repatriation provisions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.3.6:b01",
+      "title": "When a moving war begins to stop",
+      "paragraphs": [
+        "By the middle of 1951, the front had become more stable, but stability did not mean safety. The earlier months had seen dramatic advances and retreats; now both sides increasingly invested in positions that were expensive to take and difficult to abandon. Hills, ridgelines, and valleys became recognizable points of reference in prolonged struggles. An ordinary-looking height could matter because it offered observation over nearby routes or threatened an adjacent position. Yet the military value of a place was never isolated from weather, supply, communications, and the casualties required to hold it. The apparent simplicity of a map's front line conceals the elaborate work and suffering needed to keep that line from moving.",
+        "Stalemate can sound like inactivity. In fact, defensive labor is constant. Soldiers build shelters, maintain communications, carry ammunition, dig positions, repair equipment, scout, patrol, and wait. They may go for days without a major attack while remaining under threat of artillery or surprise action. Tension can become routine without becoming less dangerous. The difference between a decisive movement campaign and static warfare is not that one has events while the other has none. It is that the relationship between effort and territorial change becomes profoundly unequal. Large human costs can accompany small changes on the ground."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IX.3.6:b02",
+      "title": "Hills, artillery, and the geography of attrition",
+      "paragraphs": [
+        "The phrase war of attrition describes a situation in which cumulative losses and resource demands become central to strategic calculation. It is a description, not an explanation of every command decision. Some attacks aimed to improve local defensive positions, some to gather information, and some to influence bargaining by demonstrating willingness to continue fighting. An assault might be tactically successful without changing the wider political possibilities. The material demands of artillery, engineering, medical evacuation, and resupply formed a landscape of battle as important as the famous names attached to particular hills.",
+        "The fighting also altered the way soldiers experienced time. In a rapid campaign, yesterday's position may be far behind; in trench warfare, tomorrow may bring another day on the same dangerous slope. Rotations, sickness, harsh seasons, and the uncertain duration of service became part of the conflict. It is tempting to impose hindsight by calling these battles futile simply because the later boundary remained close to the earlier one. Historical understanding requires greater care. Commanders and governments acted under uncertainty, and soldiers often had little choice about whether a particular objective seemed justified by its eventual political outcome."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IX.3.6:b03",
+      "title": "Fighting while negotiators speak",
+      "paragraphs": [
+        "Armistice negotiations began while military operations continued. That juxtaposition can puzzle a reader expecting talks to replace battle. In practice, negotiators sought terms acceptable to governments and commanders who still measured bargaining strength partly through military circumstances. The prospect of an agreement could make a hill or sector seem more important because it might affect the position held at a ceasefire. It could also increase pressure to demonstrate that the enemy could not simply wait for the other side to tire. Battlefield operations and diplomatic conversations consequently belonged to the same unsettled process, rather than to separate chapters of the war.",
+        "An adequate account of the later war must connect political delay to continued exposure to danger. A family receiving news of a death in 1952 had no reason to find consolation in the eventual description of that year as a period of stalemate. Each casualty belonged to a particular household and a particular history of hopes, obligations, and relationships. Military historians need to explain why positions were fought over; social historians must ask how people endured a war whose end was repeatedly anticipated and deferred. Both forms of attention are necessary to make sense of the years between the first battles and the armistice."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Ceasefire negotiations continued over approximately two years while fighting persisted.",
+          "sourceIndex": 0,
+          "locator": "National Archives interpretive article on 1951–1953 talks",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.3.6:b04",
+      "title": "A local battle and a distant negotiation table",
+      "paragraphs": [
+        "The distance between soldiers on a hill and negotiators at Panmunjom was greater than geography. Combat units encountered immediate problems of survival and position; diplomats confronted disputed language about armistice supervision, demarcation, and prisoners. Yet the two activities could influence each other directly. If one side took or lost ground, its leaders might judge their bargaining position differently. If agreement seemed imminent, commanders might face pressure to secure positions before the line was fixed. The result was a conflict in which limited territorial changes could acquire intense significance beyond their immediate military value.",
+        "That relationship complicates the phrase unnecessary battle. A later observer may find the sacrifice disproportionate because the eventual armistice left the broad division intact. But explaining why commanders continued fighting requires understanding the options and expectations available at the time, not only the final map. None of this cancels the responsibility to examine decisions critically. On the contrary, it places those decisions within the political processes that gave them force. The years of stalemate are not an empty interval between famous campaigns; they are part of the mechanism by which war became an armistice."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

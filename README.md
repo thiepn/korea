@@ -187,3 +187,21 @@ See `BATCH_C_REPORT.md` for measured metrics and caveats.
 - Verify: `python3 tests/batch_e_pipeline.py && python3 tests/batch_e_journeys.py`.
 
 Editorial reference links are contextual; neither source consultation nor automated validation substitutes for historical peer review. See `BATCH_E_REPORT.md`.
+
+## Batch F — Complete historical reading collections (16 October 2026)
+
+The site now includes **two complete 10-subchapter Chapter collections**: `VI.4` (Hangul, language and knowledge) and `IX.3` (the Korean War). All twenty entries remain assigned to the existing canonical v1.1 architecture; Batch F published twelve previously unwritten entries. The site compiles **107 published articles, 405 passages, 48,075 words**, thirteen exploration routes, 36 timeline landmarks and forty explanation-backed connections.
+
+Editable, original long-form manuscript sources: `content/editorial/batch_f_*_collection.md`. Research provenance and carefully limited factual annotations: `content/research/batch_f_sources.json`. Replay-safe imported records: `content/imports/batch_f_collections.jsonl`. Generate/replay only the Batch F content with:
+
+```bash
+python3 scripts/prepare_collections.py
+python3 scripts/ingest.py content/imports/batch_f_collections.jsonl --dry-run
+python3 scripts/build_release.py
+python3 tests/batch_f_pipeline.py
+python3 tests/batch_f_journeys.py
+```
+
+The reader shows source links directly beneath passages with specific anchored claims, separate from the general institutional references at the top. *A source link supports only the displayed claim and locator; the remaining narrative is editorial synthesis and not claim-by-claim academic verification.* Some entries have only contextual reference links rather than a verified factual annotation. Translations, textual criticism and plural historical perspectives remain necessary for a scholarly release.
+
+Browser-local reading persistence and immutable content-addressed packs are unchanged. No new API, account, storage service, or paid platform was introduced. Deployment remains `python3 scripts/build_release.py` → `dist/` in the existing Cloudflare Pages project. Local real-origin Chromium navigation may be blocked by administration policy; simulated-asset Chromium tests and command-line local HTTP serving are distinct checks.

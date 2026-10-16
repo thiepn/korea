@@ -1,0 +1,64 @@
+{
+  "id": "VI.4.10",
+  "title": "Dongguk Jeongun, Orthography, and the Early Evolution of Hangul",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "National Hangeul Museum",
+      "title": "A Guide to Hunminjeongeum — published institutional guide",
+      "url": "https://www.hangeul.go.kr/published-data/academicArchives/598?curr_menu_cd=0104020000&page=1",
+      "role": "Additional background on design principles, original material and explanations"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Hunminjeongum Manuscript",
+      "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript",
+      "role": "1443 completion, 1446 manuscript, Haerye and early court scholars"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.4.10:b01",
+      "title": "A companion project in the study of sounds",
+      "paragraphs": [
+        "The Dongguk Jeongun belongs to the effort to understand and organize sound during Sejong's reign. Its relationship to the early Hangul project reminds us that the invention of letters did not exhaust the court's linguistic ambitions. Classical Chinese texts and the readings assigned to Chinese characters remained deeply important. Scholars were interested in how those readings should be analyzed, compared, and represented within the local environment. A court-sponsored work on pronunciation therefore addressed problems that extended beyond writing Korean everyday speech. It belonged to a scholarly world in which authoritative texts, phonological categories, and the prestige of correct learning were closely connected.",
+        "Modern readers may assume that a new script and a book on character readings must represent opposite cultural directions: one local and liberating, the other conservative and Chinese-oriented. The sources point to a more intricate intellectual setting. The same learned culture could pursue precise representation of Korean speech and systematic treatment of Chinese character pronunciations. Attention to pronunciation was compatible with deep attachment to classical study. The apparent contradiction arises partly from treating two later cultural symbols as if their meanings were fixed from the beginning."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VI.4.10:b02",
+      "title": "Orthography becomes a historical practice",
+      "paragraphs": [
+        "A written system must cope with the difference between a sound as abstractly classified and a sound as pronounced by speakers in daily situations. Early Korean orthographic projects sought consistency, but the historical record reveals that conventions were tested and adapted. The treatment of letters, syllable endings, and sound correspondences cannot be reduced to a single modern spelling rule applied backward. Individual printed texts preserve choices influenced by scholarly aims and by the phonological system of their age. When orthography changes, a historian has to ask whether the sound, the spelling convention, the intended audience, or the purpose of the document has changed.",
+        "The effort to create regularity also depended on printing and correction. A rule is difficult to apply consistently unless a community of readers and producers recognizes it. Court sponsorship could give a proposal official standing without controlling every later manuscript or publication. Copyists, teachers, printers, and private writers had to interpret what formal prescriptions meant for their own work. Looking across surviving documents therefore reveals not simply a sequence of official reforms but a pattern of interaction between prescribed forms and habitual practice."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.10:b03",
+      "title": "Why the earliest differences matter",
+      "paragraphs": [
+        "Modern Hangul is often described through a stable standard and a familiar alphabetic order. The fifteenth-century evidence reminds us that stability was an outcome of change, not its starting point. Some early letter distinctions were reduced or repurposed, patterns of spelling shifted, and the spoken language continued to evolve. For historians this means that the words of old texts cannot be interpreted solely through present-day pronunciation. For readers it means that unfamiliar signs in a manuscript are clues to a different linguistic system rather than decorative variations of the one they already know.",
+        "The larger significance of Dongguk Jeongun is consequently methodological. It reveals a court concerned not just with inventing letters but with ordering knowledge about speech, textual transmission, and correct pronunciation. That project crossed the imagined boundary between local vernacular and classical scholarship. It also left evidence with which later scholars could trace both the ambitions of the early Joseon court and the limits of its ability to determine the future. A writing system becomes history not at its moment of invention but through all the uses, disputes, revisions, and losses that follow."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VI.4.10:b04",
+      "title": "When standardization meets ordinary variation",
+      "paragraphs": [
+        "Orthographic reformers often seek to remove uncertainty, yet languages continually create new situations in which rules must be interpreted. Differences between local speech and official prescription, between reading Chinese characters and writing Korean grammar, and between older editions and newer copyists placed pressure on the early system. The court's scholarly ambitions could offer an organizing ideal; they could not freeze the language. Once a script circulates, even faithful users adapt conventions to the documents they need to produce. A language history built only from official statements would miss this interplay between rule and use.",
+        "For later readers, this makes apparently inconsistent early spelling a source of information. A variation may reflect pronunciation, a copying habit, genre, editorial policy, or a mistake. Sorting those possibilities requires comparison rather than reflexive correction. Dongguk Jeongun and related projects belong to an age of active analysis, not a fully settled orthography that simply deteriorated later. Seeing early spelling as a historical process helps explain why a durable writing system can remain recognizably itself while changing extensively in how it records speech."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

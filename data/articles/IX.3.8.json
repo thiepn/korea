@@ -1,0 +1,72 @@
+{
+  "id": "IX.3.8",
+  "title": "Massacres, Refugees, Separated Families, Famine, Disease, and Civilian Survival",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "International Committee of the Red Cross",
+      "title": "Historical Timeline—ICRC, Geneva Conventions and the Republic of Korea",
+      "url": "https://www.icrc.org/en/article/historical-timeline-icrc-geneva-conventions-korea",
+      "role": "Documented humanitarian work, refugee assistance, prisoner tracing, limited mission access"
+    },
+    {
+      "institution": "ICRC Archives and Library",
+      "title": "ICRC action during the Korean War (1950–1953)",
+      "url": "https://blogs.icrc.org/cross-files/icrc-action-in-the-korean-war-br-1950-1953/",
+      "role": "Archive finding aid and institutional limits; not a complete civilian casualty history"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.3.8:b01",
+      "title": "Refugees on roads with no secure destination",
+      "paragraphs": [
+        "Displacement did not occur only once in the Korean War. The movement of the front, repeated occupation of towns, destruction of homes, conscription pressures, and fear of political violence forced people to move and sometimes to move again. Families traveled toward places they hoped would be safer, carrying food, clothing, documents, and children. Their journeys took place amid military operations that also depended on roads, bridges, railway stations, and river crossings. A route that seemed like an avenue of escape could become blocked or threatened. To describe this history only by counting refugees risks making each repeated decision to flee disappear into a single figure.",
+        "Leaving home raised questions without obvious answers. How far could someone travel with an elderly relative? Could a household leave behind animals, seed, or tools and still survive after return? Where might a person find shelter if familiar relatives had already fled? None of these questions can be answered for everyone from one representative story. They nevertheless expose the conditions under which wartime choices were made. Survival was not a private matter detached from politics. The availability of transport, food, medical aid, and permission to cross a military line depended on decisions by governments and armies."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IX.3.8:b02",
+      "title": "Violence and the problem of evidence",
+      "paragraphs": [
+        "The war included atrocities and politically motivated killings, but the surviving evidence is uneven and often contested. Victims, perpetrators, witnesses, and later authorities did not necessarily have equal opportunities to leave records. Some episodes were suppressed or denied for long periods; others entered official narratives before independent evidence could be assessed. Historians must distinguish between established cases, allegations needing further investigation, and claims shaped by propaganda. The moral urgency of civilian suffering is a reason to investigate more carefully, not a reason to abandon standards of evidence.",
+        "The International Committee of the Red Cross pursued humanitarian assistance during the war and documented significant obstacles to reaching prisoners and civilians. Its own institutional history acknowledges limits on its access, especially in the North, and describes work undertaken in the South. These records are indispensable for understanding what its delegates saw and could do. They are not a comprehensive register of all abuses on either side. The locations where an organization was unable to operate may be precisely those where its reports are least capable of settling disputed accounts."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "ICRC operations during the Korean War included POW camp visits, tracing and some civilian relief.",
+          "sourceIndex": 0,
+          "locator": "ICRC historical timeline, 1950–1953 mission sections",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IX.3.8:b03",
+      "title": "Separation becomes a long aftermath",
+      "paragraphs": [
+        "A military ceasefire does not restore every household. Some people never located relatives who had been taken, killed, or displaced; others knew where family members lived but found themselves on opposite sides of the new boundary. Separation became part of the social geography of two states. The difficulties were not only emotional. Family networks had organized work, inheritance, support for children and elders, and everyday obligations. When those networks were broken, the costs continued long after shooting stopped. The word refugee may describe one phase of a person's experience without capturing the years that followed it.",
+        "This history asks readers to follow individual trajectories beyond the moment of escape. A child brought south in 1950 might grow into adulthood with fragmentary memories of a northern home; a household that stayed could find itself under a different government without moving at all. Such possibilities should not be narrated as invented eyewitness testimony. They show why the archive needs letters, oral histories, relief records, family documents, and careful attention to how memory changes. The humanitarian history of the war is central to explaining what division meant in ordinary life."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IX.3.8:b04",
+      "title": "The documents a displaced family carried",
+      "paragraphs": [
+        "Identity papers, a photograph, letters, a family register, and a small amount of money could matter enormously to a household forced to move. Such objects might help relatives recognize one another, secure assistance, establish ownership, or remember places that could no longer be visited. They might also be lost, destroyed, or made dangerous by changes of political control. A refugee history built from government counts alone has little room for such material details. Yet they help explain why displacement could change family life permanently even when the distance traveled was not especially great.",
+        "When later generations gathered accounts of flight, memory itself became historical evidence. A person interviewed decades afterward might remember the fear of one river crossing vividly but be uncertain about a date. The historian should neither dismiss the memory for lacking a bureaucratic timestamp nor claim that its vividness makes every detail certain. Oral testimony, administrative documents, photographs, and relief records answer different kinds of questions. Their combination allows a more humane account without pretending that the experience of one family stands for all families separated by war."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

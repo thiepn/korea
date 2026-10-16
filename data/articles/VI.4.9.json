@@ -1,0 +1,72 @@
+{
+  "id": "VI.4.9",
+  "title": "Buddhist Translations, Practical Texts, and the Expansion of Vernacular Writing",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "National Hangeul Museum",
+      "title": "Hunminjeongeum: The Design of a Writing System Beyond Millennia",
+      "url": "https://www.hangeul.go.kr/en/exhi/dailyExhibition.do",
+      "role": "Original 28 letters, consonant/vowel principles, early Buddhist vernacular publication"
+    },
+    {
+      "institution": "National Hangeul Museum",
+      "title": "A Guide to Hunminjeongeum — published institutional guide",
+      "url": "https://www.hangeul.go.kr/published-data/academicArchives/598?curr_menu_cd=0104020000&page=1",
+      "role": "Additional background on design principles, original material and explanations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.4.9:b01",
+      "title": "Translation as a form of institution building",
+      "paragraphs": [
+        "When the new writing system entered religious and practical texts, it encountered demands different from those of royal praise. A Buddhist translation might need to transmit concepts shaped by long traditions of interpretation while remaining intelligible in Korean. A practical text might aim to convey instructions, ethical teaching, or useful information to readers whose training varied widely. In each case, a translator had to do more than exchange one sign for another. The choice of vocabulary, grammatical structure, and explanatory detail affected what a reader could understand without a teacher beside them.",
+        "The early vernacular corpus includes Buddhist works associated with royal patronage and the transmission of religious teaching. Their value for language history is considerable, but they also reveal ambitions of devotion and learning. Rendering religious material in Korean did not automatically create a democratic mass readership; it did create documents that could be read, read aloud, taught, and copied in different settings. Translators became intermediaries between bodies of inherited doctrine and the expressive capacities of a developing written vernacular."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Buddhist scriptures were published in Hangul during its early period.",
+          "sourceIndex": 0,
+          "locator": "Permanent exhibition, learning and dissemination panel",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VI.4.9:b02",
+      "title": "Who needed a text, and for what purpose?",
+      "paragraphs": [
+        "An instruction becomes useful when it reaches someone able to act on it. That simple principle complicates sweeping claims about literacy. The intended audience of a translated text might include officials, monastics, women in elite households, local readers, or a wider community reached through oral explanation. Yet an intended audience is not proof of actual circulation. The survival of a printed edition documents production; claims about widespread adoption require evidence about distribution and use. Historians must also allow for people who encountered written Korean chiefly because someone else read it to them.",
+        "Different readers brought different interpretive resources. Someone versed in classical Chinese could move between a translated passage and its learned vocabulary, perhaps criticizing a subtle choice. Someone without that training might gain access to the main argument but still need clarification of unfamiliar terms. The reader's social world also mattered. Family resources, gender expectations, occupation, and proximity to schools or monasteries could influence how often the printed word became part of daily life. A script can expand possible audiences before it alters the structure of educational opportunity."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.9:b03",
+      "title": "A new record of changing speech",
+      "paragraphs": [
+        "The earliest printed Korean texts preserve forms that later generations no longer use in the same way. Such records are valuable because they place grammatical endings, vocabulary, and spelling conventions in identifiable documentary contexts. Linguists can compare genres, editions, and dates to reconstruct change while accounting for the possibility that formal written practice differed from ordinary speech. A Buddhist translation and a royal song may share a script yet exhibit different registers, purposes, and editorial decisions. Variation is part of the evidence, not a defect to be smoothed away.",
+        "Their importance therefore reaches well beyond the history of religion. They made language more visible in writing at a formative moment, while also demonstrating how religious and practical tasks shaped the development of a vernacular literary culture. The documents should be read as acts of communication performed by particular institutions, not simply milestones in the inevitable march toward the present. What emerged was a growing repertoire of possible uses, each of which asked writers to solve new problems of clarity, authority, and audience."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VI.4.9:b04",
+      "title": "One language, several kinds of translation",
+      "paragraphs": [
+        "Translating religious material means making decisions about terms that already carry centuries of interpretation. A reader encountering a Buddhist concept in Korean may gain a more direct path into its basic sense while still confronting technical vocabulary and doctrinal disputes. Translation does not eliminate interpretation; it organizes interpretation into choices about syntax, explanation, rhythm, and examples. Those choices leave traces in the text and give later scholars a means of comparing written Korean across genres. The study of translation is therefore a study of what a community considered clear, faithful, persuasive, or appropriate for an intended audience.",
+        "It is especially important not to imagine a uniform line of progress from difficult Chinese writing toward transparent vernacular Korean. Different texts combined languages and scripts in different ways, and particular readers brought different skills. A court-commissioned religious work might depend on learned collaborators even as it reached listeners with less formal education. A practical text could circulate through copying or oral instruction. The expansion of written Korean made more forms of communication possible, but the actual distribution of those possibilities depended on circumstances that the survival of a printed book alone cannot reveal."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

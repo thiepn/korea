@@ -163,6 +163,22 @@
       "detail": "The creation announcement records Sejong’s new set of letters; the explanatory text appeared in 1446."
     },
     {
+      "date": "1443–1446",
+      "year": 1444,
+      "era": "VI",
+      "id": "VI.4.5",
+      "title": "Articulatory principles behind the new consonant letters",
+      "detail": "The early Haerye account links basic consonant shapes to the organs of speech, connecting letter design with contemporary analysis of pronunciation."
+    },
+    {
+      "date": "Mid-fifteenth century",
+      "year": 1447,
+      "era": "VI",
+      "id": "VI.4.9",
+      "title": "Buddhist and practical texts in a new vernacular",
+      "detail": "Early Korean-script translations offered new forms of religious instruction and practical reading while older hierarchies of education remained in place."
+    },
+    {
       "date": "1598 onward",
       "year": 1598,
       "era": "VII",
@@ -225,6 +241,38 @@
       "id": "IX.3.3",
       "title": "The Busan Perimeter defense",
       "detail": "Republic of Korea and UN Command forces held southeastern defenses during a critical interval of the Korean War."
+    },
+    {
+      "date": "Autumn 1950",
+      "year": 1950,
+      "era": "IX",
+      "id": "IX.3.5",
+      "title": "Chinese intervention and reversal in Korea",
+      "detail": "The entry of Chinese forces dramatically altered the campaign after the northern advance, turning a hoped-for rapid conclusion into a longer war."
+    },
+    {
+      "date": "1951–1953",
+      "year": 1951,
+      "era": "IX",
+      "id": "IX.3.6",
+      "title": "Stalemate and continuing battlefield casualties",
+      "detail": "The front settled into costly positional struggles while negotiators debated how military fighting might be stopped without resolving political division."
+    },
+    {
+      "date": "1950–1953",
+      "year": 1952,
+      "era": "IX",
+      "id": "IX.3.8",
+      "title": "Displacement and humanitarian access",
+      "detail": "Refugee movements and the uneven reach of humanitarian organizations expose civilian experiences that operational military maps often conceal."
+    },
+    {
+      "date": "27 July 1953",
+      "year": 1953,
+      "era": "IX",
+      "id": "IX.3.10",
+      "title": "Military armistice signed at Panmunjom",
+      "detail": "The armistice suspended large-scale combat and established a military demarcation line and buffer zone, but it did not establish a political peace treaty."
     },
     {
       "date": "1993–1998",
@@ -383,6 +431,66 @@
       "from": "V.5.6",
       "to": "VI.4.3",
       "why": "Two different state-sponsored projects made knowledge reproducible: a Buddhist carved canon in Goryeo and a phonographic writing system in Joseon."
+    },
+    {
+      "from": "VI.4.3",
+      "to": "VI.4.5",
+      "why": "The creation narrative explains who sponsored the letters; their consonant design makes the underlying analysis of articulation visible."
+    },
+    {
+      "from": "VI.4.5",
+      "to": "VI.4.6",
+      "why": "The design of consonants and vowels uses related aims but distinct explanatory vocabularies, inviting readers to compare sound with conceptual symbolism."
+    },
+    {
+      "from": "VI.4.6",
+      "to": "VI.4.7",
+      "why": "An orderly syllabic system could be designed at court, but its social acceptance still depended on established institutions and habits of writing."
+    },
+    {
+      "from": "VI.4.7",
+      "to": "VI.4.8",
+      "why": "Debates over the value of the script gain practical meaning when the new letters appear in literature supported by royal authority."
+    },
+    {
+      "from": "VI.4.8",
+      "to": "VI.4.9",
+      "why": "Early royal verse and Buddhist translation demonstrate different audiences and rhetorical tasks for a newly available Korean writing system."
+    },
+    {
+      "from": "VI.4.9",
+      "to": "VI.4.10",
+      "why": "The range of early translated materials makes questions of spelling, pronunciation and the scholarly regulation of written forms more urgent."
+    },
+    {
+      "from": "IX.3.3",
+      "to": "IX.3.5",
+      "why": "Survival at the Busan Perimeter made the UN advance possible; Chinese intervention soon complicated the expectation of a decisive ending."
+    },
+    {
+      "from": "IX.3.5",
+      "to": "IX.3.6",
+      "why": "The reversal of late 1950 made room for the costly static fighting that dominated much of the later conflict."
+    },
+    {
+      "from": "IX.3.6",
+      "to": "IX.3.7",
+      "why": "Position warfare depended on aircraft, supply, transport and international coalition power, not only on the infantry positions shown on the map."
+    },
+    {
+      "from": "IX.3.7",
+      "to": "IX.3.8",
+      "why": "Air and ground campaigns shaped civilian displacement and suffering, which operational summaries alone cannot capture."
+    },
+    {
+      "from": "IX.3.8",
+      "to": "IX.3.9",
+      "why": "The humanitarian problem of displaced families and prisoners connects wartime suffering to the most difficult provisions of armistice negotiations."
+    },
+    {
+      "from": "IX.3.9",
+      "to": "IX.3.10",
+      "why": "Negotiation disagreements shaped the detailed repatriation and monitoring provisions ultimately written into the July 1953 armistice."
     }
   ]
 }
