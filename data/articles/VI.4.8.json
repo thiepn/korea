@@ -1,0 +1,64 @@
+{
+  "id": "VI.4.8",
+  "title": "Yongbieocheonga and the Early Royal and Literary Uses of Hangul",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Hunminjeongum Manuscript",
+      "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript",
+      "role": "1443 completion, 1446 manuscript, Haerye and early court scholars"
+    },
+    {
+      "institution": "National Hangeul Museum",
+      "title": "Hunminjeongeum: The Design of a Writing System Beyond Millennia",
+      "url": "https://www.hangeul.go.kr/en/exhi/dailyExhibition.do",
+      "role": "Original 28 letters, consonant/vowel principles, early Buddhist vernacular publication"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.4.8:b01",
+      "title": "A royal song with political work to do",
+      "paragraphs": [
+        "The Yongbieocheonga, often rendered as Songs of the Dragons Flying to Heaven, belongs among the earliest major literary works associated with the new script. Its significance is inseparable from the political position of the early Joseon court. The dynasty was relatively new, and royal writing could help construct a story of legitimate succession. The language of praise and ancestry was not an ornamental addition to an otherwise neutral linguistic exercise. It was part of the task the work was designed to perform: linking present rulers to a larger moral and historical order in terms that could be remembered, recited, and displayed.",
+        "For readers today, the temptation is to treat the work as an uncomplicated triumph of vernacular literature. That description overlooks its proximity to sovereign power. A royal composition could demonstrate that Korean speech belonged in an ambitious written work while also selecting the ancestors, episodes, and values worthy of commemoration. Those two functions reinforce one another. The script gave the court a new medium in which to tell a dynastic story; the prestige of the court supplied the medium with an early public demonstration of literary possibility."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VI.4.8:b02",
+      "title": "Language, audience, and performance",
+      "paragraphs": [
+        "A work of royal praise was not encountered in the same way by every audience. Educated compilers and commentators might approach it as a carefully organized text with historical parallels and learned explanations. Listeners might first hear it through recitation or performance. Readers able to distinguish Korean vernacular forms from learned Chinese phrasing could recognize how multiple linguistic registers contributed to its authority. Translating its title into English does not tell us who could read an individual manuscript, who heard excerpts aloud, or how far copies circulated outside privileged settings.",
+        "The work therefore exposes an important problem in the history of literacy. An early surviving text proves that a script was used for a particular kind of writing; it does not reveal the exact number of people who could read it. Material circulation depended on production, sponsorship, and cultural institutions. Its survival may itself reflect royal preservation priorities rather than the full range of informal writing then being attempted. Historians learn much from prestigious documents while continuing to ask what forms of everyday writing were less likely to endure."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.8:b03",
+      "title": "The possibilities of a written Korean voice",
+      "paragraphs": [
+        "A new writing system permits choices about what aspects of speech to represent. In a literary work those choices are never purely mechanical: spelling can mark rhythm, grammatical endings, register, and relations between speakers or narrated figures. By treating Korean as a medium for sustained royal composition, the Yongbieocheonga offered future readers a written record that later language change could make both precious and difficult. Its linguistic forms are evidence of an earlier stage of Korean, although no one text can stand for the speech of every region or social class.",
+        "The enduring value of such a work is not confined to being first. It reveals how an invention becomes consequential when people find genres and institutions in which to use it. Its very closeness to power makes it a revealing artifact. The history of Hangul is not only about lowering barriers to learning; it is also about the creation of cultural authority through new forms of writing. Literature could give the letters a public voice while simultaneously reproducing the ambitions and exclusions of the society that sponsored them."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VI.4.8:b04",
+      "title": "Historical writing inside a work of praise",
+      "paragraphs": [
+        "The Yongbieocheonga is useful for thinking about the difference between historical memory and historical investigation. Courtly praise gathers a past that supports the authority of its patrons. Its selection of ancestors, exemplary deeds, and moral parallels may be meaningful evidence about dynastic self-presentation without establishing every event as a neutral record. A historian should therefore ask two questions at once: what the work says about earlier rulers, and what the early Joseon court needed its audience to believe about those rulers. The literary form becomes part of the historical argument rather than an obstacle to be stripped away.",
+        "The script's early use in such a prestigious project also complicates the familiar division between elite and popular writing. Vernacular Korean could serve political authority while developing expressive possibilities beyond classical Chinese. Its adoption did not necessarily push learning away from the court; in this instance it could strengthen the court's ability to communicate a particular story. Later generations could read the same text as linguistic evidence or cultural inheritance, often assigning it meanings not identical to those of its first sponsors."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

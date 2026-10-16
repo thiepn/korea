@@ -1,0 +1,80 @@
+{
+  "id": "IX.3.9",
+  "title": "Prisoners of War, Repatriation, Panmunjom, and the Politics of Armistice Negotiation",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "U.S. National Archives",
+      "title": "Armistice Agreement for the Restoration of the South Korean State (1953)",
+      "url": "https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state",
+      "role": "Primary agreement transcription, signing, DMZ and repatriation provisions"
+    },
+    {
+      "institution": "ICRC Archives and Library",
+      "title": "ICRC action during the Korean War (1950–1953)",
+      "url": "https://blogs.icrc.org/cross-files/icrc-action-in-the-korean-war-br-1950-1953/",
+      "role": "Archive finding aid and institutional limits; not a complete civilian casualty history"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.3.9:b01",
+      "title": "Negotiation begins before agreement exists",
+      "paragraphs": [
+        "Formal armistice talks did not mean the parties had decided what a final settlement should look like. Negotiators had to define a workable cessation of combat while their governments maintained incompatible political aims. Questions about the military demarcation line, monitoring, future force deployments, and the exchange of prisoners were therefore intensely consequential. A line on a map would become a practical boundary for soldiers and civilians. The terms of a truce could affect whether fighting could resume and what future negotiations would be possible. Each technical provision carried political weight even though the resulting agreement was framed in military language.",
+        "The U.S. National Archives notes that the talks involved 158 meetings over two years and seventeen days before the 1953 agreement. That figure conveys duration but not the lived experience of delay. Each round occurred while people still faced combat, captivity, and uncertainty. Negotiators could spend weeks disputing a formulation that looked minor to outsiders because it might determine responsibility for future actions. Others remained unwilling to compromise while they believed battlefield conditions could improve. The extraordinary length of the process belongs to the history of both diplomacy and continuing war."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Negotiations took 158 meetings over two years and seventeen days.",
+          "sourceIndex": 0,
+          "locator": "National Archives, armistice historical introduction",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IX.3.9:b02",
+      "title": "Prisoners are not interchangeable tokens",
+      "paragraphs": [
+        "Prisoner repatriation became a major obstacle because the issue involved more than the logistics of returning captured soldiers. Different detainees did not share one political preference, and captors and governments disagreed about whether and how those preferences should matter. The question of voluntary or compulsory return raised concerns about personal safety, propaganda, international law, and national legitimacy. Camp conditions and internal political organization complicated matters further. A formal category such as prisoner of war could include people with sharply different biographies and fears, which makes it dangerous to describe them as a uniform negotiating asset.",
+        "Humanitarian intermediaries attempted to obtain information and protection for prisoners, though the ICRC's ability to visit camps was limited by access and political distrust. Its documented work includes camp visits, tracing efforts, and appeals to authorities. These records help explain why an agreement about exchange required not just signatures but procedures, oversight, and arrangements for people who resisted return. Neither the existence of a humanitarian organization nor the language of international agreements guarantees that all people in custody were treated adequately. The distance between rule and practice is part of the historical question."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IX.3.9:b03",
+      "title": "A text designed to survive disagreement",
+      "paragraphs": [
+        "The eventual armistice included detailed procedures governing prisoners and military supervision. Its text distinguished direct repatriation from cases to be handled through a Neutral Nations Repatriation Commission and specified the responsibilities of the parties. These clauses are evidence of compromise shaped by deep disagreement. They did not resolve the political status of either Korean state, and they did not create a lasting peace treaty. They sought a set of enforceable arrangements that could halt combat while major political questions remained unsettled.",
+        "A close reader of the agreement will notice the importance attached to definitions, dates, authorized representatives, and institutions charged with supervising implementation. That may seem dry after accounts of battles and displacement. In fact, legal precision was one way of trying to prevent another catastrophe. The text's limits matter just as much: agreement on a military cessation was not agreement on a united Korea, shared historical memory, or the moral accounting of wartime violence. Panmunjom became a place where the consequences of military division could be regulated but not simply overcome."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The armistice provides separate mechanisms for direct repatriation and neutral handling of other prisoners.",
+          "sourceIndex": 0,
+          "locator": "Agreement, Article III, paragraph 51",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IX.3.9:b04",
+      "title": "Why one word could delay a settlement",
+      "paragraphs": [
+        "The difference between a prisoner being sent home and a prisoner choosing whether to return can seem minor in a shorthand summary of negotiations. In reality it touched fundamental conflicts over sovereignty, coercion, and the safety of the individual. A procedure designed to protect choice required agencies and safeguards that opposed governments could mistrust. For negotiators, a single phrasing could therefore signal acceptance or rejection of an entire political principle. The final agreement's lengthy details are not mere ornament; they record how hard it was to agree on procedures that both sides could administer without abandoning their public positions.",
+        "The historian must still separate the legal text from its implementation. Signing a provision was a commitment, while carrying it out required transport, registration, cooperation among officials, and humane treatment of people with little power over events. ICRC archives document both humanitarian efforts and the obstacles those efforts faced. Reading them alongside the armistice explains why monitoring, access, and accountability mattered. It also reminds us that a formally negotiated solution cannot settle every controversy surrounding a prisoner camp, a choice to return, or the fate of those who never appeared in the surviving records."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

@@ -16,6 +16,8 @@ collections=[
  ('learning-and-service','Learning and service','Why societies sought educated officials, and who had the chance to become one.','Education and power',['V.2.5','VI.4.2','VI.2.5','VII.3.4','X.1.2']),
  ('institutions-in-motion','Institutions in motion','From early commanderies to civilian democracy, trace how authority changes.','Power over time',['II.3.4','III.3.2','III.3.5','V.2.5','VI.2.5','VIII.3.5','X.1.2']),
  ('longform-history','The long history behind the headline','Read substantial essays, inspect their reference notes, and follow why one century raises questions for another.','Reading in depth',['V.5.6','VI.4.3','IX.3.3','VI.4.2','V.3.5','IX.3.2']),
+ ('writing-and-knowledge','Hangul: the complete Chapter','Follow ten connected readings from Korean writing before Hangul to the earliest writing debates, books, and spelling practices.','Ten connected readings',[f'VI.4.{i}' for i in range(1,11)]),
+ ('the-korean-war-complete','The Korean War: the complete Chapter','Read ten connected subjects from the outbreak through coalition warfare, civilian survival and the armistice.','Ten connected readings',[f'IX.3.{i}' for i in range(1,11)]),
  ('ideas-and-expression','Ideas and expression','Foundation stories, learning, writing, reform, and cultural influence.','Cultural history',['II.1.2','IV.2.2','V.1.5','VI.4.2','VIII.1.5','X.5.10']),
 ]
 trails=[]

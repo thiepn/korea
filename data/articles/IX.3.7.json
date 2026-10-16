@@ -1,0 +1,64 @@
+{
+  "id": "IX.3.7",
+  "title": "Air War, Naval War, Bombing, International Coalitions, and the Global Cold War",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "U.S. National Archives",
+      "title": "Korean War Armistice Agreement, 1953",
+      "url": "https://www.archives.gov/publications/prologue/2003/summer/korean-war-armistice",
+      "role": "Interpretive overview of negotiation duration and agreement; U.S. archival perspective"
+    },
+    {
+      "institution": "ICRC Archives and Library",
+      "title": "ICRC action during the Korean War (1950–1953)",
+      "url": "https://blogs.icrc.org/cross-files/icrc-action-in-the-korean-war-br-1950-1953/",
+      "role": "Archive finding aid and institutional limits; not a complete civilian casualty history"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.3.7:b01",
+      "title": "War above and beyond the front line",
+      "paragraphs": [
+        "The Korean War cannot be reduced to infantry positions. Aircraft, ships, ports, roads, railways, and communications systems linked the peninsula to a much larger industrial and geopolitical contest. Air power could observe troop movements, strike transportation routes, support ground forces, and attack targets beyond the immediate fighting line. Naval operations affected the movement of supplies and personnel, while ports and coastal access shaped logistical possibilities. These capabilities did not operate in isolation. Their value depended on weather, intelligence, coordination, maintenance, and the ability of forces on the ground to use the opportunities they created.",
+        "The scale of destruction caused by bombing requires especially careful language. A successful mission report might measure damage to a target or disruption of a route. A community living near that target would experience the operation through buildings lost, people killed or displaced, and services interrupted. Industrial and military categories could overlap with homes and ordinary workplaces. The wartime distinction between combatant and civilian remained important in principle, but its practical protection was continually under strain. Accounts that treat every aircraft sortie as either an uncomplicated technological success or an undifferentiated act of destruction miss the historical decisions and consequences that deserve examination."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IX.3.7:b02",
+      "title": "A multinational conflict, unequal experiences",
+      "paragraphs": [
+        "The United Nations Command brought together forces from multiple countries, yet their contributions differed enormously in scale and role. Military participation, medical assistance, transport, diplomatic endorsement, and supply were not interchangeable forms of commitment. The term international coalition describes a real political arrangement but can conceal tensions over strategy, sovereignty, and the distribution of risks. Soldiers came with different languages, equipment, expectations, and military traditions. Their shared operations depended on command arrangements and daily practical cooperation that rarely appear in grand strategic summaries.",
+        "At the same time, the conflict was intimately Korean. The people most directly exposed to the fighting lived on the peninsula, and their political futures were at stake. Describing the war only as a superpower contest risks making Koreans passive figures in a drama written elsewhere. Describing it only as a Korean civil war risks ignoring the enormous effect of Chinese intervention, American-led operations, Soviet involvement, and Cold War calculations. These interpretations illuminate different dimensions of the same conflict. A historically responsible account should show where local agency and international power reinforced one another and where they pulled in different directions."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IX.3.7:b03",
+      "title": "Technology and the meanings of modern war",
+      "paragraphs": [
+        "New technologies change the pace and reach of combat without eliminating human uncertainty. Radar, jet aircraft, improved communications, and increasingly complex logistics were visible aspects of a war fought after the Second World War. Yet sophisticated machines still depended on crews, fuel, repairs, and decisions made with incomplete information. The public fascination with technical firsts can obscure the continuity of older problems: finding a target, distinguishing civilians from military objectives, securing a supply line, and protecting those who could not leave a threatened place.",
+        "The Korean War's air and naval dimensions thus open a route into questions larger than equipment. Who controlled the definition of a legitimate target? How did competing authorities report success? What evidence permits historians to compare claims made by forces with unequal access to archives? The answers will not always be tidy. Military records can tell us what was planned and what participants believed they achieved; they do not automatically capture every civilian consequence. The archive of a multinational war must be read across institutional boundaries to reconstruct what happened and how different people understood it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IX.3.7:b04",
+      "title": "Evidence from different heights",
+      "paragraphs": [
+        "An aircrew's mission report, a ship's operations log, a ground unit's diary, and a survivor's account can describe the same day while scarcely appearing to speak about the same event. Each record is organized around a different task. The aircrew may note visibility and targets; the ship may note position and supply; the ground unit may record casualties and communications; a civilian may remember a missing relative or a road no longer passable. The historian's challenge is not to flatten these records into one seamless story but to establish where they overlap, where they conflict, and what each cannot know.",
+        "Institutional archives are indispensable yet uneven. Powerful governments often preserved large quantities of operational material; vulnerable civilians frequently had fewer opportunities to produce documents or protect them from destruction. A narrative dominated by one side's technical reports can therefore gain artificial precision. It may describe aircraft, tonnage, or the hour an order was issued while remaining uncertain about human consequences. A richer account of multinational warfare uses these precise records without mistaking precision for completeness and asks what other collections would be needed to test their claims."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "VI.4.7",
+  "title": "Opposition, Acceptance, and Elite Debate over the New Writing System",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Hunminjeongum Manuscript",
+      "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript",
+      "role": "1443 completion, 1446 manuscript, Haerye and early court scholars"
+    },
+    {
+      "institution": "National Hangeul Museum",
+      "title": "Hunminjeongeum: The Design of a Writing System Beyond Millennia",
+      "url": "https://www.hangeul.go.kr/en/exhi/dailyExhibition.do",
+      "role": "Original 28 letters, consonant/vowel principles, early Buddhist vernacular publication"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.4.7:b01",
+      "title": "The costs of a new form of authority",
+      "paragraphs": [
+        "The creation of a script was a political and cultural intervention because writing did not merely record speech. It governed access to classics, law, petitions, public service, and the memory of families. A new system could be explained as a means of rendering Korean sounds more accurately while still confronting a hierarchy that associated formal learning with classical Chinese. To question its desirability did not necessarily mean denying that the script worked. Critics could worry about the status of established scholarship, the relationship between local and continental cultures, or the institutional costs of teaching different systems to different groups.",
+        "Modern narratives sometimes stage this conflict as a simple contest between enlightened reform and reactionary obstruction. That storyline grants understandable moral energy to the invention but loses sight of what was actually at stake for people trained in a learned cosmopolitan tradition. The court's inherited written order connected Korea with documents, texts, examinations, and diplomatic conventions far beyond the peninsula. A locally fashioned script could be useful without immediately replacing those functions. The dispute was therefore also about which functions should remain exclusive and which could be opened to new readers."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VI.4.7:b02",
+      "title": "A king, officials, and the shape of a disagreement",
+      "paragraphs": [
+        "Sejong's patronage was decisive, but the existence of a royal command did not erase argument at court. The standard account of elite opposition includes objections recorded in court histories, often associated with officials such as Choe Malli. Those records require interpretation as political documents produced within a literate bureaucracy, not as transcripts of every private opinion. They tell us about arguments available to officials and about the authority they sought to defend. They do not provide a numerical survey of everyone who resisted, supported, or simply ignored the new system.",
+        "Nor should assent be imagined as uniform among people of lower status. A script aimed at more accessible representation of Korean did not instantly supply paper, time, schooling, or protection from social sanction. In some circumstances the very uses that gave vernacular writing practical value might coexist with the prestige of Chinese writing in official settings. A letter could be helpful for a personal message and still carry less standing in a formal examination. Changes in access to expression therefore had to be negotiated within continuing inequalities."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.7:b03",
+      "title": "Acceptance is not a single event",
+      "paragraphs": [
+        "The 1446 promulgation supplies a clear historical date, but the larger history of acceptance has no comparable moment when everyone suddenly changed practice. Written forms gain authority through use: translations, poems, teaching materials, letters, bureaucratic experiments, and private records. Different genres adopt innovations at different speeds. Even among writers who knew the new system, choices about script could express education, gender, intended audience, and the social standing of a document. The history of adoption is made of numerous small decisions whose consequences accumulated.",
+        "It is also important to distinguish historical experience from later nationalist symbolism. Hangul eventually became central to Korean cultural self-understanding; that later importance shapes how the fifteenth century is remembered. But readers looking backward should not assume that court officials already thought in the language of modern nationhood. Their concerns were dynastic, ethical, educational, and diplomatic in ways particular to their circumstances. A more satisfying account can value the script's emancipatory possibilities while recognizing that its political meanings were repeatedly remade."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The Hunminjeongeum manuscript was promulgated in the ninth lunar month of 1446.",
+          "sourceIndex": 0,
+          "locator": "UNESCO manuscript catalogue description",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VI.4.7:b04",
+      "title": "How a disagreement is remembered",
+      "paragraphs": [
+        "The official records of a royal court privilege certain voices. An official able to submit a formal objection appears clearly in the surviving archive, while the thoughts of someone learning the script in a household or monastery are much harder to recover. This imbalance can distort the history if we treat the best-documented objections as a complete map of public opinion. It also invites the opposite error: inventing a unanimous popular enthusiasm to balance the surviving opposition. More defensible conclusions begin with what records actually show, then identify whose participation remains outside the available evidence.",
+        "That approach changes the question from whether the script was immediately accepted to how its uses expanded despite uneven authority. A ruler could sponsor publication, officials could contest policy, religious writers could develop translations, and private readers could find value in a particular text without agreeing about the new writing system's wider significance. The historical result was neither a single royal decree nor a single social movement. It was a changing field of practice in which scholarly prestige, practical communication, and later political symbolism repeatedly intersected."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

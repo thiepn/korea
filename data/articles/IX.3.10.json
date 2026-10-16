@@ -1,0 +1,80 @@
+{
+  "id": "IX.3.10",
+  "title": "The 1953 Armistice, DMZ, Destruction, Displacement, and the Entrenchment of Division",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "U.S. National Archives",
+      "title": "Armistice Agreement for the Restoration of the South Korean State (1953)",
+      "url": "https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state",
+      "role": "Primary agreement transcription, signing, DMZ and repatriation provisions"
+    },
+    {
+      "institution": "International Committee of the Red Cross",
+      "title": "Historical Timeline—ICRC, Geneva Conventions and the Republic of Korea",
+      "url": "https://www.icrc.org/en/article/historical-timeline-icrc-geneva-conventions-korea",
+      "role": "Documented humanitarian work, refugee assistance, prisoner tracing, limited mission access"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.3.10:b01",
+      "title": "The day fighting was suspended",
+      "paragraphs": [
+        "The Korean Armistice Agreement was signed at Panmunjom on 27 July 1953. The signed document established a cessation of hostilities rather than the political peace that many families needed. It was an agreement between opposing military commands, not a comprehensive treaty normalizing relations between the two Korean states. The fact that active large-scale combat stopped matters enormously; confusing an armistice with a final settlement obscures why questions of sovereignty, security, and reunification remained contested. The document's wording is consequently central to understanding the peninsula after 1953.",
+        "The National Archives preserves both the agreement and explanatory records of its signing. Its provisions specify a military demarcation line and the withdrawal of forces from a four-kilometer-wide demilitarized zone. Those formal terms did not instantly turn the new boundary into a harmless landscape. The DMZ was part of a military security arrangement watched by forces on both sides. The geography of security could also become the geography of separation, restricting movements that had once tied households and communities together. A ceasefire was both an immense relief and the beginning of another kind of uncertainty."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The armistice was signed on July 27, 1953 and provided for a 4,000-metre-wide demilitarized zone.",
+          "sourceIndex": 0,
+          "locator": "National Archives, agreement and historical introduction",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IX.3.10:b02",
+      "title": "Institutions made for an unfinished peace",
+      "paragraphs": [
+        "The agreement established mechanisms intended to supervise its operation, including the Military Armistice Commission. Procedures for exchanges of prisoners and for certain civilian movements were also included. The detailed language shows that an order to cease firing could not be expected to implement itself. Someone had to monitor violations, communicate between opponents, and deal with disputes that a single signing ceremony could not anticipate. Institutional design thus became a continuation of diplomacy by less dramatic means, and differences over its interpretation would continue to matter.",
+        "A demilitarized zone is not the same as a zone without consequences for civilians. Farms, villages, roads, graves, and family networks existed in landscapes now defined by military decisions. What the map represented as a buffer could be experienced as an impossible journey to a home, a lost field, or an inaccessible relative. To describe the postwar boundary only in terms of defense and deterrence omits the fact that it reorganized ordinary time and distance. A trip that once took a morning could cease to be possible at all."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "The agreement established the Military Armistice Commission and provisions for civilian movements.",
+          "sourceIndex": 0,
+          "locator": "Agreement, Articles II–III",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IX.3.10:b03",
+      "title": "What the statistics do not settle",
+      "paragraphs": [
+        "By 1953 the peninsula had endured years of destruction and death. Precise estimates differ according to the populations counted, the evidence available, and the distinction between killed, wounded, missing, and displaced. An encyclopedia should explain those differences rather than present one authoritative-looking total without a method. The war's effects included damaged cities and infrastructure, a changed economy, fragmented families, and political institutions strengthened partly through experiences of emergency. Many survivors lived with injuries, bereavement, and memories that official histories could not contain.",
+        "The ceasefire also entered rival narratives. In different settings it could be remembered as survival, resistance, sacrifice, betrayal, or an unfinished liberation. Those interpretations were themselves parts of the postwar political order and deserve historical study. A reader reaching this final subchapter should not be invited to imagine that the archive has reached a clean ending. The 1953 settlement made later Korean histories possible while leaving division unresolved. The Korean War, in that sense, did not vanish from politics when the guns fell largely silent. Its consequences became institutions, borders, memories, and recurring questions about what a future peace would require."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IX.3.10:b04",
+      "title": "A boundary written into daily life",
+      "paragraphs": [
+        "The postwar military boundary was a political fact, a security arrangement, and a lived interruption. It shaped where troops could patrol, where roads could run, and what families could reasonably hope to do. The agreement set procedures for military separation, but a piece of paper could not repair the institutions and relationships damaged by years of conflict. People displaced from the North or South found that the map of daily obligations had been broken. Returning to a hometown might no longer be a question of finding transport; it could require a political settlement that remained out of reach for generations.",
+        "In this sense, the armistice's durability has two sides. The absence of another comparable peninsula-wide ground war is a major historical consequence of the cessation of hostilities. Yet the persistence of a militarized division has imposed other costs and risks. Neither fact should be erased by a triumphalist or tragic formula. The historian's task is to connect the formal language of a 1953 agreement to the changed possibilities of later life. The document is an ending to one phase of armed conflict and the beginning of an unfinished chapter of Korean political history."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

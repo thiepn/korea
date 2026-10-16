@@ -1,0 +1,72 @@
+{
+  "id": "VI.4.6",
+  "title": "Vowel Design, Syllable Structure, and the Logic of the Script",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "National Hangeul Museum",
+      "title": "Hunminjeongeum: The Design of a Writing System Beyond Millennia",
+      "url": "https://www.hangeul.go.kr/en/exhi/dailyExhibition.do",
+      "role": "Original 28 letters, consonant/vowel principles, early Buddhist vernacular publication"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Hunminjeongum Manuscript",
+      "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript",
+      "role": "1443 completion, 1446 manuscript, Haerye and early court scholars"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.4.6:b01",
+      "title": "A different logic for vowels",
+      "paragraphs": [
+        "The account of the new script's vowels draws on a different explanatory vocabulary from that used for basic consonants. The foundational signs are traditionally described through cosmological images associated with heaven, earth, and humanity. Their arrangements make visual relations visible even when a modern reader does not share the original philosophical categories. It is easy to present these images as a charming mnemonic, but at the fifteenth-century court they linked writing to a broader vision of patterned order. The designer was not merely assigning a mark to a sound; the design was also a claim that speech, nature, and intelligible arrangement could belong within one system.",
+        "Such symbolic accounts must be read carefully. They tell us how the written system was justified and explained by its makers, not necessarily how every first-time learner thought about each stroke. The surviving descriptions also coexist with practical phonological patterns. A letter must have a pronounceable value within the language, and its position within a syllable must be legible to a reader. The most illuminating approach therefore keeps conceptual symbolism and linguistic utility side by side. Reducing the vowels to philosophy alone would obscure their everyday function; reducing them to technical acoustics alone would miss the intellectual language used to authorize their invention."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The three basic vowel signs symbolize heaven, earth and humanity.",
+          "sourceIndex": 0,
+          "locator": "Permanent exhibition, discussion of original basic vowels",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VI.4.6:b02",
+      "title": "Syllables gathered into visible blocks",
+      "paragraphs": [
+        "One of the most distinctive decisions was not simply which letters to invent but how to arrange them on the page. Instead of writing every consonant and vowel in one uninterrupted horizontal sequence, the script groups them into syllabic blocks. The block has an internal order, but to the eye it forms a compact unit. That organization suited a writing culture already accustomed to square-looking written characters while allowing the new signs to represent Korean speech more directly. It also produced its own skills. Learning the signs is not the same as learning the spatial conventions for placing initial, medial, and, where present, final elements together.",
+        "A block is a structure, not a picture of every phonetic event. Speech runs through time, boundaries between sounds change with context, and actual pronunciation includes patterns that no simple diagram fully captures. The arrangement nevertheless helps the written line remain stable while pronunciation varies. It also means that type design, printing, and handwriting matter to the history of literacy. A learner using carved blocks, a brush, or a contemporary screen relies on a common compositional logic even though the tools and social expectations differ profoundly."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.6:b03",
+      "title": "The work of learning a system",
+      "paragraphs": [
+        "Histories of writing often move quickly from the invention of signs to claims about universal literacy. The intervening work should not disappear. A person needs access to the script, instruction in its conventions, material on which to practice, and a reason to write. The elegance of a syllabic arrangement can lower some barriers without dissolving the economic and social barriers that separate people from education. The advantages of a system depend partly on whether institutions allow it to circulate and partly on the individual opportunities of those who would use it.",
+        "The long success of Hangul invites a retrospective sense of inevitability. For its earliest users, however, the future was not guaranteed. Classical Chinese continued to command political prestige, and competing written habits remained entrenched. The combination of sound-related letters and syllabic blocks made a powerful tool available, but the number of situations in which that tool would be welcomed had yet to be established. The design of vowels and blocks belongs, therefore, to two histories at once: the deliberate construction of a script and the much less predictable process through which writing becomes a social practice."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VI.4.6:b04",
+      "title": "What the eye learns before the voice speaks",
+      "paragraphs": [
+        "Reading a syllabic block involves rapidly recognizing a visual group as an ordered sequence of consonant and vowel elements. Skilled readers often experience this as effortless because practice has made the analysis automatic. Early learners must work harder. They need to know which part of a block signals an initial sound, where the vowel is situated, and how a final consonant changes the way a word is read. Different combinations create different shapes, yet the underlying system holds those combinations within a coherent frame. That achievement is partly a design of signs and partly a culture of instruction maintained over generations.",
+        "The arrangement also makes writing a physical practice. A brushwriter and a contemporary keyboard user create the same kind of syllabic unit in very different ways. The former must distribute strokes in a limited visual space; the latter depends on input methods that assemble letters into blocks on screen. Neither experience should be projected directly onto fifteenth-century users. What unites them is an enduring design problem: how to make the passage between sound, memory, and visible form manageable. The block makes pronunciation searchable in writing without reproducing all the variations of living speech."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

@@ -145,6 +145,42 @@
       ]
     },
     {
+      "slug": "writing-and-knowledge",
+      "title": "Hangul: the complete Chapter",
+      "description": "Follow ten connected readings from Korean writing before Hangul to the earliest writing debates, books, and spelling practices.",
+      "kicker": "Ten connected readings",
+      "ids": [
+        "VI.4.1",
+        "VI.4.2",
+        "VI.4.3",
+        "VI.4.4",
+        "VI.4.5",
+        "VI.4.6",
+        "VI.4.7",
+        "VI.4.8",
+        "VI.4.9",
+        "VI.4.10"
+      ]
+    },
+    {
+      "slug": "the-korean-war-complete",
+      "title": "The Korean War: the complete Chapter",
+      "description": "Read ten connected subjects from the outbreak through coalition warfare, civilian survival and the armistice.",
+      "kicker": "Ten connected readings",
+      "ids": [
+        "IX.3.1",
+        "IX.3.2",
+        "IX.3.3",
+        "IX.3.4",
+        "IX.3.5",
+        "IX.3.6",
+        "IX.3.7",
+        "IX.3.8",
+        "IX.3.9",
+        "IX.3.10"
+      ]
+    },
+    {
       "slug": "ideas-and-expression",
       "title": "Ideas and expression",
       "description": "Foundation stories, learning, writing, reform, and cultural influence.",

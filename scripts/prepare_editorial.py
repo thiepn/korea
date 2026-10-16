@@ -11,7 +11,7 @@ from pathlib import Path
 from build_corpus import canonical, DATA
 
 ROOT=Path(__file__).resolve().parents[1]
-def prepare(source:Path,target:Path,dry_run=False,release='C'):
+def prepare(source:Path,target:Path,dry_run=False,release='C',allow_existing=False):
     titles=canonical(); items=[];current=None;block=None;outside=True
     for n,raw in enumerate(source.read_text(encoding='utf-8').splitlines(),1):
         line=raw.strip()
@@ -35,7 +35,7 @@ def prepare(source:Path,target:Path,dry_run=False,release='C'):
     for a in items:
         if len(a['blocks'])<3 or any(not b['paragraphs'] for b in a['blocks']):
             raise ValueError(f'{a["id"]}: expected at least three independently written passages')
-        if (DATA/'articles'/f'{a["id"]}.json').exists():
+        if not allow_existing and (DATA/'articles'/f'{a["id"]}.json').exists():
             raise ValueError(f'{a["id"]}: already published. Use an explicit append source, never replace.')
     data=''.join(json.dumps(a,ensure_ascii=False,separators=(',',':'))+'\n' for a in items)
     if not dry_run:

@@ -1,0 +1,72 @@
+{
+  "id": "VI.4.5",
+  "title": "Consonant Design, Articulatory Principles, and Phonological Analysis",
+  "kicker": "COLLECTED HISTORICAL READING",
+  "description": "An original sustained chapter collection entry; specific reference-backed facts are marked per passage and interpretations remain editorial synthesis.",
+  "release": "F",
+  "sourceStatus": "Selected passage-level factual anchors checked against named institutional resources; remaining prose is editorial interpretation, not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "National Hangeul Museum",
+      "title": "Hunminjeongeum: The Design of a Writing System Beyond Millennia",
+      "url": "https://www.hangeul.go.kr/en/exhi/dailyExhibition.do",
+      "role": "Original 28 letters, consonant/vowel principles, early Buddhist vernacular publication"
+    },
+    {
+      "institution": "National Hangeul Museum",
+      "title": "A Guide to Hunminjeongeum — published institutional guide",
+      "url": "https://www.hangeul.go.kr/published-data/academicArchives/598?curr_menu_cd=0104020000&page=1",
+      "role": "Additional background on design principles, original material and explanations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.4.5:b01",
+      "title": "Letters shaped by the speaking body",
+      "paragraphs": [
+        "A reader encountering the earliest description of the new Korean letters finds an unusual proposition: some written forms can be understood by attending to the organs that make speech possible. The explanation associated with the Hunminjeongeum Haerye treats basic consonant shapes as connected to articulation rather than simply as arbitrary inherited signs. That is a striking intellectual move in a court already accustomed to the prestige of written Chinese. Instead of starting with the visual authority of an established character, the account asks how a sound is formed and how a sign might convey that formation. Its promise is systematic: once the relationship between a basic shape and a family of sounds is understood, the reader can remember a group of letters as an organized design rather than as disconnected marks.",
+        "Yet the language of the explanation should not be turned into an uncomplicated modern phonetics textbook. The court's scholars described the speech organs within categories and intellectual assumptions of their own time. Present-day terminology for places and manners of articulation is valuable for understanding what they observed, but it is not identical with fifteenth-century terminology. A drawing of a tongue or throat can suggest a relationship without reproducing the exact motion of a living speaker. What matters historically is the priority given to regularity and explanation. The design invited people to ask why a sign looked as it did, a question that differs from merely memorizing how it must be written."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The five basic consonant shapes were designed with reference to vocal organs.",
+          "sourceIndex": 0,
+          "locator": "Permanent exhibition, section on 28 letters and basic consonants",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VI.4.5:b02",
+      "title": "A family of sounds rather than isolated marks",
+      "paragraphs": [
+        "The consonant inventory presented in the explanatory tradition uses several basic shapes as points of departure and modifies them to represent related sounds. Added strokes, in certain groups, help display distinctions between members of a family. Such patterns are not fully explained by modern Latin transliteration, whose letters and spellings were developed for different purposes. A listener might learn that two sounds are related through the parts of the mouth involved, yet still need to hear how they differed in the Korean of Sejong's age. Pronunciation histories therefore matter. A transcription of a fifteenth-century letter as an English-looking symbol is at best a partial guide to what contemporary speakers actually pronounced.",
+        "There is also a material history to a systematic sign. Letters have to be drawn consistently by brush or hand, cut into printing surfaces, and combined rapidly on a page. The balance between visual resemblance to speech and practical legibility is not a small concern. An elegant theory can fail if signs become difficult to distinguish at the speed of writing. The survival of recognizable letter families reflects both their conceptual design and their capacity to be taught, copied, and adapted. To study consonants is consequently to study a meeting between observation, court learning, and ordinary physical practice."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VI.4.5:b03",
+      "title": "What a chart can conceal",
+      "paragraphs": [
+        "Modern Hangul charts often present the script as if it appeared at once in its current form. Such charts are convenient but flatten change. The original inventory contained consonant distinctions that do not correspond neatly to modern standard Korean, and individual signs and combinations acquired different uses over time. Readers should be wary of backward projection, especially when a textbook names a modern sound and assumes that the same description applies without qualification to the fifteenth century. The history of a letter is also the history of the people who pronounced, printed, taught, and sometimes stopped using it.",
+        "The Haerye is unusually useful evidence because it preserves an explanation of design principles. It does not, by itself, tell us exactly how every Korean community pronounced every word, nor how rapidly each new sign entered routine usage. Those questions require other documents and the comparative study of linguistic change. The achievement is not diminished by such limits. A writing system can be analytically designed while acquiring a complicated social life. Recognizing both sides permits greater admiration for its inventiveness without mistaking a foundational text for the entire subsequent history of Korean speech."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VI.4.5:b04",
+      "title": "Teaching sound across generations",
+      "paragraphs": [
+        "The explanatory principles of early Hangul offer a remarkable bridge between specialized phonological reasoning and introductory instruction. For a student, it can be useful to begin with the spoken sound and move toward a picture of the articulating mouth; for a specialist, the same basic sign may raise questions about the classification of sounds and the relations between categories. The two activities should not be confused. A teaching diagram simplifies in order to be memorable, whereas a historical phonological analysis must take seriously cases that resist a convenient modern correspondence. Differences between the original consonant inventory and present-day usage are therefore useful opportunities for inquiry rather than problems to hide.",
+        "The very survival of these explanations demonstrates that literacy can have an intellectual history as well as a social history. Later scholars interpreted, edited, and sometimes questioned the relationship between letter shape and pronunciation. Textbooks condensed the story into memorable formulas that helped spread knowledge but could also flatten the detail. A digital reader can preserve both the accessible account and the evidence that complicates it. Consonant shapes were designed in a particular cultural moment; they became widely familiar through centuries of teaching in moments far removed from Sejong's court."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

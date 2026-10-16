@@ -36,10 +36,16 @@ def run(path:Path,dry_run=False):
                 raise ValueError(f'line {n}: invalid institutional source metadata')
         if record.get('sourceStatus') and (not isinstance(record['sourceStatus'],str) or len(record['sourceStatus'])>250):
             raise ValueError(f'line {n}: invalid editorial source status')
+        for block in blocks:
+            evidence=block.get('evidence',[])
+            if not isinstance(evidence,list) or len(evidence)>8:raise ValueError(f'line {n}: invalid passage evidence list')
+            for item in evidence:
+                if not isinstance(item,dict) or not isinstance(item.get('claim'),str) or len(item['claim'])<24 or not isinstance(item.get('locator'),str) or len(item['locator'])<12 or item.get('type') not in ('direct','context') or not isinstance(item.get('sourceIndex'),int) or not 0<=item['sourceIndex']<len(sources):
+                    raise ValueError(f'line {n}: invalid or ungrounded evidence reference')
         base=(existing.copy() if existing else {'id':key,'title':allowed[key],'kicker':record.get('kicker','HISTORY'), 'description':record.get('description',''), 'release':record.get('release',''), 'sourceStatus':record.get('sourceStatus','Unverified editorial narrative'), 'sources':sources, 'blocks':[]})
         if base['title']!=allowed[key]:raise ValueError(f'line {n}: existing title diverges from canonical')
-        already=[{'title':b['title'],'paragraphs':b['paragraphs']} for b in base['blocks']]
-        incoming=[{'title':b['title'].strip(),'paragraphs':[p.strip() for p in b['paragraphs']]} for b in blocks]
+        already=[{'title':b['title'],'paragraphs':b['paragraphs'],'evidence':b.get('evidence',[])} for b in base['blocks']]
+        incoming=[{'title':b['title'].strip(),'paragraphs':[p.strip() for p in b['paragraphs']],'evidence':b.get('evidence',[])} for b in blocks]
         if incoming and len(already)>=len(incoming) and already[-len(incoming):]==incoming:
             changes.append({'id':key,'status':'unchanged (idempotent replay)'})
             continue
@@ -47,7 +53,7 @@ def run(path:Path,dry_run=False):
         if any(x in already for x in incoming):raise ValueError(f'line {n}: overlapping passage content, refusing ambiguous append')
         if len(already)+len(incoming)>999:raise ValueError(f'line {n}: excessive passage count (maximum 999)')
         for i,b in enumerate(incoming,len(already)+1):
-            base['blocks'].append({'id':f'{key}:b{i:02d}','title':b['title'],'paragraphs':b['paragraphs'],'label':'Prototype editorial narrative · unsourced sample','sequence':i})
+            base['blocks'].append({'id':f'{key}:b{i:02d}','title':b['title'],'paragraphs':b['paragraphs'],'label':'Editorial synthesis · selected evidence anchors','sequence':i,**({'evidence':b['evidence']} if b['evidence'] else {})})
         plans[target]=base;changes.append({'id':key,'status':'will import','passages':len(incoming)})
     if not dry_run:
         # All validation occurs before any source mutation. Temp + replace keeps each JSON intact.
