@@ -5,8 +5,8 @@ from pathlib import Path
 R=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(R/'scripts'))
 from build_corpus import canonical,compile_corpus,WORD_RE
-G=lambda p:hashlib.sha1(b'blob '+str(len(p.read_bytes())).encode()+b'\x5cx00'+p.read_bytes()).hexdigest()
-# The literal below is b'\\x00' only in source templating; actual code uses a zero byte in Git's blob header.
+G=lambda p:hashlib.sha1(b'blob '+str(len(p.read_bytes())).encode()+b'\x00'+p.read_bytes()).hexdigest()
+# A Git blob hash includes the NUL byte between the header and its file bytes.
 prior=json.loads((R/'tests/fixtures/batch_p_baseline.json').read_text(encoding='utf-8'))
 assert prior['base_sha']=='b4c8b70ef112f96fb5e3d9581ed66fc23dd691e2'
 assert len(prior['articles'])==183 and len(prior['canonical'])==15
