@@ -83,6 +83,26 @@
       ],
       "sequence": 5,
       "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.9:b06",
+      "title": "Regional universities and the graduate's decision",
+      "paragraphs": [
+        "A university outside the Seoul metropolitan area can offer strong teaching, specialized research and ties to local employers, yet students may still expect that many prestigious careers require a later move toward the capital. This expectation can reinforce institutional concentration: employers follow skilled workers, and skilled workers follow employers. Investment in a campus without corresponding job opportunities may not reverse the process.",
+        "The OECD's 2026 regional analysis discusses regional universities within a broader strategy for productive hubs. Stronger local professional networks, research collaboration, childcare, transport and housing can make staying more attractive. However, the effectiveness of these measures must be judged by durable employment outcomes. Relocation also has benefits, and policies should expand choices rather than punish people for moving. The goal is an economic geography in which remaining outside the capital does not close off the possibility of a satisfying career."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · social evidence and regional context"
+    },
+    {
+      "id": "X.3.9:b07",
+      "title": "Service access and the politics of distance",
+      "paragraphs": [
+        "For a resident in a shrinking rural district, access to a hospital, bank, school or government office can become more difficult as demand falls. Consolidating facilities may improve specialist quality but increase the time needed to reach them. Digital substitutes can help with some services yet may exclude people lacking reliable connectivity or accessible interfaces.",
+        "These decisions cannot be made solely through a national cost average. Travel times, road conditions, disability, household car ownership and public transport frequency shape the burden. Public debate over regional equality is therefore a debate about the minimum services that residents should realistically be able to reach. Historical analysis can compare policy choices and their consequences without pretending that every community must preserve exactly the same institutional form."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · social evidence and regional context"
     }
   ]
 }

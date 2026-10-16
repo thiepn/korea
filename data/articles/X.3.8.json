@@ -83,6 +83,26 @@
       ],
       "sequence": 5,
       "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.8:b06",
+      "title": "Anxiety about the future has several sources",
+      "paragraphs": [
+        "Youth insecurity is often associated with a single competitive examination or employment statistic. In practice the transition to adulthood can combine university choices, debt, rent, job-search time and expectations about supporting relatives. Each pressure interacts with the others, but different individuals face different combinations. A graduate with stable parental housing support experiences uncertainty differently from a person financing rent and care obligations through irregular work.",
+        "A historical comparison should resist claims that one generation is inherently less resilient. Earlier cohorts encountered war, poverty, political repression or other disruptions under different institutional conditions. Later cohorts may enjoy greater material possibilities while navigating steeper competition for some forms of secure employment. The relevant questions concern the resources and protections available to people in particular times, not a competition over which generation deserves the most sympathy."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · social evidence and regional context"
+    },
+    {
+      "id": "X.3.8:b07",
+      "title": "Digital belonging and offline public space",
+      "paragraphs": [
+        "Online communities create opportunities to maintain friendships across distance, organize practical help and find people with shared interests. These benefits coexist with platforms that amplify conflict or impose pressure to remain visible. The quality of a connection cannot be inferred from the number of messages, followers or hours spent online.",
+        "Libraries, parks, sports clubs, churches, universities and other local institutions remain relevant spaces for shared activity. Access depends on transport, affordability, schedules and disability accommodation. A person moving frequently for study or work may struggle to sustain such ties. An account of changing social relationships should therefore connect technology with housing, labor and urban design rather than blaming or celebrating a device in isolation."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · social evidence and regional context"
     }
   ]
 }

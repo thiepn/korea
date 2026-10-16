@@ -83,6 +83,26 @@
       ],
       "sequence": 5,
       "label": "Original social history · evidence-aware"
+    },
+    {
+      "id": "X.3.10:b06",
+      "title": "Retail spaces change social routines",
+      "paragraphs": [
+        "Traditional markets, supermarkets, department stores, convenience shops and online platforms offer different combinations of price, accessibility and social interaction. A street market may support repeated personal ties between vendors and residents, while a supermarket offers standardized selection and predictable hours. Digital orders expand reach but reduce some encounters and introduce new dependence on delivery labor.",
+        "The growth of one retail format does not necessarily mean the disappearance of all others. Consumers use several channels depending on time, budget and the nature of a purchase. Local authorities sometimes seek to preserve markets for economic and cultural reasons, but success should be evaluated through actual livelihoods and access rather than nostalgia. The changing landscape of shops helps explain how everyday mobility, neighborhood identity and consumer expectations developed together."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · social evidence and regional context"
+    },
+    {
+      "id": "X.3.10:b07",
+      "title": "Leisure follows unequal distributions of free time",
+      "paragraphs": [
+        "The availability of cinemas, concerts, parks and travel services does not mean every worker can use them. Long commutes, shift schedules, childcare and limited disposable income determine the practical possibilities of recreation. People also differ in what they value: a family meal, online gaming, hiking, worship, sport or time alone may be meaningful for different reasons.",
+        "A history of leisure should connect the consumer economy with working-time regulation and the public provision of shared spaces. Access for older residents and people with disabilities is part of this story. The most popular entertainment products reveal cultural trends but cannot substitute for studying ordinary routines. Cultural exports may shape an international image of Korea, while everyday experiences remain diverse and linked to particular places and resources."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · social evidence and regional context"
     }
   ]
 }
