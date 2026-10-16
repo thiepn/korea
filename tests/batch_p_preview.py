@@ -24,10 +24,10 @@ with sync_playwright() as pw:
    page.locator('.chapter-intro .btn-primary').click()
    page.wait_for_selector('.pathway-stop')
    assert page.locator('.pathway-stop').count()==10
-  page.evaluate('location.hash="#/history/I.2.3"')
+  page.evaluate('location.hash="#/history/I.2.5"')
   page.wait_for_selector('.passage-evidence',timeout=30000)
   page.locator('.passage-evidence summary').first.click()
-  assert 'National Museum of Korea' in page.locator('.passage-evidence').first.inner_text()
+  assert 'Korea Citation Index' in page.locator('.passage-evidence').first.inner_text()
   page.keyboard.press('/')
   page.locator('#searchInput').fill('전곡리')
   page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("I.2.3")',timeout=20000)
