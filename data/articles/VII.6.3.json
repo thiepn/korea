@@ -1,0 +1,104 @@
+{
+  "id": "VII.6.3",
+  "title": "Climate, Famine, Disaster, Granaries, and Economic Resilience",
+  "kicker": "LATE JOSEON ECONOMY · AGRICULTURE",
+  "description": "Original evidence-conscious historical account of climate, famine, disaster, granaries, and economic resilience, explaining regional variation, institutional incentives and source limitations.",
+  "release": "S",
+  "sourceStatus": "Editorial historical synthesis; selectively grounded in National Institute of Korean History scholarly and source editions",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sources on the Economy of Later Joseon",
+      "url": "https://contents.history.go.kr/mobile/hm/list.do?periodCode=hm_age_60&typeCode=hm_ty_020",
+      "role": "Annotated contemporary documents on commercial agriculture, rural disparities, crafts, taxation and marketplaces"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History: Joseon Economy and Markets",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_030_0060_0020_0040_0010",
+      "role": "Long-form historical research on development of periodic markets and economic networks"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Korean Agricultural History: Agriculture and Farmers",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_027_0050_0050_0030",
+      "role": "Agrarian historiography and limits of using records as direct production estimates"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daedong Sangjeong Law",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014255",
+      "role": "Regional adaptations of common tribute taxation amid differences in ecology and productivity"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.6.3:b01",
+      "title": "The environment shaped political obligations",
+      "paragraphs": [
+        "A harvest failure affected far more than food consumption. Grain taxes, landlord rents, repayment of advances, and obligations to support dependents remained due even when a household collected too little. Drought, flood, frost, pests, and disease could interact, placing pressure on grain stores and local credit relationships. Officials were asked to assess hardship, distribute relief, and sometimes remit or postpone obligations. Their judgments could determine which families survived without disposing of assets.",
+        "Records of disaster and relief are rich but selective sources. A chronicle notes events that reached the court, while ordinary hardship might never become a dated entry. Reports from different regions cannot always be compared as if each recorder used the same severity scale. The historian should distinguish a well-documented crisis from the complete environmental history of the century. Severe events matter greatly without establishing that every year was catastrophic."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · evidence limitations",
+      "evidence": [
+        {
+          "claim": "National Institute of Korean History collections document agrarian and economic change across later Joseon with variable regional evidence.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사, 조선 후기 경제: commercial agriculture, rural disparities, economy",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.6.3:b02",
+      "title": "Little Ice Age is not a local weather report",
+      "paragraphs": [
+        "Climatic variation in the seventeenth and eighteenth centuries is sometimes connected to the larger Little Ice Age, a label describing broad and temporally varied climate patterns. The term should not be used as if it were one simultaneous cold spell producing identical consequences across Korean districts. Rainfall, winter temperatures, storms, and crop sensitivity differed regionally.",
+        "Historical climatology combines documentary weather reports, tree-ring or sediment evidence where available, and reconstructions that carry uncertainty. A royal report of frost establishes one observation, not the annual temperature of an entire peninsula. Similarly, a famine can arise from crop failure interacting with transport, inequality, warfare, or failures of relief. Explaining events requires combining environmental hazards with institutions rather than allowing climate to become a convenient all-purpose cause."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · evidence limitations"
+    },
+    {
+      "id": "VII.6.3:b03",
+      "title": "Granaries and the politics of provisioning",
+      "paragraphs": [
+        "State and local granary systems sought to accumulate and distribute grain, including during shortages. The details of storage, lending, repayment, and transport changed over time. Grain kept for relief needed protection against spoilage and theft, while officials had to decide how to identify eligible households and secure the resources for distribution.",
+        "Grain lending could buffer a temporary shortage but could also produce debt if repayment terms proved difficult. Administrative schemes developed moral legitimacy by promising protection yet created opportunities for mismanagement and coercion. Complaints about granary administration therefore illuminate the tension between public welfare and fiscal extraction. A law prescribing fair distribution does not demonstrate that all officials followed it. Case evidence should be used to examine failure and variation, not merely to condemn every relief effort as insincere."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · evidence limitations"
+    },
+    {
+      "id": "VII.6.3:b04",
+      "title": "Markets could soften or deepen scarcity",
+      "paragraphs": [
+        "A regional network of traders could move grain from areas of relative abundance toward places suffering shortage. Exchange might improve access for people with money or credit, but high prices could exclude the poorest households. Transport bottlenecks, official requisition, fear of further losses, and restrictions on trade could all influence the movement of food.",
+        "Price changes are not a direct measure of the quantity of grain in every storehouse. They also reflect uncertainty, purchasing power, transport cost, and the incentives of sellers. Historians studying shortages need to ask who could afford purchases and whether relief supplied households that the market could not reach. It is misleading either to treat traders as automatic saviors or to blame every scarcity on merchants. The social consequences depended on the structure of access."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · evidence limitations"
+    },
+    {
+      "id": "VII.6.3:b05",
+      "title": "Household coping had lasting costs",
+      "paragraphs": [
+        "Families confronting a bad harvest might reduce meals, consume seed reserves, borrow against future production, temporarily move, sell goods, or seek help from relatives. These are general categories supported in historical hardship studies; they should not be inserted as the biography of any particular village without evidence. Strategies preserving immediate life could harm the next season's productive capacity.",
+        "A loan secured by land might allow cultivation to continue while increasing vulnerability to permanent loss of property. Migration could redistribute labor and change relationships between towns and countryside. Women, children, older people, and the disabled could face different risks that fiscal records rarely identify individually. Famine history requires attention to social differentiation, since the same regional harvest failure did not impose the same danger on every household."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · evidence limitations"
+    },
+    {
+      "id": "VII.6.3:b06",
+      "title": "Resilience means institutions and inequality together",
+      "paragraphs": [
+        "A community's capacity to survive repeated shocks depended on storage, transport, mutual support, access to credit, and the response of officials. Agricultural intensification could increase normal production without eliminating the risk of a disaster affecting a large area. Conversely, a diversified livelihood might protect one household while excluding another from the same opportunities.",
+        "The history of environmental resilience is not an uninterrupted series of state failures or triumphs. Relief measures had real potential and their effectiveness varied with resources and administration. Later-Joseon economic transformation should therefore be assessed under ordinary conditions and exceptional stress. Crises expose the workings of markets and hierarchy particularly clearly, revealing which people could turn stored assets and political connections into security and which were forced to bear disproportionate costs."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · evidence limitations"
+    }
+  ]
+}
