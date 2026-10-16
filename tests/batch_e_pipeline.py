@@ -17,7 +17,7 @@ m=json.loads((ROOT/'data/content-manifest.json').read_text())
 assert m['count']>=95 and m['sampleWordCount']>=38969 and sum(x['blocks'] for x in m['articles'])>=357
 long=[a for a in m['articles'] if a['release']=='E']
 assert len(long)==3 and all(a['wordCount']>=2000 and len(a['sources'])>=2 for a in long)
-assert sum(a['wordCount'] for a in long)==sum(s['words'] for s in stats.values())
+assert sum(a['wordCount'] for a in long)>=sum(s['words'] for s in stats.values()) # Later append-only deepening is permitted
 for a in long:
  assert a['id'] in canon
  assert all(x['url'].startswith('https://') for x in a['sources'])

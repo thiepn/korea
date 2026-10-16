@@ -1,0 +1,86 @@
+{
+  "id": "IX.1.10",
+  "title": "Trusteeship, the US–Soviet Joint Commission, the United Nations, and the Failure of a Unified Settlement",
+  "kicker": "COMPLETE HISTORICAL CHAPTER",
+  "description": "One linked entry in Chapter IX.1, from liberation to divided state formation.",
+  "release": "H",
+  "sourceStatus": "Selective primary and Korean-language reference anchors; wider historical interpretation is original editorial synthesis, not academically peer-reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies — Encyclopedia of Korean Culture",
+      "title": "신탁통치 반대운동 (Anti-trusteeship movement)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0033478",
+      "role": "December 1945 Moscow decision and anti-trusteeship political mobilization"
+    },
+    {
+      "institution": "United Nations — Digital Library",
+      "title": "Yearbook of the United Nations, 1948: Korean question",
+      "url": "https://digitallibrary.un.org/record/860252/files/1122965-EN.pdf",
+      "role": "Primary institutional record: Assembly deliberations, commission, election recommendations and limited access"
+    },
+    {
+      "institution": "National Institute of Korean History — 한국사데이터베이스",
+      "title": "UN-related US State Department documents, 1947–1948",
+      "url": "https://db.history.go.kr/id/ps_004_0810",
+      "role": "Digitized primary-source collection describing US involvement in election observation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.1.10:b01",
+      "title": "An independence settlement negotiated without agreement on sovereignty",
+      "paragraphs": [
+        "The December 1945 Moscow meeting produced a plan associated with a provisional Korean government and a possible period of trusteeship. The proposals were debated in a political atmosphere in which people had just escaped decades of colonial rule and were unwilling to imagine another externally supervised future. Yet opposition to trusteeship was not simply a disagreement about vocabulary. It revealed different assumptions about which Korean organizations could legitimately negotiate, how the occupying powers should be involved, and whether international oversight would advance or delay independence. Public reporting of the Moscow decisions changed the domestic political balance, helping reorganize alliances and intensify conflict.",
+        "The proposed US–Soviet Joint Commission was meant to provide a mechanism for consultation. In practice, the two occupying powers differed over which Korean groups should be consulted and how to interpret acceptable political participation. The dispute was not merely bureaucratic: the decision about whom to invite into the room affected who might become the future government. A conference table could therefore become another arena of the struggle for sovereignty. The procedural deadlock also gave local political groups reasons to mobilize, accuse rivals of betrayal, and seek support outside Korea."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The December 1945 Moscow three-power decision and anti-trusteeship movement reshaped the political alignments of occupied Korea.",
+          "locator": "내용: Moscow decision and emergence of anti-trusteeship movement",
+          "type": "direct",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "IX.1.10:b02",
+      "title": "Why trusteeship divided rather than united",
+      "paragraphs": [
+        "The term trusteeship could be heard as an insult to the competence and sacrifice of people who had worked for independence. Opponents used its apparent contradiction with liberation to mobilize support. Others emphasized the larger Moscow framework and the possibility of a unified provisional government. Their arguments were often translated into absolute categories of patriotism and disloyalty, although policy positions and personal motives were more complicated. It is important not to repeat the claim that every opponent of trusteeship had one political allegiance or that every advocate of cooperation endorsed indefinite foreign control. The divisions emerged from competing interpretations of a proposed pathway to independence within an already divided occupation.",
+        "The bitter debates weakened possibilities for compromise, but domestic polarization alone cannot explain their outcome. The United States and Soviet Union pursued different strategic interests and operated separate occupation systems that were becoming more entrenched. Korean parties and leaders acted within those constraints without being mere puppets. The failure of cooperation thus reflects both international competition and local political conflict. Assigning exclusive responsibility to one side may satisfy a retrospective national narrative, but it risks excluding the very evidence needed to understand why proposed solutions failed."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IX.1.10:b03",
+      "title": "Korea enters the United Nations",
+      "paragraphs": [
+        "As bilateral negotiations stalled, the United States brought the Korean question to the United Nations in 1947. The UN General Assembly adopted proposals for an electoral process and international observation. Here the language of self-determination encountered a basic limitation: the commission was unable to operate throughout the peninsula because the Soviet authorities did not permit its access to the northern zone. The resulting process in the south could create representative institutions for the territory in which it operated, but it could not by itself secure agreement on a unified peninsula-wide government. The jurisdictional limit was political rather than merely geographic.",
+        "The UN Yearbook and contemporary U.S. State Department documents illuminate the international framing of the process. They should be read beside Korean-language histories of local mobilization, opposition, and alternative proposals. International records can tell us who proposed a resolution and how votes were cast; they cannot on their own explain what a village resident expected from a ballot, or why a particular Korean organization rejected the process. The distinction between the institutional validity of a procedure and its capacity to settle a national conflict runs through the whole story."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IX.1.10:b04",
+      "title": "Two governments and an unresolved national question",
+      "paragraphs": [
+        "In 1948 a Republic of Korea government was established in the south, followed by a Democratic People's Republic of Korea government in the north. Each drew on institutions built during occupation and advanced its own account of national legitimacy. These proclamations did not restore a single sovereign system covering the peninsula. They gave the dividing line a more durable governmental form and made rival claims about representation harder to reconcile. The result was not simply a border imposed once in 1945, nor was it the unavoidable expression of two eternally separate communities. It was a process in which military jurisdiction, administrative development, global rivalry, local ideology, social conflict, and political decisions reinforced one another.",
+        "The temptation is to make 1948 an ending because governments have names and formal dates. For people crossing the peninsula, separated from family, waiting for legal recognition, or hoping that negotiations might resume, it was not an ending. Questions about land, property, citizenship, security, and national belonging continued. The later outbreak of war cannot be read back into every decision as though the outcome were already known. Understanding the failure of a unified settlement requires restoring the alternatives that participants still imagined, while acknowledging that those alternatives were increasingly constrained by institutions and violence. Liberation was real; so was the tragedy that independence and division took shape together."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "The United Nations General Assembly deliberated an observed electoral route to Korean national government and established a temporary commission.",
+          "locator": "Yearbook 1948, Korean Question, resolutions on the temporary commission and electoral observation",
+          "type": "direct",
+          "sourceIndex": 1
+        }
+      ]
+    }
+  ]
+}

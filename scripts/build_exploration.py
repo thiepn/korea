@@ -19,6 +19,8 @@ collections=[
  ('writing-and-knowledge','Hangul: the complete Chapter','Follow ten connected readings from Korean writing before Hangul to the earliest writing debates, books, and spelling practices.','Ten connected readings',[f'VI.4.{i}' for i in range(1,11)]),
  ('the-korean-war-complete','The Korean War: the complete Chapter','Read ten connected subjects from the outbreak through coalition warfare, civilian survival and the armistice.','Ten connected readings',[f'IX.3.{i}' for i in range(1,11)]),
  ('silla-rise-complete','Silla: the complete rise of a kingdom','Ten connected histories from fourth-century uncertainty through political reform, Jinheung’s expansion, queenship and the coalition of Chunchu and Yushin.','Ten connected readings',[f'III.3.{i}' for i in range(1,11)]),
+ ('liberation-to-partition','Liberation to Partition: the complete Chapter','Ten linked studies follow the local awakening of 1945 through occupation, political rivalry, social crisis, and divided state formation.','Ten connected readings',[f'IX.1.{i}' for i in range(1,11)]),
+ ('new-korea-after-1945','After 1945: governing and surviving','A thematic detour from the end of empire through local political organization, everyday survival, and the outbreak of war.','Public life and division',['IX.1.1','IX.1.4','IX.1.6','IX.1.8','IX.1.9','IX.1.10','IX.3.3']),
  ('ideas-and-expression','Ideas and expression','Foundation stories, learning, writing, reform, and cultural influence.','Cultural history',['II.1.2','IV.2.2','V.1.5','VI.4.2','VIII.1.5','X.5.10']),
 ]
 trails=[]

@@ -199,6 +199,39 @@
       ]
     },
     {
+      "slug": "liberation-to-partition",
+      "title": "Liberation to Partition: the complete Chapter",
+      "description": "Ten linked studies follow the local awakening of 1945 through occupation, political rivalry, social crisis, and divided state formation.",
+      "kicker": "Ten connected readings",
+      "ids": [
+        "IX.1.1",
+        "IX.1.2",
+        "IX.1.3",
+        "IX.1.4",
+        "IX.1.5",
+        "IX.1.6",
+        "IX.1.7",
+        "IX.1.8",
+        "IX.1.9",
+        "IX.1.10"
+      ]
+    },
+    {
+      "slug": "new-korea-after-1945",
+      "title": "After 1945: governing and surviving",
+      "description": "A thematic detour from the end of empire through local political organization, everyday survival, and the outbreak of war.",
+      "kicker": "Public life and division",
+      "ids": [
+        "IX.1.1",
+        "IX.1.4",
+        "IX.1.6",
+        "IX.1.8",
+        "IX.1.9",
+        "IX.1.10",
+        "IX.3.3"
+      ]
+    },
+    {
       "slug": "ideas-and-expression",
       "title": "Ideas and expression",
       "description": "Foundation stories, learning, writing, reform, and cultural influence.",

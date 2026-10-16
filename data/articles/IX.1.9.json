@@ -1,0 +1,55 @@
+{
+  "id": "IX.1.9",
+  "title": "Strikes, Police, Political Violence, and the Autumn Uprising of 1946",
+  "kicker": "COMPLETE HISTORICAL CHAPTER",
+  "description": "One linked entry in Chapter IX.1, from liberation to divided state formation.",
+  "release": "H",
+  "sourceStatus": "Selective primary and Korean-language reference anchors; wider historical interpretation is original editorial synthesis, not academically peer-reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies — Encyclopedia of Korean Culture",
+      "title": "대구 십일사건 (Daegu October 1 Incident, 1946)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014119",
+      "role": "October 1946 unrest, food problems, police conduct and competing interpretations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.1.9:b01",
+      "title": "Strikes and the language of public order",
+      "paragraphs": [
+        "The labor conflicts and protests of 1946 grew within a society experiencing inflation, shortages, sharp political polarization, and disputes over the legitimacy of policing. The autumn upheavals were not a single event with a single leader and uniformly agreed aims. Strikes could begin around conditions of work or public administration and draw other grievances into their orbit. Police responses could produce new demonstrations, while factional organizations attempted to shape their direction. Reports written by authorities commonly emphasize threats to public order; accounts written by participants may emphasize grievances, violence suffered, and the demand to remove officials viewed as compromised by the colonial past. Both forms require contextual reading.",
+        "The geography of the unrest is essential. A national headline can flatten a varied landscape of urban factories, transport workers, rural communities, and provincial centers. The same slogan might have a different immediate meaning where a household was short of rice and where workers feared dismissals. Participants did not necessarily know the full scope of events unfolding elsewhere. Nor were all protests peaceful, or every act of repression justified by the existence of violent incidents. Reconstructing sequence—what occurred before police intervention, what followed it, and which evidence survives—matters more than assigning collective guilt to an entire political camp."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The October 1946 unrest began around Daegu and spread amid food shortages, political polarization and criticism of military-government policy.",
+          "locator": "역사적 배경 and 경과: Daegu October 1 incident",
+          "type": "direct",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "IX.1.9:b02",
+      "title": "Why administrative trust broke down",
+      "paragraphs": [
+        "A government with little popular legitimacy may interpret protest principally as disobedience. Demonstrators, in turn, may interpret a police unit as the continuation of familiar colonial authority even when its formal employer has changed. This reciprocal suspicion helps explain how practical disputes escalated. It does not excuse violence against civilians or erase differences among local circumstances. The critical historical problem is how political claims became inseparable from force: who could assemble, who could strike, who could arrest, and who would investigate deaths. Each answer shaped the meaning of postcolonial citizenship before a new constitution was written.",
+        "The events of autumn 1946 also warn against using later Cold War categories as an automatic explanation for every participant's motive. Communist organizations mattered, as did anti-communist repression and the politics of occupation. But many people experienced the crisis through wages, food, police conduct, and local reputation. A responsible reader should distinguish organized political strategy from the full set of grievances that gave demonstrations social depth. A historical narrative that is too tidy in its assignment of heroes and enemies is likely to be too tidy about the evidence."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IX.1.9:b03",
+      "title": "Memory survives unevenly",
+      "paragraphs": [
+        "Violence can produce contradictory archives. Security forces document threats and arrests; parties commemorate martyrs; family memories preserve losses that never entered an official file. Later states may discourage certain memories and elevate others. The role of scholarship is not to combine these materials into an easy average. It is to ask what each source can show, where testimony conflicts, and which questions remain unanswered. That method preserves the distinction between documented event, plausible interpretation, and rhetoric employed afterward. The autumn uprisings belong to the larger history of state-building because they reveal how early administrative decisions affected the boundary between authorized politics and punishable dissent."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

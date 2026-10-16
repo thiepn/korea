@@ -224,3 +224,7 @@ Run `python3 scripts/integrate_batch_g.py`, `npm run build`, and
 Research metadata is restricted to selected factual claims; historical
 interpretations and every unannotated paragraph are original editorial
 synthesis, not comprehensive peer-reviewed scholarship.
+
+## Batch H — Liberation to partition (complete Chapter)
+
+Source-driven fourth complete Chapter `IX.1.1`–`IX.1.10`, with seven new entries and append-only deepening of four earlier subjects. The original 1945–1948 evidence anchors and their limitations are documented in `content/research/batch_h_sources.json`; the human-authored Markdown manuscripts are `content/editorial/batch_h_*.md` and their replayable import is `content/imports/batch_h_collections.jsonl`. Run `python3 scripts/prepare_batch_h.py` to reprepare from editable sources, `python3 scripts/ingest.py content/imports/batch_h_collections.jsonl --dry-run` to check replay and `npm run test:h` for integrity and Chromium journeys. `python3 scripts/build_release.py` publishes only compiled assets. Batch H does not modify the canonical v1.1 architecture.
