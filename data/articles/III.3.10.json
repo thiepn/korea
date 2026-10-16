@@ -1,0 +1,72 @@
+{
+  "id": "III.3.10",
+  "title": "Kim Chunchu, Kim Yushin, and the Reorganization of Late Silla Leadership",
+  "kicker": "SILLA · COMPLETE CHAPTER",
+  "description": "A new chapter-scale original synthesis; selected factual anchors have institutional sources, interpretations and uncertainties remain editorial.",
+  "release": "G",
+  "sourceStatus": "Specific claims are marked with institutional references; the remaining essay is interpretive synthesis, not claim-by-claim peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "King Taejong Muyeol / Kim Chunchu (태종무열왕)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0059042",
+      "role": "Diplomacy, kinship alliances, Daeya and accession"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Kim Yushin (김유신)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0010086",
+      "role": "Gaya ancestry, military leadership, alliance with Chunchu"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.3.10:b01",
+      "title": "Two careers joined by a political problem",
+      "paragraphs": [
+        "Kim Chunchu and Kim Yushin became central to the seventh-century realignment that preceded Silla's campaigns against Baekje and Goguryeo. Chunchu worked within royal kinship politics and increasingly international diplomacy; Yushin built military influence and drew on the complex status of a family descended from Gaya elites. Their alliance was more than the familiar pairing of a clever negotiator and a victorious general. It joined constituencies that did not necessarily share an automatic claim to the same future. Family connections, marriages and court offices gave their cooperation an institutional base.",
+        "The later national story of unification often places their choices at the end of an inevitable progression. Neither could have known that outcome. Both operated under uncertainty after defeats, succession disputes and changing relations among Silla, Baekje, Goguryeo and Tang. The important question is how they turned political vulnerability into a coordinated strategy. The answer lies in the patient work of building allies inside the kingdom while finding possibilities outside it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "III.3.10:b02",
+      "title": "Loss made international strategy urgent",
+      "paragraphs": [
+        "The loss of Daeya fortress in 642 was an immediate personal and strategic catastrophe for Chunchu, whose family was directly affected. The event helped drive attempts to find support beyond Silla. The routes by which diplomats sought assistance involved considerable risk: another king might demand concessions unacceptable at home, or a foreign court might decide its own interests lay elsewhere. Diplomatic success in a chronicle can compress years of anxiety into a triumphant audience with an emperor; such literary shape should not disguise the danger of failure.",
+        "Silla's approach to Tang eventually became a central pillar of its strategy. Yet an alliance between unequal powers is not the same as the surrender of every independent aim. The two partners sought overlapping results without sharing an identical vision of what the peninsula should become after war. This problem would become unmistakable in conflicts that followed the defeat of Baekje and Goguryeo. The seeds of later disagreement were present whenever an envoy had to explain whose victory a campaign would secure."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.3.10:b03",
+      "title": "Building military and courtly trust",
+      "paragraphs": [
+        "Yushin's career shows how martial credibility and court politics intertwined. His ancestry connected him to Gaya's royal past; his service tied him to a Silla order that had incorporated those earlier polities. Neither identity can be reduced to a modern ethnic category. Command required leadership, resources and a reputation that persuaded others to act under him, but his authority also rested on relationships among powerful families. His connection with Chunchu helped transform military influence into a durable faction capable of affecting royal succession.",
+        "Biographical writing about famous generals tends to surround them with exemplary childhood discipline and decisive battlefield gestures. Such material should be read with attention to its moral aims. A heroic narrative can reveal how later generations imagined loyalty even where its detail cannot be checked independently. What can be examined more firmly is the network of offices, campaigns and alliances within which Yushin operated. The compelling story is less that one prodigy saved a kingdom than that political organization made skilled command consequential."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "III.3.10:b04",
+      "title": "A new centre of rule, not an ending",
+      "paragraphs": [
+        "Chunchu's accession as King Muyeol in 654 marked a major shift in royal succession and the coalition around it. Military campaigns against Baekje followed; the conquest of Goguryeo came later under successors and allies. These outcomes were purchased with destruction and new struggles over whose authority would replace the defeated regimes. The reader should be cautious with the word unification, which describes a political project and a later historical interpretation rather than the immediate consent of all the peninsula's inhabitants.",
+        "The concluding chapter of Silla's rise thus opens another history rather than finishing one. A kingdom that had survived by appealing for outside help around 400 now pursued expansion with powerful allies of its own. Its leaders gained astonishing opportunities and dangerous new obligations. The wars of the 660s would test whether an alliance sufficient to defeat shared enemies could also produce an enduring political settlement. This was the unresolved problem handed from Chunchu and Yushin to the next generation."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "Kim Chunchu succeeded to the throne in 654 and was allied politically with Kim Yushin.",
+          "sourceIndex": 0,
+          "locator": "Accession and political alliance with Kim Yushin",
+          "type": "direct"
+        }
+      ]
+    }
+  ]
+}

@@ -51,6 +51,14 @@
       "detail": "Han conquest changes administrations while people and practices continue to interact across boundaries."
     },
     {
+      "date": "c. 356 CE",
+      "year": 356,
+      "era": "III",
+      "id": "III.3.1",
+      "title": "Silla in a changing eastern peninsula",
+      "detail": "The Kim royal line develops a firmer centre around Gyeongju, amid shifting aristocratic allegiances."
+    },
+    {
       "date": "Late fourth century CE",
       "year": 391,
       "era": "III",
@@ -67,12 +75,60 @@
       "detail": "Royal authority is consolidated through lineages, burial display and shifting political relationships."
     },
     {
+      "date": "400 CE",
+      "year": 400,
+      "era": "III",
+      "id": "III.3.3",
+      "title": "The Goguryeo intervention",
+      "detail": "The Gwanggaeto inscription records Silla requesting support and Goguryeo entering the southern conflict."
+    },
+    {
+      "date": "Fifth century CE",
+      "year": 465,
+      "era": "III",
+      "id": "III.3.4",
+      "title": "A century of growing independence",
+      "detail": "Elites, diplomacy and political organization gradually increase Silla’s room to act beyond Goguryeo’s influence."
+    },
+    {
       "date": "Early sixth century CE",
       "year": 503,
       "era": "III",
       "id": "III.3.5",
       "title": "Jijeung and institutional reform",
       "detail": "Titles, naming and official organization provide new public languages of rule."
+    },
+    {
+      "date": "c. 550s CE",
+      "year": 550,
+      "era": "III",
+      "id": "III.3.7",
+      "title": "Jinheung and the Han River campaigns",
+      "detail": "Royal expansion brings Silla into the central peninsula; steles publicize authority and newly claimed territory."
+    },
+    {
+      "date": "Sixth century CE",
+      "year": 575,
+      "era": "III",
+      "id": "III.3.8",
+      "title": "The political order of bone rank",
+      "detail": "Inherited social status and aristocratic privilege structure access to office and the conflicts of succession."
+    },
+    {
+      "date": "632–647 CE",
+      "year": 632,
+      "era": "III",
+      "id": "III.3.9",
+      "title": "Seondeok’s reign and a challenged court",
+      "detail": "Military pressure, diplomatic initiatives, ambitious sacred construction and revolt mark the years of a Silla queen."
+    },
+    {
+      "date": "654 CE",
+      "year": 654,
+      "era": "III",
+      "id": "III.3.10",
+      "title": "Kim Chunchu becomes King Muyeol",
+      "detail": "An alliance of royal lineage, military strength and diplomacy prepares the kingdom for new campaigns and conflicts."
     },
     {
       "date": "668 and the years after",
@@ -491,6 +547,61 @@
       "from": "IX.3.9",
       "to": "IX.3.10",
       "why": "Negotiation disagreements shaped the detailed repatriation and monitoring provisions ultimately written into the July 1953 armistice."
+    },
+    {
+      "from": "III.3.1",
+      "to": "III.3.2",
+      "why": "Silla’s emerging royal centre supplies the contested setting in which maripgan leadership and Kim-family succession gained prominence."
+    },
+    {
+      "from": "III.3.2",
+      "to": "III.3.3",
+      "why": "The consolidation associated with Naemul did not prevent the dangerous appeal for Goguryeo support around the year 400."
+    },
+    {
+      "from": "III.3.3",
+      "to": "III.3.4",
+      "why": "The rescue of 400 created political dependence; the following century shows how rulers sought greater room to act independently."
+    },
+    {
+      "from": "III.3.4",
+      "to": "III.3.5",
+      "why": "Fifth-century networks and elite consolidation supplied the foundations for the named institutional changes under Jijeung."
+    },
+    {
+      "from": "III.3.5",
+      "to": "III.3.7",
+      "why": "New public titles and forms of rule helped Silla turn a southeastern court into a state able to claim territories much farther away."
+    },
+    {
+      "from": "III.3.6",
+      "to": "III.3.7",
+      "why": "Beopheung’s legal and religious projects provide context for the military ambition and royal monument building of Jinheung’s reign."
+    },
+    {
+      "from": "III.3.7",
+      "to": "III.3.8",
+      "why": "Territorial growth increased both royal resources and aristocratic competition within the inherited bone-rank hierarchy."
+    },
+    {
+      "from": "III.3.8",
+      "to": "III.3.9",
+      "why": "Hereditary rank made Seondeok’s succession possible while also giving rivals powerful languages for disputing her authority."
+    },
+    {
+      "from": "III.3.9",
+      "to": "III.3.10",
+      "why": "The losses and elite conflicts of Seondeok’s reign changed the strategic choices that Kim Chunchu and Kim Yushin inherited."
+    },
+    {
+      "from": "III.3.10",
+      "to": "IV.3.1",
+      "why": "The ruling coalition that expanded Silla cannot be understood apart from the social hierarchy and dependent labour of its society."
+    },
+    {
+      "from": "III.3.7",
+      "to": "IV.3.3",
+      "why": "Royal conquests transformed the obligations of local communities; farmers and villages bore practical consequences of wider control."
     }
   ]
 }

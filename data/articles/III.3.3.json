@@ -1,0 +1,72 @@
+{
+  "id": "III.3.3",
+  "title": "Naemul, Goguryeo, and the Crisis around 400",
+  "kicker": "SILLA · COMPLETE CHAPTER",
+  "description": "A new chapter-scale original synthesis; selected factual anchors have institutional sources, interpretations and uncertainties remain editorial.",
+  "release": "G",
+  "sourceStatus": "Specific claims are marked with institutional references; the remaining essay is interpretive synthesis, not claim-by-claim peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwanggaeto Stele (광개토왕릉비)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005058",
+      "role": "Inscription account of Silla appeal and the 400 campaign; interpretations contested"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Naemul Maripgan (내물마립간)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012440",
+      "role": "Reign, Kim dynasty consolidation and relations with Goguryeo"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.3.3:b01",
+      "title": "An appeal for rescue",
+      "paragraphs": [
+        "In the closing years of the fourth century, Silla confronted threats that its own forces could not confidently contain. The inscription celebrating Goguryeo's King Gwanggaeto records an appeal from Silla amid attacks attributed to forces associated with Wa. In its telling, Goguryeo responded with a major expedition in 400 and pursued opponents into the southern peninsula. The inscription is extraordinary because it is relatively close to the events and offers a version written to celebrate a particular king. It is not a neutral operations diary. Its vocabulary of submission, enemies and rescue serves the monument's political purpose.",
+        "That qualification matters. Historians have argued about readings of damaged inscription characters, the identities hidden within broad labels, and the organization of the forces described. A modern map with sharply coloured armies would hide much of that uncertainty. Nevertheless the underlying predicament is clear enough: warfare in the southeast could draw in a northern kingdom of much greater reach, and Silla could save itself by accepting an unequal relationship. Military help was not free. Protection carried expectations about allegiance, access and the ability of Goguryeo officials or troops to exert influence."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The Gwanggaeto inscription records Silla’s request and a major Goguryeo intervention in 400.",
+          "sourceIndex": 0,
+          "locator": "Inscription entry: 399 request and 400 campaign",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.3.3:b02",
+      "title": "The price of a stronger ally",
+      "paragraphs": [
+        "A dependence formed in crisis can change politics inside the protected court. Goguryeo's prestige and armed capacity offered one faction a route to security while limiting Silla's freedom to maneuver among rivals. Rulers might send hostages or receive representatives as guarantees of relations, and later chroniclers saw the period as one in which the northern power could intrude on succession. We should distinguish well-attested broad influence from overprecise stories about how every court decision was made. The sources do not let us overhear private negotiations between royal houses.",
+        "For the people living along the routes of an intervention, the meaning of rescue could be much less abstract. Armies consumed grain, horses required fodder, and the movement of fighters could unsettle local arrangements even after combat ended. Neither the scale of these burdens nor the experiences of individual families can simply be read off a victory inscription. Asking about them restores the difference between the public language of kings and the costs of their policies. The relationship enlarged Silla's options in one direction while narrowing them in another."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.3.3:b03",
+      "title": "A monument is an argument",
+      "paragraphs": [
+        "Gwanggaeto's stele names achievements in a manner intended to make a reign memorable. Its account must be compared with later Korean histories and with archaeological indications of influence in the peninsula. That comparison does not require assuming that any one source must always be false. A monument may preserve important events while organizing them to magnify its commissioner's authority; a later chronicle may preserve useful traditions while fitting them into a dynastic scheme. Where the sources disagree or remain damaged, responsible history leaves space for the disagreement.",
+        "The intervention also exposes the inadequacy of a simple Three Kingdoms triangle. Polities and coalitions associated with Gaya and with the archipelago mattered, and the actors grouped under the name Wa were not necessarily one permanent, centrally directed state in every encounter. Labels meant different things in different texts. Any history that turns every fifth-century relationship into a modern alliance among fixed national states risks removing the very complexity that shaped the decisions of Silla's rulers."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "III.3.3:b04",
+      "title": "Recovery without forgetting",
+      "paragraphs": [
+        "Silla did not stay in a permanently subordinate position. During the fifth century its rulers sought greater room to decide their own affairs, built stronger connections within the peninsula, and contributed to the conditions for later expansion. Yet recovery need not imply that Goguryeo's influence vanished on a single date. Diplomatic relationships loosen gradually; royal households can assert independence while still borrowing prestigious cultural forms or acknowledging a neighbour's military strength.",
+        "The great lesson of the crisis around 400 is not that Silla was destined to triumph because it survived. Many political communities survive emergencies only to face new ones. Here an outside intervention prevented a defeat but posed a lasting question: how could a small southeastern court transform borrowed security into capacity of its own? The next century's politics can be read as successive attempts to answer that question through warfare, claims of royal legitimacy, and the painstaking reorganization of authority."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

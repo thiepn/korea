@@ -205,3 +205,22 @@ python3 tests/batch_f_journeys.py
 The reader shows source links directly beneath passages with specific anchored claims, separate from the general institutional references at the top. *A source link supports only the displayed claim and locator; the remaining narrative is editorial synthesis and not claim-by-claim academic verification.* Some entries have only contextual reference links rather than a verified factual annotation. Translations, textual criticism and plural historical perspectives remain necessary for a scholarly release.
 
 Browser-local reading persistence and immutable content-addressed packs are unchanged. No new API, account, storage service, or paid platform was introduced. Deployment remains `python3 scripts/build_release.py` → `dist/` in the existing Cloudflare Pages project. Local real-origin Chromium navigation may be blocked by administration policy; simulated-asset Chromium tests and command-line local HTTP serving are distinct checks.
+
+## Batch G — Three Complete Chapters and Source-First Depth
+
+The original ten-Part canonical architecture is unchanged. Chapter `III.3` is now
+readable end to end, alongside `VI.4` and `IX.3`. Homepage cards and Chapter
+reading routes are derived from published canonical availability and a matching
+curated trail; there is no hidden fallback to an unrelated trail.
+
+The source batch `content/editorial/batch_g_silla.md` and append-only
+`content/editorial/batch_g_deepening.md` compile through
+`scripts/prepare_batch_g.py` to `content/imports/batch_g_collections.jsonl`.
+Re-run `python3 scripts/prepare_batch_g.py` then the idempotent
+`python3 scripts/ingest.py content/imports/batch_g_collections.jsonl`.
+Run `python3 scripts/integrate_batch_g.py`, `npm run build`, and
+`npm run test:g` for relevant integrity and Chromium checks.
+
+Research metadata is restricted to selected factual claims; historical
+interpretations and every unannotated paragraph are original editorial
+synthesis, not comprehensive peer-reviewed scholarship.

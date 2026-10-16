@@ -1,6 +1,6 @@
 {
   "name": "korea-interactive-history",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -11,6 +11,7 @@
     "test:c": "python3 tests/batch_c_pipeline.py && python3 tests/batch_c_journeys.py",
     "test:d": "python3 tests/batch_d_pipeline.py && python3 tests/batch_d_journeys.py",
     "test:e": "python3 tests/batch_e_pipeline.py && python3 tests/batch_e_journeys.py",
-    "test:f": "python3 tests/batch_f_pipeline.py && python3 tests/batch_f_journeys.py"
+    "test:f": "python3 tests/batch_f_pipeline.py && python3 tests/batch_f_journeys.py",
+    "test:g": "python3 tests/batch_g_pipeline.py && python3 tests/batch_g_journeys.py"
   }
 }

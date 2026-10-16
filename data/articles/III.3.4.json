@@ -1,0 +1,72 @@
+{
+  "id": "III.3.4",
+  "title": "Fifth-Century Independence and Territorial Growth",
+  "kicker": "SILLA · COMPLETE CHAPTER",
+  "description": "A new chapter-scale original synthesis; selected factual anchors have institutional sources, interpretations and uncertainties remain editorial.",
+  "release": "G",
+  "sourceStatus": "Specific claims are marked with institutional references; the remaining essay is interpretive synthesis, not claim-by-claim peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Silla (신라), Encyclopedia of Korean Culture",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032800",
+      "role": "General historical framework and succession; contextual, not a direct certification of interpretation"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gyeongju Historic Areas",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "role": "Documented archaeological monuments, tomb groups and Hwangnyongsa and Bunhwangsa buildings"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.3.4:b01",
+      "title": "Power moves beyond the basin",
+      "paragraphs": [
+        "Fifth-century Silla pursued independence by strengthening the connections between its Gyeongju centre and communities outside it. Expansion should not always be imagined as a succession of pitched battles. A frontier settlement might enter the royal sphere through a marriage arrangement, a negotiated submission, a garrison, a change in tribute, or the appointment of a local intermediary. Such mechanisms seldom produce the same dramatic narrative as a campaign, but they can bind territory for longer. Where the evidence is fragmentary, the direction of change is more secure than the exact administrative shape of every acquisition.",
+        "Contemporary observers would not have perceived a clean national border creeping outward each season. Influence could follow roads, valleys and the relationships of powerful people; contested districts might pay obligations in more than one direction. Silla's developing independence from Goguryeo made such local bargaining possible, but it also exposed the court to pressure from Baekje and other neighbours. The kingdom needed to turn a temporary coalition into institutions that could still function after a charismatic leader died."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "III.3.4:b02",
+      "title": "A new language of royal distinction",
+      "paragraphs": [
+        "Elite graves in the Gyeongju region offer one striking window onto the century. Monumental burial mounds, gold ornaments and imported or locally adapted prestige goods demonstrate the capacity to mobilize specialists and material resources. The objects do not allow a simple equation between their richness and the power of an individual ruler. Families used burial display to speak to their contemporaries and descendants about standing. The gold crown seen today behind museum glass was part of a ceremony and a social world, not an isolated national emblem.",
+        "Burial wealth also leaves an obvious imbalance in the historical record. One can study elite textiles through surviving fittings and costly ornaments much more easily than the work clothing of farmers, and it is tempting to mistake that survival pattern for the structure of society. The splendour of the tumuli depends on the labour of people largely absent from their inscriptions. Describing a more powerful court without describing the households that sustained it would make political consolidation appear costless."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "The Gyeongju tumuli contain elaborate elite grave goods, including gold and imported material.",
+          "sourceIndex": 1,
+          "locator": "Tumuli Park Belt archaeological description",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.3.4:b03",
+      "title": "Diplomacy as a practical instrument",
+      "paragraphs": [
+        "Silla's rulers operated within an East Asian world of envoy exchange and strategic knowledge. The image of a sealed peninsula separated from wider politics belongs to later simplifications. Courts learned about one another through visitors and exchanges, and diplomatic missions could make claims about rank while seeking useful goods or allies. The relationship with Goguryeo was especially consequential because its northern reach and military importance persisted even as Silla tried to act more independently.",
+        "Diplomatic etiquette was not ornamental decoration for a conflict fought elsewhere. What title a ruler received, who escorted an envoy, which court accepted another's letter and how gifts were described could signal the terms of a relationship. Such signals required interpretation, and courtly language could exaggerate submission or autonomy. A careful reader treats those signs as political evidence, not as exact measurements of military power. Fifth-century kingship was made both on the battlefield and in encounters where nobody drew a sword."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "III.3.4:b04",
+      "title": "Preparing the sixth-century reforms",
+      "paragraphs": [
+        "By the end of the fifth century, royal authority could demand more consistent forms of public acknowledgement. The developments associated with Jijeung and Beopheung in the following decades did not appear from nowhere. A court confident enough to promulgate titles, laws and religious sponsorship had inherited networks of people accustomed, to varying degrees, to acting under its name. Those networks were uneven. Local power did not suddenly disappear, and traditional privileges could survive behind newer administrative language.",
+        "The fifth-century story is thus neither a simple liberation from Goguryeo nor an uninterrupted march toward unification. It is the slower making of the means of government. Silla learned to secure resources, recognize allies, display royal distinction and connect its centre with districts where authority remained negotiable. The result was a stronger kingdom, but also one with greater obligations to protect and administer a larger, more varied population."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

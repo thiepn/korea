@@ -1,0 +1,72 @@
+{
+  "id": "III.3.7",
+  "title": "Jinheung and the Great Expansion of Silla",
+  "kicker": "SILLA · COMPLETE CHAPTER",
+  "description": "A new chapter-scale original synthesis; selected factual anchors have institutional sources, interpretations and uncertainties remain editorial.",
+  "release": "G",
+  "sourceStatus": "Specific claims are marked with institutional references; the remaining essay is interpretive synthesis, not claim-by-claim peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "King Jinheung (진흥왕)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055013",
+      "role": "Reign 540–576, expansion and court-sponsored historical compilation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jinheung Royal Inspection Steles (진흥왕 순수비)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055015",
+      "role": "Four preserved steles and their geographical and political significance"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.3.7:b01",
+      "title": "Why Jinheung's reign changed the map",
+      "paragraphs": [
+        "King Jinheung's reign, conventionally dated 540 to 576, forms one of the decisive transformations of Silla's political geography. The court moved from a southeastern power into a more formidable competitor for the central peninsula, including the strategically important Han River region. It did so through the interplay of military force and changing alliances, including a relationship with Baekje that broke down during contested expansion. Accounts written with later hindsight can make this sequence look like a brilliantly fixed plan. For participants it was a series of dangerous calculations in which yesterday's partner could become tomorrow's enemy.",
+        "The Han River mattered for more than symbolic command of a line on a map. Access to its basin offered routes of communication, agricultural resources and opportunities for interaction with northern and western regions. Control required more than winning a campaign: the court had to keep defenders supplied and persuade or compel local actors to accept new demands. A victory inscription might assert possession, yet the more difficult historical question concerns the practical life of territory after the victorious army had departed."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "III.3.7:b02",
+      "title": "Stones that announced a king",
+      "paragraphs": [
+        "The surviving Jinheung royal inspection steles are unusually important because they record claims of royal presence and order in newly controlled regions. The four surviving monuments conventionally grouped as Jinheung's inspection inscriptions provide evidence for mid-sixth-century expansion and the court's administrative and ideological self-presentation. They must nevertheless be read as staged declarations. An inscription says what power wanted to commemorate; it is not a survey of every household in a province or proof that political control was never challenged.",
+        "To imagine the act of setting up a stele is to see several forms of authority meeting. Stonecutters had to prepare a durable material, literate people composed formal language, attendants and soldiers made royal movement possible, and local audiences were invited or required to recognize what the inscription proclaimed. A monument tied geography to memory: it told future readers that the king had stood here and given the place a meaning within the royal order. Yet landscapes remained lived environments whose inhabitants could interpret that order in more than one way."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Four surviving Jinheung royal inspection steles document mid-sixth-century territorial expansion.",
+          "sourceIndex": 1,
+          "locator": "Summary of four inspection inscriptions",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "III.3.7:b03",
+      "title": "Religion, history, and ambition",
+      "paragraphs": [
+        "Jinheung's reign was not only a history of frontier movement. The period is associated with state-sponsored historical compilation and Buddhist construction. Later accounts describe the compilation of a national history during his rule; that work is lost, leaving modern readers to infer its purposes and possible influence on subsequent writing. A royal history could supply a legitimating past to a rapidly expanding government, explaining not only who had ruled but why the present dynasty deserved respect. Such a text belongs to the politics of memory as much as to the collection of information.",
+        "The development of monumental Buddhist projects in Gyeongju likewise joined devotion with public royal ambition. Religious patronage offered forms of legitimacy recognizable beyond a single lineage, while temples gathered labour and resources over extended periods. It is too simple to call such building either pure faith or pure propaganda. Patronage could be sincere and politically useful at the same time. The remaining sites allow the visitor to recognize the scale of royal ambition without pretending that archaeology reconstructs every ceremony staged among the vanished wooden structures."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "III.3.7:b04",
+      "title": "The cost and durability of a wider kingdom",
+      "paragraphs": [
+        "A larger Silla created new demands on administrators and subjects alike. Communication took longer, distant territories generated rival loyalties, and wars opened grievances that could endure after treaties. The court's ability to project authority was impressive; its ability to govern all the consequences of conquest was less certain. This tension helps explain why sixth-century change was followed by renewed conflict rather than tranquil, automatic unification. Expansion created assets, liabilities and new political expectations together.",
+        "Jinheung's legacy is most revealing when the map and the inscription are read side by side. The map shows how far influence could reach at a particular moment. The inscription asks how that reach was publicly justified. Neither alone explains how ordinary people lived under the new order. Their combination leads onward to the bone-rank structure, disputes within elite households, and the seventh-century kings who tried to carry Silla's reach beyond the limits established by conquest."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

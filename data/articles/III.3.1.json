@@ -1,0 +1,72 @@
+{
+  "id": "III.3.1",
+  "title": "Silla at the Beginning of the Fourth Century",
+  "kicker": "SILLA · COMPLETE CHAPTER",
+  "description": "A new chapter-scale original synthesis; selected factual anchors have institutional sources, interpretations and uncertainties remain editorial.",
+  "release": "G",
+  "sourceStatus": "Specific claims are marked with institutional references; the remaining essay is interpretive synthesis, not claim-by-claim peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Silla (신라), Encyclopedia of Korean Culture",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032800",
+      "role": "General historical framework and succession; contextual, not a direct certification of interpretation"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gyeongju Historic Areas",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "role": "Documented archaeological monuments, tomb groups and Hwangnyongsa and Bunhwangsa buildings"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.3.1:b01",
+      "title": "A kingdom before it looked inevitable",
+      "paragraphs": [
+        "The Silla that later ruled much of the peninsula did not enter the fourth century as the obvious winner of a three-kingdom contest. Its royal centre lay in the southeastern basin around present-day Gyeongju, where older settlements, local alliances, and ancestral claims were being translated into the language of kingship. Looking backward from the seventh century creates the impression of a straight line of growth. Looking forward from the early fourth produces a less comfortable picture: power had to be bargained for among influential families, outsiders controlled important routes, and a royal command could only travel as far as the relationships capable of carrying it. The crown was becoming a centre of authority, not yet an all-purpose institution.",
+        "The problem is compounded by the sources. Much of the connected written narrative survives through histories compiled centuries afterward, above all the Samguk sagi. Those histories supply reigns, battles and memorable deeds, but they arrange the past through later categories of legitimate government. Archaeology permits a different approach. Burial grounds and the material demands of elite display reveal communities with wealth and connections, while offering only indirect evidence for the boundaries of an early kingdom. A richly equipped grave is proof of investment in a person and an image of rank, not a census of the people who obeyed that person. Both records and objects must be kept in view."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The Silla kingdom emerged from the southeastern Gyeongju region.",
+          "sourceIndex": 0,
+          "locator": "Overview and historical setting",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.3.1:b02",
+      "title": "Gyeongju as a political landscape",
+      "paragraphs": [
+        "The capital region can be imagined as a set of connected working spaces rather than a dot on a map. Fields sustained households; paths joined settlements to the royal basin; workshops processed metals and produced goods demanded by prominent families. River passages and mountain approaches linked the centre to its neighbours while also offering places to defend. Even when surviving remains are monumental, the daily operation of a court depended on unmonumental labour. Farmers, carriers, builders and servants made political concentration possible, although their biographies seldom enter the named chronicles.",
+        "The long archaeological sequence around Gyeongju cautions against treating a later palace or tomb group as a photograph of the early fourth century. Construction accumulated across generations, and landscapes were reused. Excavation can establish that people built and buried in particular places, but the date of a stone foundation does not license us to project a later administrative office backward unchanged. The early kingdom's interest lies precisely in that incomplete institutional setting. We can observe the growth of the centre without assuming that every later element had already been decided."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "III.3.1:b03",
+      "title": "Family competition and a precarious crown",
+      "paragraphs": [
+        "Several lineages were remembered as foundational to Silla's kingship. Their appearance in early historical narratives reflects a political culture in which ancestral legitimacy mattered, yet the exact workings of succession are difficult to reconstruct from later retellings. In such a setting royal ascent meant more than victory by one individual. It involved durable marriages, military support, control of prestige goods, and the capacity to persuade aristocratic participants that a particular succession protected their own positions. A failed compromise could become a dispute about the ruler's very right to command.",
+        "The coming consolidation of the Kim royal line should therefore be read as an outcome rather than as a natural law. Political centres grow by narrowing some choices and creating new ones. A throne might become more predictable for the ruling house while becoming less accessible to families once able to compete for it. The story also intersects with relations beyond Silla: neighbouring courts could recognize, pressure or protect particular claimants. A dynasty's internal politics and its diplomatic surroundings were not separate worlds."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "III.3.1:b04",
+      "title": "How to read the beginning of an expansion",
+      "paragraphs": [
+        "Histories regularly ask when Silla became a state, as though one year could mark a transformation from fragmented society to coherent kingdom. The question is useful only when broken into smaller ones. At what point did titles change? When could rulers summon fighters beyond their immediate kin? When did central officers administer land or law? How much authority did local communities continue to exercise? The answers can differ by region and by source, and there is no need to force them into a single ceremonial birth date.",
+        "Early fourth-century Silla is best approached as a place where institutions were still becoming visible. The subsequent military and diplomatic crises illuminate that development: dependence on a powerful neighbour could strengthen one ruler while constraining his successor; territorial expansion could create new taxable communities but also new claims upon royal protection. This is the setting for the maripgan kings, the intervention of Goguryeo, and the reforms that later enabled Silla to contest power much farther from Gyeongju."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}
