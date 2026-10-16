@@ -103,6 +103,16 @@
       ],
       "sequence": 7,
       "label": "Batch Q · social evidence and regional context"
+    },
+    {
+      "id": "X.3.8:b08",
+      "title": "Do not confuse a cohort with a personality",
+      "paragraphs": [
+        "Claims that an entire generation is apathetic, entitled or excessively online often generalize from memorable anecdotes. Social surveys have sampling limits, and the loudest voices on digital platforms are rarely representative of all users. People of the same age experience sharply different family resources, housing markets and workplaces.",
+        "Meaningful comparison follows changing institutions: expanded tertiary education, evolving job security, higher metropolitan housing costs and digitally mediated communication. These conditions alter available options but do not dictate a uniform response. The historical unit of analysis must remain a population with internal differences, not a stereotype presented as demographic fact."
+      ],
+      "sequence": 8,
+      "label": "Batch Q · corroboration and interpretive limits"
     }
   ]
 }
