@@ -79,6 +79,26 @@
       ],
       "sequence": 4,
       "label": "Original research synthesis · evidence-conscious"
+    },
+    {
+      "id": "I.3.2:b05",
+      "title": "Multiple clocks for one archaeological assemblage",
+      "paragraphs": [
+        "A pottery style assigned to one phase and a radiocarbon estimate from an associated hearth do not always tell the same chronological story. One date may come from fuel burned during use, another from material redeposited after abandonment, and a third from comparison with vessels found elsewhere. A sound chronology evaluates these associations, any laboratory uncertainties and the likelihood that deposits were mixed. The difference between calibrated and uncalibrated years before present can create additional confusion for readers who assume a number is a straightforward calendar date.",
+        "Period labels remain useful because they permit comparison across many excavations. They become dangerous when they appear more precise than the evidence. A mid-Chulmun horizon is not proof that every household across the peninsula adopted a new vessel shape in a single generation. Some practices persisted and others overlapped. Historians should state when a dating framework is region-specific and explain how sites were assigned to it. Such explanations let readers understand why scholars can disagree without implying that archaeology has no standards for assessing chronology."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · evidence-conscious original expansion"
+    },
+    {
+      "id": "I.3.2:b06",
+      "title": "The history of collecting shapes the imagined culture",
+      "paragraphs": [
+        "Early archaeologists frequently used easily recognized ceramic decoration to define cultural units. That work created important comparative collections but could privilege the decorative material that museums most readily displayed. Later research into microscopic residues, stone production, settlement floors and plant remains expanded the evidence beyond the sherd. A so-called pottery culture may in fact contain many distinct strategies of food provisioning and dwelling.",
+        "Changing research methods also alter where sites appear on maps. Excavation accompanying roads, housing construction or other development may concentrate knowledge in regions undergoing the most disturbance. Areas with little development can remain archaeologically underrepresented even when they were historically significant. This creates a double selection problem: what survived in ancient sediments, and which surviving deposits modern people investigated. A persuasive Chulmun synthesis accounts for both before describing regional cultural boundaries as though they were fixed historical facts."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · evidence-conscious original expansion"
     }
   ]
 }

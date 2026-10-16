@@ -99,6 +99,26 @@
       ],
       "sequence": 10,
       "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.4:b11",
+      "title": "A hearth can persist beyond one household",
+      "paragraphs": [
+        "A hearth marks a location of burning, but its presence in a house feature does not establish that a single family cooked there every day of the year. Hearths may be cleaned and rebuilt, households may relocate within a settlement, and buildings may be reused by others. Microscopic ash layers, associated remains and relationships with floors can sometimes reveal sequences of use. This makes the hearth a chronological and spatial archive rather than a transparent picture of intimate domestic life.",
+        "Social stories often begin with a family gathered around a fire because the image is easy to imagine. It is plausible that people met and worked near sources of heat, but the archaeological record does not recover the conversations or family roles of a particular Neolithic dwelling. Describing the evidence in detail can be more evocative than inventing dialogue. It directs attention to preparation of fuel, maintenance of fire, safe spatial arrangement and the recurring labor required to make the same place habitable."
+      ],
+      "sequence": 11,
+      "label": "Batch Q · evidence-conscious original expansion"
+    },
+    {
+      "id": "I.3.4:b12",
+      "title": "Settled does not mean isolated from movement",
+      "paragraphs": [
+        "A substantial dwelling investment may indicate repeated residence and attachment to place, yet some household members could travel frequently for resources or visits while others remained. Sedentism is not a binary category that assigns the same mobility to everyone in a community. A site may also be occupied intensively during certain seasons and left relatively quiet at others.",
+        "Understanding residence therefore requires following activities across multiple locations. The stone carried to a village, the fish bones deposited at a shell midden, and the pottery discarded beside a house may belong to connected patterns of movement. Their associations need to be demonstrated, but the wider landscape is indispensable. A history that studies only house sizes risks mistaking architecture for the complete organization of a community's economy and social relationships."
+      ],
+      "sequence": 12,
+      "label": "Batch Q · evidence-conscious original expansion"
     }
   ]
 }

@@ -80,6 +80,26 @@
       ],
       "sequence": 8,
       "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "I.3.3:b09",
+      "title": "Firing pottery was skilled material control",
+      "paragraphs": [
+        "Ceramic production required knowledge of clay behavior through drying and heating. Water content, wall thickness, inclusion material, and the intensity and distribution of heat could affect whether a vessel cracked or survived. Archaeological analysis of fabric and firing traces can illuminate general production techniques, yet a sherd often cannot reveal the exact firing installation or fuel chosen. A household might make vessels locally, acquire them from others, or use several sources, and each explanation requires evidence.",
+        "It is easy to underestimate this expertise because ceramic containers become familiar once they are commonplace. Producing a usable vessel without industrial temperature control involves repeated decisions and practice. Evidence of uneven firing or repair need not mark poor craftsmanship; it may record constraints under which a serviceable vessel was made. The most informative history of pottery reconstructs sequences of work rather than simply ranking decoration as elaborate or primitive."
+      ],
+      "sequence": 9,
+      "label": "Batch Q · evidence-conscious original expansion"
+    },
+    {
+      "id": "I.3.3:b10",
+      "title": "Pottery as an archaeological witness to food",
+      "paragraphs": [
+        "Carbonized encrustations, absorbed residues and impressions may reveal materials that vessels held or processed. Such findings need specialist methods and controls against contamination. A single identified plant or aquatic marker can establish a relevant association, but it cannot supply the full menu of a community. Mixed residues may reflect repeated use, and the surviving chemical signatures depend upon preservation as well as original contents.",
+        "Comb-pattern pottery is therefore an unusually valuable link between craft history and subsistence research, provided evidence is interpreted at the correct scale. The pot has a manufacturing biography and a use biography. It can be copied, carried, heated, broken, repaired and eventually discarded. Different parts of that biography leave different traces. The proper historical explanation follows those material stages instead of assigning a single ritual or ethnic significance to a decorative motif without independent support."
+      ],
+      "sequence": 10,
+      "label": "Batch Q · evidence-conscious original expansion"
     }
   ],
   "release": "C"
