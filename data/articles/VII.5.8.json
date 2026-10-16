@@ -1,0 +1,77 @@
+{
+  "id": "VII.5.8",
+  "title": "Clothing, Hairstyles, Grooming, Fashion, and Status Display",
+  "kicker": "LATER JOSEON · HOUSEHOLD HISTORY",
+  "description": "Original social history of kinship, work, care and everyday lives in later Joseon.",
+  "release": "M",
+  "sourceStatus": "Editorial historical synthesis with selective, claim-level contextual and institutional sources; not independently reviewed sentence by sentence.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "풍속화 — 조선 후기 생활의 시각 자료",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_30&levelId=kc_r300850",
+      "role": "Secondary interpretation of genre paintings; representations are not census data"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "조선 — 가족과 친족",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051904",
+      "role": "Secondary contextual synthesis of family, rites and hierarchy"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.5.8:b01",
+      "title": "Clothing could communicate before speech",
+      "paragraphs": [
+        "Clothing in later Joseon signaled social position, circumstance, age and aspirations, but it also provided warmth and protection. Fabrics varied in cost and availability; the same person could wear different garments for labor, travel, ritual and festival. The image of a formally dressed figure in a portrait should not be treated as a typical working outfit. Styles changed over time. Cuts, lengths, colors, headwear and methods of fastening responded to court fashion, local practice and the work of tailors and family textile makers. A historian studies clothes as both material objects and social signals."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VII.5.8:b02",
+      "title": "Making and repairing garments",
+      "paragraphs": [
+        "Much textile work occurred within households or small workshops. Fibers required preparation, garments were cut and sewn, and worn clothing could be patched or remade. A child's growing body or the arrival of winter required repeated attention to material needs. Families with money might commission better-quality work; others stretched cloth through careful reuse. The labor of clothing is often less visible than the regulations forbidding certain colors or accessories. Yet the ability to follow status prescriptions depended on resources. A household could know the ideal garment and still lack the cloth to make it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VII.5.8:b03",
+      "title": "Gender, hair and public expectations",
+      "paragraphs": [
+        "Hairstyles and head coverings conveyed status and could provoke argument when fashions changed. Elite propriety manuals offered advice about modesty and visible rank, especially for women, but those prescriptions were not identical to all habits in market towns and farm communities. Clothing also mediated movement: a person might change or adjust dress to travel, work or receive guests. Fashion could offer self-expression while exposing wearers to criticism. A social account must acknowledge women's choices and expertise without claiming that all women possessed the same scope for choice."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VII.5.8:b04",
+      "title": "Status rules meet marketplaces",
+      "paragraphs": [
+        "Sumptuary ideals sought to preserve hierarchy by distinguishing permissible appearance. Markets and increased purchasing opportunities complicated the connection between clothing and inherited position. Costly fabrics could circulate as gifts or display goods, while imitation and adaptation blurred visual boundaries. A complaint about extravagant dress may show anxiety over social change rather than furnish a reliable census of consumers. Household records, surviving textiles and dated images are stronger when read together. Material finds can confirm techniques and dimensions; written complaints illuminate the values contested around them."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VII.5.8:b05",
+      "title": "An archive made of perishable materials",
+      "paragraphs": [
+        "Fabric decays, making the history of ordinary dress uneven. Elite garments preserved in tombs and museums can offer extraordinary detail, but survivorship favors particular circumstances. Paintings may depict stylized roles, and later restorations can obscure earlier alterations. The historian must resist writing one permanent costume for several centuries. Clothing is most revealing when associated with the lives of its makers and wearers: who bought the cloth, who cut it, who mended it, and what conditions made a garment valuable beyond its visible beauty."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "Images of everyday life must be interpreted as genre representations rather than a statistically typical national wardrobe.",
+          "sourceIndex": 0,
+          "locator": "풍속화, 기록성과 미술적 구성",
+          "type": "context"
+        }
+      ]
+    }
+  ]
+}

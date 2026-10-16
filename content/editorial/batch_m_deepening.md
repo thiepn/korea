@@ -1,0 +1,15 @@
+# Batch M append-only additions to existing VII.5 articles
+
+## VII.5.2
+### Marriage as an ongoing arrangement
+Marriage joined households that continued to negotiate residence, economic support and relations with in-laws after the ceremony. It is therefore too narrow to treat a marriage document as proof of a fixed family structure. Expectations were shaped by lineage prestige, property and etiquette, but also by distance from parental houses, access to land, and the availability of daily work. The Academy of Korean Studies' account of marriage institutions describes increasingly explicit restrictions on recognized spouses and descendants. Such regulations reveal the state's desired classifications; they do not prove that every couple's shared life followed a single pattern. Working households could struggle to meet ceremonial expectations while continuing to rely on relatives who lived elsewhere.
+
+### Property changed the meaning of residence
+Where marriage was associated with transfers of goods or land, questions about who could actually manage an asset could remain unsettled. Partition documents and special-gift papers show that property moved for various reasons, including marriages, celebrations and family assistance. The document's existence makes particular transactions traceable but cannot tell us whether one partner felt secure or who provided most of the labor needed to use the property. Reading marriage alongside domestic work corrects an imbalance of conventional histories: formal affiliation mattered, but so did the repeated effort of making a household economically viable.
+
+## VII.5.3
+### Authority beyond legal classification
+Women's positions cannot be understood from legal restrictions alone. Some held or managed property, instructed children, organized production, and mediated relations among kin, while others lived under intense dependency and coercion. Household archives preserve the concerns of literate and property-owning people disproportionately. A deed showing a woman participating in a transfer provides evidence of an actual transaction, not a universal entitlement enjoyed by every woman. Conversely, a prescriptive text asserting obedience indicates a moral demand, not proof that everyday decisions were made without negotiation. Comparison between these genres is essential to reconstruct agency without romanticizing inequality.
+
+### The work embedded in household reputation
+An elite household's public standing might depend on domestic competence rarely praised in the same terms as examinations or official service. Food production, textile work, supervision of dependents and the management of scarce supplies could require experience and organizational authority. Women's labor could be vital while their names were reduced or omitted in genealogical compilations that increasingly favored male lines. The historian must follow property inventories, letters, practical writing and material evidence to recover that part of family life. Such sources cannot speak for everyone, but they expose the limitations of the formal public record and widen the meaning of social authority.

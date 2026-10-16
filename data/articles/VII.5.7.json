@@ -1,0 +1,77 @@
+{
+  "id": "VII.5.7",
+  "title": "Food, Drink, Tobacco, Cooking, and Changing Consumption",
+  "kicker": "LATER JOSEON · HOUSEHOLD HISTORY",
+  "description": "Original social history of kinship, work, care and everyday lives in later Joseon.",
+  "release": "M",
+  "sourceStatus": "Editorial historical synthesis with selective, claim-level contextual and institutional sources; not independently reviewed sentence by sentence.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "풍속화 — 조선 후기 생활의 시각 자료",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_30&levelId=kc_r300850",
+      "role": "Secondary interpretation of genre paintings; representations are not census data"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "조선 — 가족과 친족",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051904",
+      "role": "Secondary contextual synthesis of family, rites and hierarchy"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.5.7:b01",
+      "title": "Eating followed the harvest",
+      "paragraphs": [
+        "Food history begins with land and access rather than a timeless list of national dishes. Households drew upon cereals, vegetables, preserved foods and locally available fish or meat according to region, season, status and resources. Rice was especially prestigious, but a farmer growing it did not necessarily eat polished rice at every meal. Millet, barley and mixed grains mattered to many diets; shortages could reduce portions or encourage substitution. Transport and storage were as important as recipes. A meal prepared during a difficult harvest cannot be assumed to resemble one served at a well-provisioned household festival."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VII.5.7:b02",
+      "title": "The work of keeping food",
+      "paragraphs": [
+        "Cooking required time, fuel, water, tools and the competence of household workers. Fermentation, drying, salting and other preservation practices extended seasonal supplies while making different flavors possible. Such techniques connected domestic knowledge to agriculture and trade. Ceramic storage vessels and kitchen arrangements offer material clues, but they do not by themselves determine what each household ate. The relation between daily meals and special ceremonial offerings is especially important: foods represented in ritual descriptions may tell us more about aspiration and obligation than about routine consumption."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VII.5.7:b03",
+      "title": "Tobacco and new habits",
+      "paragraphs": [
+        "Tobacco's spread after its early modern arrival exemplifies how imported plants entered Korean social life and developed local meanings. Smoking could become part of leisure, exchange or sociability, while drawing criticism over expense and conduct. Changes in consumption were not simply foreign goods replacing local ways. Households negotiated what they could purchase, grow, or imitate, and attitudes could differ by class and generation. A record of a scholar deploring an expensive new habit indicates a contemporary argument, not proof that everyone obeyed the scholar. Food and drink likewise could mark rank, hospitality or celebration as much as nourishment."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VII.5.7:b04",
+      "title": "Hospitality makes inequality visible",
+      "paragraphs": [
+        "Serving guests required extra preparation and could become a public demonstration of household standing. At the same time, cooks, servants and others worked to produce that impression. Ceremonial generosity could strain resources; refusing hospitality might damage relationships. Men and women did not always share the same spaces or order of service in elite settings. Yet the geographic and class diversity of dining practices defies a rigid single scheme. One must distinguish what etiquette manuals prescribed from evidence of markets, household accounts and actual kitchens."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "Genre paintings from later Joseon depict varied work, leisure and household activity, though as selective representations.",
+          "sourceIndex": 0,
+          "locator": "풍속화, 대표 작품과 사료 해석",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.7:b05",
+      "title": "Meals connect private lives to wider systems",
+      "paragraphs": [
+        "The dish on the table was shaped by rent, grain prices, labor, markets and distant weather. A house might cope with scarcity through borrowing or changing ingredients, making food security inseparable from household credit. Historical recipes can demonstrate available techniques but not the standard diet of all residents. A richer narrative compares prescriptive food texts, material remains, regional crop histories and administrative reports. It recognizes that the pleasures of taste and shared eating existed amid profound inequalities in access, time and bodily security."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    }
+  ]
+}

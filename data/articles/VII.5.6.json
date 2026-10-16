@@ -1,0 +1,85 @@
+{
+  "id": "VII.5.6",
+  "title": "Houses, Ondol, Domestic Space, Furniture, and the Built Household",
+  "kicker": "LATER JOSEON · HOUSEHOLD HISTORY",
+  "description": "Original social history of kinship, work, care and everyday lives in later Joseon.",
+  "release": "M",
+  "sourceStatus": "Editorial historical synthesis with selective, claim-level contextual and institutional sources; not independently reviewed sentence by sentence.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "안채 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0071924",
+      "role": "Historical architecture study of anchae and later sarangchae spatial differentiation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "안동 하회 양진당 — surviving upper-status residential complex",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034647",
+      "role": "Material architecture example, not representative of all Joseon houses"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.5.6:b01",
+      "title": "A house was made of climate and work",
+      "paragraphs": [
+        "Later Joseon houses varied from modest dwellings to extensive multi-building compounds. Their forms reflected material resources, climate, topography and the uses to which rooms were put. Ondol heating shaped winter life by channeling heat beneath floor surfaces; raised wooden spaces could answer summer heat differently. Kitchens, storage areas, courtyards and sleeping rooms made sense as a system of cooking, preserving, working and gathering. No single surviving elite hanok can stand as the national house of every period or class. Buildings preserved today often reflect later renovations and the tastes of their owners."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VII.5.6:b02",
+      "title": "Inner and outer rooms",
+      "paragraphs": [
+        "In substantial late Joseon homes, the anchae and sarangchae often differentiated inner domestic activities from male reception and study. The Academy of Korean Studies notes that this distinction developed historically and should not simply be projected backward unchanged. The anchae supported sleeping, cooking, household management and women's daily activities, while the sarangchae became associated with receiving guests and scholarly sociability. Yet food prepared in the inner quarters sustained visitors in the outer quarters; labor and sound crossed architectural boundaries. Such spaces expressed ideals about gender and propriety while also depending on constant practical interaction."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "The distinction between the anchae and sarangchae strengthened in later Joseon housing patterns.",
+          "sourceIndex": 0,
+          "locator": "안채, 연원 및 변천 / 사랑채의 분화",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.6:b03",
+      "title": "Rooms were not free of status",
+      "paragraphs": [
+        "The location in which someone slept or worked could reveal rank and obligation. Senior relatives, visitors, children, servants and dependent workers did not necessarily receive equivalent space. A large house could embody hierarchy through separate gateways, courtyards and thresholds. A small dwelling could combine sleeping, storage and work in a limited area with little possibility of seclusion. Accounts of the ideal arrangement thus tell us what some families wanted others to see, not how every person experienced privacy. The built household is a record of what wealth could buy and what shared spaces demanded from those without it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VII.5.6:b04",
+      "title": "Fuel, maintenance and the calendar",
+      "paragraphs": [
+        "Keeping a heated floor warm required fuel, careful fire handling and repair. Roofing, drainage, ventilation and storage depended on seasonal labor. A house faced monsoon rains, winter cold, vermin and ordinary deterioration, and wealth affected the speed of maintenance. The kitchen might serve as a workspace, a point of heat management and a center of household coordination. Furniture and bedding had to be adjusted as seasons changed. Surviving architecture is most informative when read alongside accounts of maintenance and supply: a fine room was not self-sustaining, and the appearance of comfortable domestic order depended on often-unrecorded effort."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VII.5.6:b05",
+      "title": "What buildings cannot say alone",
+      "paragraphs": [
+        "An extant house can show circulation, materials and changes to a floor plan. It cannot identify everyone's daily movements without additional documents. A room might acquire a new function after a death, marriage or financial reversal; a later owner could alter a doorway. Archaeological remains and architectural surveys therefore need to be read with household histories, records of occupation and local climate. The study of domestic space helps explain how relations of gender, labor and seniority were practiced, but it should not turn a surviving wealthy family's compound into an imagined universal picture of Joseon life."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "Yangjindang at Hahoe is a documented upper-status complex with anchae, sarangchae, and associated buildings.",
+          "sourceIndex": 1,
+          "locator": "안동 하회 양진당, 건물 구성",
+          "type": "direct"
+        }
+      ]
+    }
+  ]
+}

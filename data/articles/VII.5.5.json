@@ -1,0 +1,83 @@
+{
+  "id": "VII.5.5",
+  "title": "Household Labor, Domestic Production, Servants, and Family Economy",
+  "kicker": "LATER JOSEON · HOUSEHOLD HISTORY",
+  "description": "Original social history of kinship, work, care and everyday lives in later Joseon.",
+  "release": "M",
+  "sourceStatus": "Editorial historical synthesis with selective, claim-level contextual and institutional sources; not independently reviewed sentence by sentence.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "조선 — 가족과 친족",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051904",
+      "role": "Secondary contextual synthesis of family, rites and hierarchy"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "분재기 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0024857",
+      "role": "Document genre description for actual property transfers and family inheritance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "별급문기 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0023006",
+      "role": "Surviving period document genre for separate property gifts; not a universal pattern"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.5.5:b01",
+      "title": "The household as a workplace",
+      "paragraphs": [
+        "The late Joseon household was a productive institution, not merely a residence for relatives who returned from work somewhere else. Food preservation, textile making, cleaning, fuel collection, tool repair, child care, and keeping accounts were economic activities even when they produced no formal wage. A prosperous estate might rely on hired workers, tenants and enslaved people; poorer families depended more heavily on kin labor and irregular exchange. The sources often make the owner of property highly visible and the workers maintaining it almost anonymous. An honest social history begins by asking who performed the work needed to sustain the people whose names survive."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VII.5.5:b02",
+      "title": "Invisible hours and uneven authority",
+      "paragraphs": [
+        "A household's labor was divided by gender and seniority, but actual tasks were influenced by harvest schedules, illness and necessity. Women might manage stores and textile production while men negotiated some outside obligations; nevertheless, practical divisions shifted when a family faced crisis. Servants and enslaved workers could carry the heaviest daily burdens while receiving least recognition as members of the household. Status determined who could command labor and who could refuse. The distinction between family duty and coerced service was therefore central. A child told to fetch water and an enslaved worker ordered to carry grain might perform similar motions within very different relationships of power."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VII.5.5:b03",
+      "title": "Accounts expose the infrastructure",
+      "paragraphs": [
+        "An estate's accounts can reveal payments for materials, repairs and food, while inheritance documents expose assets whose control could be contested. The inventory is not a neutral picture of the people involved. It might describe an enslaved person as property and specify a transfer without preserving the individual's consent or family ties. A history attentive to everyday life must name this violence without pretending to possess details that the document withholds. The household economy also depended on outsiders: peddlers, millers, carpenters, midwives, tutors and lenders linked domestic production to wider markets. Household autonomy was always relative."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Inheritance documents could list land and enslaved people as transferrable estate assets.",
+          "sourceIndex": 1,
+          "locator": "분재기, 분배 대상 및 문서 양식",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.5.5:b04",
+      "title": "When someone could not work",
+      "paragraphs": [
+        "The ordinary system became clearer during disruption. An ill family member needed care; a missing worker left tasks to someone else; fuel shortages altered meals; crop failure could force the sale or pledging of resources. Such problems did not strike households equally. Stronger kin networks and accessible credit offered buffers to some, while landlords and creditors gained leverage over others. Seasonal labor could draw residents away, making a household register an imperfect guide to who was present each day. Reading household history as labor history reveals the pressures behind choices about marriage, children's education and residence."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VII.5.5:b05",
+      "title": "More than a moral ideal",
+      "paragraphs": [
+        "Confucian literature praised orderly family relationships, but a family could not survive by observing etiquette alone. It needed skills, organization and cooperation under unequal conditions. The published archive makes public men and ritual leaders prominent; the surviving house depended just as much on someone preparing food and maintaining heat. No generalized reconstruction of a typical Joseon day can replace local evidence. Yet the structure of dependence is clear: domestic production connected social status, gender, property and vulnerability. Recognizing those links gives the everyday household its appropriate place beside royal courts and battlefield histories."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    }
+  ]
+}
