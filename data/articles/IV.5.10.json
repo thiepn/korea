@@ -1,0 +1,118 @@
+{
+  "id": "IV.5.10",
+  "title": "Political Decline, Khitan Expansion, and the Fall of Balhae",
+  "kicker": "BALHAE · NINTH CENTURY AND CONQUEST",
+  "description": "Critical political history of political decline, khitan expansion, and the fall of balhae, with court texts, local governance, and conquest hypotheses held apart.",
+  "release": "R",
+  "sourceStatus": "Original historical synthesis with dated institutional source locators; source-critical and non-exhaustive",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Fall of Balhae",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i100900",
+      "role": "Chronology of post-Mun succession, Seon revival, 926 campaign and successor polities"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae (발해)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Regional peoples, office hierarchy, geographical reach and uncertainties"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae Capital Relocations",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i101000",
+      "role": "Royal succession, capital shifts and archaeological caveats"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Balhae Kingdom gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201031000.do?showHallId=760&showroomCode=DM0010",
+      "role": "Excavated culture, later migration and material remnants"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae in Regional Administrative History",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054208",
+      "role": "Documentary structure of five capitals, prefectures and local authorities"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.5.10:b01",
+      "title": "The last reign in an altered northeast",
+      "paragraphs": [
+        "The final Balhae ruler is commonly identified as Dae Inseon, who reigned into the conquest of 926. His court confronted the growing power of the Khitan ruler Yelü Abaoji after the Tang empire's collapse and amid political fragmentation elsewhere in East Asia. The documentary record does not furnish a detailed account of Balhae's internal decision-making immediately before the invasion.",
+        "Retrospective stories of decadence can fill that silence too easily. Balhae had maintained substantial political power during the preceding century, and collapse in a short military campaign does not prove society-wide exhaustion. The strategic innovation and speed of the Khitan attack deserve explanation on their own terms. Historians should separate demonstrable military events from theories about prior internal crisis, ethnic revolt or natural disaster whose scale and contribution remain debated."
+      ],
+      "sequence": 1,
+      "label": "Historical synthesis · source uncertainty",
+      "evidence": [
+        {
+          "claim": "National Institute chronology identifies royal instability, Seon's recovery and the Khitan invasion of 926.",
+          "sourceIndex": 0,
+          "locator": "발해 멸망 (926), succession and Khitan campaign",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.10:b02",
+      "title": "Khitan strategy and the blow at Buyeo",
+      "paragraphs": [
+        "The National Institute of Korean History describes a late-925 Khitan offensive directed against Balhae, with the important northwestern stronghold of Buyeobu falling early in the campaign. The speed of the advance deprived the Balhae court of a key defensive position. Reports of forces dispatched from the capital and their defeat further emphasize the operational tempo.",
+        "The received chronology culminates in the siege and surrender of the Balhae capital in January 926. Some retrospective calculations of days or troop numbers differ with the sources used and should not be repeated as precision beyond the record. What is clear is the sudden collapse of central authority under a concentrated offensive, rather than a documented multiyear occupation of each named province before the monarchy ended."
+      ],
+      "sequence": 2,
+      "label": "Historical synthesis · source uncertainty",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies describes differentiated regional governance and uneven frontier authority.",
+          "sourceIndex": 1,
+          "locator": "발해 정치, 영토 및 지방 제도",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.5.10:b03",
+      "title": "An empire falls; its people remain",
+      "paragraphs": [
+        "The military defeat of the royal centre did not erase the inhabitants of Balhae or immediately dissolve all local institutions. Khitan authorities established the Dongdan regime to administer the conquered region, while resistance and successor polities appeared in parts of the former kingdom. The relationship of those movements to Balhae's previous court and its diverse local communities was not uniform.",
+        "The end of an independent monarchy is therefore a different event from the complete disappearance of political and cultural traditions. Residents could submit to new rulers, seek refuge, resist or move between communities as their circumstances changed. External records emphasize royal figures and military command, but many decisions were made at household and regional levels that are difficult to recover directly."
+      ],
+      "sequence": 3,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.10:b04",
+      "title": "Migration toward Goryeo",
+      "paragraphs": [
+        "Some Balhae royals and other inhabitants eventually entered Goryeo, contributing to subsequent narratives of succession, sanctuary and political legitimacy. Their arrival is significant evidence of connections across the post-926 northeast, but it does not establish that every Balhae resident migrated south or that all migrants shared a single ethnic identity.",
+        "Goryeo's incorporation of Balhae refugees should be studied through the institutions and chronicles of that dynasty as well as Balhae's own final history. Later writers had reasons to emphasize the reception of royal refugees as a statement about legitimate inheritance. We can recognize genuine movements and changing alliances without converting the entire population of the conquered state into one journey."
+      ],
+      "sequence": 4,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.10:b05",
+      "title": "Competing explanations of sudden collapse",
+      "paragraphs": [
+        "Historians have proposed a range of factors to explain how a sizable kingdom fell so quickly: Khitan military effectiveness, changes in Balhae's internal political relationships, frontier loyalties, and environmental events sometimes associated with volcanic activity. These hypotheses are not equally established. A dramatic physical event needs securely dated environmental evidence and a demonstrated pathway from the event to military vulnerability before it can explain a particular campaign.",
+        "Likewise, the possibility of internal disunity should not be asserted as fact merely because the state was defeated. External chronicles can underreport local resistance and overstate the coherence of conquerors. The strongest narrative begins with the campaign evidence, tests possible background conditions separately, and leaves questions open where surviving sources do not justify definitive causal assignments."
+      ],
+      "sequence": 5,
+      "label": "Historical synthesis · source uncertainty"
+    },
+    {
+      "id": "IV.5.10:b06",
+      "title": "The political afterlife of Balhae",
+      "paragraphs": [
+        "Balhae's history continued to matter in Goryeo, later Korean historical writing and modern scholarship, while its archaeological sites lie across several present-day states. Contested questions of cultural origin and territory often attract national readings that do not correspond to the complexity of medieval rule.",
+        "The five-capital kingdom can be remembered as a significant successor to Goguryeo without erasing the many northeastern groups who shaped it. Its political history illustrates the creative capacity of borderland state formation and the vulnerability of far-reaching authority to changing military environments. The fall of 926 closes this dynasty's independent state history; subsequent migrations, memories and revival movements require their own historical treatment instead of being collapsed into a final defeat."
+      ],
+      "sequence": 6,
+      "label": "Historical synthesis · source uncertainty"
+    }
+  ]
+}
