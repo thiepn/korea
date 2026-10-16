@@ -89,6 +89,26 @@
       ],
       "sequence": 5,
       "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.4:b06",
+      "title": "A household statistic is not a complete relationship map",
+      "paragraphs": [
+        "Statistics classify residents by who shares an address, but families often span multiple homes and even countries. Grandparents may provide daily care without co-residing; grown children may support parents through transfers or visits; partners may maintain close relationships while living separately. A single-person household is therefore not an individual without social ties. Likewise a large household may contain internal inequalities of authority and resources.",
+        "Historians need to compare residence records with time-use studies, interviews and the legal organization of responsibility. Administrative categories are indispensable for counting housing needs and service demand but cannot by themselves tell whether people experience warmth, conflict, safety or loneliness. The transformation of family life involves changes in both physical arrangements and obligations across them, and these dimensions need not move in parallel."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.4:b07",
+      "title": "Longer lives reshape kinship obligations",
+      "paragraphs": [
+        "As life expectancy increased, families became more likely to include several adult generations alive simultaneously, even when they lived apart. Support can move in both directions: older parents may assist grandchildren and household formation while adult children provide health or financial support later. Where public care is limited, these expectations can create intensive burdens that vary with class and the distribution of siblings.",
+        "Marriage and household choices occur within these longer networks. An adult may postpone relocation because a relative needs care, or move for better work to finance support at a distance. The history of changing households is therefore not a simple story of individualism replacing family obligations. New living arrangements may preserve strong ties while altering the institutions through which care is delivered and the workers, often women, expected to coordinate it."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · institutional social history"
     }
   ]
 }

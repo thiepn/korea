@@ -89,6 +89,26 @@
       ],
       "sequence": 5,
       "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.2:b06",
+      "title": "The meaning of a working hour",
+      "paragraphs": [
+        "The official number of working hours depends on definitions and survey methods, while everyday availability may extend beyond the hours recorded. A person can leave the office on time and still monitor workplace messages; another may perform shift work with little control over when rest occurs. Working-time policy should therefore be studied alongside the right to disconnect, scheduling predictability, overtime compensation and enforcement.",
+        "Some companies have adopted more flexible approaches, and others operate under conditions that make long hours difficult to change. The presence of technology does not guarantee autonomy, since digital monitoring can increase control over workers. A national stereotype about industriousness cannot explain these institutional differences. The historical question is whether workers have real bargaining power over time and whether productivity gains allow shorter hours without transferring costs to more precarious employees."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.2:b07",
+      "title": "Small businesses and the invisible employer-worker overlap",
+      "paragraphs": [
+        "The owner of a small restaurant or shop may work longer than many wage employees while simultaneously carrying financial risks, managing relatives' labor and responding to customers. Such people do not fit neatly into narratives that contrast powerful employers with powerless workers. A family business can provide independence and strong local relationships while also exposing owners and helpers to insecure earnings and limited rest.",
+        "Understanding employment therefore requires separating legal status from economic vulnerability. Contractors, franchisees and platform sellers may formally be independent yet depend heavily on a small number of customers or intermediaries. Protections designed for employees may not extend fully to them. Historical reforms should be judged by whose circumstances actually improved, including people beyond highly visible large-company workplaces."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · institutional social history"
     }
   ]
 }

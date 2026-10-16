@@ -80,6 +80,26 @@
       ],
       "sequence": 8,
       "label": "Batch Q · original append-only historical analysis"
+    },
+    {
+      "id": "X.3.1:b09",
+      "title": "The exam and the geography of access",
+      "paragraphs": [
+        "A student living near numerous established tutoring providers may have different choices from a student in a rural district where specialist instruction requires travel or digital access. Online tutoring can reduce geographic barriers but cannot erase unequal study space, devices, parental time or information about admissions. Families also differ in their ability to absorb fees and the opportunity cost of preparation. Competition is therefore structured by resources before an exam paper is opened.",
+        "The OECD's 2026 research argues that regional university quality and job prospects matter alongside national admissions rules. When students believe only a few metropolitan pathways provide secure futures, improving teaching in one school may not reduce the overall pressure. The allocation of desirable jobs and housing affordability influence decisions made long before university applications. This historical connection explains why examination reform by itself has often struggled to transform the social role of private tutoring."
+      ],
+      "sequence": 9,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.1:b10",
+      "title": "Distinguishing learning from competitive signaling",
+      "paragraphs": [
+        "An educational activity may build useful mathematical reasoning, language fluency or scientific understanding, while also serving as a signal of preparedness for selective institutions. These functions are related but not identical. When assessment focuses narrowly on predictable tasks, teaching can improve scores without developing every capacity needed in later study and work. Conversely, success in an examination may reflect substantial discipline and genuine knowledge.",
+        "A credible history of Korean education recognizes the achievements of widespread schooling and strong measured performance without overlooking incentives that favor memorization or high-cost coaching. Alternatives such as portfolios, interviews or multiple admissions tracks have their own equity problems because they may reward families able to purchase guidance. A durable reform debate must ask what evidence of learning is sought, who can prepare that evidence, and how the labor market rewards the resulting qualifications."
+      ],
+      "sequence": 10,
+      "label": "Batch Q · institutional social history"
     }
   ],
   "release": "C"

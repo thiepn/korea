@@ -79,6 +79,26 @@
       ],
       "sequence": 4,
       "label": "Original historical synthesis · evidence limits"
+    },
+    {
+      "id": "X.3.5:b05",
+      "title": "Cohort size matters to the meaning of rising births",
+      "paragraphs": [
+        "A rise in registered births can result from changes in birth rates among people of certain ages, shifts in marriage timing or the changing number of women within those ages. Observers who examine only a national total can confuse these mechanisms. The total fertility rate adjusts for age-specific birth behavior in a particular year, yet it too can move when births are postponed and later partially recovered.",
+        "A convincing demographic interpretation considers both period and cohort measures where possible and distinguishes registrations from actual event timing. This is especially important during short-lived rebounds following prolonged declines. The final 2025 Korean data provide a valuable observed benchmark, but explanations about whether an enduring reversal began require later evidence and longer observation. An encyclopedia should date the report and avoid updating history with speculative headlines."
+      ],
+      "sequence": 5,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.5:b06",
+      "title": "Planning amid uncertainty",
+      "paragraphs": [
+        "Demographic change affects investments with very long lives. A school, hospital, railway or pension arrangement may operate for decades after its initial design. Authorities must forecast demand despite uncertainty about migration, fertility and regional labor markets. Building too much capacity in a shrinking district can strain budgets; reducing services prematurely can make it harder for residents to remain.",
+        "The right planning response may differ by location. A regional hub with diversified industries needs different institutions from a remote community with scattered elderly residents. Decisions also concern dignity and access, not only cost per user. Demographic statistics provide the scale of potential pressures but cannot by themselves determine acceptable travel time to care, the value of local schooling or the obligations owed to communities facing decline."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · institutional social history"
     }
   ]
 }

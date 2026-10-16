@@ -89,6 +89,26 @@
       ],
       "sequence": 5,
       "label": "Original social history · dated evidence"
+    },
+    {
+      "id": "X.3.3:b06",
+      "title": "How assets influence a child's chances",
+      "paragraphs": [
+        "Family assets can support a student's relocation, reduce the need for paid work during study, provide a rental deposit or finance retraining after a failed job search. Those transfers may never appear as wages, but they alter the options available to young adults. Even among households with similar income, the presence of property or accessible savings can change how much risk a family can absorb.",
+        "Intergenerational inequality is not just a matter of heirs receiving large estates. Ordinary assistance with tuition, housing or childcare may influence educational and labor trajectories. The OECD's 2026 mobility work links geographical movement with parental resources. A history sensitive to these mechanisms helps explain why apparently universal opportunities can produce unequal practical access. The question is not whether parents should support children, but how public institutions can prevent lack of private support from closing important pathways."
+      ],
+      "sequence": 6,
+      "label": "Batch Q · institutional social history"
+    },
+    {
+      "id": "X.3.3:b07",
+      "title": "Wealth measures have their own blind spots",
+      "paragraphs": [
+        "Property valuation can change quickly without altering the income that a household earns, and assets may be difficult to sell without losing a home. Debt can turn ownership into a source of vulnerability when interest rates rise. Two households with equal net worth may face different liquidity constraints or location-specific costs. National summaries need these distinctions to avoid portraying every homeowner as securely prosperous.",
+        "Survey evidence also depends on accurate reporting of assets, debt and household composition. Wealth inequality cannot be inferred directly from differences in consumption, and a sudden fall in prices may reduce measured wealth while easing entry for buyers. Historians should distinguish changes in asset values from changes in access to opportunity, even though the two often interact. The lived meaning of class is shaped by work, housing, family transfers and social security together."
+      ],
+      "sequence": 7,
+      "label": "Batch Q · institutional social history"
     }
   ]
 }
