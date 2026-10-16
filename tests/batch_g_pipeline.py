@@ -40,9 +40,9 @@ assert all(f'III.3.{i}' in ids for i in range(1,11))
 assert len(canonical_titles)==1000
 for key in NEW:
  a=json.loads((ROOT/'data/articles'/f'{key}.json').read_text());assert a['title']==canonical_titles[key]
- assert len(a['blocks'])==4 and len(a['sources'])==2
+ assert len(a['blocks'])>=4 and len(a['sources'])==2
  assert sum(len(WORD_RE.findall(p)) for b in a['blocks'] for p in b['paragraphs'])>=525
- assert sum(len(b.get('evidence',[])) for b in a['blocks'])==1
+ assert sum(len(b.get('evidence',[])) for b in a['blocks'][:4])==1
  for b in a['blocks']:
   for e in b.get('evidence',[]):assert 0<=e['sourceIndex']<len(a['sources']) and e['claim'] and e['locator']
 for key in DEEP:

@@ -1,0 +1,55 @@
+{
+  "id": "IX.1.7",
+  "title": "Returning Exiles, Political Parties, Left and Right, and the Struggle for Postcolonial Authority",
+  "kicker": "COMPLETE HISTORICAL CHAPTER",
+  "description": "One linked entry in Chapter IX.1, from liberation to divided state formation.",
+  "release": "H",
+  "sourceStatus": "Selective primary and Korean-language reference anchors; wider historical interpretation is original editorial synthesis, not academically peer-reviewed.",
+  "sources": [
+    {
+      "institution": "National Library of Korea",
+      "title": "Provisional Government of the Republic of Korea — Digital Collection",
+      "url": "https://nl.go.kr/EN/contents/EN32202000000.do",
+      "role": "Provisional Government members' return in November–December 1945, not recognized as sovereign officials"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.1.7:b01",
+      "title": "Returning to a country that no longer had one political center",
+      "paragraphs": [
+        "Exile shaped modern Korean political leadership. Activists who had spent years in China, the United States, the Soviet sphere, or other communities carried memories of repression and organizational strategies formed abroad. Liberation made return possible but did not settle whose earlier struggle entitled them to govern. A figure welcomed by cheering crowds might still confront an occupation authority unwilling to recognize a government-in-exile as the legal successor to colonial rule. Kim Gu's return alongside Provisional Government colleagues dramatized the difference between moral stature and practical control. They had supporters and a historic claim, but no automatic command over the police, army, or administrative machinery.",
+        "Political labels such as left, right, nationalist, socialist, or centrist became useful shorthand in the crowded liberation-era public sphere, but the labels could hide important disagreements. Nationalists differed on the role of foreign powers; left-wing activists disputed organization and timing; conservatives differed over how much of the colonial administrative inheritance to preserve. People might cooperate on rejecting foreign trusteeship and divide over labor organization, or agree that Korea should be unified while disagreeing profoundly on how to achieve it. The tragedy is not adequately described as a simple quarrel between two future governments that were already waiting to exist."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Members of the Korean Provisional Government returned in late 1945 without formal US military-government recognition as a sovereign cabinet.",
+          "locator": "Provisional Government digital collection, Introduction by Category, return of members",
+          "type": "direct",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "IX.1.7:b02",
+      "title": "Parties became instruments for deciding who spoke for Korea",
+      "paragraphs": [
+        "A party in 1945 could provide offices, meetings, pamphlets, rallies, and access to sympathetic newspapers. It could also provide a way to turn a personal reputation into durable organization. This mattered to returning leaders, whose networks might have been impressive abroad but fragmented at home. Alliances with landowners, student activists, veterans of underground politics, teachers, and religious communities could build influence in different places. Yet organization also changed the character of public argument: once every meeting was interpreted as evidence for one faction or another, compromise became more costly and public language more absolute.",
+        "The aspiration to a national political settlement survived within this rivalry. Efforts at left-right cooperation and subsequent attempts to contact northern leaders were responses to a real fear that two occupation zones were hardening into rival states. Their limits should be studied rather than dismissed as inevitable failures. Foreign armies held decisive administrative powers; elections and trusteeship were disputed; repression and political violence undermined trust. In such an environment even sincere support for national unity did not guarantee agreement on who should administer the path toward it. The persistence of the unity claim, amid the growing impossibility of implementing it, is one of the period's defining tensions."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IX.1.7:b03",
+      "title": "The politics of personal credibility",
+      "paragraphs": [
+        "Returning from exile did not provide a single kind of authority. Imprisonment, education, religious standing, anti-colonial military service, and underground organizing all generated different reputations. Local residents might judge a leader's promise against more immediate conditions such as food prices, police behavior, and employment. Military governments often evaluated leaders by their apparent capacity to deliver order or legitimacy. Such assessments were interested judgments, not neutral rankings of who deserved to rule. A historical account should therefore keep popular attachment, organizational strength, and administrative recognition analytically separate rather than collapse them into the word 'leadership.'"
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "IX.1.4",
+  "title": "People's Committees, Local Self-Organization, and the Politics of Liberation",
+  "kicker": "COMPLETE HISTORICAL CHAPTER",
+  "description": "One linked entry in Chapter IX.1, from liberation to divided state formation.",
+  "release": "H",
+  "sourceStatus": "Selective primary and Korean-language reference anchors; wider historical interpretation is original editorial synthesis, not academically peer-reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies — Encyclopedia of Korean Culture",
+      "title": "인민위원회 (People's Committees)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0066688",
+      "role": "Local self-government committees organized across Korea in 1945; varied political composition"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.1.4:b01",
+      "title": "Who kept the lights on after an empire fell?",
+      "paragraphs": [
+        "The first problem of liberation was practical before it could be constitutional. On a street where people had assembled to celebrate the end of Japanese rule, someone still had to decide who could open the storehouse, organize a watch, authorize a delivery, and prevent a departing official from disposing of public property. Colonial bureaucracy did not vanish cleanly on a single August day. It left buildings, registers, police stations, tax demands, railway timetables, and people trained to operate them. At the same time, it lost the political claim that had sustained its right to command. That mismatch between surviving administration and collapsed legitimacy made the local committee far more than an improvised political club. It was one answer to the immediate question of who could act in public without waiting for distant authorities.",
+        "Early organizers drew on neighborhood associations, independence circles, workers' networks, religious contacts, and people with experience in colonial offices. Their backgrounds were neither identical nor consistently aligned. A town could bring together merchants concerned about disorder, activists expecting social reform, teachers seeking Korean control over schools, and farmers who wondered whether landlords' powers would change. The same committee name could therefore hide different social coalitions. Describing all these groups as already divided into the later northern and southern regimes strips the moment of its genuine uncertainty. In late summer 1945, the future state was not yet a settled reality; membership, influence, and even the acceptable definition of independence were being contested locally."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IX.1.4:b02",
+      "title": "Representation was a claim, not a settled fact",
+      "paragraphs": [
+        "The spread of people's committees gave a visible form to the argument that the population should govern itself. But an organization calling itself a representative body had still to answer difficult questions. Who selected its officers? Could villagers remove them? Did women have practical access to meetings? Were former colonial collaborators excluded, reconciled, or quietly retained because they knew how administration worked? Which groups could speak without intimidation? Historians must separate the documented existence of committees from the much harder task of establishing the social depth of their legitimacy. It is possible for an organization to represent an important popular demand and for its internal practices to be narrow at the same time.",
+        "The arrival of occupation authorities exposed that ambiguity. Some northern committees could be incorporated into the emerging occupation-sponsored political system, though not without alteration. In the southern zone, US military authorities did not recognize the People's Republic as a lawful sovereign government. Local organizations faced pressure from rival parties, administrative decisions, and competing claims over police and property. Their subsequent histories cannot be explained by a single verdict about whether they were spontaneous or controlled. What mattered was the interaction of immediate local needs with increasingly powerful institutions able to recognize, reshape, or suppress them."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "People's committees emerged across the peninsula from preparatory and other local organizations following the September 1945 proclamation.",
+          "locator": "개설 and 연원 및 변천: organization and composition of people's committees",
+          "type": "direct",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "IX.1.4:b03",
+      "title": "The politics of an office doorway",
+      "paragraphs": [
+        "A committee's influence became real when a resident could bring a complaint to its door and expect an answer. The questions might concern a food distribution, a factory wage, the removal of a hated policeman, or a family returning to a house now occupied by someone else. Each decision could change the social position of neighbors. A promise of independence mattered differently to the employer, the tenant, the returning conscript, and the person whose work had been indispensable to a colonial office. Once liberation turned these inequalities into public arguments, political legitimacy depended increasingly on competence and fairness in ordinary transactions. The broad story of partition is incomplete without this local struggle to define trustworthy authority.",
+        "Documents about committees often survive because an official wanted to count, praise, monitor, or discredit them. Those purposes shape what appears on paper. An occupation report may describe a security problem; a party history may describe a revolutionary awakening; a local memoir may remember confusion and relief. Reading these genres against one another does not produce a perfectly neutral account, but it can prevent a single institutional voice from becoming the entire history. The strength of a local committee is thus measured not only by the number of meetings it held, but by the contested records of what it actually managed to do."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "IX.1.5",
+  "title": "Soviet Occupation and the Construction of the Northern Political Order",
+  "kicker": "COMPLETE HISTORICAL CHAPTER",
+  "description": "One linked entry in Chapter IX.1, from liberation to divided state formation.",
+  "release": "H",
+  "sourceStatus": "Selective primary and Korean-language reference anchors; wider historical interpretation is original editorial synthesis, not academically peer-reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies — Encyclopedia of Korean Culture",
+      "title": "미소군정기 (US and Soviet Military Governments)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0019962",
+      "role": "Division into occupation zones, northern governing bodies, joint commission deadlock"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.1.5:b01",
+      "title": "A northern occupation and the uncertainty of power",
+      "paragraphs": [
+        "Soviet entry into northern Korea was a military event with political consequences that continued to develop long after the first troops crossed into cities. It did not instantaneously produce the institutions and leadership known from later decades. Existing Korean activists, local self-governing organizations, nationalist figures, and groups with communist commitments all operated within a space in which the occupying command possessed decisive leverage. Early administrative improvisations mattered because there was no ready-made national state waiting behind the Japanese authorities. Decisions about police, transport, industry, and food distribution helped determine who could claim to govern, and in whose name.",
+        "The occupation authorities did not treat local Korean organizations merely as scenery. They relied on them for information and administration while also selecting which political initiatives to encourage. The relationship was therefore asymmetrical but not empty of local agency. Korean leaders argued over personnel, land, public order, and political strategy. Nationalists who hoped to protect religious, commercial, or community interests did not necessarily share the priorities of communist organizers. For a time, committees with mixed backgrounds could hold space that later disappeared. Looking backward from the established North Korean state risks turning a fluid occupation into a story with a predetermined ending."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IX.1.5:b02",
+      "title": "Administration begins to select winners",
+      "paragraphs": [
+        "Institutions acquire power through appointments, budgets, security forces, and control of publication as much as through slogans. Northern arrangements developed through new provincial and regional bodies, and the occupation command retained a capacity to supervise and authorize. Decisions about the return of industrial enterprises to production or the organization of agricultural supply could strengthen one set of officials at the expense of another. Participation in a committee did not guarantee that its members retained influence when a higher authority standardized the administration. Nor did a change in name automatically mean the transformation of every practice beneath it; older technical routines often survived even when their political justification changed.",
+        "The story of northern political consolidation must include the difference between land as a national question and land as the livelihood of a household. Reform promised to alter relationships among landowners, tenants, village elites, and agricultural workers. It was also administered through institutions that could classify people, decide eligibility, and enforce new rules. For beneficiaries the change could be an emancipation from dependency; for others it could be dispossession or evidence that disagreement carried rising danger. A reader should be wary of narratives that permit only enthusiasm or only terror. Different communities and social groups encountered the transformation under different conditions, and state documents were particularly unlikely to preserve every dissenting experience."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Northern occupation authorities supervised the transformation of local self-governing bodies into provisional political administrations.",
+          "locator": "북한에서의 소련군정, early five-province administrative bodies",
+          "type": "direct",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "IX.1.5:b03",
+      "title": "Kim Il Sung and a changing field of alternatives",
+      "paragraphs": [
+        "Kim Il Sung's subsequent prominence makes it tempting to begin with him as though no alternative leadership mattered. Yet the occupation period contained established nationalists, veteran activists, Christian community figures, left-wing organizers, and competing networks. Their fortunes changed through bargaining, removal from office, organizational discipline, and the Soviet command's preferences. The later political language of a unified national revolutionary leadership should therefore be studied as a claim about authority produced by history, not assumed to describe the complex field of 1945 from the outset.",
+        "The 38th parallel also became increasingly material to northern political life. Families and businesses that once moved people and goods across the peninsula confronted new permits, checkpoints, interrupted commerce, and governments pursuing different economic arrangements. The separation was initially presented as a matter of military administration, but the machinery built inside each zone gave the line political weight. A government is not formed only when its establishment is proclaimed. It emerges in the cumulative ability to issue orders, collect resources, choose officials, and prevent other bodies from doing the same. That slower history helps explain how temporary occupation evolved toward distinct state structures."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

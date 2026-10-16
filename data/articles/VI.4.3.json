@@ -118,6 +118,26 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 9
+    },
+    {
+      "id": "VI.4.3:b10",
+      "title": "An invention explained by its own technical document",
+      "paragraphs": [
+        "Hunminjeongeum is unusual among writing systems because an early explanatory work survives describing intended principles. That does not remove every historical uncertainty about the process of design, but it changes the questions that can be asked. Instead of reconstructing the logic of the letters only from their later shapes, readers can compare the recorded account of articulatory consonant models, vowel concepts, and syllable construction with early written examples. The National Hangeul Museum identifies the 1443 creation and 1446 explanatory publication as distinct events; the difference matters because developing a script and making its theory public are not the same step. The surviving text also gives evidence of the ambitions attached to its adoption, not merely of how symbols were drawn.",
+        "The diagram-like quality of the letters can tempt a modern admirer to describe the entire process as the solitary miracle of a universally applied science. A more careful view connects linguistic observation, learned traditions, court capacity, and the problem of writing a language with a different grammar from classical Chinese. The initial system included letters not retained in standard modern Hangul, and actual writing practices developed through later social choices. A design may be ingenious without possessing a guaranteed destiny. Recovering the original complexity makes the invention more interesting than a simple assertion that everyone immediately embraced it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "VI.4.3:b11",
+      "title": "Who could put the letters to work?",
+      "paragraphs": [
+        "The existence of a technically coherent alphabet did not ensure that every household had books, leisure, instruction, or reason to write. Court-sponsored texts demonstrated important uses, while Buddhist and practical publications reached different reading communities over time. Administrative prestige continued to attach to classical Chinese in elite culture. We therefore need to separate learnability from access. A short sequence of letters can be easier to master than a learned logographic repertoire, but social hierarchies still decide whether learning materials circulate, who teaches, and which texts count as authoritative.",
+        "A history of adoption asks how the script moved across genres and social settings. Literary composition, translation, letters, religious instruction, and later educational projects did not create identical audiences. The invention's communicative promise could be realized unevenly and in ways its original court sponsors had not foreseen. Its significance lies partly in that tension between a deliberate court project and generations of people who found new reasons to write Korean. The early technical record makes it possible to study design in detail; the longer social record explains why design alone is not the history of literacy."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
     }
   ]
 }

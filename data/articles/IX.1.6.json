@@ -1,0 +1,127 @@
+{
+  "id": "IX.1.6",
+  "title": "USAMGIK and the Administration of Southern Korea",
+  "kicker": "COMPLETE HISTORICAL CHAPTER",
+  "description": "One linked entry in Chapter IX.1, from liberation to divided state formation.",
+  "release": "H",
+  "sourceStatus": "Selective primary and Korean-language reference anchors; wider historical interpretation is original editorial synthesis, not academically peer-reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies — Encyclopedia of Korean Culture",
+      "title": "미군정청 (US Military Government in Korea)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0019891",
+      "role": "1945–1948 USAMGIK authority, administrative inheritance and Korean appointments"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.1.6:b01",
+      "title": "The southern military government inherits an empire's machinery",
+      "paragraphs": [
+        "The United States Army Military Government in Korea was established south of the 38th parallel in September 1945 and governed until the inauguration of the Republic of Korea in August 1948. Its officers entered an administrative environment shaped by four decades of Japanese colonial rule. They encountered ministries with established files, police organizations, property records, courts, and technical officials whose expertise could appear essential to preventing breakdown. Reusing portions of that apparatus could produce continuity in daily services. It also provoked a legitimacy problem: Koreans who celebrated liberation could still find familiar faces issuing instructions from familiar desks. The resulting tensions were not peripheral public-relations difficulties. They reached into the credibility of the new order.",
+        "Military government differed from Korean sovereignty. Its authorities could appoint, promulgate regulations, and decide which political organizations were recognized as lawful. Yet the success of a particular directive depended on Korean interpreters, civil servants, police, merchants, farmers, and workers responding to it. Administrative control on paper did not eliminate the possibility of strikes, protests, rival organizations, or quiet evasion. The distance between a proclamation and its implementation was particularly wide when occupation officials lacked deep knowledge of Korean social and political divisions. The American command's need for rapid order encouraged reliance on established administrative capacity, just when part of the population demanded a decisive break with the colonial past."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "USAMGIK administered southern Korea from September 1945 until the Republic of Korea government was inaugurated in August 1948.",
+          "locator": "개설 and 1948년 8월 15일 government transition",
+          "type": "direct",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "IX.1.6:b02",
+      "title": "A language of order meets an argument about independence",
+      "paragraphs": [
+        "The military government did not recognize the self-proclaimed People's Republic as the legitimate government of southern Korea. Korean political organizations nevertheless continued to compete over who represented the nation, and whose sacrifice under colonial rule gave them authority. This conflict was not simply between Americans and Koreans. Korean conservatives, left-wing activists, centrist negotiators, returning exiles, and local associations disagreed among themselves about the desired form of a new state. Occupation administrators also disagreed over practical policy and personnel. Political coalitions could change as one issue—trusteeship, labor rights, police reform, or elections—reordered the available alliances.",
+        "Administration increasingly involved Korean appointees, but the transfer of visible posts did not always transfer decisive authority. American officials continued to exercise final powers in finance, appointments, security, and property. The institutional history is therefore better followed through actual veto points than through ceremonial titles. Who could sign a decree? Who controlled the currency, rice procurement, or imported aid? Who could override a Korean official? A newspaper photograph showing a Korean administrator at a desk could signify change while concealing the hierarchy under which the desk operated. The distinction between participation and sovereignty is central to this period."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IX.1.6:b03",
+      "title": "Property, policing, and the price of expertise",
+      "paragraphs": [
+        "Former Japanese-owned assets raised the question of what liberation meant in economic terms. Some property could not simply be assigned to an individual returning claimant because its ownership had been organized through corporations, colonial state agencies, or absentee interests. Control over these assets affected factories, housing, rents, transport, and patronage. The management of former colonial property was also a source of suspicion: who benefited from sales, appointments, or access? These issues connected high administrative decisions to street-level inequality. The same policy could be explained officially as necessary stabilization and denounced by opponents as reproducing colonial privilege.",
+        "Police reform revealed another severe contradiction. Officers who knew local terrain, files, and informant networks could help enforce new regulations, but associations with colonial repression made their continued presence deeply contested. Even a legitimate need for public safety did not answer who would be policed, on whose instructions, and with what safeguards. As organized political conflict intensified, policing became part of the struggle rather than a neutral service located outside it. Describing the period as straightforward democratization or straightforward colonial continuity erases the choices, compromises, and coercion through which actual institutions were remade."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IX.1.6:b04",
+      "title": "What the archive can and cannot tell us",
+      "paragraphs": [
+        "Military government records preserve orders, budgets, staffing decisions, intelligence evaluations, and correspondence. Their survival makes them indispensable but does not make the occupation's viewpoint sufficient. Reports may treat strikes as security threats without recording why workers stopped work; economic data may count rice without revealing the unequal burden of obtaining it; administrative notes may describe efficient appointments without examining popular distrust. Korean-language newspapers, local testimony, and social histories can recover different questions, although each brings its own problems of selection and rhetoric. A careful narrative asks what a source was written to accomplish before using it to characterize society.",
+        "By 1948 the military government's function had become tied to the creation of institutions for a southern state, not simply the restoration of normal administration. It remained an occupying authority until the Republic of Korea was established, but the political field had narrowed as international negotiations failed and elections proceeded in the areas accessible to UN observation. The transition therefore solved one question—how an organized government would take office in the south—while leaving the nation's territorial and ideological conflict unresolved. The significance of USAMGIK lies in that double result: state capacity was reconstructed in one zone, while the hope of a single sovereign authority across the peninsula receded."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "IX.1.6:b05",
+      "title": "Why the occupation budget became constitutional politics",
+      "paragraphs": [
+        "To administer a territory is to decide what can be taxed, purchased, subsidized, and postponed. A ministry's budget is therefore a record of priorities and of limits. Under military occupation, financial authority could remain with American officials even when Korean department heads became prominent in public. That unequal authority mattered in disputes about salaries, public services, and relief. For Korean politicians seeking meaningful self-government, the visible expansion of advisory roles could feel inadequate so long as decisive spending and security choices remained outside their control. To American administrators, retaining those powers could seem essential to avoiding abrupt collapse. These opposing assessments reveal a constitutional question concealed inside routine accounting: who was answerable to the population for the consequences of policy?",
+        "Property administration sharpened the problem. Former Japanese-owned factories and buildings were not only economic assets. They could create employment, supply housing, finance parties, and symbolize whether the colonial order had truly ended. Decisions about them could generate accusations of favoritism and corruption. Transfer of ownership required procedures whose legality might be defined by the occupation authority but whose fairness was judged by the people living with the result. This gap between lawful competence and social legitimacy explains why the question of who controlled inherited property remained so politically charged."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "IX.1.6:b06",
+      "title": "The difference between a policy and a lived result",
+      "paragraphs": [
+        "A directive issued in Seoul could be received in a provincial office with limited staff, poor information, and local alliances of its own. Implementing an economic measure might require cooperation from wholesalers who disagreed with its terms; implementing a police order might depend on officers whose conduct residents distrusted. Reform cannot be measured solely by its announcement. The historical record needs evidence of what changed outside the central office: supplies delivered, classrooms opened, property disputes decided, detainees treated, and complaints investigated. Such evidence is often fragmentary, which is a reason for caution rather than permission to substitute a plausible story for a documented outcome.",
+        "The military government also operated in a political environment becoming more polarized by the month. A measure presented as stabilizing could be interpreted as an intervention for one faction. A local protest could contain an immediate wage dispute and still be organized by activists with a national political strategy. Separating those dimensions is essential. People are capable of holding convictions and having material needs simultaneously; an official report that recognizes only one of those motives risks mischaracterizing the event. The occupation's legacy emerged from the accumulation of such encounters between institutional priorities and public expectations."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "IX.1.6:b07",
+      "title": "Political inheritance after the handover",
+      "paragraphs": [
+        "The new Republic in the south received institutions shaped by military government, colonial precedents, Korean administrative participation, and bitter political conflict. This inheritance included tools for routine governance and unsettled disputes about who should hold coercive power. It is tempting to assess those institutions solely through the later stability or instability of the South Korean state. Such hindsight can hide how limited the options seemed to participants in 1948. A government could need experienced officers while also needing to demonstrate that independence was not a change of national flag without a change of accountability.",
+        "The language of an institutional transition should not make it seem inevitable that the country would remain divided. Korean leaders continued to debate international involvement and the possibility of agreement across the line. But the apparatus of administration, law, police, and international recognition increasingly operated within one zone. Those structures produced material incentives to defend the emerging southern government and growing obstacles to a national settlement. The military government therefore belongs in the history not only as an occupying authority that ended, but as a formative system whose practices and conflicts outlasted its formal dissolution.",
+        "The occupations also affected how political newspapers and public notices could be produced and distributed. Control over licenses, paper, transport, and the surveillance of gatherings mattered to any organization trying to reach an audience. A Korean political leader might make a public case for representative institutions but discover that participation in an official advisory body exposed him to criticism from activists excluded from it. The line between cooperation and dependence was rarely clear to the people making such decisions. Institutional transition therefore needs to be studied through the circulation of information as well as the writing of decrees. The question of who could publish, demonstrate, and be heard gave concrete meaning to the larger promise of political freedom. When those channels narrowed, disputes that had begun as arguments over policy could become struggles about the right to participate in public life at all."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "IX.1.6:b08",
+      "title": "An administration's last signature",
+      "paragraphs": [
+        "The end of American military government in August 1948 is sometimes told as an uncomplicated handover. Formally it marked a decisive constitutional change in the southern zone. Yet the papers of an administration reveal a more complex process: offices can change their legal authority while maintaining personnel, offices, and unresolved obligations. Questions of aid, state-owned property, policing, and financial responsibility did not all become simple because a new flag flew above a building. Recognizing this continuity does not deny the significance of independence. It clarifies the institutional work that the new Republic inherited, including conflicts created during the occupation.",
+        "A state beginning its life with inherited administrative capacity faces trade-offs. It needs records, courts, teachers, tax collection, and functioning transport. But the same inheritance may embody inequalities or practices that citizens expect independence to change. The transformation of a military government's organization into Korean-controlled institutions was therefore not a single act of replacement. It involved choices about which rules to retain, which officials to trust, and which grievances could be heard. The decisions shaped later struggles over democratic accountability and executive power without making those later developments inevitable."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "IX.1.6:b09",
+      "title": "Counting an economy without mistaking the count for experience",
+      "paragraphs": [
+        "Occupation reports often measure commodities, imported supplies, government expenditure, and staffing. Such measurements can illuminate trends, but they do not tell us who went without a meal or paid an impossible rent. A reported quantity of rice has different meanings for a producer forced to sell cheaply, a city worker facing a high market price, and a distributor accused of favoritism. The language of shortages can also conceal social power. Scarcity may be genuine while its burden is allocated unequally. Reading administrative data responsibly requires questions about collection, classification, the effect of black markets, and the people excluded from official statistics.",
+        "Economic questions repeatedly altered political alliances. A leader promising national independence might gain or lose support according to attitudes toward land redistribution, market regulation, industrial ownership, and labor organization. Public anger over policing and hunger could reinforce one another even when the immediate motives of participants differed. This is why the period cannot be understood solely through the biographies of major politicians. Those politicians acted in a society where governing power was evaluated continuously through material outcomes and coercive practices. Administrators confronting daily disruptions could experience this as an order problem; residents might experience it as a problem of justice."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "IX.1.6:b10",
+      "title": "The limits of reform from above",
+      "paragraphs": [
+        "A military government can promulgate a reform by decree, but local cooperation, opposition, and resources determine whether it changes actual practice. A school policy requires teachers and materials; an economic policy requires information from producers and traders; a security reform requires officers willing to obey new restraints. Occupation officials commonly relied on consultants who knew local institutions. This could improve technical decisions while narrowing which groups were heard. Korean political activists seeking more radical change could be excluded from an advisory process even when their grievances had social support. Institutionalized consultation consequently did not always become genuine participation.",
+        "The temptation to identify a single moment when democracy either succeeded or failed is particularly misleading. There were attempts to broaden Korean participation, but final control over major policy remained with the occupation authority during its lifetime. At the same time, newspapers, parties, civic networks, and protests supplied forms of politics not captured by military regulations. This combination created a public sphere of intense debate under an unequal sovereign structure. Its contradictions helped shape the institutional and ideological divisions inherited by the new Republic."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    }
+  ]
+}

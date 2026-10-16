@@ -1,0 +1,55 @@
+{
+  "id": "IX.1.8",
+  "title": "Repatriation, Food, Inflation, Land, Labor, and Everyday Life under Occupation",
+  "kicker": "COMPLETE HISTORICAL CHAPTER",
+  "description": "One linked entry in Chapter IX.1, from liberation to divided state formation.",
+  "release": "H",
+  "sourceStatus": "Selective primary and Korean-language reference anchors; wider historical interpretation is original editorial synthesis, not academically peer-reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies — Encyclopedia of Korean Culture",
+      "title": "점령지역 행정구호 (GARIOA relief)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0081308",
+      "role": "Food and consumer goods assistance during 1945–1948 economic disruption"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.1.8:b01",
+      "title": "The return journey ends at a crowded threshold",
+      "paragraphs": [
+        "Liberation brought the movement of people as well as governments. Individuals who had worked, studied, been conscripted, or been displaced elsewhere in the Japanese empire tried to reach home. Returning did not mean finding a house, job, or family arrangement unchanged. Property could have been occupied; wages could buy less than expected; transport and health services were strained. Repatriation turned the abstract language of regained nationhood into material questions at railway stations, ports, kitchens, and local offices. The scale and uneven timing of movement made statistical summaries important, but numbers alone cannot recover what a returnee discovered upon arrival.",
+        "Colonial production had linked regions through routes and markets that did not respect the new occupation line. Northern factories and southern farms were connected by transport, finance, and trade networks that could no longer operate normally. The division of the peninsula interrupted exchanges even before separate governments were formalized. Food availability became an administrative and moral crisis: families judged officials by what could actually be bought and eaten. Rising prices eroded savings, and people dependent on fixed incomes were especially vulnerable. A government might announce plans for procurement or relief, but implementation involved traders, local officials, police, and households who did not all share its priorities."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IX.1.8:b02",
+      "title": "Food can transform political credibility",
+      "paragraphs": [
+        "Economic hardship can be politically explosive without producing a single ideology. A farmer objecting to grain demands, a worker demanding a wage, and a returning migrant looking for housing need not join the same party. Yet their grievances could converge in a demonstration when all interpreted shortages as evidence of incompetent or unjust administration. Relief supplies could ease urgent need and simultaneously create arguments about allocation, dependency, and favoritism. The American GARIOA relief program belongs within this history of immediate consumption needs rather than being mistaken for a comprehensive development program.",
+        "The northern and southern zones encountered different industrial and agricultural legacies, but neither could escape the dislocation of empire and war. The central challenge was not merely scarcity; it was the uncertainty about which institutions were entitled to organize scarcity. A ration card, a police permit, an eviction notice, or an employer's wage schedule could make the politics of occupation unavoidable in everyday life. That is why a study of partition must include domestic labor, shelter, illness, and unpaid care as well as speeches about sovereignty."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IX.1.8:b03",
+      "title": "Ordinary people were not a single political public",
+      "paragraphs": [
+        "Households varied by gender, age, class, place, and migration history. For some women the end of colonial restrictions opened public opportunities; for others household burden intensified as relatives returned without resources or did not return at all. People who had accumulated skills inside the colonial economy could find them useful but politically suspect. Workers in urban industry and tenants in farming districts faced different forms of leverage. Historical sources that organize people into one grateful or one angry population risk suppressing the difficult choices of these groups. Material history offers a way to see independence not as an event completed in August 1945 but as a contested redistribution of risks and opportunities."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "GARIOA supplies in occupied South Korea addressed consumption needs such as food, clothing, and public health rather than comprehensive economic reconstruction.",
+          "locator": "내용: consumption-goods administrative relief under the military government",
+          "type": "direct",
+          "sourceIndex": 0
+        }
+      ]
+    }
+  ]
+}
