@@ -1,0 +1,154 @@
+{
+  "id": "IV.3.5",
+  "title": "Landholding, Estates, and the Distribution of Wealth",
+  "kicker": "SILLA SOCIAL HISTORY · COMPLETE CHAPTER",
+  "description": "An original account connecting social structures, material evidence, and the limits of the surviving record.",
+  "release": "J",
+  "sourceStatus": "Selected claim-level documentary links; unannotated interpretations are editorial synthesis, not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신라의 촌락 지배 — text and commentary on the Silla Village Register",
+      "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_033_0050&tabId=03&treeId=010302&whereStr=",
+      "role": "Published transcription of the primary village register; household, slave, field, livestock and tree entries; document dating debated"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신편 한국사 — 통일 신라의 수취제도",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_001_0040_0020_0020_0010",
+      "role": "Scholarly interpretation of household grades, taxation and land categories; disputed institutional meanings"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "한국문화사 — 신라 촌락 문서의 토지 종목과 면적",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_026_0030_0030_0020",
+      "role": "Comparative registered paddy and dry-field measurements for four villages"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.3.5:b01",
+      "title": "A line in an inventory is not a property deed",
+      "paragraphs": [
+        "Landholding is one of the hardest subjects in early Korean social history because a document recording a field does not necessarily explain who owned it in a modern legal sense. The Silla village register differentiates types of rice fields and dry fields and connects some with households and others with official or privileged uses. These names matter, but their institutional meanings are debated. A field assessed to a household could involve customary cultivation rights, taxation and obligations without establishing unrestricted power to sell it. A plot associated with an office may have sustained an administrative role rather than belonging to an individual forever. Later land terminology is sometimes clearer, but projecting it backward can erase important changes. The village register gives measurements and categories drawn up for practical assessment, not a philosophical account of private ownership. Thus the historian should begin with concrete questions. Who could work this land? Who received its product? Who could move away? Who would collect an assessment after a poor harvest? Did the answer change when a household lost working adults? Those questions approach the actual distribution of resources more closely than a simple division between state and private property."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.5:b02",
+      "title": "The four villages and their unequal fields",
+      "paragraphs": [
+        "The Seowongyeong-area register survives for only a small group of settlements, and yet even that narrow sample displays uneven distributions of land use. Its lists distinguish paddy and dry fields, hemp fields and plots tied to particular purposes. A state interested in assessments would need those distinctions because land did not produce a uniform crop or require the same labor. The document's units of area belong to a historical measuring system; converting them into present-day hectares without accounting for context can create false precision. Nor should the combined figures from four villages become an average for the entire peninsula. Local topography, water availability and patterns of authority varied. Some modern scholarship debates whether these villages were typical or had special administrative attachments. That uncertainty is not trivial: if a community was exceptional, its field ratios could mislead broader narratives of rice cultivation. Nevertheless, the document shows real administrative interest in crops, animals and productive trees together. The state was not measuring an abstract landscape. It was trying to translate diverse local resources into knowledge usable for fiscal and labor demands."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "The four-village register distinguishes rice fields, dry fields, hemp fields, and official field categories.",
+          "sourceIndex": 0,
+          "locator": "신라의 촌락 지배, registered cultivated fields",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.5:b03",
+      "title": "Elite power beyond the census column",
+      "paragraphs": [
+        "Aristocratic wealth was never reducible to a list of plots. Land could be connected to retainers, marriage alliances, dependent workers and access to officials who interpreted a levy or settled a dispute. Great families in and around the capital enjoyed political resources that affected how material wealth was accumulated and defended. Yet the surviving evidence does not let us assign a uniform estate system to all Silla elites across centuries. Distinctions must be drawn among early state formation, the expanded kingdom after the seventh-century wars, and later periods of weakening central control. Court histories emphasize offices, rank and succession; they are often much less informative about ordinary estate management. Archaeological distributions of elaborate residences and grave goods suggest unequal access to resources but do not directly measure acreage. An elite household's power might lie in commanding labor or movement along a road as much as in possessing cultivated fields. A land history must therefore connect property with people. When officials required transport, soldiers or construction labor, the distribution of burden could reinforce or challenge local relations. The formal label on a field was only one part of that power."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Recorded paddy and dry-field areas differed substantially among the surviving four villages.",
+          "sourceIndex": 2,
+          "locator": "한국문화사, table 신라 촌락 문서의 토지 종목과 면적",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.5:b04",
+      "title": "Temples and the geography of endowed resources",
+      "paragraphs": [
+        "Buddhist establishments became important parts of Silla's religious and material world. Major temples needed construction materials, ritual supplies, food, craftsmen and sustained maintenance. Patronage could connect royal or aristocratic families to land and productive resources, creating networks of obligation extending beyond a sacred enclosure. But a temple's surviving stone pagoda is not evidence for a particular surviving estate boundary, and general examples from later Korean dynasties should not be used as a substitute for eighth-century documentation. The useful questions concern supply: which communities furnished grain, timber or work, and on what terms? A monastery might offer religious services and employment while also drawing revenue from dependent land. Individual experiences would differ depending on status and proximity to the institution. Temples were neither entirely detached spiritual islands nor merely disguised landlord offices. They participated in economic relations whose precise local forms require case-by-case reconstruction. This is a reminder that elite patronage changed landscapes as well as artistic traditions; buildings demanded a long chain of ordinary material actions."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "IV.3.5:b05",
+      "title": "Rice fields, dry fields and ecological investment",
+      "paragraphs": [
+        "A rice paddy depends on much more than a seed. Water control, maintenance, drainage and seasonal cooperation can determine whether a productive field remains reliable. Dry-field cultivation presents different opportunities and risks, as do orchards, mulberry plots and grazing. The village document's inventories of oxen, horses and various trees invite a landscape history in which cultivated land forms part of a mixed rural economy. It would be misleading to claim every registered animal served the same function. Oxen could assist cultivation and transport; horses may relate to movement or administrative responsibilities, but their exact assignment is often inferred rather than explicitly written. The presence of mulberry trees suggests connections to sericulture or fiber production without identifying a complete chain of producers and merchants. Field categories can help us ask why one settlement invested more in wet cultivation than another, but they do not provide a weather diary or agricultural yield table. In early medieval Silla, sustainable production depended on recurring work over many seasons, much of it too routine to receive chronicle attention. That labor is central to an explanation of wealth, because no court could extract indefinitely from a landscape that was not maintained."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "IV.3.5:b06",
+      "title": "Tax claims and the danger of tidy systems",
+      "paragraphs": [
+        "Historians study Silla's fiscal arrangements through fragmentary regulations, later references and documents like the village register. Textbooks sometimes offer a neat list of tax categories, labor services and land allocations. Such terms are useful orientation points but should not be mistaken for a uniformly enforced code known in full detail. A rule proclaimed at the capital could be modified through local custom, power, need or evasion. Officials had incentives to count people and fields, while households had incentives to avoid impossible burdens. That does not prove widespread resistance in every village; it simply identifies a structural tension. Nor should land attached to official remuneration be conflated with a general grant to peasant households. The administrative categories survive unevenly and their scholarly interpretation can change as documents are reexamined. Instead of forcing every plot into a modern diagram, an evidence-aware account distinguishes the documented act of recording land from the inferred mechanisms of distribution and revenue. The state's capacity to calculate was impressive but never identical with omnipotent control. Its claims moved through a chain of local actors who could translate, resist or negotiate demands."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "IV.3.5:b07",
+      "title": "Land, dependency and a harvest's vulnerability",
+      "paragraphs": [
+        "The distribution of productive land also determined who could survive disruption. A household farming marginal soil could face a different risk from one with several well-watered plots. Dependents might be particularly exposed when a patron required more labor or when disease reduced available hands. The surviving register counts people and animals but does not describe every episode of failed harvest, nor does it provide a reliable income series. A good social history must make this distinction explicit. It can argue that uneven access to land and labor shaped vulnerability; it cannot claim measured inequality ratios unsupported by data. Disasters could change household composition through migration, deaths and demands for assistance, but the precise local histories remain elusive. Likewise, a prosperous landholder's rights would not tell us whether all workers shared that prosperity. The concepts of wealth and property are inseparable from social relations: rights to cultivate, power to levy, claims over dependent people, and the ability to rely on others when the harvest failed. Archaeology, later law and surviving inventories can illuminate different aspects of these relations, but none should be allowed to speak for all the others."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "IV.3.5:b08",
+      "title": "How not to read the village register",
+      "paragraphs": [
+        "The document is remarkable partly because it was preserved accidentally as reused writing material in Japan and discovered only in the twentieth century. Its survival is a historical event with consequences for what scholars can know. It encourages exact-looking tables, but the underlying text is damaged and readings of some terms are contested. Several dates have been proposed for its compilation; a responsible discussion does not choose one simply to make a clean timeline. The register records four communities, not a random sample of the Silla kingdom. It tells us that officials counted households, persons, livestock, trees and fields, yet it does not identify every plot's legal owner or explain each family's hopes. The strongest conclusion is therefore carefully bounded: Silla administration could classify rural productive resources in unusual detail, and those classifications were linked to a society of unequal authority and labor obligations. The larger picture of land tenure remains a reconstruction from incomplete evidence. Preserving that uncertainty does not make the subject less compelling. It makes the stakes clearer, because the administrative desire to know the countryside was itself a force within the lives of people who cultivated it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "IV.3.5:b09",
+      "title": "Comparison without false equivalence",
+      "paragraphs": [
+        "The temptation to interpret Silla landholding through a later Joseon tax ledger, a Tang legal code or a modern concept of ownership should be resisted. Comparisons can clarify questions: a historian might examine the capacity of imperial bureaucracies to register land, or how other societies combined household obligations with elite privileges. But a parallel is not proof of identical institutions. Tang administrative texts sometimes describe categories that circulated widely across East Asia, yet Silla adapted external models within local practices and power relations. The documentary evidence for one region cannot be substituted for another. We should be especially careful with the terms \"peasant,\" \"tenant,\" \"landlord\" and \"estate,\" which may carry assumptions about rights and economic choices not established for the Silla countryside. Instead, the register can be interrogated with narrower questions about fields, assessment and social classification, and those findings compared with archaeology and inscriptions where the chronological match is secure. Historical knowledge grows through disciplined comparison, not by smoothing away everything that fails to fit a neat institutional diagram."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "IV.3.5:b10",
+      "title": "The political importance of a contested category",
+      "paragraphs": [
+        "Disagreement about a field classification may seem too technical to matter in a narrative history, but the stakes are large. If a plot was cultivated by a household yet assigned to an administrative office, it affected both the government's claim on production and the cultivator's room to act. If the same label designated a different arrangement, our reconstruction of class relationships changes. Historians therefore debate the meaning of terms found in the village register, the balance between wet and dry cultivation, and the document's institutional setting. Their disagreements are not a sign that the document is worthless. They show that primary evidence requires interpretation, translation and awareness of incomplete context. A website should expose at least some of these uncertainties to readers instead of concealing them beneath confident graphics. A numerical table without its dating debate, or a modern ownership chart without its terminological problems, would appear precise while being less truthful than a careful explanation. Landholding shaped the economy of Silla, but the surviving record asks readers to think historically about categories rather than merely memorize them."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "IV.3.5:b11",
+      "title": "The broader landscape behind the columns",
+      "paragraphs": [
+        "The countryside was never only a fiscal abstraction. Terraces, stream courses, groves, field boundaries and roads formed a patchwork that changed with settlement and production. Land measured on an administrative sheet could acquire different uses after a flood or a shift in labor availability. Water-control work and transport linked neighboring households in practical cooperation even where legal claims were unequal. A wealthy establishment could mobilize specialists, but routine maintenance depended on many less visible hands. If a storm destroyed an embankment or a family lost animals, the formal acreage could remain the same while its effective productivity altered sharply. The distinction explains why land distribution cannot be captured in one static chart. The evidence lets us identify fields and some categories of assessment; it rarely lets us follow the season-by-season decisions behind them. Reconstructing the social meaning of land requires attention to ecology and vulnerability as much as to institutional nomenclature."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    },
+    {
+      "id": "IV.3.5:b12",
+      "title": "A productive landscape in changing political hands",
+      "paragraphs": [
+        "A kingdom could expand its territory faster than it could create stable expectations about land and labor within it. As political centers changed, local communities might preserve some forms of cultivation while receiving new assessments and obligations. This is not a license to claim that every conquest prompted a single comprehensive land survey, nor that rural people welcomed or resisted change in the same way. It is a reminder that an administrative description belongs to a sequence of historical relationships. The surviving village register captures one small part of that sequence: an official attempt to understand productive resources with categories meaningful to the authorities who prepared it. On the ground, the capacity to cultivate depended on water, animals, labor and security, not merely the abstract recognition of a plot. The gap between the administrative list and the lived field should remain visible throughout the narrative. It is in that gap that the differing experiences of a dependent cultivator, a local leader and a court-connected beneficiary become intelligible."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 12
+    }
+  ]
+}

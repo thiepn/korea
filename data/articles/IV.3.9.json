@@ -1,0 +1,60 @@
+{
+  "id": "IV.3.9",
+  "title": "Health, Disease, Famine, Environment, and Demography",
+  "kicker": "SILLA SOCIAL HISTORY · COMPLETE CHAPTER",
+  "description": "An original account connecting social structures, material evidence, and the limits of the surviving record.",
+  "release": "J",
+  "sourceStatus": "Selected claim-level documentary links; unannotated interpretations are editorial synthesis, not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신라의 촌락 지배 — text and commentary on the Silla Village Register",
+      "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_033_0050&tabId=03&treeId=010302&whereStr=",
+      "role": "Published transcription of the primary village register; household, slave, field, livestock and tree entries; document dating debated"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신라촌락문서 — historical chronology and document survival",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_r100485",
+      "role": "Secondary synthesis for provenance, discovery and document scope"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.3.9:b01",
+      "title": "An epidemic without a modern case count",
+      "paragraphs": [
+        "Health history requires unusual restraint because early medieval sources rarely provide the continuous demographic and medical data expected today. Court chronicles may report famine, disease or extraordinary weather, but a dramatic entry does not supply the number of infected households, a pathogen's identity or the full geography of an outbreak. Silence can result from lost documentation or from a chronicler's interests, not from the absence of suffering. Archaeological skeletons may reveal some diseases or injuries, yet preservation and excavation introduce their own sample biases. Rather than build a fictional epidemic curve, we can study vulnerability: food supply, water, crowding, travel, care and the distribution of resources. A court and a rural settlement may have faced the same environmental disturbance with very different reserves and support networks. Historical illness happened within social relations; it should not be reduced to a list of royal omens."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.9:b02",
+      "title": "Grain, weather and the uneven burden of shortage",
+      "paragraphs": [
+        "The availability of food depended on harvests, storage and transport, all of which could be disrupted by weather, violence or administrative demand. The Silla village register's attention to land and productive resources shows why such inventories mattered to government, but it does not offer a continuous run of yields or climate records. When chronicles mention scarcity, their language may also carry political judgment about rulers. We should not treat moralized explanations of disaster as modern environmental science. People with access to stored grain or patrons might endure a shortage differently from those already close to subsistence. Households with fewer able workers could be especially vulnerable when illness and crop failure coincided. Those are structural possibilities, not verified statistical outcomes for a particular recorded event. To discuss the history of famine responsibly is to distinguish a named episode from the general conditions that determined its severity."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "IV.3.9:b03",
+      "title": "Treatment, prayer and the practical ethics of care",
+      "paragraphs": [
+        "Silla's Buddhist institutions and local religious practices offered ways to understand suffering, death and uncertainty. Rituals could coexist with practical responses to injury or illness rather than serving as simple substitutes for them. The details of who provided care in every settlement are mostly unknown. Knowledge of medicinal plants and treatments circulated through different channels, but modern readers should resist assigning a complete and standardized health system to the kingdom without appropriate sources. Elite patronage of religious spaces could create opportunities for collective assistance, yet the evidence does not establish universal access or consistent relief. Family care was vital by the ordinary logic of household life, but its daily gestures rarely entered written history. Recovering a compassionate history of illness does not require invented doctors or miracle cures. It requires recognizing how health was experienced through work, kin, status, faith and uncertainty."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IV.3.9:b04",
+      "title": "Population movement and missing statistics",
+      "paragraphs": [
+        "Wars, taxation, marriage, work and environmental disturbance all had the potential to move people between communities. The village register's notes on residence and age categories are evidence that officials sought to track some of those movements. But extrapolating a population size for the entire kingdom from four villages is methodologically unsafe. Nor can the average age at death be calculated directly from a selective register. Migration could change the productive balance of a settlement, while political expansion could place unfamiliar obligations on conquered communities. These changes mattered even when they were not recognized as demographic events by a royal chronicle. The most defensible story is one of historically significant mobility under unequal constraints, with the precise magnitude frequently unknown. That is a substantive conclusion, not simply a confession that the archive is incomplete."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

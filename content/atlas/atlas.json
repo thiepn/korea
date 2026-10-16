@@ -195,6 +195,46 @@
       "detail": "Former kingdoms, displaced communities and Tang–Silla conflict complicate the meaning of unification."
     },
     {
+      "year": 674,
+      "date": "674 CE",
+      "era": "IV",
+      "id": "IV.3.8",
+      "title": "Wolji is created near the Silla royal residence",
+      "detail": "An elite palace pond, dated by transmitted texts and interpreted through excavation, becomes an unusually rich material-culture site; the objects are not a cross-section of all households."
+    },
+    {
+      "year": 700,
+      "date": "Unified Silla, roughly 7th–9th centuries",
+      "era": "IV",
+      "id": "IV.3.2",
+      "title": "Households underpin the expanded kingdom",
+      "detail": "This thematic landmark has no single dated event: household labor, kinship and unequal status sustained the society documented only selectively in administrative and later textual sources."
+    },
+    {
+      "year": 730,
+      "date": "Unified Silla, date contested",
+      "era": "IV",
+      "id": "IV.3.3",
+      "title": "A village administration counts residents and resources",
+      "detail": "The Silla Village Register for four Seowongyeong-area communities survives by reuse; its composition date is disputed and should not be pinned to the illustrative timeline year."
+    },
+    {
+      "year": 735,
+      "date": "Unified Silla, date contested",
+      "era": "IV",
+      "id": "IV.3.5",
+      "title": "Land, livestock and trees enter fiscal categories",
+      "detail": "The village register lists fields, animals and productive trees, but its exact date and the institutional meanings of particular field labels remain matters of research."
+    },
+    {
+      "year": 745,
+      "date": "Unified Silla, thematic period",
+      "era": "IV",
+      "id": "IV.3.6",
+      "title": "Skilled production supports capital and countryside",
+      "detail": "Ceramics, cloth, metalwork, construction and repair supplied both grand patronage and routine household requirements; the marker is thematic, not a claimed single event."
+    },
+    {
       "date": "Eighth century CE",
       "year": 750,
       "era": "IV",
@@ -209,6 +249,14 @@
       "id": "IV.3.3",
       "title": "Rural labor and the Silla countryside",
       "detail": "The state depends on villages and households more than surviving royal art makes obvious."
+    },
+    {
+      "year": 828,
+      "date": "828 CE",
+      "era": "IV",
+      "id": "IV.3.7",
+      "title": "Cheonghaejin anchors a maritime route",
+      "detail": "The establishment of the naval-trade center under Jang Bogo is recorded for 828; subsequent biographies present a more complex transmitted narrative of his motives and leadership."
     },
     {
       "date": "936",
@@ -829,6 +877,76 @@
       "from": "III.2.6",
       "to": "III.1.5",
       "why": "The loss of Hanseong is inseparable from Goguryeo’s Pyongyang-based southern strategy and its continuing contest for frontier access."
+    },
+    {
+      "from": "III.3.7",
+      "to": "IV.3.5",
+      "why": "Military expansion and stronger royal institutions intensified questions about how fields, local labor and assessed resources supported Silla’s extended political reach."
+    },
+    {
+      "from": "III.3.8",
+      "to": "IV.3.2",
+      "why": "The language of aristocratic bone rank explains some royal marriage politics but cannot stand in for the social arrangements of ordinary Silla households."
+    },
+    {
+      "from": "IV.3.1",
+      "to": "IV.3.2",
+      "why": "Fiscal household counts bring dependents and enslaved people into view, showing that social hierarchy continued within domestic relations as well as formal offices."
+    },
+    {
+      "from": "IV.3.2",
+      "to": "IV.3.3",
+      "why": "A family’s options were shaped by the administrative villages that counted its members, documented movements and connected it to state obligations."
+    },
+    {
+      "from": "IV.3.3",
+      "to": "IV.3.5",
+      "why": "The four surviving village records measure both residents and fields, making land distribution inseparable from the state’s knowledge of rural households."
+    },
+    {
+      "from": "IV.3.4",
+      "to": "IV.3.5",
+      "why": "Agricultural productivity depended on water, terrain and labor, which complicate any interpretation of fiscal field categories as simple modern ownership."
+    },
+    {
+      "from": "IV.3.4",
+      "to": "IV.3.9",
+      "why": "Crop production, irrigation, livestock and food availability shaped households’ ability to withstand shortages without providing a quantifiable epidemic record."
+    },
+    {
+      "from": "IV.3.5",
+      "to": "IV.3.6",
+      "why": "Land, patrons and productive resources helped support specialist craftsmen and major religious buildings, although individual labor arrangements are rarely recorded."
+    },
+    {
+      "from": "IV.3.6",
+      "to": "IV.3.7",
+      "why": "Commerce moved objects created by artisans and household workers; long-distance exchange depended on the organization of production at many local sites."
+    },
+    {
+      "from": "IV.3.6",
+      "to": "IV.3.8",
+      "why": "Court objects and building materials reveal technical skill, but their elite archaeological contexts cannot be treated as typical of every dwelling."
+    },
+    {
+      "from": "IV.3.7",
+      "to": "IV.3.8",
+      "why": "Capital demand, roads and maritime traffic connect imported courtly goods with a larger commercial world, though access was highly unequal."
+    },
+    {
+      "from": "IV.3.9",
+      "to": "IV.3.10",
+      "why": "Seasonal illness and food insecurity formed part of the background against which labor, celebration, pilgrimage and family obligations were experienced."
+    },
+    {
+      "from": "IV.3.2",
+      "to": "IV.3.10",
+      "why": "The retrospectively recorded Gabae weaving festival joins gendered labor, household production and communal celebration without documenting every village custom."
+    },
+    {
+      "from": "IV.3.7",
+      "to": "V.5.6",
+      "why": "Maritime exchange, the circulation of texts and the labor behind religious copying anticipate questions about how later Korean Buddhist scholarship moved across regions."
     }
   ]
 }

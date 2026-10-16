@@ -1,0 +1,68 @@
+{
+  "id": "IV.3.10",
+  "title": "Travel, Leisure, Festivals, Games, and the Rhythms of Life",
+  "kicker": "SILLA SOCIAL HISTORY · COMPLETE CHAPTER",
+  "description": "An original account connecting social structures, material evidence, and the limits of the surviving record.",
+  "release": "J",
+  "sourceStatus": "Selected claim-level documentary links; unannotated interpretations are editorial synthesis, not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "가배와 회소곡 — Samguk sagi text and commentary",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_020_0110",
+      "role": "Retrospectively transmitted chronicle source; evidence for the Gabae tradition, not a contemporary observation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "청해진 — 한국사 연대기",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_r101460",
+      "role": "Modern synthesis of the 828 Cheonghaejin foundation and chronology"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.3.10:b01",
+      "title": "Time not spent in official service",
+      "paragraphs": [
+        "The texture of everyday life cannot be reconstructed by listing ceremonies at the court. Agricultural calendars, religious observances, trips, gatherings and periods of rest shaped how people experienced time. A household's seasonal rhythm depended on crops, weather and obligations; it was not identical with the royal ritual calendar. Travel may have been undertaken for family ties, exchange, service, pilgrimage or work, but evidence for its precise frequency differs sharply by social group. Famous pilgrims leave clearer traces than ordinary visitors moving between villages. Likewise, leisure was not a realm free from status. Elites could sponsor entertainment, while games and seasonal celebrations might also occur in less lavish settings. Reconstructing those experiences requires different kinds of source, with care not to treat a court tradition as every community's custom."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.10:b02",
+      "title": "Gabae and the work of making a festival",
+      "paragraphs": [
+        "The Samguk sagi records a story about a weaving competition among women associated with the old Silla capital and a concluding feast called Gabae, linked to the fifteenth day of the eighth lunar month. The National Institute of Korean History publishes the passage and explains its transmission. It is valuable evidence for the memory of a festival that bound collective labor to music, dance and food. Yet its chronicle setting is retrospective, and scholars cannot simply treat every element as a direct observation from the early period attributed to the event. The story also deserves more than an uncomplicated celebration of harmony: competition, deadlines and the organization of women's labor were part of its remembered form. It shows how work could become public performance and social meaning. What it cannot prove is that the same observance was celebrated in exactly the same way by every Silla village over many centuries."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "A later Samguk sagi narrative associates Gabae with communal weaving and feasting.",
+          "sourceIndex": 0,
+          "locator": "가배와 회소곡, Korean and classical Chinese source passage",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.10:b03",
+      "title": "Roads traveled by different people",
+      "paragraphs": [
+        "A king's procession, a monk's pilgrimage, a merchant's journey and a dependent person's compulsory move all used geographical corridors under very different conditions. The availability of food and lodging, exposure to danger, and ability to choose a route depended on social resources. A story of cultural exchange sometimes celebrates mobility while overlooking those who could not travel freely. Maritime voyages might transmit ideas and precious goods, but travel could also lead to capture and enslavement. Jang Bogo's ninth-century career reminds us that protection from piracy was a material and political issue rather than a romantic adventure. For many people, the most important journey might have been a short one to a neighboring market or relative. Such movements rarely entered elite histories, although they sustained relationships and exchange. A history of travel should therefore be a history of unequal freedom as well as connection."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IV.3.10:b04",
+      "title": "Games, performances and the difficulty of dating traditions",
+      "paragraphs": [
+        "Music, performance and games appear in retrospective writings and material representations, but genres and customs changed. A modern performance framed as ancient Silla heritage may be meaningful cultural interpretation without reproducing an original event in full. Evidence from an elite funerary image or later chronicle must be dated before being used for a specific practice. Instruments and performance settings could differ between court ceremonies, Buddhist rituals and popular gatherings. The absence of a surviving game rulebook does not mean nobody played; it means historians cannot write a definitive guide to how every match was conducted. Descriptions should preserve that difference. A compelling narrative can examine the social uses of play—competition, release from routine, hospitality, prestige—without filling gaps with invented sports schedules or celebratory speeches. This is particularly important in a history website, where pleasing pictures can otherwise harden speculation into apparent fact."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}

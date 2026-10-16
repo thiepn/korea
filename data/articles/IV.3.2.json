@@ -1,0 +1,151 @@
+{
+  "id": "IV.3.2",
+  "title": "Household, Kinship, Marriage, and Gender",
+  "kicker": "SILLA SOCIAL HISTORY · COMPLETE CHAPTER",
+  "description": "An original account connecting social structures, material evidence, and the limits of the surviving record.",
+  "release": "J",
+  "sourceStatus": "Selected claim-level documentary links; unannotated interpretations are editorial synthesis, not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신라의 촌락 지배 — text and commentary on the Silla Village Register",
+      "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_033_0050&tabId=03&treeId=010302&whereStr=",
+      "role": "Published transcription of the primary village register; household, slave, field, livestock and tree entries; document dating debated"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "신라촌락문서 — historical chronology and document survival",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_r100485",
+      "role": "Secondary synthesis for provenance, discovery and document scope"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "신라 촌락문서",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032861",
+      "role": "Scholarly encyclopedia discussion of fragmentary preservation and competing datings"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "가배와 회소곡 — Samguk sagi text and commentary",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_020_0110",
+      "role": "Retrospectively transmitted chronicle source; evidence for the Gabae tradition, not a contemporary observation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.3.2:b01",
+      "title": "The household, not the palace, as a unit of history",
+      "paragraphs": [
+        "When a history of Silla follows kings, it can make the realm seem to consist mainly of decisions taken in the capital. A household offers another scale. Its members had to secure food, distribute care, make clothing, maintain buildings, negotiate marriages and respond to commands from landlords or officials. The distinction matters because the resources displayed in monumental Buddhist temples and royal burials were produced, carried and transformed by people whose biographies almost never entered court histories. Yet an ordinary household is not a simple, timeless unit waiting beneath the chronicles. Its size, membership, property and obligations could change with births, deaths, migration and dependency. The surviving Silla village register, discovered far from Korea after being reused as paper inside a Buddhist book wrapper, distinguishes households by fiscal categories and records women, men, children, older people and dependent laborers. That unusual list gives the historian a view from the administrative side of household life, not from a family diary. It reveals that the state cared about household composition because it mattered for assessment, but it does not reveal how each family explained its own identity. The court's concern with productive and taxable populations thus becomes the beginning, rather than the end, of a social history."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.2:b02",
+      "title": "What a village register can and cannot count",
+      "paragraphs": [
+        "The surviving village document records four settlements associated with Seowongyeong and its surroundings. It names categories of persons and inventories cultivated fields, livestock and trees; it also notes changes over roughly three-year intervals. Its very specificity can tempt a reader into thinking the countryside has finally become fully visible. But a fiscal register is selective. Ages appear in administrative bands, not as the language people necessarily used within the home. One household might include relatives, slaves and dependents; another could be small but connected to a powerful lineage elsewhere. Categories do not prove that everyone recognized as living together shared meals or decisions. Different scholarly datings for the register are proposed, including the eighth and ninth centuries. Those debates matter, since it would be misleading to place the document under one king with unwarranted precision. Its tiny regional sample cannot stand for every coastal village, mountainous hamlet or city neighborhood in Silla. It does show how seriously officials could take household numbers and changes, and that their counting practices made women and children legible to the state even when royal chronicles largely passed over them. Demography here is filtered through fiscal purpose. The document preserves the viewpoint of administration as well as traces of the lives it sought to organize."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "The Silla Village Register records four Seowongyeong-area communities and classifies household members, including dependents.",
+          "sourceIndex": 0,
+          "locator": "신라의 촌락 지배, register transcription and introductory commentary",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.2:b03",
+      "title": "Marriage as a relationship between unequal resources",
+      "paragraphs": [
+        "Marriage should be imagined not only as a rite joining two individuals but as a relationship among people with different resources and claims. In a society organized by hereditary rank at its political summit, elite marriages could secure influence and reinforce boundaries of status. The vocabulary of bone rank belongs especially to aristocratic politics; it cannot simply be projected onto every marriage between villagers. Among common households, the material problems might be land access, working hands, kin support and who cared for children or older relatives. Marriage arrangements could alter residence and cooperation among relatives, but evidence for the detailed rules practiced by ordinary families in every region is sparse. Later Korean customary arrangements are not a reliable shortcut: practices recorded centuries afterward can illuminate questions without proving early medieval continuity. Nor can the public record of queens be made a universal portrait of female agency. Royal women sometimes occupied remarkable political positions precisely because of dynastic circumstances unavailable to most women. A responsible account holds these distinctions together: marriage among great families was an instrument of succession and alliance; at household scale it also involved labor, care, desire and vulnerability, dimensions for which the archive often provides only indirect traces."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IV.3.2:b04",
+      "title": "Women's labor and the archive's unequal eyesight",
+      "paragraphs": [
+        "The village register distinguishes female age categories, and its inventory of mulberry trees suggests a rural economy in which fiber production and textile work had significance. That does not mean the document tells us which named woman worked at which loom. Later traditions about weaving competitions at the Silla capital appear in the Samguk sagi's account of the old Gabae festival. They are fascinating evidence for the way medieval compilers understood the relation among women, work and festivity, but the early royal setting belongs to a retrospectively transmitted story, not a contemporaneous census of textile labor. Material production and domestic maintenance almost certainly required much work that is difficult to isolate archaeologically by gender. Pots, needles, hearths, ground stones and loom-related implements show activities; assigning all of them to a fixed division of male and female work would be speculation. Elite women's roles in religious patronage and succession are differently documented from the labor of field workers. The problem is not that women were absent from Silla's economy. It is that surviving records distribute visibility unevenly. A better historical question asks what forms of work leave signatures, who recorded them, and whose exertion disappeared when administrators reduced lived households to categories."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "The Gabae weaving festival is described in a later chronicle, rather than a surviving contemporary village record.",
+          "sourceIndex": 3,
+          "locator": "가배와 회소곡, Samguk sagi book 1 excerpt",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.2:b05",
+      "title": "Children, elders and the arithmetic of obligation",
+      "paragraphs": [
+        "Counting children and older people is a reminder that ancient populations did not consist exclusively of productive adults. The Silla village register's age categories acknowledge transitions through childhood and old age. They also show why administration needed to distinguish those who might be assessed differently for levies or service. Yet bureaucratic classification was not identical to the social meaning of age. A child's place in household work could change gradually rather than on the day a register assigned a new category. Elderly relatives might exercise authority in some settings while needing assistance in others. Illness, widowhood or the loss of livestock could reorder a family's capacity to meet its obligations without changing its formal status at once. Archaeological cemeteries, where preservation permits, can reveal mortality patterns and physical stress; even then, they rarely identify kin relationships with the clarity of a modern civil register. We should therefore avoid treating administrative figures as if they were a complete population pyramid or a collection of standardized nuclear families. They are windows onto a society whose labor needs were unevenly distributed across the life cycle. The apparently technical question of how officials counted dependents touches the most personal experiences of care, grief and survival."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    },
+    {
+      "id": "IV.3.2:b06",
+      "title": "Dependence inside and beyond the dwelling",
+      "paragraphs": [
+        "Social hierarchy did not end at the palace gate. The register identifies enslaved persons within its population totals, while court narratives and later legal texts preserve other languages of subordination. Dependency could shape whether someone controlled their labor, property or movement. But it is dangerous to treat every recorded dependent as having identical circumstances. Some may have worked close to elite households; others might have been attached to productive land or workshops. Different institutions and periods may have used different categories of service. Evidence about exact household treatment, opportunities for emancipation or the personal relationships of enslaved individuals in unified Silla remains limited. Historical narrative should not soften that limitation into a comforting story of harmonious households. A household could provide shelter and social ties while also reproducing coercion. The same register that makes demographic presence visible can erase the personal voices of those whose labor was counted as an asset or obligation. Recognizing this difference is essential to an account of ordinary life that neither romanticizes family solidarity nor invents experiences that the surviving evidence cannot confirm."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "IV.3.2:b07",
+      "title": "Residence, mobility and the work of belonging",
+      "paragraphs": [
+        "One of the village document's most revealing features is its attention to changes in residence over time. Authorities were concerned when people moved because mobility could affect labor assessments and tax expectations. That concern indicates a tension between the administrative desire for fixed communities and the many reasons families might move: marriage, loss of land, military crisis, work opportunities or a search for security. The register alone cannot establish how often every such motive occurred or whether each move was legal or clandestine. It does show that the state made mobility an object of record. The capital and provincial centers would also have drawn people into activities different from village agriculture, although their household arrangements are much less clearly enumerated. Religious foundations and officials' residences could create their own networks of dependence. Thus belonging was layered: one might be attached to a place of assessment, to relatives somewhere else, to a patron, or to religious communities crossing district lines. A history based solely on settled villages would understate that complexity. A history based solely on mobile merchants and monks would miss how strongly officials sought to know where productive households were located."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "IV.3.2:b08",
+      "title": "What a family history of Silla can honestly say",
+      "paragraphs": [
+        "A long household history is best built by joining evidence of different kinds without pretending they are interchangeable. The village register is a documentary survivor with remarkable fiscal detail, but it does not supply conversations around a hearth. Elite tombs, surviving inscriptions and Buddhist patronage reveal wealth and status more vividly than routine village choices. A later chronicle can transmit a remembered festival, while excavated domestic objects reveal the material possibility of cooking, spinning, storing and repairing. None alone recreates a complete life. Together they support an account in which household organization shaped agriculture, production, gender relations, social hierarchy and the reach of the state. The unrecorded decisions are still historically real: marriages formed, children grew, people aged, relatives argued and care was provided or withheld. We do not need to invent names and speeches to acknowledge that these lives were not merely background scenery for kings. In a society of profound status differences, the ordinary household was simultaneously a site of practical cooperation, potential domination and adaptation. The central lesson is methodological as well as human: royal chronology tells us when rulers changed, but the recurring demands of family life help explain how their kingdoms endured."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "IV.3.2:b09",
+      "title": "What kinship could not guarantee",
+      "paragraphs": [
+        "Family membership did not guarantee protection, and the existence of kinship obligations should not lead historians to describe a universally secure domestic life. People of different legal or economic statuses could inhabit the same social sphere without receiving equal treatment. A widow might depend on relatives with whom she also contested resources; a dependent worker might be indispensable to household production while lacking freedom over movement; an elderly person might be consulted on family affairs or become vulnerable during shortage. The sources rarely allow us to follow one such case from beginning to end. What we can do is ask how obligations were organized and by whom they were enforceable. Marriage linked families, but it could also create competing loyalties between the household of birth and that of residence. The state counted people within fiscal units, while relatives might imagine membership in ways that cut across those units. Burial patterns and remembered lineages could express connections to ancestors, yet elite memorial practices cannot be assumed for all villagers. This tension between household registration, kinship and unequal power makes domestic history more than a subsection of family custom. It shows the social foundation on which state authority both depended and intruded."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "IV.3.2:b10",
+      "title": "The value of a document that was thrown away",
+      "paragraphs": [
+        "The unusual preservation of the Silla village document gives us a rare lesson about whose history survives. It existed because administrators had reasons to record a few communities at a particular moment. It survived because paper was reused in another context, eventually finding its way into a Buddhist book wrapper preserved in Japan. When that wrapper was repaired, the village register reappeared. Every step could have gone differently. Had the sheet been burned, historians would still speak confidently about Silla villages, but with far less direct evidence of how the state classified their inhabitants. This accident should instill humility about historical silence. We are not justified in concluding that unrecorded families had no strategies, conflicts or beliefs; equally, we cannot fill their silence with invented names. The surviving document's strength is its precise administrative interests, and its weakness is the absence of voices. That dual character is precisely why its historical value is so great: it reveals the shape of the archive, not just a set of numbers."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "IV.3.2:b11",
+      "title": "Between an official name and an individual's experience",
+      "paragraphs": [
+        "Historical narration often begins with the name of a king and ends with the date of his death. The records used to write a household history begin in another place: the categories of someone whose duty was to keep accounts. It would be a mistake to see the administrative record as less historical than the chronicle. Both were created for purposes that influenced what their writers noticed. One highlights succession, war and exemplary conduct; the other tracks who was available for service, what land might support production and which people or resources changed since an earlier reckoning. Neither gives us a complete account of domestic life. Moving between the two allows a more humane and structurally informed history: it asks which forms of work sustained the ruling families and which experiences of care, dependence and migration fall through the documentary gaps. A Silla household was a social world in its own right, even where no surviving writer chose to call it one."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    }
+  ]
+}

@@ -30,6 +30,24 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "IV.3.4:b04",
+      "title": "The evidence for rice is more complicated than a rice paddy photograph",
+      "paragraphs": [
+        "The village register distinguishes wet rice fields, dry fields and other categories, and the National Institute of Korean History discusses the variation in their measured areas. Some recorded villages had unusually substantial paddy areas, but even in the small surviving sample this distribution was not identical across localities. A modern image of flooded fields cannot tell us the exact cultivation calendar or labor organization behind every historical measurement. Fields required water control and maintenance, while dry crops, livestock and trees gave households additional resources. The document supports the historical importance of wet cultivation in certain communities. It does not prove the yield per hectare, a single kingdom-wide crop regime or uniform property rights. Interpreting this evidence demands attention to terrain, historical measures and the institution responsible for recording the fields."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "IV.3.4:b05",
+      "title": "Water and work in a landscape of risk",
+      "paragraphs": [
+        "Farming was an ecological negotiation conducted by people with unequal capacity to absorb loss. A damaged channel, exhausted soil or missing work animal could change the production available from land that still appeared on an official list. Local cooperation might be essential for repairing waterways, but that did not erase differences in rank, land access or obligations. Livestock counted in the register could contribute to cultivation and movement without serving a single purpose everywhere. Historical agricultural explanation is strongest when it joins material possibility to the partial record of administration. It should neither romanticize peaceful communal labor nor imagine a fully measurable productivity system where no continuous series survives."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
     }
   ],
   "release": "C"

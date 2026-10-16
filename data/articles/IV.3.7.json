@@ -1,0 +1,153 @@
+{
+  "id": "IV.3.7",
+  "title": "Markets, Internal Trade, Transport, and Commercial Life",
+  "kicker": "SILLA SOCIAL HISTORY · COMPLETE CHAPTER",
+  "description": "An original account connecting social structures, material evidence, and the limits of the surviving record.",
+  "release": "J",
+  "sourceStatus": "Selected claim-level documentary links; unannotated interpretations are editorial synthesis, not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "청해진 — 한국사 연대기",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_r101460",
+      "role": "Modern synthesis of the 828 Cheonghaejin foundation and chronology"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "장보고와 정년 — 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_034_0040",
+      "role": "Primary-source transmission and historiographic commentary on Du Mu, New Book of Tang, Samguk sagi"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "역대 국사교과서 — unified Silla economy and markets",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m51_0050_0010",
+      "role": "Textbook overview of capital markets, production and Tang commerce; general context, not transaction ledger"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.3.7:b01",
+      "title": "Commerce begins long before the merchant reaches a market",
+      "paragraphs": [
+        "A traveler approaching the Silla capital with cloth, grain or ceramics encountered a commercial world already shaped by farming households, workshops, roads and people who carried messages. Markets did not float independently above production. Goods had been collected, valued, moved and sometimes assessed before a buyer inspected them. The political history of Silla's expanded kingdom is therefore also a history of movement and exchange. The royal capital required provisions; Buddhist establishments needed materials; officials moved between localities; diplomatic missions connected the court to the Tang world; and coastal groups worked in routes that no inland royal order could entirely control. The scale of these activities varied dramatically. A neighborhood exchange in grain and tools was not the same institution as long-distance trade in prestigious objects. Nor should the presence of foreign glass or ceramics at an elite site imply that ordinary villagers routinely purchased imported goods. Archaeology offers distributions and traces of consumption, while texts more often describe merchants, ceremonies and state decisions that attracted elite notice. To tell a rounded commercial history we need to follow both ends of each chain: the extraordinary object that crossed seas and the very ordinary people who made transport possible."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.7:b02",
+      "title": "The capital's regulated markets",
+      "paragraphs": [
+        "Accounts of the Silla capital describe organized markets, including the eastern market and later additional western and southern market facilities. These were part of an urban setting in which concentration of court households, institutions and specialist activity created demand. State attention to markets tells us that buying and selling mattered politically: regulating a space could aid oversight, standardization and the movement of supplies. Yet a named market in a chronicle is not a full inventory of every transaction or stall. Much exchange may have occurred through households, periodic gatherings, patronage connections and direct delivery. The capital's commercial geography also changed over time. Later statements about a crowded Gyeongju should not be imposed unchanged on the earlier sixth-century kingdom. A market's functioning depended on conditions outside it: usable approaches, security on roads, storage, weights or locally accepted methods of valuation, and the willingness of producers to part with goods. The historian cannot confidently reconstruct every price or the income of a vendor. What can be said is that urban demand and administrative interest were mutually reinforcing. Government did not create commerce out of nothing, but the capital's needs helped concentrate and redirect many kinds of exchange."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Official histories describe eastern, western, and southern market spaces in Silla’s capital.",
+          "sourceIndex": 2,
+          "locator": "역대 국사교과서, capital markets passage",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.7:b03",
+      "title": "Roads carry power as well as products",
+      "paragraphs": [
+        "Travel across Silla's varied territory involved mountains, river crossings, coastal passages and corridors between administrative centers. Goods moved alongside officials, pilgrims, students and messengers. A route useful to a merchant could also carry troops or transport requisitioned for the court. This overlap complicates any simple picture of a free market connected by neutral infrastructure. Access could depend on season, terrain, local authority and security. A fortified crossing or a local elite controlling supplies might change the cost of movement without leaving a written toll schedule. Those problems were especially important when goods were heavy or perishable. Grain transported long distances had to feed people and animals during transit; textiles and fine objects were easier to move relative to their value. Maritime routes offered opportunities to bypass difficult overland journeys but introduced exposure to storms, piracy and political disputes at ports. A road map that simply joins cities by straight lines conceals these practical decisions. Commerce was a negotiation with geography and authority at every stage, and the same network could bring advantage to some settlements while imposing burdens on others."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IV.3.7:b04",
+      "title": "Ports, coastal settlements and the wider sea",
+      "paragraphs": [
+        "The Korean peninsula's coast opened onto multiple maritime circuits rather than a single international trade lane. Relations with Tang China and the Japanese archipelago involved embassies, monks, students, migrants and traders, often in overlapping voyages. Written records help identify some prominent travelers, but the people who built vessels, provisioned crews and handled cargo are less visible. Imported goods found in elite or religious settings show the reach of certain connections; they cannot by themselves quantify the full trade volume. Maritime exchange also entailed coercion. Later accounts of raids and enslaved Silla people reveal how fragile the distinction could be between trading routes and routes of predation. Coastal communities were not merely margins of the kingdom. Their navigational knowledge, harbors and political relationships were essential to the movement of high-value goods and people. The historian must resist placing every exchange under centralized state direction. Royal embassies and recognized military bases were highly visible, while local maritime activity probably included many arrangements that the court did not supervise in daily detail. The resulting commercial geography had several centers and many degrees of attachment to Silla's rulers."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "IV.3.7:b05",
+      "title": "Jang Bogo and the power of a protected route",
+      "paragraphs": [
+        "The clearest named figure in ninth-century Silla maritime history is Jang Bogo. Sources associate him with the establishment of Cheonghaejin near present-day Wando in 828, during a period of piracy, slave trading and court instability. The National Institute of Korean History presents Cheonghaejin as a fortified maritime base involved in the networks linking Silla, Tang and Japan. Later biographies, including material connected to Du Mu and transmitted through subsequent histories, supply dramatic episodes about Jang's personal leadership. Those narratives must be read with awareness of their moral and political purposes. Even allowing for embellishment, his career shows how a leader at the intersection of naval protection, trade and local armed organization could accumulate influence beyond a conventional provincial office. Maritime security could be a public benefit and a basis for private power. Protecting ships increased the attractiveness of a route; controlling protection could also generate bargaining leverage over merchants and rulers. Jang Bogo's later entanglement in succession politics illustrates that commercial influence and political authority were not separate worlds. A successful trade base could become a political center, yet that outcome was contingent, not an inevitable progression from merchant wealth to sovereignty."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "Cheonghaejin is dated to 828 in official historical chronology.",
+          "sourceIndex": 0,
+          "locator": "청해진, 828 foundation date",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.7:b06",
+      "title": "Pilgrims, students and knowledge as movable goods",
+      "paragraphs": [
+        "Objects were only one component of exchange. Monks traveling between Silla and Tang carried learning, ritual practices, texts, stories and personal relationships. Students and envoys likewise transported forms of knowledge that could reshape practices at home. The experience of a traveler depended on language, rank, religious affiliation and the institutions offering assistance. A monastery or expatriate community could supply lodging or introductions; its value cannot be expressed simply in monetary profit. Textual transmission also had a material side. Paper, ink, copying labor and safe carriage were prerequisites for scholarly or religious circulation. A document transported along a trade route might change how a court legislated or how a temple understood a ritual. Not every traveler left a preserved account, and famous journeys can distort our picture if treated as representative. Still, exchange becomes much richer when we see merchants and pilgrims operating in partly shared infrastructures of vessels, ports and hospitality. The history of Silla's overseas connections is at once economic, diplomatic, intellectual and religious. Any analytical division among these categories is a convenience for the reader, not a wall in the historical world."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "IV.3.7:b07",
+      "title": "What imports reveal—and what they do not",
+      "paragraphs": [
+        "Artifacts made elsewhere can transform our sense of cultural contact: a glass vessel, a style of decoration, a ceramic form or a written text suggests routes by which techniques and objects traveled. But provenance requires care. A foreign-looking object may have been copied locally; a foreign-made object may have arrived through several intermediaries; a prestigious gift is not necessarily an item of everyday trade. Context matters. A find from a royal or elite burial has different implications from a fragment in a workshop or a rural dwelling. Similarly, the absence of imported materials from a site may reflect excavation, preservation or unequal access rather than total isolation. Archaeology can sometimes identify workshops, imported material and changes in consumption, but it rarely provides a merchant ledger for the entire system. Written sources tend to notice diplomatic exchange and high-status goods more than the routine transfers of grain and firewood that sustained cities. Reconciling these records means refusing to let spectacular discoveries stand in for an average household. Cultural encounter was widespread in its consequences without being equally experienced by every Silla subject."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7
+    },
+    {
+      "id": "IV.3.7:b08",
+      "title": "Prices, money and unequal bargaining",
+      "paragraphs": [
+        "To write about a market is to confront the problem of value. We can identify practices of exchange without assuming that all purchases used standardized minted currency or that a single kingdom-wide price prevailed. Different goods, contexts and periods could rely on varying means of payment and obligation. Tax, rent, gift, wage, tribute and purchase are not synonyms even when they move similar products. A rural household delivering produce to fulfill a levy was participating in distribution, but not necessarily selling at a negotiated price. An artisan working for a court patron might receive support under arrangements different from those of a vendor supplying a market. Our surviving records give few continuous price series. As a result, precise claims about inflation, merchant profits or the purchasing power of ordinary wages in unified Silla would usually outrun the evidence. The more defensible approach is relational: who could refuse an exchange, who had access to transport, who possessed stores during shortage, and who could invoke administrative authority when obligations were disputed? These inequalities shaped commerce as much as demand did. A market could create opportunities while reproducing a hierarchy established elsewhere."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "IV.3.7:b09",
+      "title": "From royal capital to networks of regional authority",
+      "paragraphs": [
+        "A final commercial history must look beyond both the capital and the iconic maritime hero. The weakening of central Silla authority in the later ninth century made regional resources and armed protection increasingly important. Local elites could draw advantage from controlling ports, crossings, agricultural surplus or craft production. This was not the sudden appearance of trade after an earlier age of state control; exchange had long operated through local society. What changed was the political balance within which it took place. Jang Bogo's rise and fall show one version of the struggle, but other routes and communities had distinct histories. The kingdom's broader circulation of people and goods could survive dynastic crises while being redirected by new centers. Reading commercial life alongside village taxation and elite landholding reveals the whole system: fields provided products, households and dependents performed labor, specialists transformed materials, roads and vessels transported them, and rulers sought a share. Historical commerce was an activity of the many whose documentary traces often bear the names of the few. The task is not to invent a complete map, but to use each secure source to understand the larger landscape without allowing its silences to disappear."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "IV.3.7:b10",
+      "title": "The trade story that survived because a writer admired it",
+      "paragraphs": [
+        "Much of what readers know about Jang Bogo's dealings comes through later narratives that admired his character, political actions or transnational reach. A biography may emphasize loyalty and generosity because these were the qualities a compiler wanted remembered. A modern history cannot accept every scene as a verbatim report merely because it appears in an old work. The better method is to separate claims supported by independent chronology from anecdotal details whose transmission is more complex. Cheonghaejin's establishment in 828 and its role in maritime security are familiar institutional anchors. The precise personal conversations attributed to Jang should be treated more cautiously. The National Institute of Korean History's source presentation identifies transmission through Du Mu, later Chinese historiography and the Samguk sagi. That textual chain is itself part of the story. A man's reputation crossed linguistic and political boundaries, and each writer selected what made his conduct exemplary. The result is invaluable evidence for historical memory, though not a transparent recording of every commercial contract and negotiation. Reading trade history through this lens allows us to value the sources while remaining alert to what they were designed to praise."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10,
+      "evidence": [
+        {
+          "claim": "The Jang Bogo narrative was transmitted through Du Mu and later historical compilers.",
+          "sourceIndex": 1,
+          "locator": "장보고와 정년, source-transmission commentary",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.7:b11",
+      "title": "Commerce seen from the laboring shore",
+      "paragraphs": [
+        "International trade sounds glamorous when told through embassies, rare imports and powerful shipowners. On shore, however, it required people to maintain vessels, load and unload cargo, preserve food, keep watch and manage the unpredictable arrival of travelers. A coastal community could benefit from work and exchange while also bearing the costs of insecurity or enforced service. We cannot recreate a precise payroll or the daily dialogue of eighth-century dockworkers; the point is the practical dependence of long-distance movement on local skills. A rope had to be made and repaired, water supplied, storage organized and knowledge of currents transmitted. Shipwreck risk and seasonal winds gave this work particular uncertainty. Merchants needed trusted intermediaries, while local officials might seek revenue or control. Considering such ordinary tasks changes the scale of the narrative. Cheonghaejin remains important, but not because one charismatic figure single-handedly created a maritime world. Its history becomes intelligible when placed within communities that could provide—or withhold—the work that sustained it."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    }
+  ]
+}

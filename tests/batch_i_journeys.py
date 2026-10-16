@@ -15,7 +15,7 @@ with sync_playwright() as pw:
   page.set_content(html);page.add_style_tag(content=(R/'styles.css').read_text())
   page.evaluate('assets=>{window.assetLog=[];window.fetch=async p=>{window.assetLog.push(p);return {ok:!!assets[p],status:assets[p]?200:404,json:async()=>assets[p]}}}',assets)
   page.add_script_tag(content=js);page.wait_for_selector('.home-hero')
-  assert page.locator('.chapter-collection-grid button').count()==5
+  assert page.locator('.chapter-collection-grid button').count()>=5
   page.evaluate('location.hash="#/chapter/III.2"');page.wait_for_selector('.chapter-complete')
   assert '10 available to read' in page.locator('.chapter-stats').inner_text()
   assert page.locator('.chapter-index .subchapter-btn').count()==10

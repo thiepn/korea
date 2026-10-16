@@ -1,0 +1,68 @@
+{
+  "id": "IV.3.8",
+  "title": "Cities, Houses, Food, Clothing, and Material Life",
+  "kicker": "SILLA SOCIAL HISTORY · COMPLETE CHAPTER",
+  "description": "An original account connecting social structures, material evidence, and the limits of the surviving record.",
+  "release": "J",
+  "sourceStatus": "Selected claim-level documentary links; unannotated interpretations are editorial synthesis, not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "동궁과 월지 — Silla material culture",
+      "url": "https://contents.history.go.kr/mobile/eh/view.do?code=ganada&levelId=eh_r0090_0010",
+      "role": "Educational archaeological account of Wolji and excavated courtly artifacts; not representative of rural society"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "역대 국사교과서 — unified Silla economy and markets",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m51_0050_0010",
+      "role": "Textbook overview of capital markets, production and Tang commerce; general context, not transaction ledger"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.3.8:b01",
+      "title": "Gyeongju beyond monumental silhouettes",
+      "paragraphs": [
+        "The Silla capital is remembered through royal tombs, temples and palace landscapes, but a city is also a succession of ordinary material tasks. Food had to arrive, water be carried, fuel obtained, refuse disposed of and roofs repaired. The royal court attracted specialists and visitors, yet the city cannot be reconstructed simply by multiplying its grandest buildings. Archaeology provides urban layouts, objects and building traces of unequal quality. The scale of a palace complex reveals a concentration of resources, not the floor plan of every household. We should resist using a reconstructed elite dwelling as the standard image of city life. People who transported building materials or tended animals might have inhabited very different spaces from officials and religious patrons. The capital was therefore a social landscape of proximity without equality: impressive buildings stood within systems of supply dependent on less celebrated communities."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "IV.3.8:b02",
+      "title": "Donggung and Wolji as an assemblage, not a fantasy",
+      "paragraphs": [
+        "The excavated Donggung and Wolji area offers an unusually rich body of material for understanding Silla courtly life. The National Institute of Korean History's public archaeology material describes the artificial pond developed under King Munmu in 674 and discusses objects recovered from its surroundings. Wood, ceramics and other finds can illuminate manufacture, consumption and the maintenance of an elite landscape. But an excavated court site is not a transparent picture of a whole city. The deposition of objects in water can preserve particular materials and activities while leaving ordinary districts much less visible. Finds may reflect episodes of disposal, loss, renovation and destruction rather than a single frozen feast. A vessel or writing implement tells us that a type of thing was present, not automatically the name or social position of its user. Archaeology becomes most persuasive when its context and dating remain attached to interpretation. The palace pond reveals sophistication and labor, while warning us against confusing royal consumption with universal experience."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Wolji was constructed at the Silla court under Munmu around 674, as described in the archaeological overview.",
+          "sourceIndex": 0,
+          "locator": "동궁과 월지, creation of pond and site overview",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.3.8:b03",
+      "title": "Houses, kitchens and the material difference of rank",
+      "paragraphs": [
+        "Every household needed shelter and ways of preparing and storing food, but architecture varied with wealth, environment and available materials. Timber and thatch can disappear from the archaeological record more readily than stone or fired tiles, biasing the surviving image toward durable elite structures. The presence of roof tiles at major sites demonstrates specialized production and prestige; their absence elsewhere need not indicate a completely different cultural identity. Kitchens, hearths and storage vessels link material remains to eating practices, though their exact contents are rarely preserved. The difference between an elite banquet and a rural meal was likely substantial, but claiming a universal Silla menu would be misleading. Graves contain objects selected for funerary reasons; these choices may differ from things used daily. A careful material history sets evidence of artifacts against the social conditions of their use and avoids inventing details for which excavated remains are silent."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "IV.3.8:b04",
+      "title": "Clothing and the risk of retrospective costume",
+      "paragraphs": [
+        "Dress displayed practical adaptation and social distinction. Cloth quality, decoration and accessories could signal status, while everyday garments needed durability and repair. Yet popular images of Silla costume frequently assemble information from later art, court paintings, tomb finds and modern reconstructions. Not all are equally direct witnesses for the same century or class. A well-preserved ornament is easier to display than the ordinary textile that once accompanied it. Elite ornaments reveal technological artistry without telling us that most people could afford comparable objects. Women and men working in fields or workshops wore clothing suited to activities whose physical evidence is often incomplete. We should describe differences in materials and social function where supported, and resist a single standardized national outfit. The history of dress is strongest when it acknowledges regional variety, unequal purchasing power and the many ordinary garments that did not survive."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    }
+  ]
+}
