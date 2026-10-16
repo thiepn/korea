@@ -1,0 +1,107 @@
+{
+  "id": "VIII.1.6",
+  "title": "The Yeongseonsa Mission to Qing China and the Search for Technical Knowledge",
+  "kicker": "THE TREATY-PORT WORLD · LATE JOSEON",
+  "description": "An original historical account of changing law, commerce, diplomacy, technical learning, and daily life after the opening.",
+  "release": "L",
+  "sourceStatus": "Selective primary-text and institutional contextual annotations; historical synthesis has not been independently reviewed claim by claim.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "영선사 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0037460",
+      "role": "Institutional history of 1881 Tianjin technical learners, mission interruption and treaty mediation; participant counts distinguish categories"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "천진담초 — 김윤식 diplomatic talks in Tianjin",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056056",
+      "role": "Description of Kim Yun-sik meeting record, a primary documentary witness to Qing-linked negotiations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "계하자문책 — Korean diplomatic communications of 1881–1882",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003270",
+      "role": "Catalog and historical description of contemporary compiled diplomatic correspondence sent to Qing offices"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.1.6:b01",
+      "title": "A mission to learn how things were made",
+      "paragraphs": [
+        "In 1881 Kim Yun-sik led the Yeongseonsa mission toward Qing China as part of Joseon's search for practical military and technical knowledge. Its destination and work differed from the better-known visits to Japan. Officials hoped to study manufacturing and instruction connected with the Tianjin arsenal and the technologies circulating through Qing self-strengthening efforts. The mission was not simply a shopping journey for weapons. Learning to make ammunition or maintain machinery required foundations in mathematics, drawing, chemistry, language, metallurgy, and workshop discipline. The mission illustrates a broader change in policy thinking: the possession of a foreign machine was not the same as acquiring the institutional ability to reproduce and maintain it. Students and artisans who could observe processes mattered as much as the senior official authorized to negotiate."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Kim Yun-sik led the 1881 Yeongseonsa training delegation toward Qing military and technical education.",
+          "sourceIndex": 0,
+          "locator": "영선사, contents and dispatch",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.6:b02",
+      "title": "The learners were not only scholars",
+      "paragraphs": [
+        "Accounts of the mission identify trainees of different backgrounds, including apprentices and craftspeople. This is important in a society where prestige ordinarily attached to classical education and administrative examinations. A practical technical program could require the skills of hands-on workers whose status in the traditional hierarchy was relatively low. Institutional summaries do not always agree in their total counts, partly because they distinguish the mission's entire party, students, and artisans differently. The responsible approach is to cite each count to the category used by the source instead of turning all reported totals into one supposedly exact class of students. The mission reveals the challenge of assembling a team that could translate unfamiliar industrial routines into Korean practice. Participants faced the difficulty of learning within a foreign language environment while working under the pressures of diplomatic uncertainty."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Institutional accounts distinguish the mission party from trainee and artisan counts.",
+          "sourceIndex": 0,
+          "locator": "영선사, trainees and composition; compare category definitions",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.6:b03",
+      "title": "What a workshop could teach a government",
+      "paragraphs": [
+        "Observing a modern arsenal exposed issues that could not be resolved by purchasing tools. A manufacturing process depended on supplies of metal, fuel, chemicals, diagrams, precision measurements, trained supervisors, and repeatable quality control. Each requirement raised questions about resources at home. How would technical vocabulary be taught? Where would apprentices practice? Which office would finance the work after the delegation returned? The Qing example was itself part of an ongoing experiment in using imported techniques within established political institutions. Korean officials were evaluating a moving target, not an already finished model. The practical ambition of the mission therefore connected military affairs, fiscal planning, education, and diplomacy. It also created a body of experience that could inform later reform, even where its immediate program was interrupted."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VIII.1.6:b04",
+      "title": "Diplomacy traveled with the technical mission",
+      "paragraphs": [
+        "The Yeongseonsa delegation also became involved in discussions related to the American treaty of 1882. The surviving record of consultations with Qing officials shows that learning technical skills and considering external alliances were intertwined. This dual role reminds us not to separate industrial history from foreign policy. A workshop visit could occur during a conversation about how Korea might manage Japanese, Russian, or Western pressure. Qing intermediaries had their own interests in such matters, and Korean participants had to interpret the advice they received rather than simply accepting a neutral briefing. Some surviving records reflect precisely those high-level diplomatic meetings, while information about individual trainees is less comprehensive. The imbalance in our sources should not lead us to suppose that only the senior envoys made the mission historically significant."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "The Tianjin mission had a role in talks related to the impending 1882 Korea–United States treaty.",
+          "sourceIndex": 1,
+          "locator": "천진담초, recorded meeting purposes",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.6:b05",
+      "title": "An interruption and a longer consequence",
+      "paragraphs": [
+        "The Imo military crisis of 1882 disrupted plans and helped bring the training mission to an early end. Its immediate results should not be exaggerated as the overnight creation of an industrial state. But neither should the early return be treated as proof that the experiment had no significance. The delegation exposed Korean learners to new disciplines and generated knowledge of the infrastructure required for technological adaptation. Reports, memories, and administrative proposals carried aspects of that experience back into changing Korean debates. The contrast with the Japanese missions was not simply a choice of one foreign model over another. The court sought different sorts of information from multiple neighbors in an environment of limited time and resources. Studying the mission teaches how difficult it was to turn learning into lasting institutions."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "The 1882 Imo crisis curtailed the mission training program.",
+          "sourceIndex": 0,
+          "locator": "영선사, disruption and return",
+          "type": "direct"
+        }
+      ]
+    }
+  ]
+}

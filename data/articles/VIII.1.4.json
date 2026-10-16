@@ -1,0 +1,91 @@
+{
+  "id": "VIII.1.4",
+  "title": "Treaty-Port Trade, Currency, Customs Problems, and the Disruption of Existing Commerce",
+  "kicker": "THE TREATY-PORT WORLD · LATE JOSEON",
+  "description": "An original historical account of changing law, commerce, diplomacy, technical learning, and daily life after the opening.",
+  "release": "L",
+  "sourceStatus": "Selective primary-text and institutional contextual annotations; historical synthesis has not been independently reviewed claim by claim.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "한국문화사 26 — 개항과 쌀 수출",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_026_0060_0010_0010_0010",
+      "role": "Source-backed history of 1876 scarcity, Busan grain exports, Wonsan and Incheon opening dates"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "한국문화사 26 — 쌀 수출의 증가와 유통권",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_026_0060_0010_0010_0020",
+      "role": "Documented regional grain circuits and changing internal distribution before and after 1876"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "수신사 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0031506",
+      "role": "Scholarly account of 1876, 1880 and 1881 Japan missions and customs negotiation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.1.4:b01",
+      "title": "Trade before and after the wharf",
+      "paragraphs": [
+        "The economic opening of Korea did not replace a dormant market with a working one. Regional circuits already moved grain, cloth, salt, marine products, and everyday necessities through ports and inland market towns. In the late Joseon period, merchants and carriers connected the southern provinces with coastal destinations while farmers and tenants participated in exchange under very different conditions. The treaty ports changed the destinations and incentives of some of these transactions. Grain increasingly moved toward Japanese buyers, while imported cotton textiles and other manufactured goods entered commercial networks that had developed without them. A shipment recorded at Busan might have passed through several Korean brokers before reaching the quay. Trade statistics can identify the changing direction of commerce; they do not tell us which households gained bargaining power or whether a higher export price translated into improved food security for the people who produced the goods."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VIII.1.4:b02",
+      "title": "Grain, scarcity, and the danger of hindsight",
+      "paragraphs": [
+        "Rice exports provide a clear example of why trade needs to be studied at more than one scale. The National Institute of Korean History's study of rice marketing describes a temporary influx of Japanese rice during the Korean harvest shortage of 1876, followed by growing flows of Korean grain toward export. Such movements should caution against a simple story in which grain always traveled one way because the treaty commanded it. Harvest conditions, prices, transport capacity, and local demand mattered. In later years export opportunities could intensify concern over supply in particular markets, but the experience varied by region and season. A farmer, landlord, grain broker, and urban consumer did not have identical interests. Even when an export statistic is accurate, it is not a substitute for reconstructing distribution, obligation, and purchasing power inside the country."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "A Korean harvest shortage in 1876 produced a temporary influx of Japanese rice before later export growth.",
+          "sourceIndex": 0,
+          "locator": "개항과 쌀 수출, early grain-trade paragraph",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.4:b03",
+      "title": "Currency and the politics of calculation",
+      "paragraphs": [
+        "Money complicated commercial exchange. Traders had to compare unfamiliar units, local coins, changing prices, and credit arrangements. A numerical price looks objective until we ask which currency is being counted, how it converts into another, and whether the payer actually possesses it. A well-capitalized firm could absorb some uncertainty that endangered a small trader. The problem also concerned the state, which had to understand trade in order to collect revenue and evaluate treaty provisions. Commercial agreements that allowed duty-free trade or limited tariff authority made economic negotiation a political matter. Officials could not treat currency, customs, and jurisdiction as isolated technical details when each influenced the others. What appeared as an advantageous market transaction to one participant could represent a new administrative vulnerability to another."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    },
+    {
+      "id": "VIII.1.4:b04",
+      "title": "Ports were joined to inland roads and waterways",
+      "paragraphs": [
+        "A port became economically important because goods could reach it. Transporters, warehouses, river crossings, and inland brokers linked farming districts to foreign vessels. Opening might increase traffic on a favored route while weakening other connections. Such changes rarely occurred at one speed. Sailing seasons, storms, distances, credit shortages, and institutional permissions shaped the pace of exchange. The role of inland traders deserves particular attention because they made foreign commerce possible while sometimes losing part of the profits to firms with better shipping access. The history of imports likewise continued beyond the pier. Textiles had to find purchasers and enter households through existing retail channels. Economic opening therefore rearranged parts of a large domestic system rather than replacing that system at a stroke."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "The pre-existing grain distribution routes connected southern Korea, Dongnae, and Wonsan.",
+          "sourceIndex": 1,
+          "locator": "쌀 수출의 증가와 유통권, first section",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.4:b05",
+      "title": "Customs records are evidence with limits",
+      "paragraphs": [
+        "Contemporary customs and later trade compilations need careful reading. They may count value rather than physical volume; they can change classification practices; and some informal transactions may never appear. A sharp increase in recorded exports might include better administration as well as actual commercial expansion. Where scholarship provides figures, the historian should preserve the definitions and identify the series, not move a number into prose without its denominator. Similarly, evidence of changing food prices does not prove that every village faced the same situation. We can conclude that opening reshaped incentives, routes, and government finances while remaining candid about the gaps in individual household records. That restraint makes the social history richer rather than less vivid."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    }
+  ]
+}

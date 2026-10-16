@@ -1,0 +1,211 @@
+{
+  "id": "VIII.1.9",
+  "title": "The Korea–United States Treaty of 1882 and the Expansion of Treaty Diplomacy",
+  "kicker": "THE TREATY-PORT WORLD · LATE JOSEON",
+  "description": "An original historical account of changing law, commerce, diplomacy, technical learning, and daily life after the opening.",
+  "release": "L",
+  "sourceStatus": "Selective primary-text and institutional contextual annotations; historical synthesis has not been independently reviewed claim by claim.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "조미 수호 통상 조약 — 1882 source transcription / Original Chinese Text of Treaty",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_115_0060",
+      "role": "Primary Chinese-language treaty text, dated 22 May 1882, including named signatories, friendship clause and consular provisions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "우리역사넷 — 조미 수호 통상 조약 및 대외 관계",
+      "url": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h42_0040_0010_0020",
+      "role": "Secondary account of negotiation context and treaty characteristics, not an independent guarantee of later intervention"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "천진담초 — 김윤식 diplomatic talks in Tianjin",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056056",
+      "role": "Description of Kim Yun-sik meeting record, a primary documentary witness to Qing-linked negotiations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "계하자문책 — Korean diplomatic communications of 1881–1882",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003270",
+      "role": "Catalog and historical description of contemporary compiled diplomatic correspondence sent to Qing offices"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.1.9:b01",
+      "title": "The treaty took place in a crowded diplomatic world",
+      "paragraphs": [
+        "The treaty signed by Joseon and the United States on 22 May 1882 is often treated as the beginning of Korea's direct modern relationship with an American power. That description captures an important diplomatic threshold but leaves out the interlocking pressures that made negotiation possible. Japan had already established treaty relations with Korea, Qing officials sought to shape how Korea's foreign relations developed, and American naval representative Robert W. Shufeldt pursued an agreement within a larger East Asian strategy. The resulting text was not negotiated in an empty room. Its language and reception reflected divergent ideas about sovereignty and the legal architecture of international commerce. What each government believed it would gain was not identical. Joseon could see another foreign relationship as a possible diplomatic resource; American negotiators sought access and regular relations; Qing intermediaries attempted to preserve influence. The same clauses could therefore look different depending on the reader."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The Korea–United States treaty was signed on 22 May 1882.",
+          "sourceIndex": 0,
+          "locator": "Primary treaty heading and signatures, May 22, 1882",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.9:b02",
+      "title": "A date, a place, and named signatories",
+      "paragraphs": [
+        "The May 1882 agreement was signed at Jemulpo, associated with the expanding port of Incheon. On the Korean side the plenipotentiaries included Sin Heon and Kim Hong-jip; Shufeldt represented the United States. Those details are not merely decorative. They reveal which offices and individuals were authorized to negotiate, and they make it possible to return to a surviving text rather than relying entirely on textbook summary. The National Institute of Korean History provides a primary-text transcription alongside contextual material, allowing the historian to check the numbering and wording of particular provisions. Dating should be explicit, because Korean and Western calendrical references in contemporary documents are not always presented identically. A clear account identifies the agreement by the date convention used rather than silently treating every printed date as equivalent. It also distinguishes signing from the broader process by which governments subsequently maintained relations and implemented treaty privileges."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2,
+      "evidence": [
+        {
+          "claim": "Korean plenipotentiaries Sin Heon and Kim Hong-jip and United States representative Shufeldt appear in the treaty.",
+          "sourceIndex": 0,
+          "locator": "Preamble naming signatories",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.9:b03",
+      "title": "The promise of friendly offices",
+      "paragraphs": [
+        "The treaty's first article speaks of peaceful friendship and of providing friendly offices or assistance if another power treats one side unjustly. In Korean historical writing this is often associated with geojung jojeong, sometimes translated as good offices or mediation. The presence of the language is a direct documentary fact. The expectation that it could serve as a binding American guarantee against every future threat is a much stronger claim and is not established merely by quoting the clause. Diplomatic phrases can be deliberately flexible. Their practical force depends on the willingness and ability of governments to act, and on the circumstances in which requests arrive. The provision mattered because it offered Korean officials an image of international support. Its limitations matter just as much. A century of interpretation should not be compressed into the claim that one government simply promised military rescue. The text needs to be read both for what it says and for what it conspicuously does not specify."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Article One uses language of assistance and friendly offices when another country acts unjustly.",
+          "sourceIndex": 0,
+          "locator": "第一款, original Chinese primary text",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.9:b04",
+      "title": "Trade and legal privilege occupied the same document",
+      "paragraphs": [
+        "The treaty included arrangements for commercial contact, diplomatic representation, and the treatment of nationals. These were not isolated subjects. A merchant needed an official channel for disputes; a consul's authority affected commercial behavior; and port regulations gave practical shape to the abstract permission to trade. Nineteenth-century treaty making often bundled provisions that modern readers might file under separate legal categories. The Korean state was entering a system in which diplomatic recognition and unequal treatment before local courts could coexist. That coexistence explains why a document framed in the language of friendship can also be studied as part of an unequal treaty regime. Judging asymmetry requires looking at reciprocal wording and actual conditions of enforcement, not simply deciding that any treaty with a Western power must have had identical terms to earlier agreements elsewhere in Asia."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4
+    },
+    {
+      "id": "VIII.1.9:b05",
+      "title": "Consuls, merchants, and the uneven judicial order",
+      "paragraphs": [
+        "Consular jurisdiction created a practical question about which legal authority could judge conduct involving foreign nationals. The treaty text should be consulted directly for the circumstances and parties it addressed. A historian should not replace this specific arrangement with a generic description borrowed from the British or Japanese treaty experience. Nevertheless, the larger pattern is clear: foreign residents could receive protections not equally available to Korean residents across the ocean. In disputes over debts, injury, or property, a difference in legal forum could influence bargaining before any formal case arose. This is why a treaty clause seemingly remote from ordinary life might eventually matter to a shopkeeper or carrier. It established more than diplomatic ceremony; it introduced a new category of state involvement in everyday transactions. Its precise effects developed through later practice, so the words of 1882 are the starting point rather than a complete account of every later legal encounter."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "The treaty contains clauses dealing with diplomatic residence and consular arrangements.",
+          "sourceIndex": 0,
+          "locator": "第二款 and subsequent clauses",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.9:b06",
+      "title": "Tariffs and the art of bargaining",
+      "paragraphs": [
+        "Tariff provisions might appear technical, but they determined who could collect revenue from foreign trade, how costs were distributed, and how much autonomy Korean officials possessed in setting commercial rules. Early arguments over duties already haunted relations with Japan. A treaty with the United States therefore mattered partly as a precedent within ongoing negotiations, even when its immediate trading volume was modest. Importers and exporters cared about rates and procedures; the government cared about receipts and the authority to enforce them. The scholar must avoid assuming that an announced duty was collected consistently across all ports or years. Rates on paper, enforcement on the quay, and actual fiscal returns are different sources of information. Commercial treaties created frameworks within which those differences became political disputes. To read the treaty responsibly is to move back and forth between its precise clauses and the subsequent evidence of their implementation."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 6
+    },
+    {
+      "id": "VIII.1.9:b07",
+      "title": "Qing mediation and the ambiguity of authority",
+      "paragraphs": [
+        "Qing participation in arranging negotiation illustrates how overlapping international hierarchies complicated Joseon's effort to make new relationships. Qing officials could seek a diplomatic outcome while also asserting a privileged relationship with Korea. The United States approached treaty relations through categories that did not perfectly match Qing assertions, while Korean officials tried to preserve room for action. Describing the treaty simply as a Qing imposition or a fully autonomous Korean choice erases a complex interplay of initiative and constraint. The negotiations did not settle the larger question of how Korea would be represented to other powers. They instead made it more urgent. When documents describe the roles of Qing intermediaries, we should consider both what the records say they did and which interests shaped their reports. Diplomatic archives are records of contests over status as well as descriptions of meetings."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "Qing officials participated in the diplomacy leading to the 1882 treaty.",
+          "sourceIndex": 2,
+          "locator": "천진담초, 1881 treaty preliminary discussions",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.9:b08",
+      "title": "What friendship meant to different audiences",
+      "paragraphs": [
+        "A treaty could be announced as an achievement by officials while remaining distant from the lives of most residents. For Korean merchants, practical access to markets mattered more than the rhetoric of friendship. For court advisers, the agreement was part of a wider debate about foreign threats and potential allies. For American officials, the document opened channels for representation and protected commerce. For Qing intermediaries, it could demonstrate influence in managing Korea's diplomatic orientation. These purposes were not wholly incompatible, but neither were they identical. The historian should distinguish a negotiator's report of success from measured outcomes. A text may expand formal options without making them easy to exercise. This distinction is especially important when looking backward from later crises, which can tempt us to treat any unsuccessful hope as evidence that an earlier actor was naïve."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 8
+    },
+    {
+      "id": "VIII.1.9:b09",
+      "title": "Translation and legal equivalence",
+      "paragraphs": [
+        "The agreement circulated through language choices: Korean official practice relied heavily on classical Chinese, while American diplomacy operated through English and other channels of translation. The process of expressing treaty concepts across those languages involved more than replacing words. Sovereignty, consular competence, assistance, and trade privileges all had established meanings in different diplomatic traditions, none of which could be assumed perfectly interchangeable. A primary-text edition allows readers to see the Chinese-language diplomatic formulations alongside commentary and, where available, English versions. Apparent agreement over one clause could mask different expectations about implementation. This does not make the document meaningless. It makes treaty translation a subject of historical analysis. Language itself became part of the machinery through which foreign relations were negotiated, argued about, and sometimes misunderstood."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 9
+    },
+    {
+      "id": "VIII.1.9:b10",
+      "title": "The expanding treaty network",
+      "paragraphs": [
+        "The American agreement did not end Korea's diplomatic reorientation. Agreements with other powers followed, while Japan and Qing China continued to press their own interests. Rather than narrating an inevitable sequence of concessions, it is useful to ask how each new document altered expectations set by previous treaties. Diplomatic clauses could be copied or revised; the treatment of favored trading partners could create pressure for comparable privileges; and practices developed in one port could influence disputes elsewhere. The proliferation of treaties demanded new administrative capacity. Officials needed to read documents, correspond with foreign representatives, supervise commerce, and handle conflicts without surrendering every judgment to external actors. The treaty of 1882 belongs inside that broader institutional challenge. Its importance cannot be measured solely by the volume of American goods unloaded in the first few years."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 10
+    },
+    {
+      "id": "VIII.1.9:b11",
+      "title": "Hopes should not be mistaken for guarantees",
+      "paragraphs": [
+        "Later Korean commentators sometimes returned to the 1882 treaty when discussing the possibility of foreign support. It is historically appropriate to explain why that hope existed. It is not appropriate to imply that the first article contained a secret obligation of military intervention if no such obligation is stated. Nor does later inaction erase the fact that a diplomatic relationship had been established. The document operated at one level as a text, at another as an expectation, and at a third as an instrument tested by later events. Each has its own evidence. A rigorous account compares requests, responses, and policy decisions from the periods when they occurred instead of making an earlier clause speak with the knowledge of later outcomes. The treaty can be both historically significant and a limited protection against power politics."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 11
+    },
+    {
+      "id": "VIII.1.9:b12",
+      "title": "Reading the 1882 document on its own terms",
+      "paragraphs": [
+        "The simplest safeguard against mythology is to keep the actual treaty within reach of the reader. Its opening language, named plenipotentiaries, articles on diplomatic residence, and commercial provisions can be checked in the transcription. Commentary then explains what could follow from such wording and where subsequent evidence is needed. The treaty marked a threshold: Korea became directly connected through a formal agreement to another Pacific power, while its legal and diplomatic environment grew more complicated. It was neither the moment at which isolation vanished entirely nor a guarantee that new relations would secure independence. Its history is the history of how an unequal international order was learned, negotiated, and contested by participants whose resources differed. That is a more consequential story than treating the signing merely as a ceremonial photograph from which all later events were predetermined."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 12
+    },
+    {
+      "id": "VIII.1.9:b13",
+      "title": "Unequal bargaining did not cancel Korean diplomacy",
+      "paragraphs": [
+        "Acknowledging unequal bargaining power need not erase the decisions of Korean negotiators. Joseon officials had reasons to seek a treaty partner, to study foreign legal practice, and to compare possible protections, even when they could not dictate every provision. Their choices occurred under pressure, but choice under pressure remains historical action. A sound narrative avoids two opposite simplifications: that the agreement was a free meeting of equal powers, and that Korean representatives were merely absent from their own diplomacy. It asks which alternatives seemed feasible, which assumptions about Qing mediation shaped discussion, and what the final clauses could plausibly achieve. Diplomatic actions can have unintended consequences without becoming meaningless. Considering those choices helps explain why a court facing strategic insecurity might sign provisions it could later regret. It also directs attention to Korean archival voices rather than relying entirely on reports written by foreign negotiators."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 13
+    },
+    {
+      "id": "VIII.1.9:b14",
+      "title": "The treaty as a source for the reader",
+      "paragraphs": [
+        "An institutional transcription of the actual 1882 agreement is more useful than a string of general claims about nineteenth-century diplomacy. It allows specific readings: the friendship clause can be examined without inventing a defense guarantee; the passages on ministers and consuls can be compared with changing patterns of residence; and provisions concerning trade can be placed beside evidence of port revenues and disputes. It also makes absence visible. If a clause does not describe a future crisis, the historian should not supply that description as though it were part of the instrument. The reader gains a method, not just a conclusion: locate the source, distinguish the statement from its later interpretation, check the legal context, and identify what further documents would be needed to support a stronger claim. This approach is especially important for treaties whose remembered significance has grown larger than the words that their negotiators actually agreed to."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 14
+    },
+    {
+      "id": "VIII.1.9:b15",
+      "title": "A treaty cannot replace a history of its use",
+      "paragraphs": [
+        "The decisive evidence for the consequences of the agreement would include later diplomatic correspondence, consular complaints, customs records, and Korean discussions of what new relations had achieved. The treaty supplies authority to ask those questions; it cannot answer all of them in advance. Separating a legal commitment from its later performance preserves both the importance and the limitations of the original document."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 15
+    }
+  ]
+}

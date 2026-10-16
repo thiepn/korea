@@ -1,0 +1,97 @@
+{
+  "id": "VIII.1.8",
+  "title": "Qing China, Japan, and the Strategic Debate over Korea's Foreign Relations",
+  "kicker": "THE TREATY-PORT WORLD · LATE JOSEON",
+  "description": "An original historical account of changing law, commerce, diplomacy, technical learning, and daily life after the opening.",
+  "release": "L",
+  "sourceStatus": "Selective primary-text and institutional contextual annotations; historical synthesis has not been independently reviewed claim by claim.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "조선책략 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0052228",
+      "role": "Huang Zunxian pamphlet and 1880 circulation; policy perspective and subsequent opposition"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "우리역사넷 — 조미 수호 통상 조약 및 대외 관계",
+      "url": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h42_0040_0010_0020",
+      "role": "Secondary account of negotiation context and treaty characteristics, not an independent guarantee of later intervention"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "계하자문책 — Korean diplomatic communications of 1881–1882",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003270",
+      "role": "Catalog and historical description of contemporary compiled diplomatic correspondence sent to Qing offices"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "통리기무아문 관제 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005000",
+      "role": "Source-based institutional chronology for opening-period reorganization of specialized government offices"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.1.8:b01",
+      "title": "Qing influence was both a relationship and a policy",
+      "paragraphs": [
+        "Joseon's relations with Qing China were older than the treaty-port crisis, but their nineteenth-century meaning changed as other powers expanded into East Asia. Qing officials could speak in the language of an inherited regional hierarchy while also operating in a world of Western diplomatic missions, maritime trade, and international treaties. Korea's advisers faced a question that did not admit a simple answer: how could existing connections be used without allowing them to restrict independent choices? Qing China was not merely a protective background presence or an external adversary. Officials inside both polities had different assessments of Russia, Japan, and Western powers. The relevance of Qing mediation in the American treaty reflects that entangled relationship, not a single timeless definition of Korean diplomatic status."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1
+    },
+    {
+      "id": "VIII.1.8:b02",
+      "title": "Japan was simultaneously a danger and a model",
+      "paragraphs": [
+        "Japanese pressure had helped produce the 1876 opening, and Japanese merchants benefited from the new treaty-port arrangements. Yet Korean missions also studied Japan's public institutions, transport, schooling, industry, and military modernization. Seeing an aggressive neighbor as a source of technical information was not logically inconsistent. It was an attempt to gather knowledge under unequal circumstances. Policy advisers had to decide which practices could be adapted and which dependencies they might create. A proposal to visit a school or arsenal did not imply approval of every Japanese diplomatic demand. Conversely, recognizing the material achievements of Meiji reforms did not make coercive treaty provisions harmless. The difficulty lay in learning from a powerful competitor without letting its priorities determine the future of Korea."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.1.8:b03",
+      "title": "Russia and the imagined balance of power",
+      "paragraphs": [
+        "Discussion of Russia sharpened the strategic language of the period. The Qing writer Huang Zunxian argued in Joseon chaekryak for a combination of close Qing relations, connections with Japan, and a new relationship with the United States in the face of Russian expansion. His proposal was a policy document with an identifiable author and context. It should not be represented as an objective forecast of which alliances would protect Korea. Korean reformers read it alongside other information and their own calculations. Its critics questioned both the presumed threats and the concessions demanded in response. The disagreement demonstrates how geopolitical anxiety could travel through a compact text and reshape domestic political arguments. A foreign policy recommendation became a dispute over moral authority and the legitimacy of the government's course."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "Joseon chaekryak recommended Qing, Japanese, and United States ties against perceived Russian danger.",
+          "sourceIndex": 0,
+          "locator": "조선책략, content and strategic argument",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.8:b04",
+      "title": "Strategic choices required administrative capacity",
+      "paragraphs": [
+        "A court could announce the desire to cultivate several relationships, but maintaining them required trained negotiators, reliable intelligence, interpreters, funds, and rules for managing foreign residents. Diplomacy was no longer confined to occasional ceremonial missions. It intersected with ports, customs, technology, and military preparation. The new Tongni Gimu Amun reflected an attempt to organize these interconnected tasks, though its offices and powers changed rapidly. Such administrative experimentation makes the history more complex than a contest between two camps called open and closed. Foreign pressure mattered, but internal capacity determined how much of a formal diplomatic option could become effective policy. The pursuit of multiple relationships did not eliminate asymmetry; it added new problems of coordination to an already difficult position."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 4,
+      "evidence": [
+        {
+          "claim": "The Tongni Gimu Amun reorganized trade, diplomatic, military and technological tasks.",
+          "sourceIndex": 3,
+          "locator": "관제, initial specialized sections",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.1.8:b05",
+      "title": "The limits of balance without guarantees",
+      "paragraphs": [
+        "The idea of balancing powerful neighbors can sound like a strategy available to any small state. In practice it depends on whether competing powers actually have an interest in preserving the state's autonomy. Korean officials could hope that new diplomatic ties would constrain coercion, but a treaty alone did not ensure outside intervention. Alliances, commercial interests, and military commitments differed in scope, and a polite foreign response did not amount to a guarantee. The historian should therefore distinguish a government's stated hopes from the obligations another government accepted in writing. Treaties changed the setting of negotiation; they did not remove the underlying disparities of force. The early opening period reveals the possibilities and dangers of seeking external support while institutions for assessing foreign intentions were themselves still developing."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 5
+    }
+  ]
+}
