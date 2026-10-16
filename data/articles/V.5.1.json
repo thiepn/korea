@@ -1,0 +1,62 @@
+{
+  "id": "V.5.1",
+  "title": "Buddhist Kingship and the Protection of the Goryeo State",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "연등회와 팔관회 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_067_0020",
+      "role": "Primary Goryeosa quotations on royal lantern and Palgwan ritual; compiled retrospectively"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "장경도감 / 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048250",
+      "role": "Specialist overview of the different canonical printing institutions and their dates"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.5.1:b01",
+      "title": "A realm that asked religion to protect it",
+      "paragraphs": [
+        "The Goryeo monarchy did not inherit a neatly bounded religious establishment when it replaced the Later Three Kingdoms. Across the peninsula, monasteries had land, followers, libraries, ritual specialists, and relationships with local powerholders. Some were old foundations with reputations that reached beyond their immediate valleys; others depended on donors whose interests were decidedly regional. Wang Geon's victory made it possible to speak of a unified realm, but unification did not erase the practical geography of religious patronage. The court's protection of Buddhism was consequently both an expression of conviction and a way of addressing a country whose religious institutions had already accumulated considerable authority. To patronize temples was to recognize their place in the world the new rulers sought to govern. It could also be a means of placing royal presence in districts that might otherwise experience the monarchy as a distant claimant to taxes and obedience.",
+        "The term state Buddhism makes this intimacy sound tidier than it was. Royal benefaction, monastic ritual, gifts from aristocratic households, doctrinal argument, and the labor of cultivators interacted in ways that resist a single command structure. A ceremony invoking protection for the kingdom could simultaneously celebrate the sovereign, sustain the reputation of a monastery, and bring work or expense to people with little participation in the decision. A court text praising merit and compassion is evidence for the ideals its author wished to display, not automatically for the distribution of resources required to enact them. The historian needs to ask who hosted the rite, who paid for it, whose attendance mattered, and which benefits were described as spiritual rather than material. Those questions give religious history an administrative and social texture without reducing belief to politics."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "State ritual sources document Palgwan observances at court in 918; accounts survive in the later Goryeosa compilation.",
+          "sourceIndex": 0,
+          "locator": "『고려사』 팔관회의 / 태조 원년 918년 11월",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.5.1:b02",
+      "title": "The king as patron, not simply master",
+      "paragraphs": [
+        "Patronage could be generous and still uncertain. The relationship between king and monastery involved mutual dependence because neither side possessed all that the other could provide. The monarchy could grant recognition, assign resources, sponsor rebuilding, and encourage particular teachers. Monks could confer ritual prestige, articulate arguments about legitimate rule, and maintain networks of learning in which the crown wanted a place. Yet monks were not always compliant court employees, and monastic communities were not automatically unified around a single school. There was room for dispute over property, ordination, succession to abbacy, and the relation between scholarly and contemplative training. A powerful monastery could have interests quite different from a king's immediate plans, especially when its past donors or surrounding families remained influential.",
+        "This relationship changed over time. Political instability, aristocratic competition, foreign pressure, and projects of Buddhist textual compilation each altered what rulers hoped religion might accomplish. During moments of insecurity, an appeal to the protective power of Buddhist teaching could make collective danger intelligible within a framework of merit and ritual obligation. But protection was not a mechanical contract in which a sufficiently large ceremony guaranteed victory. People could believe sincerely in the efficacy of rites while also making military, diplomatic, and logistical decisions on grounds that were not religious. The real historical puzzle is how such different forms of action coexisted. The same court that sponsored a religious assembly still needed to move grain, appoint officials, and defend roads. The fact that these obligations were complementary rather than mutually exclusive helps explain the durability of Buddhist kingship."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.5.1:b03",
+      "title": "Ceremonies as a language of government",
+      "paragraphs": [
+        "Royal ceremonial life supplied occasions on which the court represented itself to audiences beyond the palace. Processions, large assemblies, prayers, and acts of giving transformed rank into visible order: who appeared close to the throne, who officiated, who carried a banner, who received a gift, who stood watching. The stories recorded about such occasions often emphasize their grandeur. What they show most directly is how chroniclers wanted an ordered, prosperous Buddhist monarchy to be imagined. Missing from their descriptions are the less spectacular preparations: making candles or banners, transporting food, maintaining halls, copying texts, repairing bridges, or clearing routes for travelers. Without those efforts the symbolic performance could not have occurred. The state encountered religious devotion not only in doctrines but in the organized work needed to stage public rites.",
+        "One should also resist the idea that the official ceremony completely defined popular religious life. Outside the capital, households had losses to mourn, illnesses to explain, crops to protect, and ancestors to remember. Some turned to Buddhist clergy or ritual; others maintained local customs and relationships with sites they regarded as powerful. The royal claim to be protector of a Buddhist realm coexisted with this variety. Its strength came partly from its flexibility: Buddhism could frame a monarch's public virtue, offer disciplinary institutions to trained specialists, and provide opportunities for lay giving without requiring every inhabitant to understand religion in the same way. A coherent history of Goryeo kingship therefore follows the connection between sacred language and the material negotiation of authority rather than repeating either a triumphal portrait of pious rulers or a cynical account of calculated legitimacy."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

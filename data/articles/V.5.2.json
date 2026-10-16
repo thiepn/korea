@@ -1,0 +1,62 @@
+{
+  "id": "V.5.2",
+  "title": "Doctrinal Buddhism, Seon, and the Religious Schools of Goryeo",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "대각국사 의천의 천태종 개창 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_067_0040",
+      "role": "Primary excerpts with NIHK analysis; biography of Uicheon and his Song journey; commemorative sources require genre criticism"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "요세의 백련결사와 천태사상 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_067_0100",
+      "role": "Epigraphic extract in Dongmunseon with NIHK historical commentary on religious associations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.5.2:b01",
+      "title": "No single Buddhist voice",
+      "paragraphs": [
+        "Buddhist thought in Goryeo was a conversation among people trained in different curricula and shaped by different institutional histories. The convenient opposition between doctrinal schools and Seon practice highlights one real tension but obscures many forms of overlap. A monk who studied classifications of scripture could also meditate; a contemplative teacher might depend upon textual interpretation to explain the cultivation of mind. Terms such as doctrinal teaching and Seon identify histories of authority and training as much as fixed rival camps. Temples could combine practices or alter their emphases as prominent teachers came and went. Royal favor might support one network in a particular reign without eliminating others. The religious landscape was thus better imagined as overlapping itineraries of study, discipline, and patronage than as two armies contending over a single orthodoxy.",
+        "Texts mattered because their meaning was not self-evident. Translations into classical Chinese opened scriptures to Korean literati and monks who belonged to a wider East Asian scholarly world, but their vocabulary and arguments demanded teachers. Commentaries supplied explanations, resolved apparent contradictions, and situated particular passages within hierarchies of authority. Study was not detached from practice: a doctrinal interpretation could shape meditation, ethical conduct, or ritual recitation. The distinction between understanding a text and making it effective in life animated debates within Buddhism itself. We cannot assume that all monasteries adopted a theoretical position just because a famous scholar articulated it. What a sophisticated treatise demonstrates first is the problem its writer considered urgent and the kind of reader he hoped to persuade."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The NIHK Uicheon source describes doctrinal study and his Song journey as one element of Goryeo Buddhist debates.",
+          "sourceIndex": 0,
+          "locator": "의천의 천태종 개창, 의천의 교학과 유학",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.5.2:b02",
+      "title": "Training minds and sustaining institutions",
+      "paragraphs": [
+        "The organization of monastic education involved more than individual brilliance. Novices needed lodging and sustenance. Seniors needed time to instruct, libraries needed preservation, and pupils needed to travel between places where particular teachings were known. Food supplies and land rights affected the possibility of study. A monastery with abundant patronage could copy texts and receive visitors on a scale impossible for a modest local foundation. This unequal geography of learning helps explain why debates about doctrine cannot be separated from the histories of centers of training. A school's influence depended upon the reputation of its teachers but also upon the reproduction of institutions through generations. When a charismatic teacher died, the continuity of teaching could become a problem of succession, manuscript transmission, and collective memory.",
+        "Seon traditions emphasized direct cultivation and the realization of insight, yet their teachers communicated through sermons and written guides. Doctrinal specialists could be accused of cultivating verbal knowledge without transformation, but their work also sustained shared vocabularies by which practitioners could judge claims of realization. Some disputes were serious: they concerned what counted as adequate preparation, how ethical discipline related to sudden insight, and who possessed the authority to teach. Others were constructed retrospectively by later communities defining an institutional genealogy. The surviving literature is disproportionately associated with successful or remembered teachers; it cannot tell us exactly how an ordinary monk practiced every day. Reading it well involves attending to argument, audience, and later reuse, not converting polemics into a simple census of religious belief."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.5.2:b03",
+      "title": "Many roads through a shared intellectual world",
+      "paragraphs": [
+        "The Goryeo religious world extended beyond the peninsula. Books, travelers, and reports crossed the sea between Korea and Song China. Travel did not mean passive borrowing. Visitors chose mentors and sought materials relevant to questions already being debated at home; returned texts could be compared with local traditions and made the basis of new projects. The prestigious idea of an authoritative canon existed alongside the reality that readers needed different editions, commentaries, and explanations. What was collected, printed, or taught in Korea could in turn become a resource for other readers within East Asian Buddhism. The movement of ideas therefore occurred through relationships among scholars, craftsmen, donors, and institutions, not a one-way transfer of superior knowledge from a center to a periphery.",
+        "The most useful question is not which school won. It is how Goryeo Buddhists made the enormous textual heritage of their religion meaningful within changing political and social conditions. Some proposed synthesis, others sought disciplined reform, and many sustained inherited patterns without leaving treatises that can be quoted today. The apparent diversity of Goryeo Buddhism is not evidence that its practitioners lacked a common field of debate. On the contrary, arguments about meditation and study could be intense because participants shared scriptures, ethical ideals, and the expectation that training should alter conduct. Later accounts often organized that field into lineages. Those lineages are historically important, but they should not be mistaken for a perfect map of every temple, teacher, or lay community in medieval Korea."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

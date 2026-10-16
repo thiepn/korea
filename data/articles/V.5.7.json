@@ -1,0 +1,56 @@
+{
+  "id": "V.5.7",
+  "title": "Buddhist Festivals, Pilgrimage, Relics, Ritual, and Lay Devotion",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "연등회와 팔관회 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_067_0020",
+      "role": "Primary Goryeosa quotations on royal lantern and Palgwan ritual; compiled retrospectively"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.5.7:b01",
+      "title": "The festival as a temporary city",
+      "paragraphs": [
+        "A Buddhist festival could transform the ordinary geography of a town. Movement concentrated along routes to a temple or ceremonial precinct; sellers responded to a crowd; residents prepared food and accommodations; ceremonial specialists rehearsed familiar sequences. The resulting spectacle had multiple meanings. For some participants it was a practice of merit and devotion, for others a public affirmation of local or royal order, for still others an unusual chance to meet people and exchange goods. Describing such an event simply as popular entertainment would miss its religious claims. Describing it as an exclusively solemn rite would miss the excitement, economic activity, and social encounter that made large gatherings possible. A festival made religious institutions momentarily visible as centers of collective life.",
+        "Accounts of ceremonies are often composed by people with reason to praise the sponsoring institution. They tend to list costly offerings, distinguished attendees, and impressive visual arrangements. Less frequently do they record the experiences of children, strangers, minor monks, or the workers who cleaned the site afterward. That silence does not mean those groups were absent. It means we need to separate the ceremonial ideal described in writing from the fuller event that took place. Archaeological objects and local traditions may add evidence, but the route from an object to a reconstructed ritual must be argued rather than asserted. A small votive image, for example, proves the possibility of a devotional practice more readily than it proves exactly what a named pilgrim said or thought."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Goryeosa ritual entries record Yeondeunhoe ceremonies and shifts in their scheduling.",
+          "sourceIndex": 0,
+          "locator": "『고려사』 권69 상원연등회의, 1010·1058년",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "V.5.7:b02",
+      "title": "Pilgrimage and the geography of devotion",
+      "paragraphs": [
+        "Travel to a famous monastery made devotion a physical undertaking. Mountains, rivers, ferries, and seasonal weather shaped the route. A visitor might be drawn by a revered image or teacher, a promise of merit, an occasion to pray for someone ill, or a mixture of motives impossible to disentangle centuries later. The journey generated relationships beyond a household's usual radius. Pilgrims needed assistance and perhaps purchased food or offerings; temples received travelers who brought stories of distant places. Consequently, sacred geography and commercial geography could overlap without being identical. A temple's spiritual reputation might bring traffic to a region, while roads and transport access affected the scale of its audience.",
+        "Relics and objects of veneration concentrated questions of authenticity and power. A narrative about the origins of a sacred object told believers why it mattered. The historian, however, must distinguish that narrative from an independently dated record of the object's production or arrival. This is not the same as dismissing devotion. Religious claims are historical evidence for what communities valued and how they organized their relations to the past. A relic's documented custody can be studied materially even where its miraculous story cannot be verified by historical method. Treating believers' narratives seriously while identifying their genre is a better form of respect than either uncritical repetition or casual ridicule."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.5.7:b03",
+      "title": "The lay giver at the heart of ritual life",
+      "paragraphs": [
+        "Religious participation was not limited to people who could read elaborate treatises. Lay donors gave resources, commissioned objects, joined collective observances, and sought specialist assistance for funerals or illness. Some forms of generosity became publicly visible in inscriptions; much more occurred without durable record. A woman whose name appears on a votive object and a monastery whose documents mention a benefactor may be unusually accessible examples, not statistical representatives of all women or all gifts. Religious history has to work carefully from such fragments. It can reconstruct available practices and social possibilities while acknowledging that our evidence is unevenly distributed toward wealthier contributors and institutions capable of preserving documents.",
+        "A festival's afterlife included stories. Families recalled journeys, communities remembered a revered teacher, and later compilations explained why a particular shrine deserved attention. Such remembrance could itself attract new worshippers and donors. The transmission of narratives therefore helped maintain the material institution, just as the institution supplied a place where narratives could be retold. A history of Goryeo ritual is richer when it tracks this circular movement between belief, work, place, and memory. It need not pretend that every participant experienced the same event in the same way. The very multiplicity of motives helps account for the endurance of Buddhist gatherings in a religiously diverse society."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

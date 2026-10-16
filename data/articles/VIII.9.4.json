@@ -1,0 +1,62 @@
+{
+  "id": "VIII.9.4",
+  "title": "Independence Armies in Manchuria and the Russian Far East: Bongodong and Cheongsanri",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "봉오동 전투 / 한국사 연대기",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i402000",
+      "role": "Korean historical overview of 1920 military operations, using later-reported accounts"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "봉오동·청산리 전투 / 우리역사넷",
+      "url": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0040",
+      "role": "Legacy textbook overview; useful orientation, not uncritical evidence for disputed casualty totals"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.9.4:b01",
+      "title": "The northeastern frontier as a lived community",
+      "paragraphs": [
+        "The Korean independence armies that fought in Manchuria and the Russian Far East did not operate on empty terrain. Korean migrant settlements, Chinese local communities, officials, traders, and competing armed groups already shaped the frontier. A military unit needed food, weapons, guides, information, and routes that could be used without exhausting the communities supporting it. The border was both a refuge from Japanese colonial rule and a zone of vulnerability where movements by soldiers could draw retaliation. The history of the 1920 battles should begin with this complex setting rather than with a map of arrows ending at a famous engagement. Families and farms were not the background to military action; they were among its material foundations and potential victims.",
+        "The battle at Bongodong in June 1920 is associated with Korean armed units led by figures including Hong Beom-do and Choe Jin-dong. Narratives emphasize the use of terrain and coordinated movement against Japanese forces. The broad fact of a significant engagement is well established, while precise casualty figures depend upon sources produced under conditions of conflict and later national commemoration. The responsible course is to identify each estimate's origin rather than copy a victorious figure as unproblematic fact. Tactical success must also be located within the larger difficulty of maintaining forces after a battle. Ammunition was finite, medical support uncertain, and larger Japanese operations could threaten settlements that had sustained the fighters."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The Battle of Bongodong took place in June 1920 and involved Korean independence army formations.",
+          "sourceIndex": 0,
+          "locator": "봉오동 전투, 1920년 전투 개요",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.4:b02",
+      "title": "Cheongsanri and the problem of remembrance",
+      "paragraphs": [
+        "Fighting in the Cheongsanri region later in 1920 became a major landmark of independence-army memory. Leaders and formations are remembered for their resistance, but the sequence and measurement of particular engagements can be difficult to disentangle from subsequent commemorative narratives. Military reports, participants' accounts, local geography, and scholarly reconstructions may not agree on force sizes or losses. This is especially true when propagandistic purposes shaped reporting on either side. Discrepancies are not a reason to abandon the history. They invite a more precise question: what can be demonstrated about the conduct of the fighting, and which later claims express the meaning communities attached to it?",
+        "The consequences were not confined to soldiers. Japanese punitive actions in the region inflicted harm upon Korean civilian communities. A military narrative that recounts battlefield exploits without connecting them to reprisals and displacement presents an incomplete picture of war. The connection does not mean civilians were responsible for violence directed against them. It means that colonial security policy and armed resistance interacted within a frontier society in which noncombatants possessed little control over escalation. Some households assisted insurgent units; others tried to avoid every army. Both sorts of experience belong in the record. When testimony survives, it should be situated alongside documentary evidence rather than made to speak for every family in the region."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.9.4:b03",
+      "title": "Routes of survival after battle",
+      "paragraphs": [
+        "Retreat and reorganization often occupy fewer lines in commemorative histories than victory, yet they can explain more about a movement's capacity. Units moved between borderlands and sought allies under changing Russian and Chinese conditions. The political fragmentation of the Russian Far East created risks that were not reducible to the struggle against Japan. Koreans of different affiliations could become entangled in conflicts over arms, command, and ideology. Maintaining a fighting force required decisions about whether to accept support from actors whose goals only partly coincided with Korean independence. The demands of survival could change the character of a movement even when its declared purpose remained constant.",
+        "Bongodong and Cheongsanri deserve careful remembrance precisely because they illuminate both capability and constraint. Fighters showed that armed resistance was possible, but battles did not by themselves establish a government or secure the safety of the frontier population. The historian can appreciate courage without converting a military episode into an inevitable turning point. A clear account includes terrain and tactics, but also supplies, refugee movement, political alliances, uncertain statistics, and the way later generations remembered the fighting. It returns the frontier to the people who inhabited it, rather than treating it only as a heroic stage on which recognizable commanders appeared."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

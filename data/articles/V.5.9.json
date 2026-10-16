@@ -1,0 +1,56 @@
+{
+  "id": "V.5.9",
+  "title": "Daoism, Geomancy, Local Gods, Shamanic Traditions, and Sacred Landscapes",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "연등회와 팔관회 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_067_0020",
+      "role": "Primary Goryeosa quotations on royal lantern and Palgwan ritual; compiled retrospectively"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.5.9:b01",
+      "title": "Mountains that mattered before a doctrine named them",
+      "paragraphs": [
+        "A Korean mountain could be many things at once: a source of timber and water, an obstacle to travel, a strategic height, a place associated with ancestors or local powers, and a site attractive for monastic seclusion. The categories modern historians use for religion do not always match the relationships people developed with such places. A shrine associated with a mountain spirit might be visited by someone who also supported a Buddhist monastery. A court could consult geomantic claims about favorable locations while using engineering and military reasoning to choose a building site. These overlapping practices do not mean that everybody shared a single theology. They show that religious life was organized through places, needs, and social relations as well as through doctrinal affiliations.",
+        "Geomancy offered a language for evaluating the siting of capitals, tombs, and structures within a landscape imagined as patterned and consequential. It cannot be described responsibly as the sole cause of every royal decision. Strategic access, labor, existing settlement, and access to supplies all mattered. But neither should geomantic reasoning be dismissed as a decorative excuse always added after the fact. People could treat it as relevant knowledge and argue about its application. Surviving descriptions of auspicious terrain therefore tell us about the criteria and claims through which a site was justified. They do not, by themselves, establish that the predicted fortunes followed from the location."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The Goryeo ritual record is evidence for official celebrations but not proof of uniform private beliefs.",
+          "sourceIndex": 0,
+          "locator": "연등회와 팔관회: 고려사 원문과 국사편찬위원회 해설",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.5.9:b02",
+      "title": "Daoist terms and local powers",
+      "paragraphs": [
+        "Daoist rituals and ideas circulated among officials and learned practitioners, sometimes alongside Buddhist and Confucian concepts. It is hazardous to picture them as the separate activities of three mutually exclusive communities. The transmission of written terminology does not reveal automatically how widely a practice was understood or observed beyond elite circles. A court record naming a rite demonstrates official sponsorship or attention; it says less about what farmers in the surrounding district did. Conversely, local traditions are often visible through accounts recorded by outsiders who regarded them as curious or disapproved of them. This means that the archive itself can magnify institutional religion and distort practices that were transmitted orally.",
+        "Local divinities, protective sites, and ritual specialists are particularly difficult to reconstruct without reducing varied traditions to the modern catchall term shamanism. Practices changed across regions and periods. Some specialists were embedded in village life, some worked for patrons, and some encounters with established religious institutions were collaborative rather than hostile. A Buddhist shrine might incorporate local protective associations; a royal ceremony might invoke powers rooted in a specific landscape. The important analytical question is how participants recognized and negotiated those associations. A sweeping claim that one religion 'absorbed' another often conceals the particular relationships by which a site or ritual was reinterpreted."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.5.9:b03",
+      "title": "Sacred geography and political geography",
+      "paragraphs": [
+        "The fortunes of a sacred site could rise when a ruler supported it or when its reputation attracted pilgrims. Roads, estates, and political connections tied it to the broader economy. When a monastery grew around a mountain long held to be powerful, different histories of place could coexist within a single precinct. A local memory might celebrate one origin, while a written inscription emphasized a prestigious teacher or patron. These are not necessarily mutually exclusive accounts; they may answer different questions. Historians can compare them to archaeological evidence, but must be alert to the way later communities recast earlier sacred histories to secure recognition and legitimacy.",
+        "Goryeo religious diversity was thus more than a list of institutions. It involved the different meanings attached to shared landscapes. A capital, a royal tomb, an upland monastery, and a village shrine each anchored relations between material needs and unseen powers. Our evidence is strongest where officials wrote and patrons built durable monuments. That imbalance must remain visible in the narrative. Describing sacred landscapes as contested, layered, and historically changing gives local traditions room in a history otherwise dominated by dynasties and canonical Buddhist schools. It also prevents the false choice between regarding geomancy as demonstrably true and treating it as historically irrelevant."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

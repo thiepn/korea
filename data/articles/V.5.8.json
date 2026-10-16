@@ -1,0 +1,56 @@
+{
+  "id": "V.5.8",
+  "title": "Confucian Ethics, State Ritual, Ancestor Worship, and Political Thought",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "연등회와 팔관회 / 사료로 본 한국사",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_067_0020",
+      "role": "Primary Goryeosa quotations on royal lantern and Palgwan ritual; compiled retrospectively"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.5.8:b01",
+      "title": "Confucian language in a Buddhist monarchy",
+      "paragraphs": [
+        "The visibility of Buddhism at the Goryeo court should not make its Confucian thought disappear. Officials selected for literacy and administrative work studied moral and political concepts inherited through classical Chinese learning. They debated royal conduct, hierarchy, just government, family responsibilities, and the shape of a cultivated official. Confucian vocabulary could define the proper relation between monarch and minister without requiring its user to reject Buddhist rites. A person could defend the value of scriptural study, support an ancestral commemoration, and attend a Buddhist ceremony. Modern labels invite us to place individuals in exclusive boxes; Goryeo practices often crossed them. More important than deciding who was 'really' Confucian is understanding which arguments speakers deployed in particular circumstances.",
+        "Government ritual trained people to see authority as structured and reciprocal. Ceremonial positions, prescribed conduct, and remembrance of predecessors expressed a vision of political continuity. A minister's admonition could invoke exemplary rulers or classical principles as standards against which current decisions should be judged. Such a text is simultaneously a work of moral instruction and a political intervention. It tells us what the writer wanted a ruler to change, not necessarily what the ruler immediately did. The language of good government acquired force because it could be used against the court itself. Confucian learning gave officials an idiom for recommending change while claiming fidelity to an older standard of legitimate rule."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Court ritual entries describe events that bound kingship and historical memory.",
+          "sourceIndex": 0,
+          "locator": "『고려사』 연등회 의례 및 태조 기념",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.5.8:b02",
+      "title": "Family rites and inherited social differences",
+      "paragraphs": [
+        "Households made the relation between ethics and ritual immediate. Ancestor remembrance could connect living generations to family property, succession, status, and obligations of care. Yet the form of practice varied with resources and circumstance. Not every family could support the ceremonies imagined by an elite prescription. Written instructions left by highly educated men are better evidence for the ideal they articulated than for uniform conduct across the countryside. In Goryeo, inheritance and residence practices were not identical to the patrilineal norms that became increasingly prominent in later Joseon. Comparisons across dynasties are useful when they reveal change, not when they project a later arrangement backward as a timeless Korean pattern.",
+        "Women, servants, and poorer kin appear unevenly in texts about proper familial order. The source's hierarchy may obscure the work by which a household survived. A ritual meal required cooking, fuel, ingredients, and the participation of people who did not author the classical statement justifying the event. Family ethics could demand obedience while generating duties toward vulnerable relatives; its actual effects depended on the unequal power to enforce each side of that bargain. By recovering household labor and the management of resources, historians can examine how an abstract ideal entered daily life. Neither ritual continuity nor written claims to moral superiority should be mistaken for proof of social harmony."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "V.5.8:b03",
+      "title": "Learning as a resource of the state",
+      "paragraphs": [
+        "Confucian study also mattered institutionally. Examinations, schools, and official recruitment connected textual accomplishment with prospects for appointment, though aristocratic ties did not disappear simply because examinations existed. A classical education could create networks among teachers, students, and families. It also established barriers for people without time or material support for sustained learning. A new curriculum may expand opportunities for some while making particular forms of cultural knowledge prerequisites for advancement. This pattern helps explain why intellectual history and social mobility should be narrated together. Who could study, which texts were deemed worthy, and who judged competent interpretation are political questions as well as pedagogical ones.",
+        "To describe Goryeo Confucianism as merely the waiting room for Joseon's neo-Confucian order would deny it a history of its own. Officials and scholars worked within a monarchy where Buddhist institutions remained powerful and where Chinese political vocabulary was adapted to Korean circumstances. Their ethical concerns could overlap with religious ideals expressed through Buddhism while disagreeing on the proper use of state resources. The court's identity was not a fixed ratio of Buddhism to Confucianism. It was a negotiated setting in which competing and complementary traditions supplied different claims about good conduct. The historian should attend to what these claims did in debates, ceremonies, and appointments before judging whether any tradition had achieved dominance."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

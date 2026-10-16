@@ -1,0 +1,56 @@
+{
+  "id": "VIII.9.5",
+  "title": "Uiyeoldan, Anarchism, Direct Action, and Revolutionary Nationalism",
+  "kicker": "HISTORICAL LIBRARY · CONNECTED HISTORIES",
+  "description": "Original long-form historical narrative, evidence limits and comparative perspectives.",
+  "release": "O",
+  "sourceStatus": "Original editorial synthesis with selective Korean-language institutional and historical-source anchors; documentary genres and retrospective accounts differentiated.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "봉오동·청산리 전투 / 우리역사넷",
+      "url": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0040",
+      "role": "Legacy textbook overview; useful orientation, not uncritical evidence for disputed casualty totals"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.9.5:b01",
+      "title": "Direct action and the language of revolution",
+      "paragraphs": [
+        "For some independence activists, diplomatic petitions and gradual cultural preparation seemed inadequate to the coercive power of colonial rule. Organizations associated with direct action, including Uiyeoldan, adopted a vocabulary of revolutionary confrontation. Their members targeted institutions and figures regarded as symbols or instruments of the colonial system. The decision to employ violence did not settle the question of what political order should replace colonial rule. Revolutionary nationalists could disagree about social transformation, state authority, and relationships with anarchist or socialist ideas. To treat every act as the expression of one stable ideology would overlook that varied intellectual setting. Their history belongs to the wider debate about strategy under conditions where peaceful political institutions were severely restricted.",
+        "Political violence requires precise description rather than romantic summary. An attack could be planned as an action against a specific official or facility, yet carry risks for bystanders and trigger wider repression. Participants often understood the act as a public message intended to break the appearance of colonial permanence. Others within the independence movement questioned whether the message justified the costs or advanced a durable political organization. These tensions should not be obscured by later honorific language. Historical explanation neither requires endorsement of the tactics nor permits the assumption that those who rejected them lacked commitment to independence. The question is why particular activists saw direct action as necessary and what consequences followed."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "Armed and direct-action initiatives represented only some of the distinct independence strategies of the 1920s.",
+          "sourceIndex": 0,
+          "locator": "독립군과 국내외 항일 단체 개관",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.9.5:b02",
+      "title": "Ideology across borders",
+      "paragraphs": [
+        "The intellectual world of radical activists extended through China and other settings where anticolonial, anarchist, republican, and socialist arguments circulated. Encounters with translated literature and local organizers could change how a Korean activist understood the nation. Some considered the defeat of empire inseparable from wider struggles against social hierarchy. Others made national sovereignty the primary goal and postponed disputes about economic transformation. This difference shaped arguments about the appropriate targets of action and how future authority ought to be constituted. It also affected practical alliances, since external groups willing to supply training or refuge might pursue objectives not shared by Korean participants.",
+        "The existing archive is uneven. Police investigations preserve details of planned actions, while later memoirs often emphasize courage and ideological clarity. Both genres can simplify decisions that were made amid uncertainty. A revolutionary statement describes an intended program; it does not prove that every member followed that program consistently. The account becomes stronger when historians examine the relationship between writings, observable activity, and disputes within organizations. A single famous incident can be well documented and still be unrepresentative of ordinary organizational work, which included the hazardous movement of messages, people, funds, and equipment."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 2
+    },
+    {
+      "id": "VIII.9.5:b03",
+      "title": "A movement within a movement",
+      "paragraphs": [
+        "Direct action groups sometimes connected with the Provisional Government or other nationalist bodies and sometimes criticized them. Cooperation might be based on a specific operation rather than a permanent settlement of ideological disagreement. These relationships show that the independence movement cannot be understood as a single command chain. It was an ecology of institutions seeking to make a nation politically present under colonial conditions. The choice of tactics affected who could be recruited, who would provide money, how secrecy was maintained, and what kind of public support could be mobilized. A group that excelled at clandestine action faced different problems from one that ran a school or maintained a public association.",
+        "The ethical dimension remains important to historical understanding. Attending to the reality of violence and its human risks is not a denial of colonial coercion; acknowledging colonial repression is not a substitute for judging each action carefully. A satisfactory account records the arguments participants offered, the forces they confronted, and the limits of the evidence. It also asks what happened after an action, when reprisals, trials, or changes in public opinion could alter the movement's possibilities. Such an account gives radical nationalists intellectual seriousness without converting them into characters whose every decision is predetermined by a heroic plot."
+      ],
+      "label": "Editorial synthesis · selected evidence anchors",
+      "sequence": 3
+    }
+  ]
+}

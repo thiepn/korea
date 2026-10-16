@@ -307,6 +307,14 @@
       "detail": "The establishment of the naval-trade center under Jang Bogo is recorded for 828; subsequent biographies present a more complex transmitted narrative of his motives and leadership."
     },
     {
+      "date": "918",
+      "year": 918,
+      "era": "V",
+      "id": "V.5.1",
+      "title": "Palgwan rite appears at the new Goryeo court",
+      "detail": "The later Goryeosa record of Taejo’s first year recalls a Palgwan ritual continuing earlier precedent."
+    },
+    {
       "date": "936",
       "year": 936,
       "era": "V",
@@ -334,17 +342,17 @@
       "date": "958",
       "year": 958,
       "era": "V",
-      "id": "V.2.5",
-      "title": "Recruiting officials by examination",
-      "detail": "The court adds a learned pathway into office within a society of unequal resources."
+      "id": "V.1.5",
+      "title": "Gwangjong begins civil service examinations",
+      "detail": "A formal path to official rank based on assessed learning joins older networks of family standing and personal recommendation."
     },
     {
       "date": "958",
       "year": 958,
       "era": "V",
-      "id": "V.1.5",
-      "title": "Gwangjong begins civil service examinations",
-      "detail": "A formal path to official rank based on assessed learning joins older networks of family standing and personal recommendation."
+      "id": "V.2.5",
+      "title": "Recruiting officials by examination",
+      "detail": "The court adds a learned pathway into office within a society of unequal resources."
     },
     {
       "date": "976",
@@ -379,12 +387,52 @@
       "detail": "The transmitted *Goryeosa* notice describes stores at capitals and regional centers, joining fiscal technique to claims of public welfare."
     },
     {
+      "date": "Goryeo dynasty, broad historical theme",
+      "year": 1000,
+      "era": "V",
+      "id": "V.5.10",
+      "title": "Religious life beyond royal monuments",
+      "detail": "Everyday donations, seasonal rites and community institutions are incompletely represented by court chronicles."
+    },
+    {
+      "date": "1010",
+      "year": 1010,
+      "era": "V",
+      "id": "V.5.7",
+      "title": "Yeondeunhoe revived under Hyeonjong",
+      "detail": "A later ritual record dates the restored court lantern ceremony to Hyeonjong’s first year."
+    },
+    {
+      "date": "1085–1086",
+      "year": 1085,
+      "era": "V",
+      "id": "V.5.3",
+      "title": "Uicheon studies Buddhist scholarship in Song",
+      "detail": "Accounts of the royal monk’s travels and return show Goryeo’s participation in transregional textual networks."
+    },
+    {
+      "date": "1097",
+      "year": 1097,
+      "era": "V",
+      "id": "V.5.3",
+      "title": "Uicheon assumes the Gukcheongsa abbacy",
+      "detail": "The completion of the temple and Uicheon’s lectures provided an institutional home for Cheontae learning."
+    },
+    {
       "date": "Goryeo period",
       "year": 1150,
       "era": "V",
       "id": "V.3.5",
       "title": "Life under estates, taxes and local obligations",
       "detail": "Agriculture, monasteries and status shape the experience of the majority."
+    },
+    {
+      "date": "1236 onward",
+      "year": 1236,
+      "era": "V",
+      "id": "V.5.6",
+      "title": "Re-carving the Buddhist canon during Mongol warfare",
+      "detail": "The state-backed re-engraving program responded to disaster and supported major scholarly and ritual labor."
     },
     {
       "date": "1237–1248",
@@ -596,19 +644,19 @@
     },
     {
       "year": 1882,
-      "id": "VIII.1.9",
-      "era": "VIII",
-      "date": "22 May 1882",
-      "title": "Joseon and the United States sign a treaty",
-      "detail": "At Jemulpo, Korean and American plenipotentiaries signed an agreement combining friendship clauses, consular arrangements and commercial provisions."
-    },
-    {
-      "year": 1882,
       "id": "VIII.1.10",
       "era": "VIII",
       "date": "1876–1882",
       "title": "Early opening changes local economies and knowledge",
       "detail": "Across port towns and inland networks, new patterns of grain trade, technical education, foreign residence and official authority affected communities unevenly."
+    },
+    {
+      "year": 1882,
+      "id": "VIII.1.9",
+      "era": "VIII",
+      "date": "22 May 1882",
+      "title": "Joseon and the United States sign a treaty",
+      "detail": "At Jemulpo, Korean and American plenipotentiaries signed an agreement combining friendship clauses, consular arrangements and commercial provisions."
     },
     {
       "date": "1894–1896",
@@ -617,6 +665,78 @@
       "id": "VIII.3.5",
       "title": "The Gabo reform program",
       "detail": "Reform confronts status hierarchy, taxation and the gulf between decrees and everyday practice."
+    },
+    {
+      "date": "After 1910",
+      "year": 1910,
+      "era": "VIII",
+      "id": "VIII.9.1",
+      "title": "Underground and exile independence networks expand",
+      "detail": "The loss of Korean sovereignty gave disparate organizations new and dangerous coordination problems."
+    },
+    {
+      "date": "1 March 1919",
+      "year": 1919,
+      "era": "VIII",
+      "id": "VIII.9.2",
+      "title": "March First independence declaration and protests",
+      "detail": "Participants circulated an independence declaration and organized protests under colonial repression."
+    },
+    {
+      "date": "11 April 1919",
+      "year": 1919,
+      "era": "VIII",
+      "id": "VIII.9.3",
+      "title": "Provisional Charter proclaims a democratic republic",
+      "detail": "The Shanghai provisional government’s charter asserts republican authority and formal equality."
+    },
+    {
+      "date": "June 1920",
+      "year": 1920,
+      "era": "VIII",
+      "id": "VIII.9.4",
+      "title": "Korean armed units fight at Bongodong",
+      "detail": "The battle became a significant episode of armed resistance beyond the peninsula."
+    },
+    {
+      "date": "1923",
+      "year": 1923,
+      "era": "VIII",
+      "id": "VIII.9.3",
+      "title": "National Representatives’ Conference debates movement reform",
+      "detail": "Activists debated legitimacy, representation and reorganization of the provisional institutions."
+    },
+    {
+      "date": "10 June 1926",
+      "year": 1926,
+      "era": "VIII",
+      "id": "VIII.9.8",
+      "title": "Students stage the June Tenth demonstrations",
+      "detail": "Public events around Sunjong’s funeral became the occasion for organized independence protest."
+    },
+    {
+      "date": "February 1927",
+      "year": 1927,
+      "era": "VIII",
+      "id": "VIII.9.9",
+      "title": "Singanhoe unites nationalist and socialist organizers",
+      "detail": "The association formed a cross-ideological front under colonial constraints."
+    },
+    {
+      "date": "November 1929 onward",
+      "year": 1929,
+      "era": "VIII",
+      "id": "VIII.9.8",
+      "title": "Gwangju student protest spreads",
+      "detail": "School grievances and anticolonial mobilization intersected as demonstrations extended beyond Gwangju."
+    },
+    {
+      "date": "After 1931",
+      "year": 1931,
+      "era": "VIII",
+      "id": "VIII.9.10",
+      "title": "Independence strategies adapt to Japan’s expansion in China",
+      "detail": "The Manchurian crisis changed alliances, risks and possibilities for Korean groups operating abroad."
     },
     {
       "date": "15 August 1945",
@@ -1462,6 +1582,106 @@
       "from": "V.1.7",
       "to": "V.2.3",
       "why": "Provincial and central offices developed together: ideals of government became durable only when staffed, recorded and funded."
+    },
+    {
+      "from": "V.5.1",
+      "to": "V.1.1",
+      "why": "Goryeo kingship depended on legitimating rituals as well as the settlement of provincial political loyalties."
+    },
+    {
+      "from": "V.5.1",
+      "to": "V.5.7",
+      "why": "Royal sponsorship and lay religious participation shared ceremonial forms without carrying the same social obligations."
+    },
+    {
+      "from": "V.5.2",
+      "to": "V.5.3",
+      "why": "Uicheon’s scholarship makes sense within older doctrinal and meditative networks, not as a solitary invention."
+    },
+    {
+      "from": "V.5.3",
+      "to": "V.5.6",
+      "why": "Collecting and interpreting commentaries complements, but should not be conflated with, different state Buddhist canon projects."
+    },
+    {
+      "from": "V.5.3",
+      "to": "V.5.4",
+      "why": "Uicheon’s synthetic program and Jinul’s reform occupied overlapping but distinct institutional and chronological settings."
+    },
+    {
+      "from": "V.5.5",
+      "to": "V.5.10",
+      "why": "Temple endowments and labor claims reveal the unequal material conditions of lay religious life."
+    },
+    {
+      "from": "V.5.7",
+      "to": "IV.3.8",
+      "why": "Ceremonial consumption and urban craft production illuminate connections between material culture and sacred display."
+    },
+    {
+      "from": "V.5.8",
+      "to": "V.1.7",
+      "why": "Confucian moral government and Buddhist patronage coexisted within debates about institutional authority."
+    },
+    {
+      "from": "V.5.9",
+      "to": "II.1.8",
+      "why": "Historical memory of local sacred landscapes changed over centuries, without implying unchanged cults from antiquity."
+    },
+    {
+      "from": "VIII.9.1",
+      "to": "VIII.9.2",
+      "why": "Clandestine organizing and public protest answered different problems under colonial repression."
+    },
+    {
+      "from": "VIII.9.2",
+      "to": "VIII.9.3",
+      "why": "Mass protest helped make republican independence a claim requiring concrete institutions."
+    },
+    {
+      "from": "VIII.9.3",
+      "to": "VIII.9.4",
+      "why": "Government-in-exile diplomacy and borderland armed resistance followed intersecting, sometimes competing paths."
+    },
+    {
+      "from": "VIII.9.3",
+      "to": "IX.1.1",
+      "why": "The language of 1919 republican legitimacy was remembered and contested again amid liberation in 1945."
+    },
+    {
+      "from": "VIII.9.4",
+      "to": "VIII.9.10",
+      "why": "Borderland campaigns in 1920 and later armed units operated under changing regional political pressures."
+    },
+    {
+      "from": "VIII.9.5",
+      "to": "VIII.9.6",
+      "why": "Direct-action activists and gradualist cultural organizers disagreed over methods but both reacted to colonial power."
+    },
+    {
+      "from": "VIII.9.7",
+      "to": "VIII.9.9",
+      "why": "Class-based movements and the Singanhoe united-front experiment overlapped without erasing ideological differences."
+    },
+    {
+      "from": "VIII.9.8",
+      "to": "VIII.9.9",
+      "why": "Student activism and the united front created channels for broader public organizing."
+    },
+    {
+      "from": "VIII.9.8",
+      "to": "VI.4.3",
+      "why": "School-based activism highlights how literacy and institutions could carry political ideas far beyond earlier royal writing reforms."
+    },
+    {
+      "from": "VIII.9.10",
+      "to": "IX.3.3",
+      "why": "Armed organization in the Chinese theater precedes a different set of military and civilian experiences during the Korean War."
+    },
+    {
+      "from": "V.5.10",
+      "to": "VII.5.3",
+      "why": "Religious activity and gendered household life are connected across periods but require separate source criticism."
     }
   ]
 }
