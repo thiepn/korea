@@ -1,0 +1,86 @@
+{
+  "id": "X.2.6",
+  "title": "The 2008 Global Financial Crisis and Korea's Resilience in an Export-Dependent Economy",
+  "kicker": "THE CONTEMPORARY ECONOMY",
+  "description": "An original historical-economic account of the 2008 global financial crisis and korea's resilience in an export-dependent economy, with dated source context and attention to workers, finance and institutions.",
+  "release": "P",
+  "sourceStatus": "Historical synthesis, selected OECD/BOK/IMF institutional sources; not independently peer-reviewed",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en.html",
+      "role": "July 2026 institutional analysis of globalization, growth, exports, ageing and structural imbalances; forecast passages must be time-stamped"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "2024 research on household debt, labor dualism, SMEs, fertility, climate and trade"
+    },
+    {
+      "institution": "Bank of Korea",
+      "title": "Causes of the Structural Decline in Korea’s Economic Growth Following Economic Crises",
+      "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?menuNo=400409&nttId=10095330",
+      "role": "December 2025 research on investment persistence and structural growth slowdown after major crises"
+    },
+    {
+      "institution": "International Monetary Fund",
+      "title": "Public Information Notice: 1999 Article IV Consultation with Korea",
+      "url": "https://www.imf.org/en/news/articles/2015/09/28/04/53/pn99115",
+      "role": "Retrospective official summary of the 1997–1998 crisis and stabilization program"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.2.6:b01",
+      "title": "An external crisis met an open economy",
+      "paragraphs": [
+        "The global financial crisis of 2008 originated outside South Korea but quickly reached it through finance, trade, and confidence. Korean banks and firms depended on international markets, and the collapse of demand in important export destinations threatened production and jobs. Stress in foreign-currency funding added another channel of vulnerability. Unlike 1997, the episode unfolded in a system with a different reserve position, changed financial supervision, and policy memories shaped by the earlier crisis.",
+        "The label resilience requires precision. It may describe the avoidance of a sovereign financing collapse, the pace of subsequent output recovery, or the ability of particular sectors to keep exporting. It does not mean that workers and smaller businesses experienced no losses. Nor does it imply that prudent domestic policy could have fully insulated a heavily interconnected economy from world markets. Resilience is relative to specific shocks and outcomes, not a permanent national characteristic."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 1
+    },
+    {
+      "id": "X.2.6:b02",
+      "title": "Finance and the memory of 1997",
+      "paragraphs": [
+        "After the earlier Asian financial crisis, Korean institutions had greater reason to monitor short-term external debt, bank capital, and liquidity. During 2008 policymakers again confronted uncertainty about foreign-currency markets and how to preserve the flow of credit. Central bank and government action, as well as arrangements in international financial markets, helped shape the response. The effectiveness and costs of particular measures must be studied through dated policy records rather than reconstructed from broad claims about national decisiveness.",
+        "Public discussion often compared 2008 with 1997. The comparison was politically powerful because financial collapse remained a living memory for households and businesses. But historical analogies can obscure as much as they reveal. The structures of the two crises differed: their international origins, domestic balance sheets, supervisory regimes, and policy responses were not identical. A reader learns more by tracing mechanisms than by deciding which crisis was morally worse."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 2
+    },
+    {
+      "id": "X.2.6:b03",
+      "title": "Exports transmit both strength and risk",
+      "paragraphs": [
+        "South Korea's manufacturing industries benefit from international specialization. Firms can sell into large markets, gain scale, and participate in technological networks far beyond domestic demand. The same model exposes employment and investment to sudden declines in orders from abroad. A slowdown in advanced economies can reduce demand for cars, electronics, ships, and intermediate goods at the same time. Suppliers and port regions then experience disruption even if the originating financial instruments were never traded locally.",
+        "When world trade rebounded, globally competitive manufacturers were positioned to benefit. This feedback helps explain how an economy can experience intense external shock yet recover relatively quickly in measured output. However, an aggregate export surge may be concentrated in a few sectors. It does not automatically translate into stronger household purchasing power or equal recovery among regions. Those distributive questions require separate labor and wealth analysis."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 3
+    },
+    {
+      "id": "X.2.6:b04",
+      "title": "Stimulus, exchange rates, and policy judgment",
+      "paragraphs": [
+        "Macroeconomic stabilization involves balancing inflation, employment, financial stability, and exchange-rate movements under imperfect information. During a severe global downturn, fiscal support can cushion demand and prevent temporary losses from becoming permanent capacity destruction. Monetary policy can ease domestic credit conditions, but it may be constrained by exchange-rate volatility and financial fragility. No single instrument controls all channels simultaneously.",
+        "Assessing policies years later requires comparing plausible alternatives, not simply comparing conditions before and after an intervention. Falling output might have been worse without policy support; it might also have recovered for reasons that policy alone cannot claim. Official accounts commonly emphasize the success of their own actions. A sound history consults independent research and acknowledges uncertainty over the attribution of economic outcomes."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 4
+    },
+    {
+      "id": "X.2.6:b05",
+      "title": "From 2008 to successive disruptions",
+      "paragraphs": [
+        "The global financial crisis belongs to a longer history of repeated shocks confronting an export-led economy. Later supply-chain disruptions and the pandemic again tested the balance between external dependence and domestic resilience. The Bank of Korea's research on structural growth slowdown argues that major crises can depress longer-term investment trajectories, making the consequences potentially persistent even after financial conditions improve. This is a research interpretation requiring evaluation, not a timeless law.",
+        "The central legacy of 2008 is thus double-edged. The episode demonstrated the importance of improved institutions and policy capacity, yet it also confirmed that success in global markets creates exposure to global instability. In the long run, debates about resilience became debates about diversification, finance, social protection, and the capacity of firms to continue investing when expectations deteriorate. Those are structural questions that extend well beyond one year."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 5
+    }
+  ]
+}
