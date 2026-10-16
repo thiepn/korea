@@ -1,0 +1,88 @@
+{
+  "id": "X.2.8",
+  "title": "Housing, Household Debt, Wealth Inequality, Finance, and Asset-Based Prosperity",
+  "kicker": "THE CONTEMPORARY ECONOMY",
+  "description": "Historical economic and social analysis of housing, household debt, wealth inequality, finance, and asset-based prosperity, current to the source review of October 2026.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; dated OECD and BOK context; projections separated from observed outcomes",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en.html",
+      "role": "Structural economic and demographic assessment dated July 2026; projections are not outcomes"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "2024 analysis of financial stability, household debt, labor dualism and productivity"
+    },
+    {
+      "institution": "Bank of Korea",
+      "title": "Causes of the Structural Decline in Korea’s Economic Growth Following Economic Crises",
+      "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?menuNo=400409&nttId=10095330",
+      "role": "December 2025 analytical investigation of investment and persistent growth slowdowns"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.2.8:b01",
+      "title": "The house as a financial institution",
+      "paragraphs": [
+        "Housing in modern South Korea has been more than a question of shelter. In major metropolitan markets a dwelling can be the largest asset a household owns, the security behind borrowing, an expectation of future wealth, and a decisive factor in family planning. Property prices shape who can move close to employment, which neighborhoods benefit from public investment, and how wealth passes between generations. A history focused only on construction volumes or average prices misses the role that housing plays in economic opportunity.",
+        "The relationship between housing and finance creates a two-way dependency. Credit can help families purchase dwellings but may also increase purchasing power in a market where land and desirable locations are scarce. Rising valuations can strengthen the balance sheets of owners while raising entry costs for renters and younger buyers. Lower prices may ease access for newcomers but damage highly leveraged households or lenders. Housing policy consequently operates inside a distributional conflict rather than in a neutral technical space."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 1
+    },
+    {
+      "id": "X.2.8:b02",
+      "title": "Jeonse and distinctive forms of household risk",
+      "paragraphs": [
+        "Korea's rental arrangements have included the jeonse deposit system, through which tenants provide a substantial lump-sum deposit in exchange for occupancy under contractual terms. This connects the renter directly to credit and property-value risks that differ from conventional monthly rent. The ability to raise the deposit can depend upon family support or borrowing; the safety of its eventual return depends upon the landlord's finances and legal protections.",
+        "Jeonse is neither an exotic curiosity nor a system whose effects are universally beneficial or harmful. It developed in particular financial and institutional conditions and interacts with changing interest rates and mortgage markets. A tenant may value the absence of a large monthly payment while still facing substantial risk from an insecure deposit. A landlord may use deposits to finance property ownership in ways that amplify changes in property prices. These mechanisms make tenancy a financial-history topic as well as a matter of domestic life."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 2
+    },
+    {
+      "id": "X.2.8:b03",
+      "title": "Debt, consumption, and policy constraints",
+      "paragraphs": [
+        "High household debt can make economic conditions sensitive to interest rates. A mortgage rate increase may reduce discretionary spending even where employment remains stable, while large real-estate valuations can coexist with households unable to meet immediate cash expenses comfortably. Aggregate debt ratios are useful only when accompanied by information about income, distribution, asset composition, and the terms of borrowing.",
+        "The OECD's 2024 and 2026 economic assessments discuss financial-stability concerns associated with household debt and property markets. Such reports are dated assessments, not timeless descriptions of one fixed risk level. Regulators face competing goals: restraining excessive leverage, protecting financial institutions, supporting creditworthy borrowers, and avoiding a disorderly adjustment. Tight restrictions may protect the system while making access harder for applicants without existing wealth. Relaxation may temporarily expand borrowing while increasing vulnerability if income growth does not keep pace."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "OECD economic surveys identify housing finance and household debt as structural macrofinancial concerns.",
+          "sourceIndex": 1,
+          "locator": "OECD Economic Surveys Korea 2024, housing and household debt analysis",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "X.2.8:b04",
+      "title": "Wealth gaps have a generational geography",
+      "paragraphs": [
+        "Household resources differ not only by salary but by property ownership, inherited capital, and the location of assets. An older household that bought in a neighborhood before substantial appreciation may hold an advantage unavailable to a younger worker with higher formal education. Parents able to transfer a deposit, help with a purchase, or pay for relocation can materially affect the economic options of their children. These dynamics are not captured by headline income inequality alone.",
+        "The Seoul metropolitan area occupies a central place in this story because it concentrates desirable employment, universities, transport links, and cultural infrastructure. Regional differences in housing demand mean that a uniform national average may describe neither the pressure in Seoul nor the challenges of cities facing population loss. Public policy on transport, regional development, education, and household finance can change the geography of opportunity, but no single lever instantly resolves accumulated disparities."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 4
+    },
+    {
+      "id": "X.2.8:b05",
+      "title": "Prosperity as both a stock and a flow",
+      "paragraphs": [
+        "A society may report rising national income while many households feel precarious because wealth and liquidity are distributed differently. A home may appreciate in value without creating spendable income; a wage may increase without permitting a first purchase. Housing therefore reveals a tension between the economy measured as ongoing production and the economy experienced through claims over scarce assets.",
+        "The historical aim is to explain how this tension emerged, not to reduce it to an accusation against one generation or to a single failed policy. Mortgage rules, interest rates, land constraints, metropolitan concentration, taxation, inherited assets, and expectations about future prices all matter. Distinguishing observed market changes from proposed causes is particularly important when the evidence comes from politically contested property debates."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 5
+    }
+  ]
+}

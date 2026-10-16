@@ -1,0 +1,86 @@
+{
+  "id": "X.2.1",
+  "title": "Globalization, Liberalization, Chaebol Expansion, and the Korean Economy of the Early 1990s",
+  "kicker": "THE CONTEMPORARY ECONOMY",
+  "description": "An original historical-economic account of globalization, liberalization, chaebol expansion, and the korean economy of the early 1990s, with dated source context and attention to workers, finance and institutions.",
+  "release": "P",
+  "sourceStatus": "Historical synthesis, selected OECD/BOK/IMF institutional sources; not independently peer-reviewed",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en.html",
+      "role": "July 2026 institutional analysis of globalization, growth, exports, ageing and structural imbalances; forecast passages must be time-stamped"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "2024 research on household debt, labor dualism, SMEs, fertility, climate and trade"
+    },
+    {
+      "institution": "Bank of Korea",
+      "title": "Causes of the Structural Decline in Korea’s Economic Growth Following Economic Crises",
+      "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?menuNo=400409&nttId=10095330",
+      "role": "December 2025 research on investment persistence and structural growth slowdown after major crises"
+    },
+    {
+      "institution": "International Monetary Fund",
+      "title": "Public Information Notice: 1999 Article IV Consultation with Korea",
+      "url": "https://www.imf.org/en/news/articles/2015/09/28/04/53/pn99115",
+      "role": "Retrospective official summary of the 1997–1998 crisis and stabilization program"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.2.1:b01",
+      "title": "A new place in the world economy",
+      "paragraphs": [
+        "By the early 1990s South Korea was no longer simply trying to build an industrial base. Decades of state-directed credit, export promotion, technical learning, and intensive labor had produced firms capable of competing in demanding global markets. The political democratization of the late 1980s added a new institutional context, while the end of the Cold War widened possibilities for trade and investment. A country once dependent on protective arrangements was beginning to confront the challenges of managing an already industrialized economy whose largest companies expected to operate on a global scale.",
+        "This change should not be described as a clean departure from developmental capitalism. Banks, conglomerates, government ministries, and export networks retained relationships built during earlier decades. Liberalization changed the terms of those relationships unevenly. Some financial and commercial rules were relaxed more quickly than the institutions needed to supervise the resulting risks. The concept of globalization is useful only if separated into distinct processes: greater trade exposure, overseas manufacturing, foreign borrowing, international capital mobility, and the restructuring of domestic competition."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 1
+    },
+    {
+      "id": "X.2.1:b02",
+      "title": "Chaebol growth beyond the national market",
+      "paragraphs": [
+        "Large diversified business groups entered the decade with manufacturing strength, political influence, and complex affiliate structures. Their scale made possible expensive ventures in automobiles, electronics, chemicals, shipping, and overseas production. A group could marshal engineers, managers, distribution, and finance across subsidiaries in ways smaller enterprises could rarely match. But the organization also created problems of internal debt guarantees, concentrated control, weak transparency, and pressure to keep expanding even when returns were uncertain.",
+        "The chaebol story is not solely one of heroic entrepreneurs or of an abstract corporate villain. Export growth supported employment and learning, but control was concentrated and financial risks could spread between affiliates. Creditors evaluating an individual company often had to consider the entire network and expectations of public support. Shareholders, subcontractors, workers, and local communities experienced corporate expansion differently. A manufacturing investment could create jobs while also exposing suppliers and employees to a downturn they had not chosen."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 2
+    },
+    {
+      "id": "X.2.1:b03",
+      "title": "Finance opened faster than understanding of risk",
+      "paragraphs": [
+        "Financial liberalization altered how Korean firms and intermediaries could reach international capital. Overseas borrowing promised cheaper funds and an escape from older domestic credit constraints. Yet short-term external liabilities can become dangerous when banks and firms rely upon continual rollover and hold assets that cannot be sold or financed quickly. A company may be productive over several years and still fail to meet tomorrow's foreign-currency payment. These mismatches became central to the later crisis.",
+        "Policy debates of the period involved real trade-offs. Protecting finance behind administrative controls could restrict competition and efficiency; opening it without strong supervision could import new vulnerabilities. The key analytical question is not whether liberalization is intrinsically good or bad, but what governance, sequencing, exchange-rate expectations, and financial incentives accompanied it. Distinguishing the mechanism from the slogan helps explain why two institutions facing the same international market might encounter very different outcomes."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 3
+    },
+    {
+      "id": "X.2.1:b04",
+      "title": "Regional integration and new diplomatic economies",
+      "paragraphs": [
+        "Normalization of relations with countries formerly outside South Korea's main diplomatic network helped expand commercial opportunities. The growing importance of China in regional manufacturing created new options for trade and investment, while Japan and the United States remained crucial technological, financial, and consumer markets. Firms evaluated where to locate production according to wages, logistics, supplier competence, and access to buyers. Global supply chains were not yet the same as they would become in the semiconductor-intensive 2020s.",
+        "These networks also had a domestic geography. Production regions linked to ports, industrial complexes, research institutions, and subcontracting clusters could benefit unequally. Seoul retained considerable financial and managerial influence, while other areas depended more heavily on specific factories or sectors. A national export statistic can thus conceal the local concentration of both prosperity and vulnerability. This distinction prepares the reader for later discussions of housing, jobs, and regional inequality without absorbing those subjects into the chronology of trade opening."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 4
+    },
+    {
+      "id": "X.2.1:b05",
+      "title": "Growth, inequality, and the unfinished transition",
+      "paragraphs": [
+        "South Korea's participation in the OECD from 1996 symbolized a change in international status, but membership did not eliminate structural weaknesses. Political and economic liberalization interacted with inherited habits of family control, state expectations, and highly leveraged investment. At the same time the education of a skilled workforce and the accumulation of industrial expertise supplied strong foundations for later innovation. Both observations are necessary to explain the decade.",
+        "The decisive historical issue is not whether the early 1990s were a success or a failure. They were a transition in which gains from industrialization and weaknesses in corporate finance developed together. The later financial crisis exposed some of those weaknesses but should not be used to treat every earlier decision as obviously mistaken. Historical analysis must preserve the uncertainty of actors who made choices before the outcome was known, while using later evidence to evaluate the institutional risks they did not adequately control."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 5
+    }
+  ]
+}

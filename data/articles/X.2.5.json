@@ -35,6 +35,126 @@
         "Later generations may treat persistent connectivity as ordinary, forgetting how recently many familiar routines appeared. A historical approach asks what people did before they could search, message, purchase, or navigate instantly, and how these practices changed family life and expectations of public institutions.",
         "The story reaches beyond economic growth. It branches into education, labor, media, urban life, cultural export, privacy, and the politics of digital platforms. The history of wires and screens is ultimately a history of people reorganizing their lives around new possibilities and new constraints."
       ]
+    },
+    {
+      "id": "X.2.5:b05",
+      "title": "Broadband required a physical geography",
+      "paragraphs": [
+        "South Korea's reputation for fast internet grew from investment in networks, urban density, telecommunications policy, consumer demand, and competition among service providers. A connection experienced as immediate depends upon cables, exchanges, data centers, maintenance crews, and rules for access. Concentrated urban housing could make deployment economically attractive in some locations, but similar conditions did not exist in every rural district or island. The speed of a network is not simply a national cultural trait.",
+        "The historical significance of infrastructure is that it changes what people can reliably expect. Students can access instructional materials from home, workers communicate across offices, and small businesses can transact without operating a storefront in every market. These possibilities emerged through a sequence of institutional and material decisions rather than as the automatic reward for adopting fashionable software. Unequal access and differences in digital literacy remained relevant even as network availability expanded."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 5
+    },
+    {
+      "id": "X.2.5:b06",
+      "title": "PC bangs and the social life of access",
+      "paragraphs": [
+        "Internet cafés, especially PC bangs, became recognizable spaces in Korean digital culture. They offered access to computers and games but also a setting in which people could gather, compete, watch, and learn from others. The economic history of connectivity should not erase these physical meeting places. They remind us that digital interaction initially depended upon local environments, payment arrangements, and shared social practices as much as private devices.",
+        "Access through a public or commercial venue was not identical to access at home. Opening hours, cost, age-related expectations, social networks, and the availability of suitable equipment all affected who participated. A history concentrating only on national subscription rates would miss such distinctions. The transformation of leisure and communication belongs alongside the story of cables and electronics because it shows how users gave infrastructure its practical meaning."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 6
+    },
+    {
+      "id": "X.2.5:b07",
+      "title": "The state as customer, regulator, and enabler",
+      "paragraphs": [
+        "Government helped shape conditions for digital development through telecommunications rules, infrastructure initiatives, education policy, and public-sector services. But it would be misleading to attribute the whole transformation to a single plan or leader. Private firms invested, consumers adopted new services, and international technical standards enabled interoperability. Policy successes also require evaluation against costs and unintended effects.",
+        "Electronic government illustrates this complexity. A service delivered online may reduce travel, paperwork, and waiting time for many users. It may also disadvantage those lacking devices, confidence, accessibility accommodations, or reliable identification tools. Digital public administration can become more convenient while imposing new obligations upon citizens. The relevant historical outcome is whether participation becomes easier and more accountable, not merely whether a ministry has replaced a counter with a website."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 7
+    },
+    {
+      "id": "X.2.5:b08",
+      "title": "From desktop networks to smartphones",
+      "paragraphs": [
+        "The expansion of mobile connectivity shifted many digital practices away from fixed computers. Communication, navigation, shopping, entertainment, and payment became available during movement through cities and workplaces. Smartphones and mobile applications changed business strategies because services could be designed around location, persistent access, and rapid notifications. They also changed what employers, friends, and institutions expected of a person's availability.",
+        "The transition did not occur evenly. Age, occupation, income, disability, and the needs of particular households shaped the usefulness and burden of mobile services. Mobile access could open opportunities for some people and expose others to pressure to respond constantly. A historical account should trace both the creation of new capabilities and the erosion of older boundaries between work, leisure, and private life."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 8
+    },
+    {
+      "id": "X.2.5:b09",
+      "title": "Hardware success is not the whole software economy",
+      "paragraphs": [
+        "South Korean companies became important manufacturers of electronic devices and components, while software services evolved through different patterns of entrepreneurship and platform competition. Hardware production requires factories, supply chains, process control, and large capital commitments. Software-based services may face lower initial physical barriers but strong network effects, changing user expectations, and challenges in international expansion. The two systems reinforce each other without becoming the same industry.",
+        "A nation can be highly competitive in semiconductor production without automatically dominating global software platforms. Conversely, a successful domestic service may depend upon foreign operating systems, cloud infrastructure, or chip designs. The concept of a knowledge economy should therefore be disaggregated into different forms of expertise, ownership, and commercial power. Calling everything digital disguises how varied the underlying economics are."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 9
+    },
+    {
+      "id": "X.2.5:b10",
+      "title": "Skills and the unequal rewards of education",
+      "paragraphs": [
+        "Technical transformation relies upon workers who design, install, maintain, secure, and use digital systems. Universities, vocational institutions, workplace training, and informal learning all contributed to the diffusion of skills. Yet training does not automatically guarantee secure employment. A highly educated labor force can face mismatches between qualifications and available jobs, while smaller firms struggle to afford experienced specialists.",
+        "These problems intersect with the broader labor market. Concentration of desirable positions in large companies may encourage prolonged competition for credentials, while rapidly changing tools make continued training necessary. Older workers and people outside metropolitan centers may encounter additional access barriers. Rather than treat education solely as a national success indicator, historical analysis asks how skills were rewarded, which institutions mediated employment, and who had the opportunity to acquire new expertise."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 10
+    },
+    {
+      "id": "X.2.5:b11",
+      "title": "Privacy, security, and the accumulation of data",
+      "paragraphs": [
+        "Digital services can retain enormous quantities of information about purchases, communications, movements, and preferences. The collection of such data enables useful personalization and coordination but introduces risks of misuse, exposure, and unequal bargaining power. People may technically agree to conditions that they cannot realistically negotiate, especially when access to a service has become necessary for everyday participation.",
+        "Security breaches and harmful uses of data should be studied through documented cases and institutional responses rather than generalized fear. Laws, regulators, companies, and users adapt as new practices become common. The historical transition is from an economy in which many transactions left scattered physical records to one where data collection can be continuous and centrally processed. That change makes privacy and cybersecurity important components of economic infrastructure."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 11
+    },
+    {
+      "id": "X.2.5:b12",
+      "title": "Digital platforms and small-business dependence",
+      "paragraphs": [
+        "Online marketplaces and delivery services can help small sellers reach large audiences without building the same distribution networks as a major retailer. This may reduce some entry barriers, yet platform fees, ranking systems, and dependence on search visibility can also create a new kind of intermediary power. A merchant may be formally independent while having little control over how customers discover products.",
+        "The historian must avoid assuming that digital participation always means higher productivity. An online channel may increase sales but also expose a business to intense price competition and additional operational costs. Measuring value requires attention to margins, working hours, logistics, and durability. The success of an app can coexist with vulnerability among the suppliers and workers who make its promised convenience possible."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 12
+    },
+    {
+      "id": "X.2.5:b13",
+      "title": "Technological capacity and the energy system",
+      "paragraphs": [
+        "Digital infrastructure has a material footprint. Networks and data centers require electricity, cooling, land, equipment, and periodic replacement. Chip fabrication likewise depends upon highly controlled environments, water, chemicals, and reliable power. These physical requirements connect the knowledge economy to environmental history. An apparently immaterial online service rests upon resource-intensive operations distributed across locations.",
+        "Rapid growth in artificial intelligence computing raises additional questions about energy demand, investment, and the concentration of infrastructure. These questions require dated measurements because the technologies and power systems change. An economic history that celebrates speed and innovation without tracing material costs provides an incomplete account. Equally, treating every new digital service as environmentally destructive without comparing its actual effects would substitute rhetoric for analysis."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 13
+    },
+    {
+      "id": "X.2.5:b14",
+      "title": "The digital transformation remains unfinished",
+      "paragraphs": [
+        "The spread of broadband and connected devices changed Korea profoundly, but there is no single date when a knowledge economy was completed. New platforms, security threats, workplace tools, and infrastructure requirements continue to alter established practices. The speed of adoption can be impressive while effects on aggregate productivity take longer to identify. Businesses must reorganize processes, train workers, and determine whether new systems genuinely improve outcomes.",
+        "Historical analysis gains durability by separating technological possibility from measured performance. A country may lead in manufacturing components while facing unequal digital participation or concentrated platform markets. Its success in one generation does not guarantee leadership in the next. The central achievement is an evolving system of infrastructure, skills, institutions, and social use, accompanied by trade-offs that deserve the same attention as celebrated inventions."
+      ],
+      "label": "Batch P · original digital economic history",
+      "sequence": 14
+    },
+    {
+      "id": "X.2.5:b15",
+      "title": "Connectivity is not the same as participation",
+      "paragraphs": [
+        "A country can achieve fast network coverage while leaving people with unequal capacity to benefit. Someone with a reliable connection but limited digital literacy may struggle with services that assume familiarity with accounts, verification, or complex forms. People with visual, motor, or cognitive disabilities may encounter inaccessible design even when technical infrastructure is excellent. Age and language can also shape participation.",
+        "The economic significance of accessibility is frequently underestimated. When government, banking, commerce, and health services migrate online, exclusion can become a material barrier to work and social life. Inclusive interfaces, offline alternatives, technical support, and meaningful user testing are therefore part of the social history of digital modernization. A networked society should be evaluated not merely by average speed but by who can actually use its institutions."
+      ],
+      "label": "Batch P · original analytical extension",
+      "sequence": 15
+    },
+    {
+      "id": "X.2.5:b16",
+      "title": "When digital adoption becomes dependency",
+      "paragraphs": [
+        "Digitization can reduce time and transaction costs, but it can also create new points of failure. Businesses may become dependent on a small number of payment providers, app stores, online marketplaces, or cloud services. An outage or rule change can interrupt activity far beyond the company that owns the platform. Concentrated intermediation can also create difficult bargaining relationships even where services remain popular.",
+        "Digital economic resilience requires interoperability, security, competition, and contingency arrangements. These issues are not evidence that technological change is undesirable. They show that useful networks create shared dependencies that deserve institutional attention. An historically durable account follows how societies learn to govern the systems they increasingly rely upon rather than equating digital adoption with an automatically completed improvement in wellbeing."
+      ],
+      "label": "Batch P · original analytical extension",
+      "sequence": 16
     }
   ]
 }

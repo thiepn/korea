@@ -1,0 +1,94 @@
+{
+  "id": "X.2.3",
+  "title": "Corporate Restructuring, Financial Reform, Foreign Investment, and the Post-Crisis Economy",
+  "kicker": "THE CONTEMPORARY ECONOMY",
+  "description": "An original historical-economic account of corporate restructuring, financial reform, foreign investment, and the post-crisis economy, with dated source context and attention to workers, finance and institutions.",
+  "release": "P",
+  "sourceStatus": "Historical synthesis, selected OECD/BOK/IMF institutional sources; not independently peer-reviewed",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en.html",
+      "role": "July 2026 institutional analysis of globalization, growth, exports, ageing and structural imbalances; forecast passages must be time-stamped"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "2024 research on household debt, labor dualism, SMEs, fertility, climate and trade"
+    },
+    {
+      "institution": "Bank of Korea",
+      "title": "Causes of the Structural Decline in Korea’s Economic Growth Following Economic Crises",
+      "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?menuNo=400409&nttId=10095330",
+      "role": "December 2025 research on investment persistence and structural growth slowdown after major crises"
+    },
+    {
+      "institution": "International Monetary Fund",
+      "title": "Public Information Notice: 1999 Article IV Consultation with Korea",
+      "url": "https://www.imf.org/en/news/articles/2015/09/28/04/53/pn99115",
+      "role": "Retrospective official summary of the 1997–1998 crisis and stabilization program"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.2.3:b01",
+      "title": "Rebuilding after a liquidity shock",
+      "paragraphs": [
+        "The financial crisis of 1997–1998 forced South Korea to confront intertwined corporate and banking problems. The immediate shortage of external liquidity made it difficult for financial institutions to meet obligations, but recovery could not consist solely of replacing missing foreign currency. Some banks carried impaired claims on heavily indebted companies, and some business groups had expanded under incentives that rewarded size more reliably than profitability. Restoring confidence therefore required decisions about which institutions could survive, who would absorb losses, and how information about risk would become more reliable.",
+        "Emergency stabilization and long-term restructuring followed different clocks. Foreign exchange pressures might ease after policy action and creditor negotiations, while reorganization of corporate ownership, bank balance sheets, and labor relations could take years. Reports that classify an economy as recovered may refer to aggregate production or reserves, not to households and workers who have regained their previous security. Separating these measures prevents a misleading narrative of instantaneous restoration."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The IMF documents the 1997 crisis, stabilization program and corporate-financial restructuring.",
+          "sourceIndex": 3,
+          "locator": "IMF Public Information Notice 99/115, 29 December 1999, Background",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "X.2.3:b02",
+      "title": "Banks, supervision, and the cost of failure",
+      "paragraphs": [
+        "Weakly supervised credit intermediation had permitted risks to accumulate. Restructuring involved closing or merging some institutions, recapitalizing others, and strengthening oversight. Public resources used to stabilize the system created questions about distributive justice: why should society bear costs for private lending failures, and what new governance requirements should accompany support? There are no cost-free answers when widespread bank collapse threatens depositors, firms, and everyday payments.",
+        "A functioning financial system must assess creditworthiness rather than assume that government or a powerful conglomerate will eventually rescue every borrower. Yet strict discipline applied during a deep recession can intensify bankruptcy and unemployment. Reform therefore involved a difficult balance between enforcing losses and preventing a destructive cascade. The IMF's accounts explain program design from an official policy perspective; critical histories should also examine the social outcomes and domestic disputes that such institutional accounts are less likely to center."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 2
+    },
+    {
+      "id": "X.2.3:b03",
+      "title": "Corporate groups under new disciplines",
+      "paragraphs": [
+        "Large conglomerates faced demands for lower leverage, transparency, and changes to cross-guarantees within affiliated firms. Some subsidiaries were sold, businesses consolidated, and management practices revised. Foreign investors gained a larger role in portions of the corporate economy. These developments did not dissolve concentrated ownership or eliminate the political power of large business groups. Rather, they changed its institutional setting.",
+        "One should distinguish changes in formal rules from their implementation. A new disclosure requirement might expand what investors can learn without removing differences in influence between a family controller and small shareholders. A governance reform could reduce a particular conflict while leaving wider concentration intact. The central question is how risks and decision-making authority were redistributed among owners, lenders, employees, consumers, and public regulators."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 3
+    },
+    {
+      "id": "X.2.3:b04",
+      "title": "Foreign investment and the politics of openness",
+      "paragraphs": [
+        "Foreign capital could supply financing, managerial expertise, and access to international networks. It could also purchase assets at distressed prices, create political controversy over control, or pursue strategies that differed from the priorities of domestic employees and communities. Debates about openness thus cannot be reduced to a choice between nationalism and efficiency. Countries seek investment while also deciding which activities deserve special treatment, how competition is regulated, and how the gains are shared.",
+        "A foreign acquisition is not automatically evidence of modernization, nor is it inherently proof of exploitation. Outcomes vary with sector, price, governance, labor arrangements, and regulatory quality. A historically responsible treatment distinguishes the terms of particular transactions from claims made by political advocates. Comparisons with other crisis-affected Asian economies can illuminate alternatives, provided national circumstances are not treated as interchangeable."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 4
+    },
+    {
+      "id": "X.2.3:b05",
+      "title": "Recovery left a transformed social bargain",
+      "paragraphs": [
+        "Macroeconomic indicators improved markedly after the sharp contraction, aided by currency adjustment, exports, and restoring financial stability. But the crisis accelerated changes in employment security and bargaining relationships. Some firms relied more on flexible hiring and outsourcing while households reassessed the risks of unemployment and debt. The distribution of these consequences belongs in the dedicated labor chapter, yet it is important to recognize here that financial restructuring did not happen above society.",
+        "The post-crisis model created a paradox. Greater integration and improved risk management could coexist with persistent corporate concentration and social anxiety. The reforms contributed to the conditions under which the Korean economy could expand technologically, but they did not resolve every problem that had preceded 1997. Their historical legacy is a set of new institutions and contested distributions of opportunity, not a single triumphant return to normality."
+      ],
+      "label": "Original economic history · contextual sources",
+      "sequence": 5
+    }
+  ]
+}

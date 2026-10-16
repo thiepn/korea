@@ -1,0 +1,188 @@
+{
+  "id": "X.2.10",
+  "title": "The Post-Pandemic Economy, Supply-Chain Competition, Demographic Constraints, and the Search for a New Growth Model",
+  "kicker": "THE CONTEMPORARY ECONOMY",
+  "description": "Historical economic and social analysis of the post-pandemic economy, supply-chain competition, demographic constraints, and the search for a new growth model, current to the source review of October 2026.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; dated OECD and BOK context; projections separated from observed outcomes",
+  "sources": [
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2026",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2026_6b87f585-en.html",
+      "role": "Structural economic and demographic assessment dated July 2026; projections are not outcomes"
+    },
+    {
+      "institution": "OECD",
+      "title": "OECD Economic Surveys: Korea 2024",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-korea-2024_c243e16a-en.html",
+      "role": "2024 analysis of financial stability, household debt, labor dualism and productivity"
+    },
+    {
+      "institution": "Bank of Korea",
+      "title": "Causes of the Structural Decline in Korea’s Economic Growth Following Economic Crises",
+      "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?menuNo=400409&nttId=10095330",
+      "role": "December 2025 analytical investigation of investment and persistent growth slowdowns"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "X.2.10:b01",
+      "title": "Recovery in a world of repeated interruptions",
+      "paragraphs": [
+        "The COVID-19 pandemic disrupted travel, supply networks, services, and consumer behavior around the world. South Korea's economy entered the post-pandemic period with considerable industrial capabilities, but also with the uneven burdens of small-business disruption, changing household finances, and dependence on overseas demand. Recovery was not one event. Some sectors regained activity quickly, others faced delayed adjustment, and the effects on employment and balance sheets varied.",
+        "Longer historical comparison matters because the pandemic was not the first shock to leave persistent consequences. The Bank of Korea's December 2025 analysis argues that crises since the 1990s have been associated with lasting declines in investment trajectories. This interpretation helps frame a question rather than close it: how can an economy preserve productive capacity when repeated disruptions change expectations about future returns? The answer depends on firm behavior, public institutions, finance, and technological opportunities."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 1
+    },
+    {
+      "id": "X.2.10:b02",
+      "title": "Supply chains as geopolitical arrangements",
+      "paragraphs": [
+        "Global value chains once appeared primarily as arrangements for reducing costs and combining specialized capabilities. Competition between major powers, trade restrictions, export controls, and concerns over strategic materials gave them an explicitly geopolitical character. Korean firms navigate especially difficult choices because important customers, production locations, technologies, and security relationships may lie in different countries. A decision to relocate part of a supply chain can protect access to one market while increasing cost or reducing flexibility elsewhere.",
+        "Terms such as reshoring, friend-shoring, and economic security describe different strategies, not one inevitable destination. Some production can move, but specialized expertise, energy infrastructure, ports, and supplier clusters take time to reproduce. Diversification can reduce reliance on one partner without making an industry independent of international exchange. Claims that a national technology sector is self-sufficient should therefore be tested against the actual inputs and equipment needed to produce its goods."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 2
+    },
+    {
+      "id": "X.2.10:b03",
+      "title": "Demography and the labor force",
+      "paragraphs": [
+        "Very low fertility and rising life expectancy are altering the age structure of South Korea. A smaller future working-age population can place pressure on production, public finance, care services, and the ability of regions to sustain schools or local businesses. Yet the economic effects of demographic change are not mechanical. Productivity, labor-force participation, migration, retirement policy, and the organization of work shape how strongly population trends affect living standards.",
+        "The OECD's July 2026 assessment identifies ageing and the fiscal demands associated with it as central structural challenges. It also discusses barriers faced by women combining paid employment and motherhood, labor-market dualism, and productivity gaps between large and smaller firms. These problems interact. A society cannot reliably address fertility by treating births as an isolated target while ignoring housing costs, job insecurity, unequal caregiving, and the prospects of young adults. Nor can immigration be discussed purely as a numerical fix without institutions for integration, rights, and social participation."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The OECD's July 2026 survey identifies rapid ageing and fiscal and productivity reforms as structural pressures.",
+          "sourceIndex": 0,
+          "locator": "OECD Economic Surveys Korea 2026, Key messages and Executive summary",
+          "type": "direct"
+        }
+      ]
+    },
+    {
+      "id": "X.2.10:b04",
+      "title": "Energy, climate, and the cost of industrial renewal",
+      "paragraphs": [
+        "Advanced manufacturing requires dependable electricity and substantial investment. Climate commitments, energy security, international carbon-related trade rules, and public concern about pollution alter the costs and choices facing industrial firms. Semiconductor facilities, battery plants, ports, and transport systems all have environmental dimensions. A growth strategy that disregards energy infrastructure may promise output without identifying the physical conditions required for it.",
+        "Different energy mixes involve trade-offs in cost, emissions, safety, reliability, and import dependence. Historical analysis should avoid treating an announced target as proof that an energy transition has been completed. It should also ask who pays for adjustments and whether vulnerable households or small companies carry disproportionate burdens. The move toward lower-carbon production is an institutional and distributive transformation, not simply a technical procurement problem."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 4
+    },
+    {
+      "id": "X.2.10:b05",
+      "title": "Toward a more productive and inclusive economy",
+      "paragraphs": [
+        "A mature export-oriented economy cannot sustain rising living standards indefinitely by adding labor and capital at the pace possible during earlier industrialization. Growth increasingly depends upon productivity, innovation, organizational learning, and the ability to spread useful technologies beyond a few world-class firms. Support for research matters, but so do competitive markets, good management, education, infrastructure, and institutions that enable workers to change jobs without losing basic security.",
+        "The 2026 OECD survey characterizes South Korea as an economy with substantial achievements and persistent imbalances. In a durable encyclopedia, that juxtaposition should remain more important than any single year's growth forecast. The search for a new model is not evidence that the previous one wholly failed. It is the recurrent problem of adapting successful institutions to new circumstances, while making their benefits accessible to people who have not shared equally in past gains."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 5
+    },
+    {
+      "id": "X.2.10:b06",
+      "title": "What a future-oriented historical chapter should not predict",
+      "paragraphs": [
+        "Historians writing near the present face the temptation to turn current trends into inevitable outcomes. A semiconductor boom may cool, a trade restriction may change, or a new technology may diffuse more slowly than expected. Population structure shifts more gradually, but policy choices still matter. A narrative anchored in October 2026 should make its chronology visible and keep projections separate from observed events.",
+        "The enduring subject is how Korea's economy responds to the conjunction of technological opportunity, global competition, environmental limits, ageing, and distributional strain. These forces need not lead to either permanent decline or uninterrupted prosperity. The task of historical writing is to give readers the mechanisms and institutional choices with which to understand later change, without pretending that the future has already happened."
+      ],
+      "label": "Original economic history · dated source context",
+      "sequence": 6
+    },
+    {
+      "id": "X.2.10:b07",
+      "title": "Fiscal space and competing public obligations",
+      "paragraphs": [
+        "Population ageing influences public finances because pension payments, healthcare, long-term care, and infrastructure needs evolve as the age distribution changes. Yet these pressures do not mechanically determine one fiscal outcome. Tax policy, employment participation, retirement practices, productivity, and the design of services all shape the amount of revenue available and the cost of commitments. An older population may also possess assets and skills that do not appear in a simple dependency ratio.",
+        "The OECD's July 2026 economic survey calls for stronger fiscal institutions and changes in spending priorities and revenue policy. Its projections should be identified as scenarios rather than records of events that have already occurred. Political disagreement about taxes and benefits concerns who should pay for collective commitments and who receives support. Historical analysis cannot resolve that disagreement through a single ratio, but it can show the institutions and assumptions through which alternatives are evaluated."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 7
+    },
+    {
+      "id": "X.2.10:b08",
+      "title": "The productivity divide beneath national averages",
+      "paragraphs": [
+        "Large export champions often exhibit advanced technology and sophisticated management, while many small and medium-sized enterprises operate with fewer resources for investment, training, and research. A high national export ranking can therefore coexist with uneven productivity across employers. The problem cannot be solved merely by ordering every business to innovate. Access to finance, skilled workers, competition, adoption costs, and the structure of customer relationships shape what smaller firms can realistically achieve.",
+        "A growth model that raises productivity more broadly could improve wages and resilience without requiring every region to host a world-leading semiconductor factory. But policies meant to support small companies can also entrench unproductive firms if they reward survival without learning. The institutional challenge is to foster competition and transition while protecting people from abrupt loss of livelihood. The Bank of Korea's analysis of persistent investment weakness after crises adds another reason to examine how risk and expectations affect private investment decisions."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 8
+    },
+    {
+      "id": "X.2.10:b09",
+      "title": "Care work is economic infrastructure",
+      "paragraphs": [
+        "A shrinking working-age population and rising care needs make the organization of childcare, eldercare, disability support, and healthcare economically consequential. These services require trained workers, financing, and coordination across families, employers, and governments. When care is treated solely as a private household responsibility, its costs can reduce paid employment opportunities, particularly for people expected to perform unpaid work.",
+        "Policy discussions focused only on automation or migration miss this institutional foundation of labor supply. Better support for care can enable participation while improving wellbeing, but quality and working conditions within care occupations must also be considered. A system that expands services by relying on insecure, underpaid labor may move costs rather than remove them. Historicizing care connects the macroeconomic discussion of ageing with the everyday social experience that abstract forecasts cannot capture."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 9
+    },
+    {
+      "id": "X.2.10:b10",
+      "title": "Migration as a choice about institutions",
+      "paragraphs": [
+        "Workforce constraints increase attention to immigration, but an increase in arrivals does not automatically resolve mismatches in skills, regions, or employment conditions. Employers, migrants, and communities need institutions for recruitment, legal protection, language access, housing, and integration. Long-term demographic effects depend upon settlement and participation rather than numbers alone.",
+        "South Korea's economic relations with foreign workers and residents have histories that extend beyond recent labor shortages. A mature growth strategy should recognize migrants as workers, neighbors, and potential long-term members of society rather than temporary inputs into a demographic calculation. This perspective also makes visible the risk of uneven bargaining power when visas or workplace changes are controlled by employers. The design of labor rights is part of the productivity and fairness question, not an unrelated social issue."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 10
+    },
+    {
+      "id": "X.2.10:b11",
+      "title": "Trade strategy without a fantasy of isolation",
+      "paragraphs": [
+        "Firms confronted with export controls, tariffs, and industrial subsidies may seek alternative suppliers or overseas production capacity. Diversification can reduce exposure to a single shock, but specialized production depends upon networks that cannot be recreated instantly. Technical standards, intellectual property, process know-how, equipment, and customer relationships accumulate over time. Economic security is consequently a matter of managing dependencies rather than abolishing them.",
+        "A selective shift in production location could strengthen access to a market while imposing higher costs or new concentration elsewhere. Evaluating a policy requires tracing those trade-offs and distinguishing announced projects from realized output. Korea's position between major economic partners gives the issue unusual weight, but historical analysis should resist claims that present diplomatic alignments make one industrial outcome inevitable. Companies and states can adjust strategies as conditions change."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 11
+    },
+    {
+      "id": "X.2.10:b12",
+      "title": "Regional contraction is not national uniformity",
+      "paragraphs": [
+        "Ageing and population loss have different effects across places. Some metropolitan districts continue to attract employment and investment while smaller cities and rural counties struggle to maintain schools, transport, and services. An aggregate national population figure can conceal this redistribution. Local decline may weaken the tax base and reduce access to care, which in turn makes remaining in a community harder for residents.",
+        "Industrial strategy interacts with this geography. A new factory may create employment but also require housing, utilities, training institutions, and reliable transport. Moving jobs alone does not guarantee a sustainable region; building infrastructure without economic demand can create another form of fiscal burden. Regional policy therefore belongs within the discussion of a future growth model, even though its fuller lived consequences are treated in the dedicated social-history chapters."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 12
+    },
+    {
+      "id": "X.2.10:b13",
+      "title": "Distinguishing forecasts from historical outcomes",
+      "paragraphs": [
+        "Future growth and demographic projections are essential inputs to policy, but their meaning depends upon assumptions. The OECD's July 2026 projections reflect information available at publication and may be revised as energy prices, trade, investment, and policy decisions change. A history written later should not present such forecasts as facts. It should record the institutional context in which decision makers used them.",
+        "The durability of this chapter rests in its questions: what new sources of productivity are emerging, how does an ageing society share work and care, how can external dependencies be managed, and who bears the cost of transition? Specific policies and growth numbers may change. The underlying interactions among technology, trade, demography, finance, environment, and social distribution will continue to structure debate. A serious economic history gives readers mechanisms with which to evaluate future developments, not a rehearsed prediction of either inevitable decline or limitless growth."
+      ],
+      "label": "Batch P · additional original historical analysis",
+      "sequence": 13
+    },
+    {
+      "id": "X.2.10:b14",
+      "title": "Economic security and public trust",
+      "paragraphs": [
+        "Long-term economic change depends upon institutions that people believe will manage risks fairly. Households deciding whether to save, have children, retrain, or purchase a home respond not only to expected income but to uncertainty about employment, health costs, and public commitments. Firms deciding whether to invest consider policy credibility, access to finance, and future demand. Confidence is therefore more than a financial-market indicator. It is shaped by the predictability of rules and the distribution of risk.",
+        "A growth strategy based entirely on stimulating investment may underperform if households remain anxious or if incentives reward projects unlikely to become productive. Conversely, expanding social protection without identifying durable financing can create fiscal pressure. A historically grounded discussion must examine these trade-offs within Korea's demographic, regional, and industrial conditions rather than import a single model from another economy. Public trust is difficult to measure but relevant to how economic policies operate."
+      ],
+      "label": "Batch P · original analytical extension",
+      "sequence": 14
+    },
+    {
+      "id": "X.2.10:b15",
+      "title": "The historian's standard for a new growth model",
+      "paragraphs": [
+        "Claims about a new era of prosperity should be judged by outcomes: sustained productivity, broadly shared purchasing power, effective adaptation to demographic change, and resilience without excessive costs transferred to vulnerable groups. A short-lived export boom does not establish a durable growth model. Neither does one disappointing year prove structural failure. Historical evidence accumulates across investment cycles, institutions, and the social consequences of policy.",
+        "The 1990s opening, the 1997 crisis, the 2008 shock, digital development, industrial upgrading, and the post-pandemic economy form a connected history of adaptation. But each process needs its own analytical owner. The final section should connect them without retelling them, asking which capabilities proved durable and where institutional reform lagged. Such a framework remains useful even after today's forecasts and officeholders have changed."
+      ],
+      "label": "Batch P · original analytical extension",
+      "sequence": 15
+    }
+  ]
+}

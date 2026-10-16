@@ -1,0 +1,74 @@
+{
+  "id": "I.2.7",
+  "title": "Mobility, Camps, Caves, and Settlement Patterns",
+  "kicker": "PALEOLITHIC KOREA",
+  "description": "Evidence-conscious history of mobility, camps, caves, and settlement patterns, with archaeological limits and regional variation.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; selected institutional context, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Permanent Exhibition — Paleolithic Period",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do",
+      "role": "Museum interpretation of Korean Paleolithic tools and archaeological evidence"
+    },
+    {
+      "institution": "Korea Citation Index",
+      "title": "단양 수양개 유적에서 좀돌날문화의 출현",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002662842",
+      "role": "Published sequence analysis of Suyanggae Upper Paleolithic lithic industries"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.2.7:b01",
+      "title": "Movement through a changing terrain",
+      "paragraphs": [
+        "Paleolithic settlement is not a map of permanent villages. People could occupy one location briefly, return to another repeatedly, and use routes that connected food, water, stone, and shelter. What excavators call a site might be the place where a tool was repaired rather than where anyone slept. A landscape approach asks how many kinds of location were linked by movement and whether the timing of those movements changed with seasons or climate. Even this language must remain conditional because a scatter of artifacts does not record a complete itinerary.",
+        "The peninsula offered contrasting possibilities: river corridors, coastal lowlands, foothills, highland passages, and sheltered places where sediments accumulated. Some present-day valleys were more open or colder during the Pleistocene. Changes in sea level could expose plains now underwater. Reconstructing movement therefore requires paleogeography; measuring distances on a modern road map would be anachronistic. The study of mobility takes geography seriously as a changing set of constraints and opportunities rather than as fixed scenery."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 1
+    },
+    {
+      "id": "I.2.7:b02",
+      "title": "An open-air scatter and its hidden duration",
+      "paragraphs": [
+        "A concentration of flakes on a river terrace can result from a short technical episode or from many visits spanning enormous intervals. If the sediments are disturbed, different occupations may have mixed. Refitted flakes, discrete hearth areas, associated fauna, and identifiable surfaces can sometimes help separate events, but most sites preserve only portions of such information. An excavation plan provides a spatial record, not automatically a floor plan of a dwelling.",
+        "The temptation to depict a ring of family tents around every group of stone tools is especially strong in educational illustrations. Such reconstructions can be useful demonstrations if their hypothetical character is explicit. They become misleading when viewers cannot distinguish excavated remains from design choices. A careful reader should ask what traces of shelter would actually survive, whether postholes or preserved coverings were observed, and what alternative explanations exist for the distribution of finds."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 2
+    },
+    {
+      "id": "I.2.7:b03",
+      "title": "Caves and shelters as selective archives",
+      "paragraphs": [
+        "Caves may protect sediments and organic remains from weathering, but they are not transparent records of human habitation. Animals used caves, natural processes deposited material, and human visits could be separated by very long periods. The sequence inside one entrance can differ from that beneath another. Excavators study stratigraphy, bones, microdebris, charcoal, and the history of disturbance to determine what each layer can support.",
+        "A cave with bones and tools does not necessarily represent permanent occupation or a complete social group. It may have been used for short refuge, particular tasks, or repeated visits. The cave's strong archaeological visibility can skew the broader picture: open-air activities were probably numerous but often leave fewer protected traces. Regional settlement history must therefore avoid equating the best-preserved sites with the most important places in past human lives."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 3
+    },
+    {
+      "id": "I.2.7:b04",
+      "title": "Transport, repair, and decisions made elsewhere",
+      "paragraphs": [
+        "The objects at a site can illuminate actions that happened beyond it. Raw materials carried from a distant source suggest movement or exchange, but a single exotic stone cannot identify the exact route or whether the carrier was its original maker. A carefully maintained implement discarded after long use may preserve several stages of a journey, while fresh production waste may mark a place chosen because stone was readily available.",
+        "Technological analysis can distinguish preparation, use, maintenance, and discard when the sequences survive. In combination with raw-material sourcing it may identify complementary places in one activity system. But absence remains difficult to interpret. People could leave no durable trace at a drinking place, for instance, while a brief episode of toolmaking produces hundreds of flakes. The archaeological density of a site is not a direct measure of its population or emotional importance."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 4
+    },
+    {
+      "id": "I.2.7:b05",
+      "title": "Mobility without anachronistic borders",
+      "paragraphs": [
+        "Paleolithic people moved through landscapes long before modern provinces, ethnic categories, or international boundaries existed. Connections with continental Northeast Asia should be explored through chronology, geology, lithic patterns, and other converging evidence. They should not be narrated as a prehistoric version of later national migration. The region that is today Korea belonged to broader environmental and human networks, although the precise shape of those networks changed over time.",
+        "Many narratives end with a picture of settled agriculture as though mobile life were a failed prelude to it. Mobile strategies can be highly adaptive where resources vary seasonally. Different patterns of staying and moving are responses to opportunities, risks, and learned knowledge, not rungs on a moral ladder. The historical question is how people organized life in particular changing settings, not why they had not yet become later farmers."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 5
+    }
+  ]
+}

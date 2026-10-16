@@ -30,6 +30,86 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "I.2.2:b04",
+      "title": "What an earliest date actually measures",
+      "paragraphs": [
+        "An archaeological date may refer to mineral grains last exposed to light, organic matter that once lived, a geological event, or a sedimentary horizon that accumulated over time. These are not interchangeable measurements. If a stone tool is found within a dated layer, the relationship between artifact and deposit must be established before the number is treated as the age of human action. An artifact may have been deposited after the sediment first formed, moved by erosion, or buried under a layer whose date provides only a limit.",
+        "Chronological language should distinguish estimates, ranges, and confidence from definitive calendar points. A statement such as 'people were present by this date' can be stronger than a statement identifying the absolute earliest arrival. The latter would require evidence not only for presence at one moment but for absence before it across a vast and incompletely excavated region. The earliest secure evidence is not necessarily the earliest occupation. It is simply the earliest occupation that can presently be demonstrated with appropriate methods."
+      ],
+      "label": "Batch P · original evidence-sensitive continuation",
+      "sequence": 4
+    },
+    {
+      "id": "I.2.2:b05",
+      "title": "Luminescence and the history of grains",
+      "paragraphs": [
+        "Optically stimulated luminescence and related methods can estimate when particular mineral grains were last exposed to sufficient light before burial. The result depends upon the physical history of the grains and the conditions in which they accumulated. If exposure was incomplete, or sediments were mixed, the measurement may require careful modeling and qualifications. The technique dates a sedimentary event rather than the manufacture of an adjacent artifact directly.",
+        "A chronicle written thousands of years later cannot repair this uncertainty. The Paleolithic has no contemporary court records; the evidential problem is geological and archaeological. Multiple samples from a sequence, independent stratigraphic observations, and different methods where appropriate are more useful than a single headline number. Histories that quote laboratory dates without identifying the dated material often encourage a false impression of precision, especially when a broad range is compressed into a neat century or millennium."
+      ],
+      "label": "Batch P · original evidence-sensitive continuation",
+      "sequence": 5
+    },
+    {
+      "id": "I.2.2:b06",
+      "title": "Radiocarbon and the limits of its range",
+      "paragraphs": [
+        "Radiocarbon dating is useful where appropriate organic material has survived and the sample falls within the method's effective chronological range. Charcoal associated with an archaeological feature may be informative, but it must be evaluated for contamination, redeposition, and whether it genuinely belongs to the activity under discussion. A piece of old wood burned in a later event illustrates how the age of material and the time of use can diverge.",
+        "For much deeper archaeological horizons other approaches become necessary. The apparent confidence of an exact date in a popular account often hides a chain of assumptions about sample selection, calibration, and association. The responsible historian can explain these uncertainties in ordinary language without recreating a laboratory manual. What matters is that a number is always an inference from a material process, not a timestamp written by a prehistoric inhabitant."
+      ],
+      "label": "Batch P · original evidence-sensitive continuation",
+      "sequence": 6
+    },
+    {
+      "id": "I.2.2:b07",
+      "title": "Typology is not a clock",
+      "paragraphs": [
+        "Archaeologists compare tools by manufacture, form, and technological organization. Such comparisons help identify recurring practices and sometimes support relative chronology when securely dated sequences exist. But technological styles overlap in time and can arise in different places for different reasons. A handaxe need not be older than every flake technology, and a microblade cannot be assigned to a precise year solely because it resembles an object from another region.",
+        "Typological reasoning is strongest when it is integrated with context. A secure stratified sequence can reveal that one set of practices precedes another at a particular site. It does not follow automatically that every group throughout the peninsula underwent the same sequence simultaneously. A tool-type diagram is a useful aid to comparison, but it should not substitute for actual dating and evidence of site formation. This distinction is essential when early occupation claims become politically charged."
+      ],
+      "label": "Batch P · original evidence-sensitive continuation",
+      "sequence": 7
+    },
+    {
+      "id": "I.2.2:b08",
+      "title": "The difference between a site and a regional population",
+      "paragraphs": [
+        "One repeatedly occupied location may contain many artifacts but tells us little by itself about population size. An activity that produces large quantities of waste can leave a richer record than an equally important activity relying on wood or fiber. Erosion, modern construction, and uneven archaeological survey further shape site distributions. More dots on a map can mean more ancient people, more durable deposits, or simply more excavation.",
+        "Demographic histories must take these biases seriously. Inferring the size or continuity of a population from a count of known archaeological sites can be misleading unless survey intensity, preservation, chronology, and settlement functions are considered. The modern administrative boundary that determines where excavations are funded is also unrelated to the territory through which Paleolithic populations could move. Regional history is best framed in ecological and archaeological zones rather than later national units."
+      ],
+      "label": "Batch P · original evidence-sensitive continuation",
+      "sequence": 8
+    },
+    {
+      "id": "I.2.2:b09",
+      "title": "Why early discovery claims can be disputed",
+      "paragraphs": [
+        "Debate may arise because an object could be naturally fractured, because sediment was disturbed, or because a dating result has multiple interpretations. Each possibility concerns a different part of the evidential argument. Some disagreements can be resolved by additional excavation or reanalysis; others persist because key context was destroyed before modern recording standards existed. This is not the same as saying every proposed date deserves equal weight. Claims supported by stratigraphy, replicated dates, and clear human manufacture are stronger than isolated finds with uncertain provenance.",
+        "Public presentation can intensify disputes when archaeological claims become symbols of national antiquity. A very early date may be celebrated as proof of exceptional civilizational depth, but the age of a stone industry does not establish the later existence of a nation, language, or state. A history of the field should identify the sources of disagreement and describe the strongest available evidence without rewarding the most dramatic interpretation simply because it is memorable."
+      ],
+      "label": "Batch P · original evidence-sensitive continuation",
+      "sequence": 9
+    },
+    {
+      "id": "I.2.2:b10",
+      "title": "A chronology with overlapping practices",
+      "paragraphs": [
+        "The terms Early, Middle, and Upper Paleolithic help organize material across long time spans, but their local applicability is debated. In some regions the tools associated with a named stage appear together with techniques elsewhere treated as belonging to another. This could reflect technological persistence, functional variation, mixed deposits, or different regional chronologies. The problem is not solved by forcing every assemblage into a familiar European sequence.",
+        "An analytical timeline should therefore show both broad climatic context and the dating of specific occupations, with uncertainty represented openly. Transitions often describe changes in frequency or organization of technologies rather than sudden replacement. At one location a method may decline while another persists elsewhere. The Korean Paleolithic becomes more intelligible when understood as a mosaic of local practices rather than a uniform ladder of inventions."
+      ],
+      "label": "Batch P · original evidence-sensitive continuation",
+      "sequence": 10
+    },
+    {
+      "id": "I.2.2:b11",
+      "title": "How to read an excavation report critically",
+      "paragraphs": [
+        "A published excavation includes more than an interpretation of tools. Its maps show where objects came from; its stratigraphic profiles describe the relation among layers; its catalog reveals how finds were classified; and its sampling methods indicate what might have been missed. Readers should ask whether the dates refer to the layers that actually contained artifacts, whether alternative geological explanations were considered, and whether later researchers have independently examined the assemblage.",
+        "The history of prehistoric research is also shaped by institutions. University teams, museums, public archaeology, construction-related rescue excavation, and local heritage projects differ in resources and aims. Their findings may be valuable for different reasons, but broad claims require the same discipline of provenance and publication. Rather than seeking a single authoritative discovery, the best account follows how many partial observations were integrated, criticized, and sometimes revised into the chronology currently accepted."
+      ],
+      "label": "Batch P · original evidence-sensitive continuation",
+      "sequence": 11
     }
   ],
   "release": "C"

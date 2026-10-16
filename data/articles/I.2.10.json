@@ -1,0 +1,74 @@
+{
+  "id": "I.2.10",
+  "title": "The End of the Paleolithic World",
+  "kicker": "PALEOLITHIC KOREA",
+  "description": "Evidence-conscious history of the end of the paleolithic world, with archaeological limits and regional variation.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; selected institutional context, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Permanent Exhibition — Paleolithic Period",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do",
+      "role": "Museum interpretation of Korean Paleolithic tools and archaeological evidence"
+    },
+    {
+      "institution": "Korea Citation Index",
+      "title": "단양 수양개 유적에서 좀돌날문화의 출현",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002662842",
+      "role": "Published sequence analysis of Suyanggae Upper Paleolithic lithic industries"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.2.10:b01",
+      "title": "A transition, not a sudden disappearance",
+      "paragraphs": [
+        "Archaeological periods are analytical tools, not dates when every community received a new way of living. The end of the Paleolithic in Korea is best approached as a long transition across changing environments, technologies, and subsistence arrangements. Late stone-working practices did not vanish on one morning, and pottery or more persistent settlements did not arrive everywhere simultaneously. Researchers distinguish changing assemblages and places of occupation, but the boundaries depend on chronology and regional evidence.",
+        "It is useful to imagine the end of the Paleolithic not as the extinction of old knowledge but as a period when different practices coexisted. Stone blades might remain useful even where other tools became common. Hunting and gathering could continue alongside increasing cultivation or more structured resource management in much later contexts. The change should not be narrated as a moral upgrade from wandering to civilization; it was a historical reorganization with differing local pathways."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 1
+    },
+    {
+      "id": "I.2.10:b02",
+      "title": "Postglacial landscapes and the rising sea",
+      "paragraphs": [
+        "Warming after the Last Glacial Maximum changed vegetation, animal habitats, seasonal opportunities, and coastlines. Rising sea levels transformed coastal lowlands and inundated areas that earlier populations may have used. Those physical changes affected possible routes and the environments that now preserve evidence. They also make the later archaeological record difficult to connect seamlessly with older sites: some relevant places may be underwater or eroded.",
+        "Environmental change alone cannot explain the appearance of later lifeways. Human communities responded within inherited technical and social possibilities. Decisions about where to return, how much equipment to carry, or how to use aquatic and plant resources were not predetermined by temperature. Archaeological comparisons must align the dates of changing environments and changing behavior before proposing causation. Otherwise the climate becomes a convenient explanation for every difference in the record."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 2
+    },
+    {
+      "id": "I.2.10:b03",
+      "title": "Persistent techniques and new combinations",
+      "paragraphs": [
+        "The late Paleolithic tool repertoire included ways of producing small blades and other adaptable cutting edges. Some principles of composite technology remained viable as environments changed. Later stone industries may share traits with earlier ones, but resemblance alone does not prove that every community belonged to an unbroken tradition. Manufacturing sequences, raw material, chronology, and spatial relationships must be compared before claims of continuity are made.",
+        "The arrival of pottery in later archaeological contexts can attract disproportionate attention because pottery fragments survive well and are readily classifiable. Yet new containers are only one element in a wider material world that included organic objects rarely recovered. A community's economic and social practices cannot be read from one decorated sherd. The later Neolithic/Chulmun narrative belongs primarily to Chapter I.3; this unit only identifies the transition and why its timing and mechanisms are debated."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 3
+    },
+    {
+      "id": "I.2.10:b04",
+      "title": "What becomes visible, what remains unknown",
+      "paragraphs": [
+        "The shift from one archaeological period to another does not grant historians sudden access to ordinary voices. Many decisions about cooperation, mobility, knowledge, childcare, and ritual remain beyond direct observation. More varied materials and some more persistent activity areas may expand the kinds of questions that can be asked, but evidence must still be tied to particular deposits.",
+        "Models that imagine a single invading population replacing all Paleolithic inhabitants need independent support. So do models of seamless continuity. Artifacts, physical anthropology, and ancient genetic evidence, where available and suitable, answer different questions and should not be fused into an automatic ethnic narrative. The inhabitants of prehistoric Korea did not leave testimony declaring themselves the ancestors of a modern nation. The historical discipline is to consider competing models without making any one a civic myth."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 4
+    },
+    {
+      "id": "I.2.10:b05",
+      "title": "The threshold of the next archaeological world",
+      "paragraphs": [
+        "An ending chapter should explain what changed without retelling the history owned by the next one. The emergence of later pottery traditions, changing settlement patterns, and new resource strategies provide the horizon against which Paleolithic lifeways can be compared. The details of Neolithic communities, their craft, exchange, subsistence, and burial customs require independent treatment.",
+        "In the broadest sense the end of the Paleolithic is a change in what archaeologists can see and how they organize it, not the conclusion of human adaptation. The same land continued to be lived in under changing conditions, but the identity and relationships of successive populations remain research questions. A history that resists artificial beginnings and endings can present archaeological transitions as open processes, avoiding both the fantasy of uninterrupted national ancestry and the opposite fantasy that every technical change required complete population replacement."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 5
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I.2.4",
+  "title": "Middle Paleolithic Communities",
+  "kicker": "PALEOLITHIC KOREA",
+  "description": "Original archaeological and social history of middle paleolithic communities, with explicit evidence limits.",
+  "release": "P",
+  "sourceStatus": "Original editorial synthesis; selected institutional and archaeological sources, not independently peer reviewed",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "A Handaxe that Changed the Understanding of Paleolithic Culture",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do",
+      "role": "Museum object interpretation, especially Jeongok-ri handaxe; museum narrative is a synthesis rather than excavation stratigraphy"
+    },
+    {
+      "institution": "Korea Citation Index",
+      "title": "단양 수양개 유적에서 좀돌날문화의 출현",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002662842",
+      "role": "Published archaeology abstract on Upper Paleolithic Suyanggae stratigraphy and microblade technologies"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.2.4:b01",
+      "title": "A period defined by comparison",
+      "paragraphs": [
+        "The term Middle Paleolithic is useful for organizing long sequences of stone technology, but its boundaries are not uniform across Eurasia. In European archaeology it is associated with particular industries and histories of Neanderthal populations. Those associations should not simply be imported into the Korean peninsula. Local dating, technological analysis, and sediment sequences must establish which patterns can be recognized in Northeast Asia. The label can help a reader follow changing practices, yet it must remain a research category rather than the name of a community that identified itself as Middle Paleolithic.",
+        "Scholars sometimes differ on whether a change in tools marks a chronological stage, a regional technical tradition, or a response to raw material. An assemblage may contain large cutting tools alongside smaller flakes without being a confused mixture. Different objects solve different problems. Excavations that preserve repeated horizons can test whether proportions and methods changed over time, but disturbed deposits make the same comparison hazardous. Histories should therefore describe their evidence rather than assign an assumed century or humanity to every artifact category."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 1
+    },
+    {
+      "id": "I.2.4:b02",
+      "title": "Choosing stone, planning removal",
+      "paragraphs": [
+        "Making a useful flake could involve far more planning than a simple hammer strike. The angle of a platform, the convexity of the core, and the direction of previous removals affected whether the next blow would release a suitable piece. Prepared-core strategies, when demonstrable, show attention to the anticipated geometry of the result. But a single flake cannot always prove the existence of a standardized system; similar scars can arise through different sequences. Analysts need core–flake comparisons, experimental work, and collections large enough to distinguish patterns from coincidence.",
+        "Transport decisions are part of this technical history. An individual moving through a landscape might carry a durable implement, selected blanks, or a partly exhausted core. The archaeological site then contains only what was abandoned there. If a location lacks a certain tool, it does not follow that its occupants lacked the skill to make it. The equipment they carried away is missing from the excavator's sample. This simple observation guards against treating artifact frequency as a direct measure of cognitive ability."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 2
+    },
+    {
+      "id": "I.2.4:b03",
+      "title": "Activity areas and the difficulty of finding households",
+      "paragraphs": [
+        "A scatter of flakes may record one episode of work or repeated activity over generations. Even where the technical material is abundant, hearths, bedding, dwellings, and food residues may be poorly preserved. Archaeologists attempt to identify activity areas through concentrations of debris, spatial relationships, burnt surfaces, and the distribution of wear or residue. Each method has limits: later soil processes can move small objects, animals can disturb layers, and fire can arise from nonhuman causes.",
+        "This does not make social reconstruction impossible. Repeatedly occupied locations indicate that landscapes offered resources or travel advantages worth returning to. Variations in the sizes of workable stones, discarded fragments, and tool maintenance may point toward distinct activities. Yet a cave or rock shelter should not automatically be described as a permanent home, nor an open-air scatter as a temporary camp. Human groups could shift activity among connected places, leaving pieces of one mobility system at sites now excavated separately."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 3
+    },
+    {
+      "id": "I.2.4:b04",
+      "title": "Bodies, work, and cooperation",
+      "paragraphs": [
+        "A substantial stone tool could assist with cutting, scraping, and breaking materials, but work was rarely a purely individual undertaking. Procuring food, maintaining access to water, guarding against weather, and transmitting knowledge often involve some level of cooperation in mobile human societies. Archaeological traces can make collective activity plausible without revealing the social rules that organized it. It would be unwarranted to assign a particular gender division of labor, family structure, or ritual to inhabitants of the peninsula solely from generic analogies with recent foragers.",
+        "The difficulty also exposes an ethical problem in older accounts of prehistory. Descriptions centered almost entirely on male hunters obscure gathering, tool preparation, care, and the everyday work of sustaining a group. To restore those subjects, historians should ask what tasks must have been performed and which would leave recognizable traces, while avoiding invented scenes or modern stereotypes. The absence of gender-specific tools does not prove that labor was undifferentiated, just as modern categories cannot be imposed on populations without direct evidence."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 4
+    },
+    {
+      "id": "I.2.4:b05",
+      "title": "Cross-regional comparisons without migration legends",
+      "paragraphs": [
+        "Stone-working similarities between the peninsula, northeast China, and neighboring regions may result from movement of populations, exchange of techniques, similar raw materials, or independent responses to common problems. Such possibilities do not carry equal evidential weight in every case. A strong migration argument requires converging chronological, spatial, technological, and preferably biological or other contextual evidence. Artifacts are not passports that reveal a maker's ethnicity.",
+        "Middle Paleolithic research will continue to change as laboratories refine dating and archaeologists revisit stored collections. Reinterpretation is not a failure of the field; it is part of a discipline in which source conditions are unusually difficult. The responsible narrative is not that a fixed population occupied a fixed territory in an unbroken line. It is that changing human groups used and revisited a complex region whose surviving records allow partial and often conditional reconstruction."
+      ],
+      "label": "Editorial synthesis · evidence-sensitive",
+      "sequence": 5
+    }
+  ]
+}

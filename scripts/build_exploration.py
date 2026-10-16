@@ -29,6 +29,8 @@ collections=[
  ('goryeo-foundation-complete','Goryeo: the full founding and consolidation Chapter','Ten connected studies show how royal marriages, uncertain succession, reforms, land revenue, provincial administration and court memory shaped a dynasty after 936.','Ten connected readings',[f'V.1.{i}' for i in range(1,11)]),
  ('goryeo-religion-complete','Goryeo: religion and the many worlds of belief','Ten linked histories of kingship, monastic work, learning, rites, lay devotion, and the meeting of Buddhist and Confucian practice.','Ten connected readings',[f'V.5.{i}' for i in range(1,11)]),
  ('independence-movements-complete','Korean independence: movements and contested strategies','Ten linked histories of 1919 republicanism, borderland armed movements, cultural and class politics, students, and wartime resistance.','Ten connected readings',[f'VIII.9.{i}' for i in range(1,11)]),
+ ('paleolithic-korea-complete','Paleolithic Korea: archaeological evidence and human adaptation','Ten connected subjects study early sites, dating uncertainty, technologies, subsistence, mobility, cooperation, Ice Age habitats and the transition to later lifeways.','Ten connected readings',[f'I.2.{i}' for i in range(1,11)]),
+ ('contemporary-korean-economy-complete','South Korea: the contemporary economy','Ten connected subjects trace opening, the 1997 crisis, corporate restructuring, labor, technology, 2008, industrial networks, housing, platforms and the growth-model debate.','Ten connected readings',[f'X.2.{i}' for i in range(1,11)]),
  ('ideas-and-expression','Ideas and expression','Foundation stories, learning, writing, reform, and cultural influence.','Cultural history',['II.1.2','IV.2.2','V.1.5','VI.4.2','VIII.1.5','X.5.10']),
 ]
 trails=[]
