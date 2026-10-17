@@ -1,0 +1,112 @@
+{
+  "id": "III.4.10",
+  "title": "The Decline and Annexation of the Gaya Polities",
+  "kicker": "GAYA · SOUTHERN KINGDOMS AND NETWORKS",
+  "description": "Original source-critical history of the decline and annexation of the gaya polities, with archaeological and textual distinctions.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis with selective museums, academy and UNESCO evidence; written political traditions and individual grave interpretations are qualified.",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gaya Tumuli: Outstanding Universal Value",
+      "url": "https://whc.unesco.org/en/list/1666",
+      "role": "Seven independently developed Gaya elite cemeteries, regional polity distinctions, tomb structures and deposition"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy: Gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Iron, metallurgy, pottery, mounted equipment and burial assemblages"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000257",
+      "role": "Diverse polities, transmarine claims and chronology of conquest"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daegaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013970",
+      "role": "Terminological differences, diplomatic interpretations and conquest in 562"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.4.10:b01",
+      "title": "Two falls separated by three decades",
+      "paragraphs": [
+        "The surrender of Geumgwan Gaya to Silla in 532 and the conquest of Daegaya in 562 were separate political outcomes affecting different leading centres. Later traditions sometimes confuse the dates because names such as Gaya, Gara and Daegaya were not consistently attached to the same polity. The Academy of Korean Studies explicitly distinguishes the two events in its discussion of Daegaya.",
+        "This distinction matters for the history of communities between Gimhae and Goryeong. The loss of one royal line did not extinguish all Gaya political organization. Other centres continued to maintain powerful burials and diplomatic relations. Treating 532 as the fall of the entire confederacy or 562 as the destruction of every pre-existing local institution would distort the chronological evidence."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "UNESCO recognizes seven distinctive Gaya cemetery landscapes demonstrating shared practices and autonomous centres, while Korean reference histories distinguish the 532 and 562 conquests.",
+          "sourceIndex": 0,
+          "locator": "Gaya Tumuli UNESCO OUV: seven cemeteries, regional difference, shared cultural forms",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.10:b02",
+      "title": "The expanding power of Silla",
+      "paragraphs": [
+        "Silla's sixth-century rulers consolidated military and administrative capacities while competing with Baekje and northern powers. Expansion toward Gaya territory involved control over productive lands, routes and neighbouring elites. The conquest was not simply a symbolic assertion of royal superiority. It potentially changed who could raise soldiers, receive tribute and decide the legal status of local households.",
+        "Sources identify figures such as Isabu and Sadaham in the 562 campaign, but their accounts are shaped by Silla-centred narratives preserved later in the Samguk Sagi. Detailed troop figures or moral judgments in such passages deserve scrutiny. Military power was real, yet its relationship to local surrender, negotiation and subsequent integration requires a different evidentiary approach from the narration of battle."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "UNESCO recognizes seven distinctive Gaya cemetery landscapes demonstrating shared practices and autonomous centres, while Korean reference histories distinguish the 532 and 562 conquests.",
+          "sourceIndex": 2,
+          "locator": "한국민족문화대백과사전 가야, 532/562 dates and southern diplomacy",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.10:b03",
+      "title": "The end of Daegaya and the fate of the elite",
+      "paragraphs": [
+        "In 562 the Goryeong-centred court was defeated and annexed. The disappearance of its independent monarchy did not mean that the entire population was killed or relocated. Elite families, craftsmen and farmers could continue their lives under new political obligations, although specific conditions and episodes varied.",
+        "Some families may have retained privilege through service to Silla, while others lost resources or faced disruption. Burial changes following annexation can indicate shifting elite expression but cannot reveal every household's choices. The state expanded through the absorption of people with existing skills and networks, and Gaya traditions contributed to later Silla society. Incorporation was a social process after it was a military fact."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.10:b04",
+      "title": "Iron was not an automatic shield",
+      "paragraphs": [
+        "Gaya's strong association with iron weapons and armour raises an apparent paradox: why did powerful metal-producing polities lose to Silla? The answer cannot be that possession of advanced weapons guarantees strategic superiority. States require coordinated leadership, supply, allies, command structures and the capacity to survive prolonged pressure.",
+        "Gaya's political plurality may have limited collective action, but the claim must not be made into a universal law that all its leaders refused cooperation. They did sometimes forge alliances, and some centres remained powerful for centuries. Silla's growth and the shifting diplomatic choices of surrounding courts were also consequential. A historically responsible explanation combines changing relative power with region-specific political decisions instead of treating one metallurgical advantage as a promise of survival."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.10:b05",
+      "title": "Different local histories of incorporation",
+      "paragraphs": [
+        "The annexation of the main centres did not happen uniformly. Gimhae's accommodation in 532 followed a different path from Goryeong's military defeat in 562. Other communities faced particular arrangements shaped by their location, elites and relations with neighbouring states. The surviving sources do not supply an identical administrative history for every site.",
+        "Archaeologists can investigate settlement continuity and changing burial customs, but a reduction in elite grave goods does not prove the people abandoned a region. An alteration in pottery style can reflect exchange or new status practices rather than forced ethnic replacement. These distinctions matter because conquest can transform authority more quickly than material culture or social ties."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.10:b06",
+      "title": "A legacy not reducible to defeat",
+      "paragraphs": [
+        "Gaya contributed ironworking, craft traditions, regional communities and elite lineages to the history of the larger southern peninsula. Its cemeteries, now recognized in a serial UNESCO World Heritage inscription, attest to an unusually plural political system during centuries when neighbouring kingdoms centralized more strongly.",
+        "The historical significance of Gaya does not require imagining it as a failed attempt to become one unified nation. Its longevity and connections show a different pattern of state formation and coalition politics. The final outcomes of 532 and 562 are vital dates, but they should not determine the interpretation of every preceding century. The story is one of autonomous centres, shared practices, changing alliances and eventual incorporation into an expanding Silla political order."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}
