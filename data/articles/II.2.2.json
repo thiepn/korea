@@ -1,0 +1,112 @@
+{
+  "id": "II.2.2",
+  "title": "The Overthrow of Jun and the Establishment of Wiman Joseon",
+  "kicker": "GOJOSEON · SECOND CENTURY BCE",
+  "description": "Evidence-conscious reconstruction of the overthrow of jun and the establishment of wiman joseon, distinguishing the Shiji narrative from disputed historical geography.",
+  "release": "T",
+  "sourceStatus": "Original historical synthesis with selective Korean institutional references; transmitted Chinese court histories are perspective-bound primary texts.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Growth and Decline of Gojoseon, annotated Shiji 115",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0050",
+      "role": "Primary Shiji Choson liezhuan in Korean translation and source criticism"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Wiman Joseon and Ancient States",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_003_0030_0010_0010_0030",
+      "role": "Secondary account of Wiman's ascent, settlement and disputed political composition"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Commanderies after Wiman Joseon",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0080",
+      "role": "Han expansion, Canghai failure and 108 BCE aftermath"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Exchange and Han Influence",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_008_0030_0010_0020",
+      "role": "Long-distance exchange, material distribution and limits of interpreting finds"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.2.2:b01",
+      "title": "An outsider enters an established political order",
+      "paragraphs": [
+        "The narrative of Wiman's accession begins with a receiving kingdom, not with empty land. The ruler Jun, associated in later sources with Gojoseon, already exercised authority over a frontier region in which contact with Yan and other northern states had shaped politics. In the turmoil following the Qin–Han transition, Wiman is said to have led a group eastward, requested permission to guard the frontier and obtained a position from Jun. The precise number of followers is a literary report rather than an independent census.",
+        "The story matters because early states often made use of skilled migrants, armed clients and external information. A newly arrived commander might provide intelligence about unstable continental politics and offer defence against raids. The same people could establish obligations of personal loyalty that did not run through existing elite households. None of this establishes that every migrant joined Wiman's conspiracy or that the political relationship was doomed from the beginning. The source presents a succession crisis; historians must reconstruct the wider conditions without inventing lost negotiations."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The transmitted Shiji Gojoseon chapter records royal succession, diplomacy and the political relations of frontier communities.",
+          "sourceIndex": 0,
+          "locator": "『史記』卷115 朝鮮列傳; 사료로 본 한국사 고조선 발전과 멸망",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.2:b02",
+      "title": "The collapse of trust and the overthrow",
+      "paragraphs": [
+        "According to the transmitted narrative, Wiman eventually advanced against Jun and replaced him as ruler. The account associates his move with a warning about external danger, which may have enabled armed followers to approach the seat of government. Such details derive from later historical writing and could have been shaped by conventions about betrayal and cunning. They do not give access to the precise motives or conversations of the principals.",
+        "The overthrow should be distinguished from complete transformation of society. The royal centre and its relations with dependent communities could have been reorganized without every village changing its economic practices. A change in who commanded soldiers, controlled diplomatic channels and distributed prestige could nevertheless be decisive. Gojoseon's existing institutional and commercial relationships provided the resources a successor needed. It was a transfer of political power within a continuing regional setting rather than the creation of population and territory out of nothing."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The transmitted Shiji Gojoseon chapter records royal succession, diplomacy and the political relations of frontier communities.",
+          "sourceIndex": 1,
+          "locator": "우리역사넷 초기국가 위만조선 사회 및 정치 구조",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.2:b03",
+      "title": "Where the displaced ruler went",
+      "paragraphs": [
+        "Later accounts place Jun's flight toward the southern part of the peninsula, sometimes connecting his descendants or court to traditions about Han polities. These traditions are difficult to use as simple itineraries. The chronology, locations and genealogical claims were transmitted in texts with different interests; an individual journey cannot be treated as proof that an organized state apparatus was transplanted intact.",
+        "It is important to keep Jun's story visible because defeated elites often continued to negotiate their future elsewhere. Yet the subject belongs to a larger study of the southern communities, which were not passive destinations awaiting a northern court. Archaeological material may show exchanges between northern and southern regions, but cannot usually identify the migration of one person named in an account. A cautious conclusion recognizes both the significance and the evidentiary limits of the reported flight."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.2:b04",
+      "title": "A new royal house in a familiar landscape",
+      "paragraphs": [
+        "Wiman's regime inherited routes connecting the lower river valleys, Liaodong and communities farther south and east. Control over a capital did not guarantee identical control over every tributary or allied polity. The new court had to secure strategic corridors and cultivate local leaders who knew how to mobilize goods and people. The possibility of cooperation between migrants and existing elites is therefore fundamental to explaining stability.",
+        "Some modern descriptions use a rigid ethnic formula of Chinese settlers ruling Korean natives. This is stronger than the evidence allows. The political identity of migrants from the Yan borderlands, the ancestry of local households and the cultural practices of elites cannot be reduced to two fixed nationalities. The category Joseon persisted through the dynastic change, suggesting continuity in political designation even as the composition of leadership shifted. The question is how a new dynasty made an existing kingdom operate for its purposes."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.2:b05",
+      "title": "The problem of naming a founding date",
+      "paragraphs": [
+        "The establishment of Wiman's rule is conventionally placed around 194 BCE, though the historical texts often anchor events by reference to broader Han reign periods rather than a modern chronological precision. The usefulness of the conventional date should not obscure the reconstruction involved. A narrative that calls every event exact to the day risks converting the uncertainty of early sources into unwarranted confidence.",
+        "A history of the early second century BCE needs to synchronize the fall of Qin, early Han consolidation, the condition of Yan frontier elites and the political landscape east of Liaodong. That work demonstrates why armed followers could move and seek new patrons. It does not authorize confident descriptions of palace architecture, administrative uniforms or institutions for which the direct record is missing. Material evidence can narrow some questions, but named political episodes remain principally textual."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.2:b06",
+      "title": "What dynastic succession actually explains",
+      "paragraphs": [
+        "The rise of Wiman changed the diplomatic position of Gojoseon because a leader with northwestern connections controlled a gateway between the Han world and northeastern communities. Later Han relations would combine recognition, military calculation and conflict over access. These developments should not be projected backwards as Wiman's original plan. The immediate problem was to establish and sustain a contested monarchy.",
+        "A balanced interpretation draws together political continuity and transformation. The throne changed hands and the new regime developed influence; neither claim requires that populations were simply replaced. The transmitted record preserves a dramatic royal event but leaves ordinary households nearly silent. This chapter therefore treats the overthrow as evidence of frontier power and elite competition while reserving detailed trade mediation and the later Han war for their own designated histories."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    }
+  ]
+}
