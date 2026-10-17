@@ -30,6 +30,86 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "VIII.4.6:b04",
+      "title": "The distance between a project and a working system",
+      "paragraphs": [
+        "The Korean Empire's infrastructure initiatives included transport, communications and urban services that promised to change relations between people and places. A technological project involved more than acquiring machinery: engineers needed trained operators, repairs, a reliable supply of materials and rules governing use. A ceremonial opening may identify a milestone without proving that an installation functioned continuously.",
+        "The historian should distinguish a concession, a contract, the construction of a facility and actual public access. Governments and firms had different incentives to emphasize projected benefits. Contemporary advertisements could celebrate a service before it reached many households, while official reports might present a budget allocation as an achievement. Studying the practical network prevents both exaggerated praise and retrospective dismissal of real work."
+      ],
+      "sequence": 4,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "VIII.4.6:b05",
+      "title": "Railroads and strategic control",
+      "paragraphs": [
+        "Railway construction required financing, land, bridges and long-term management. A completed route could support internal commerce and faster travel, yet the owner of the line or the government controlling it also gained strategic advantages. Foreign companies and states sought railway concessions partly because railroads could move soldiers and supplies.",
+        "The existence of a railway on Korean territory did not automatically mean the Korean government controlled its use. The particular legal terms, route, date and operating authority mattered. Domestic entrepreneurs might benefit from new connections even as imperial interests used the same line for military purposes. The history of transport thus belongs both to everyday economic change and to the geopolitical struggle over sovereignty."
+      ],
+      "sequence": 5,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "VIII.4.6:b06",
+      "title": "Electric trams and urban movement",
+      "paragraphs": [
+        "Electric tramways changed some journeys within Seoul by connecting particular streets and destinations. Their practical effects depended on route coverage, fares and reliable operation. A resident living far from a stop might continue walking or using existing forms of transport.",
+        "New systems could also cause public disputes over safety, street space and the disruption of familiar movement. Technical novelty was not experienced uniformly as improvement. Historical interpretation should combine plans and company reports with evidence of actual use and local reactions. The tramway was a significant demonstration of change, but it did not transform the daily transport of every resident in the capital."
+      ],
+      "sequence": 6,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "VIII.4.6:b07",
+      "title": "Electricity and the geography of visibility",
+      "paragraphs": [
+        "Electric lighting could make public buildings, streets or businesses appear dramatically different at night. This visibility made it useful to a state wishing to demonstrate modern capacity. Yet electrification depended on generation, distribution and payment, so its early reach was concentrated in selected spaces.",
+        "The existence of electric lamps near an imperial palace cannot be taken as evidence that rural residents or poorer urban households had equal access. Maintenance and interruptions mattered for actual utility. A careful account asks which facilities received power, who financed the system and how use expanded over time. Symbolic significance and practical reach should be measured separately."
+      ],
+      "sequence": 7,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "VIII.4.6:b08",
+      "title": "Telegraphs, telephones and the politics of information",
+      "paragraphs": [
+        "New communication systems could reduce the time needed to transmit administrative instructions or commercial news. Telegraph lines connected centres of government and business, while telephone services initially operated on a narrower scale. These technologies altered the temporal experience of distance for people who could access them.",
+        "Their strategic value also attracted foreign interest. Control over a line, switchboard or network could affect diplomatic and military communication. A statute establishing a communications office does not show the actual reliability of every connection. Historians should examine ownership, language, personnel and technical support, recognizing that the fastest available medium might remain inaccessible to the majority of households."
+      ],
+      "sequence": 8,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "VIII.4.6:b09",
+      "title": "Public financing and private concessions",
+      "paragraphs": [
+        "Some infrastructure projects involved the court or domestic officials, while others depended on private or foreign investors. Financing terms determined who bore risks and who received revenues. Foreign expertise was not inherently opposed to domestic development, but a concession could reduce the government's future ability to decide how a strategic network was used.",
+        "Officials faced difficult choices because urgent needs could exceed available revenue and trained personnel. Delaying a railway might slow trade, while accepting unfavourable contractual terms could strengthen an outside power. Historical judgments require scrutiny of actual agreements rather than judging every foreign-funded project by one abstract principle. Korea's reformers operated in a world where economic capacity and political autonomy were closely entangled."
+      ],
+      "sequence": 9,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "VIII.4.6:b10",
+      "title": "Infrastructure and unequal local benefit",
+      "paragraphs": [
+        "A new road, communications line or service could favour locations near government buildings, trade routes or foreign settlements. Households outside those corridors might see little direct improvement while still bearing taxes that supported projects. A merchant could benefit from faster communication, whereas a worker displaced by construction might experience loss.",
+        "These contrasts are part of modernization's actual social history. The presence of a technologically advanced district does not describe the economic condition of surrounding communities. Studying costs, access and geographic distribution allows a more accurate assessment than choosing between the slogans of progress and exploitation. Both material changes and unequal political arrangements can be historically true."
+      ],
+      "sequence": 10,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "VIII.4.6:b11",
+      "title": "The interruption of independent planning",
+      "paragraphs": [
+        "Korean efforts to expand infrastructure coincided with rising external strategic pressure, culminating in the Russo-Japanese War of 1904. Foreign armies and authorities increasingly sought control of routes important to military operations. Projects initiated under Korean policy could be redirected or absorbed under very different political conditions.",
+        "It is essential to distinguish the original reform intent, the terms of any signed concession and what later occupiers did with a network. Subsequent foreign control does not erase Korean technical initiative, but it changes the meaning of project outcomes. The Chapter closes with the tension between a state building modern systems and a geopolitical environment that placed their control at risk."
+      ],
+      "sequence": 11,
+      "label": "Batch V archival social and institutional extension"
     }
   ],
   "release": "C"

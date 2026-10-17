@@ -43,6 +43,86 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 4
+    },
+    {
+      "id": "V.3.1:b05",
+      "title": "A court hierarchy built from different kinds of resources",
+      "paragraphs": [
+        "Goryeo's aristocratic order combined officeholding, family reputation and material privilege, but these did not always coincide. A household might possess a prestigious ancestry without a serving minister, or a capable official might be newly promoted and lack long-established marriage connections. In practice the court awarded ranks and resources within a social world where wealthy houses possessed educational opportunities and influential relatives.",
+        "The historian should distinguish recognized status from political agency. Someone who held a title might depend on more influential patrons to exercise it, while a royal in-law could wield power not fully captured in a formal table of ranks. Status was reproduced through family institutions, but appointments and royal decisions could disrupt expectations. This is why a static pyramid gives an incomplete picture of Goryeo government."
+      ],
+      "sequence": 5,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "V.3.1:b06",
+      "title": "Civil and military service did not yield the same prestige",
+      "paragraphs": [
+        "The development of civil administration produced strong incentives to learn classical texts and serve in literary offices. Such posts received cultural recognition associated with ritual, diplomacy and the written operation of government. Military officers could perform essential tasks while contesting their access to privileges or court honours.",
+        "Tensions between these groups became highly consequential in the coup of 1170, but the conflict should not be described as every scholar facing every soldier. Individuals held mixed loyalties and the military regime continued to need literate administrators. The episode exposed how formal ranks and actual power could diverge, and how groups that regarded their service as indispensable could challenge prevailing hierarchies."
+      ],
+      "sequence": 6,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "V.3.1:b07",
+      "title": "Royal favour and the institutional limits of inheritance",
+      "paragraphs": [
+        "Family prestige mattered because relatives could educate candidates, arrange introductions and present claims to the court. But the crown retained opportunities to reward new allies, punish opponents or revise the balance among existing lineages. Some policies intended to weaken entrenched local magnates by changing control over labour and examinations.",
+        "An aristocratic society therefore did not operate entirely outside state intervention. Gwangjong's examination reforms and review of nobi status illustrate how rulers sought resources and officials beyond established networks. These initiatives generated resistance because they threatened concrete interests. Historians should analyze which rights were challenged instead of treating every reform as a struggle between abstract progress and inherited tradition."
+      ],
+      "sequence": 7,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "V.3.1:b08",
+      "title": "The meaning of a free commoner",
+      "paragraphs": [
+        "Free cultivators who supported the kingdom through taxes and service were legally distinct from people held as nobi, yet their daily freedom was constrained by material dependence. A household obliged to furnish grain, labour or military supplies could have limited flexibility even without an owner who could sell its members.",
+        "The distinction matters because hardship should not erase legal categories, while legal freedom should not obscure hardship. An indebted farmer might become vulnerable to the power of a local elite, and a village officer could control important information about obligations. Understanding commoner status therefore requires attention to resources, environmental risk and institutions through which demands were imposed."
+      ],
+      "sequence": 8,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "V.3.1:b09",
+      "title": "The changing position of provincial elites",
+      "paragraphs": [
+        "After the Later Three Kingdoms, some local powerful families entered central government, whereas others retained substantial influence through provincial service. The emergence of hyangni offices helped connect this local authority with the kingdom's administration. The roles of locally hereditary clerks could include collecting taxes, maintaining records and identifying labour obligations.",
+        "A provincial officer's prestige should not be evaluated solely through a later Joseon model of low-status clerical service. Goryeo's early political landscape and opportunities for moving toward central office differed. Some local families could seek education and marriage connections that transformed their standing, while others became more firmly bound to local tasks. Such regional variation prevents a single uniform account of elite formation."
+      ],
+      "sequence": 9,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "V.3.1:b10",
+      "title": "Religious institutions and social power",
+      "paragraphs": [
+        "Buddhist monasteries were important social and economic institutions, attracting property, donations and labour. A temple could provide education and ritual services while exercising authority over estates or dependants. Religious prestige thus intersected with inequality rather than standing outside it.",
+        "The sources often preserve the names of elite donors and celebrated monks, making their interests more visible than those of workers whose labour supported monastic projects. The presence of a generous donation cannot show how its costs were distributed. To study status comprehensively, historians must connect religious patronage to property ownership and to the communities who cultivated land or produced goods."
+      ],
+      "sequence": 10,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "V.3.1:b11",
+      "title": "A dynasty of changing hierarchies",
+      "paragraphs": [
+        "From the tenth century to the fourteenth, Goryeo experienced civil-service consolidation, military government, Mongol intervention and late dynastic reform. These phases altered pathways to influence and access to wealth. The category aristocracy remains useful only when tied to specific periods and mechanisms.",
+        "A portrait of an eleventh-century marriage network cannot simply be applied to military rulers or later powerful families with different sources of authority. Some institutions persisted, yet the people able to use them changed. The historian should specify chronological context and compare the material basis of status instead of treating the five-century kingdom as a single unchanged society."
+      ],
+      "sequence": 11,
+      "label": "Batch V archival social and institutional extension"
+    },
+    {
+      "id": "V.3.1:b12",
+      "title": "What later histories preserve and distort",
+      "paragraphs": [
+        "The Goryeosa, compiled under the succeeding Joseon state, preserves crucial information about earlier offices, laws and biographies. Its compilers selected and organized evidence through political and ethical judgments shaped by their own period. That does not make the chronicle unusable, but it requires careful attention to source layers and retrospective interpretation.",
+        "Inscriptions, archaeological remains and later administrative compilations answer different questions. A legal text tells us what rulers wished to require; an individual biography may show one career, and a burial documents material investment rather than a complete legal identity. Combining these forms of evidence makes Goryeo's social hierarchy intelligible while preserving the considerable uncertainty surrounding ordinary lives."
+      ],
+      "sequence": 12,
+      "label": "Batch V archival social and institutional extension"
     }
   ]
 }
