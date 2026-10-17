@@ -1,0 +1,112 @@
+{
+  "id": "III.4.3",
+  "title": "The War of 400 and the Reorganization of the Gaya World",
+  "kicker": "GAYA · SOUTHERN KINGDOMS AND NETWORKS",
+  "description": "Original source-conscious history of the war of 400 and the reorganization of the gaya world, distinguishing chronicles, political claims and excavated material.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis with contextual institutional and UNESCO citations; contested chronicles and archaeological inference qualified.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy permanent gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Gimhae, Goryeong, Haman and Hapcheon archaeological assemblages, iron, armour and trade"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000257",
+      "role": "Historical terminology, political succession, 400 campaign and 532/562 dates"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daegaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013970",
+      "role": "Goryeong political centre, chronicle ambiguities and 562 conquest"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gaya Tumuli",
+      "url": "https://whc.unesco.org/en/list/1666",
+      "role": "Seven archaeological cemetery clusters and changing regional elite networks"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.4.3:b01",
+      "title": "A war known through an inscription",
+      "paragraphs": [
+        "The Gwanggaeto Stele commemorates the achievements of a Goguryeo king and includes an account of warfare in the south around 400 CE. It is fundamental for reconstructing the attack involving Silla, Baekje, Gaya-associated forces and Wa-linked participants. Yet a royal victory inscription is a statement of military prestige, designed for an audience concerned with the dynasty's power. It cannot be treated as a full neutral battle report.",
+        "The interpretation of particular phrases, their subject and the chronology of allied movements has long been debated. Modern nationalist controversies have further magnified textual ambiguities. A responsible account distinguishes securely legible claims from hypotheses about which forces exercised territorial control. The monument demonstrates Goguryeo's projection of military power far south, but its rhetoric is not a census of all troops or a political constitution for every southern community."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Museum documents distinct Gimhae, Goryeong, Haman and Hapcheon Gaya archaeological centres, and AKS distinguishes Gaya names and changing political centres.",
+          "sourceIndex": 0,
+          "locator": "Gaya Confederacy permanent gallery, regional tomb complexes and iron",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.3:b02",
+      "title": "Why Silla sought aid",
+      "paragraphs": [
+        "Silla occupied an exposed position in the late fourth and early fifth centuries, confronting threats that could involve neighbouring polities and transmarine fighters. Seeking support from Goguryeo was a strategic choice made by Silla's court, not proof that the kingdom lacked independent aims. Assistance could relieve an immediate crisis while increasing the influence of the stronger northern ally.",
+        "The war should therefore be read as a multilateral event. Goguryeo's intervention served its own frontier and prestige interests, while Silla's leaders calculated survival and political advantage. Gaya polities did not necessarily share one consistent policy, and the external records rarely preserve their internal debates. Treating Gaya as a single army acting under a single federal executive would impose an administrative unity that the archaeology and fragmented texts do not establish."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Museum documents distinct Gimhae, Goryeong, Haman and Hapcheon Gaya archaeological centres, and AKS distinguishes Gaya names and changing political centres.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 가야, political chronology and terminology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.3:b03",
+      "title": "The effect upon Gimhae",
+      "paragraphs": [
+        "The 400 campaign is associated in many reconstructions with a weakening of the Geumgwan Gaya centre. Archaeologists examine changes in the Daeseong-dong cemetery and in the distribution of prestige objects as possible indicators of an altered regional balance. A reduced concentration of unusually rich tombs can suggest diminished elite power or a change in funerary practices, though it does not by itself identify the moment or cause of every political transition.",
+        "The danger is a battle-as-explanation story in which one invading army destroys a complex commercial network and all later developments follow automatically. Economic routes, succession disputes, competition among southern centres and shifts in relations with Silla could contribute to change. The inscription and archaeological record should be compared, not forced into complete agreement. Their different chronological resolutions matter: the stele describes a campaign, while burial sequences commonly register patterns over decades."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.3:b04",
+      "title": "The rise of other Nakdong centres",
+      "paragraphs": [
+        "The weakening of one centre could widen opportunities for others. By the later fifth century the Goryeong region associated with Daegaya had emerged as a major node of political influence. Haman and other central Nakdong communities developed distinctive elite burial and material traditions. These trajectories were neither simultaneous nor controlled by one replacement capital.",
+        "A label such as the latter Gaya confederacy can help distinguish changing leadership, but it should not imply that Geumgwan's federation was formally dissolved and reconstituted through a known assembly. The record supports the growing prominence of new political centres rather than a detailed constitutional history. Archaeology of tombs, fortifications and settlement networks makes that shift visible from the ground up."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.3:b05",
+      "title": "Wa and the contested history of intervention",
+      "paragraphs": [
+        "Japanese historical texts preserve traditions of military and diplomatic involvement with the peninsula, but their dates, compilation aims and use of Imna demand scrutiny. Archaeological evidence demonstrates intensive relations between southern Korean and archipelago societies. It does not supply independent support for later colonial assertions that Japan maintained an early administrative headquarters ruling Gaya.",
+        "Particular bronze ornaments, armour forms and pottery types can suggest contacts, migration or shared martial fashions without identifying the citizenship of a buried individual. Historical agency extended across the water in both directions. Gaya polities could solicit help, export metal goods and participate in overlapping alliances. The meaningful distinction is between documented exchange or military partnership and unsupported claims of continuous political sovereignty."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.3:b06",
+      "title": "The long afterlife of a decisive date",
+      "paragraphs": [
+        "The number 400 is a valuable chronological anchor because it connects a rare dated royal inscription to developments visible archaeologically. It is not a license to erase the preceding or succeeding decades. The regional political field continued to contain multiple Gaya communities; Geumgwan survived in diminished or altered form until its surrender to Silla in 532.",
+        "A historian should ask what was changed by force, what changed through alliances and what changed through economic competition. The answer is not one exclusive mechanism. Placing the 400 campaign in a multi-generational sequence explains why new Gaya centres could flourish after a severe military shock, and why no simple division into victors and vanished losers captures the political history of the south."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}
