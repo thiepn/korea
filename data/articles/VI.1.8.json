@@ -1,0 +1,112 @@
+{
+  "id": "VI.1.8",
+  "title": "Taejong: Private Armies, Royal Authority, and Dynastic Consolidation",
+  "kicker": "EARLY JOSEON · SUCCESSION AND INSTITUTIONS",
+  "description": "Historically grounded examination of taejong: private armies, royal authority, and dynastic consolidation, with explicit criticism of the later dynastic record.",
+  "release": "W",
+  "sourceStatus": "Original narrative using retrospective Joseon annals and NIKH commentary; source anchors are contextual, not page-by-page claim certification.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Primary dynastic annals for Jeongjong, Taejong and Sejong; retrospectively compiled"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Editorial commentary on Joseon royal annals",
+      "url": "https://sillok.history.go.kr/intro/haejae.do",
+      "role": "Primary-text formation and competing revisions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Taejong Annals prefatory narrative",
+      "url": "https://sillok.history.go.kr/id/kca_000",
+      "role": "Genealogical representation and successor-state legitimacy"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "History textbook account of the founding rulers",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_p102r_0010_0010",
+      "role": "Later historiography, not contemporary testimony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.1.8:b01",
+      "title": "From victorious prince to sovereign",
+      "paragraphs": [
+        "Taejong came to the throne in 1400 after years in which his military leadership and political networks had shaped the founding state. His rule is often associated with stronger monarchy, but the outcome should not be taken as evidence that he possessed a fully centralized government from the first day. He inherited institutions from Goryeo and Taejo's reign, rival elite houses and the recent memory of armed royal conflict.",
+        "Centralization was a process of making orders enforceable and reducing alternative sources of coercive power. Taejong had particular reasons to limit private armies: he had seen princely followers turn succession disagreements into fighting. The new settlement had to bind other royal relatives and powerful officials to a single executive centre. That made military organization, appointment powers and the management of court households essential matters of state."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The royal chronicles record the early Joseon succession struggles, Taejong's reign and Sejong's accession but retrospectively privilege the victorious dynastic line.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록: 정종실록·태종실록·세종실록; 왕대별 해제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.8:b02",
+      "title": "The destruction of private armed autonomy",
+      "paragraphs": [
+        "The policy associated with abolishing private armies aimed to place men and weapons under more unified royal supervision. Its significance lies not in the impossible expectation that every unofficial weapon instantly vanished but in changing the institutional legitimacy of armed retinues. An influential prince could no longer claim the same right to maintain an independent force against another prince.",
+        "Implementation depended on officers and local commanders accepting new arrangements. Soldiers had to be registered, paid or reassigned, and earlier patrons could retain social influence. Formal regulations can demonstrate a change of authority without proving every personal connection disappeared. This distinction is necessary when explaining the effectiveness and the limits of Taejong's military reforms."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The royal chronicles record the early Joseon succession struggles, Taejong's reign and Sejong's accession but retrospectively privilege the victorious dynastic line.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록: 정종실록·태종실록·세종실록; 왕대별 해제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.8:b03",
+      "title": "Households, identity and taxation",
+      "paragraphs": [
+        "The early Joseon state strengthened its efforts to record population, regulate households and support fiscal administration. The hopae identification system is often linked with Taejong's reign, though its timing, execution and later interruptions should be established from dated edicts rather than summarized as an immediately universal identity card regime.",
+        "Registration linked subjects to obligations and gave authorities information useful for taxation, military service and policing. It also affected migrants, people seeking to avoid burdens and families whose legal status was disputed. The state wanted reliable knowledge; households sometimes had incentives to conceal or negotiate it. Administrative reform thereby extended royal reach but exposed tensions between official categories and the complicated social world being recorded."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.8:b04",
+      "title": "Religion, property and the new governing ethos",
+      "paragraphs": [
+        "Taejong's government pursued measures limiting aspects of Buddhist institutional wealth and favouring a state order articulated through Confucian officials. Such reforms should not be mistaken for instant elimination of Buddhism from Korean religious life. Temples, rites and personal devotion continued, and policy differed by institution and locality.",
+        "Restrictions on monastic property or privileges were fiscal and political as well as ideological. Land and labour previously associated with religious estates could become objects of new administrative claims. Court rhetoric of proper government supplied a justification, while budgetary and personnel concerns gave reforms practical force. A nuanced account keeps the coexistence of Confucian state ideology and continuing Buddhist society in view."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.8:b05",
+      "title": "Managing influential in-laws and ministers",
+      "paragraphs": [
+        "Powerful maternal relatives and marriage-connected households could acquire influence over the throne. Taejong's treatment of leading in-law families showed a determination to prevent independent kinship factions from becoming a second court. These measures could be severe and have been remembered as evidence of political ruthlessness.",
+        "Individual prosecutions should not be presented as inevitable administrative necessities. They involved accusations, decisions and consequences for people with distinct biographies. A ruler could genuinely seek to reduce factional power while also eliminating rivals through coercion. This ambiguity is important because centralized government did not automatically produce gentler or more accountable authority. Consolidation strengthened the monarchy partly by narrowing the room for elite contestation."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.8:b06",
+      "title": "Preparing a successor rather than another succession war",
+      "paragraphs": [
+        "Taejong's greatest long-term challenge was to transmit authority without repeating the violence that had brought him power. The court used education, formal hierarchy and management of royal sons to define the succession. That required decisions about the crown prince's suitability and the role of officials around him.",
+        "The eventual selection of the prince who became Sejong was a political settlement as well as a personal judgment about talent. Taejong could retire while retaining influence, giving the next ruler a period of support under an established court. This did not eliminate factional conflict permanently, but it marked a significant shift from princes competing through their own armies to a more concentrated royal institution governing succession."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}

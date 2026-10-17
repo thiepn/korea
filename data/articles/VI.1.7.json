@@ -1,0 +1,112 @@
+{
+  "id": "VI.1.7",
+  "title": "Jeongjong, the Second Strife of Princes, and the Succession Settlement",
+  "kicker": "EARLY JOSEON · SUCCESSION AND INSTITUTIONS",
+  "description": "Historically grounded examination of jeongjong, the second strife of princes, and the succession settlement, with explicit criticism of the later dynastic record.",
+  "release": "W",
+  "sourceStatus": "Original narrative using retrospective Joseon annals and NIKH commentary; source anchors are contextual, not page-by-page claim certification.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Primary dynastic annals for Jeongjong, Taejong and Sejong; retrospectively compiled"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Editorial commentary on Joseon royal annals",
+      "url": "https://sillok.history.go.kr/intro/haejae.do",
+      "role": "Primary-text formation and competing revisions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Taejong Annals prefatory narrative",
+      "url": "https://sillok.history.go.kr/id/kca_000",
+      "role": "Genealogical representation and successor-state legitimacy"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "History textbook account of the founding rulers",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_p102r_0010_0010",
+      "role": "Later historiography, not contemporary testimony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.1.7:b01",
+      "title": "The second reign begins without settled authority",
+      "paragraphs": [
+        "Jeongjong's accession following the 1398 strife provided continuity of the royal title while the real distribution of power remained contested. Yi Bang-won held considerable military and political influence after destroying the faction around Yi Bang-seok and Jeong Do-jeon. Other princes, however, retained households and supporters of their own. The new monarch inherited the task of governing a court whose recent history showed that the designation of an heir alone did not make armed rivals comply.",
+        "Treating Jeongjong as merely a placeholder risks erasing the political decisions he and his ministers confronted. Policies continued, provincial administration had to operate and court ritual still demanded public order. His reign was constrained, but it was not institutionally empty. An effective history distinguishes the formal offices under the second king from the power wielded by princes who could command independent followers."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The royal chronicles record the early Joseon succession struggles, Taejong's reign and Sejong's accession but retrospectively privilege the victorious dynastic line.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록: 정종실록·태종실록·세종실록; 왕대별 해제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.7:b02",
+      "title": "Gaegyeong and the fear of another confrontation",
+      "paragraphs": [
+        "The court's return to the old Goryeo capital region during this insecure period had practical as well as symbolic implications. Buildings, stores, established households and lines of communication affected what it meant to relocate a royal establishment. The preference for one city over another could reflect concerns about safety, factional networks and the burdens imposed by court movement.",
+        "A change of capital residence did not mean the founding plans for Hanyang vanished permanently. The political geography of early Joseon remained flexible until the ruling coalition stabilized. Historians should be cautious about attributing a single private motive to every decision in chronicles compiled later. What can be shown is that the court considered location inseparable from the question of who could protect and influence the monarch."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The royal chronicles record the early Joseon succession struggles, Taejong's reign and Sejong's accession but retrospectively privilege the victorious dynastic line.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록: 정종실록·태종실록·세종실록; 왕대별 해제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.7:b03",
+      "title": "Competing sons of the founder",
+      "paragraphs": [
+        "The surviving royal sons had unequal access to troops, allies and claims of political seniority. Yi Bang-gan emerged as a serious rival to Yi Bang-won, whose supporters had become especially powerful. The resulting struggle was not a dispute conducted only in ritual or genealogical language; organized armed forces determined the outcome.",
+        "The second strife of princes in 1400 revealed how little the violence of 1398 had settled the question of private military strength. Each claimant needed officers whose loyalty could be trusted and connections capable of securing the court's support. The danger extended beyond the royal household because fighting near the political centre threatened administrators and residents with fresh disruption. Dynastic succession was a public security problem as well as a family conflict."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.7:b04",
+      "title": "The defeat of Yi Bang-gan",
+      "paragraphs": [
+        "Yi Bang-won's faction prevailed in the confrontation, neutralizing the rival claim associated with Yi Bang-gan. The consequence was to concentrate the field of possible succession around the victorious prince. Accounts emphasizing his military judgment or the recklessness of opponents must be read alongside the obvious interest of later dynastic historians in legitimizing Taejong's eventual reign.",
+        "The event also allowed the court to consider firmer limits on independent princely forces. A victory by one prince could produce the political conditions for restricting the military autonomy through which princes had previously fought. That paradox should be central to the narrative: royal centralization was advanced through a conflict that exposed how much armed capacity had remained outside unified state command."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.7:b05",
+      "title": "The crown-prince settlement",
+      "paragraphs": [
+        "Jeongjong formally transferred the position of crown prince to Yi Bang-won before abdicating in his favour in 1400. These legal and ritual acts gave the outcome a recognized dynastic form. They did not erase the preceding use of force, but they made succession legible to officials who relied on established titles and chains of command.",
+        "The settlement matters because legitimacy depended on more than winning a street battle. A successor needed palace rites, documentary authority and continued service by ministers. Administrative continuity reduced the risk that provincial officials would face several equally authoritative commands. The contrast between armed victory and formal installation explains how the monarchy could become more institutionally coherent without denying its violent immediate history."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.7:b06",
+      "title": "Jeongjong's later position",
+      "paragraphs": [
+        "After abdication, Jeongjong remained a member of the royal lineage whose presence could legitimate the succeeding court. His survival illustrates the difference between removing a king by killing him and using abdication to reorganize authority within a dynasty. The latter required a continued agreement about status and security.",
+        "The early Joseon succession crises thus ended not by discovering a universal principle of primogeniture but through a contingent political settlement. The throne passed to a prince with effective military backing, and ministers adapted offices to that reality. Jeongjong's reign should be judged through its constrained government and its role in making this settlement possible, not treated as an irrelevant pause between two famous rulers."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}
