@@ -49,6 +49,90 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 5
+    },
+    {
+      "id": "I.4.2:b06",
+      "title": "Planning the agricultural year",
+      "paragraphs": [
+        "Agricultural intensification is best understood as a transformation of calendars and obligations rather than merely an increase in the quantity of grain recovered from sites. Land preparation, seed selection, planting, weeding, harvesting, threshing, drying, and storage form interdependent tasks whose timing varies with weather and crop. A delayed spring can create competing demands between preparing a field and repairing a house; a promising harvest can be lost if storage remains damp. Such constraints help explain why households could gain from cooperation and why particular people might coordinate labor without commanding a formal political office. Archaeologists seek signs of these routines in digging implements, harvesting blades, charred crop residues, storage pits, and field systems. Yet each trace speaks to a different activity: a stone knife may have many uses, and a grain impression establishes a plant's presence without establishing its contribution to diet."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": [
+        {
+          "claim": "Archaeological material and scholarly interpretation require separate evidential treatment",
+          "sourceIndex": 0,
+          "locator": "Bronze Age exhibition overview / Songguk-ri archaeological chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.2:b07",
+      "title": "Dry-field crops and practical diversity",
+      "paragraphs": [
+        "Millets and other grains were important within prehistoric farming systems, alongside pulses and crops that differed by region and period. The ecological versatility of dry-field cultivation made it possible to farm slopes or soils unsuited to continuous standing water, although such plots still required attention to runoff, fertility and weed growth. Crops could be grown for household meals, fodder, feasts, exchange, and provision against poor years. It is misleading to imagine a single standardized rice economy from the beginning of the Bronze Age. Plant macrofossils survive unevenly, and excavation strategies matter enormously: flotation can recover tiny seeds that would otherwise be overlooked. A published site with many recovered grains may reflect a more careful recovery method rather than a more productive ancient village. Agricultural history requires attention to the techniques by which evidence enters the record."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.2:b08",
+      "title": "Tools, work and the limits of inference",
+      "paragraphs": [
+        "Stone axes, hoes and semi-lunar harvesting knives illustrate the persistence of lithic skill in a period conventionally named for bronze. A polished edge might be resharpened many times, while a wooden handle or basket rarely survives. Large concentrations of worn tools can suggest repeated harvesting or woodworking, but the relation between artifact counts and total hours worked cannot be read directly. Neither can archaeologists confidently allocate all field work to men or women on the basis of modern stereotypes. Children and older people may have guarded crops, processed food, fetched water, cared for animals, and supported craft work in ways that leave little diagnostic evidence. A household's productive capacity was therefore broader than its excavation inventory. Intensification could arise through better tools, improved scheduling, more hands, land extension, or changed obligations between households, and different communities probably combined these measures differently."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.2:b09",
+      "title": "Granaries and claims on surplus",
+      "paragraphs": [
+        "Storage is an economic and political institution as well as a technical practice. A community that dries grain well and protects it from vermin can consume harvests over many months, finance ceremonies, support visitors, and endure interrupted farming. The location of storage structures matters: a cluster near individual houses suggests one possible pattern of control, whereas conspicuously shared facilities invite questions about collective management. Neither location proves the legal ownership of grain. Songguk-ri research has emphasized raised buildings and changes in how settlement space was organized, but those interpretations must be compared with alternative uses of platforms and reconstructed building plans. Control of stored food could empower leaders, yet pooled grain can also embody mutual obligation and resilience. Redistribution should not be inferred simply because granaries are large; one must ask who contributed, when grain moved, and whether unequal access left other traces."
+      ],
+      "sequence": 9,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": [
+        {
+          "claim": "Archaeological material and scholarly interpretation require separate evidential treatment",
+          "sourceIndex": 1,
+          "locator": "Bronze Age exhibition overview / Songguk-ri archaeological chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.2:b10",
+      "title": "Land, rainfall and long-term commitment",
+      "paragraphs": [
+        "Fields become historical investments. Clearing stones, shaping paths, diverting runoff, and building embankments yield benefits only when people can return to maintain them. These practical changes could deepen attachment to particular valleys and prompt disputes over adjoining plots, access to irrigation, or the use of marginal pasture. They might also create stable relations across generations. Agricultural expansion altered vegetation, erosion and local hydrology, while storms and sedimentation could change the location of productive land. Pollen, soil profiles and geomorphological surveys help put excavated villages within these landscape histories, although assigning one environmental change to a particular community is often difficult. Intensification was therefore neither uniformly beneficial nor environmentally neutral. It redistributed risk, increased some yields, and exposed households to loss when a tightly coordinated production cycle failed."
+      ],
+      "sequence": 10,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.2:b11",
+      "title": "Exchange and household resilience",
+      "paragraphs": [
+        "Even farming settlements were not closed economies. People still hunted, gathered, fished, visited neighboring regions and acquired raw materials from beyond their immediate fields. Grinding stones, pigments, ornaments and metal ingredients may have traveled along routes used for kin visits or seasonal work. Networks offered insurance when harvests failed unevenly; they also allowed ambitious households to acquire rare goods whose social value exceeded practical utility. A trader's presence cannot be proven by every imported material, since objects could move through multiple transactions and gifts. Conversely, local-looking pottery does not mean isolation. Food production and exchange should be studied as mutually sustaining arrangements. The most secure account recognizes households making choices under ecological uncertainty rather than treating intensification as a one-way march from subsistence to markets or from villages to territorial states."
+      ],
+      "sequence": 11,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.2:b12",
+      "title": "Counting change without inventing a census",
+      "paragraphs": [
+        "The number and size of settlements may point toward demographic expansion, concentration or relocation, but excavation visibility is unequal across topographies. More finds near modern construction sites can reflect development projects rather than ancient density, while erosion may have erased whole occupations. A cluster of large houses need not hold proportionately more people if some served specialized functions; a small house can have many short-term occupants. Estimating food surplus from a few tools and pits carries still greater uncertainty. What can be responsibly stated is that agriculture increasingly structured labor, settlement location, storage and intercommunity relations over much of the peninsula. Some communities developed larger facilities and conspicuous differences in material wealth. Those tendencies establish conditions for later ranked societies, not a precise chronology of class formation from which all other regions can be deduced."
+      ],
+      "sequence": 12,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
     }
   ]
 }

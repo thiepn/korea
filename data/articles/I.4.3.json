@@ -30,6 +30,90 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "I.4.3:b04",
+      "title": "Rice in the archaeological record",
+      "paragraphs": [
+        "Rice occupies an important place in explanations of Korean agricultural history, but the presence of rice grains must be separated from proof of irrigated paddies. Charred grains, phytoliths, impressions in pottery, and identifiable field surfaces preserve different kinds of evidence, each with distinct vulnerabilities. Grains can be redeposited; phytolith identifications have methodological limits; an apparently wet field might have been managed differently from a modern flooded paddy. The geographic spread of rice also had a chronology of its own, which cannot be collapsed into the first appearance of plain pottery. Specialists debate the balance of dry cultivation and water-managed techniques at particular sites. A responsible account therefore identifies the specific find and its stratigraphic context before claiming that rice had reorganized an entire economy. Nor should the later prestige of rice be projected backward as an automatic measure of wealth or ritual importance."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": [
+        {
+          "claim": "Archaeological material and scholarly interpretation require separate evidential treatment",
+          "sourceIndex": 0,
+          "locator": "Bronze Age exhibition overview / Songguk-ri archaeological chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.3:b05",
+      "title": "Fields built into landscapes",
+      "paragraphs": [
+        "Rice production depends upon the relation between field surface, water and season. Lowland alluvium, terraces and sheltered valleys offer different opportunities; periods of heavy precipitation or drought can change their value dramatically. Where people modified banks, channels or retaining features, they committed recurring labor to particular locations, but surviving earthworks require careful dating because the same valley may have been farmed for many centuries. Soil micromorphology and water-laid sediments can help distinguish repeated wetting from natural deposition. Even where paddy traces are persuasive, investigators must ask how extensive fields were and whether their management was household-based or coordinated among several families. A single excavated channel cannot establish a centralized irrigation department. Land and water management offer ways to study bargaining, technical knowledge and cooperation without assuming that every hydraulic undertaking produced coercive kingship."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.3:b06",
+      "title": "Songguk-ri as an instructive case",
+      "paragraphs": [
+        "The Songguk-ri complex is especially important because houses, storage structures, graves and settlement layout have been investigated together. Ahn Jae-ho's published reconstruction proposes phases in which residential organization, larger buildings and later elite concentration changed over time. The proposal is valuable not because it is unchallengeable but because it states an interpretable sequence against which new field evidence can be tested. Researchers may disagree about the functions of raised structures, the chronology of graves, or the scale of nearby rice fields. A regional history should resist presenting one case as a universally valid plan of the Bronze Age village. Songguk-ri can demonstrate plausible combinations of agriculture, shared building projects and political differentiation while reminding readers how much depends on field recording and comparative sites."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.3:b07",
+      "title": "The labor behind water management",
+      "paragraphs": [
+        "Carefully leveled fields and maintained ditches require knowledge distributed among people who plant, observe rainfall, clear sediment and repair damage. The participants need not share equal access to harvested rice. Those who control upstream flow may affect downstream yields; households situated near storage areas can enjoy logistical advantages. Such relationships might generate cooperation, negotiation or sustained conflict, depending on conditions not directly preserved in the ground. Seasonal peaks of labor can encourage reciprocal work parties, especially when one family cannot complete a task before weather changes. Yet the existence of work parties does not reveal the gender, status or household origins of their members. Prehistoric water management should be narrated as a changing social relationship grounded in material tasks, not as proof of an official irrigation hierarchy that no contemporary document records."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": [
+        {
+          "claim": "Archaeological material and scholarly interpretation require separate evidential treatment",
+          "sourceIndex": 1,
+          "locator": "Bronze Age exhibition overview / Songguk-ri archaeological chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.3:b08",
+      "title": "Rice alongside other foods",
+      "paragraphs": [
+        "An expanding rice repertoire did not eliminate other crops or non-agricultural foods. Diversification may reduce risk because millet, pulses, gathering and fishing respond differently to climate and field conditions. Cooking vessels, grinding equipment, fish bones and recovered botanical remains suggest that consumption involved more than a single grain even in settlements associated with rice cultivation. Dietary change also needs to be distinguished from status: a food that later symbolizes refinement might in an earlier community be ordinary, ceremonial, seasonal or scarce. Stable isotope data can inform broad nutritional contributions, but individual health histories and sample selection complicate interpretation. It is safer to speak of varied food strategies and changing proportions than to assign a uniform Bronze Age menu to every family in a valley."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.3:b09",
+      "title": "Uncertainty and chronological comparisons",
+      "paragraphs": [
+        "Claims about the earliest rice in Korea have often changed as new sites, dating methods and analytical criteria appeared. To compare regions, dates from secure contexts are more valuable than spectacular isolated grains. Calibration of radiocarbon measurements can widen plausible ranges; field systems may include several phases superimposed at one location; later disturbance can place older material in younger deposits. Variation in researchers' definitions of a paddy contributes to disagreements that a simple map of dots can conceal. None of these caveats makes agricultural history unknowable. Instead, they identify why arguments should connect several independent observations and say explicitly which stage—plant presence, repeated cultivation or engineered water control—has been established. A reader should not have to infer such distinctions from a photograph of a reconstructed farm."
+      ],
+      "sequence": 9,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.3:b10",
+      "title": "The longer implications",
+      "paragraphs": [
+        "Where rice production became reliable, its seasonal rhythm could encourage permanent settlement, storage investment and expectations about access to productive wet ground. Communities might reward those who organized labor and settled disputes, while some households accumulated stores or influence. These possibilities are consistent with differentiated graves at certain sites, but no necessary straight line connects a paddy to a chief. Resource concentration could provoke reciprocal institutions as readily as domination. The historical significance of rice lies in the way people made technical and social adaptations to particular landscapes over generations. Those adaptations belong alongside other developments in the Mumun period—settlement growth, craft exchange, mortuary display and environmental stress—rather than replacing them with a single crop-centered explanation."
+      ],
+      "sequence": 10,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
     }
   ],
   "release": "C"
