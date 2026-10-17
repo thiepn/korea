@@ -1,0 +1,130 @@
+{
+  "id": "I.4.9",
+  "title": "Regional Bronze Age Cultures and Exchange Networks",
+  "kicker": "MUMUN · CHANGING REGIONAL WORLDS",
+  "description": "Source-conscious historical study of regional bronze age cultures and exchange networks, with explicit limits of the evidence.",
+  "release": "X",
+  "sourceStatus": "Original historical synthesis; selected contextual source anchors are not line-by-line peer-reviewed proof.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Bronze Age: agriculture, vessels, daggers and burial assemblages",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030300.do?showHallId=760&showroomCode=DM0004",
+      "role": "Object evidence and curatorial chronology; no direct prehistoric documents"
+    },
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Korea, 1000 B.C.–1 A.D., chronological overview",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/eak.html",
+      "role": "Museum summary of changes in plain pottery, metallurgy and subsequent material forms"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Liaoning-type Bronze Dagger",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=4379&schM=relic_represent_view",
+      "role": "Bronze artifact typology connecting Liaoning and Korean Peninsula"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "url": "https://whc.unesco.org/en/list/977",
+      "role": "Diverse mortuary landscapes and monument production"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.4.9:b01",
+      "title": "Regions before the borders of states",
+      "paragraphs": [
+        "There was no single Bronze Age cultural province corresponding to the borders of modern Korea. Archaeologists describe recurring artifact groups in particular river basins, coastal districts and uplands, but those groups changed through time and frequently overlapped. Pottery shapes, house plans and burial arrangements may be more similar within a region than across the peninsula, without revealing political allegiance or ethnic names. Local stone supplies, soils, rainfall and travel routes influenced which techniques were useful or accessible. The presence of a distinctive form at two distant sites could arise from migration, exchange, imitation or independent solutions to similar practical problems. Claims of one historical people based on ceramic resemblance alone cannot be sustained. Regional study works best when a map shows both concentrations and gaps, identifying where excavations are abundant and where absence may simply reflect incomplete investigation."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Published primary materials and later scholarship establish context but do not justify unqualified inference",
+          "sourceIndex": 0,
+          "locator": "Bronze Age exhibition and typological comparison",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.9:b02",
+      "title": "Northwestern and northeastern corridors",
+      "paragraphs": [
+        "The mountainous and river-connected landscapes leading toward Liaoning and other northeastern continental regions allowed movement of people, craft techniques and valued objects across distances now separated by national borders. Liaoning-type bronze daggers are material witnesses to one network of stylistic and technical relations, but they cannot identify every community that carried a dagger or the motives for its transfer. Rivers provided relatively direct corridors for transport, while mountain passes and seasonal conditions shaped available journeys. Similar vessel traditions should be assessed with radiocarbon ranges and stratigraphy before claims of sequential movement are made. The history is not simply of ideas arriving from a more advanced mainland into a passive peninsula. Local groups selected and transformed techniques, produced distinctive forms, and maintained older practices in ways that make the resulting archaeological patterns regionally specific."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.9:b03",
+      "title": "Western and southern farming zones",
+      "paragraphs": [
+        "Valleys along the western and southern parts of the peninsula became important settings for aggregated farming settlements, storage, and distinctive pottery traditions. The Songguk-ri complex is often central to discussions of house form, agriculture and organized community labor. Its prominence in publications partly reflects the intensity of excavation and the clarity of certain architectural features. It would be a mistake to treat all southern residents as representatives of one unchanging Songguk-ri culture, because local settlement sequences and economic choices differed. Coastal settlements interacted with inland basins through exchange and visits, and some communities maintained fishing or gathering activities alongside cultivation. A material style could circulate faster than a particular system of land tenure or household organization. The differences among sites are historical evidence of choice and circumstance, not imperfections in a supposed uniform Bronze Age progression."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.9:b04",
+      "title": "Eastern valleys, islands and shorelines",
+      "paragraphs": [
+        "Mountain relief divides some eastern basins from the major western plains, while streams and sheltered coastal landings create alternative routes for contact. Islands present distinct combinations of maritime resources, cultivable patches and dependence on exchange for particular raw materials. These settings may help explain why settlement patterns and artifact distributions differ even when sites broadly share a chronological horizon. An imported bronze object recovered on an island could represent repeated contacts rather than a permanent colonial outpost. The same caution applies to ceramics resembling inland forms. Material similarities document relations, not automatically subordination. Preservation along coasts is especially complicated by shifting shorelines and sediment accumulation, so archaeological absence in a present-day village area may have little relation to prehistoric population density. Regional histories must follow ancient environments rather than assume today's coastlines were fixed."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Published primary materials and later scholarship establish context but do not justify unqualified inference",
+          "sourceIndex": 0,
+          "locator": "Bronze Age exhibition and typological comparison",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.9:b05",
+      "title": "Exchange as process rather than map",
+      "paragraphs": [
+        "A stone raw material, ornament or bronze blade can travel through gifts and intermediate exchanges without a single trader traversing its entire observed range. Exchange systems were therefore flexible social relationships, not necessarily roads controlled by political authorities. People might seek marriage partners, attend commemorative gatherings, move seasonally for work or escape poor harvests, carrying techniques and stories together with objects. Craft specialists could circulate while remaining attached to home communities, or could teach skills to people elsewhere. Archaeologists may infer contact from similarities in manufacture and composition, but the number of transactions and their terms are usually invisible. Long-distance contact also need not imply equality: competition and unequal access to rare goods could alter local status, while repeated exchange could buffer environmental risk. Networks should be reconstructed as multiple overlapping possibilities with varying chronological confidence."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.9:b06",
+      "title": "Pottery as shared knowledge and local invention",
+      "paragraphs": [
+        "Regional pottery types are often named for excavated sites, a useful scholarly shorthand that can become misleading when turned into the name of a tribe. Vessel fabric, firing method, rim treatment and shape can each follow a different history. A community might adopt a fashionable storage jar while preserving traditional cooking vessels, or reproduce a shape using a different clay source and firing environment. Technical choices may be transmitted through apprenticeship and marriage, not only commerce. Comparing whole assemblages avoids relying on a single decorative motif as a diagnostic border. Chronological variation also matters: two similar styles at distant sites may not have been used simultaneously. The material culture of the Mumun period is best approached as a series of practical and social repertoires rather than a set of fixed provincial costumes worn by readily identifiable peoples."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.9:b07",
+      "title": "Instruments of comparison",
+      "paragraphs": [
+        "Scientific dating, petrographic ceramic study, botanical analysis and spatial surveys offer different means of examining links among regions. Each method has a scale of reliability. Radiocarbon results may refer to the burning of a piece of wood rather than the construction of a house; mineral similarity can suggest raw material sources while leaving room for multiple deposits; botanical assemblages vary with sampling strategy. Combining methods can strengthen a case for shared agricultural practices or technical exchange. It is especially important not to count repeated publication of one famous find as independent confirmation from many sites. Scholars should register the provenance of finds, the laboratory method, the sample context and the range of competing interpretations. The most sophisticated regional history is not one with the longest list of types, but one that makes clear exactly what kind of connection each pattern can substantiate."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.9:b08",
+      "title": "Regional diversity and later state histories",
+      "paragraphs": [
+        "Much later written sources name polities such as Gojoseon and the Samhan formations, but projecting those names back into every Bronze Age material distribution creates false continuity. The development of regional prestige networks, burial traditions and settlement hierarchies may have prepared conditions later used by states, yet the political identities of most excavated communities remain unknown. A sequence of fine daggers or distinctive ceramics cannot establish continuous membership in a dynasty over centuries. Nor should present-day local heritage branding determine how a site is classified. Bronze Age regional history is significant in its own right: it shows households and communities adapting similar technical possibilities to different ecological, social and ceremonial situations. Its many connections can be acknowledged without erasing those differences or treating all activity as a preliminary chapter in a later nation's inevitable formation."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}

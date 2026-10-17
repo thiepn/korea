@@ -1,0 +1,130 @@
+{
+  "id": "VIII.2.1",
+  "title": "The Imo Mutiny of 1882: Soldiers, Urban Protest, and Political Crisis",
+  "kicker": "LATE JOSEON · 1882 CRISIS",
+  "description": "Source-conscious historical study of the imo mutiny of 1882: soldiers, urban protest, and political crisis, with explicit limits of the evidence.",
+  "release": "X",
+  "sourceStatus": "Original historical synthesis; selected contextual source anchors are not line-by-line peer-reviewed proof.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imo Mutiny (임오군란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047565",
+      "role": "Historical encyclopedia interpretation of soldiers' pay dispute and political crisis; retrospective"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "1882 Qing–Joseon Regulations for Maritime and Overland Trade",
+      "url": "https://contents.history.go.kr/mobile/mid/hm_115_0050?tabId=e",
+      "role": "Edited translation of historical treaty and commentary; original instrument not located"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Joseon–Japan Trade Regulations and 1883 tariff negotiations",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_115_0040",
+      "role": "Historical treaty transcription and critical contextual commentary"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Diplomacy and external rivalry in late nineteenth-century Joseon",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=kn_044_0020_0040_0020",
+      "role": "Secondary historical analysis of diplomatic categories and contested status"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.2.1:b01",
+      "title": "The material grievance",
+      "paragraphs": [
+        "The Imo Mutiny of 1882 began with a dispute that was material before it became a struggle over the direction of the state. Soldiers associated with older military formations suffered delays and irregularities in their rice rations while the court was experimenting with new units and methods of training. The scandal over inadequate and contaminated pay mattered because service, subsistence and recognition were bound together in the military economy. The Academy of Korean Studies account identifies this ration controversy and the punishment of protesters as decisive accelerants. It is not sufficient to summarize the participants simply as enemies of modernization: a soldier expecting promised grain could object to unequal treatment without holding a coherent program of foreign policy. Retrospective political labels can conceal the progression from livelihood grievance to a broader urban crisis involving military factions, households, ministers and the royal family."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Published primary materials and later scholarship establish context but do not justify unqualified inference",
+          "sourceIndex": 0,
+          "locator": "Imo Mutiny account and trade instrument contextual commentary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.1:b02",
+      "title": "The court's uneven military reform",
+      "paragraphs": [
+        "The formation of specially trained forces and the uneven treatment of old units created visible differences in resources and opportunities. To modernize an army, officials needed reliable revenue, instruction, equipment and coherent command; the existence of a newly named unit did not provide those capacities to the entire military. Older soldiers could understand the contrast as abandonment and political exclusion. The court's reform choices unfolded amid financial strain and diplomacy with powers able to supply weapons and instructors. Such dependence raised questions about sovereignty as well as tactical competence. The causal relationship was not that exposure to foreign techniques automatically provoked rebellion, but that reform reallocated scarce support within a fragile institutional system. The uprising exposed how measures announced as modernization could intensify distrust when implementation failed to secure the most basic obligations of pay and provisioning."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.1:b03",
+      "title": "Punishment and urban escalation",
+      "paragraphs": [
+        "The detention and harsh treatment of soldiers who protested rations turned a financial quarrel into a question of justice and survival. Collective appeals gathered wider military support; crowds moved through Seoul and attacked prominent officials associated with the court's ruling circle. The violence cannot be explained solely by orders from one political actor, since participants brought overlapping grievances and opportunities to the streets. Nor should the attacks be sanitized as a peaceful constitutional demand. People died, property was destroyed, and the security of residents and foreigners became entangled with factional conflict. Sources from the court, foreign legations and later historians vary in what they emphasize and whom they blame. A rigorous account identifies specific actions and casualties only when securely evidenced, rather than attributing every movement of the crowd to a single conspiratorial plan."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.1:b04",
+      "title": "Daewongun and the problem of direction",
+      "paragraphs": [
+        "Heungseon Daewongun, who had exercised authority earlier in Gojong's reign, returned to a central political position during the crisis. His relationship with the soldiers and the extent of prior coordination are subjects requiring distinction between documented intervention and retrospective accusation. Some narratives describe him as directing events; others emphasize that the uprising had momentum before any court politician could command it. What is firmly important is that the crisis altered who could claim to restore order and placed succession-era rivalries back into the immediate governance of Seoul. The political struggle should not erase the soldiers' initial demands or the actions of civilians affected by violence. The capital was not a stage on which only royals acted: ration officials, soldiers, households and diplomatic personnel all helped determine the course and consequences of the emergency."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Published primary materials and later scholarship establish context but do not justify unqualified inference",
+          "sourceIndex": 0,
+          "locator": "Imo Mutiny account and trade instrument contextual commentary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.1:b05",
+      "title": "The Japanese legation and wider consequences",
+      "paragraphs": [
+        "The assault on Japan's diplomatic presence and the flight of its personnel transformed a domestic upheaval into an international confrontation. Foreign governments could use attacks on residents and property as grounds for demands that extended beyond security. Japanese officials sought compensation and guarantees, while Korean decision makers faced the challenge of negotiating under military pressure. This was not the first encounter with unequal diplomatic circumstances, but the violence of 1882 gave external actors new leverage over the court. The historical record must separate what participants wanted at the beginning from what governments imposed afterward. A riot that arose around soldiers' rations ultimately affected indemnities, armed presence and treaty relations; that escalation illustrates the vulnerability of a state whose internal institutional reform was intertwined with the ambitions of neighboring powers."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.1:b06",
+      "title": "Qing intervention and the restoration of order",
+      "paragraphs": [
+        "Qing forces intervened and removed Daewongun from the Korean political scene, sharply changing the balance of power at court. The intervention's significance lies not only in the short-term suppression of disorder but in the more intrusive claims of Qing authority that followed. Some Korean elites regarded Qing power as a counterweight to Japan; others feared dependence on an overlord able to deploy troops and shape administrative decisions. Qing policy itself involved rivalry with other powers and disagreements about the proper form of the historical relationship. Treating intervention as either uncomplicated rescue or pure continuation of ancient tribute misses the coercive military dimension. The crisis made sovereignty a practical matter of who commanded armed force, controlled appointments and negotiated commercial arrangements rather than a question settled merely by formal terminology."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.1:b07",
+      "title": "The cost for households and institutions",
+      "paragraphs": [
+        "The mutiny damaged lives beyond the immediate factional winners and losers. Urban merchants, residents near attacked compounds, soldiers' families and lower-ranking workers encountered insecurity, disruption and renewed demands on limited public resources. The exact scale of these experiences is less well recorded than court appointments or negotiations, because most surviving accounts privilege rulers, officials and foreign missions. That imbalance should be made explicit instead of inferring a unified popular viewpoint. Once order was reestablished, the underlying problems of military financing and administrative legitimacy did not disappear. A government that could not reliably pay its troops faced difficulty implementing both traditional obligations and imported reforms. The mutiny therefore stands as a warning about the uneven social foundation of institutional change in late Joseon."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.1:b08",
+      "title": "How to interpret the event",
+      "paragraphs": [
+        "The Imo Mutiny was simultaneously a military pay crisis, an urban outbreak of violence, a court power struggle and an opportunity for foreign intervention. Each dimension is supported by a different body of evidence; none alone supplies a complete explanation. The later term mutiny foregrounds the soldiers, while discussions of a political coup emphasize the upheaval in government. Historians should make these analytical choices visible. The event did not settle Korea's modernization debates, and its consequences were not limited to an immediate reorganization of troops. Qing dominance grew more intrusive, Japan pressed its claims, and the monarchy entered a decade of reform projects pursued under increasing diplomatic constraint. Distinguishing the stages of the crisis prevents retrospective outcomes from being mistaken for the original intentions of everyone who participated."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}

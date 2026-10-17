@@ -1,0 +1,130 @@
+{
+  "id": "I.4.10",
+  "title": "Crisis, Transformation, and the End of the Mumun Order",
+  "kicker": "MUMUN · CHANGING REGIONAL WORLDS",
+  "description": "Source-conscious historical study of crisis, transformation, and the end of the mumun order, with explicit limits of the evidence.",
+  "release": "X",
+  "sourceStatus": "Original historical synthesis; selected contextual source anchors are not line-by-line peer-reviewed proof.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Bronze Age: agriculture, vessels, daggers and burial assemblages",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030300.do?showHallId=760&showroomCode=DM0004",
+      "role": "Object evidence and curatorial chronology; no direct prehistoric documents"
+    },
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Korea, 1000 B.C.–1 A.D., chronological overview",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/eak.html",
+      "role": "Museum summary of changes in plain pottery, metallurgy and subsequent material forms"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Liaoning-type Bronze Dagger",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=4379&schM=relic_represent_view",
+      "role": "Bronze artifact typology connecting Liaoning and Korean Peninsula"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "url": "https://whc.unesco.org/en/list/977",
+      "role": "Diverse mortuary landscapes and monument production"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.4.10:b01",
+      "title": "An ending without a single collapse",
+      "paragraphs": [
+        "The disappearance or transformation of familiar Mumun artifact assemblages does not establish that every Bronze Age village experienced a synchronized catastrophe. Cultural periods are defined retrospectively through the material record, while residents continued to farm, rebuild and exchange without knowing that archaeologists would later assign their possessions to a different age. Pottery forms altered, metalworking traditions diversified, and some settlements relocated or changed their social scale. These developments varied across regions, so a single date for the end of Mumun culture can only be approximate. In some locations apparent breaks may reflect erosion, changing excavation visibility or temporary abandonment; in others they may register genuine demographic and political disruption. A convincing account must compare securely dated sequences rather than read a peninsula-wide collapse into the disappearance of one diagnostic vessel type."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Published primary materials and later scholarship establish context but do not justify unqualified inference",
+          "sourceIndex": 0,
+          "locator": "Bronze Age exhibition and typological comparison",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.10:b02",
+      "title": "Environmental stress and adaptation",
+      "paragraphs": [
+        "Agrarian settlements could suffer from declining soil fertility, floods, droughts or changes in river behavior that required adjustments to field location and household organization. Intensified land use may have produced accumulated benefits and vulnerabilities, but reconstructing environmental causation is difficult where the same district has been cultivated for thousands of years. Pollen cores, erosion deposits and buried field surfaces can suggest ecological change, although linking them precisely to a settlement's abandonment remains a separate inference. Households may respond by changing crops, rebuilding water works, moving to more reliable land or joining relatives elsewhere. A climatic episode cannot be assumed to have produced political collapse without corroborating evidence. The disappearance of a village from an excavation map might reflect relocation within a working landscape rather than the disappearance of its people."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.10:b03",
+      "title": "Changing settlement configurations",
+      "paragraphs": [
+        "Some late prehistoric sites show different arrangements of habitation, craft production and burial from earlier farming communities. An increase in small settlements might reflect fragmentation, improved use of marginal land, demographic movement or a shift in how households maintained seasonal residences. Conversely, concentration at a few defended locations might suggest concerns about security or advantages of exchange. These patterns need to be established within comparable survey areas because modern development and archaeological rescue work produce strong geographic bias. The relationship between settlement transformation and changing political relationships is potentially important but not straightforward. A new cluster of houses need not be a refugee settlement, and a deserted hilltop need not record conquest. Archaeological sequences should be narrated as changes in habitation choices whose causes remain subject to examination."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.10:b04",
+      "title": "The transition in metallurgy",
+      "paragraphs": [
+        "Late Bronze Age and Early Iron Age categories partly overlap in the archaeological record, and the terms should not be mistaken for clean technical revolutions. Fine slender bronze daggers, mirrors, and ritual objects appeared in sequences that differed from earlier Liaoning-type assemblages; iron implements eventually expanded the possibilities for production and agriculture. The first iron object at a site does not mean every household had abandoned stone tools, nor does a bronze artifact necessarily belong to an earlier social formation. Access to ore, workshop skill, circulation and reuse shaped the pace of adoption. Technological change could create new dependencies between craftspeople and patrons, but an improved cutting edge alone could not determine political legitimacy. Scholars distinguish typological development from direct evidence of who produced, controlled and used objects."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Published primary materials and later scholarship establish context but do not justify unqualified inference",
+          "sourceIndex": 0,
+          "locator": "Bronze Age exhibition and typological comparison",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.10:b05",
+      "title": "Exchange networks in motion",
+      "paragraphs": [
+        "Relations with northeastern continental communities and among peninsular regions changed as material forms, settlement populations and patterns of consumption shifted. Some valued goods moved widely, while others remained local. The archaeological visibility of those networks depends strongly on durable deposits: metal or beads may survive where food gifts, textiles and spoken agreements vanish. Exchange can expand during insecurity as households seek alternatives, or contract when routes become dangerous; it can also be reoriented toward different partners. The record rarely permits assigning all such changes to one invasion or migration. It is more useful to trace particular objects and production technologies through overlapping chronological sequences than to declare one old culture destroyed and another installed. Material continuity and innovation can coexist within the same community."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.10:b06",
+      "title": "Violence, relocation and political openings",
+      "paragraphs": [
+        "Organized conflict may have contributed to changes in some later prehistoric landscapes, but fortifications and weapon deposits need secure chronology before being attached to a general crisis narrative. Displacement can redistribute skills and people, create new alliances or unsettle older burial customs. Rival communities may compete for irrigable land, metal access or trading connections while also maintaining marital ties. These processes can facilitate larger political groupings, though their direction is unpredictable. A researcher should not invent a victorious ruler simply because a rich cemetery is followed by a different assemblage. Archaeological politics includes unsuccessful alliances, abandoned projects and adaptive local choices as much as the ancestry of eventual states. The period's importance is better conveyed through these possibilities than through a deterministic claim that bronze farmers naturally had to become subjects of centralized kings."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.10:b07",
+      "title": "The written horizon remains later",
+      "paragraphs": [
+        "Named rulers and institutions become better attested in subsequent periods, yet those later records do not straightforwardly describe the communities that left Mumun houses and graves. Chinese dynastic histories, Korean medieval compilations and modern national narratives each have their own chronological distances and political purposes. Correlating an archaeological phase with a later polity requires independent evidence rather than similarity of place names or a memorable traditional founding date. The risk is greatest when evidence from different centuries is compressed into a single story of Gojoseon origins. A disciplined narrative instead explains which features of settlement concentration, technical exchange and elite display persisted and which changed before the written record becomes more informative. Gaps are not evidence that nothing happened; they are limits on what can currently be reconstructed."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "I.4.10:b08",
+      "title": "Why the transformation matters",
+      "paragraphs": [
+        "The long Mumun transformation built and reorganized the foundations of agrarian life without producing one uniform endpoint. People established fields, coordinated water, built houses, buried their dead in different ways and took part in exchange networks that could outlast individual villages. New metal traditions and demographic shifts altered those relationships across the first millennium BCE. Some social inequalities endured, others changed expression, and many aspects of everyday life remain only indirectly visible. The historical achievement of this period cannot be reduced to serving as a preliminary stage of later named kingdoms. It shaped landscapes, practical knowledge and ideas of belonging that mattered to communities in their own time. Understanding its end means following continuity through change, with careful chronology and explicit recognition of what archaeological materials cannot tell us."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}

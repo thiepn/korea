@@ -1,0 +1,130 @@
+{
+  "id": "VIII.2.2",
+  "title": "Qing Intervention, the Min Court, and the Reassertion of Chinese Influence",
+  "kicker": "LATE JOSEON · 1882 CRISIS",
+  "description": "Source-conscious historical study of qing intervention, the min court, and the reassertion of chinese influence, with explicit limits of the evidence.",
+  "release": "X",
+  "sourceStatus": "Original historical synthesis; selected contextual source anchors are not line-by-line peer-reviewed proof.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imo Mutiny (임오군란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047565",
+      "role": "Historical encyclopedia interpretation of soldiers' pay dispute and political crisis; retrospective"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "1882 Qing–Joseon Regulations for Maritime and Overland Trade",
+      "url": "https://contents.history.go.kr/mobile/mid/hm_115_0050?tabId=e",
+      "role": "Edited translation of historical treaty and commentary; original instrument not located"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Joseon–Japan Trade Regulations and 1883 tariff negotiations",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_115_0040",
+      "role": "Historical treaty transcription and critical contextual commentary"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Diplomacy and external rivalry in late nineteenth-century Joseon",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=kn_044_0020_0040_0020",
+      "role": "Secondary historical analysis of diplomatic categories and contested status"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.2.2:b01",
+      "title": "Intervention became a governing structure",
+      "paragraphs": [
+        "The Qing response to the 1882 crisis moved beyond the temporary dispatch of troops to restore immediate order. Military presence, advisory influence and negotiated commercial arrangements supplied new ways for Qing officials to shape decisions within Joseon. The relationship drew upon older diplomatic vocabulary, yet its institutions increasingly operated through the language and techniques of treaty-era international competition. Korean officials were neither wholly powerless nor freely autonomous; they negotiated within conditions changed by armed intervention. The crucial question is how a nominally distinct monarchy managed appointments, finances and foreign policy when another government could exert sustained pressure in its capital. An account centered only on diplomatic ceremonials obscures these practical constraints, while a claim of outright annexation would misstate the continuing existence of Korean institutions and decision-making."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Published primary materials and later scholarship establish context but do not justify unqualified inference",
+          "sourceIndex": 0,
+          "locator": "Imo Mutiny account and trade instrument contextual commentary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.2:b02",
+      "title": "Recasting the older relationship",
+      "paragraphs": [
+        "Qing policymakers sometimes argued that Korea's long tributary relations demonstrated a special subordinate status, whereas Korean and other foreign treaty texts used categories of independence with different practical implications. Those positions were not merely semantic. They affected diplomatic accreditation, the handling of disputes and the right to negotiate commercial agreements. The 1882 regulations for Qing and Joseon merchants provide unusually concrete evidence: their preamble and clauses articulate hierarchy in an era of expanding trade and permanent representatives. The National Institute of Korean History notes that the original instrument's repository is unknown and that copies survive through Korean official compilations. Such documentary conditions require care, but they do not erase the clauses' significance. Historians must distinguish older tributary precedence from new legal claims enforced through troops and commercial arrangements."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.2:b03",
+      "title": "Commerce and jurisdiction",
+      "paragraphs": [
+        "The Qing–Joseon trade regulations opened broader channels for merchants and established conditions that favored Qing influence. Access to ports, rights of business activity and the status of official intermediaries mattered because commerce was now entangled with who could exercise jurisdiction. Korean officials faced pressure over how revenue would be raised and who would adjudicate disputes. A clause concerning merchants might appear technical, but it could limit the practical discretion of the monarchy or its local agents. Conversely, Korean negotiators attempted to preserve workable authority within the new framework, making negotiation a field of contested choices rather than an automatic submission to external dictates. The record is richer when treaty language is connected to customs administration and commercial practice without assuming that every written provision was uniformly enforced in every district."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.2:b04",
+      "title": "The presence of military advisers",
+      "paragraphs": [
+        "Troops and military advisers offered Qing authorities immediate leverage during crises and made their diplomatic position more credible. Korean reformers were simultaneously trying to reorganize forces and secure external instruction without surrendering ultimate control over defense. The line between assistance and supervision could become blurred when advisers influenced command, procurement or policy proposals. The presence of armed foreigners did not make Korean soldiers mere bystanders; tensions within existing units and debates at court continued to shape possibilities for reform. Yet a state dependent on outside forces to settle domestic conflicts risked inviting intervention in later disputes. The lessons of 1882 therefore concerned not only the design of modern weapons and drills, but the constitutional problem of who could authorize coercion and decide which government an army served."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Published primary materials and later scholarship establish context but do not justify unqualified inference",
+          "sourceIndex": 0,
+          "locator": "Imo Mutiny account and trade instrument contextual commentary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.2:b05",
+      "title": "The Min court under constraint",
+      "paragraphs": [
+        "Members of the royal family's political circle and allied officials regained or defended influence after the mutiny, though their room for maneuver was limited by Qing claims and rival foreign demands. Group labels such as the Min faction describe shifting political networks, not a uniform bloc whose every member supported the same treaty or reform. Positions could change according to the available external patron, prospects of revenue and immediate threats. Reformers sometimes cooperated with Qing representatives for tactical reasons while seeking institutional change at home. The degree of dependence should therefore be analyzed case by case rather than assigned as a permanent ideological identity. Korean political life remained active within a hierarchy increasingly shaped by foreign military power, a tension that later radical reformers interpreted as an obstacle to national sovereignty."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.2:b06",
+      "title": "Competing outsiders, competing pressure",
+      "paragraphs": [
+        "Qing intervention also changed Japan's calculations about Korea. Japanese officials responded to the mutiny through indemnity demands and protective arrangements for their legation, while pursuing diplomatic and commercial leverage. Other treaty powers watched the rivalry in terms that did not always match Korean debates over royal authority. Governments could proclaim concern for Korea's independence while seeking privileges for their own subjects or strategic advantage over competitors. Foreign policy was consequently not a binary choice between Qing protection and Japanese modernity. Each actor could assist particular reforms and simultaneously restrict Korean discretion. A historical account must examine what specific governments demanded, what Korean officials accepted or resisted, and how written commitments were backed by troops and finance, rather than treating diplomatic statements of friendship as neutral evidence of intention."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.2:b07",
+      "title": "Documents and the experience of rule",
+      "paragraphs": [
+        "Much of the history of Qing supervision is documented through diplomatic correspondence, treaty texts and official records written by people with access to government. These sources illuminate claims to power more readily than the daily experience of merchants, soldiers and households. Even the interpretation of the 1882 trade regulations requires attention to translation and the layered survival of copies. A published text may preserve an authoritative formulation without revealing how far officials could enforce it away from the capital and ports. The historian should therefore separate norms, negotiations and observed practice. Where evidence is thin, it is preferable to describe administrative possibilities and areas of contestation than to invent widespread popular responses. The shift in diplomatic authority was consequential precisely because it affected many practical settings, though those effects were recorded unevenly."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.2:b08",
+      "title": "The crisis of sovereignty before 1884",
+      "paragraphs": [
+        "By the time radical reformers attempted their coup in 1884, the Qing position in Korea had acquired new institutional depth. A Korean government seeking to alter offices, military structures and diplomatic alignment had to consider whether Qing commanders would intervene. That constraint encouraged some activists to seek support from Japan, creating a different and equally perilous dependency. The predicament did not make any reform program inevitable. It arose from intersecting struggles over the monarchy, elite privilege, resources and external protection. The significance of Qing intervention is thus found in how it narrowed certain Korean choices while opening others and how its enforcement became a point of contest between neighboring powers. The years after 1882 should be treated as a changing political order, not an inert interval between two colorful coups."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}
