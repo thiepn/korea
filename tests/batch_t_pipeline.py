@@ -69,7 +69,7 @@ alias=json.loads((ROOT/'content/atlas/search-aliases.json').read_text())
 assert all(id in alias and len(alias[id])>=3 for id in new|appended)
 manifest=json.loads((ROOT/'data/content-manifest.json').read_text())
 assert manifest['count']==267
-assert manifest['sampleWordCount']==223052+delta,(manifest['sampleWordCount'],delta)
+assert manifest['sampleWordCount']==223050+delta,(manifest['sampleWordCount'],delta)
 assert sum(a['blocks'] for a in manifest['articles'])==1503+new_passages
 first=compile_corpus();second=compile_corpus()
 assert second['assets_changed']==0,'nondeterministic compiler'

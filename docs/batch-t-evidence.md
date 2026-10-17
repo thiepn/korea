@@ -2,7 +2,7 @@
 
 ## Canonical scope and immutability
 
-- Base main: `03bf9acf682e500edf1893c7aadd0bde379ebba5` with 250 published articles, 1,503 passages, 223,052 words and 15 canonical Git blobs.
+- Base main: `03bf9acf682e500edf1893c7aadd0bde379ebba5` with 250 published articles, 1,503 passages, 223,050 words and 15 canonical Git blobs.
 - Two completed Chapters: II.2 Wiman Joseon–Han conflict and VIII.6 Japanese colonial Government-General. All 20 canonical IDs have narrative material; II.2.1, II.2.5 and VIII.6.3 were expanded strictly append-only without changing old metadata or block identities.
 - Historical political texts, bureaucratic records and archaeological material must not be treated as equivalent forms of evidence. Claims are selectively anchored in original articles; context anchors are not direct proof of each interpretive sentence.
 
