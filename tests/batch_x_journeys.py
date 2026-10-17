@@ -30,7 +30,7 @@ with sync_playwright() as pw:
         page.keyboard.press('/');page.locator('#searchInput').fill('민무늬토기')
         page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("I.4.1")',timeout=20000)
         page.keyboard.press('Escape')
-        page.evaluate('location.hash="#/history/VIII.2.9"')
+        page.evaluate('location.hash="#/history/VIII.2.8"')
         page.wait_for_function('document.body.textContent.includes("The postal project and public administration")',timeout=20000)
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),('horizontal overflow',w)
         assert not errors,(w,errors)
