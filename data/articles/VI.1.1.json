@@ -1,0 +1,118 @@
+{
+  "id": "VI.1.1",
+  "title": "The Proclamation of Joseon in 1392 and the New Dynastic Order",
+  "kicker": "FOUNDING JOSEON · 1388–1398",
+  "description": "An evidence-aware historical narrative on the proclamation of joseon in 1392 and the new dynastic order, separating the retrospective royal annals from events, political claims and later memory.",
+  "release": "W",
+  "sourceStatus": "Original editorial history with selective primary chronicle and institutional anchors; interpretive statements are attributed contextually, not presented as independent peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Taejo and Jeongjong",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Primary court chronicle; retrospective, royal and elite-centred accounts"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Editorial introduction to the Taejo Annals",
+      "url": "https://sillok.history.go.kr/intro/haejae.do",
+      "role": "Compilation history, dynastic legitimation and manuscript provenance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jeong Mong-ju (정몽주)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0050190",
+      "role": "Late Goryeo reform, opposition to dynastic overthrow and death in 1392"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical textbook account of Taejo's accession and early Joseon",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_p102r_0010_0010",
+      "role": "A later educational account, to be read critically rather than as contemporary testimony"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Taejong Annals prefatory narrative",
+      "url": "https://sillok.history.go.kr/id/kca_000",
+      "role": "Retrospective royal self-presentation and succession politics"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.1.1:b01",
+      "title": "The founding was a coalition's response to a contested succession",
+      "paragraphs": [
+        "The dynastic change of 1392 emerged from a prolonged contest over military power, land reform, foreign policy and the authority of the last Goryeo rulers. Yi Seong-gye had risen as a commander in a political order troubled by raids, fiscal pressure and clashes between court factions. A new monarchy was not the automatic result of military success: officials, aristocratic families, military followers and royal relatives had to decide whether to preserve Goryeo, force reform through its throne or replace the dynasty entirely.",
+        "The familiar founding date marks a decisive accession, not the first day on which a coherent new state suddenly existed. Institutions, officials and cultivated landscapes from Goryeo remained indispensable. Some supporters of reform opposed changing the royal house; others believed effective government required a new source of sovereign authority. The disagreement was consequential because adopting a different king changed the basis on which offices, ritual prerogatives and family claims could be defended. A history of 1392 must therefore trace prior choices rather than begin with a triumphant enthronement."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "The late Goryeo–early Joseon political transition is reported in retrospective royal annals and institutional historical commentary, whose partisan framing requires criticism.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록 태조실록·정종실록 왕대별 기록",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.1:b02",
+      "title": "The northern expedition and the limits of obedience",
+      "paragraphs": [
+        "The order to campaign toward Liaodong in 1388 created a crisis between the Goryeo court and leading commanders. Yi Seong-gye's withdrawal from the expedition at Wihwa Island, together with his subsequent political alliance-building, made the army a decisive actor in elite politics. Accounts of weather, logistics and frontier dangers appear in the received tradition, but the exact weight of each argument in Yi's private deliberations cannot be independently established.",
+        "Withdrawal from a royal campaign could be represented as necessary prudence by supporters and as defiance by opponents. The consequences showed that control of troops and confidence among officials could outweigh the formal commands of a monarch. Yet one must not infer that every soldier sought dynastic revolution. Military families had immediate concerns about pay, provisioning, family security and survival. The path from refusal of an expedition to replacement of a ruling house was mediated by subsequent factional struggles."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "The late Goryeo–early Joseon political transition is reported in retrospective royal annals and institutional historical commentary, whose partisan framing requires criticism.",
+          "sourceIndex": 1,
+          "locator": "조선왕조실록 왕대별 해제: 태조실록 편찬 및 개수 경위",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.1:b03",
+      "title": "Gongyang and the political uses of an old throne",
+      "paragraphs": [
+        "The last years of Goryeo included the replacement of rulers and the installation of Gongyang, whose formal sovereignty operated within an increasingly constrained political coalition. Keeping a Goryeo king temporarily could make reform measures appear lawful and preserve time to bargain with opponents. It also exposed reformers to critics who maintained that the dynasty itself remained legitimate.",
+        "The death of Jeong Mong-ju in 1392, linked in the historical tradition to supporters of Yi Seong-gye, illustrates how severe the conflict became. Jeong was not simply an enemy of reform; he supported efforts to stabilize Goryeo while resisting a transfer of the throne. Later narratives have celebrated his loyalty, sometimes obscuring the difficult political choices he made in a changing court. Violence narrowed the range of alternatives and helped clear the final path to the new monarchy."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.1:b04",
+      "title": "July 1392 and the proclamation of a sovereign order",
+      "paragraphs": [
+        "Yi Seong-gye took the throne in 1392, with elite sponsors presenting the accession as a necessary response to political disorder. Formal ceremonies and proclamations were important because they translated an accomplished transfer of power into claims about proper succession, mandate and public welfare. The enthronement did not confer a popular vote, and court narratives of universal relief must be read as arguments made by the victorious coalition.",
+        "The new king's authority had to be projected into provincial offices, fiscal administration and military commands. An order issued at court was only effective when clerks, local leaders and armed officers recognized its force. This helps explain why the dynasty's first years were occupied with law, personnel, royal ritual and territorial organization rather than ceremonial self-congratulation alone. The founding was an institutional task sustained by labor and negotiated compliance beyond the palace."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.1:b05",
+      "title": "Land reform before and after accession",
+      "paragraphs": [
+        "Debates about landed wealth and the support of officeholders formed a crucial part of the transition. The gwajeon system, introduced before formal dynastic replacement, attempted to reorder rights to revenue while maintaining a trained governing elite. It should not be described as a modern redistribution of fee-simple farms to all cultivators. Claims to taxation, cultivation and hereditary status were related but distinct.",
+        "Rural households experienced political change through obligations concerning grain, service and registered land. Reform could challenge some magnate interests while preserving significant hierarchies and the need for state revenue. Historians reconstruct these effects through regulations and later commentary more readily than through the voices of every tenant. The link between agrarian policy and founding politics shows why the conflict was not exclusively about individual rulers: an argument over whose claims counted as legitimate helped shape the new state."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.1:b06",
+      "title": "Constructing a durable dynasty rather than celebrating a coup",
+      "paragraphs": [
+        "A successful seizure of the throne still left questions about the royal house, relations with Ming, the residence of central institutions and the authority of ministers. These questions became explicit in subsequent controversies over the capital, succession and military command. Taejo's court needed to turn contingent coalition relationships into arrangements that could survive his death.",
+        "The retrospective Taejo Annals were compiled under later royal authority and preserve both valuable detail and the political assumptions of those who eventually controlled succession. That provenance matters when evaluating how figures such as Jeong Do-jeon and Yi Bang-won were depicted. The strongest account combines the accession narrative with the violence and institutional bargaining that made it possible. It reads 1392 as a beginning of difficult government, not the completed expression of an already unanimous nation."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical"
+    }
+  ]
+}
