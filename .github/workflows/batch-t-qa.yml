@@ -1,0 +1,42 @@
+name: Batch T — Wiman Joseon and Colonial State Historical Corpus QA
+on:
+  push:
+    branches:
+      - feat/batch-t-wiman-colonial-state
+  pull_request:
+    paths:
+      # Historical fixture is pinned to Batch T and must not block subsequent additive batches.
+      - 'data/articles/II.2.*.json'
+      - 'data/articles/VIII.6.*.json'
+      - 'tests/batch_t_*'
+      - 'tests/fixtures/batch_t_*'
+      - '.github/workflows/batch-t-qa.yml'
+jobs:
+  historical-corpus:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build allowlisted production release
+        run: python scripts/build_release.py
+      - name: Validate canonical hashes, article preservation, words and content pack integrity
+        run: python tests/batch_t_pipeline.py
+      - name: Syntax check application scripts
+        run: |
+          node --check app.js
+          node --check exploration.js
+          node --check content-platform.js
+          node --check reader-window.js
+      - name: Install Chromium browser test runtime
+        run: |
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Run exact-head desktop/mobile generated-asset journeys
+        run: python tests/batch_t_journeys.py
+      - name: Run actual Cloudflare Pages preview desktop/mobile journeys
+        env:
+          KOREA_PREVIEW_URL: https://feat-batch-t-wiman-colonial-state.korea-eo3.pages.dev
+        run: python tests/batch_t_preview.py
