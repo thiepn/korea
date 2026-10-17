@@ -1,0 +1,142 @@
+{
+  "id": "VIII.2.9",
+  "title": "Yuan Shikai, Gojong, and the Politics of Qing Supervision",
+  "kicker": "LATE JOSEON · DIPLOMACY AND REFORM",
+  "description": "Original historical study of yuan shikai, gojong, and the politics of qing supervision, examining political claims and institutional outcomes.",
+  "release": "X",
+  "sourceStatus": "Source-critical synthesis using selective verified contextual references; not independent specialist review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jejungwon (제중원), hospital and early medical institution",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051479",
+      "role": "Historical encyclopedia evidence for 1885 founding, Gojong patronage and later missionary operation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Postal Administration (우정총국), establishment and closure",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040100",
+      "role": "Institutional history of the new postal administration and the Gapsin interruption"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Joseon–Qing Telegraph Agreement (조청전선조약)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0052704",
+      "role": "Treaty-era telegraph infrastructure negotiated in 1885"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Qing–Joseon trade regulations and interpretation",
+      "url": "https://contents.history.go.kr/mobile/mid/hm_115_0050?tabId=e",
+      "role": "Source edition and interpretation of 1882 treaty claims, surviving through copies"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Qing–Japan Tianjin Convention (1885)",
+      "url": "https://contents.history.go.kr/mobile/tg/view.do?ganada=&levelId=tg_004_1080&pageUnit=10&subjectCode=all&tabId=02",
+      "role": "Historical glossary for treaty-era security rivalry"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gapsin Coup, Qing political impact and Gojong's diplomacy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000922",
+      "role": "Scholarly synthesis of attempted post-coup realignment and domestic policy"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.2.9:b01",
+      "title": "Yuan Shikai within Qing supervision",
+      "paragraphs": [
+        "Yuan Shikai became a prominent Qing representative involved in supervising political and diplomatic affairs in Korea after the mid-1880s. His authority operated within a broader Qing strategy of asserting influence following the Imo Mutiny and Gapsin Coup. A history centered on his personal ambition alone overlooks the military and treaty structures that made such influence possible. Qing officials had to coordinate among competing views within their government while managing relations with the Korean court and foreign representatives. Yuan's position created opportunities to intervene in appointments and diplomatic matters, but the degree of effective control varied with the issue and the resistance or cooperation of Korean actors. Historians should distinguish recommendations, threats and implemented decisions. The presence of a powerful foreign resident official did not legally erase the monarchy, although it could constrain the monarch's practical discretion."
+      ],
+      "sequence": 1,
+      "label": "Original source-critical historical synthesis",
+      "evidence": [
+        {
+          "claim": "Institutional documentary history requires distinguishing contemporary statements from confirmed implementation",
+          "sourceIndex": 3,
+          "locator": "Late Joseon institutions, foreign-relations archives and contextual document annotations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.9:b02",
+      "title": "The monarchy sought room to maneuver",
+      "paragraphs": [
+        "Gojong did not simply abandon statecraft when Qing pressure increased. He continued to seek information, cultivate advisers and consider alternative foreign relationships that might reduce dependence on a single power. Such efforts sometimes included discreet approaches whose meaning remains contested in surviving diplomatic records. A suggestion of possible Russian support, for example, should not automatically be described as a completed secret treaty. Informal diplomacy can serve as leverage without producing a binding agreement. The monarch's strategies also reflected concern for domestic factions and the security of the court. Some choices could widen options temporarily while exposing Korea to suspicions of disloyalty from Qing officials. Royal agency and external constraint existed together, and the success of one maneuver cannot be judged apart from the risks it introduced into other negotiations."
+      ],
+      "sequence": 2,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.9:b03",
+      "title": "Advisory power and state appointments",
+      "paragraphs": [
+        "Foreign advice is politically significant when a government depends on the adviser for force, loans or access to international channels. Yuan and other Qing personnel were able to press views on administrative and diplomatic questions in ways ordinary foreign visitors could not. Yet a direct line from recommendation to decree should not be assumed unless the documentary sequence establishes it. Ministers had their own reasons to support or oppose proposals, and royal directives could be modified during implementation. Court records often preserve formal decisions more clearly than the negotiations leading to them. A historian should compare Qing correspondence with Korean sources and accounts from other legations to reconstruct who asserted authority and how far it was obeyed. That source comparison helps avoid both exaggerating total Qing command and minimizing the loss of meaningful Korean freedom of action."
+      ],
+      "sequence": 3,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.9:b04",
+      "title": "The position of Qing merchants",
+      "paragraphs": [
+        "Commercial privileges established after 1882 altered the practical relations among Qing traders, Korean officials and other foreign merchants. Where Qing residents acquired recognized rights to operate or move goods, local competitors and customs authorities encountered different rules. The political significance extended beyond individual merchants' profits: legal protection and dispute settlement revealed whose jurisdiction prevailed. The Qing–Joseon trade regulations offer evidence of claims that could be invoked in such situations, although daily enforcement varied. Yuan's diplomatic role should be considered alongside these economic instruments, without assuming he personally decided every commercial case. Korean traders could cooperate with Qing merchants as partners or contest their privileges, depending on market circumstances. The surviving record is stronger for official complaints and treaty disputes than for the total volume of ordinary transactions."
+      ],
+      "sequence": 4,
+      "label": "Original source-critical historical synthesis",
+      "evidence": [
+        {
+          "claim": "Institutional documentary history requires distinguishing contemporary statements from confirmed implementation",
+          "sourceIndex": 3,
+          "locator": "Late Joseon institutions, foreign-relations archives and contextual document annotations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.9:b05",
+      "title": "Foreign legations and conflicting testimony",
+      "paragraphs": [
+        "Representatives of Japan, Western states and Qing reported on the Korean court through their own strategic priorities. A foreign dispatch criticizing Yuan's behavior might reflect a genuine observation of coercion, rivalry with Qing, or both. Likewise, a Qing account portraying intervention as protective guidance should be assessed against the leverage produced by troops and treaty rules. Korean memorials and royal instructions could provide another perspective, although their language might also be shaped by the need to avoid confrontation. None of these sources should be treated as a camera recording the court. The value lies in comparing claims, dates, actions and subsequent outcomes. Politically charged labels such as domination or independence become more informative when attached to specified decisions rather than used as self-evident descriptions of an entire decade."
+      ],
+      "sequence": 5,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.9:b06",
+      "title": "Personnel networks and factional change",
+      "paragraphs": [
+        "Korean officials did not divide permanently into two camps of patriots and collaborators. Allegiances shifted across issues of finance, military training, status and the possibility of securing a powerful protector. A reformer might accept an adviser from Qing while pursuing measures to strengthen Korean institutions, or oppose Qing influence while misjudging the consequences of Japanese support. Yuan's presence added a significant force to these calculations, but domestic interests had their own momentum. The court's personnel disputes should be reconstructed through appointment records and specific policy episodes rather than retrospective moral labels alone. Some elites gained power through foreign backing; others attempted to use rivalry among outsiders to defend royal autonomy. Such maneuvers could produce short-term gains without resolving the broader asymmetry of power."
+      ],
+      "sequence": 6,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.9:b07",
+      "title": "Communications and strategic reach",
+      "paragraphs": [
+        "Qing influence was reinforced by transportation and communication arrangements that made coordination with officials across the region faster and more predictable. Telegraph proposals and commercial routes had technical utility while carrying strategic significance. Where an external government helped construct or control lines, it could gain advantages in information gathering and rapid response. Korean officials also wanted improved communication to manage customs, diplomacy and military emergencies. The same network might therefore serve partially compatible objectives in ordinary administration and conflicting ones in a crisis. Historians should verify which lines existed at which dates and avoid assuming that a treaty created immediate nationwide connectivity. The politics of supervision were embedded in ordinary infrastructures whose financing and operation affected both dependence and possible Korean capacity-building."
+      ],
+      "sequence": 7,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.9:b08",
+      "title": "The changing balance before the Sino-Japanese War",
+      "paragraphs": [
+        "By the early 1890s Qing supervision remained important, yet the regional diplomatic environment was unstable and Japan continued to pursue strategic influence. Korean policymakers confronted overlapping demands while domestic reform debates and rural distress sharpened. Yuan's role illustrates a phase in which Qing authorities attempted to translate older hierarchical claims into practical control within a treaty-centered international environment. It was not a timeless continuation of an unchanged tributary system. Nor did Qing preponderance eliminate the possibility of rival intervention. The events of 1894 exposed how quickly a balance managed through resident officials and agreements could be challenged by military escalation. The historical task is to explain the structures and decisions that made Korea vulnerable, not to depict its subsequent history as foreordained by one envoy's personality."
+      ],
+      "sequence": 8,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    }
+  ]
+}
