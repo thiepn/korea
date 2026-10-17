@@ -1,0 +1,130 @@
+{
+  "id": "V.3.9",
+  "title": "Household, Childhood, Aging, Health, Death, and the Life Course",
+  "kicker": "GORYEO · FAMILY, LIFE AND PLACE",
+  "description": "Source-critical survey of household, childhood, aging, health, death, and the life course across varied legal statuses and regional environments.",
+  "release": "V",
+  "sourceStatus": "Original scholarly synthesis from Korean institutional research; surviving family archives disproportionately represent elites.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo social status, family, inheritance and kinship",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_015_0030_0020_0020_0020",
+      "role": "Academic research on bilateral kinship, marriage, family and property"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History, Goryeo family and status",
+      "url": "https://contents.history.go.kr/data/pdf/nh/nh_015_0020.pdf",
+      "role": "Marriage, property inheritance and documented variation among elite families"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo nobi",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012757",
+      "role": "Legal dependency and the limits of reconstructing ordinary lives"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo local clerks, hyangni",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062905",
+      "role": "Regional officials, social ranking, central-provincial relationships"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.3.9:b01",
+      "title": "A lifetime was shaped by household and status",
+      "paragraphs": [
+        "The course of life in Goryeo differed profoundly between a child of a leading official, a free farming household and a dependent worker. Childhood involved learning tasks appropriate to local circumstances, and education for examination office was accessible to only a minority. Family relationships, economic security and obligations to employers or owners shaped when people could travel, marry or establish independent households.",
+        "A modern division of childhood, adolescence and retirement should not be imposed as a uniform historical pattern. Written sources often mark milestones that mattered to elites—birth, office, marriage and funerals—while recording fewer details of ordinary development. Archaeological evidence can illuminate disease and nutrition, but it rarely supplies the name or biography of an individual child. The challenge is to describe the conditions of life without inventing a typical voice that never survives."
+      ],
+      "sequence": 1,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.9:b02",
+      "title": "Birth and the fragility of survival",
+      "paragraphs": [
+        "Pregnancy and childbirth were central household events with physical risks and implications for succession and inheritance. Wealthier households might obtain more extensive care and ritual assistance, whereas poorer families confronted labour demands and the consequences of inadequate food or illness. Practices of childbirth and infant care were not identical across every region.",
+        "Sources describing protection rituals or medical recommendations illuminate beliefs and elite advice, but they do not provide a complete measure of infant mortality. Modern demographic estimates require carefully justified assumptions and cannot be drawn from a handful of biographies. What is clear is that households had to manage vulnerability and uncertainty, and that unequal access to resources shaped the ability to respond."
+      ],
+      "sequence": 2,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.9:b03",
+      "title": "Learning and entry into adulthood",
+      "paragraphs": [
+        "Young people learned skills through family work, apprenticeship and, for some men, formal study of texts useful in administration. A son preparing for examinations required time away from subsistence labour, access to instruction and a household able to support him. Daughters might learn property management and social obligations differently according to family rank.",
+        "We must resist the image of a kingdom in which every boy entered a village school or every girl received the same domestic curriculum. The documentary record is concentrated on institutions serving official and religious elites. Informal knowledge—the care of animals, cultivation, cooking, trade and craft—was widespread but much less often described in writing. Understanding education in this broad sense helps make ordinary skill visible without pretending it was recorded as a formal syllabus."
+      ],
+      "sequence": 3,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.9:b04",
+      "title": "Marriage, livelihood and new responsibilities",
+      "paragraphs": [
+        "Entering a marriage could change residence, work and the distribution of family property. Kin connections offered support but also created claims on labour or resources, especially where several generations shared obligations. A newly established farming household needed seed, tools, access to fields and protection from harvest failure.",
+        "Marital practices varied with class and legal status. The possibility of sharing inheritance among daughters and sons in some households does not make all marriages economically equal partnerships. Conversely, assumptions derived from later patrilineal norms should not erase Goryeo's documented bilateral kinship. Household life needs analysis through work and property as well as ritual prescriptions."
+      ],
+      "sequence": 4,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.9:b05",
+      "title": "Illness and institutional help",
+      "paragraphs": [
+        "Illness could interrupt agricultural work or an official career and place burdens on relatives. The Goryeo state and Buddhist institutions undertook forms of relief, including facilities associated with care for the poor and sick. Such arrangements indicate concern for welfare, but their existence does not prove that all residents could obtain medical treatment whenever needed.",
+        "The effectiveness and geographical distribution of assistance are crucial questions. A hospital or relief institution at the capital might be inaccessible to a distant mountain village. Medical writing preserves treatments and theoretical ideas but not an exhaustive record of outcomes. Historians should distinguish royal benevolence recorded in annals from the practical experience of people seeking help during epidemics, famine or ordinary disease."
+      ],
+      "sequence": 5,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.9:b06",
+      "title": "Old age and mutual care",
+      "paragraphs": [
+        "Older household members could hold property, knowledge and ceremonial authority, yet ageing also created vulnerability when strength declined. Families might distribute responsibility among descendants or rely on available dependants for daily support. A wealthy older parent with assets was in a different situation from an impoverished worker whose security rested upon others' willingness to provide food.",
+        "Normative celebrations of filial devotion should not be equated with guaranteed care. Conflicts over inheritance or marriage could undermine support. We can identify ideals and some concrete provisions from documents, but ordinary negotiations within most households went unrecorded. An account of ageing should therefore include both respected elders and the material difficulty of dependence."
+      ],
+      "sequence": 6,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.9:b07",
+      "title": "Death, memorial and unequal visibility",
+      "paragraphs": [
+        "Funeral practice, Buddhist memorial rites and tomb construction expressed beliefs about family continuity and obligations to the dead. Wealthy patrons could commission inscriptions or monuments that preserve individual achievements. Poorer families more often survive through archaeological remains without personal names. The imbalance makes elite experiences appear unusually detailed in historical writing.",
+        "Tomb objects and human remains can yield information about status, diet, age and disease, but interpretation must be cautious. A grave's richness need not translate directly into a named legal rank, and burial practice changed during the dynasty. The life-course perspective ends by emphasizing a methodological constraint: the archive remembers some deaths richly while leaving most ordinary lives anonymous."
+      ],
+      "sequence": 7,
+      "label": "Original social history"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "V.3.10",
+  "title": "Urban Communities, Marginalized Populations, and Regional Diversity",
+  "kicker": "GORYEO · FAMILY, LIFE AND PLACE",
+  "description": "Source-critical survey of urban communities, marginalized populations, and regional diversity across varied legal statuses and regional environments.",
+  "release": "V",
+  "sourceStatus": "Original scholarly synthesis from Korean institutional research; surviving family archives disproportionately represent elites.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo social status, family, inheritance and kinship",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_015_0030_0020_0020_0020",
+      "role": "Academic research on bilateral kinship, marriage, family and property"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History, Goryeo family and status",
+      "url": "https://contents.history.go.kr/data/pdf/nh/nh_015_0020.pdf",
+      "role": "Marriage, property inheritance and documented variation among elite families"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo nobi",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012757",
+      "role": "Legal dependency and the limits of reconstructing ordinary lives"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo local clerks, hyangni",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062905",
+      "role": "Regional officials, social ranking, central-provincial relationships"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.3.10:b01",
+      "title": "Gaegyeong was not all of Goryeo",
+      "paragraphs": [
+        "The capital gathered royal institutions, major households, markets, temples and people seeking office. Its concentration of records and monuments gives it a dominant position in modern histories. Yet Goryeo society extended across varied agricultural valleys, mountains, coastal settlements and islands. The experiences of residents who seldom visited Gaegyeong could differ sharply from those of officials living near court.",
+        "The contrast is not simply urban richness against rural poverty. Provincial centres supported administrators, traders and regional elites, while residents of the capital included workers and dependants with limited means. Historians should not treat place as a substitute for social rank. Geography influenced opportunities, but class, legal status and personal relationships also shaped access to food, schooling and protection."
+      ],
+      "sequence": 1,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.10:b02",
+      "title": "Town work, exchange and craft",
+      "paragraphs": [
+        "Urban communities needed food distribution, building labour, transport, utensils, clothing and religious supplies. Craftspeople and traders maintained networks that connected workshops with countryside producers. A market may have served ordinary buyers while also supplying elite or monastic demand for distinctive goods.",
+        "Our evidence is stronger for prestigious objects than for all the tools and repaired household goods that made daily life possible. A celebrated ceramic vessel cannot represent the complete economy of a town. Archaeological contexts, commercial documents and institutional orders should be examined together. Goods circulated through many arrangements, including sale, gift and official requisition, rather than a single undifferentiated commercial system."
+      ],
+      "sequence": 2,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.10:b03",
+      "title": "Special-service settlements and the risks of classification",
+      "paragraphs": [
+        "The residents of hyang, so and bugok are prominent in accounts of Goryeo's differentiated local communities. These administrative categories were associated with particular obligations or specialized production, but the precise degree and legal meaning of subordination changed over time. Older descriptions that treat all residents as an identical caste cannot encompass the diversity of evidence.",
+        "A settlement designated for a craft or service might include free households facing restrictive duties, dependent people and locally influential figures. Historians should ask what a legal designation required rather than simply assume it described every individual's ancestry or occupation. Documentary labels also reflected the state's fiscal interests and may conceal variations in local power. The categories matter precisely because they combined economic functions with social differentiation."
+      ],
+      "sequence": 3,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.10:b04",
+      "title": "Coasts, islands and mobility",
+      "paragraphs": [
+        "Coastal and island residents participated in fishing, maritime transport, agriculture and exchange, subject to changing risks from weather and warfare. Some communities maintained connections to larger ports, while others faced high costs of travel or limited administrative attention. Government demands for ships, grain or sailors could impose particular burdens on those possessing maritime skills.",
+        "The sea could enable mobility but also expose households to piracy, campaigns and forced movement. It is inaccurate to describe coastal communities as uniformly cosmopolitan merely because goods crossed water. Evidence for an imported object does not identify the route or the occupation of every intermediary. Regional differences should be grounded in archaeology and specific accounts of transport, not generalized from a map."
+      ],
+      "sequence": 4,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.10:b05",
+      "title": "Religion and shared spaces",
+      "paragraphs": [
+        "Temples served as centres of worship, education and economic activity, supported by donations and labour. A settlement near a monastery might participate in seasonal festivals or supply goods and services. Religious affiliation and local cooperation could create relationships cutting across some formal status boundaries while leaving profound inequalities intact.",
+        "Elite donors are disproportionately visible through inscriptions, whereas ordinary worshippers seldom appear by name. It is tempting to infer harmonious communal life from images of shared ceremonies, but institutions also owned property and could claim labour from dependants. The same temple might offer relief and exercise economic power. Regional society must be studied through these overlapping roles rather than a one-dimensional account of benevolent religious culture."
+      ],
+      "sequence": 5,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.10:b06",
+      "title": "Marginalized livelihoods and changing labels",
+      "paragraphs": [
+        "Occupational groups such as itinerant performers, animal handlers or specialized workers are sometimes represented in later legal and moralizing accounts as inherently degraded. Those sources need careful dating. A label used in a fourteenth-century document may not describe how a community was treated in the eleventh.",
+        "The lives of people outside recognized elite households were diverse, and categories could be imposed from above rather than chosen by residents. Mobility, seasonal work and differences in wealth complicate any attempt to map social exclusion to one fixed group. Historians should separate an institution's formal discrimination from the everyday relationships of trade, marriage and cooperation that may have crossed the designation."
+      ],
+      "sequence": 6,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.10:b07",
+      "title": "The local landscape of historical memory",
+      "paragraphs": [
+        "Gaegyeong's court records were preserved more extensively than most provincial household narratives, and later dynastic historians selected particular events to explain political change. Archaeology can rebalance the picture by documenting settlement, craft and burial beyond the capital, but material finds cannot easily restore individual motivations.",
+        "A regionally attentive history asks how social hierarchies operated in actual places and when they changed. The Mongol invasions, internal revolts and later economic transformations affected provinces differently. No single village stands for Goryeo as a whole. The Chapter therefore ends with diversity as a historical conclusion: shared institutions operated through local ecologies, unequal status and human networks whose experiences cannot be compressed into one national household."
+      ],
+      "sequence": 7,
+      "label": "Original social history"
+    }
+  ]
+}

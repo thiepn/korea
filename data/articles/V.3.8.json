@@ -1,0 +1,130 @@
+{
+  "id": "V.3.8",
+  "title": "Women, Property, Inheritance, Marriage, and Social Authority",
+  "kicker": "GORYEO · FAMILY, LIFE AND PLACE",
+  "description": "Source-critical survey of women, property, inheritance, marriage, and social authority across varied legal statuses and regional environments.",
+  "release": "V",
+  "sourceStatus": "Original scholarly synthesis from Korean institutional research; surviving family archives disproportionately represent elites.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo social status, family, inheritance and kinship",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_015_0030_0020_0020_0020",
+      "role": "Academic research on bilateral kinship, marriage, family and property"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History, Goryeo family and status",
+      "url": "https://contents.history.go.kr/data/pdf/nh/nh_015_0020.pdf",
+      "role": "Marriage, property inheritance and documented variation among elite families"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo nobi",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012757",
+      "role": "Legal dependency and the limits of reconstructing ordinary lives"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo local clerks, hyangni",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062905",
+      "role": "Regional officials, social ranking, central-provincial relationships"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.3.8:b01",
+      "title": "Women's property and the risk of anachronism",
+      "paragraphs": [
+        "Goryeo women from property-holding families could participate in inheritance and convey resources through marriage. These arrangements have led historians to emphasize the significance of bilateral kinship and the greater visibility of daughters in some estate divisions compared with later periods. Yet legal recognition of property did not amount to political equality or freedom from social pressure.",
+        "A woman with an estate might face expectations from parents, siblings, a spouse and the court. A dependent woman could be treated as property rather than inheritor. Historians should therefore avoid replacing the misleading statement that all premodern women were powerless with an equally misleading claim that Goryeo society granted uniform female autonomy. Class, legal status and kinship changed the practical meaning of rights."
+      ],
+      "sequence": 1,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.8:b02",
+      "title": "Marriage connections and political influence",
+      "paragraphs": [
+        "Mothers, queens, consorts and royal in-laws could shape dynastic legitimacy and access to the monarch. Their influence often operated through relationships and institutions not captured by formal lists of officials. This was particularly visible when succession disputes exposed the rival ambitions of kin groups.",
+        "A chronicle written through male political officeholding may portray influential women primarily as the relatives of men. That perspective obscures their own decisions while sometimes exaggerating personal intrigue as an explanation of state affairs. It is better to examine documented actions, patronage, petitions or donations rather than infer motives from a later writer's character judgment. Political influence and recognized office were related but not identical categories."
+      ],
+      "sequence": 2,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.8:b03",
+      "title": "Equal shares and important exceptions",
+      "paragraphs": [
+        "The division of certain assets among children, including daughters, is a notable feature of surviving Goryeo inheritance evidence. Documentation concerning nobi particularly suggests division among offspring instead of an unqualified priority for a single eldest son. However, the status of different properties and the practical terms of a division require attention.",
+        "An apparent equal allocation by number does not establish equal economic value, nor does it show that all heirs controlled their shares without interference. Family negotiation, ritual obligations and the interests of spouses could shape outcomes. A historian ought to ask which document is being analyzed, what its purpose was and whether it records an ideal principle, an actual settlement or a later dispute about ownership."
+      ],
+      "sequence": 3,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.8:b04",
+      "title": "Education, religion and cultural participation",
+      "paragraphs": [
+        "Buddhist communities created avenues for women to commission rituals, support temples and appear as donors. Women of certain families could contribute significant resources to religious projects; this participation made them visible in inscriptions and other surviving memorial records. Yet access to wealth strongly influenced the possibility of documented patronage.",
+        "The religious world also included people who did not possess the resources to endow a building or a manuscript. A record naming an elite benefactor cannot stand for all female devotional life. Nor should religious participation automatically be interpreted as a straightforward challenge to social hierarchy: donors could use the same institutions to reinforce family prestige and obligations. The historical interest lies in the interaction of devotion, property and public recognition."
+      ],
+      "sequence": 4,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.8:b05",
+      "title": "Work and daily authority",
+      "paragraphs": [
+        "Women laboured in agriculture, household production, care and exchange, sometimes within family enterprises and sometimes under dependency. Their contributions were economically indispensable even where officials recording tax obligations used male household names. We should not infer the absence of work from the absence of women's names in administrative tallies.",
+        "The precise division of tasks is hard to reconstruct without local evidence. Textile production, food preparation or market activity could vary by place and wealth, and statements that every Goryeo woman performed the same occupations would be guesswork. Archaeological tools indicate work practices but rarely identify individual users. Social history must combine material settings with cautious interpretation of written references."
+      ],
+      "sequence": 5,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.8:b06",
+      "title": "Widowhood, remarriage and social change",
+      "paragraphs": [
+        "Patterns of remarriage and household reconstitution are part of the long history of Korean family life. Goryeo should not be treated as operating under the more restrictive late-Joseon ideal of female widow chastity. Nonetheless, the available evidence is selective, and the prospects of a widow depended on property, dependants and the interests of relatives.",
+        "The ability to remarry did not erase grief, economic insecurity or the risk of losing control over resources. Nor does the existence of permissive custom imply the absence of moral expectations. Historians should separate documented practice from moralizing statements in later compilations and specify whether they are describing aristocratic behaviour, legal permission or the conditions experienced by poorer women."
+      ],
+      "sequence": 6,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.8:b07",
+      "title": "Reading elite evidence without erasing other women",
+      "paragraphs": [
+        "The most detailed accounts of women's property often involve families wealthy enough to retain documents and litigate inheritance. They reveal that Goryeo household power cannot be modeled simply as men possessing all assets. But they do not describe the full population of free women, artisans, servants and nobi.",
+        "A balanced account must keep the contrast visible. Legal capacity and social recognition were uneven; the archive's visibility is itself a function of status. Women's history gains precision by identifying the circumstances under which particular people could own, donate, inherit or negotiate, and by recognizing the many lives for which the record remains silent."
+      ],
+      "sequence": 7,
+      "label": "Original social history"
+    }
+  ]
+}
