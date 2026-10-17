@@ -473,5 +473,89 @@
       ],
       "release": "C"
     }
-  }
+  },
+  "batch_w_blocks": {
+    "VI.1.1": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VI.1.2": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VI.1.3": {
+      "prior_blocks": 4,
+      "batch_w_end": 12
+    },
+    "VI.1.4": {
+      "prior_blocks": 3,
+      "batch_w_end": 11
+    },
+    "VI.1.5": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VI.1.6": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VI.1.7": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VI.1.8": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VI.1.9": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VI.1.10": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VII.1.1": {
+      "prior_blocks": 4,
+      "batch_w_end": 12
+    },
+    "VII.1.2": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VII.1.3": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VII.1.4": {
+      "prior_blocks": 3,
+      "batch_w_end": 11
+    },
+    "VII.1.5": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VII.1.6": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VII.1.7": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VII.1.8": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VII.1.9": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    },
+    "VII.1.10": {
+      "prior_blocks": 0,
+      "batch_w_end": 9
+    }
+  },
+  "expected_new_passages": 176,
+  "expected_delta_approx": 20847
 }
