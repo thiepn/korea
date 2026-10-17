@@ -1,0 +1,142 @@
+{
+  "id": "V.3.4",
+  "title": "Hyangni, Local Clerks, and Provincial Society",
+  "kicker": "GORYEO · STATUS AND SOCIAL RELATIONSHIPS",
+  "description": "Critical social history of hyangni, local clerks, and provincial society in Goryeo, distinguishing official categories from household experience.",
+  "release": "V",
+  "sourceStatus": "Original synthesis from NIKH New Korean History and AKS encyclopedia; later Goryeosa retrospectively compiles earlier records.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History, volume 15: Goryeo Society, Status and Family",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_015_0030_0020_0020_0020",
+      "role": "Scholarly secondary synthesis for Goryeo status distinctions, family and inheritance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Munbeol (문벌)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0072775",
+      "role": "Powerful civil-official lineages and hereditary prestige"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangni (향리)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062905",
+      "role": "Local clerk formation and Goryeo provincial administration"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangyeok (향역)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062965",
+      "role": "Duties of local officials and labour, tribute, census and taxes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nobi (노비)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012757",
+      "role": "Changing dependent statuses, sale, ownership and 956 legislation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nobi restoration regulations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012770",
+      "role": "Later reversal and enforcement of status rules"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.3.4:b01",
+      "title": "The officials who connected villages to the kingdom",
+      "paragraphs": [
+        "A court centred on Gaegyeong could issue orders across a wide territory only by working with people who understood local households, harvests and roads. Hyangni, often translated as local clerks or functionaries, performed this essential intermediary work. Their positions emerged partly from the reorganization of powerful provincial families who had shaped the peninsula before and during Goryeo's founding.",
+        "A local clerk was not necessarily an insignificant scribe. Leading figures called hojang could have considerable authority within a district, and some families cultivated longstanding standing through service. Their relationship to centrally dispatched officials could involve cooperation, rivalry or negotiation. The court's claim to govern an area therefore depended on an administrative partnership, not on the direct presence of an official appointed from the capital in every community."
+      ],
+      "sequence": 1,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 15: 고려 사회의 신분제와 가족제도",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.4:b02",
+      "title": "The inheritance of local authority",
+      "paragraphs": [
+        "Several generations of one family might provide clerks or senior local officers, giving them specialized knowledge and social networks. The court had reasons to use such people, because land measurement, registers and transport obligations could not be managed effectively by strangers alone. Yet hereditary service also created opportunities for local influence that central rulers might distrust.",
+        "The history of hyangni is consequently bound up with centralization. Some early provincial leaders entered the high central elite, while others were increasingly defined through local administrative posts and their accompanying obligations. This distinction was gradual and differed across regions. A later account that portrays hyangni simply as low-status intermediaries can conceal their earlier political importance and the varying resources retained by particular families."
+      ],
+      "sequence": 2,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 문벌 항목",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.4:b03",
+      "title": "Taxes and the practical knowledge of households",
+      "paragraphs": [
+        "The tasks recorded in discussions of hyangyeok include collection of taxes and tribute, census work and the mobilization of people for military or labour services. These activities required knowledge of who cultivated which fields, which households could furnish transport and which residents were absent. Such knowledge gave local officials leverage over both households and the central state.",
+        "Registers were tools of government but not infallible descriptions of society. A village household might be entered under a category appropriate for taxation without every member's life fitting that category neatly. Local officials had incentives to report accurately for revenue, but also faced pressure from powerful residents and their own kin. An administrative historian should compare what rules required with what surviving records show was actually collected."
+      ],
+      "sequence": 3,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 4,
+          "locator": "한국민족문화대백과사전 노비 및 노비안검법 관련 항목",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.4:b04",
+      "title": "The senior hojang and local prestige",
+      "paragraphs": [
+        "Within the local administrative hierarchy, senior positions could carry prestige, ceremonial duties and visible symbols of authority. Accounts of hyangni traditions include the role of leading officers in presenting themselves at the capital during significant state occasions. Such activities connected local society to monarchy and gave provincial families opportunities to display recognized service.",
+        "The hierarchy still was not identical to central civil-service rank. A powerful local leader might be respected at home while remaining excluded from key capital appointments. Some families could send descendants to examinations or arrange marriages that crossed these distinctions. Others were increasingly confined to service obligations. Prestige was situational: the ability to influence a village did not necessarily translate into influence over royal policy."
+      ],
+      "sequence": 4,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.4:b05",
+      "title": "The relation between dispatched officials and clerks",
+      "paragraphs": [
+        "When the court placed a centrally appointed magistrate or representative in a locality, that official depended heavily on the clerks already resident there. They held records, knew roads and could identify which people could carry out an order. The partnership could strengthen governance by combining authority from the capital with practical local knowledge.",
+        "It could also produce tension over corruption, favours and the division of revenues. A short-serving appointee might rely on established families whose interests did not match the court's. Conversely, a clerk could use familiarity with people and documents to resist an order discreetly. Describing local administration as simply centralized or autonomous therefore misses the actual process of bargaining through which decisions were implemented."
+      ],
+      "sequence": 5,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.4:b06",
+      "title": "Provincial mobility and educational ambitions",
+      "paragraphs": [
+        "The boundary between local and central office was not completely sealed. Education, military success, royal patronage or relationships with well-connected relatives could give particular hyangni families new opportunities. Yet such paths were uneven and increasingly contested. The number of celebrated figures who reached the centre should not stand in for a typical experience across all districts.",
+        "The aspiration to obtain recognized rank could influence a family's investment in schooling or marriage. Some local clerks maintained a hereditary identity built around practical work rather than pursuing higher posts. Their material resources and social standing differed sharply. This diversity is important for understanding how provincial society furnished both stable administrators and candidates for broader political influence."
+      ],
+      "sequence": 6,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.4:b07",
+      "title": "Why source perspective matters",
+      "paragraphs": [
+        "A great deal of information about local institutions survives through compilations and histories concerned with royal government. These records often describe what the court expected clerks to do, not the negotiations that accompanied each demand. Village perspectives are more fragmentary. A complaint recorded after an official's misconduct may exaggerate either corruption or the authority of the complainant.",
+        "The Academy of Korean Studies' entries on hyangni and hyangyeok help distinguish the social origins of provincial officeholders from their later legal obligations. They also show the risks of projecting Joseon-era low clerical status backward into Goryeo. A sensitive history reads central categories critically and treats local officials as historical actors with their own networks and constraints."
+      ],
+      "sequence": 7,
+      "label": "Original source-conscious narrative"
+    }
+  ]
+}
