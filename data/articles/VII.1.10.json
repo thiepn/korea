@@ -1,0 +1,118 @@
+{
+  "id": "VII.1.10",
+  "title": "Samjeondo, Hostages, Reconstruction, and Joseon's New Qing Relationship",
+  "kicker": "LATER JIN AND QING · INVASIONS AND AFTERMATH",
+  "description": "A source-conscious account of samjeondo, hostages, reconstruction, and joseon's new qing relationship, distinguishing Qing/Joseon claims, firsthand diaries and later national memory.",
+  "release": "W",
+  "sourceStatus": "Original synthesis; palace annals and later commemorations are interested evidence, supplemented by AKS chronology and firsthand diarists.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "The Manchu invasion of 1636–1637 (병자호란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0023151",
+      "role": "Detailed chronology and outcome of the 1636–37 Qing invasion"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Injo",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Court strategy and retrospection under Injo and successor reigns"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gang Hong-rip (강홍립)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001497",
+      "role": "1627 negotiations and prior 1619 military contacts"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jianzhou field report (건주문견록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0076457",
+      "role": "Contemporary returned traveller's first-hand account, compiled with personal political interests"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Na Heon collection and Namhan diaries",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011545",
+      "role": "First-person accounts of 1636–1637 siege, surrender and hostage journeys"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.1.10:b01",
+      "title": "Samjeondo as political act and remembered humiliation",
+      "paragraphs": [
+        "Injo's submission at Samjeondo in 1637 was a ceremonial acknowledgement of Qing authority following military defeat. The place and the associated monument became charged symbols in the later memory of Joseon's foreign relations. A rite that Qing officials could see as confirming a legitimate imperial hierarchy could be experienced in Joseon as a severe violation of established moral and diplomatic expectations.",
+        "The surrender must be reconstructed through dated court records and accounts from participants rather than depicted only as a timeless national wound. Different observers had different interests in describing the king's actions. Later commemorations and polemics added layers of meaning. The historical event was concrete: military pressure forced a diplomatic settlement, and a ruler publicly enacted it before an enemy commander."
+      ],
+      "sequence": 1,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "The 1627 and 1636–37 campaigns, royal movements and consequences are documented in the Injo Annals and contextualized by scholarly chronology.",
+          "sourceIndex": 0,
+          "locator": "한국민족문화대백과사전 병자호란: 배경·경과·결과",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.10:b02",
+      "title": "Hostages and the human consequences of peace",
+      "paragraphs": [
+        "The postwar settlement involved the dispatch of royal hostages, including Crown Prince Sohyeon and Prince Bongrim, to the Qing political centre. Their experiences reflected the practical instruments by which a dominant power sought to secure a subordinate court's compliance. Hostages could also learn about Qing institutions and communicate information unavailable to the government they had left behind.",
+        "The records of elite princes are better preserved than the lives of many common captives taken during the invasions. The latter faced displacement, difficult attempts at return and uncertain family relationships. The historian should distinguish different categories of people carried north and the varied possibilities for redemption, escape or permanent separation. The end of field operations did not restore the household networks broken by invasion."
+      ],
+      "sequence": 2,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "The 1627 and 1636–37 campaigns, royal movements and consequences are documented in the Injo Annals and contextualized by scholarly chronology.",
+          "sourceIndex": 1,
+          "locator": "조선왕조실록 인조실록, 인조 5년 및 14–15년",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.10:b03",
+      "title": "The reordering of interstate loyalty",
+      "paragraphs": [
+        "After 1637 Joseon operated within a regional order increasingly dominated by Qing rather than Ming. Diplomatic communication, tribute forms and the movement of envoys had to reflect the new hierarchy, although emotional and ideological loyalty to Ming persisted among influential Korean officials. Political practice and private or scholarly conviction did not necessarily change at the same pace.",
+        "A court could fulfil formal obligations to Qing while continuing to cultivate narratives of Ming fidelity. This duality shaped the later ideological identity of Joseon, including discussions of civilization and rightful succession. It would be misleading to describe postwar diplomacy as either complete voluntary acceptance or continuous open resistance. The state was adapting to an unequal settlement with constrained choices."
+      ],
+      "sequence": 3,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.10:b04",
+      "title": "Fiscal burdens and rural reconstruction resumed",
+      "paragraphs": [
+        "The invasion damaged the kingdom's finances and intensified the burdens on households already facing the legacy of earlier wars. Fields required cultivation, records needed correction and displaced people sought food or restored homes. State authorities also had to meet demands associated with Qing relations.",
+        "Recovery depended on local crops, social networks and administrative discretion as much as on grand royal policy. Some communities returned to productive routines more quickly than others. Royal annals record state efforts but cannot reveal an equal level of assistance everywhere. The history of reconstruction after 1637 therefore connects directly with the post-1598 crisis: repeated warfare exposed a government trying to rebuild its fiscal base without exhausting the people who supplied it."
+      ],
+      "sequence": 4,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.10:b05",
+      "title": "Captive memory and the later royal family",
+      "paragraphs": [
+        "The presence of royal hostages created new tensions in court succession and political trust. Crown Prince Sohyeon's later return and death, and the eventual reign of Bongrim as Hyojong, became central to debates about the relationship between Qing experience and Joseon's political future. Those developments cannot be understood without the hostages' initial removal in 1637.",
+        "Personal experiences abroad did not determine a single unified policy for the entire court. Members of the royal family could interpret captivity differently, and later commentators shaped their biographies for political purposes. The connections between war, family authority and diplomatic learning reveal the long reach of a settlement often summarized in one ceremonial image."
+      ],
+      "sequence": 5,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.10:b06",
+      "title": "A defeat that did not erase historical agency",
+      "paragraphs": [
+        "Joseon remained a functioning monarchy after its defeat, capable of collecting revenues, appointing officials and making limited policy choices. Yet its diplomatic standing had changed, and compliance with Qing requirements constrained what rulers could do. The outcome therefore requires careful language: loss of an equal negotiating position was not the same as direct Qing incorporation as a province.",
+        "The Chapter closes by placing the 1636–37 catastrophe within a sequence of reconstruction, regime change, internal rebellion and two external invasions. The court's decisions mattered, but so did the rise of a powerful northern empire and the cumulative weakness left by repeated conflict. A responsible narrative refuses to treat humiliation as the whole history. It asks how institutions and households survived, adapted and remembered an unequal peace."
+      ],
+      "sequence": 6,
+      "label": "Original historical narrative"
+    }
+  ]
+}

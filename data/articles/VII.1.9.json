@@ -1,0 +1,118 @@
+{
+  "id": "VII.1.9",
+  "title": "The Qing Invasion of 1636–1637 and Namhansanseong",
+  "kicker": "LATER JIN AND QING · INVASIONS AND AFTERMATH",
+  "description": "A source-conscious account of the qing invasion of 1636–1637 and namhansanseong, distinguishing Qing/Joseon claims, firsthand diaries and later national memory.",
+  "release": "W",
+  "sourceStatus": "Original synthesis; palace annals and later commemorations are interested evidence, supplemented by AKS chronology and firsthand diarists.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "The Manchu invasion of 1636–1637 (병자호란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0023151",
+      "role": "Detailed chronology and outcome of the 1636–37 Qing invasion"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Injo",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Court strategy and retrospection under Injo and successor reigns"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gang Hong-rip (강홍립)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001497",
+      "role": "1627 negotiations and prior 1619 military contacts"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jianzhou field report (건주문견록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0076457",
+      "role": "Contemporary returned traveller's first-hand account, compiled with personal political interests"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Na Heon collection and Namhan diaries",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011545",
+      "role": "First-person accounts of 1636–1637 siege, surrender and hostage journeys"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.1.9:b01",
+      "title": "The invasion arrives before full preparation",
+      "paragraphs": [
+        "In December 1636 Qing forces entered Joseon in a rapid campaign designed to force the court's submission. The speed of movement undermined assumptions that the king could always retreat safely to Ganghwa as in 1627. Routes, weather and the placement of frontier defenders shaped the outcome more directly than the court's general statements about loyalty.",
+        "Injo withdrew into Namhansanseong, a mountain fortress southeast of the capital, with ministers and followers. The position offered defensible walls but created a problem of supplies, communication and dependence on relief forces. A fortress may be tactically strong while strategically exposed if the enemy can isolate it. The ensuing crisis was therefore about survival and negotiation as much as about the heroism of individual defenders."
+      ],
+      "sequence": 1,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "The 1627 and 1636–37 campaigns, royal movements and consequences are documented in the Injo Annals and contextualized by scholarly chronology.",
+          "sourceIndex": 0,
+          "locator": "한국민족문화대백과사전 병자호란: 배경·경과·결과",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.9:b02",
+      "title": "The siege as a contest of food and time",
+      "paragraphs": [
+        "Namhansanseong became the site of prolonged deliberation while Qing forces controlled approaches and the king's court struggled with shortages. Winter conditions intensified difficulties for people and animals inside the walls. The defenders had to weigh continued resistance against the possibility that supplies would fail before help could arrive.",
+        "The annals and surviving diaries describe debates, conditions and proposals, but they are written mainly by educated men close to the court. Ordinary soldiers, servants and families inside and around the fortress appear unevenly. It would be misleading to treat the most frequently recorded ministerial argument as a complete social history of the siege. Food, shelter and fear influenced choices that were not always entered into formal memorials."
+      ],
+      "sequence": 2,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "The 1627 and 1636–37 campaigns, royal movements and consequences are documented in the Injo Annals and contextualized by scholarly chronology.",
+          "sourceIndex": 1,
+          "locator": "조선왕조실록 인조실록, 인조 5년 및 14–15년",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.9:b03",
+      "title": "The failure of expected relief",
+      "paragraphs": [
+        "Plans to relieve the king depended on the coordination of provincial commanders and forces operating over difficult winter routes. Defeat or delay of outside troops increased pressure on the besieged court. A royal command to advance did not automatically supply provisions, horses or reliable intelligence about the enemy.",
+        "The military difficulty should not be reduced to a contrast between brave defenders and cowardly relief columns. Some forces faced numerical and logistical disadvantages, while others suffered from poor preparation or leadership. The evidence permits specific judgments where engagements are documented; it does not support a uniform verdict on every commander. The failure to restore communication altered the political balance inside the fortress by making the prospect of waiting increasingly dangerous."
+      ],
+      "sequence": 3,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.9:b04",
+      "title": "The court debates accommodation and resistance",
+      "paragraphs": [
+        "Ministers disagreed over whether negotiation with Qing was legitimate or whether the kingdom should continue to resist despite severe danger. Advocates of accommodation emphasized the survival of the monarchy and population, while opponents defended obligations to Ming and the moral cost of submission. The arguments were rooted in Confucian language but concerned lives, sovereignty and future strategic possibilities.",
+        "It is possible to understand the force of both positions without equating their practical consequences. Refusal under overwhelming military pressure could expose subjects to destruction; surrender could produce humiliating and enduring political dependence. Historical narrative should not invent unanimous national feelings from the words of a few court intellectuals. Many people in affected districts were concerned first with safety, food and the whereabouts of relatives."
+      ],
+      "sequence": 4,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.9:b05",
+      "title": "Ganghwa's fall and the narrowing of choices",
+      "paragraphs": [
+        "Qing operations against Ganghwa Island further weakened Joseon's bargaining position by threatening members of the royal household and people who had sought refuge there. The security that maritime separation had provided in 1627 proved insufficient under different military circumstances. The fortress at Namhansanseong could no longer expect a stable royal refuge elsewhere.",
+        "The fall of a second critical position intensified fear inside the court, but histories differ in the details and chronology of individuals' suffering. Accounts should be attributed to specific sources and checked against contemporary diaries where possible. The larger significance is clear: the state's strategy of dividing security between mountain and island refuges had failed to preserve an independent negotiating position."
+      ],
+      "sequence": 5,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.9:b06",
+      "title": "The decision to surrender",
+      "paragraphs": [
+        "In January 1637 Injo accepted a settlement on Qing terms and left the fortress to submit. The ceremony at Samjeondo became a defining humiliation in later Korean historical memory. Its immediate political meaning was the acknowledgement of Qing supremacy and the end of armed resistance by the Joseon court.",
+        "The king's surrender did not mean that civilian suffering or the diplomatic consequences ended. Hostages, captives, devastated fields and new demands on the government followed. The diaries and the Injo Annals preserve different aspects of the event; their moral evaluations should be distinguished from observable acts. The campaign shows how a ruler's survival and the survival of his subjects could come to depend on acceptance of an unequal political relationship."
+      ],
+      "sequence": 6,
+      "label": "Original historical narrative"
+    }
+  ]
+}
