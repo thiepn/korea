@@ -43,6 +43,8 @@ collections=[
  ('donghak-gabo-1894-1896-complete','Donghak and the Gabo crisis: complete Chapter','Ten studies trace rural Donghak mobilization, two uprisings, the Sino-Japanese War, administrative reform, Eulmi violence and the 1896 royal refuge.','Ten connected readings',[f'VIII.3.{i}' for i in range(1,11)]),
  ('neolithic-korea-complete','Neolithic Korea: human life and Chulmun traditions','Ten connected, evidence-conscious histories of postglacial ecology, ceramics, villages, subsistence, cultivation, islands, household work, exchange and the Mumun transition.','Ten connected readings',[f'I.3.{i}' for i in range(1,11)]),
  ('south-korean-society-complete','South Korean society: work, learning and everyday life','Ten connected studies of schools, employment, wealth, households, demography, gender, migration, generations, regional disparities and daily consumption.','Ten connected readings',[f'X.3.{i}' for i in range(1,11)]),
+ ('joseon-founding-1392-complete','The Founding of Joseon: complete Chapter','Ten linked histories of the 1392 transition, Ming relations, Hanyang, Jeong Do-jeon, Taejo, princely conflict, Taejong, Sejong and dynastic memory.','Ten connected readings',[f'VI.1.{i}' for i in range(1,11)]),
+ ('joseon-reconstruction-manchu-complete','Joseon after the Japanese invasions: reconstruction and the Manchu challenge','Ten connected histories of post-1598 recovery, Gwanghaegun, the 1623 restoration, Yi Gwal, Later Jin diplomacy, both invasions and Samjeondo.','Ten connected readings',[f'VII.1.{i}' for i in range(1,11)]),
  ('ideas-and-expression','Ideas and expression','Foundation stories, learning, writing, reform, and cultural influence.','Cultural history',['II.1.2','IV.2.2','V.1.5','VI.4.2','VIII.1.5','X.5.10']),
 ]
 trails=[]
