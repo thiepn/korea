@@ -1,0 +1,118 @@
+{
+  "id": "VII.1.3",
+  "title": "Gwanghaegun: Reconstruction, State Capacity, and Political Consolidation",
+  "kicker": "POSTWAR JOSEON · RECONSTRUCTION AND REGIME CHANGE",
+  "description": "An analytical narrative on gwanghaegun: reconstruction, state capacity, and political consolidation, using the court annals with NIKH and AKS commentary on factional source bias.",
+  "release": "W",
+  "sourceStatus": "Original historical synthesis with source-critical contextual locators; court accusations and royal self-justification are not treated as neutral testimony.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Seonjo, Gwanghaegun, Injo",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Royal court chronicles; Gwanghaegun journal survives in variant recensions and requires source criticism"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwanghaegun (광해군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005335",
+      "role": "Court politics, postwar restoration and Later Jin/Ming diplomacy"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Yi Gwal's Rebellion (이괄의 난)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i305000",
+      "role": "Verified 1624 rebellion chronology, coup coalition and displacement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gang Hong-rip (강홍립)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001497",
+      "role": "1619 Sarhu campaign, Korean expedition and difficult captivity record"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jianzhou observations (건주문견록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0076457",
+      "role": "Returned envoy's report and its personal strategic interests"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.1.3:b01",
+      "title": "Gwanghaegun inherits a weakened kingdom",
+      "paragraphs": [
+        "When Gwanghaegun came to the throne in 1608, the kingdom was still recovering from the Japanese invasions. Administrative reconstruction required attention to damaged land records, public finance, military forces and the authority of central government. The new ruler's earlier position during the war informed his experience but did not guarantee agreement among elites about how he should govern.",
+        "The royal annals relating to Gwanghaegun are particularly sensitive sources because he was later deposed and the surviving journal passed through politically charged compilation and revision. It is necessary to distinguish events that can be cross-checked from descriptions created by his opponents. Modern reassessment of his reign has emphasized statecraft and diplomacy, but it should not merely invert a hostile dynastic verdict into uncritical celebration."
+      ],
+      "sequence": 1,
+      "label": "Original narrative · postwar institutions",
+      "evidence": [
+        {
+          "claim": "Joseon court annals and independent Korean institutional chronology situate the recovery era and the 1623–24 regime crisis, though dynastic narratives are retrospective.",
+          "sourceIndex": 0,
+          "locator": "선조실록·광해군일기·인조실록 사료열람",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.3:b02",
+      "title": "Palace rebuilding and the contested meaning of expenditure",
+      "paragraphs": [
+        "The court undertook significant palace construction and reconstruction. Buildings damaged during war presented real needs for administrative and ceremonial space, yet major building programmes also required lumber, money and labour from a recovering population. The resulting controversy was more than an aesthetic disagreement about grandeur.",
+        "Some critics treated the scale and financial demands of building as evidence of excess, while a government could argue that royal institutions needed stable physical settings. Evaluating these claims requires budgets, mobilization records and the dates of individual projects. Court memorials often reveal grievances but not a complete account of benefits and costs. The issue demonstrates that postwar state-building could reproduce the very pressures it claimed to relieve."
+      ],
+      "sequence": 2,
+      "label": "Original narrative · postwar institutions",
+      "evidence": [
+        {
+          "claim": "Joseon court annals and independent Korean institutional chronology situate the recovery era and the 1623–24 regime crisis, though dynastic narratives are retrospective.",
+          "sourceIndex": 2,
+          "locator": "우리역사넷 한국사 연대기: 이괄의 난, 1624년",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.3:b03",
+      "title": "The expanding fiscal repertoire",
+      "paragraphs": [
+        "Officials experimented with fiscal changes to make collection more predictable and support public needs. The Daedong system, introduced in Gyeonggi in 1608, was a significant beginning of the later transformation of tribute obligations, although it was not immediately extended throughout the kingdom. Its establishment should be understood through provincial conditions and years of further debate.",
+        "Replacing some irregular tribute demands with assessed payments could reduce opportunities for abusive intermediaries, but it also created new administration and conflicts over who paid. Landholding patterns and exemptions shaped distribution. Neither the monarchy's announcement nor later praise establishes equal success in every locality. The value of the reform lies in its institutional potential and the struggles of implementation."
+      ],
+      "sequence": 3,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.3:b04",
+      "title": "Control of succession and the royal family",
+      "paragraphs": [
+        "Gwanghaegun's legitimacy was contested by issues surrounding the royal household, rival princes and the distinction between different maternal lines. Political rivals could invoke norms of filial duty and rightful status while calculating their prospects for office. Decisions affecting royal relatives became central to the accusations used to justify his overthrow in 1623.",
+        "Later historians should not disregard deaths, confinement or political intimidation where records support them. Equally, accusations in the annals of a deposed king require caution. The work of source criticism is to reconstruct specific actions and their effects, not simply accept either the restoration faction's moral prosecution or a modern narrative that declares every hostile charge fabricated."
+      ],
+      "sequence": 4,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.3:b05",
+      "title": "Ministers, factions and the capacity to govern",
+      "paragraphs": [
+        "The court's political divisions did not map neatly onto one simple pro-reform and anti-reform line. Leading officials differed over fiscal policy, palace projects, relations with Ming and the treatment of royal relatives. Factions sometimes contained internal disagreement, especially where diplomacy involved the Later Jin threat.",
+        "An effective executive needed ministers who could communicate orders and provide administrative continuity. Repeated political exclusions could narrow access to skilled personnel and amplify distrust. But factional conflict also reflected genuine differences about ethical commitments and security, not only hunger for rewards. Gwanghaegun's statecraft should be examined as a combination of policy innovation, coercive royal politics and the limits of political coalition-building."
+      ],
+      "sequence": 5,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.3:b06",
+      "title": "Why his reign became a contested memory",
+      "paragraphs": [
+        "Gwanghaegun's removal made the succeeding Injo government responsible for explaining why a reigning monarch had been displaced. The label of restoration presented the coup as recovery of legitimate order rather than a new dynastic revolution. This shaped official memory of the earlier reign.",
+        "Later scholarship has often contrasted Gwanghaegun's flexible diplomacy with Injo's more rigid positions. The contrast can illuminate important choices but is too simple if it neglects pressures within both courts and the changing actions of Ming and Later Jin. Gwanghaegun did not control the northern powers, and the 1623 coup did not alone cause every later invasion. Political choices mattered within a fluid international environment."
+      ],
+      "sequence": 6,
+      "label": "Original narrative · postwar institutions"
+    }
+  ]
+}
