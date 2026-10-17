@@ -35,6 +35,86 @@
         "Joseon’s return to routine was never a return to precisely the world that existed before the invasions. Military organization, fiscal pressures, debates over leadership, and international relations all acquired new urgency. The rise of powers beyond the northern border would soon test the kingdom again.",
         "That is why reconstruction belongs at the beginning of late Joseon history. It establishes the circumstances in which later rulers and factions acted. From the villages recovering food production to the palace debating diplomacy, postwar life linked practical necessity to political choice."
       ]
+    },
+    {
+      "id": "VII.1.1:b05",
+      "title": "What remained after the armies withdrew",
+      "paragraphs": [
+        "The cessation of large-scale Japanese military operations in 1598 did not mean that every region returned to stable farming and administration. Settlements had been burned or deserted, families separated and transport routes disrupted by the cumulative demands of fighting and supply. Many households faced a choice between returning to damaged property and remaining in places where they had found temporary refuge.",
+        "A court chronicle can describe destruction in broad terms but rarely provides a reliable nationwide inventory of household losses. Locality matters: a village along a major invasion route could have endured repeated requisitions, while a distant community might primarily experience indirect taxation and refugee arrivals. Historical writing should not use one extreme episode to represent the whole peninsula. The unevenness of suffering also shaped the unequal speed of recovery."
+      ],
+      "sequence": 5,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.1:b06",
+      "title": "Captivity, repatriation and the incomplete household",
+      "paragraphs": [
+        "Men, women and children taken or displaced during the invasions did not simply resume earlier family arrangements when diplomacy reopened. Some remained abroad, some returned after years and others faced uncertain claims about marriage, property or household headship. The resulting problems were legal, emotional and economic, especially when surviving kin could not establish who was alive.",
+        "State policy could assist repatriation and acknowledge claims, but records of official negotiations do not measure all private suffering. A household waiting for a relative might delay remarriage, land division or work obligations. A returning captive could face stigma or difficulty recovering property. The archive foregrounds those cases that reached officials; many experiences went unrecorded. Reconstruction was a process of restoring relationships as much as buildings."
+      ],
+      "sequence": 6,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.1:b07",
+      "title": "The destruction of registers and the politics of knowing",
+      "paragraphs": [
+        "Government needed land and population records to assign obligations, yet war had damaged archives and scattered registered residents. Restoring accounts required surveys, local testimony and officials who might depend on landholders with their own interests. A number appearing in a renewed register is evidence about the state's capacity to count, not an exact measure of all surviving inhabitants.",
+        "People could view registration differently. It might protect inherited rights or establish a claim to relief, while also exposing a household to labour service or taxation. Disagreement about names and acreage could become a political dispute between residents and clerks. The process reminds us that the state did not stand outside society collecting perfect information. Its administrative instruments were built through interactions marked by unequal power."
+      ],
+      "sequence": 7,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.1:b08",
+      "title": "Farming again required collective resources",
+      "paragraphs": [
+        "Fields required seed, animals, tools and labour before they could yield harvests. Irrigation channels damaged or neglected during the wars could not always be restored by one cultivator acting alone. Shared work depended on the return of neighbours and on arrangements with local elites. The rebuilding of agrarian production was therefore partly a problem of reconstructing communities.",
+        "Officials might offer exemptions or loans of grain, but their ability to deliver help depended on stores that war had depleted. A policy could be sound in principle and ineffective in a district lacking transport or local cooperation. The historian should connect proclamations to evidence of implementation where possible. The question is not only how much cultivation the state wanted but which households could afford to make it possible."
+      ],
+      "sequence": 8,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.1:b09",
+      "title": "Remembering Ming help and Japanese devastation",
+      "paragraphs": [
+        "The invasions left powerful memories of Ming assistance and of violence associated with Japanese forces. These memories shaped later Joseon political ethics and external relations. Yet memory was not a single shared national script: soldiers, officials, families of captives and coastal merchants had different experiences of the war's end.",
+        "Royal commemorations could elevate particular commanders or sacrifices while neglecting people who recovered through compromise or migration. A history of memory asks when a story was recorded and why it gained authority. The moral language of gratitude to Ming became especially significant when Later Jin challenged Ming power in Liaodong. Its later political role should not lead us to assume that every survivor in 1598 held the same diplomatic convictions."
+      ],
+      "sequence": 9,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.1:b10",
+      "title": "The state as both rescuer and demander",
+      "paragraphs": [
+        "Joseon's administration had to restore order and sustain military preparedness while relying on households that had lost resources. A request for grain might serve frontier defence but leave a recovering family without sufficient seed. A road repair could assist commerce while consuming scarce labour during planting season. These competing purposes explain why postwar reforms attracted disagreement.",
+        "Describing the government as simply generous or predatory obscures the fiscal dilemmas of early seventeenth-century recovery. Officials could genuinely seek relief and still impose burdens that hurt particular communities. The relevant evidence is the timing, distribution and enforcement of measures. Institutional recovery was not separate from daily life; it was negotiated at the boundary between central expectations and household capacity."
+      ],
+      "sequence": 10,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.1:b11",
+      "title": "War's afterlife in the military system",
+      "paragraphs": [
+        "The Japanese invasions encouraged reconsideration of training, garrisons and the relationship between central forces and provincial defence. Innovations could draw on battlefield experience but needed steady funding and recruitment. The end of fighting did not remove threats from raiding, coastal insecurity or later movements beyond the northern border.",
+        "A soldier might be a cultivator whose time away from the fields damaged household income. Commanders required supplies and accurate rosters; the court faced pressure to reduce burdens without losing readiness. The practical challenge was to make military arrangements sustainable in peace. This provides a bridge to the Later Jin crisis, when Joseon would discover that an army designed through the experience of one conflict could face very different strategic circumstances."
+      ],
+      "sequence": 11,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.1:b12",
+      "title": "Why the postwar period was a new era",
+      "paragraphs": [
+        "The decades after 1598 were not merely an interval between the Japanese invasions and the Manchu invasions. They were a formative period of fiscal experiments, administrative recovery, shifts in royal legitimacy and conflicting diplomatic strategies. Even when reforms were incomplete, their debates established problems and instruments that later rulers inherited.",
+        "A chronological account which jumps from one battlefield to the next would miss how people attempted to rebuild ordinary life. Agriculture, ritual, property, the recovery of records and the choices of local officials gave continuity to a state under extraordinary pressure. Recognizing those processes helps explain why later crises struck a society still marked by earlier disruption, without reducing Joseon history to inevitable cycles of invasion."
+      ],
+      "sequence": 12,
+      "label": "Batch W original append-only narrative"
     }
   ]
 }
