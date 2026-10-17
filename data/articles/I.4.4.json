@@ -1,0 +1,120 @@
+{
+  "id": "I.4.4",
+  "title": "Population Growth, Villages, and Settlement Hierarchy",
+  "kicker": "BRONZE AGE · MUMUN SOCIETY",
+  "description": "Original source-conscious history of population growth, villages, and settlement hierarchy, with chronology, archaeology, community organization and evidential limits.",
+  "release": "X",
+  "sourceStatus": "Original historical synthesis with archaeological source criticism; selective contextual provenance, not direct witness testimony.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Bronze Age: farming, villages, stone and bronze artifacts",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030300.do?showHallId=760&showroomCode=DM0004",
+      "role": "Museum synthesis and excavated material; not direct written testimony"
+    },
+    {
+      "institution": "Ahn Jae-ho / Busan Archaeological Society (KCI)",
+      "title": "On the Chronology and Social Communities of the Songguk-ri Settlement (2021)",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002798954",
+      "role": "Archaeological interpretation of settlement phases; one contested scholarly model"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "url": "https://whc.unesco.org/en/list/977",
+      "role": "Archaeological grave monuments and conservation summary; not proof of specific political titles"
+    },
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Korea, 1000 B.C.–1 A.D., chronology",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/eak.html",
+      "role": "Museum periodization; dates of regional technological adoption remain uncertain"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.4.4:b01",
+      "title": "Settlements as evidence of continuity",
+      "paragraphs": [
+        "A settlement tells a more complicated story than a count of houses. Excavated pit dwellings may represent structures occupied at different times, so ten overlapping houses need not have sheltered ten households simultaneously. Stratigraphy, rebuilding patterns, hearth locations and associated refuse help distinguish occupations from a total number of house outlines. In some Mumun settings residents gathered into larger villages with organized work areas, while in others households remained dispersed near hillsides or cultivable lowlands. The reasons could include access to water, protection, kinship expectations or the advantages of shared storage. An excavator who identifies a concentration of buildings has demonstrated spatial clustering; claims of centralized administration require additional evidence. Settlement archaeology can illuminate social relationships, but house-size diagrams are not population registers and cannot preserve the names or legal positions of their residents."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": [
+        {
+          "claim": "Archaeological material and scholarly interpretation require separate evidential treatment",
+          "sourceIndex": 0,
+          "locator": "Bronze Age exhibition overview / Songguk-ri archaeological chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.4:b02",
+      "title": "Why people might aggregate",
+      "paragraphs": [
+        "Living near several households can reduce the cost of cooperative harvest work, gathering for ceremonies, constructing durable buildings and exchanging information about weather or threats. Concentration also creates difficulties: disputes over paths and water, sanitation, fire risk, and dependence on nearby fields become more pressing. A village's size therefore reflects negotiated advantages and pressures, not necessarily the reach of a ruler. The same household may have used a primary residence and seasonal facilities, complicating efforts to reconstruct a permanent population. Archaeologists should consider activity beyond the excavated core, including burial grounds, outlying pits and field traces. Some apparent hierarchies between large and small villages may disappear when survey intensity is equalized, whereas others prove durable across multiple seasons of investigation."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.4:b03",
+      "title": "Household differences and inequality",
+      "paragraphs": [
+        "Variation in floor area, construction investment and associated objects can suggest that households commanded unequal resources or fulfilled different functions. A larger building might have housed more people, hosted common activities or stored goods; it need not be a hereditary chief's residence. Conversely, a modest dwelling may have belonged to a politically significant specialist whose wealth was expressed in perishable materials or ceremonies elsewhere. To assess inequality, archaeologists compare repeated patterns across houses, graves, production areas and access to exceptional objects. The spatial distribution of metal ornaments or finely made tools becomes more informative when linked securely to contemporaneous structures. A single striking find cannot establish a social class. Questions of household rank are best posed as hypotheses supported by several lines of evidence, with particular caution about projecting later aristocratic systems back into unwritten prehistory."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.4:b04",
+      "title": "The wider settlement hierarchy problem",
+      "paragraphs": [
+        "A landscape containing one large central village and several smaller sites invites the suggestion of a regional center, but the chronology of each location must be comparable. If a small settlement was abandoned before the larger one expanded, their size difference does not describe one simultaneous hierarchy. Roads, river approaches, storage facilities and craft areas may help reveal relationships among settlements, yet these are often difficult to trace where modern agriculture has remade surfaces. Survey methods themselves shape the resulting map: easy-access plains receive more excavation than protected forest or submerged margins. Geographic information tools can make comparisons precise while giving misleading certainty to incomplete samples. An analytically sound settlement hierarchy is therefore a demonstrated interaction pattern, not merely a ranking of dots according to estimated hectares."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": [
+        {
+          "claim": "Archaeological material and scholarly interpretation require separate evidential treatment",
+          "sourceIndex": 1,
+          "locator": "Bronze Age exhibition overview / Songguk-ri archaeological chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.4:b05",
+      "title": "Movement, seasons and urban analogies",
+      "paragraphs": [
+        "Calling a large Bronze Age village a town or proto-city may suggest familiar institutions for which there is no evidence. Density alone does not demonstrate markets, permanent offices, occupational guilds or an urban legal regime. Residents could farm fields some distance from their homes, visit seasonal camps and maintain relations across several valleys. Coastal mobility was particularly important where fishing grounds, tidal resources and islands formed part of household strategies. Such movement does not contradict substantial buildings; it means settlement and mobility were complementary. Houses abandoned after floods or shifts in land productivity need not signal political collapse. Archaeologists reconstruct the duration and function of sites through successive building episodes rather than treating every structural concentration as a fixed, self-contained community."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.4:b06",
+      "title": "Population estimates and preservation",
+      "paragraphs": [
+        "The apparent expansion of archaeological settlements does not provide a clean numerical curve of births and deaths. Structures may survive poorly where soils are acidic or later plowing has removed shallow floors; sites identified during road projects may overrepresent certain corridors. A newly excavated cluster can reflect one construction season rather than demographic acceleration. Even when houses are contemporaneous, occupancy varies with age composition, marriage and cycles of residence. Burials offer independent clues but preserve selective segments of the living population. Demographic claims should therefore include uncertainty ranges and compare multiple indicators, including activity intensity, food remains and settlement duration. It is reasonable to conclude that some Mumun communities sustained larger concentrations of residents and coordinated labor; precise headcounts across the peninsula are not recoverable from present evidence."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.4:b07",
+      "title": "Village organization and historical change",
+      "paragraphs": [
+        "Larger settlements could provide settings in which decisions about water, fields, storage, defense and commemorative ritual acquired new significance. Such decisions may have involved experienced elders, household representatives or people recognized for ritual expertise; no excavated posthole identifies the office holder. Repeated collective projects nevertheless create social memories, expectations and potential inequalities that outlast a single harvest. These processes help explain why some later Bronze Age sites feature conspicuous architecture and differentiated mortuary displays. They should not be converted into a predetermined sequence from family settlement to chiefdom to state. Different landscapes supported different solutions, and disruptions could reverse earlier concentration. The significance of village growth lies in the range of durable institutions it made possible, along with the limits of what excavation alone allows historians to claim."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    }
+  ]
+}

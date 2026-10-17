@@ -1,0 +1,136 @@
+{
+  "id": "I.4.6",
+  "title": "Megalithic Burials and the Emergence of Elites",
+  "kicker": "BRONZE AGE · MATERIAL AND SOCIAL CHANGE",
+  "description": "Evidence-conscious account of megalithic burials and the emergence of elites, foregrounding varied archaeological explanations.",
+  "release": "X",
+  "sourceStatus": "Original archaeological historical synthesis with selective contextual anchors; interpretation is not direct eyewitness testimony.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Bronze Age gallery, cultural sequences and excavated materials",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030300.do?showHallId=760&showroomCode=DM0004",
+      "role": "Curatorial synthesis; distinguish object classification from political inference"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Liaoning-type Bronze Dagger, Songguk-ri stone coffin context",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2040&schM=view&searchId=represent",
+      "role": "Specific bronze dagger and grave provenance; not independent evidence of a dynastic ruler"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "url": "https://whc.unesco.org/en/list/977",
+      "role": "Dolmen architecture, quarrying, regional variability and archaeological significance"
+    },
+    {
+      "institution": "National Museum of Korea, Journal of Korean Art & Archaeology",
+      "title": "Bronze dagger traditions and regional material connections",
+      "url": "https://www.ijkaa.org/v.1/0/6/68",
+      "role": "Comparative typological interpretation of bronze dagger assemblages"
+    },
+    {
+      "institution": "Noh and Kim, Archaeometry",
+      "title": "Quantitative Assessment of Social Stratification and Inequality (2026)",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/arcm.70161",
+      "role": "Recent quantitative proposal using dolmen dimensions; interpretation not settled"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.4.6:b01",
+      "title": "Monumental stone in historical context",
+      "paragraphs": [
+        "Dolmens are among the most visible traces of the peninsula's prehistoric societies, but their visibility should not disguise the complexity of the people who built and used them. The monumental cemeteries at Gochang, Hwasun and Ganghwa include different arrangements of large stone slabs and burial chambers, distributed across contrasting topographies. UNESCO's account emphasizes both architectural variety and the evidence of quarrying and movement. These are physical accomplishments requiring skills and cooperation. However, calling every dolmen a ruler's tomb overstates what grave architecture can reveal. Some monuments may commemorate individuals, lineages or groups, and the selection of those buried is not always known. The presence of a massive capstone identifies an investment in commemoration; it does not produce a charter of hereditary government or record the politics behind the labor. Comparative cemetery archaeology is therefore indispensable."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": [
+        {
+          "claim": "Material observations and historical interpretation have distinct evidential limits",
+          "sourceIndex": 2,
+          "locator": "Excavated Bronze Age artifacts, funerary assemblages and published curatorial interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.6:b02",
+      "title": "Stone sourcing and transport",
+      "paragraphs": [
+        "The movement of a large stone from outcrop to intended resting place may have required route preparation, coordinated hauling and knowledge of how to stabilize heavy weight. The preserved quarries associated with some Hwasun monuments make the practical undertaking unusually tangible. Yet reconstructions of the number of workers or days required depend on assumptions about sledges, rollers, terrain, seasonal labor and construction methods. A plausible calculation is not a record of an actual work crew. The ability to mobilize many people could derive from kinship obligations, commemoration, communal reciprocity or political pressure. Labor organization should be inferred from repeated building patterns and settlement relationships, not simply from the capstone's mass. A dolmen is thus evidence for a social project; determining whether that project reflected consent, coercion or competition requires more than engineering admiration."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.6:b03",
+      "title": "Cemetery organization and time",
+      "paragraphs": [
+        "A cluster of monuments may appear to be a single planned cemetery even if its construction extended across many generations. Researchers need dating evidence from sealed burial deposits, associated ceramics, stratigraphic relationships and the sequence of monument additions. Reused chambers can mix remains from different episodes; looting or later farming can remove objects that once marked distinctions. Spatial clustering might express family affiliation, a persistent community burial place, or an evolving ritual landscape. To reconstruct rank differences, all monuments must be compared with attention to chronology and excavation quality. A large tomb beside a small one might memorialize unequal people living at one time—or memorialize different generations under changing circumstances. The distinction matters before a cemetery is converted into a social pyramid. The dead were not deposited as a random sample of everyone who lived nearby."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.6:b04",
+      "title": "Burial goods and social identity",
+      "paragraphs": [
+        "Bronze daggers, polished stone weapons, ornaments and pottery sometimes accompany monumental graves, suggesting varied combinations of prestige, skill and ritual attachment. A carefully produced item could signal the mourners' connections as much as the deceased person's daily authority. Beads might have circulated over long distances, while a locally made vessel may carry more meaning through its placement than through its material rarity. Archaeologists often speak of elite burials when several exceptional investments converge; the label remains an interpretation of patterned difference, not a direct identification of a chief's office. Children in rich graves, where secure associations occur, can suggest inherited standing but also special mourning practice. Gender assignment from grave goods alone is especially hazardous, as modern ideas about which tools or adornments belong to whom can bias interpretation. Burial evidence must be held against biological and settlement data where available."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": [
+        {
+          "claim": "Material observations and historical interpretation have distinct evidential limits",
+          "sourceIndex": 2,
+          "locator": "Excavated Bronze Age artifacts, funerary assemblages and published curatorial interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.6:b05",
+      "title": "Diversity among dolmen regions",
+      "paragraphs": [
+        "The UNESCO inscription covers sites in markedly different settings, and stone monument traditions beyond those sites vary still further. Coastal access, local geology, population history and relations with neighboring communities could all affect whether a grave took the form of a table-like monument, a supported chamber or another stone arrangement. These variations are not reliable ethnic borders without independent supporting evidence. Changes in style may reflect chronological developments or the work of particular groups of builders; similarity can also arise because certain engineering solutions are practical in many settings. Regional comparison should therefore weigh stone availability, construction sequence and associated pottery rather than assume one unified megalithic religion. Modern heritage boundaries preserve selected outstanding places, not the complete prehistoric distribution of mortuary practice."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.6:b06",
+      "title": "Who is missing from the graves",
+      "paragraphs": [
+        "The surviving cemetery record is profoundly selective. Many people may have been buried in ways that left little trace, and erosion, soil acidity, destruction and choices made by past mourners further narrow the sample. Differences among excavated skeletons in age, diet or health may offer insights, but not every monument contains preserved human remains suitable for such analyses. The absence of a grave for a category of person does not demonstrate their absence from the community. It may indicate an alternative mortuary rite, poor preservation, or a burial landscape not yet discovered. Archaeologists should be especially careful about reconstructing the lives of women, children, servants or mobile outsiders solely from prominent adult graves. Monumentality tells us whose memory was materially emphasized, not whose labor and experiences made society possible."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.6:b07",
+      "title": "Ranking without imaginary institutions",
+      "paragraphs": [
+        "Dolmens provide credible evidence for differences in investment and access to resources in some prehistoric communities. Such evidence supports investigation of ranked relationships, competition among lineages, and the ability to coordinate costly communal acts. It does not by itself establish named offices, dynastic succession or territorial taxation. A recent quantitative study of monument volumes around Gochang seeks to model social stratification, illustrating one promising way to move beyond impressionistic claims. Its inferences nevertheless depend on assumptions connecting stone size, labor cost, time and status; alternative social meanings remain possible. Models help test patterns, not eliminate the need to interpret them. A sober account recognizes the substantial public work represented by funerary monuments while leaving open the precise social mechanics that produced them."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.6:b08",
+      "title": "Living communities behind stone monuments",
+      "paragraphs": [
+        "The builders were also farmers, craftspeople, caregivers and participants in local exchange networks. Monument construction may have drawn on agricultural slack periods, commemorative feasts and repeated obligations connecting households. The stone architecture survived while accompanying wooden structures, foods and performances mostly vanished. Reconstructing social life requires putting graves in relation to habitation zones, fields, pathways and ecological change. Dolmens' importance is not limited to proving that some people possessed more than others; they reveal how communities invested in places, organized memory and transmitted expectations across generations. That investment could reinforce inequality or establish common identity, sometimes doing both. Mortuary history therefore belongs alongside the record of cultivation and village growth, rather than standing as an isolated list of famous stones or a simple prelude to later royal tombs."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "I.4.1",
+  "title": "The Emergence and Chronology of Mumun Society",
+  "kicker": "BRONZE AGE · MUMUN SOCIETY",
+  "description": "Original source-conscious history of the emergence and chronology of mumun society, with chronology, archaeology, community organization and evidential limits.",
+  "release": "X",
+  "sourceStatus": "Original historical synthesis with archaeological source criticism; selective contextual provenance, not direct witness testimony.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Bronze Age: farming, villages, stone and bronze artifacts",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030300.do?showHallId=760&showroomCode=DM0004",
+      "role": "Museum synthesis and excavated material; not direct written testimony"
+    },
+    {
+      "institution": "Ahn Jae-ho / Busan Archaeological Society (KCI)",
+      "title": "On the Chronology and Social Communities of the Songguk-ri Settlement (2021)",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002798954",
+      "role": "Archaeological interpretation of settlement phases; one contested scholarly model"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "url": "https://whc.unesco.org/en/list/977",
+      "role": "Archaeological grave monuments and conservation summary; not proof of specific political titles"
+    },
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Korea, 1000 B.C.–1 A.D., chronology",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/04/eak.html",
+      "role": "Museum periodization; dates of regional technological adoption remain uncertain"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.4.1:b01",
+      "title": "Period labels and actual remains",
+      "paragraphs": [
+        "The term Mumun, literally unpatterned or plain pottery, describes a conspicuous class of ceramics rather than a single people possessing a common political identity. Archaeologists use it for much of the peninsula's agricultural Bronze Age sequence, but vessel decoration alone cannot distinguish every community or establish an exact date for its founding. Excavated houses, pottery assemblages, grinding implements, storage facilities, graves, and increasingly varied plant remains must be assessed together. Older textbook summaries sometimes suggest a simple replacement of decorated Chulmun pottery by Mumun forms. The record is less abrupt: techniques and settlements changed at different speeds, and a new ceramic fashion could circulate without all social practices changing simultaneously. Chronology relies on stratigraphic relationships and radiocarbon measurements, not on a dated royal narrative. A calibrated date range describes an estimate with uncertainty; it is not a precise anniversary for the start of farming or metal use."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": [
+        {
+          "claim": "Archaeological material and scholarly interpretation require separate evidential treatment",
+          "sourceIndex": 0,
+          "locator": "Bronze Age exhibition overview / Songguk-ri archaeological chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.1:b02",
+      "title": "A long and uneven chronology",
+      "paragraphs": [
+        "The early part of the Mumun sequence is conventionally placed broadly in the second millennium BCE, with subsequent developments reaching well into the first millennium BCE. Specialists debate exact boundaries because regional artifact groups overlap and because terminology varies between surveys. It is tempting to map early, middle, and late phases directly onto increases in political complexity, but such labels are tools of archaeological ordering, not stages that all villages were required to pass through. A small northern community, a southern basin settlement, and an island household might occupy the same centuries while using different house plans and crops. Securely excavated sequences improve comparison; isolated objects acquired without documented context cannot. Even a confidently dated pot establishes the age of its archaeological deposition more readily than the beginning of the social practice it represents. Periodization should keep that difference visible."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.1:b03",
+      "title": "House forms and regional tempo",
+      "paragraphs": [
+        "Pit houses and above-ground structures preserve traces of investment in residence and household activity. Posts, hearths, storage pits, floors, and refuse may reveal whether people returned to the same place, rebuilt frequently, or organized adjacent households around common working areas. Reconstructions remain interpretive: a pattern of postholes does not reveal with certainty the number of occupants or their kinship ties. In some regions larger and more aggregated settlements developed, whereas others retained dispersed habitation near streams and uplands. This diversity resists the idea of a peninsula-wide revolution directed by an identifiable founding authority. Differences may reflect soil, access to water, local traditions, migration, conflict, and the uneven survival of remains. Contemporary archaeologists therefore compare landscape-scale distributions as well as individual houses, asking which pattern represents recurrent behavior and which is the product of excavation choices."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.1:b04",
+      "title": "Relations to neighbors",
+      "paragraphs": [
+        "Plain pottery styles, polished stone tools, and the earliest known metal objects point toward contact across the peninsula and with northeastern continental communities. Contact does not require a mass displacement in every district. New vessel shapes can spread through marriage, imitation, trade, and visits just as they can accompany movement of people. Genetic claims, where available from ancient human remains, must be examined separately from ceramic similarities. The distribution of a distinctive type should not be turned into the movement of a named ethnic nation without further evidence. Nor is the present boundary between North and South Korea an appropriate organizing line for prehistoric processes. River basins and coastal routes connected places now separated by modern states; mountain corridors could inhibit some journeys while providing others. An archaeological map of styles records connections and local choices, not a comprehensive census of prehistoric populations."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": [
+        {
+          "claim": "Archaeological material and scholarly interpretation require separate evidential treatment",
+          "sourceIndex": 1,
+          "locator": "Bronze Age exhibition overview / Songguk-ri archaeological chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.1:b05",
+      "title": "Material change without a written state",
+      "paragraphs": [
+        "Bronze appears within the larger period, but many daily tasks continued to depend upon stone, wood, bone, woven fibers, and human labor. Period names are liable to exaggerate the centrality of the material for which a phase was named. Bronze objects could be relatively rare possessions used in ceremony, display, or specialist contexts, while stone sickles, axes, and hoes did indispensable agricultural work. Production required ore access, knowledge of alloying and molds, fuel, and skilled cooperation; possession did not automatically imply local production. To understand the period, agricultural scheduling and the organization of villages often tell more than the mere arrival of a metal. Claims that this technological threshold immediately produced hereditary kingship mistake a possible long-term trajectory for a demonstrated institution. Excavated evidence permits us to discuss unequal resources and collective organization, not to reconstruct statutes or dynasties where none were recorded."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.1:b06",
+      "title": "What excavators actually infer",
+      "paragraphs": [
+        "Archaeological explanations proceed by linking observations to rival possibilities. A storage pit and harvest tool may support farming but not necessarily continuous occupation by one household; a concentration of fine ceramics may reflect consumption, craft production, redistribution, or a ritual deposit. Radiocarbon samples date the organisms from which they derive, potentially including old wood or displaced charcoal. Cultural layers can be mixed by later digging and agriculture, especially in densely inhabited river valleys. Consequently, broad claims should be strongest where house plans, tool use-wear, soil samples, and burial associations reinforce one another. The Songguk-ri settlement is a valuable comparative case because its built spaces and phases have been studied intensively; it is not automatically a miniature model of every Mumun community. Responsible narrative treats excavated objects as evidence with provenances, not illustrations of a story already settled."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    },
+    {
+      "id": "I.4.1:b07",
+      "title": "From chronology toward social history",
+      "paragraphs": [
+        "The transformation designated Mumun concerns how people distributed work, negotiated land and water, established enduring residential ties, and remembered the dead. Those activities created circumstances in which leadership might become more consequential, but they also offered opportunities for cooperation without centralized coercion. Agricultural production could buffer some seasonal risks while magnifying others: stored grain attracts pests, irrigated fields demand maintenance, and heavy investment in one landscape can reduce mobility when drought or conflict strikes. A community's archaeological visibility also changes when people build substantial dwellings and stone graves instead of leaving light temporary traces. More sites therefore do not translate mechanically into a known rate of population growth. The ensuing history must move between household activity and wider exchange rather than describe metal, settlement, and political hierarchy as three inevitable steps of a single developmental ladder."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · archaeological inference",
+      "evidence": []
+    }
+  ]
+}

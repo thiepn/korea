@@ -1,0 +1,48 @@
+# Batch X — Mumun agrarian transformation and late-Joseon 1882–1894 source audit
+
+## Publication scope and frozen authorities
+
+The frozen baseline is `fb7ab608d47eae17727c23ac891c1cfd42614fea`, containing **317** published article IDs, **2,130** immutable passage blocks, **304,634** original narrative words and **15** canonical v1.1 sources. The two Chapters are **I.4 — Agriculture and the Bronze Age Transformation** and **VIII.2 — Reform, Coup, and the Contest for Korean Sovereignty, 1882–1894**. Both complete ten original architecture-native Subchapter articles. Before Batch X, `I.4.2`, `I.4.3` and `VIII.2.5` existed; those three retain their entire prior metadata and original block objects, with newly authored blocks strictly appended. All other existing published articles remain byte-for-byte unchanged in this branch, and no local reader storage, authentication, API, migration or runtime app code is altered.
+
+All twenty original articles or expansions use independently composed prose. The exact new-word result is governed by Python compiler `WORD_RE` and the immutable `tests/batch_x_pipeline.py` test, never estimated from article byte size. The fixture freezes 317 prior article Git blobs, fifteen canonical blobs, three complete previously published article objects and the twenty authored passage windows. The authored source snapshot is `f8c2cdb647ce76ef6170b3d25cc960e2bbe145bd`. Later *additions* outside the original Batch X windows do not change the counted words; alterations to those windows fail. For other prior articles, historical `git show` comparisons permit valid later append-only additions but reject edits to earlier content or metadata. The dedicated workflow triggers only for target Chapter and batch-test paths, with full Git history checked out for these comparisons.
+
+## Bronze Age evidential structure — I.4
+
+This Chapter reconstructs the Mumun horizon from multiple categories of excavated evidence: pottery, house plans, plant remains, storage installations, stone and metal tools, burials, megalithic architecture, and settlement geography. It **does not** equate a ceramic tradition with a single named ethnic people, treat the first rice grain as proof of irrigated fields, equate bronze ownership with local casting, or label an impressive grave a royal tomb without evidence. Stratigraphy, radiocarbon calibration, find-context contamination, sampling methods and regional variability constrain claims about chronology, demography and production.
+
+**Verified contextual sources:**
+
+1. **National Museum of Korea, Bronze Age gallery** — https://www.museum.go.kr/ENG/contents/E0201030300.do?showHallId=760&showroomCode=DM0004 . Supports broad chronology, agrarian material culture, persistence of stone tools and archaeological object examples. A curatorial synthesis is not primary testimony from the period.
+2. **Ahn Jae-ho (2021), Songguk-ri chronology and social communities**, *Korean Citation Index*, DOI 10.47735/odia.2021.29.1 — https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002798954 . Publishes a phased settlement interpretation; its account of raised buildings, communal projects and emergent chiefs is an archaeological **model**, not a universally accepted history of all Mumun villages.
+3. **UNESCO, Gochang, Hwasun and Ganghwa Dolmen Sites** — https://whc.unesco.org/en/list/977 . Supports locations, monument variety and quarrying traces. UNESCO heritage designation does not prove prehistoric legal offices, named rulers, or precise labor contracts.
+4. **National Museum of Korea, Liaoning-type bronze dagger from Songguk-ri** — https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2040&schM=view&searchId=represent . Object provenance and typology do not independently identify its owner as a king or warrior.
+5. **National Museum of Korea, Journal of Korean Art & Archaeology, bronze dagger traditions** — https://www.ijkaa.org/v.1/0/6/68 . A comparative technical argument; individual style continuities need contextual dating.
+6. **Metropolitan Museum, Korea 1000 BCE–1 CE timeline** — https://82nd-and-fifth.metmuseum.org/toah/ht/04/eak.html . Useful period synopsis but archaeological chronologies remain contestable.
+7. **Noh and Kim (2026), quantitative dolmen analysis**, *Archaeometry*, DOI 10.1111/arcm.70161 — https://onlinelibrary.wiley.com/doi/full/10.1111/arcm.70161 . A recent model of inequality with interpretive assumptions; not a measured prehistoric census.
+
+**Source limitations:** Stone, wood, soil, copper alloy and cremation or grave contexts have very different survival histories. House counts are not direct population counts. A decorative similarity is not proof of mass migration. Weapon-shaped deposits need not record warfare. Stone transport demonstrates coordination, not by itself coercion or hereditary chiefdom. Local social differentiation is kept distinct from a peninsula-wide uniform class system.
+
+## Treaty-era documentary structure — VIII.2
+
+This Chapter follows a deliberately bounded historical sequence: the soldier-ration crisis and Imo violence in **1882**; Qing military intervention, commercial and judicial claims; Japanese compensation and guard demands; reform experiments; the December **1884 Gapsin Coup** and its fourteen surviving reform directives; **1885 Tianjin Convention**; foreign legations and customs; postal and telegraph projects; **Jejungwon** and medical instruction; Yuan Shikai, Gojong and strategic rivalry into **1894**.
+
+**Verified contextual and documentary sources:**
+
+1. **Academy of Korean Studies, Imo Mutiny** — https://encykorea.aks.ac.kr/Article/E0047565 . Describes the soldiers' ration grievance, urban violence and Daewongun's return. Later historiography, not an eyewitness diary.
+2. **National Institute of Korean History, 1882 Qing–Joseon Maritime and Overland Trade Regulations** — https://contents.history.go.kr/mobile/mid/hm_115_0050?tabId=e . Presents clauses expressing special Qing claims. NIKH notes that the original instrument's present location is not known; extant official copies require source criticism. A treaty text establishes formal claims more readily than consistent local enforcement.
+3. **National Institute of Korean History, Joseon–Japan trade regulations and tariffs** — https://contents.history.go.kr/front/hm/view.do?levelId=hm_115_0040 . Documents Korean customs-autonomy efforts and pressures in 1883, not a complete record of prices or merchants' lived experience.
+4. **NIKH, fourteen Gapsin reform directives** — https://contents.history.go.kr/front/hm/print.do?levelId=hm_116_0100&tabId=03&treeId=010701&whereStr= . The fourteen points chiefly survive through **Kim Ok-gyun's subsequent Gapsin Ilok**, itself transmitted in copies; the list may abridge a broader program. Political aspiration cannot be represented as implemented nationwide policy during a three-day coup.
+5. **Academy of Korean Studies, Gapsin Reform Program** — https://encykorea.aks.ac.kr/Article/E0000923 . Date, actors and retrospective interpretation of the platform.
+6. **NIKH, Tianjin Convention** — https://contents.history.go.kr/mobile/tg/view.do?ganada=&levelId=tg_004_1080&pageUnit=10&subjectCode=all&tabId=02 . Bilateral Qing–Japanese military procedure, not a treaty in which Joseon was an equal principal or a guarantee against future intervention.
+7. **Academy of Korean Studies, Jejungwon** — https://encykorea.aks.ac.kr/Article/E0051479 . Differentiates Korean royal initiative, Western medical practice, later missionary participation and limited educational outcomes.
+8. **Academy of Korean Studies, Ujeong Chongguk** — https://encykorea.aks.ac.kr/Article/E0040100 . Distinguishes institutional closure from continued winding down of some postal operations after the coup.
+9. **Academy of Korean Studies, Qing–Joseon Telegraph Agreement** — https://encykorea.aks.ac.kr/Article/E0052704 . Technical proposal and infrastructure diplomacy, not proof every proposed circuit was operational on signing.
+10. **Academy of Korean Studies, Gapsin Coup** — https://encykorea.aks.ac.kr/Article/E0000922 . Synthesizes immediate violence and subsequent diplomacy, including royal efforts to counter Qing pressure.
+
+**Source limitations:** Official court records and treaties disproportionately reflect elite priorities. The older tributary relationship must be distinguished from military intervention and the treaty-era jurisdiction claims of the 1880s. Japanese and Qing diplomats and Korean reformers had overlapping but not uniform motivations; retrospective colonial outcomes are not projected as inevitable at every earlier step. The Gapsin platform is neither dismissed as fictive nor treated as proof of implemented equality. Diplomatic overtures and reports of secret understandings are distinguished from ratified arrangements.
+
+## Reader experience and publication assurance
+
+Twenty sets of Korean-language alias terms support search. Two ten-stop curated paths follow every article in canonical Chapter order. Citation panels present sources as **context**, not claim-by-claim documentary verification. The deterministic compiler, safe allowlist, content-pack integrity and local reader identity rules are retained.
+
+Exact-head CI must run the historical regression and Chromium journeys against generated assets at 1440, 390 and 320 pixels; then obtain the **actual Cloudflare branch hostname from its exact-SHA successful check** and repeat live HTTPS Chromium acceptance. Successful source links, CI and original authorship do **not** constitute independent scholarly peer review, a full check of every historical assertion, or physical-device validation.

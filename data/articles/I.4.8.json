@@ -1,0 +1,136 @@
+{
+  "id": "I.4.8",
+  "title": "Wealth, Inequality, and the Rise of Ranked Society",
+  "kicker": "BRONZE AGE · MATERIAL AND SOCIAL CHANGE",
+  "description": "Evidence-conscious account of wealth, inequality, and the rise of ranked society, foregrounding varied archaeological explanations.",
+  "release": "X",
+  "sourceStatus": "Original archaeological historical synthesis with selective contextual anchors; interpretation is not direct eyewitness testimony.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Bronze Age gallery, cultural sequences and excavated materials",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030300.do?showHallId=760&showroomCode=DM0004",
+      "role": "Curatorial synthesis; distinguish object classification from political inference"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Liaoning-type Bronze Dagger, Songguk-ri stone coffin context",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2040&schM=view&searchId=represent",
+      "role": "Specific bronze dagger and grave provenance; not independent evidence of a dynastic ruler"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "url": "https://whc.unesco.org/en/list/977",
+      "role": "Dolmen architecture, quarrying, regional variability and archaeological significance"
+    },
+    {
+      "institution": "National Museum of Korea, Journal of Korean Art & Archaeology",
+      "title": "Bronze dagger traditions and regional material connections",
+      "url": "https://www.ijkaa.org/v.1/0/6/68",
+      "role": "Comparative typological interpretation of bronze dagger assemblages"
+    },
+    {
+      "institution": "Noh and Kim, Archaeometry",
+      "title": "Quantitative Assessment of Social Stratification and Inequality (2026)",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/arcm.70161",
+      "role": "Recent quantitative proposal using dolmen dimensions; interpretation not settled"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.4.8:b01",
+      "title": "Inequality is a question, not a label",
+      "paragraphs": [
+        "Burial differences, house sizes, rare metals and food storage invite questions about unequal power in Mumun societies. They do not authorize a single categorical statement that the entire peninsula possessed one ranked social order. Inequality can refer to varying resources, prestige, decision-making authority or coercive capacity, each of which may leave different traces. A household able to host feasts might enjoy influence without controlling other families' fields; a ritual specialist might be honored without inheritable wealth. Archaeological analysis becomes stronger when these dimensions are kept apart. Monumental graves offer evidence for differential commemoration, while exceptional dwellings may suggest altered access to labor. Neither directly records the rights and duties of living people. Prehistoric social history therefore treats hierarchy as something to investigate locally and chronologically, with space for relatively egalitarian settlements as well as concentrated elite influence."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": [
+        {
+          "claim": "Material observations and historical interpretation have distinct evidential limits",
+          "sourceIndex": 0,
+          "locator": "Excavated Bronze Age artifacts, funerary assemblages and published curatorial interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.8:b02",
+      "title": "Surplus and its competing uses",
+      "paragraphs": [
+        "Storable grain can allow households to survive lean seasons, sustain specialists and gather people for ceremonies. It can also become a resource over which some individuals make claims. The politics of surplus depend on how stores were filled, opened and shared—matters not normally written in archaeological deposits. Large granaries near communal buildings may suggest pooled resources, but pooled resources can exist within both egalitarian and unequal systems. Concentrations of containers or luxury materials need comparison with household size and settlement duration. Surplus should not be imagined as a guaranteed consequence of farming: floods, pests, prolonged cold and poor harvests could leave little food beyond immediate needs. The question is how communities distributed success and risk, whether through reciprocity, obligation, competition or coercion, rather than assuming that more intensive agriculture automatically produced a class of exploiters."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.8:b03",
+      "title": "Prestige objects and social recognition",
+      "paragraphs": [
+        "An exceptional dagger or ornament may be powerful evidence that a community considered some objects worth obtaining, keeping and displaying. The inference that an owner exercised political power is separate. Rare goods could mark life-stage transition, marriage, ritual service, visiting alliances or participation in distant exchange. When such objects repeatedly appear with elaborate graves, special building investment and privileged settlement locations, an argument for social ranking becomes more compelling. Yet even combined evidence does not establish precisely how office was transmitted, how disputes were decided, or whether an influential household could command tribute. Archaeologists may reasonably infer that some people accumulated material and symbolic advantages while declining to call them kings. That restraint helps distinguish the observable structure of differences from political language borrowed from much later dynastic histories."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.8:b04",
+      "title": "Kinship, age and unequal visibility",
+      "paragraphs": [
+        "Power in a village might rest partly on seniority, kinship networks, control of knowledge or the ability to organize labor. These relationships are largely invisible to excavation unless they shaped durable material patterns. Burials that privilege adults or particular age groups reveal choices in commemoration, not necessarily the full distribution of esteem in everyday life. A poor grave might belong to a well-regarded person whose family followed a different rite; a rich child's grave might reflect ancestry rather than achieved status. Even skeletal kinship analysis, when possible, does not identify social kinship institutions in their entirety. The challenge is to examine inequality without flattening differences among wealth, age, gender, ancestry and expertise into a single archaeological status score. Communities could combine inherited advantages with opportunities to negotiate influence through practical competence or ceremonial generosity."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": [
+        {
+          "claim": "Material observations and historical interpretation have distinct evidential limits",
+          "sourceIndex": 0,
+          "locator": "Excavated Bronze Age artifacts, funerary assemblages and published curatorial interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.8:b05",
+      "title": "Labor mobilization and collective action",
+      "paragraphs": [
+        "Dolmen construction, village rebuilding and land management all demanded organized work. This fact demonstrates capacities for coordination but leaves its social terms open. A project led by a respected elder, one arranged through reciprocal households, and one extracted by an elite might produce comparable structures. Repeated investment in a monumental grave could indicate the influence of a commemorated lineage, especially when accompanied by privileged access to metal or ornament. On the other hand, collective projects may have created solidarity and obligations distributed among many families. The evidence is more persuasive where researchers can link monuments to contemporaneous settlement organization and patterns of provisioning. The distinction between mobilization and coercion is essential: later state institutions should not be smuggled into a period with no written labor registers, taxes or court appointments."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.8:b06",
+      "title": "Regional patterns resist a single hierarchy",
+      "paragraphs": [
+        "The Mumun archaeological record encompasses considerable geographic variation, with contrasting settlement sizes, burial types and exchange relations. A site showing intense differentiation may not represent its neighbors, much less the entire peninsula. Research methods also introduce variation: an extensively excavated settlement reveals spatial differences that a rescue trench cannot; protected stone monuments survive where lighter architecture is gone. Quantitative approaches can compare grave monument size or artifact distributions, but their social meaning depends on models of labor and depositional practice. A recent analysis of dolmen volumes proposes measurable indications of stratification; such indicators are useful hypotheses rather than a direct census of ranks. Comparative history should track when and where differences intensified, persisted or faded, instead of giving prehistoric people one unchanging set of inherited classes."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.8:b07",
+      "title": "Power and legitimacy without written law",
+      "paragraphs": [
+        "Later Korean dynasties left ideological texts and official records that describe legitimacy, hierarchy and duties. Mumun societies left no equivalent narrative, and their material traces must not be made to speak a legal vocabulary they do not contain. Leadership may have been persuasive, ritual, military or economic, sometimes combining these roles. The absence of written titles does not mean social life was unstructured; it means particular claims about rules and offices cannot be independently checked. Excavated remains may show that certain families were remembered or equipped differently, but not the words by which others recognized their authority. Reconstructing power therefore requires comparative reasoning with explicit uncertainty and sensitivity to change over generations. It is possible to write a serious history of inequality without inventing a constitution for an unknown prehistoric chiefdom."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.8:b08",
+      "title": "From ranked relationships toward new formations",
+      "paragraphs": [
+        "Some later Bronze Age communities show patterns consistent with more durable differences in resources and commemorative labor. These may have contributed to the political networks that preceded recorded states in northern and southern Korea. Yet the pathway from differentiated graves to territorial institutions was neither immediate nor uniform. Exchange, migration, environmental change and conflict could create new opportunities for authority or dissolve earlier concentrations. The emergence of the named polities known from much later written sources cannot be dated simply by locating a wealthy tomb centuries earlier. The useful continuity is a history of people experimenting with social scale, obligation and public distinction. That history makes political development intelligible without treating the success of later monarchies as the purpose of prehistoric economic and ritual life."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    }
+  ]
+}

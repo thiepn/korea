@@ -1,0 +1,142 @@
+{
+  "id": "VIII.2.10",
+  "title": "Qing, Japan, Russia, and the Contest for Korean Sovereignty before 1894",
+  "kicker": "LATE JOSEON · DIPLOMACY AND REFORM",
+  "description": "Original historical study of qing, japan, russia, and the contest for korean sovereignty before 1894, examining political claims and institutional outcomes.",
+  "release": "X",
+  "sourceStatus": "Source-critical synthesis using selective verified contextual references; not independent specialist review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jejungwon (제중원), hospital and early medical institution",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051479",
+      "role": "Historical encyclopedia evidence for 1885 founding, Gojong patronage and later missionary operation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Postal Administration (우정총국), establishment and closure",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040100",
+      "role": "Institutional history of the new postal administration and the Gapsin interruption"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Joseon–Qing Telegraph Agreement (조청전선조약)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0052704",
+      "role": "Treaty-era telegraph infrastructure negotiated in 1885"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Qing–Joseon trade regulations and interpretation",
+      "url": "https://contents.history.go.kr/mobile/mid/hm_115_0050?tabId=e",
+      "role": "Source edition and interpretation of 1882 treaty claims, surviving through copies"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Qing–Japan Tianjin Convention (1885)",
+      "url": "https://contents.history.go.kr/mobile/tg/view.do?ganada=&levelId=tg_004_1080&pageUnit=10&subjectCode=all&tabId=02",
+      "role": "Historical glossary for treaty-era security rivalry"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gapsin Coup, Qing political impact and Gojong's diplomacy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000922",
+      "role": "Scholarly synthesis of attempted post-coup realignment and domestic policy"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.2.10:b01",
+      "title": "A sovereignty problem with several participants",
+      "paragraphs": [
+        "Between the crises of 1882 and the outbreak of war in 1894, Korea's monarchy faced competing foreign governments whose interests and capabilities did not align. Qing sought to sustain and reshape its special claims, Japan expanded its commercial and political reach, and Russia and other treaty powers became possible partners or sources of concern. Gojong and his advisers tried to keep options open while pursuing institutional reform and protecting the court. This was a changing field of negotiations, military threats and expectations, not a fixed chessboard on which Korean people had no agency. An account of sovereignty must separate legal expressions of independence, effective control over coercive force, and fiscal or diplomatic dependence. Those dimensions sometimes diverged dramatically. The same government could sign treaties, appoint ministers and still find its most important decisions constrained by outside military power."
+      ],
+      "sequence": 1,
+      "label": "Original source-critical historical synthesis",
+      "evidence": [
+        {
+          "claim": "Institutional documentary history requires distinguishing contemporary statements from confirmed implementation",
+          "sourceIndex": 3,
+          "locator": "Late Joseon institutions, foreign-relations archives and contextual document annotations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.10:b02",
+      "title": "Qing claims and the legacy of 1882",
+      "paragraphs": [
+        "The Imo Mutiny provided Qing authorities with an opportunity to intervene militarily and press more intrusive terms on Joseon. The subsequent trade regulations and resident representation converted some of that leverage into routine governance. These arrangements mattered because they affected who could negotiate, protect merchants, and influence diplomatic decisions. A strictly ritual interpretation of Qing–Korean hierarchy fails to explain the new instruments of control, while calling the monarchy a fully annexed province would be equally inaccurate. Korean officials tried to preserve authority within changing constraints. The language of old tributary forms and new treaty relations could be deployed strategically, making legal categories themselves objects of dispute. The legacy of 1882 thus created a distinctive foundation for later rivalry rather than merely reviving an unchanging historical relationship."
+      ],
+      "sequence": 2,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.10:b03",
+      "title": "Japan's pursuit of influence",
+      "paragraphs": [
+        "Japan's treaty position and post-mutiny demands gave it formal channels to press commercial and diplomatic claims. Some Japanese representatives cultivated Korean reformers who hoped to weaken Qing control, yet the relationship was not symmetrical. Assistance could increase reformers' immediate capacity while exposing them to an external patron's changing priorities. The failure of the 1884 coup made the dangers unmistakable. Japanese government calculations also responded to Qing troops and the attitudes of other foreign powers, not only to Korean internal politics. It would be inaccurate to treat every technical exchange or trade negotiation as the inevitable execution of a fully formed colonial plan. Nevertheless, coercive privileges and strategic interest were real components of Japanese policy, and Korean leaders faced a growing challenge in separating useful external knowledge from political dependence."
+      ],
+      "sequence": 3,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.10:b04",
+      "title": "Russia and alternative diplomacy",
+      "paragraphs": [
+        "Russian activity and the possibility of seeking northern protection complicated a narrative limited to Qing and Japan. Korean officials could consider Russian assistance as one way to resist pressure from immediate neighbors, but such overtures could deepen rather than remove geopolitical vulnerability. Diplomatic proposals, rumors and secret communications must be carefully distinguished from ratified agreements and observable military commitments. Outside observers often interpreted even tentative contacts through fears of Russian expansion in Northeast Asia. Those interpretations could themselves influence Qing and Japanese behavior. Gojong's effort to broaden relationships demonstrates genuine strategic initiative while revealing the scarcity of secure choices available to the court. A weaker polity may be capable of balancing tactics without possessing the power to guarantee that balance against sudden armed intervention."
+      ],
+      "sequence": 4,
+      "label": "Original source-critical historical synthesis",
+      "evidence": [
+        {
+          "claim": "Institutional documentary history requires distinguishing contemporary statements from confirmed implementation",
+          "sourceIndex": 3,
+          "locator": "Late Joseon institutions, foreign-relations archives and contextual document annotations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.10:b05",
+      "title": "Other powers and indirect influence",
+      "paragraphs": [
+        "The United States, Britain and European treaty states did not share a single coordinated policy toward Korean sovereignty. Their representatives sought different combinations of commercial access, consular protection, strategic stability and information about rival powers. Some supported reform projects or offered professional expertise; those activities could coexist with indifference to Korea's political independence when great-power priorities shifted. Diplomatic language about friendship should therefore be measured against concrete actions. Foreign newspaper reports and legation dispatches also influenced international interpretations of unrest in Seoul. Korean envoys attempted to make use of these relationships, sometimes gaining advice or recognition without securing military guarantees. The distinction between establishing relations and obtaining enforceable support is especially important in a period when formal independence could be affirmed while practical intervention continued."
+      ],
+      "sequence": 5,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.10:b06",
+      "title": "Domestic politics were not incidental",
+      "paragraphs": [
+        "Court factions, soldiers, merchants, peasants and reform advocates shaped the crises that foreign governments exploited. The 1882 mutiny arose from military provisioning grievances before it became a diplomatic confrontation; the 1884 coup combined a reform platform with palace violence and external support. Fiscal weakness, social hierarchy and uneven implementation of institutions constrained Gojong's strategic options independently of foreign pressure. Rural discontent in the following years raised further challenges that cannot be reduced to international rivalry. The Donghak movement and 1894 uprising were rooted in Korean religious, social and economic circumstances, even as the conflict became entangled with Qing and Japanese intervention. A history that portrays the country only as a passive buffer state erases these internal actors and fails to explain why moments of domestic crisis changed the wider geopolitical balance."
+      ],
+      "sequence": 6,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.10:b07",
+      "title": "How 1894 changed the stakes",
+      "paragraphs": [
+        "The year 1894 brought renewed armed intervention amid the Donghak crisis and the escalation of Qing–Japanese rivalry toward war. Previous arrangements, including the Tianjin Convention, provided claims and expectations concerning notice of troop deployments but could not prevent each government from pursuing its strategic objectives. Decisions taken in 1894 were not predetermined by the wording of an agreement nine years earlier. The scale of military force, court choices, diplomatic communication and the calculations of external leaders all mattered. The emergence of Gabo-era reform under wartime conditions must be distinguished from the earlier experiments of the 1880s, even where ideas overlapped. Sovereignty became sharply contested not because Koreans ceased attempting reform, but because outside powers increasingly treated the peninsula as a site for deciding their own regional hierarchy."
+      ],
+      "sequence": 7,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.10:b08",
+      "title": "A history that preserves contingency",
+      "paragraphs": [
+        "The eleven years after the Imo Mutiny should not be written as an uninterrupted preface to annexation. Korean officials created institutions, debated constitutional and administrative questions, negotiated international relations, and sometimes made costly miscalculations. Qing and Japanese influence waxed or shifted with events, while Russia and other powers entered calculations in different ways. Each crisis had a distinct origin and set of participants. A historian can identify long-term pressures without denying that alternative decisions and outcomes were possible. The most durable lesson of the period concerns the difficulty of building effective state capacity under conditions of unequal treaties and military intervention. That problem links the histories of soldiers' rations, customs dues, schools, hospitals, political coups and diplomacy, all of which influenced how the monarchy tried to govern and defend its independence."
+      ],
+      "sequence": 8,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    }
+  ]
+}
