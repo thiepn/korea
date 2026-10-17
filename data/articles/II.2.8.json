@@ -1,0 +1,112 @@
+{
+  "id": "II.2.8",
+  "title": "Emperor Wu and the Decision for War",
+  "kicker": "HAN EXPANSION · SECOND CENTURY BCE",
+  "description": "A source-critical history of emperor wu and the decision for war, differentiating Han claims, Joseon agency and contested commandery geography.",
+  "release": "T",
+  "sourceStatus": "Original narrative synthesis from Shiji in NIKH translation and Korean scholarly commentary; select anchors are contextual rather than independent peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gojoseon Growth and Fall; Shiji 115",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0050",
+      "role": "Annotated primary text on Han negotiations, She He, Wanggeom siege and political defections"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commanderies after Wiman Joseon",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0080",
+      "role": "Dated Canghai episode, 109-108 war and changing commanderies"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commandery Administrative Change",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0020_0040_0020",
+      "role": "Institutional evolution, 82 and 75 BCE retrenchments and local agency"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Korean History, Joseon social structures",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_003_0030_0010_0010_0030",
+      "role": "Textual and material evidence with uncertainties"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.2.8:b01",
+      "title": "An emperor with several frontier commitments",
+      "paragraphs": [
+        "Emperor Wu's decision to attack Wiman Joseon belonged to a reign of extensive Han military and diplomatic expansion. Han resources had been mobilized in campaigns across northern, western and southern regions; experiences in those theatres shaped what officials thought possible in the northeast. A ruler confronting multiple strategic pressures did not simply turn toward Joseon because one envoy was insulted.",
+        "Yet the existence of a broad expansionist policy cannot replace the actual documented sequence of the war. The Shiji supplies specific missions, commands and conflicting reports, making possible a political explanation grounded in events. Assessments of Wu's motives must distinguish what his court publicly alleged from more general considerations about trade, security and imperial prestige. The empire's own archives and chronicles were shaped by attempts to justify action and assign responsibility for failure."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.8:b02",
+      "title": "The mission of She He",
+      "paragraphs": [
+        "Han sent the envoy She He to demand compliance from Ugeo. The transmitted account describes the mission's failure, followed by the killing of a Joseon escort or official during She He's return. He reportedly presented the deed as a successful blow against Joseon and received appointment as a frontier official. The episode shows diplomacy crossing into violence before the main armies were dispatched.",
+        "The description comes through an imperial historical narrative. It is strong evidence for the sequence transmitted in the Shiji but does not independently establish every contested statement or private motive. A cautious account should not rehabilitate the envoy by treating the killing as a neutral border incident, nor should it invent the internal deliberations of Joseon's court. The event narrowed the chances for peaceful settlement while making personal responsibility and imperial credibility difficult to disentangle."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.8:b03",
+      "title": "Retaliation and the widening crisis",
+      "paragraphs": [
+        "The Shiji goes on to relate that Joseon attacked She He and killed him in his new position. For Han the death of an imperial representative provided an immediate justification for large-scale force. Retaliation for an envoy's death could be framed as restoration of order, even as strategic competition over access had been developing for years.",
+        "Military decisions often make use of discrete incidents because they can be communicated more easily than complex structural disputes. A court could invoke murdered officials, blocked missions and protection of allied communities while also calculating its ability to impose a new regional settlement. These explanations are not mutually exclusive. Good historical analysis identifies the actual trigger, traces prior tensions and tests any broader claim against available evidence."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.8:b04",
+      "title": "Land and naval planning",
+      "paragraphs": [
+        "Han prepared a combined campaign involving a land army approaching from the Liaodong region and a naval expedition across the waters toward Joseon. The commanders traditionally identified in the Shiji are Xun Zhi and Yang Pu. Dividing forces offered the possibility of simultaneous pressure but also created risks of poor coordination and rival command.",
+        "Moving troops required roads, horses, provisions, ships and knowledge of unfamiliar terrain. Sea crossing exposed a fleet to seasonal conditions and difficulties establishing supply. A large army did not automatically become effective because its home state possessed greater resources. The subsequent course demonstrated military frustrations and disputes among Han commanders, which caution against narrating the conquest as an effortless application of overwhelming superiority."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.8:b05",
+      "title": "Political objectives beyond battle",
+      "paragraphs": [
+        "Han's aim was not solely to defeat one force on the frontier. By ending the royal regime it could attempt to reorganize access to the northeast and create local administrative units answerable to imperial authorities. That institutional ambition mattered when deciding how to negotiate with leaders willing to surrender or defect.",
+        "Even a successful campaign could leave practical governance unresolved. Local communities, mountainous routes and the distance from central institutions posed persistent problems. The later short lives of two commanderies and movement of another show that conquest and integration were different achievements. These consequences should not be mistaken for proof that Han never established meaningful control, but they limit the claim of an immediately uniform imperial province across the whole peninsula."
+      ],
+      "sequence": 5,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.8:b06",
+      "title": "The responsibility of the historian",
+      "paragraphs": [
+        "A history of Wu's decision should take seriously both Han's diplomatic grievances and the coercive objectives of a growing empire. The absence of surviving Joseon court annals means we often see negotiation through those who chose war. That asymmetry cannot be repaired by writing invented speeches for Ugeo or by substituting modern national assumptions for missing evidence.",
+        "The documentary sequence establishes that contact, diplomatic conflict, killings and mobilization preceded the invasion of 109 BCE. Interpretation concerns how to weight security, political prestige, competing trade interests and the actions of individual envoys. Keeping the chronology and the possible motives separate produces a stronger explanation than a moral tale in which the empire reacts mechanically to an enemy's misbehaviour."
+      ],
+      "sequence": 6,
+      "label": "Original research synthesis"
+    }
+  ]
+}

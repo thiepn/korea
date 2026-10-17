@@ -1,0 +1,112 @@
+{
+  "id": "II.2.9",
+  "title": "The Han–Gojoseon War and the Fall of Wanggeom",
+  "kicker": "HAN EXPANSION · SECOND CENTURY BCE",
+  "description": "A source-critical history of the han–gojoseon war and the fall of wanggeom, differentiating Han claims, Joseon agency and contested commandery geography.",
+  "release": "T",
+  "sourceStatus": "Original narrative synthesis from Shiji in NIKH translation and Korean scholarly commentary; select anchors are contextual rather than independent peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gojoseon Growth and Fall; Shiji 115",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0050",
+      "role": "Annotated primary text on Han negotiations, She He, Wanggeom siege and political defections"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commanderies after Wiman Joseon",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0080",
+      "role": "Dated Canghai episode, 109-108 war and changing commanderies"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commandery Administrative Change",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0020_0040_0020",
+      "role": "Institutional evolution, 82 and 75 BCE retrenchments and local agency"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Korean History, Joseon social structures",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_003_0030_0010_0010_0030",
+      "role": "Textual and material evidence with uncertainties"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.2.9:b01",
+      "title": "The campaign opens in 109 BCE",
+      "paragraphs": [
+        "The Han campaign against Wiman Joseon began with forces moving toward the kingdom from different directions. The intended convergence of land and naval operations promised strategic advantages but exposed problems of timing and communication. The Shiji's account reports defeats and miscalculations among Han units, revealing that the destruction of the kingdom was not a one-battle triumph.",
+        "An invading army could be larger in aggregate yet struggle against fortified positions and uncertain supply. Defensive forces familiar with approaches to Wanggeom could exploit terrain and the difficulties of coordinating separated enemies. The historical record does not preserve a precise tactical map for every engagement, and later depictions of battle scenes should be recognized as reconstructions. The fundamental outcome is a prolonged struggle in which military pressure and political fragmentation acted together."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.9:b02",
+      "title": "The siege of Wanggeom",
+      "paragraphs": [
+        "Wanggeom, the royal centre, became the focus of the Han offensive. The siege exposed the difficulty of destroying a political regime whose leaders could remain behind defensive works while enemy commanders disputed strategy. The Shiji records negotiations about submission, shifts in trust and repeated failures to secure agreement.",
+        "The location of Wanggeom and the degree to which excavated remains correspond to specific structures are subjects of archaeological and geographical inquiry. Describing the siege as an exact day-by-day series without surviving contemporary logs creates false precision. A reliable account emphasizes the pressure on the court, the inability of the attackers to achieve an immediate decisive victory and the growing significance of diplomacy within the city's leadership."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.9:b03",
+      "title": "Command rivalry among the attackers",
+      "paragraphs": [
+        "The commanders Xun Zhi and Yang Pu operated under separate Han orders and did not always cooperate. The historical account describes disputes over proposals for surrender and allegations that one commander obstructed the campaign. Central authority from the imperial capital could not automatically solve disagreements occurring far from its direct observation.",
+        "These conflicts demonstrate the limits of imperial force as an explanation. Han possessed considerable resources, but their use depended on coordination and political judgement. Officials struggled to decide whether negotiated submission would be accepted and who would receive credit. The handling of Joseon envoys reflected these uncertainties. Historians should take the Shiji's allocation of blame critically, while recognizing that the detailed discussion of disputes is evidence against any depiction of the campaign as uniformly competent."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.9:b04",
+      "title": "Political breakdown in the besieged court",
+      "paragraphs": [
+        "Senior officials in Joseon debated surrender and survival as pressure mounted. The Shiji names figures who sought terms with Han or defected, showing that the ruler's authority was contested within his own government. The decision to surrender could reflect the judgement that further resistance would endanger followers, even where a king preferred continued defence.",
+        "This is not evidence that the entire population welcomed Han conquest. Nor does the failure of royal unity mean that the state was fictitious before the war. Powerful courts can become divided under extraordinary military pressure. Officials' relationships with their own followers and regional interests may have informed their choices, but the precise reasons are mostly inaccessible. A sensitive account distinguishes recorded actions from speculation about private loyalties or ethnic sympathy."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.9:b05",
+      "title": "Ugeo's death did not immediately end resistance",
+      "paragraphs": [
+        "The Shiji states that Ugeo was killed through the action of a high official, Sam, in 108 BCE. Despite the ruler's death the city did not fall instantaneously. Continued resistance under another leading figure, Seong Sa, required Han to use people linked to surrendered Joseon officials to induce further submission and end the fight.",
+        "This sequence warns against making the war a duel between two monarchs. The political community included military men, administrators and residents whose decisions did not change together at one moment. Even after royal authority fractured, opponents could maintain resistance. Han's achievement depended partly on its ability to negotiate with some Joseon elites while using force against others, a pattern that influenced its subsequent attempts at regional government."
+      ],
+      "sequence": 5,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.9:b06",
+      "title": "Victory, punishment and an unstable settlement",
+      "paragraphs": [
+        "The Han court proclaimed conquest and organized new commandery arrangements, but the careers of its commanders were not celebrated uniformly. The Shiji recounts punishment and criticism following the campaign, reflecting concern over disobedience, losses and improper conduct. Military victory did not settle internal accountability within the imperial state.",
+        "For local communities the end of the royal dynasty introduced uncertain new obligations and opportunities. Some elites could enter relations with Han officials, while others faced displacement or resistance. The conqueror's institutional plans were not fully realized at once and would be revised repeatedly. A complete account closes the siege narrative with the destruction of Wiman royal authority while reserving the geography and evolving reality of the commanderies for the next article."
+      ],
+      "sequence": 6,
+      "label": "Original research synthesis"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "II.2.6",
+  "title": "Relations with the Han Empire",
+  "kicker": "HAN EXPANSION · SECOND CENTURY BCE",
+  "description": "A source-critical history of relations with the han empire, differentiating Han claims, Joseon agency and contested commandery geography.",
+  "release": "T",
+  "sourceStatus": "Original narrative synthesis from Shiji in NIKH translation and Korean scholarly commentary; select anchors are contextual rather than independent peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gojoseon Growth and Fall; Shiji 115",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0050",
+      "role": "Annotated primary text on Han negotiations, She He, Wanggeom siege and political defections"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commanderies after Wiman Joseon",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0080",
+      "role": "Dated Canghai episode, 109-108 war and changing commanderies"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commandery Administrative Change",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0020_0040_0020",
+      "role": "Institutional evolution, 82 and 75 BCE retrenchments and local agency"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Korean History, Joseon social structures",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_003_0030_0010_0010_0030",
+      "role": "Textual and material evidence with uncertainties"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.2.6:b01",
+      "title": "An acknowledged frontier power",
+      "paragraphs": [
+        "Wiman's relationship with the early Han empire developed in an environment where neither government could govern every frontier community by issuing commands from a distant capital. The Shiji describes a settlement by the Liaodong governor in which Wiman was treated as an external subject, expected to safeguard the border and permit neighboring rulers to approach the emperor. Formal language of hierarchy served an agreement about practical security.",
+        "The status cannot be translated directly into contemporary sovereignty. Han could recognize a ruler and furnish prestige or material benefits without administrating his court. Wiman could accept diplomatic forms while building influence among neighboring polities. The arrangement had value precisely because each side possessed capabilities that the other could not easily replace. A coherent account must ask which obligations were explicitly reported and which powers the kingdom continued to exercise independently."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.6:b02",
+      "title": "Security and the frontier agreement",
+      "paragraphs": [
+        "The Han court's priority after devastating civil conflict was to stabilize key approaches rather than invest limitless resources in distant expeditions. An arrangement with a frontier ruler could reduce raids, organize official communication and identify responsibility if violence crossed the boundary. The agreement, according to the transmitted text, also concerned access by other eastern and southern rulers to the Han court.",
+        "That access provision carried the seeds of later conflict. A regime positioned between Han and other communities might benefit from mediating envoys and commerce, while Han might suspect that an intermediary was accumulating excessive strategic leverage. At first these interests could coexist. The history of their divergence is not proof that the original agreement had been a cynical trap; it illustrates how changing scale, profit and imperial priorities can alter the meaning of earlier diplomatic compromise."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.6:b03",
+      "title": "Prestige, gifts and frontier bargaining",
+      "paragraphs": [
+        "Han recognition was expressed through the language and gifts of court diplomacy. Such exchanges were not equivalent to a modern customs schedule, and the list of goods in literary sources need not exhaust economic dealings along the frontier. Gifts could confer status, signal a negotiated relationship or provide resources for rewarding loyal followers.",
+        "Conversely the receiving court's response to an envoy could communicate political ambition. Accepting an imperial title did not necessarily make the ruler a day-to-day provincial official. In many premodern diplomatic systems, ceremonial hierarchy allowed governments to maintain peace while interpreting its implications differently. Wiman Joseon's later behaviour shows that court relations were not enough to settle the question of direct access from Han to peoples beyond the kingdom."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.6:b04",
+      "title": "The reigns between founder and Ugeo",
+      "paragraphs": [
+        "The written narrative moves from Wiman to his descendants and then to Ugeo, the ruler defeated in 108 BCE. Its compression leaves substantial gaps in the institutional and economic history of these generations. The lack of a year-by-year chronicle should not be filled by inventing long campaigns or a list of rulers absent from the sources.",
+        "The continuity of the ruling house through more than one succession suggests some resilience. Court authority and external negotiations persisted despite the shifting fortunes of the Han empire itself. Yet the available record is overwhelmingly a retrospective account explaining why war eventually occurred. The historian can use this narrative to identify relationships and disputes but must resist assuming that every intervening year was devoted to an inevitable confrontation."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.6:b05",
+      "title": "Imperial strategy under Emperor Wu",
+      "paragraphs": [
+        "Under Emperor Wu, Han expanded its involvement across multiple frontiers, and relationships once managed through intermediaries came under greater scrutiny. The court had obligations and campaigns in other directions, making its choices about Joseon part of a larger imperial strategy rather than an isolated argument about one blocked embassy. The capacity to mobilize armies and ships had grown, but campaigns still posed enormous risks and costs.",
+        "The history of empire should distinguish the emperor's broad strategic environment from decisions in a particular year. It is possible to place Han's ambitions in context without claiming direct documentary evidence that one geopolitical theory guided every official. Frontier commanders, envoys, advisers and local defectors all contributed to the sequence. The changing relationship is visible in actions, reports and eventual orders, not solely in generalized labels such as expansionism."
+      ],
+      "sequence": 5,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.6:b06",
+      "title": "Why normal diplomacy failed",
+      "paragraphs": [
+        "The essential dispute concerned access and political standing. Han authorities accused Ugeo of refusing to attend court and blocking eastern and southern communities seeking relations with the emperor. Wiman Joseon had reasons to fear that direct contact would bypass its intermediary position and weaken regional influence. The sources articulate Han's grievance more fully than Ugeo's own justification.",
+        "An evidence-conscious history recognizes asymmetry in surviving voices. The Shiji is invaluable for the chronology of Han decisions, but it is a text produced within the imperial political world. Claims about what Joseon's rulers thought must therefore be framed as interpretation unless their words are securely transmitted. The eventual war cannot be described simply as punishment for disobedience or purely as a spontaneous unprovoked attack without analyzing the competition over access and the interests of the expanding empire."
+      ],
+      "sequence": 6,
+      "label": "Original research synthesis"
+    }
+  ]
+}
