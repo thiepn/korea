@@ -1,0 +1,118 @@
+{
+  "id": "IV.4.3",
+  "title": "Uisang, Hwaeom, and Transnational Buddhist Learning",
+  "kicker": "UNIFIED SILLA · BUDDHISM AND INTELLECTUAL LIFE",
+  "description": "Source-conscious history of uisang, hwaeom, and transnational buddhist learning, distinguishing doctrinal texts, biographies, material remains and later legend.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis based on selective National Museum and Academy of Korean Studies materials, distinguishing legendary anecdotes from documented manuscripts.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period, permanent gallery",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Buddhist architecture, funerary practices, art, capital and cultural exchange"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Wonhyo (원효)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040908",
+      "role": "Life 617–686, writings, harmonization and popular Buddhist engagement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Uisang (의상)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0043250",
+      "role": "Study in Tang under Zhiyan, return to Silla and founding Hwaeom networks"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hwaeom Buddhism (화엄종)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0064815",
+      "role": "Doctrinal reception and subsequent development of Hwaeom"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gameunsa stupa sarira reliquary",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2481&schM=relic_represent_view",
+      "role": "Securely dated royal-associated 682 religious material and reliquary context"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.4.3:b01",
+      "title": "A monk within a transregional intellectual field",
+      "paragraphs": [
+        "Uisang, conventionally dated 625–702, studied the Avataṃsaka or Hwaeom tradition in Tang China under Zhiyan. The Academy of Korean Studies places his entry into Tang in 661 and his return to Silla in 670. This chronology links his intellectual development to the era of warfare and changing relations between the two states, yet his learning cannot be reduced to the diplomatic conflict surrounding those years.",
+        "The journey was part of a broader movement of Buddhist specialists who studied, translated and transmitted works beyond political borders. Such mobility required contacts, patronage and the ability to participate in literary Buddhist culture. A monk's presence in a foreign monastery was not evidence of political subordination by his homeland. Uisang brought back interpretive resources that could be taught and adapted within Silla's own institutions."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies identifies Wonhyo's works and Uisang's Tang study under Zhiyan, while the National Museum documents Buddhist material culture and the royal Gameunsa reliquaries.",
+          "sourceIndex": 2,
+          "locator": "의상: Tang study 661 and Silla return 670",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.3:b02",
+      "title": "The Hwaeom vision of interdependence",
+      "paragraphs": [
+        "Hwaeom learning centres on the Avataṃsaka Sutra and the relationship between individual phenomena and the larger network of reality. Uisang's short and visually organized Hwaeom Ilseung Beopgye-do became a celebrated way to present complex principles of mutual dependence and non-obstruction. Such concepts are philosophical claims within Buddhist doctrine, not empirical descriptions of Silla society.",
+        "The appeal of the teaching has sometimes encouraged broad analogies between an interconnected cosmos and a unified political state. A king or monk might find such parallels meaningful, but the existence of the doctrine does not prove that a royal administrative system was designed from it. The historian should analyse ideas in their textual setting first, then investigate specific evidence for their ritual or political use."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies identifies Wonhyo's works and Uisang's Tang study under Zhiyan, while the National Museum documents Buddhist material culture and the royal Gameunsa reliquaries.",
+          "sourceIndex": 2,
+          "locator": "의상: Tang study 661 and Silla return 670",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.3:b03",
+      "title": "Buseoksa and institutions of teaching",
+      "paragraphs": [
+        "Uisang is associated with founding Buseoksa and establishing Hwaeom networks in Silla. A monastery provided an institutional setting for teaching, copying texts, receiving donations and training disciples. The foundation itself should be distinguished from surviving buildings that may have been reconstructed in much later periods.",
+        "Religious transmission required more than a single gifted master. Students interpreted teachings, patrons supplied resources and local people maintained temple land and structures. The spread of Hwaeom therefore involved networks of institutions over time. Later lineages sometimes retroactively organized the history around one founder, a useful memory that should not obscure the many participants whose labour carried the teachings into practice."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.3:b04",
+      "title": "The report of a Tang military threat",
+      "paragraphs": [
+        "Biographical sources connect Uisang's return to Silla in 670 with a warning about potential Tang military plans against his homeland. The episode aligns broadly with a period of tense Silla–Tang relations, but details and motives have been transmitted through later religious biography. A historian should mark what is directly reported and what is subsequent narrative elaboration.",
+        "This story is important because it exemplifies the overlap between intellectual mobility and political responsibility. A monk trained across borders could still be concerned for his community's security. The ability to carry information through religious networks is plausible, but every reported conversation should not be treated as a verified dispatch. Such source criticism allows the biography to illuminate the period without turning it into an invented espionage tale."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.3:b05",
+      "title": "Teachers, disciples and doctrinal continuity",
+      "paragraphs": [
+        "The historical development of Hwaeom in Silla relied on disciples and subsequent communities who interpreted their teacher's writings and expanded temple networks. Later accounts preserve lists of eminent students and foundations, but dates and personal relationships can be shaped by lineage claims. The existence of an enduring school should not be collapsed into one moment when all its institutions were supposedly created.",
+        "Hwaeom competed and interacted with other Buddhist approaches, including those associated with Wonhyo and later Seon practitioners. Such diversity did not necessarily produce permanent hostility. Monks could study several forms of teaching, and monasteries might adopt practices without joining a modern exclusive denomination. The broad tradition was dynamic, changing with patrons and political contexts."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.3:b06",
+      "title": "A Korean interpretation rather than a Chinese copy",
+      "paragraphs": [
+        "Uisang learned from Zhiyan in Tang and participated in a scholarly conversation that extended across East Asia. His work illustrates that receiving teachings from abroad could be a form of intellectual agency, not an absence of it. Selection, diagrammatic explanation, teaching strategy and institutional foundation involved decisions made for Silla audiences.",
+        "The continued commentary tradition surrounding his diagram confirms that the text could generate new readings far beyond his lifetime. But later prominence should not erase differences between seventh-century manuscripts and subsequent interpretations. A source-conscious history traces what Uisang demonstrably wrote and taught, the routes by which his teaching circulated and the evolving networks that made Hwaeom a significant part of Korean Buddhist culture."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    }
+  ]
+}

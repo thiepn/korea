@@ -1,0 +1,118 @@
+{
+  "id": "IV.4.1",
+  "title": "Buddhism after Unification: Religion, State, and Society",
+  "kicker": "UNIFIED SILLA · BUDDHISM AND INTELLECTUAL LIFE",
+  "description": "Source-conscious history of buddhism after unification: religion, state, and society, distinguishing doctrinal texts, biographies, material remains and later legend.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis based on selective National Museum and Academy of Korean Studies materials, distinguishing legendary anecdotes from documented manuscripts.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period, permanent gallery",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Buddhist architecture, funerary practices, art, capital and cultural exchange"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Wonhyo (원효)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040908",
+      "role": "Life 617–686, writings, harmonization and popular Buddhist engagement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Uisang (의상)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0043250",
+      "role": "Study in Tang under Zhiyan, return to Silla and founding Hwaeom networks"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hwaeom Buddhism (화엄종)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0064815",
+      "role": "Doctrinal reception and subsequent development of Hwaeom"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gameunsa stupa sarira reliquary",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2481&schM=relic_represent_view",
+      "role": "Securely dated royal-associated 682 religious material and reliquary context"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.4.1:b01",
+      "title": "After conquest, a broader religious landscape",
+      "paragraphs": [
+        "The military and political changes of the late seventh century altered the communities among whom Buddhism operated in Silla. Temples and monks already had important relationships with ruling families before 668, but the enlarged kingdom brought new sites, networks and local traditions into closer contact. It would be mistaken to imagine that everyone converted simultaneously after unification or that northern regions immediately adopted identical practices.",
+        "The National Museum of Korea describes Buddhism as central to the material and social transformations of the Unified Silla period, reflected in temples, images and changing mortuary practices. This is strong evidence for its public prominence but does not provide a census of private conviction. Royal patronage, monastic institutions and lay devotion existed in different relationships across regions. A political historian should examine who supported each form and how religious authority operated outside the palace."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies identifies Wonhyo's works and Uisang's Tang study under Zhiyan, while the National Museum documents Buddhist material culture and the royal Gameunsa reliquaries.",
+          "sourceIndex": 0,
+          "locator": "Unified Silla gallery: Buddhist funerary practice and religious objects",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.1:b02",
+      "title": "Kingship and protection of the realm",
+      "paragraphs": [
+        "Buddhist ritual could articulate hopes for stability, protection and legitimate rule. Royal support for temples, relics and ceremonies allowed kings to present their authority within a cosmology larger than dynastic ancestry. Such devotion may have been sincere while also producing political benefits; the two motivations should not be separated automatically.",
+        "The memorial programme at Gameunsa is one example of the connection between kingship and religion. The temple was associated with remembrance of King Munmu, and the surviving pagoda reliquaries provide securely dated material evidence for elite patronage. Objects from a royal context, however, tell us about an exceptionally privileged setting. They should not be used to claim that every village enjoyed equal access to monumental Buddhist architecture or court-trained religious specialists."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies identifies Wonhyo's works and Uisang's Tang study under Zhiyan, while the National Museum documents Buddhist material culture and the royal Gameunsa reliquaries.",
+          "sourceIndex": 0,
+          "locator": "Unified Silla gallery: Buddhist funerary practice and religious objects",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.1:b03",
+      "title": "Temples as places where resources gathered",
+      "paragraphs": [
+        "A major monastery required land, food, timber, roof tiles, artisans, scribes and people who maintained daily routines. Religious foundations could create networks of donors and workers reaching far beyond the central shrine. Their material footprint gives historians a way to study the organization of labour and the redistribution of wealth through religious institutions.",
+        "Such investments could support local exchange and practical welfare while concentrating resources in powerful foundations. The balance varied by monastery and period. A temple record that praises the generosity of a donor may omit the farmers who produced the donated resources. History should therefore investigate both the public ideal of merit and the economic arrangements that made that ideal visible in stone and gold."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.1:b04",
+      "title": "Buddhist diversity rather than one state church",
+      "paragraphs": [
+        "Silla Buddhism contained different forms of practice and intellectual interest. Monks debated scriptures, transmitted rituals, taught lay audiences and participated in diplomatic or cultural journeys. Wonhyo's reconciliation of apparently conflicting doctrinal positions and Uisang's Hwaeom networks exemplify distinctive emphases that cannot be reduced to one royal doctrine.",
+        "The language of a single national religion oversimplifies social diversity. Households might maintain ancestral rites or local practices alongside Buddhist devotion, and the presence of Buddhist imagery in graves does not identify every personal belief. The historian must read ritual objects and written teaching together without treating either as complete testimony about interior faith. Religion's reach was broad precisely because it could take multiple institutional and practical forms."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.1:b05",
+      "title": "Material change in funerary habits",
+      "paragraphs": [
+        "The Unified Silla gallery displays stone caskets, funerary urns and Buddhist visual symbols that illustrate changing ways of treating the dead. Cremation became a significant practice, although not all places or social groups necessarily changed at the same rate. Funerary choices can express religious ideas, status, fashion and family resources simultaneously.",
+        "A shift from mound burial toward cremation must not be narrated as a single royal decree that instantly ended older customs. Archaeological sequences differ by region, and the availability of containers or monuments affects what survives. The interpretation of an urn as evidence of a particular Buddhist doctrine requires care. The stronger conclusion is that a changing religious landscape reshaped public commemoration and created new opportunities for skilled production."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.1:b06",
+      "title": "Cultural connections beyond the peninsula",
+      "paragraphs": [
+        "Silla's monks and material culture participated in transregional East Asian exchanges, especially with Tang China and Japan. Study abroad could transmit new interpretations of Buddhist texts; travelling goods and architectural techniques could reshape local practice. Connections also extended into wider networks of images and objects, though individual routes are not always documented.",
+        "Exchange does not mean cultural dependence. Silla thinkers selected, reformulated and sometimes challenged teachings encountered elsewhere. Artisans worked within local materials and patronage even when they borrowed design ideas. A source-conscious account distinguishes directly attested journeys from stylistic parallels that may have several explanations. Silla's Buddhist civilization was made through interpretation and social labour as well as importation."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    }
+  ]
+}
