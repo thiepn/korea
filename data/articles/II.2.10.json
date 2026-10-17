@@ -1,0 +1,134 @@
+{
+  "id": "II.2.10",
+  "title": "Conquest, Displacement, and the End of the Gojoseon Order",
+  "kicker": "HAN EXPANSION · SECOND CENTURY BCE",
+  "description": "A source-critical history of conquest, displacement, and the end of the gojoseon order, differentiating Han claims, Joseon agency and contested commandery geography.",
+  "release": "T",
+  "sourceStatus": "Original narrative synthesis from Shiji in NIKH translation and Korean scholarly commentary; select anchors are contextual rather than independent peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gojoseon Growth and Fall; Shiji 115",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0050",
+      "role": "Annotated primary text on Han negotiations, She He, Wanggeom siege and political defections"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commanderies after Wiman Joseon",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0080",
+      "role": "Dated Canghai episode, 109-108 war and changing commanderies"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commandery Administrative Change",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0020_0040_0020",
+      "role": "Institutional evolution, 82 and 75 BCE retrenchments and local agency"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Korean History, Joseon social structures",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_003_0030_0010_0010_0030",
+      "role": "Textual and material evidence with uncertainties"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.2.10:b01",
+      "title": "A political dynasty ends, a population remains",
+      "paragraphs": [
+        "The fall of Wanggeom in 108 BCE ended the independent royal order conventionally called Wiman Joseon. It did not mean that every inhabitant of its territories disappeared or that all local institutions ceased overnight. Han needed to govern or negotiate with communities whose livelihoods, allegiances and local leaders had survived the siege.",
+        "An imperial declaration of conquest is the starting point for studying administration, not proof of immediate control over every district named by geographers. Some officials and former royal associates may have been rewarded; others resisted or fled. Evidence of displacement is uneven and cannot support a comprehensive map of refugee movements. The fundamental distinction is between the defeat of the royal centre and the longer social process of adjustment under new rulers."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.10:b02",
+      "title": "The four commanderies in the record",
+      "paragraphs": [
+        "Historical texts commonly name Lelang, Lintun, Xuantu and Zhenfan among the new Han commanderies. Their conventional Korean names are Nangnang, Imdun, Hyeondo and Jinbeon. The National Institute of Korean History notes that the received records do not entirely agree on whether all four were formally established in the same year, with Xuantu sometimes dated to 107 BCE.",
+        "This detail matters because it warns against a diagram that treats four equally functioning provinces as fixed from one moment in 108 BCE. Precise locations of several early administrative centres remain disputed. Lelang, centred near the Pyongyang region in the mainstream historical reconstruction, has a stronger and longer material and textual record. The historian must specify which claims refer to a court designation, a site identification or an excavated administrative operation."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.10:b03",
+      "title": "The reshaping of the regional elite",
+      "paragraphs": [
+        "Han administration depended on relationships with people who already knew local routes, languages and customs. The fall of Joseon could create opportunities for particular leaders to secure office, trade access or protection through the imperial system. Other communities might lose power or withdraw from direct control. The resulting political field was not simply Han officials replacing every local authority.",
+        "The Shiji's named defectors make visible one aspect of the transition, but it is dangerous to assume that all later collaborators descended from the same few men. Many ordinary residents were absent from the literary record. Archaeological changes in tomb furnishing, material culture and imported goods can help trace broader processes, though they cannot identify the feelings of the people who used them. Incorporation involved both continuity and unequal reordering."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.10:b04",
+      "title": "The brief lives of some commanderies",
+      "paragraphs": [
+        "Han's administrative plans changed remarkably soon after conquest. Imdun and Jinbeon were abolished in 82 BCE and incorporated into other arrangements, while Hyeondo shifted its headquarters following pressure from local groups around 75 BCE. The dates and geographical interpretations are discussed in the annotated Korean source collections, which distinguish transmitted administrative labels from contested location hypotheses.",
+        "Such retrenchment does not mean the first conquests never happened. It demonstrates that imperial governance was negotiated through resources, distance and the actions of regional peoples. A district too costly or insecure to administer could be combined, relocated or governed indirectly. The network developed over generations, with Lelang maintaining much greater institutional continuity than some other initial commanderies. The later history is neither uninterrupted foreign omnipotence nor a complete absence of imperial influence."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.10:b05",
+      "title": "Trade, cultural movement and unequal exchange",
+      "paragraphs": [
+        "The commanderies became major channels through which people, writing, objects and techniques moved between Han-connected centres and Korean and northeastern communities. Imported coins, mirrors and other goods occur in archaeological contexts, especially along routes and coastal areas. Their distribution was uneven; it cannot be assumed that every settlement participated in the same commercial system.",
+        "An artifact found beyond a commandery boundary may have arrived through a trader, envoy, gift or subsequent movement. Cultural contact did not require political submission, and imperial control did not always produce uniform cultural replacement. Historians must distinguish the location of material goods from their meaning in local lives. The consequences of 108 BCE were profound, but they operated through many regional exchanges and adaptations."
+      ],
+      "sequence": 5,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.10:b06",
+      "title": "An ending and the opening of a longer history",
+      "paragraphs": [
+        "The kingdom's destruction altered the political possibilities for societies that later appear in narratives of Buyeo, Goguryeo, Okjeo, Ye and the Han polities. These groups did not arise simply because Han created commanderies. Many had earlier histories and local institutions of their own. Conquest changed their environment and sometimes offered new enemies, patrons or exchange networks.",
+        "A responsible conclusion resists a false binary between a wholly continuous native state and a sudden complete imposition of foreign society. Both imperial administration and regional autonomy developed over time. The Chapter closes Wiman's history with a securely attested defeat and contested institutional aftermath. The next Chapter can then study the commanderies as historical formations rather than treating their later changes as nothing more than the final paragraph of a royal war."
+      ],
+      "sequence": 6,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.10:b07",
+      "title": "A conquest that required repeated administrative revision",
+      "paragraphs": [
+        "A proclamation of four commanderies after conquest can give readers the impression of a permanent structure founded in one stroke. The documents instead reveal revisions within a few decades. The date of the establishment of Xuantu is debated between 108 and 107 BCE in transmitted accounts, and the changes of 82 and 75 BCE altered the original arrangement substantially. Administrative geography must be presented as a sequence, not one map applicable for centuries.",
+        "These revisions do not invalidate the importance of Lelang or the broader Han presence. They show that imperial control was geographically uneven and responded to resistance, distance and fiscal pressure. Some districts could be maintained, others merged or moved, and many local communities retained substantial agency. Reading every imported object as the result of direct Han government would erase exchange networks that operated outside strict administrative control.",
+        "The history also belongs to the peoples who lived through the change. Former Joseon officials could pursue accommodation or suffer exclusion, while regional leaders negotiated with new governors or rejected imperial demands. The written record gives those elite actions more attention than household experience. Archaeological evidence of changing burials, goods and settlement patterns expands the field but does not automatically reveal identities or political preferences. The fall of Wiman Joseon ended one monarchy and opened a long series of contested regional transformations."
+      ],
+      "sequence": 7,
+      "label": "Batch T deeper primary-source interpretation"
+    },
+    {
+      "id": "II.2.10:b08",
+      "title": "Four commanderies, several different chronologies",
+      "paragraphs": [
+        "The founding of the Han commanderies is often represented as a single administrative moment following 108 BCE. Yet the received Han records differ in details: discussions of Hyeondo's establishment include an alternative date in 107 BCE, and some early commandery locations have never achieved unanimous identification. Such disputes are not marginal to historical geography. They determine whether a particular archaeological site or region can securely be connected to a named unit in a given decade.",
+        "The subsequent revisions are much clearer in broad outline. Imdun and Jinbeon were dissolved in 82 BCE, and Hyeondo's position changed around 75 BCE amid pressure from local communities. These developments illustrate the limits of administrative projections drawn at the end of a successful war. The conquerors needed sustained personnel, transport and local cooperation, which were not equally available throughout the northeast. The survival of Nangnang, or Lelang, should be analysed differently from the short institutional lives of other initial units.",
+        "The material evidence is also uneven. Excavated Han-style objects and tombs help establish centres of interaction, but their presence outside known administrative districts cannot automatically prove direct imperial control. Conversely, a lack of imported goods in a small excavation does not demonstrate the total absence of contact. Conquest changed political frameworks, yet local communities continued to trade, resist, adapt and negotiate. The longer history of the commanderies belongs to this interaction between imperial ambitions and regional society."
+      ],
+      "sequence": 8,
+      "label": "Batch T additional institutional detail"
+    }
+  ]
+}

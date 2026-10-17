@@ -1,0 +1,123 @@
+{
+  "id": "II.2.7",
+  "title": "Ugeo, Jin, and the Crisis of Regional Access",
+  "kicker": "HAN EXPANSION · SECOND CENTURY BCE",
+  "description": "A source-critical history of ugeo, jin, and the crisis of regional access, differentiating Han claims, Joseon agency and contested commandery geography.",
+  "release": "T",
+  "sourceStatus": "Original narrative synthesis from Shiji in NIKH translation and Korean scholarly commentary; select anchors are contextual rather than independent peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gojoseon Growth and Fall; Shiji 115",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0050",
+      "role": "Annotated primary text on Han negotiations, She He, Wanggeom siege and political defections"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commanderies after Wiman Joseon",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0080",
+      "role": "Dated Canghai episode, 109-108 war and changing commanderies"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Han Commandery Administrative Change",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0030_0020_0040_0020",
+      "role": "Institutional evolution, 82 and 75 BCE retrenchments and local agency"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Korean History, Joseon social structures",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_003_0030_0010_0010_0030",
+      "role": "Textual and material evidence with uncertainties"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.2.7:b01",
+      "title": "Ugeo inherits an advantageous but precarious position",
+      "paragraphs": [
+        "By the reign of Ugeo, Wiman Joseon controlled or influenced routes that connected Han territory with multiple northeastern and peninsular communities. Its court could benefit from receiving migrants, negotiating supplies and determining which envoys might pass. That same position created vulnerability because the Han government increasingly sought relations without a compulsory intermediary.",
+        "Ugeo appears in the surviving record chiefly as the ruler against whom Han made its case for war. This means that the most detailed literary portrayal concerns refusals and conflicts, not the routine processes that occupied most of his reign. The historian should avoid making his entire government a sequence of provocations. The regional economy and political alliances that sustained Joseon also deserve attention, even where the evidence for them is more indirect."
+      ],
+      "sequence": 1,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.7:b02",
+      "title": "The southern Jin question",
+      "paragraphs": [
+        "Jin appears in early accounts as a political designation for peoples or communities south of Wiman Joseon's main sphere, rather than a single confidently mapped centralized state. Later traditions and the histories of Samhan complicate the terminology. A polity seeking direct communication with Han might resent an intermediary that controlled the route; it does not follow that all southern communities agreed on one diplomatic strategy.",
+        "Geography matters because direct contact could involve land corridors, maritime routes and relationships with multiple local leaders. Documents describing blocked messages are evidence of Han's understanding of political obstruction, not proof of a modern customs system with fixed checkpoints. The southern world's plurality should be preserved rather than represented as a unified nation waiting for liberation from northern control."
+      ],
+      "sequence": 2,
+      "label": "Original research synthesis",
+      "evidence": [
+        {
+          "claim": "The Shiji Joseon chapter and National Institute of Korean History commentary preserve named diplomatic episodes, military commands and the 108 BCE political outcome.",
+          "sourceIndex": 0,
+          "locator": "사료로 본 한국사: 고조선의 발전과 멸망, 『史記』朝鮮列傳 권115",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.7:b03",
+      "title": "Migration and refuge as instruments of power",
+      "paragraphs": [
+        "The Shiji reports Ugeo's attraction of people fleeing Han territory. The movement of migrants could strengthen labour, military skills or frontier connections, yet numbers and personal motivations remain hard to verify. A court that sheltered runaways might also create diplomatic tension with an empire concerned about the loyalty and location of its subjects.",
+        "Migration was not always a peaceful individual choice. Displacement through warfare, coercive recruitment and the search for protection could produce mixed populations. Rulers gained opportunities from this human mobility, while communities experienced uncertainty about affiliation and obligations. Explaining the diplomacy of the period requires treating people themselves as agents and resources rather than using the abstract word frontier without social content."
+      ],
+      "sequence": 3,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.7:b04",
+      "title": "Namneyo and the limits of northern control",
+      "paragraphs": [
+        "The reported defection of the Ye leader Namnyeo toward Han in 128 BCE undermines a picture of a territorially uniform kingdom. Han established the short-lived Canghai Commandery in response to the opening, but the scheme proved difficult and costly. The episode confirms that imperial authorities were exploring ways around existing northeastern political arrangements long before the final war.",
+        "A numerical claim about a following of 280,000 must be approached with caution, and the location of Canghai is disputed in scholarship. The attempt cannot be mapped confidently as though the precise boundaries of the commandery were known. What matters is the ability of a regional leader to make a diplomatic choice with major imperial consequences, and the inability of Han to convert every such opening into sustainable local administration."
+      ],
+      "sequence": 4,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.7:b05",
+      "title": "The politics of blocked envoys",
+      "paragraphs": [
+        "Han accounts complain that rulers beyond Joseon wished to submit petitions or seek audiences but could not pass Ugeo's court. The allegation should be read alongside the kingdom's incentives to maintain a profitable and strategic role as intermediary. A direct audience with Han could confer titles or open transactions beyond Joseon's control, reducing the leverage of its royal house.",
+        "Nevertheless the source does not permit a precise reconstruction of every blocked delegation. It is possible that disputes arose about security, the legitimacy of particular envoys or competing political claims. In source criticism, treating the allegation as Han's recorded grievance is firmer than asserting a comprehensive system of detention at a named border gate. The history is about contested diplomatic access, not a fully documented modern blockade."
+      ],
+      "sequence": 5,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.7:b06",
+      "title": "From commercial competition to coercion",
+      "paragraphs": [
+        "Tensions accumulated because diplomacy, commerce and political hierarchy were entwined. A court controlling access could sustain influence through alliance and economic benefit, while an empire seeking direct relations could view that influence as resistance to its authority. A clash was not preordained: agreements, recognition of different rulers and negotiated passage had previously made coexistence possible.",
+        "The decision for military action came after specific missions and violent encounters in 109 BCE, not merely because Ugeo was disliked. The next article examines Emperor Wu's authorization and the conduct of the Han envoy She He. Here the emphasis is the deeper regional crisis: overlapping claims of authority and the limited capacity of diplomatic frameworks to resolve them as relative power changed."
+      ],
+      "sequence": 6,
+      "label": "Original research synthesis"
+    },
+    {
+      "id": "II.2.7:b07",
+      "title": "Regional access and the problem of perspective",
+      "paragraphs": [
+        "To the Han court, the complaint that Ugeo obstructed communications from neighbouring polities could support a claim to intervene. To the Wiman government, the same routes might be indispensable to security and influence. We know the Han formulation much better because its historical tradition preserved the documents and narrative of the conflict. There is no equivalent surviving Joseon diplomatic archive offering its own detailed defence of policy. The asymmetry is central to interpreting the crisis.",
+        "A historian should resist compensating for the missing Joseon voice by projecting modern political nationalism onto Ugeo. His incentives can be inferred from the strategic position of the kingdom and the recorded efforts to maintain control over envoys. That is different from possessing direct testimony of his motives. The southern polities also deserve separate recognition: a desire for Han contact by some leaders does not reveal a universal position among all peoples grouped under Jin or related names.",
+        "The 128 BCE Ye defection provides a rare glimpse of communities exercising choices beyond the king's direct control. Its consequence, the failed Canghai project, illustrates both imperial ambition and its practical limits. Han could not sustain every frontier acquisition simply by announcing a new district, while Joseon could not prevent all alternative alliances. The final diplomatic crisis emerged within this flexible and unstable network rather than between two perfectly bounded modern nation-states."
+      ],
+      "sequence": 7,
+      "label": "Batch T deeper primary-source interpretation"
+    }
+  ]
+}

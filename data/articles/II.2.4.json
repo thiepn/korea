@@ -1,0 +1,123 @@
+{
+  "id": "II.2.4",
+  "title": "Expansion and the Incorporation of Neighboring Communities",
+  "kicker": "GOJOSEON · SECOND CENTURY BCE",
+  "description": "Evidence-conscious reconstruction of expansion and the incorporation of neighboring communities, distinguishing the Shiji narrative from disputed historical geography.",
+  "release": "T",
+  "sourceStatus": "Original historical synthesis with selective Korean institutional references; transmitted Chinese court histories are perspective-bound primary texts.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Growth and Decline of Gojoseon, annotated Shiji 115",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0050",
+      "role": "Primary Shiji Choson liezhuan in Korean translation and source criticism"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Wiman Joseon and Ancient States",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_003_0030_0010_0010_0030",
+      "role": "Secondary account of Wiman's ascent, settlement and disputed political composition"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Commanderies after Wiman Joseon",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0080",
+      "role": "Han expansion, Canghai failure and 108 BCE aftermath"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Exchange and Han Influence",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_008_0030_0010_0020",
+      "role": "Long-distance exchange, material distribution and limits of interpreting finds"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.2.4:b01",
+      "title": "Expansion beyond the capital",
+      "paragraphs": [
+        "The Shiji states that Wiman, recognized in a form of frontier relationship with early Han, was able to subdue or bring neighboring small communities into his sphere. Names such as Jinbeon and Imdun occur in the tradition, but their precise locations and degrees of dependence are debated. A court claiming dominion over a region is not necessarily evidence of a single line of fortifications or continuous bureaucratic supervision.",
+        "Expansion could involve political alliance, military intimidation, tribute arrangements or control over important approaches to commerce. The mechanism matters more than assigning a uniform colour to a map. An agreement with a local leader might secure passage for envoys and traders without removing that leader from office. Conversely, a forced submission might create deep resentment and later incentives to defect. Regional history must therefore be written as a series of relationships rather than a simple tale of unopposed royal conquest."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The transmitted Shiji Gojoseon chapter records royal succession, diplomacy and the political relations of frontier communities.",
+          "sourceIndex": 0,
+          "locator": "『史記』卷115 朝鮮列傳; 사료로 본 한국사 고조선 발전과 멸망",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.4:b02",
+      "title": "What border communities stood to gain",
+      "paragraphs": [
+        "People living between larger powers faced risks from raids, requisitions and disputes over movement. An alliance with Wiman's regime might offer military protection, better access to exchange or recognition of local authority. But it could also impose tribute, constrain direct diplomacy and expose households to campaigns initiated at the royal centre. The evidence is too sparse to assume a uniform benefit or hardship.",
+        "The importance of regional agency emerges in the movement of groups in and out of Joseon's sphere. A local community might negotiate with Han while retaining ties to Joseon, or its leader might seek greater autonomy when the king's external position weakened. These decisions could reshape political geography without an army marching through every valley. Written Chinese sources generally describe such events through the actions of rulers and defectors, leaving the broader negotiations mostly unrecorded."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The transmitted Shiji Gojoseon chapter records royal succession, diplomacy and the political relations of frontier communities.",
+          "sourceIndex": 1,
+          "locator": "우리역사넷 초기국가 위만조선 사회 및 정치 구조",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.4:b03",
+      "title": "The Ye and the Canghai episode",
+      "paragraphs": [
+        "In 128 BCE, a leader known as Namnyeo, connected with Ye communities, reportedly entered Han allegiance with a large following. The Han government attempted to establish the Canghai Commandery but abandoned the project within a short period. The episode reveals that Han interest in the northeast preceded its final war and that political allegiances were not permanently fixed.",
+        "The reported number of people should be approached cautiously. Ancient court records sometimes employ figures rhetorically or reproduce estimates that were never verified by direct registration. The precise location of the proposed commandery is also disputed. The secure conclusion is the attempt and its failure, not a definite administrative map. The reasons involved the cost and difficulty of governing a distant territory amid other imperial obligations, illustrating the gap between proclaimed annexation and practical incorporation."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.4:b04",
+      "title": "Geography as a political constraint",
+      "paragraphs": [
+        "Northeastern valleys, mountain passages, rivers and coastal routes connected settlements in different ways. Movement along the Liaodong corridor could bring envoys, troops and goods, while transport toward the southern peninsula had different logistical demands. A polity near these gateways might become powerful as an intermediary without directly occupying every destination reached by a trader.",
+        "The possibility of control was also seasonal. River crossings, winter travel, coastal sailing and overland provisioning altered the practical reach of military patrols and embassies. It would be inaccurate to draw the same precise political boundary for every generation from Wiman's rise to Ugeo's defeat. Archaeological sites can show distributions of goods and practices but do not produce a uniform map of taxation or coercion by themselves."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.4:b05",
+      "title": "Iron, prestige goods and negotiated influence",
+      "paragraphs": [
+        "Growth in metalworking and broader commercial connections transformed regional opportunities during the late centuries BCE. Iron tools and weapons, bronze objects and luxury goods could circulate through exchange, gifts, marriage connections or military seizure. A ruler able to facilitate such circulation might obtain allies and prestige. But the finds alone seldom identify who controlled an individual transaction.",
+        "Excavated material needs context: a mirror deposited in a tomb may have arrived long before burial; an object imitating Han production may have been manufactured locally; similar styles across sites need not indicate subjection to one king. An evidence-conscious account treats these possibilities as tests rather than chooses the most politically dramatic explanation. The material world demonstrates contact and selective adoption, not a census of subject settlements."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.4:b06",
+      "title": "Limits of the term empire",
+      "paragraphs": [
+        "Calling Wiman Joseon a regional kingdom acknowledges durable royal power and external influence. Calling it a large empire might suggest an administrative uniformity and scale that our sources cannot securely establish. The surviving texts name rulers and diplomatic disputes far more frequently than they describe local offices.",
+        "This does not make expansion imaginary. The kingdom could frustrate Han strategic ambitions and influence routes used by neighboring states, which are substantive forms of power. The challenge is to keep control, alliance and exchange analytically distinct. Those distinctions become vital when explaining why eastern and southern groups sought direct contact with Han and how their complaints contributed to the confrontation that eventually destroyed the royal centre."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.4:b07",
+      "title": "The meaning of a dependent polity",
+      "paragraphs": [
+        "When the Shiji says that neighbouring places submitted, the wording belongs to the political language of an imperial historian describing a smaller kingdom's expansion. Submission might indicate tribute, diplomatic recognition or military subordination, and those were not necessarily identical arrangements. A local leader could maintain control over ordinary disputes while acknowledging a more powerful court for security or long-distance exchange. The historian needs to identify which form the surviving report actually establishes.",
+        "This distinction matters for identifying Jinbeon and Imdun on a map. The names are known, but proposed boundaries and political centres are debated. If a modern map converts one literary claim into a sharp line, it creates a false picture of sovereignty. The same area might be used by mobile traders, farmers and leaders with overlapping allegiances. Political geography should sometimes be presented as a network of influence rather than a single stable enclosed territory.",
+        "The failed Canghai commandery underscores this point from the Han side. Imperial authorities could receive a regional submission and create an administrative name but still fail to maintain effective government. Costs of access, communication and security mattered. The episode demonstrates that local agency and logistical constraints limited both Wiman Joseon's and Han's projects of expansion. Neither power possessed effortless mastery over the northeast, and border communities were not merely passive objects on competing state maps."
+      ],
+      "sequence": 7,
+      "label": "Batch T deeper primary-source interpretation"
+    }
+  ]
+}

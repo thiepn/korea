@@ -1,0 +1,130 @@
+{
+  "id": "VIII.6.8",
+  "title": "Surveillance, Police Intelligence, Censorship Institutions, and the Regulation of Associations",
+  "kicker": "COLONIAL KOREA · SOCIETY, SURVEILLANCE AND WAR",
+  "description": "Institutional history of surveillance, police intelligence, censorship institutions, and the regulation of associations, differentiating legal design, unequal authority and local experience.",
+  "release": "T",
+  "sourceStatus": "Original editorial synthesis with contextual source locators; police archives require source criticism and official labels are not unmediated accounts.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History: Government-General and colonial power",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_047_0010",
+      "role": "Political hierarchy and colonial implementation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "After the March First Movement: Cultural Rule",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_40&levelId=kc_i403000",
+      "role": "1919 institutional reform and police reorganization"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government-General Administrative Structure",
+      "url": "https://theme.archives.go.kr/next/place/outline.do?flag=08",
+      "role": "1910, 1919, 1937, 1943 structural changes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Japanese Colonial Period",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047318",
+      "role": "Unequal settler treatment, wartime state and independence resistance"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Police and Surveillance",
+      "url": "https://db.history.go.kr/modern/level.do?levelId=hdsr_005_0020_0020_0020",
+      "role": "Policing, regulation and surveillance in the colony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.6.8:b01",
+      "title": "Security intelligence as a permanent administrative function",
+      "paragraphs": [
+        "Surveillance under the Government-General was not confined to moments of spectacular revolt. Colonial police collected information about meetings, associations, schools, newspapers and religious organizations, treating expressions of Korean political identity as potential threats. The capacity to classify people and organizations became one of the means by which officials anticipated and constrained resistance.",
+        "A police report is evidence of what officials wished to monitor, but it may misdescribe the motives of the people under observation. Rumours, informants and translations shaped the resulting record. The historian should not turn a file label into a definitive account of an individual's politics. Comparing several sources, especially surviving statements from the people targeted, helps distinguish official suspicion from demonstrable action."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사: 조선총독부 기관과 총독 권한",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.8:b02",
+      "title": "Press controls and the shape of public speech",
+      "paragraphs": [
+        "Licensing, censorship and administrative sanctions affected the circulation of Korean-language newspapers, journals and pamphlets. A government able to prohibit publication could reduce the visibility of dissent while creating pressure for writers to use indirect expression. The resulting public record is therefore shaped partly by what could be printed legally.",
+        "The absence of an explicit independence demand in an approved journal is not proof that its contributors were indifferent to sovereignty. Equally, not every literary metaphor concealed an intentional anti-colonial message. Interpretation requires knowledge of the legal setting and, where available, manuscripts, private correspondence or later testimony. The constraints on printed speech help explain why formal cultural activity and underground organization could coexist."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 2,
+          "locator": "국가기록원 일제 강점기 조선총독부 행정 체계: 1919·1937·1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.8:b03",
+      "title": "Associations, schools and religious networks",
+      "paragraphs": [
+        "Organizations devoted to education, social welfare or religious life could provide settings where people formed relationships independent of official administration. Colonial authorities sometimes viewed such networks as places where political messages might circulate. Registration and policing rules therefore affected groups whose stated purposes were not overtly nationalist.",
+        "Surveillance could change everyday behaviour. Organizers might limit membership lists, alter meeting places or avoid documenting discussions. Others complied with rules to preserve educational or charitable work. Those choices cannot be evaluated as simply courageous or submissive without considering the risks to members and beneficiaries. The state sought control through uncertainty as well as through direct punishment."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.8:b04",
+      "title": "The intelligence value of local bureaucracies",
+      "paragraphs": [
+        "Police relied on files generated by schools, town offices, neighbourhood associations and employers. Addresses, occupations and family relationships allowed authorities to locate people or map connections. This made ordinary administrative information potentially available for political purposes.",
+        "Modern privacy terminology can help articulate the implications, but the institutions must be understood in their own historical context. Recordkeeping was not uniformly complete and could be undermined by inaccurate entries or local resistance. The practical power of a surveillance system depended on its coverage, personnel and willingness to act. A huge archive can appear omniscient while containing many gaps."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.8:b05",
+      "title": "A wider net after 1919",
+      "paragraphs": [
+        "The formal end of the gendarmerie-police system after the March First Movement did not mean an end to political surveillance. The civilian police apparatus expanded, and authorities sought to manage participation and opposition through a mixture of selective concessions and close monitoring. More ordinary-looking policing could coexist with a larger intelligence reach.",
+        "Describing the later period as cultural rule should be attributed to colonial policy rhetoric and subsequent historical periodization rather than accepted as a guarantee of liberal government. Koreans gained certain opportunities for publication and association, but the legal boundaries of imperial control remained. The question is how repression changed form, who experienced increased discretion and which political activities stayed forbidden."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.8:b06",
+      "title": "Evidence, informers and ethical attribution",
+      "paragraphs": [
+        "Historians using security files face a problem of asymmetric documentation. The state preserved the products of surveillance more systematically than people preserved their own unrecorded conversations. The existence of a report can make an individual visible primarily through an officer's allegations.",
+        "It is therefore essential to identify each source's author, intended audience and conditions of production. Names of informants, alleged conspirators and participants should not be repeated as established facts without independent corroboration. This practice is not simply caution about personal reputation. It improves historical explanation by preventing the police state's categories from becoming the historian's unquestioned categories."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.8:b07",
+      "title": "Surveillance and the absence of a neutral archive",
+      "paragraphs": [
+        "Police files are among the richest sources for colonial political life precisely because the Government-General sought to identify and contain potential opposition. That richness creates a danger: the historian may reproduce the categories of the surveillance state, treating suspected persons as proven offenders. Allegations, hearsay and coerced statements should be presented with clear attribution rather than silently transformed into fact.",
+        "The scope of monitoring reached beyond political parties. Schools, religious communities and social organizations could create networks of trust, and authorities watched them for possible independence activity. A registered association might genuinely focus on education while some members also pursued political aims. The existence of police interest alone does not demonstrate conspiracy. Interpretations need independent evidence, attention to changing laws and knowledge of the local setting.",
+        "Censorship also shapes what survives for historians. A newspaper operating legally under colonial regulation may omit positions that writers expressed privately. The resulting printed record cannot be read as an unconstrained survey of opinion. Yet literary symbolism should not automatically be treated as coded resistance. Comparisons with manuscripts, correspondence or later testimony may help distinguish deliberate silence from later overinterpretation.",
+        "After 1919 policing became formally civilian and in some respects expanded its administrative reach. Official claims of moderation therefore need testing against staffing, arrest practice and censorship policy. More extensive monitoring could coexist with additional legal opportunities for newspapers and associations. The change is historically meaningful, but it did not end the regime's effort to control Korean political activity."
+      ],
+      "sequence": 7,
+      "label": "Batch T · deeper archival critique"
+    }
+  ]
+}

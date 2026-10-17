@@ -1,0 +1,130 @@
+{
+  "id": "VIII.6.7",
+  "title": "Korean Officials, Intermediaries, Collaboration, and Administrative Brokerage",
+  "kicker": "COLONIAL KOREA · SOCIETY, SURVEILLANCE AND WAR",
+  "description": "Institutional history of korean officials, intermediaries, collaboration, and administrative brokerage, differentiating legal design, unequal authority and local experience.",
+  "release": "T",
+  "sourceStatus": "Original editorial synthesis with contextual source locators; police archives require source criticism and official labels are not unmediated accounts.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History: Government-General and colonial power",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_047_0010",
+      "role": "Political hierarchy and colonial implementation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "After the March First Movement: Cultural Rule",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_40&levelId=kc_i403000",
+      "role": "1919 institutional reform and police reorganization"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government-General Administrative Structure",
+      "url": "https://theme.archives.go.kr/next/place/outline.do?flag=08",
+      "role": "1910, 1919, 1937, 1943 structural changes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Japanese Colonial Period",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047318",
+      "role": "Unequal settler treatment, wartime state and independence resistance"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Police and Surveillance",
+      "url": "https://db.history.go.kr/modern/level.do?levelId=hdsr_005_0020_0020_0020",
+      "role": "Policing, regulation and surveillance in the colony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.6.7:b01",
+      "title": "Korean employees made the colonial state operate",
+      "paragraphs": [
+        "The Government-General could not administer an entire peninsula through Japanese officials alone. Korean clerks, interpreters, police assistants, teachers, village leaders and administrators supplied knowledge of language, landholding, kinship and local conflict. Their work enabled the transfer of information from households to higher offices and helped carry official orders back to communities.",
+        "The presence of Korean personnel demonstrates the depth of the regime's institutional reach, not that Koreans consented collectively to annexation. Employment could provide income or limited local influence under conditions in which alternatives were constrained. Some individuals pursued advancement actively, others regarded service as unavoidable and still others used official roles to shield particular people. Biographical evaluation requires evidence beyond the fact of holding a position."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사: 조선총독부 기관과 총독 권한",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.7:b02",
+      "title": "The intermediate official's bargaining position",
+      "paragraphs": [
+        "An intermediary could translate the terms of an order, choose how urgently to enforce it and influence what information superiors received. Such discretion might soften a demand, facilitate exploitation or create opportunities for negotiation. It also exposed the intermediary to suspicion from both residents and higher officials.",
+        "The colonial state sometimes relied on existing local elites because they had networks that the administration could not reproduce instantly. Incorporating them into the hierarchy gave access to records and influence but risked dependence on private interests. This was an administrative bargain under conditions of unequal sovereignty. Calling it collaboration without specifying the conduct can obscure important differences in responsibility and agency."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 2,
+          "locator": "국가기록원 일제 강점기 조선총독부 행정 체계: 1919·1937·1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.7:b03",
+      "title": "Elite cooperation and public legitimacy",
+      "paragraphs": [
+        "Some Korean elites served on advisory councils, accepted honours or supported policies presented as gradual reform. Others criticized specific measures while avoiding a direct public challenge to the government. Their positions could change as opportunities narrowed or as popular demands for independence grew.",
+        "An appointed council member might influence a local budget while having no authority to alter imperial sovereignty. The administration could use such participation to display consultation and cultivate allies. Korean participants might view the same body as a limited opening for protecting community interests. The gap between these intentions matters when reading meeting minutes or official statements that claim consensus."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.7:b04",
+      "title": "Brokers of police information",
+      "paragraphs": [
+        "Village heads and Korean police employees could become channels for identifying political organizers or monitoring suspected dissent. The unequal distribution of power made their choices consequential. A report supplied voluntarily to superiors differs morally and evidentially from a statement extracted under threat, even if both appear in an official file as information provided by a Korean informant.",
+        "The historical record is particularly difficult here. Security reports were produced by institutions that had incentives to exaggerate threats or portray cooperation as extensive. Accusations about informers could also circulate as political weapons among communities. Responsible scholarship needs corroboration before naming a person as a willing spy. Recognizing the coercive structure should not become a licence for unverified personal accusations."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.7:b05",
+      "title": "Social gradients of participation",
+      "paragraphs": [
+        "Collaboration and resistance were not cleanly distributed by wealth, education or occupation. A member of an influential family might fund nationalist work while another sought imperial office. Workers and farmers could cooperate with local officials on practical projects without accepting colonial ideology. The same person could make different decisions at different points in a long occupation.",
+        "Historical categories are useful when they identify acts: signing a political declaration, coordinating surveillance, managing an exploitative project, sheltering an activist or opposing a police demand. They are less useful as timeless labels attached to entire social groups. The historian should connect individual agency to structural constraints without eliminating the possibility of meaningful choices."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.7:b06",
+      "title": "The politics of remembering intermediaries",
+      "paragraphs": [
+        "After liberation, disputes about collaboration became central to questions of justice, legitimacy and national memory. Evidence about wartime and colonial service was sometimes incomplete, and postwar political conflicts influenced which careers were publicized or ignored. These later debates should not dictate the interpretation of every earlier document.",
+        "A careful history distinguishes contemporaneous actions, the institutional authority exercised and subsequent judgments. It can identify participation in repression when reliably documented while acknowledging that many lower-level jobs involved ambiguous forms of survival. The analytical goal is neither indiscriminate absolution nor inherited collective guilt. It is to explain how an unequal state recruited people from the society it ruled and what consequences their participation had."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.7:b07",
+      "title": "Administrative careers and the evidence for individual responsibility",
+      "paragraphs": [
+        "A payroll or appointment register may establish that a Korean worked in a colonial institution. It does not by itself show whether the individual willingly carried out repression, tried to protect residents or merely performed clerical tasks. Historical evaluation needs duties, actions, opportunities to refuse and contemporaneous evidence. Administrative rank matters because those who designed policies normally possessed more discretion than those required to copy or translate orders.",
+        "The choices of local brokers could still have serious consequences. A village intermediary who supplied police with names could expose neighbours to investigation, while another might delay reporting or warn families of danger. But a security officer's claim that a person cooperated cannot be accepted uncritically. Files may exaggerate informant networks or attribute information to people under duress. Comparing such claims with independent records is necessary before assigning personal guilt.",
+        "Elite involvement in advisory institutions similarly requires careful differentiation. Participation could help secure a school or local service while lending legitimacy to an unrepresentative state. Some individuals became active supporters of assimilation, while others used limited access to pursue narrower Korean interests. Positions evolved over decades and cannot be compressed into a timeless moral category. The relationship between structural coercion and individual agency is a historical question to investigate, not a prewritten verdict.",
+        "The post-liberation memory of collaboration added further complications. Political conflicts after 1945 influenced which careers were condemned, defended or overlooked. These later judgments matter for the history of memory but are not substitutes for contemporaneous documentation. A disciplined narrative recognizes meaningful responsibility for documented acts while resisting inherited accusations against everyone connected with an occupation or family."
+      ],
+      "sequence": 7,
+      "label": "Batch T · deeper archival critique"
+    }
+  ]
+}

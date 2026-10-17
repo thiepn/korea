@@ -1,0 +1,130 @@
+{
+  "id": "VIII.6.1",
+  "title": "Annexation and the Establishment of the Government-General of Korea",
+  "kicker": "COLONIAL KOREA · GOVERNMENT AND LAW",
+  "description": "Institutional history of annexation and the establishment of the government-general of korea, distinguishing ordinance text from practice and coercion.",
+  "release": "T",
+  "sourceStatus": "Original historical synthesis anchored to National Archives Korea and NIKH documentation; not an exhaustive archive survey.",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government-General Colonial Administration Overview",
+      "url": "https://theme.archives.go.kr/next/place/outline.do?flag=08",
+      "role": "1910 establishment and 1919, 1937 and 1943 administration changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History: Colonial Government-General",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_047_0010",
+      "role": "Governors, powers and administrative structure"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Military Police and Civilian Police",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_047_0020_0010",
+      "role": "Administrative and policing origins and 1919 reforms"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Japanese Colonial Period (일제강점기)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047318",
+      "role": "Context and assessment of unequal imperial institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Police Policy",
+      "url": "https://db.history.go.kr/modern/level.do?levelId=hdsr_005_0020_0020_0020",
+      "role": "Historical police policy and administrative coercion"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.6.1:b01",
+      "title": "Annexation was a coercive transfer of authority",
+      "paragraphs": [
+        "Japan's annexation of Korea in August 1910 followed years of escalating coercion, including protectorate control, the dismantling of Korean military and diplomatic autonomy and suppression of armed resistance. The declaration was presented in imperial legal language as a treaty, but it cannot be treated as free political consent by Korea's population. The monarchy and state institutions operated under severe Japanese pressure.",
+        "The date commonly observed for the start of formal colonial rule is 29 August 1910, when the annexation instrument was promulgated. The specific signing and promulgation dates should be distinguished, and the legal form must not obscure the conquest of sovereign authority. Contemporary Korean opposition and subsequent independence movements demonstrate that the annexation did not establish a universally accepted political settlement. The regime had to construct means to govern people who did not simply identify themselves as willing imperial subjects."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Archives of Korea identifies the 1910 establishment and ordinance framework and the Government-General's evolving colonial structure.",
+          "sourceIndex": 0,
+          "locator": "일제 강점기의 조선총독부 행정 체계, 1910/1919/1937/1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.1:b02",
+      "title": "From Residency-General to Government-General",
+      "paragraphs": [
+        "The institutions established during Japan's protectorate provided personnel, information and habits of administrative intervention that shaped the successor regime. The Government-General of Korea consolidated and expanded these mechanisms under the governor-general. Japan's imperial government could present the change as rationalization, but for Korean residents it marked the replacement of their state's highest political authority by a colonial command.",
+        "The National Archives of Korea documents the establishment decree of 29 August and the organizational ordinance promulgated on 30 September 1910, taking effect on 1 October. Such dates matter because annexation and the detailed machinery of government were related but distinct steps. Departments, inspectorates and courts required formal mandates, appointment chains and budgets. A colonial state came into being through documents and offices, not only a proclamation or a flag."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Archives of Korea identifies the 1910 establishment and ordinance framework and the Government-General's evolving colonial structure.",
+          "sourceIndex": 0,
+          "locator": "일제 강점기의 조선총독부 행정 체계, 1910/1919/1937/1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.1:b03",
+      "title": "The first administrative hierarchy",
+      "paragraphs": [
+        "The Government-General's early central organization included the governor-general's secretariat, a chief of civil administration and departments dealing with home affairs, finance, justice, commerce and agriculture. The structure drew selectively upon predecessor Korean offices while altering the location of decision-making authority. The fact that certain administrative functions continued under renamed offices did not imply continuity of sovereign control.",
+        "The creation of a colonial department had immediate practical stakes. Officials now reported within a hierarchy oriented to the Japanese emperor and empire. Decisions about schooling, policing, land recording or taxation could be made by offices whose formal legitimacy depended on annexation. Korean employees might remain indispensable for records and local relations while lacking equal authority over the political purposes those offices served. Administration was an instrument for enforcing a new power relationship."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.1:b04",
+      "title": "A governor-general with exceptional powers",
+      "paragraphs": [
+        "The governor-general exercised broad administrative authority and could issue ordinances with the force of law for the colony. Early appointment rules emphasized senior Japanese military officers, placing the office in an explicitly martial imperial framework. The power to supervise subordinate institutions, coordinate policing and influence the judicial apparatus made the executive unusually concentrated.",
+        "The office's formal powers should be distinguished from the actual operation of every bureau. Major measures depended upon finance, trained officials, regional enforcement and political priorities in Tokyo. But these practical constraints did not make the colonial system constitutional self-government. Its central officials were answerable upward through imperial authority, not through an elected Korean legislature capable of dismissing them. This accountability structure is essential to understanding what later reforms could and could not change."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.1:b05",
+      "title": "A territorial government, not a national parliament",
+      "paragraphs": [
+        "The colonial administration divided responsibilities among ministries, provinces and local offices while refusing Koreans the sovereign right to determine the regime itself. The existence of councils or consultative bodies did not confer national legislative power. These institutions could collect information, cultivate selected elites and sometimes shape administrative choices without creating political equality.",
+        "The difference between consultation and representative consent is fundamental. An advisory body might debate implementation of a school rule or local spending but could not decide whether annexation should continue. Japanese settlers and Korean subjects also had unequal access to influential positions. The apparatus possessed the everyday functions of a state—budgets, roads, courts, permits—while lacking legitimacy from the population whose territory it ruled. Its capacity and its coercive origins must be analyzed together."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.1:b06",
+      "title": "Why the first decade became known as military rule",
+      "paragraphs": [
+        "The designation military rule for 1910–1919 refers partly to the governor-general's military background and especially to the fusion of gendarmerie and police functions. Surveillance and repression extended into associations, public gatherings and rural administration. The term does not imply that every civil task was performed by soldiers, or that all forms of local government began with annexation.",
+        "Some infrastructure and administrative services expanded during the period, but their presence does not erase the coercion used to secure imperial control or tell us who benefited from particular projects. Roads might serve farmers and military patrols at the same time, with costs falling unevenly. Evaluation should trace the institution, funding and distribution of a policy rather than use improvement or oppression as a single-word substitute for historical explanation. The subsequent articles examine how the machinery operated in law, locality and everyday life."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.1:b07",
+      "title": "Legal form and coercive origin",
+      "paragraphs": [
+        "The formal annexation of 1910 was implemented through imperial decrees and offices, but legal documentation must be interpreted together with the coercive conditions under which Korean authority was displaced. The distinction between treaty form and consent is not pedantic: it identifies why a regime could produce detailed regulations yet lack legitimate authorization from the population governed. A law issued under the new order shows what officials intended to require, not that Koreans freely chose the transfer of sovereign power.",
+        "The new administrative institutions developed from the protectorate system and maintained some functions of the late Korean Empire. This continuity of personnel or paperwork can mislead if interpreted as continuity of political independence. Taxation, schooling and police orders now derived ultimate authority from the Japanese imperial state. For people working within a familiar local office, the content and purpose of orders could change even if they still used the same building or relied on the same Korean clerk.",
+        "The Government-General's central organization was set out through ordinances promulgated around the annexation, including the 30 September 1910 organizational ordinance entering into force in October. Keeping these dates precise makes the institution's construction visible. Sovereign change and bureaucratic reorganization were interlocking processes, not a singular ceremony. The early government's powers expanded through courts, police networks, provincial offices and control over education and public information.",
+        "A history of annexation must also avoid presenting the subsequent colony as administratively fixed. Later reorganizations, especially in 1919, 1937 and 1943, changed its internal structure to meet evolving political and military priorities. The initial framework is therefore the foundation of a continuing history of imperial rule and local resistance, not a complete description of every colonial decade. The state's capacity increased while the basic denial of Korean self-determination persisted."
+      ],
+      "sequence": 7,
+      "label": "Batch T · deeper archival critique"
+    }
+  ]
+}

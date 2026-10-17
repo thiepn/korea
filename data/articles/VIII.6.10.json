@@ -1,0 +1,141 @@
+{
+  "id": "VIII.6.10",
+  "title": "Authoritarian Re-Centralization and Wartime Colonial Governance in the 1930s and 1940s",
+  "kicker": "COLONIAL KOREA · SOCIETY, SURVEILLANCE AND WAR",
+  "description": "Institutional history of authoritarian re-centralization and wartime colonial governance in the 1930s and 1940s, differentiating legal design, unequal authority and local experience.",
+  "release": "T",
+  "sourceStatus": "Original editorial synthesis with contextual source locators; police archives require source criticism and official labels are not unmediated accounts.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History: Government-General and colonial power",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_047_0010",
+      "role": "Political hierarchy and colonial implementation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "After the March First Movement: Cultural Rule",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_40&levelId=kc_i403000",
+      "role": "1919 institutional reform and police reorganization"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government-General Administrative Structure",
+      "url": "https://theme.archives.go.kr/next/place/outline.do?flag=08",
+      "role": "1910, 1919, 1937, 1943 structural changes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Japanese Colonial Period",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047318",
+      "role": "Unequal settler treatment, wartime state and independence resistance"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Police and Surveillance",
+      "url": "https://db.history.go.kr/modern/level.do?levelId=hdsr_005_0020_0020_0020",
+      "role": "Policing, regulation and surveillance in the colony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.6.10:b01",
+      "title": "From limited accommodation to wartime priorities",
+      "paragraphs": [
+        "During the 1930s the Government-General operated amid Japan's expanding military campaigns in Northeast Asia and, from 1937, full-scale war with China. Military priorities increasingly shaped budgeting, economic regulation and the administration of people and resources. Institutions developed during earlier decades provided the framework for a more demanding wartime state.",
+        "The transition was not a single decree that transformed every part of society overnight. Different forms of control intensified at different moments as the imperial war expanded. The National Archives of Korea identifies major Government-General reorganizations in 1937 and 1943, which provide institutional anchors for this process. Historical explanation must connect those dated changes to actual recruitment, requisition and policing practices rather than assume every local office changed in identical fashion."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사: 조선총독부 기관과 총독 권한",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.10:b02",
+      "title": "Mobilizing labour, resources and everyday compliance",
+      "paragraphs": [
+        "The wartime state sought more intensive registration and allocation of labour, production, transport and material supplies. Some forms of mobilization involved legal requirements, while others operated through coercive administrative pressure or recruitment channels in which meaningful refusal was difficult. Conditions and policies changed during the war; distinct programmes should not be collapsed into one undated category.",
+        "To understand the lived effects, a historian needs evidence about who issued a demand, which residents were targeted and what happened when they resisted. A general statement that people were mobilized is insufficient to explain forced labour, military conscription or other specific abuses. These matters require careful chronology, documentary sourcing and attention to the experiences of those compelled to serve imperial aims. The administrative dimension is the system enabling such orders."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 2,
+          "locator": "국가기록원 일제 강점기 조선총독부 행정 체계: 1919·1937·1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.10:b03",
+      "title": "The language of assimilation and loyalty",
+      "paragraphs": [
+        "Imperial authorities intensified programmes that promoted Japanese language, loyalty to the emperor and forms of cultural conformity. Education, ritual, publication and community organization could become channels for these demands. The rhetoric of an integrated imperial community did not provide Koreans equal power over the empire's decisions or eliminate coercion.",
+        "Individual responses differed. Some cooperated to preserve work or family security, others resisted openly or privately, and many navigated conflicting demands. A school record showing use of Japanese does not prove a student's personal identification with the empire. Similarly, outward participation in a state ritual could reflect compulsion or calculation. Historians should distinguish prescribed behaviour from belief and preserve the asymmetry between the state issuing orders and people attempting to live under them."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.10:b04",
+      "title": "Names, households and administrative penetration",
+      "paragraphs": [
+        "Policies concerning personal names and registrations illustrate how the wartime regime reached into family life. The campaign associated with adopting Japanese-style family names is frequently discussed as a symbol of assimilation. Its administrative background, deadlines and varied responses should be examined precisely rather than narrated through a single universal story of consent or total refusal.",
+        "Registers gave the state information about households and could affect employment, schooling and legal interactions. People sometimes complied under institutional pressure or sought ways to limit the implications of new naming forms. Documents produced by authorities record compliance more readily than the private meaning of a decision. An evidence-conscious reading distinguishes an official form completed from a voluntary ideological conversion."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.10:b05",
+      "title": "Political dissent under wartime security",
+      "paragraphs": [
+        "War intensified official anxieties about the loyalty of Koreans and the potential for anti-imperial action. Police intelligence, censorship and organizational oversight operated in a setting of expanding penalties and restrictions. Some cultural spaces that had existed in the 1920s were curtailed or redirected toward state mobilization.",
+        "It is misleading to assume that every independent organization simply disappeared or that resistance remained unchanged in form. People used different means and faced changing risks. The evidence should be examined by locality and period, including the influence of overseas independence networks and the limits of the administration's access to private action. The colonial state's ambition to supervise society was substantial but never equivalent to perfect knowledge."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.10:b06",
+      "title": "1943, 1945 and the limits of permanent empire",
+      "paragraphs": [
+        "The 1943 administrative changes documented by the National Archives reflect the increasingly direct management of Korea for imperial wartime requirements. They came only two years before Japan's surrender and the end of formal colonial rule in August 1945. That juxtaposition shows how an institution designed for long-term command could be reorganized urgently and then rapidly lose its sovereign basis.",
+        "The end of the Government-General did not erase its administrative records, infrastructure or the people who had worked within it. Post-liberation authorities confronted choices about personnel, legal continuity and the use of existing files, while Korean communities sought new political futures. Those decisions belong to the following chronology. This Chapter's conclusion is that the colonial state became more intensely coercive during war, but its institutional capacity never made imperial domination legitimate or permanent."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.10:b07",
+      "title": "War and the transformation of administrative priorities",
+      "paragraphs": [
+        "The Government-General's wartime changes were tied to Japan's expansion of military commitments, particularly from the intensified war with China in 1937. New administrative priorities required more intrusive control of labour, production, movement and public expression. The institutional history is not fully explained by a general statement that Japan militarized: it involves dated reorganizations, reporting systems and the use of local officials to convert imperial demands into specific obligations.",
+        "Registration procedures that had once served routine governance could be adapted to identifying workers, allocating supplies or enforcing forms of mobilization. This illustrates the cumulative power of an administrative state. Records created for one purpose could enable different forms of coercion when policy shifted. But the extent of enforcement still varied, and historians need to connect particular orders to identifiable programmes and communities rather than assign every wartime abuse to one undifferentiated policy.",
+        "Cultural assimilation demanded more than changes in language instruction. Ceremonies, schooling, organizational participation and name policies could impose public demonstrations of loyalty. A register showing use of a Japanese-style name does not reveal whether the household accepted the ideology, complied under pressure or adopted a tactical response. Personal testimonies and administrative documents must be read together. Nor should the term voluntary be accepted whenever state pressure made refusal expensive.",
+        "The 1943 reorganization of colonial institutions reflected intensified wartime direction and preceded the empire's defeat by only two years. That chronology exposes both the regime's reach and its fragility. Officials could mobilize extensive resources but could not secure the permanence of their political foundation. Liberation in August 1945 ended formal Japanese imperial government in Korea while leaving challenging questions about records, careers and inherited institutions for the new authorities."
+      ],
+      "sequence": 7,
+      "label": "Batch T · deeper archival critique"
+    },
+    {
+      "id": "VIII.6.10:b08",
+      "title": "A late-colonial state of mobilisation, not universal consent",
+      "paragraphs": [
+        "As Japanese wartime demands intensified, the administration used the information gathered by schools, local offices and police networks to identify people and resources for imperial projects. This does not mean each new policy emerged through the same legal mechanism. Mobilization for work, military service and other requirements developed through different programmes and dates. Their effects varied by location, class and the ability of individuals to resist or evade orders.",
+        "The distinction between formal enrolment and voluntary participation is especially important. A record might state that a person applied or registered, but the surrounding administrative pressures could make refusal dangerous or costly. Historians should examine recruitment orders, enforcement, testimony and the institutional setting before inferring freely given consent. Similarly, imposed language practices or name policies cannot be interpreted as reliable expressions of private loyalty. Colonial authorities controlled many of the conditions under which those choices appeared to be made.",
+        "The late empire's reliance on Korean intermediaries also created complicated legacies after liberation. Some individuals had designed or enforced coercive programmes; others had performed lower-level work under varying pressures. The collapse of the Government-General in 1945 left files, infrastructure and careers requiring political and moral reckoning. An institutional history can document responsibility where supported without assigning identical intentions to every employee. This attention to differentiated agency makes the account of imperial domination more rigorous, not less critical."
+      ],
+      "sequence": 8,
+      "label": "Batch T additional institutional detail"
+    }
+  ]
+}

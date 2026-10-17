@@ -1,0 +1,130 @@
+{
+  "id": "VIII.6.2",
+  "title": "The Governor-General, Colonial Bureaucracy, and Concentrated Imperial Authority",
+  "kicker": "COLONIAL KOREA · GOVERNMENT AND LAW",
+  "description": "Institutional history of the governor-general, colonial bureaucracy, and concentrated imperial authority, distinguishing ordinance text from practice and coercion.",
+  "release": "T",
+  "sourceStatus": "Original historical synthesis anchored to National Archives Korea and NIKH documentation; not an exhaustive archive survey.",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government-General Colonial Administration Overview",
+      "url": "https://theme.archives.go.kr/next/place/outline.do?flag=08",
+      "role": "1910 establishment and 1919, 1937 and 1943 administration changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History: Colonial Government-General",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_047_0010",
+      "role": "Governors, powers and administrative structure"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Military Police and Civilian Police",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_047_0020_0010",
+      "role": "Administrative and policing origins and 1919 reforms"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Japanese Colonial Period (일제강점기)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047318",
+      "role": "Context and assessment of unequal imperial institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Police Policy",
+      "url": "https://db.history.go.kr/modern/level.do?levelId=hdsr_005_0020_0020_0020",
+      "role": "Historical police policy and administrative coercion"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.6.2:b01",
+      "title": "The governor-general as imperial executive",
+      "paragraphs": [
+        "The Government-General was organized around an executive with powers much broader than those of an ordinary provincial governor. The Japanese emperor appointed the governor-general, who commanded the colonial government and possessed extensive powers to issue rules for Korea. The office was embedded within Japan's imperial chain of command, not the result of selection or meaningful political accountability by the colonized population.",
+        "Legal texts matter because concentration was not simply a matter of personal influence. Ordinances authorized directives affecting taxation, policing, property and institutions in ways that could displace ordinary representative lawmaking. Yet the formal ability to issue orders must still be separated from the practical work of implementing them. The regime needed clerks, interpreters, police, land records and local intermediaries. Coercive authority was institutionalized through repeated administrative procedures."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Archives of Korea identifies the 1910 establishment and ordinance framework and the Government-General's evolving colonial structure.",
+          "sourceIndex": 0,
+          "locator": "일제 강점기의 조선총독부 행정 체계, 1910/1919/1937/1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.2:b02",
+      "title": "Military rank and political status",
+      "paragraphs": [
+        "The initial rules tied the office to senior officers of the Japanese armed forces. This arrangement reflected the imperial government's understanding of Korea as a security problem requiring extraordinary powers after annexation. It also linked policy choices to military networks and made intervention against dissent a central responsibility.",
+        "After the March First Movement the eligibility rules were amended so that a civilian could in principle be appointed. The National Institute of Korean History notes that every actual governor-general remained drawn from the military. A change in the wording of eligibility therefore did not produce civilian constitutional government. The comparison between law and appointment practice shows why the politics of reform cannot be evaluated solely from a decree's optimistic language."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Archives of Korea identifies the 1910 establishment and ordinance framework and the Government-General's evolving colonial structure.",
+          "sourceIndex": 0,
+          "locator": "일제 강점기의 조선총독부 행정 체계, 1910/1919/1937/1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.2:b03",
+      "title": "The chief administrative officer and departmental offices",
+      "paragraphs": [
+        "Daily management depended on the chief of civil administration and bureaux that supervised finance, internal affairs, law, agriculture, industry and education. These institutions made the colony governable at a scale beyond the personal reach of one governor-general. They maintained files, produced statistics, made appointments and transmitted instructions to local officials.",
+        "Administrative files are not transparent mirrors of Korean society. Categories used in reports might emphasize taxable property, police intelligence or compliance with colonial programs. Statistics could reflect the capacity to register people and assets more than an exhaustive record of activity. A researcher must ask how information was collected, who was excluded and whether results were used to justify existing priorities. Bureaucratic precision can coexist with systematic inequality in the questions asked."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.2:b04",
+      "title": "Colonial ordinances and the problem of legality",
+      "paragraphs": [
+        "A government can issue rules through an elaborate legal apparatus and still deny meaningful political consent. The governor-general's ordinance power operated inside imperial legal arrangements that concentrated discretion and limited Korean representation. Courts and administrators applied measures according to procedures, but the power to set those procedures was not distributed equally.",
+        "The distinction between rule by law and accountable rule of law helps clarify the problem, though it should not substitute a modern legal theory for careful reading of specific ordinances. Colonial officials often praised order and administrative efficiency while treating challenges to annexation as threats to security. Legal forms structured both routine transactions and repression. The coercive purposes of the regime cannot be dismissed because documents were registered and officially promulgated."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.2:b05",
+      "title": "Relations with Tokyo and the Japanese empire",
+      "paragraphs": [
+        "The Government-General possessed unusual delegated authority but was not outside the Japanese imperial state. Budgetary constraints, ministerial coordination, military strategy and metropolitan political developments shaped colonial policy. Officials could lobby Tokyo and adapt directives to local conditions; the resulting system combined centralized colonial command with negotiation inside the empire.",
+        "Korean residents, however, did not thereby gain a voice equal to Japanese voters or policymakers. An administrative disagreement between Tokyo and Seoul was not an opening for self-determination. The regime's strategic objectives included maintaining order and integrating the peninsula into imperial projects. Changes of personnel or budget could alter methods while leaving the basic distribution of sovereign authority unchanged."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.2:b06",
+      "title": "Why administration cannot be judged by its chart",
+      "paragraphs": [
+        "Organizational diagrams show who was supposed to report to whom; they rarely show how a farmer experienced a police officer, how a petition was translated or how a Korean clerk interpreted conflicting orders. Provincial governors, village heads and settlers could exercise influence not captured by the formal chain. The unequal availability of education and advancement also shaped who entered important offices.",
+        "Concentrated executive power depended upon these local and social relationships. Officials were able to implement policies because they could gather information and enforce sanctions, but implementation was neither perfectly uniform nor uncontested. A comprehensive history needs both levels: the extraordinary legal position of the governor-general and the numerous encounters through which imperial authority became part of daily life. This provides the basis for examining police, courts and local government separately."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.2:b07",
+      "title": "The problem of accountability inside an imperial hierarchy",
+      "paragraphs": [
+        "The governor-general's authority was formally large, but historians must ask to whom it was accountable. Its occupant answered within Japanese imperial institutions rather than to an elected Korean representative body with power to dismiss him. Central bureaucratic organization could be elaborate without creating political legitimacy. The colonial office's exceptional authority over ordinances, policing and administration was not neutral simply because its documents followed prescribed procedures.",
+        "The post-1919 amendment permitting civilian appointment to the top office illustrates the gap between declared reform and actual practice. Although eligibility changed, the historical sequence of appointments remained military. The change was useful to public claims about moderation while leaving the decisive political chain in place. A precise institutional account should distinguish the formal rule, actual staffing and public rhetoric rather than collapse all three into the phrase cultural rule.",
+        "Administrative departments offered many ways for central power to reach individuals. Education regulations affected school access; tax rules shaped livelihoods; transportation policy changed settlement opportunities; police authority constrained association. These powers were exercised through files, committees and local offices whose staff faced their own practical limits. Recognizing bureaucratic complexity does not make coercive authority less real. It explains how the colonial government sustained influence in places a governor-general never visited.",
+        "Tokyo and Seoul sometimes disagreed about budgets or priorities. Those disagreements show the colonial administration's position inside a wider empire, but they were not democratic checks controlled by Koreans. Officials argued over means and resources while retaining the sovereign framework of annexation. An account concerned with power must therefore separate intra-imperial negotiation from the political capacity of the colonized population to choose its government."
+      ],
+      "sequence": 7,
+      "label": "Batch T · deeper archival critique"
+    }
+  ]
+}

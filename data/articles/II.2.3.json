@@ -1,0 +1,123 @@
+{
+  "id": "II.2.3",
+  "title": "Government and Political Structure under Wiman Joseon",
+  "kicker": "GOJOSEON · SECOND CENTURY BCE",
+  "description": "Evidence-conscious reconstruction of government and political structure under wiman joseon, distinguishing the Shiji narrative from disputed historical geography.",
+  "release": "T",
+  "sourceStatus": "Original historical synthesis with selective Korean institutional references; transmitted Chinese court histories are perspective-bound primary texts.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Growth and Decline of Gojoseon, annotated Shiji 115",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0050",
+      "role": "Primary Shiji Choson liezhuan in Korean translation and source criticism"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Wiman Joseon and Ancient States",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_003_0030_0010_0010_0030",
+      "role": "Secondary account of Wiman's ascent, settlement and disputed political composition"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Commanderies after Wiman Joseon",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_001_0080",
+      "role": "Han expansion, Canghai failure and 108 BCE aftermath"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Exchange and Han Influence",
+      "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_008_0030_0010_0020",
+      "role": "Long-distance exchange, material distribution and limits of interpreting finds"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.2.3:b01",
+      "title": "The political centre and its dependencies",
+      "paragraphs": [
+        "Wiman Joseon was not merely a personal military following by the time its relations with Han became substantial. The sources show a royal court capable of diplomacy, military action and claims over neighboring communities. They do not furnish a complete administrative code or an organizational chart for all territories. Reconstructing government requires separating court titles securely transmitted in the Shiji from later assumptions about offices familiar from other states.",
+        "The capital, conventionally identified with Wanggeom and often discussed in connection with the Pyongyang region, functioned as more than a symbolic royal residence. Access to waterways, settlement networks and external routes made its position strategically important. Yet archaeological identifications of a particular building as Wiman's palace are far less certain than the general importance of the regional centre. A history should resist drawing invented streets and tax bureaus solely to make the state appear mature."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The transmitted Shiji Gojoseon chapter records royal succession, diplomacy and the political relations of frontier communities.",
+          "sourceIndex": 0,
+          "locator": "『史記』卷115 朝鮮列傳; 사료로 본 한국사 고조선 발전과 멸망",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.3:b02",
+      "title": "Ministers and the anatomy of court disagreement",
+      "paragraphs": [
+        "The Shiji account of the final war preserves officials described with titles such as chancellor and general. Figures including Ro In, Han Eum, Wang Gyeop and Sam acted differently during the crisis. These titles show that political authority was differentiated among leading men, and that the king could not automatically impose unanimous decisions. Whether the offices had fixed functional divisions for decades beforehand remains uncertain.",
+        "An official might hold authority through kinship, military following, regional constituency or appointment from the ruler. Distinguishing those possibilities is difficult where documents record only a few names during an emergency. Nevertheless the war reveals a consequential fact: senior officers possessed the ability to negotiate or defect in ways that altered the fate of the capital. Political institutions therefore included relationships capable of checking or undermining the king, not simply commands moving effortlessly through a hierarchy."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The transmitted Shiji Gojoseon chapter records royal succession, diplomacy and the political relations of frontier communities.",
+          "sourceIndex": 1,
+          "locator": "우리역사넷 초기국가 위만조선 사회 및 정치 구조",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.2.3:b03",
+      "title": "Autonomy within a wider kingdom",
+      "paragraphs": [
+        "Accounts of groups such as Ye and neighboring polities suggest that Wiman Joseon's influence could extend through subordinate or allied communities without full uniform administration. The defection associated with Namnyeo in 128 BCE is significant in part because it shows a political relationship that could be repudiated. The reported population figures should not be treated as secure census statistics.",
+        "Regional leaders may have retained customary control over local fields, labour and dispute resolution while interacting with the king over tribute or foreign contact. A hierarchy of mediation could make the kingdom influential across distance even without fixed boundaries at each river crossing. Control of a route, ability to intercept an embassy and expectations of loyalty are distinct indicators of power. Historical reconstructions should specify which one they mean when describing incorporation."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.3:b04",
+      "title": "Economic resources beneath royal authority",
+      "paragraphs": [
+        "A court needs more than military prestige to persist. Agriculture, craft production and control of exchange generated resources from which warriors, diplomats and elite households could be supported. The spread of iron tools and weapons in the broader northeast changed the material setting of the period, but no excavated object bears a label identifying the exact fiscal office that supplied it.",
+        "Material cultures are often shared across political borders. Imported mirrors or coins may indicate exchange, gift-giving, movement of individuals or later deposition; they do not alone demonstrate direct royal taxation. The proper method joins findspots, dating, manufacturing evidence and text while acknowledging gaps. Wiman Joseon could participate in vigorous trade without every item being distributed under centrally planned state policy."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.3:b05",
+      "title": "Law, order and the hazards of retrospective rules",
+      "paragraphs": [
+        "Texts about Gojoseon sometimes recall customary laws, including prohibitions on killing, injury and theft, and suggest that legal provisions multiplied under foreign contact. Such lists are not a surviving code issued by Wiman. Their later literary setting and moralizing interests complicate their interpretation. They offer clues to ideas about authority and punishment rather than a direct transcript of court proceedings.",
+        "Government likely depended on both royal commands and local norms whose content varied. Some disputes may have been handled by community elders or regional leaders; others might reach agents representing the court. Without court registers we cannot state how an ordinary person appealed a fine or how rules differed by social position. The absence of documentation should be kept visible instead of populated with plausible but invented institutions."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.3:b06",
+      "title": "Why this structure mattered in 108 BCE",
+      "paragraphs": [
+        "The internal organization of Wiman Joseon is most sharply exposed when external pressure intensified. Diplomatic disputes, frontier defections and the final siege produced divergent choices among officials who held authority apart from the king. The conquest can therefore be interpreted partly as a crisis in the coalition supporting the ruler, though external Han force was indispensable to the outcome.",
+        "Describing the kingdom as centralized or decentralized without specifying a dimension obscures more than it clarifies. It could maintain a strong capital and important external monopolies while relying on regional intermediaries. The king's court had real coercive and negotiating capacity yet remained vulnerable to decisions of individuals and communities beyond immediate command. These characteristics make it an early political formation requiring nuanced analysis, not a primitive prelude to more famous later kingdoms."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "II.2.3:b07",
+      "title": "The kingdom visible through its final officials",
+      "paragraphs": [
+        "The best-documented ministers of Wiman Joseon are those who appear at the very end of the dynasty, when the siege exposed disagreement over resistance and surrender. This creates a methodological danger: an institutional system reconstructed from its crisis may appear more divided or desperate than it was in ordinary years. Offices listed in the Shiji show a stratified political court, but their exact everyday jurisdictions before 109 BCE are uncertain. A chancellor's title is meaningful without supplying a complete job description.",
+        "What can be established is the existence of leaders with influence substantial enough to negotiate the fate of the state. The monarch could reject surrender and still face defections by senior men. That situation implies political relationships capable of operating beyond one will, and it may reflect alliances with particular communities. Yet attributing one official to a named region or social background requires evidence that the source does not provide. Political complexity must be explained without false prosopographical certainty.",
+        "Archaeology contributes by documenting centres of production, burials and exchange, but its categories rarely align neatly with officials named in the narrative. A group of rich graves can reveal hierarchy without identifying a chancellor. A fortified settlement can demonstrate coordinated labour without proving the issuing authority of an individual decree. Text and material evidence illuminate related aspects of state formation, each with different strengths. Combining them responsibly produces a more substantial picture than making one stand in for the other."
+      ],
+      "sequence": 7,
+      "label": "Batch T deeper primary-source interpretation"
+    }
+  ]
+}

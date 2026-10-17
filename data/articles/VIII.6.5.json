@@ -1,0 +1,130 @@
+{
+  "id": "VIII.6.5",
+  "title": "Provinces, Municipalities, Villages, and Local Colonial Administration",
+  "kicker": "COLONIAL KOREA · GOVERNMENT AND LAW",
+  "description": "Institutional history of provinces, municipalities, villages, and local colonial administration, distinguishing ordinance text from practice and coercion.",
+  "release": "T",
+  "sourceStatus": "Original historical synthesis anchored to National Archives Korea and NIKH documentation; not an exhaustive archive survey.",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government-General Colonial Administration Overview",
+      "url": "https://theme.archives.go.kr/next/place/outline.do?flag=08",
+      "role": "1910 establishment and 1919, 1937 and 1943 administration changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History: Colonial Government-General",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_047_0010",
+      "role": "Governors, powers and administrative structure"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Military Police and Civilian Police",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_047_0020_0010",
+      "role": "Administrative and policing origins and 1919 reforms"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Japanese Colonial Period (일제강점기)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047318",
+      "role": "Context and assessment of unequal imperial institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Police Policy",
+      "url": "https://db.history.go.kr/modern/level.do?levelId=hdsr_005_0020_0020_0020",
+      "role": "Historical police policy and administrative coercion"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.6.5:b01",
+      "title": "The province as an administrative hinge",
+      "paragraphs": [
+        "The Government-General relied upon provincial and local institutions to reach towns, fields and households. Orders issued in Seoul had to be communicated to officials responsible for tax records, roads, schools, sanitation and policing. This created a territorial hierarchy with considerable administrative reach, but it did not mean every village experienced identical enforcement.",
+        "Some local arrangements retained functions or personnel from earlier Korean governments while placing them inside new imperial authority. Continuity of an office name or a Korean employee could conceal a profound change in accountability. Provincial administrators now answered through the colonial chain, and important decisions reflected the priorities of annexation rather than a Korean representative state."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Archives of Korea identifies the 1910 establishment and ordinance framework and the Government-General's evolving colonial structure.",
+          "sourceIndex": 0,
+          "locator": "일제 강점기의 조선총독부 행정 체계, 1910/1919/1937/1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.5:b02",
+      "title": "The politics of a local appointment",
+      "paragraphs": [
+        "Appointments to provincial and district posts mattered because they determined who could interpret instructions and manage the government's relationship with residents. Japanese personnel occupied privileged positions in influential offices, while Korean clerks and local leaders supplied indispensable knowledge. A Korean official could gain a livelihood and sometimes advocate for particular residents while helping execute an unequal political order.",
+        "It is too simple to reduce every such official to either hero or traitor without examining duties and choices. Some had little room to refuse a superior's order; others used administrative positions for personal advancement or assisted repression. The structural fact remains that the system recruited Korean participation to make imperial government operate. The moral and political assessment of particular careers requires evidence about specific actions."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Archives of Korea identifies the 1910 establishment and ordinance framework and the Government-General's evolving colonial structure.",
+          "sourceIndex": 0,
+          "locator": "일제 강점기의 조선총독부 행정 체계, 1910/1919/1937/1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.5:b03",
+      "title": "Cities, municipalities and local services",
+      "paragraphs": [
+        "Urban administration confronted population growth, market regulation, transport, housing, water supply and public health. These projects could alter everyday life, but they were also distributed through institutions that privileged imperial needs and settler districts. A sewer or tramway might serve multiple users while its location and financing favoured particular commercial corridors or military requirements.",
+        "The historian should therefore avoid two shortcuts: treating every physical improvement as proof of benevolent rule and treating every infrastructure project as devoid of practical benefit to residents. The useful questions concern who paid, who obtained service, whose property or labour was used and who could object. Colonial urban policy was a process of allocating scarce resources under unequal political representation."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.5:b04",
+      "title": "Villages, intermediaries and information",
+      "paragraphs": [
+        "Village heads and lower officials helped maintain registers and relay orders. They could be essential for collecting taxes, supervising labour or locating people sought by police. Their familiarity with local relationships gave them bargaining power, but also made them channels through which colonial surveillance reached households.",
+        "An instruction from a provincial office did not determine automatically how a village head acted. Social ties, disputes and the risk of losing office shaped implementation. Residents might negotiate, delay, evade or appeal an administrative demand. Such variation must be documented locally rather than assumed universally. It does not negate the existence of colonial power; it shows how power operated through uneven interactions."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.5:b05",
+      "title": "Local councils and managed participation",
+      "paragraphs": [
+        "Colonial authorities established or revised consultative mechanisms, especially after the 1919 crisis. These bodies could gather advice, cultivate cooperative elites and give limited opportunities to discuss local budgets or development. Their composition, appointment rules and restricted responsibilities sharply limited their democratic character.",
+        "A municipal council able to deliberate about a road could not abolish the Government-General or determine national self-government. The gap between local consultation and political sovereignty is essential to evaluating the regime's claim that it offered participation. Koreans could exploit limited forums to raise practical issues without accepting the legitimacy of annexation. Institutional history must show both the narrow possibilities and the overarching denial of self-determination."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.5:b06",
+      "title": "The uneven reach of administration",
+      "paragraphs": [
+        "The quality of records and enforcement could vary across provincial centres, mountain districts and remote villages. Transport distance, the availability of interpreters, police staffing and cooperation of intermediaries affected how quickly orders took effect. Central reports tended to describe the planned system more fully than such variations in practice.",
+        "The state's reach nonetheless expanded through registration, education, policing and communications. Local administration made it possible to transform policies into recurring encounters between officials and households. The colonial hierarchy was not merely a map of districts; it was a set of relationships and information flows that could enforce unequal obligations. Understanding those relationships is indispensable for interpreting both resistance and collaboration under imperial rule."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.5:b07",
+      "title": "The local state through daily encounters",
+      "paragraphs": [
+        "Colonial governance became tangible when a resident dealt with a county office, a police post, a school administrator or a village head. These offices transmitted decisions from the Government-General but relied upon their own information and relationships. A centrally prescribed registration requirement could produce different experiences depending on staffing, transport and local elites. Investigating those differences allows historians to explain practical administration without denying the unequal structure holding it together.",
+        "Local Korean employees occupied a difficult position. Their knowledge of households, land and speech made them indispensable, yet they served an authority founded on annexation. One could use discretion to help a neighbour or to enforce a harsh order. The fact of holding office does not establish a person's motives, while the structure created opportunities and pressures that deserve analysis. Local history can supply evidence about choices that formal administrative charts cannot show.",
+        "Urban growth and infrastructure reveal another dimension of power. Roads, sewage works, schools and markets could produce practical services while prioritizing settler districts, military logistics or profitable commercial routes. An aggregate budget figure is insufficient to evaluate the distribution of benefits. The historian must ask who contributed land or labour, whose complaints were heard and which neighbourhoods were bypassed. A colonial improvement can be simultaneously material and politically unequal.",
+        "After 1919 consultative councils created opportunities for selected residents to raise certain concerns, but their formal powers remained limited. Participation in local discussion was not equivalent to national self-government. Some Korean members accepted positions to protect practical interests, while the regime could point to appointments as evidence of consent. The distinction between local bargaining and sovereign choice is essential for interpreting these institutions fairly."
+      ],
+      "sequence": 7,
+      "label": "Batch T · deeper archival critique"
+    }
+  ]
+}
