@@ -1,0 +1,112 @@
+{
+  "id": "IV.4.10",
+  "title": "Astronomy, Medicine, Printing, Ceramics, and Technical Knowledge",
+  "kicker": "UNIFIED SILLA · SCIENCE AND PRACTICAL EXPERTISE",
+  "description": "Evidence-conscious history of technical knowledge, observation, craft and documentary survival in Unified Silla.",
+  "release": "U",
+  "sourceStatus": "Original source-critical synthesis from selected Korean Academy and National Museum materials; later sources not assumed to describe early practice.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Mathematics Doctor (산학박사)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026391",
+      "role": "Silla national teaching institution 682 and curriculum from 717"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangchal (향찰)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062985",
+      "role": "Evidence for indigenous notation and an identifiable 755 sutra transcription"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla gallery",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Glazed pottery, roof tiles, Buddhist sculpture and technological workmanship"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gameunsa reliquary",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2481&schM=relic_represent_view",
+      "role": "Dated 682 metalwork, monumental building and workshop coordination"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.4.10:b01",
+      "title": "Technical knowledge outside a modern science faculty",
+      "paragraphs": [
+        "Technical activity in Unified Silla ranged from astronomical observation and calendrical computation to medicine, construction, metallurgy and ceramic production. These fields should not be grouped as one modern discipline called science, because they were transmitted through different settings: court offices, medical practitioners, monks, artisan workshops and family instruction. Their surviving records also differ greatly in quantity and reliability.",
+        "The existence of specialized offices or impressive objects demonstrates practical expertise but does not establish a universal educational system. A royal court could employ people skilled in calculation, while a workshop might preserve methods through apprenticeship without producing theoretical treatises. These complementary forms of knowledge explain how monumental construction and sophisticated craft were possible even when the names and writings of many practitioners have not survived."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies documents Gukhak and the 717 appointment of mathematical instructors, and the National Museum preserves directly dated Silla technical objects.",
+          "sourceIndex": 0,
+          "locator": "산학박사, 717 mathematics doctor and texts",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.10:b02",
+      "title": "Calendars, astronomy and legitimate time",
+      "paragraphs": [
+        "Calendar making mattered because the government needed to define ritual dates, coordinate administrative work and recognize seasonal changes. Astronomical observation could support calendrical calculation and be interpreted within political theories about celestial signs. Such practices participated in wider East Asian traditions of observation and mathematical techniques.",
+        "A chronicle's report of an eclipse or unusual object in the sky must be examined by comparing its date and terminology with other records; it should not automatically be interpreted as a perfectly measured scientific observation. Court writers could give celestial events political meaning, which is itself evidence for the relationship between knowledge and rulership. Historians distinguish the observed phenomenon, its recorded description and the interpretation applied by contemporaries."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies documents Gukhak and the 717 appointment of mathematical instructors, and the National Museum preserves directly dated Silla technical objects.",
+          "sourceIndex": 0,
+          "locator": "산학박사, 717 mathematics doctor and texts",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.10:b03",
+      "title": "Mathematics in an institutional setting",
+      "paragraphs": [
+        "The Academy of Korean Studies notes that the Silla Gukhak established in 682 added a mathematics instructor and assistant in 717, with prescribed texts for numerical learning. These details provide firmer evidence for state investment in technical education than a generic claim that Silla mathematics was advanced.",
+        "The subjects studied could have relevance to land assessment, taxation, architecture and administration, but the source does not preserve a detailed ledger of the calculations each graduate performed. The historian should connect specialist teaching to plausible institutional needs while identifying inference explicitly. The presence of a mathematics office is significant precisely because it provides an unusual dated point in an otherwise fragmentary history of early technical instruction."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.10:b04",
+      "title": "Stone engineering and building",
+      "paragraphs": [
+        "Bulguksa's masonry terraces and the carefully composed stone chamber of Seokguram demonstrate mastery of planning, carving and load-bearing structures. Their scale required coordination across quarrying, transport, fitting stone and construction. These are material facts visible in the monuments, regardless of the survival of the engineers' names.",
+        "The temptation is to convert their precision into extravagant numerical legends, claiming modern engineering units or perfect geometries without measurement or documented methods. Rigorous study uses surveys, material analysis and building chronology. Restorations and later repairs must be taken into account because present geometry does not always reproduce the original construction. Technical accomplishment is substantial enough without fictional specifications."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.10:b05",
+      "title": "Medicine and its limited archive",
+      "paragraphs": [
+        "Historical references to healing and medical knowledge indicate that practitioners dealt with illness, injury and ritual understandings of suffering, but few complete medical records from Unified Silla survive. Methods likely reflected contact with broader East Asian medical traditions and locally accumulated knowledge. The extent of particular procedures or institutional care must not be filled in from later Goryeo and Joseon texts as though they described eighth-century practice.",
+        "The condition of health affected the labour and military resources of the state as well as the lives of households. Religious institutions could provide rituals connected to illness, while skilled healers relied on empirical and inherited techniques. These roles should be analysed separately where the evidence allows. A catalogue of medicinal plants appearing in later works does not prove the date at which every remedy was used in Silla."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.10:b06",
+      "title": "Printing, copying and the fragile history of books",
+      "paragraphs": [
+        "The printed dharani associated with Bulguksa's Seokgatap is an important object for the history of East Asian printing, but precise dating, discovery circumstances and interpretation have been debated. A claim that it was unquestionably the world's first printed book oversimplifies the category of printing and the uncertainties about particular surviving specimens.",
+        "Buddhist text reproduction depended on scribes, donors, paper production and later printing techniques, connecting religious motivation with material expertise. Surviving documents are shaped by preservation conditions; many manuscripts were lost through fire, humidity or political change. Technical history must distinguish evidence for text copying, evidence for printing in a particular century and later reconstructions of how an object was made. Such care makes the development more informative than a competition for an unqualified world record."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}
