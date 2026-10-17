@@ -1,0 +1,118 @@
+{
+  "id": "VIII.6.4",
+  "title": "Colonial Law, Courts, Police, Prisons, and the Machinery of Coercion",
+  "kicker": "COLONIAL KOREA · GOVERNMENT AND LAW",
+  "description": "Institutional history of colonial law, courts, police, prisons, and the machinery of coercion, distinguishing ordinance text from practice and coercion.",
+  "release": "T",
+  "sourceStatus": "Original historical synthesis anchored to National Archives Korea and NIKH documentation; not an exhaustive archive survey.",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government-General Colonial Administration Overview",
+      "url": "https://theme.archives.go.kr/next/place/outline.do?flag=08",
+      "role": "1910 establishment and 1919, 1937 and 1943 administration changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History: Colonial Government-General",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_047_0010",
+      "role": "Governors, powers and administrative structure"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Military Police and Civilian Police",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_047_0020_0010",
+      "role": "Administrative and policing origins and 1919 reforms"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Japanese Colonial Period (일제강점기)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047318",
+      "role": "Context and assessment of unequal imperial institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Police Policy",
+      "url": "https://db.history.go.kr/modern/level.do?levelId=hdsr_005_0020_0020_0020",
+      "role": "Historical police policy and administrative coercion"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.6.4:b01",
+      "title": "Colonial legality and the exclusion of sovereign consent",
+      "paragraphs": [
+        "After annexation, Korea's judicial apparatus was reorganized under Japanese colonial authority. Courts, prosecutors and administrative officers operated in an imperial legal environment without Korean control over the foundation of the regime. The mere presence of professional procedures did not make rights equal in practice. Officials could prosecute offences defined by ordinances intended to suppress political opposition.",
+        "Legal history must distinguish different matters: civil disputes between individuals, criminal prosecution, administrative discipline and police regulation. A litigant in a property case might obtain a formally reasoned ruling, while a person accused of nationalist activity faced a security apparatus with different priorities. Treating all colonial law as one undifferentiated form of violence misses how the regime used normal administrative routines to sustain coercive power."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Archives of Korea identifies the 1910 establishment and ordinance framework and the Government-General's evolving colonial structure.",
+          "sourceIndex": 0,
+          "locator": "일제 강점기의 조선총독부 행정 체계, 1910/1919/1937/1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.4:b02",
+      "title": "Police, prosecutors and courts as connected institutions",
+      "paragraphs": [
+        "Policing was not an isolated activity. Arrests, investigations, surveillance reports and prosecutor decisions could move through overlapping administrative channels. Especially in the early decade, gendarmerie police performed extensive functions beyond those of ordinary military police. Their work connected public-order claims to broader supervision of village and urban life.",
+        "A record of a case can reveal official categories and a defendant's words under questioning, but coercive interviews are not necessarily reliable evidence of what that person freely believed. Historians must examine the circumstances of confession, translation and custody. The regime's paperwork may be abundant while the experience of prisoners remains difficult to recover without letters, family accounts or other independent testimony."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Archives of Korea identifies the 1910 establishment and ordinance framework and the Government-General's evolving colonial structure.",
+          "sourceIndex": 0,
+          "locator": "일제 강점기의 조선총독부 행정 체계, 1910/1919/1937/1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.4:b03",
+      "title": "The machinery of imprisonment",
+      "paragraphs": [
+        "Prisons and detention centres were material institutions with buildings, guards, registries and rules for labour or discipline. They were sites of punishment as well as sources of information about political opposition and social control. The names of famous independence activists are important, but do not exhaust the population held in colonial custody for criminal or administrative reasons.",
+        "Conditions could vary by institution and time. Broad claims about uniform practice need documentary support, not extrapolation from one notorious facility. Prison records themselves were generated by the people exercising custody, which creates a serious perspective problem. Where testimony from detainees survives, it should be compared carefully to official files and the procedures used to produce those files."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.4:b04",
+      "title": "The exceptional instruments of public order",
+      "paragraphs": [
+        "Colonial authorities used measures to limit meetings, publications and organizations considered threats to the regime. The line between a political act and an offence could be drawn by legal instruments serving imperial security. In 1910–1919, extraordinary police powers supplemented normal court arrangements; later changes altered procedures without granting an unrestricted right to independence advocacy.",
+        "This distinction becomes especially important when officials claimed to liberalize the colony after 1919. Replacing gendarmerie police with a nominally civilian structure did not mean that all coercive laws disappeared. An expanded civilian police force could monitor more associations and publications than a smaller military-police network. The history of repression must follow legal provisions and enforcement capacity rather than assume that a change in institutional title alone marks a loss of power."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.4:b05",
+      "title": "Differences among legal subjects",
+      "paragraphs": [
+        "Japanese settlers, Korean residents and different classes of defendants entered colonial institutions from unequal social positions. Access to language, lawyers, education and connections affected the capacity to navigate rules or appeal decisions. The administrative system could formally issue one ordinance for a territory while allowing unequal practical treatment.",
+        "Law's social effects were also mediated by gender, occupation, class and place. A rural tenant trying to resolve a debt or property conflict might encounter different obstacles from an educated urban resident. These differences cannot be reconstructed fully from the mere wording of an ordinance. Case files, petitions and studies of legal practice are needed to establish who received protection and who experienced coercion."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VIII.6.4:b06",
+      "title": "Reading the legal record critically",
+      "paragraphs": [
+        "Official annual reports could count prosecutions and describe procedures as signs of orderly government. Such numbers may help reconstruct institutional reach, but changes in recorded crime could result from changes in patrol density, offences, reporting incentives or classification. A rise in arrests does not automatically prove that ordinary residents became more criminal.",
+        "An evidence-conscious history therefore links statutes to actual enforcement and preserves the voices of people confronting the system. Colonial law mattered not only at spectacular political trials but in the daily conversion of imperial instructions into local obligations. It made the Government-General an operating state apparatus while withholding the population's right to choose its sovereign institutions. This is the central contradiction of the colonial judicial order."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}
