@@ -1,0 +1,148 @@
+{
+  "id": "VI.1.2",
+  "title": "The Name Joseon, Ming Recognition, and the Politics of Legitimacy",
+  "kicker": "FOUNDING JOSEON · 1388–1398",
+  "description": "An evidence-aware historical narrative on the name joseon, ming recognition, and the politics of legitimacy, separating the retrospective royal annals from events, political claims and later memory.",
+  "release": "W",
+  "sourceStatus": "Original editorial history with selective primary chronicle and institutional anchors; interpretive statements are attributed contextually, not presented as independent peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Taejo and Jeongjong",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Primary court chronicle; retrospective, royal and elite-centred accounts"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Editorial introduction to the Taejo Annals",
+      "url": "https://sillok.history.go.kr/intro/haejae.do",
+      "role": "Compilation history, dynastic legitimation and manuscript provenance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jeong Mong-ju (정몽주)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0050190",
+      "role": "Late Goryeo reform, opposition to dynastic overthrow and death in 1392"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical textbook account of Taejo's accession and early Joseon",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_p102r_0010_0010",
+      "role": "A later educational account, to be read critically rather than as contemporary testimony"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Taejong Annals prefatory narrative",
+      "url": "https://sillok.history.go.kr/id/kca_000",
+      "role": "Retrospective royal self-presentation and succession politics"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.1.2:b01",
+      "title": "Why the new name mattered",
+      "paragraphs": [
+        "A new ruling house needed to distinguish its authority from the Goryeo dynasty while establishing itself in a recognizable East Asian diplomatic order. The adoption of the name Joseon, invoking an older historical designation, provided a language of continuity across a profound political rupture. The name was neither an exact assertion of institutional identity with ancient Gojoseon nor a purely decorative label. It tied a contemporary government to claims about antiquity and moral renewal.",
+        "Contemporary and later documents sometimes explain the naming process through discussion of possible titles and reference to Ming approval. Such accounts should be placed in the politics of an unequal interstate hierarchy: Joseon's rulers sought practical acknowledgment without surrendering ordinary control of their court. The same term could communicate different meanings to Korean officials invested in local legitimacy and to Ming authorities concerned with border security and regional order."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "The late Goryeo–early Joseon political transition is reported in retrospective royal annals and institutional historical commentary, whose partisan framing requires criticism.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록 태조실록·정종실록 왕대별 기록",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.2:b02",
+      "title": "The Ming emperor as a powerful interlocutor",
+      "paragraphs": [
+        "The Ming dynasty was the strongest neighbouring state in the diplomatic environment of Joseon's foundation. Its court could approve an official name and receive envoys, but it did not write every Joseon administrative law or appoint every provincial officer. Acknowledgment in the form of diplomatic communications and ritual protocol therefore needs to be distinguished from direct metropolitan government.",
+        "Relations could be uneasy even when a nominal hierarchy was accepted. Ming officials evaluated the legitimacy of dynastic changes, frontier disputes and the conduct of emissaries according to their own interests. Joseon officials had incentives to present accession as orderly and morally justified, emphasizing loyalty to accepted international forms. Neither side possessed complete information about the other court's factional debates. The correspondence is best read as negotiation over status and security, not a simple exchange of compliments."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "The late Goryeo–early Joseon political transition is reported in retrospective royal annals and institutional historical commentary, whose partisan framing requires criticism.",
+          "sourceIndex": 1,
+          "locator": "조선왕조실록 왕대별 해제: 태조실록 편찬 및 개수 경위",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.2:b03",
+      "title": "The vocabulary of the mandate",
+      "paragraphs": [
+        "Political writers in the founding coalition used concepts of rightful government, good rulers and the welfare of subjects to justify replacing Goryeo. Such language connected the monarchy to Neo-Confucian arguments that legitimacy could fail through misgovernment. But the language of moral change could also mask interests in office, land revenue and security. An account that records the rhetoric without examining its political use will miss a central tension of the early dynasty.",
+        "The claim that a new court would restore order was not the same as evidence that every region welcomed it. Officials had to negotiate inherited obligations, and some groups retained loyalty to Goryeo. The meaning of legitimacy depended partly on whether provincial households saw relief from disruption, not only on what ministers wrote. Court ideology was a practice of persuasion and institutional design whose success remained to be tested."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.2:b04",
+      "title": "Difficulties at the frontier",
+      "paragraphs": [
+        "Joseon and Ming disagreed at times over border people, territorial administration and the interpretation of older relationships. Migration, military garrisons and overlapping memories of regional authority made the northeast a sensitive zone. Statements about a fixed frontier on a modern map can conceal the way officials actually managed settlements and pathways.",
+        "A new dynasty inheriting older regional responsibilities could not afford diplomatic rupture while still consolidating its own political coalition. The court therefore balanced formal deference with attempts to preserve practical autonomy and defend local claims. Envoys communicated positions in formulaic language, yet their journeys involved interpreters, escorts, letters and negotiations that could fail. Those human and logistical processes explain why recognition was a continuing relationship rather than a signature that resolved all disputes."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.2:b05",
+      "title": "Ritual, seals and the everyday work of recognition",
+      "paragraphs": [
+        "Court titles, calendars, embassies and documents served as visible markers of diplomatic order. They also shaped administration: a seal authenticated orders, a calendrical form located events in an accepted temporal scheme, and a royal title structured who could communicate with which office. Such forms mattered because politics relied on public conventions as well as coercive force.",
+        "The symbolism should not be mistaken for absolute subjection. Joseon developed institutions, recruited officials and governed its territory through its own court even while participating in a regional hierarchy centred on Ming. Conversely, acceptance of a name could not ensure friendly relations indefinitely. The diplomatic framework endured through periods of friction precisely because it allowed both states to conduct practical business without agreeing on every historical claim about their relationship."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.2:b06",
+      "title": "Two genealogies of legitimacy",
+      "paragraphs": [
+        "Joseon's rulers cultivated legitimacy at home through royal ancestry, dynastic rites and stories of reform, and abroad through acknowledgement by a recognized imperial power. These dimensions overlapped but were not interchangeable. An argument capable of reassuring Ming might fail to convince a scholar loyal to the fallen Goryeo house, while a domestic argument for ministerial reform might attract little attention in the Ming capital.",
+        "Later Korean writers often told the naming story as part of a confident narrative of national continuity. Such retrospective memory has its own history and should not be projected without qualification onto the uncertain months after accession. The new name functioned simultaneously as a political resource, a diplomatic statement and a frame for future historical writing. Its endurance should not make the contingency of its initial selection disappear."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.2:b07",
+      "title": "The limits of the word tributary",
+      "paragraphs": [
+        "The term tributary can describe diplomatic presentations and an explicitly ranked relationship, but it carries different implications depending on period and context. In early Joseon, Ming acknowledgement of a name or title did not establish Ming courts in Korean districts or allow Ming officials to conduct Joseon's regular land tax collection. Hierarchical external ritual and internal administrative power must be separated.",
+        "A modern account should also avoid treating these relations as perfectly equal diplomacy. Ming was capable of military pressure and controlled a political language through which external rulers sought recognition. Joseon's room for manoeuvre was real yet constrained. This combination is historically more informative than either depicting the kingdom as an administered Ming province or projecting the sovereign equality of modern international law backward into the 1390s."
+      ],
+      "sequence": 7,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.2:b08",
+      "title": "An ancient name used for a new purpose",
+      "paragraphs": [
+        "Invoking Joseon linked the new ruling house with a long remembered antiquity, but the association was mediated through texts and court argument. It did not mean the bureaucracy of the Bronze Age or later Gojoseon survived intact into the fifteenth century. Using an inherited name can be an act of political innovation, offering the appearance of deep continuity while legitimating a recent change of dynasty.",
+        "Later historical writing made the name a central thread in Korean historical identity. That enduring significance should not erase its immediate diplomatic function in the founding years. A state needed a recognized official designation for envoys, seals, archives and royal proclamations. Choosing that designation helped organise the new order even as different audiences interpreted its cultural meaning according to their interests."
+      ],
+      "sequence": 8,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.2:b09",
+      "title": "Recognition was renewed through correspondence",
+      "paragraphs": [
+        "Formal relations had to be sustained beyond one exchange. When envoys returned, letters were translated, gifts recorded and disputed questions referred to ministers. A change in regional military conditions could alter the meaning of an earlier concession. Border people and disputed movements were particularly difficult because frontier practice was more complex than diplomatic ceremony.",
+        "The historian should seek actual dated documents for each claim about a specific dispute rather than assume every disagreement followed a fixed pattern. What the framework establishes is a continuing process of communication. The court's pursuit of Ming legitimacy was not a one-off ceremony that completed state formation; it was part of everyday high politics throughout the founding generation."
+      ],
+      "sequence": 9,
+      "label": "Batch W extended original scholarship"
+    }
+  ]
+}

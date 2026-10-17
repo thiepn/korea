@@ -1,0 +1,142 @@
+{
+  "id": "VI.1.10",
+  "title": "Royal Genealogy, Founding Memory, and the Construction of Joseon Legitimacy",
+  "kicker": "EARLY JOSEON · SUCCESSION AND INSTITUTIONS",
+  "description": "Historically grounded examination of royal genealogy, founding memory, and the construction of joseon legitimacy, with explicit criticism of the later dynastic record.",
+  "release": "W",
+  "sourceStatus": "Original narrative using retrospective Joseon annals and NIKH commentary; source anchors are contextual, not page-by-page claim certification.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Primary dynastic annals for Jeongjong, Taejong and Sejong; retrospectively compiled"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Editorial commentary on Joseon royal annals",
+      "url": "https://sillok.history.go.kr/intro/haejae.do",
+      "role": "Primary-text formation and competing revisions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Taejong Annals prefatory narrative",
+      "url": "https://sillok.history.go.kr/id/kca_000",
+      "role": "Genealogical representation and successor-state legitimacy"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "History textbook account of the founding rulers",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_p102r_0010_0010",
+      "role": "Later historiography, not contemporary testimony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.1.10:b01",
+      "title": "A dynasty writes its own beginnings",
+      "paragraphs": [
+        "Joseon's founding memory was shaped through royal records, rituals and genealogies that developed after the original participants had died. Official annals preserved important evidence but were compiled under later political circumstances. Taejo's record, for example, was initially produced under Taejong after the succession struggles; this provenance raises questions about how competing founders were presented.",
+        "The archive should neither be dismissed as propaganda nor regarded as a transparent transcript. Its compilers drew on administrative materials and histories that may no longer survive, but they also organized them within conventions of royal virtue and legitimate inheritance. Readers need to distinguish an event's apparent date from the later moment when its account acquired official form."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The royal chronicles record the early Joseon succession struggles, Taejong's reign and Sejong's accession but retrospectively privilege the victorious dynastic line.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록: 정종실록·태종실록·세종실록; 왕대별 해제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.10:b02",
+      "title": "The royal ancestors before Taejo",
+      "paragraphs": [
+        "Genealogies traced the ruling family's ancestors through earlier generations, placing Taejo inside an inherited line rather than presenting him as an isolated commander who appeared in 1392. Formal recognition of ancestral figures gave the new house ritual depth and a place in the hierarchy of royal honours.",
+        "Many genealogical claims also belong to the study of memory and status. A family pedigree can preserve historical relationships while promoting an ideal pattern of continuity. A royal chart records selected ancestors and official titles more clearly than the lived circumstances of every earlier household member. Historians use it alongside other documents and remain cautious where lines were systematized retrospectively."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The royal chronicles record the early Joseon succession struggles, Taejong's reign and Sejong's accession but retrospectively privilege the victorious dynastic line.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록: 정종실록·태종실록·세종실록; 왕대별 해제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.10:b03",
+      "title": "The question of Goryeo loyalty",
+      "paragraphs": [
+        "The figure of Jeong Mong-ju illustrates how founding memory could accommodate people who had opposed dynastic overthrow. His commitment to Goryeo later became a celebrated model of principled loyalty, even within Joseon society. This apparent paradox is instructive: a successor state may honour moral fidelity in the abstract while condemning a former adversary in the political circumstances of its birth.",
+        "The same historical actor could therefore be assigned changing meanings by writers with different concerns. Early political survival required marginalizing opponents, while later moral education could find value in their constancy. Historians should identify when a commemorative interpretation emerged rather than attribute it unchanged to 1392. The evolution of Jeong's reputation reveals the continuing negotiation between Confucian ideals and the dynasty's violent beginning."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.10:b04",
+      "title": "Meritorious subjects and disputed credit",
+      "paragraphs": [
+        "Lists of founding merits distributed honour among the victorious coalition and supported claims by their descendants. Such documentation can reveal the institutionalization of political rewards, but the categories were affected by subsequent changes of power. A person celebrated in one political configuration might be discredited after a court purge.",
+        "Jeong Do-jeon's reputation demonstrates how a key founder could become the enemy of a later royal narrative. His ideas and offices continued to influence government even when his role was politically suppressed. Recovering that complexity requires comparing the content of surviving writings with the changing assessments of later compilers. The purpose is not to reverse one simplistic judgment with another, but to recognize how political memory was repeatedly rewritten."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.10:b05",
+      "title": "Historical monuments and public geography",
+      "paragraphs": [
+        "Royal tombs, shrines, capital gates and plaques helped attach legitimacy to the built landscape. The material traces of dynastic government could survive even when their immediate political meanings changed. Visitors to a palace or tomb today encounter structures shaped by rebuilding, loss and conservation as well as original intentions.",
+        "Architecture can convey relationships between royal and ministerial spaces, but it should not be used to infer an unchanging social consensus. A gate's name might be associated with a founding ideal while residents' lives were organized around taxes, markets and work. Later reconstruction and heritage interpretation add further layers to meaning. Material history is most useful when dated and connected to specific institutional practices rather than turned into a timeless symbol."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.10:b06",
+      "title": "The founder as a subject of historical debate",
+      "paragraphs": [
+        "Later histories of Joseon often contrast the humane reforms attributed to the founding with the coercion used against rivals. Those themes should not be forced into a binary verdict. Yi Seong-gye's accession helped establish a government that endured for centuries, and it also displaced a monarchy whose supporters experienced defeat and exile.",
+        "A critical account respects the significance of state-making while refusing to make its endurance proof of universal justice. The dynasty's own chronicles offer details and interpretations, and modern historians can ask different questions about family, gender, peasants and provincial power. The founding Chapter concludes by treating memory as an active dimension of politics: Joseon not only created institutions in 1392 but continued to create authoritative stories about why those institutions deserved to exist."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.10:b07",
+      "title": "Chronicles are also arguments about rightful rule",
+      "paragraphs": [
+        "The history of Joseon's foundation was recorded and edited by institutions whose own legitimacy depended on the continuation of the dynasty. An entry describing a treacherous adviser or wise prince may preserve facts while framing them through a moral judgment. The official annals should thus be interpreted as both source material and historical actors in the construction of royal memory.",
+        "The existence of compilation dates and variant traditions gives modern historians an opportunity to analyse that framing. Comparing an event's record with later commemorations can show how a condemned person became a model of learning or how a founder's critic acquired moral prestige. The archive's value increases when its editorial circumstances are treated openly rather than hidden behind a claim of complete neutrality."
+      ],
+      "sequence": 7,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.10:b08",
+      "title": "Buildings preserve only part of the early city",
+      "paragraphs": [
+        "The memory of the foundation is attached to shrines, gates, palace precincts and royal tombs. Yet buildings standing today often incorporate later reconstruction, wartime destruction and conservation decisions. A familiar landmark can preserve the location of an early institution without preserving every stone from the 1390s.",
+        "That material history matters because a viewer may take the present appearance as direct evidence of Taejo's court. Careful interpretation distinguishes original placement, subsequent alteration and modern restoration. Urban heritage is not a static photograph of the founding moment. It is an accumulating archive in which physical change and political remembrance interact."
+      ],
+      "sequence": 8,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.10:b09",
+      "title": "Why the past could honour a defeated loyalist",
+      "paragraphs": [
+        "Jeong Mong-ju's reputation as a loyal servant of Goryeo survived within Joseon's moral culture. The capacity of the successor state to praise his fidelity illustrates how ethical models can outlive the political causes for which people died. Such commemoration did not mean contemporaries in 1392 agreed about the legitimacy of the takeover.",
+        "A later scholar could invoke loyalty to criticize a living official without seeking to restore Goryeo. Historical figures acquire new functions as the political setting changes. This makes memory a field of inquiry rather than a decorative epilogue. The foundation was repeatedly interpreted, selectively honoured and debated by people facing problems different from those of Taejo's original coalition."
+      ],
+      "sequence": 9,
+      "label": "Batch W extended original scholarship"
+    }
+  ]
+}

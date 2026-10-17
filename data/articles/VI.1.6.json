@@ -1,0 +1,148 @@
+{
+  "id": "VI.1.6",
+  "title": "The First Strife of Princes and the Fall of Jeong Do-jeon",
+  "kicker": "FOUNDING JOSEON · 1388–1398",
+  "description": "An evidence-aware historical narrative on the first strife of princes and the fall of jeong do-jeon, separating the retrospective royal annals from events, political claims and later memory.",
+  "release": "W",
+  "sourceStatus": "Original editorial history with selective primary chronicle and institutional anchors; interpretive statements are attributed contextually, not presented as independent peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Taejo and Jeongjong",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Primary court chronicle; retrospective, royal and elite-centred accounts"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Editorial introduction to the Taejo Annals",
+      "url": "https://sillok.history.go.kr/intro/haejae.do",
+      "role": "Compilation history, dynastic legitimation and manuscript provenance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jeong Mong-ju (정몽주)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0050190",
+      "role": "Late Goryeo reform, opposition to dynastic overthrow and death in 1392"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical textbook account of Taejo's accession and early Joseon",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_p102r_0010_0010",
+      "role": "A later educational account, to be read critically rather than as contemporary testimony"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Taejong Annals prefatory narrative",
+      "url": "https://sillok.history.go.kr/id/kca_000",
+      "role": "Retrospective royal self-presentation and succession politics"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.1.6:b01",
+      "title": "A succession dispute becomes an armed confrontation",
+      "paragraphs": [
+        "The first strife of princes in 1398 grew from disagreement over Taejo's chosen succession and the role of powerful ministers. Queen Sindeok's son Yi Bang-seok had been designated heir, while older sons and their supporters disputed the political order around him. Yi Bang-won had played an important part in the dynasty's establishment and resisted a future in which royal princes might be subordinated to ministerial power.",
+        "Retrospective accounts written under later kings provide names and episodes but are also shaped by the outcome. The losing faction could be portrayed as threatening rightful heirs, and the victorious faction as restoring proper order. The historian should distinguish the reported attack and deaths from the moral explanations attached to them. The contest turned on actual control of armed men, palace space and succession authority, not only abstract disagreements about the writings of Jeong Do-jeon."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "The late Goryeo–early Joseon political transition is reported in retrospective royal annals and institutional historical commentary, whose partisan framing requires criticism.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록 태조실록·정종실록 왕대별 기록",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.6:b02",
+      "title": "Jeong Do-jeon's position in the conflict",
+      "paragraphs": [
+        "Jeong Do-jeon was a leading architect of the new monarchy and argued for a political structure in which trained ministers would play a major governing role. His opponents associated this position with efforts to reduce princely military autonomy. Yet his intellectual project cannot be condensed into a claim that he wished to abolish monarchy. He worked through the authority of Taejo and defended a particular configuration of royal and ministerial roles.",
+        "His killing in 1398 eliminated a powerful figure whose programs had shaped early administrative arrangements. The victors did not thereby reject everything that had been achieved under the founding coalition. State records, offices and the commitment to Confucian government remained significant. This tension illustrates how political winners can selectively inherit their opponents' institutions while erasing them from the moral narrative of legitimacy."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "The late Goryeo–early Joseon political transition is reported in retrospective royal annals and institutional historical commentary, whose partisan framing requires criticism.",
+          "sourceIndex": 1,
+          "locator": "조선왕조실록 왕대별 해제: 태조실록 편찬 및 개수 경위",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.6:b03",
+      "title": "Armed households and the limits of court procedure",
+      "paragraphs": [
+        "In a monarchy whose adult princes possessed influential followers, a formal designation of heir could not by itself compel obedience. Officers and private armed associates had to decide whom to support during a confrontation. The presence of multiple organized groups made succession a matter of military organization as well as kinship.",
+        "The violence revealed a central institutional weakness: the sovereign had not fully monopolized military coercion over his relatives. Arguments about duty and seniority became effective only when backed by forces able to defend claimants. It would be mistaken to interpret this exclusively as timeless palace intrigue. The organization of troops was a fundamental question about whether dynastic government could survive the founder's eventual death."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.6:b04",
+      "title": "Deaths and the collapse of the chosen succession",
+      "paragraphs": [
+        "The confrontation resulted in the killing of Jeong Do-jeon and other leading ministers together with royal figures associated with the designated heir. The extent to which each victim had independently chosen a political position is not always visible behind the later narrative. Such bloodshed was more than personal revenge: it dismantled the existing succession settlement.",
+        "For Taejo the event damaged the prospect of a smooth transfer to the son his household had selected. His subsequent abdication needs to be understood amid coercion, grief and political pressure, rather than as routine retirement. The monarchy remained, but its membership and hierarchy had been violently renegotiated. Descriptions that celebrate the later strength of Taejong should not reduce the lives lost to mere preliminaries of efficient governance."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.6:b05",
+      "title": "Jeongjong and a provisional settlement",
+      "paragraphs": [
+        "After Taejo stepped down, Jeongjong became king. The arrangement allowed the dynasty to continue without placing Yi Bang-won immediately on the throne. It did not eliminate competition among royal brothers or the role of armed followers. The court's relocation and personnel choices reflected continuing insecurity.",
+        "A monarch reigning under such circumstances faced difficult constraints. Official documents could be issued in the king's name while influential princes exercised decisive pressure over policy. The distinction between the legitimacy of a title and actual capacity to command is especially useful for understanding early Joseon. It also helps explain why the later second strife of princes occurred despite the existence of an apparently settled succession."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.6:b06",
+      "title": "The problem of remembered justification",
+      "paragraphs": [
+        "The Taejong Annals' account of Yi Bang-won's early career must be read with awareness that later compilers wrote under a dynasty in which he became an honored ruler and ancestor. Statements emphasizing his foresight or portraying enemies as treacherous are evidence for legitimation as well as possible information about events.",
+        "A careful history can recognize the violent sequence without endorsing all later accusations. It can also trace institutional consequences: the elimination of rivals, the strengthening of royal authority and the increasing commitment to restricting independent princely forces. The strife is decisive not because it reveals an inevitable path to the throne, but because it forced Joseon's founders to confront the conflict between family power and a centralized monarchy."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.6:b07",
+      "title": "Violence and the rewriting of merit",
+      "paragraphs": [
+        "Jeong Do-jeon had been among the men credited with constructing the new state's political program. Following the 1398 confrontation, the meaning of his earlier services was drastically altered by the emergence of a victorious faction. A biography that simply labels him founder or traitor would miss this transformation in official assessment.",
+        "An institutional historian can trace both his death and the subsequent survival of offices or arguments associated with his work. These are not contradictory facts: a political order may destroy one author while retaining useful elements of his design. The violence changed who could speak for the founding and whose interpretation would appear in authoritative records. That power over memory was part of the struggle, not merely its later literary echo."
+      ],
+      "sequence": 7,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.6:b08",
+      "title": "Private troops as an enduring structural problem",
+      "paragraphs": [
+        "Royal princes and powerful families had networks of armed supporters whose loyalty could be personal and whose service was embedded in social relationships. The 1398 conflict made this arrangement dangerous because formal succession was no match for the capacity to mobilize force. Yet the state could not create a new military system instantly.",
+        "Restricting these forces required officers willing to enforce orders, procedures for reassignment and reliable means of provisioning soldiers. The later consolidation under Taejong shows that the lesson of 1398 was institutional, not merely emotional. A solution concerned the monopoly of royal coercion, which could reduce the likelihood of some private confrontations while increasing the personal power of the reigning king."
+      ],
+      "sequence": 8,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.6:b09",
+      "title": "The founder's authority after the killings",
+      "paragraphs": [
+        "Taejo had achieved sovereignty through a coalition that included men and sons whose ambitions later conflicted. The killing of his selected heir's supporters revealed the limits of his ability to preserve the intended future of the household. Abdication should therefore be evaluated in the context of coercion and loss, not merely as a dignified transfer.",
+        "Sources written under successors cannot fully recover Taejo's private response. They do show that the monarchy survived under Jeongjong while Yi Bang-won's faction became more influential. The historical consequence was the restructuring of dynastic power; the personal tragedy remains important without becoming a substitute for analysis of the institutions that allowed armed contention."
+      ],
+      "sequence": 9,
+      "label": "Batch W extended original scholarship"
+    }
+  ]
+}

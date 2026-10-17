@@ -30,6 +30,86 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "VII.1.4:b04",
+      "title": "Ming gratitude and the costs of alliance",
+      "paragraphs": [
+        "Joseon's ruling elite remembered Ming intervention against the Japanese invasions as a major foundation of diplomatic obligation. Even officials aware that Ming power was weakening could regard military cooperation as a moral duty. This was not merely an abstract sentiment: the legitimacy of an official or king might depend on demonstrating loyalty to the regional hierarchy that had helped defend the kingdom.",
+        "But assistance came with material costs. Sending troops beyond the frontier required commanders, provisions and the risk of casualties at a time when Joseon was still rebuilding its productive base. Gwanghaegun faced the problem of satisfying Ming requests without inviting retaliation from Later Jin. Diplomatic judgment therefore involved both principles of reciprocity and immediate calculations about the lives and resources of subjects."
+      ],
+      "sequence": 4,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.4:b05",
+      "title": "The 1619 expedition and Sarhu",
+      "paragraphs": [
+        "Ming's campaign against Nurhaci's Later Jin in 1619 included a Joseon force under Gang Hong-rip. The Korean contingent's position within a broader multi-column operation exposed it to dangers it could not fully control. The allied campaign ended in severe defeat, and many Joseon soldiers were killed or captured.",
+        "The details of whether Gang acted under a secret instruction to respond flexibly are transmitted in accounts that require contextual reading. He and his men faced the realities of a deteriorating battle rather than an abstract choice between two ideological camps. The biographies and returned memoirs allow historians to examine military experience, but competing political interests shaped later interpretations of surrender. It is misleading to infer the exact intentions of every soldier from the choices of the commanding general."
+      ],
+      "sequence": 5,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.4:b06",
+      "title": "Captivity became a channel of information",
+      "paragraphs": [
+        "Captured personnel sometimes returned or communicated across the frontier, bringing accounts of Later Jin's organization and military capacity. Yi Min-hwan's Jianzhou observations, compiled after his own captivity, provide one example of information based on close experience of the northern state. Such materials could challenge assumptions formed at court by officials who had not seen its troops or administrative arrangements.",
+        "A firsthand report is invaluable but not free of bias. An author might seek to defend his conduct, secure employment or advocate a particular defensive strategy. The text should be analysed both as evidence of what he observed and as an intervention in debates over responsibility. That distinction is especially relevant when information about a powerful neighbour could be politically dangerous to those committed to a fixed moral language."
+      ],
+      "sequence": 6,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.4:b07",
+      "title": "A policy inside rather than above factional politics",
+      "paragraphs": [
+        "Gwanghaegun often appears in modern narratives as a solitary advocate of neutral diplomacy. The historical situation was more complex. Court factions differed about loyalty to Ming, responses to the Later Jin threat and the political fate of men associated with the 1619 expedition. Even officials otherwise aligned with the king could resist proposals seen as compromising established principles.",
+        "The term neutrality can also mislead if it suggests an internationally recognized legal status insulated from both powers. Joseon had concrete tributary, security and communication obligations and sought to manage their conflicts. Gwanghaegun's diplomacy was a series of tactical choices in an unstable system, not a comprehensive declaration that the kingdom would stand equally apart from all rival states."
+      ],
+      "sequence": 7,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.4:b08",
+      "title": "Letters could produce danger on several frontiers",
+      "paragraphs": [
+        "An embassy or message that appeared appropriately loyal to Ming might offend Later Jin leaders who expected acknowledgment of their new authority. Conversely, signs of accommodation to Nurhaci could provoke domestic accusations of betrayal and alarm Ming officials. The meaning of diplomatic gestures depended on how several audiences interpreted them.",
+        "Letters travelled slowly and could be intercepted or reported inaccurately. Court deliberations took place before the eventual outcome of the Qing conquest was known. A historian should reconstruct the options available at each point instead of declaring one policy obviously correct from the perspective of 1644. The uncertainty gives the diplomatic record its historical substance: decisions were consequential because no participant possessed certain knowledge of the future."
+      ],
+      "sequence": 8,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.4:b09",
+      "title": "How restoration politics changed the verdict",
+      "paragraphs": [
+        "Injo's supporters used accusations about Gwanghaegun's rule to legitimate the 1623 coup. Foreign policy provided one arena for their moral critique, although conflicts over the royal household and domestic factions also mattered. The subsequent wars encouraged later observers to read the two reigns as a simple contrast between prudence and rigidity.",
+        "This can become another retrospective distortion. Gwanghaegun's government did not control Later Jin's ambitions, and Injo's court did not inherit an unlimited range of military options. Assessing both regimes fairly requires attention to their specific policies, the power of neighbouring states and domestic pressures. The relevant historical question is how different governments navigated a shrinking field of choices, not which ruler can be credited or blamed for every later development."
+      ],
+      "sequence": 9,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.4:b10",
+      "title": "Geography constrained the negotiation",
+      "paragraphs": [
+        "The Liaodong corridor, northern rivers and mountain routes carried information and troops as well as trade. Frontier commanders possessed knowledge that court officials lacked, but they could also pursue local interests. Military movements by Ming and Later Jin changed which passages were safe and how quickly Joseon could respond.",
+        "A policy formulated in Seoul might reach a frontier garrison after the situation had altered. A commander facing overwhelming danger could act before receiving fresh instructions. These realities explain why the 1619 campaign and its aftermath produced controversy over discretion. Geopolitical maps alone cannot reproduce the delay, uncertainty and human judgment involved in administering a border during regional transformation."
+      ],
+      "sequence": 10,
+      "label": "Batch W original append-only narrative"
+    },
+    {
+      "id": "VII.1.4:b11",
+      "title": "The meaning of diplomatic flexibility",
+      "paragraphs": [
+        "Gwanghaegun's importance lies partly in his effort to maintain channels with rival powers while recognizing the costs of direct confrontation. That effort was limited by Ming's expectations, Later Jin's expansion and factions at home. Flexibility did not mean the disappearance of ideological conviction; it meant adapting messages and military commitments to changing circumstances.",
+        "The historical record permits evaluation of particular decisions and outcomes but not a universal counterfactual in which his survival would necessarily have prevented invasion. A longer account reads his policy as one strand of postwar statecraft, related to finances, garrison readiness and political legitimacy. The later Injo restoration changed the balance of these pressures but did not create the entire international crisis from nothing."
+      ],
+      "sequence": 11,
+      "label": "Batch W original append-only narrative"
     }
   ],
   "release": "C"

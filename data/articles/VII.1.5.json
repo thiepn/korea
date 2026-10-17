@@ -1,0 +1,148 @@
+{
+  "id": "VII.1.5",
+  "title": "The Injo Restoration of 1623 and the Reversal of Gwanghaegun's Order",
+  "kicker": "POSTWAR JOSEON · RECONSTRUCTION AND REGIME CHANGE",
+  "description": "An analytical narrative on the injo restoration of 1623 and the reversal of gwanghaegun's order, using the court annals with NIKH and AKS commentary on factional source bias.",
+  "release": "W",
+  "sourceStatus": "Original historical synthesis with source-critical contextual locators; court accusations and royal self-justification are not treated as neutral testimony.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Seonjo, Gwanghaegun, Injo",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Royal court chronicles; Gwanghaegun journal survives in variant recensions and requires source criticism"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwanghaegun (광해군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005335",
+      "role": "Court politics, postwar restoration and Later Jin/Ming diplomacy"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Yi Gwal's Rebellion (이괄의 난)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i305000",
+      "role": "Verified 1624 rebellion chronology, coup coalition and displacement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gang Hong-rip (강홍립)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001497",
+      "role": "1619 Sarhu campaign, Korean expedition and difficult captivity record"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jianzhou observations (건주문견록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0076457",
+      "role": "Returned envoy's report and its personal strategic interests"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.1.5:b01",
+      "title": "A coup calls itself a restoration",
+      "paragraphs": [
+        "In 1623 a group of officials and military supporters overthrew Gwanghaegun and installed the prince who became King Injo. The movement was remembered as Injo banjeong, a restoration of proper rule. The choice of term mattered: its promoters did not describe themselves as creating a new royal house, but as rescuing the existing Joseon monarchy from misgovernment.",
+        "Claims about the deposed king's conduct included accusations over treatment of royal family members, palace expenditure and domination by particular political factions. They were politically consequential allegations and cannot simply be repeated as neutral conclusions. The surviving official narrative was written in a court whose legitimacy depended upon the coup. A historical reconstruction must identify documented actions, competing ethical interpretations and the self-interest of those who benefited."
+      ],
+      "sequence": 1,
+      "label": "Original narrative · postwar institutions",
+      "evidence": [
+        {
+          "claim": "Joseon court annals and independent Korean institutional chronology situate the recovery era and the 1623–24 regime crisis, though dynastic narratives are retrospective.",
+          "sourceIndex": 0,
+          "locator": "선조실록·광해군일기·인조실록 사료열람",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.5:b02",
+      "title": "The military coalition behind the throne",
+      "paragraphs": [
+        "The success of the coup depended on officers and supporters who could secure the palace and control access to the new king. It was not brought about by a court debate alone. Leaders of the new regime distributed appointments and honours among the participants, giving successful plotters a recognized place within government.",
+        "How those rewards were allocated became a source of division. Men who regarded themselves as crucial to the operation could resent being placed below better-connected figures. The later rebellion of Yi Gwal demonstrated how dangerous such inequalities were when military men commanded provincial forces. A restoration justified by correcting corruption could generate fresh disputes over status and office almost immediately."
+      ],
+      "sequence": 2,
+      "label": "Original narrative · postwar institutions",
+      "evidence": [
+        {
+          "claim": "Joseon court annals and independent Korean institutional chronology situate the recovery era and the 1623–24 regime crisis, though dynastic narratives are retrospective.",
+          "sourceIndex": 2,
+          "locator": "우리역사넷 한국사 연대기: 이괄의 난, 1624년",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.5:b03",
+      "title": "The moral revision of the royal past",
+      "paragraphs": [
+        "The regime took measures affecting honours granted to Gwanghaegun's relatives and the ritual treatment of royal ancestors. These acts reshaped public memory through the formal institutions of the state. Orders about memorial tablets, titles and clothing were not minor symbols: royal ritual established who belonged within a legitimate line of authority.",
+        "An extant entry in the Injo Annals details officials requesting changes to the ritual status of Gwanghaegun's mother, demonstrating how political replacement became institutional memory. Yet a court order shows what the new rulers demanded, not what every subject believed. Former beneficiaries of the previous court could face punishment, while others adapted. The treatment of royal kin also revealed that the coup could not escape the difficult dynastic politics it condemned."
+      ],
+      "sequence": 3,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.5:b04",
+      "title": "Reconstituting office and political trust",
+      "paragraphs": [
+        "The new court needed to appoint ministers, secure provincial cooperation and prevent counter-plots. Officeholding under Gwanghaegun became a possible liability, although individual careers varied. A wholesale rejection of earlier personnel could weaken administrative expertise precisely when fiscal and military recovery remained incomplete.",
+        "The state inherited records, roads, military formations and provincial communities established before the coup. Ideological rupture did not erase operational continuity. In assessing how much governance changed, historians should distinguish the public rhetoric of restoration from the practical reuse of administrative mechanisms. The new government was simultaneously reorganizing elite power and trying to manage everyday demands on households."
+      ],
+      "sequence": 4,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.5:b05",
+      "title": "Ming loyalty and the northern question",
+      "paragraphs": [
+        "The coup leadership criticized earlier policy toward Later Jin and emphasized Joseon's moral commitments to Ming. These positions mattered in a polity whose elites remembered Ming assistance against Japan. But diplomatic choices were constrained by the fact that Nurhaci's forces were gaining strength and exercising influence across routes near the northern frontier.",
+        "Calling the Injo government simply ignorant of Realpolitik would obscure these pressures. Ministers were balancing political legitimacy at home, an inherited regional order and the prospect of military coercion. Some officials differed about the consequences of provoking Later Jin even while sharing commitments to Ming. The language of principled foreign policy could strengthen a new regime's domestic legitimacy but also narrow its room for diplomatic manoeuvre."
+      ],
+      "sequence": 5,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.5:b06",
+      "title": "Restoration remains an unstable beginning",
+      "paragraphs": [
+        "The first years of Injo's reign exposed fragile control of the army and the royal capital. The Yi Gwal rebellion of 1624 forced the king to flee and showed that a victorious coup did not automatically produce a stable governing coalition. The Later Jin invasion of 1627 revealed an additional frontier vulnerability.",
+        "A history of the restoration should not treat these crises as simple divine punishment for its foreign policy, as some retrospective narratives imply. They arose from specific combinations of military organization, reward distribution, border strategy and shifting regional power. The most revealing feature of 1623 is its unresolved character: the new king possessed formal legitimacy according to his supporters, but had still to secure the loyalties and resources required to rule."
+      ],
+      "sequence": 6,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.5:b07",
+      "title": "Institutional survival across a change of monarch",
+      "paragraphs": [
+        "The 1623 coup removed Gwanghaegun but did not replace the entire governing apparatus. Provincial registers, military formations and fiscal routines remained necessary to the new court. Injo's ministers faced the choice of retaining useful practices associated with the old reign or reversing them for political reasons.",
+        "This continuity is especially important in fiscal and logistical history. A household concerned with overdue grain or irrigation could not simply wait for an elite faction to resolve its moral case against the previous king. Government required day-to-day decisions under whatever legitimacy the court claimed. Evaluating the restoration should therefore compare actual measures before and after the coup rather than infer wholesale institutional transformation from a change in royal ritual."
+      ],
+      "sequence": 7,
+      "label": "Batch W expanded original historical analysis"
+    },
+    {
+      "id": "VII.1.5:b08",
+      "title": "The distribution of coup rewards",
+      "paragraphs": [
+        "Meritorious-subject rewards tied the new king to commanders and civil officials whose armed intervention had brought him to power. They helped establish a governing coalition but also created a hierarchy in which contributors assessed their rank and access to office. The resentment associated with Yi Gwal did not emerge in a political vacuum.",
+        "A ranking was both a statement about past service and a promise of future influence. Such arrangements could make it difficult to punish a powerful ally or satisfy competing officers. The later uprising exposed the costs of the settlement. Historians should distinguish the particular grievances recorded in sources from a generalized assertion that all military commanders acted from vanity. Material rewards, reputation and security were intertwined."
+      ],
+      "sequence": 8,
+      "label": "Batch W expanded original historical analysis"
+    },
+    {
+      "id": "VII.1.5:b09",
+      "title": "Moral legitimacy and the risk of war",
+      "paragraphs": [
+        "The restoration's emphasis on Ming loyalty provided a principled claim to correct what opponents said was Gwanghaegun's misgovernment. Yet the new court also had to negotiate with Later Jin, whose soldiers could reach Joseon's frontier. The language of rectitude could strengthen elite unity while complicating concessions required for peace.",
+        "A retrospective interpretation that directly blames the coup for the 1627 invasion would overstate Joseon's power to control the northern state's strategic decisions. But ignoring the restoration's diplomatic signals would erase agency. The historically responsible question is how domestic legitimacy shaped policies within a regional contest whose outcomes were not determined by one Korean court alone."
+      ],
+      "sequence": 9,
+      "label": "Batch W expanded original historical analysis"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "VII.1.7",
+  "title": "The Later Jin Invasion of 1627",
+  "kicker": "LATER JIN AND QING · INVASIONS AND AFTERMATH",
+  "description": "A source-conscious account of the later jin invasion of 1627, distinguishing Qing/Joseon claims, firsthand diaries and later national memory.",
+  "release": "W",
+  "sourceStatus": "Original synthesis; palace annals and later commemorations are interested evidence, supplemented by AKS chronology and firsthand diarists.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "The Manchu invasion of 1636–1637 (병자호란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0023151",
+      "role": "Detailed chronology and outcome of the 1636–37 Qing invasion"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Injo",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Court strategy and retrospection under Injo and successor reigns"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gang Hong-rip (강홍립)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001497",
+      "role": "1627 negotiations and prior 1619 military contacts"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jianzhou field report (건주문견록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0076457",
+      "role": "Contemporary returned traveller's first-hand account, compiled with personal political interests"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Na Heon collection and Namhan diaries",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011545",
+      "role": "First-person accounts of 1636–1637 siege, surrender and hostage journeys"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.1.7:b01",
+      "title": "The new regime faces its northern neighbour",
+      "paragraphs": [
+        "In 1627 Later Jin forces invaded Joseon, only a few years after Injo's restoration. The conflict emerged in a regional environment transformed by Nurhaci's conquests, competition with Ming and movement of soldiers and people across the frontier. Later Jin commanders had interests in securing their position against Ming and influencing Joseon's conduct, not merely in punishing one Korean king's declarations.",
+        "The aftermath of Yi Gwal's rebellion and the presence of people who had crossed into Later Jin territory added to strategic uncertainty. It is important not to convert every such movement into a single cause of invasion. States made decisions from multiple military, political and economic considerations, and Joseon's new court had not yet rebuilt its full capacity to defend the north."
+      ],
+      "sequence": 1,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "The 1627 and 1636–37 campaigns, royal movements and consequences are documented in the Injo Annals and contextualized by scholarly chronology.",
+          "sourceIndex": 0,
+          "locator": "한국민족문화대백과사전 병자호란: 배경·경과·결과",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.7:b02",
+      "title": "A fast-moving campaign and the limits of the frontier",
+      "paragraphs": [
+        "Later Jin troops moved south into Joseon's northwestern approaches, forcing local commanders to respond before central authorities could coordinate a complete defence. Geography mattered because river crossings, fortresses and roads shaped the capacity to delay an advancing force. A successful attack against one strongpoint could rapidly alter morale elsewhere.",
+        "Chronicle accounts of defeat often assign blame to individual officers, but the practical constraints of supply, communication and recent internal disorder also need evaluation. A kingdom that had survived the Japanese invasions could possess military experience yet still be poorly positioned for a different kind of frontier campaign. Comparisons should specify the terrain, troops and objectives rather than assume previous war automatically produced competence."
+      ],
+      "sequence": 2,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "The 1627 and 1636–37 campaigns, royal movements and consequences are documented in the Injo Annals and contextualized by scholarly chronology.",
+          "sourceIndex": 1,
+          "locator": "조선왕조실록 인조실록, 인조 5년 및 14–15년",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.7:b03",
+      "title": "Royal flight and the temporary refuge",
+      "paragraphs": [
+        "As military danger increased, Injo moved away from the capital toward Ganghwa Island. A monarch's refuge kept royal authority beyond immediate capture but imposed difficult demands on transport, escorts and local populations. The island's maritime access shaped defensive possibilities, while the departure exposed the insecurity of the political centre.",
+        "The distinction between royal safety and broader civilian security is important. A court could preserve negotiating capacity while villages along the invasion route endured requisition, flight and disruption. The written record gives prominent attention to the ruler's movements and elite councils; local petitions and later accounts are needed to recover social consequences. An invasion cannot be measured only by whether the king was captured."
+      ],
+      "sequence": 3,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.7:b04",
+      "title": "Negotiation through imperfect intermediaries",
+      "paragraphs": [
+        "Diplomacy involved messages, interpreters and figures familiar with both polities. Gang Hong-rip, who had been captured after Joseon's 1619 expedition against Later Jin, appears in accounts of the 1627 negotiations. His biography illustrates how war, captivity and pragmatic mediation could complicate rigid categories of loyalty.",
+        "A man once praised as an officer might later be suspected for surrendering or speaking with an adversary. His actions need to be reconstructed within circumstances rather than judged solely through an accusation printed after the fact. Envoys could facilitate temporary compromise while holding very different views about its justice. Negotiation in a crisis involved choosing what concessions the state could survive, not necessarily agreeing on how the relationship should be remembered."
+      ],
+      "sequence": 4,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.7:b05",
+      "title": "A relationship described through brotherhood",
+      "paragraphs": [
+        "The 1627 settlement is commonly characterized as a relationship of brotherhood between Later Jin and Joseon. Such diplomatic language created a framework for ending hostilities without settling all strategic tensions. It could be interpreted differently by each court and did not require the extinction of Joseon's relations with Ming overnight.",
+        "The precise wording and implementation of agreements are important because later claims about broken promises shaped arguments before 1636. Political ritual could permit a fragile peace while military leaders pursued incompatible aims. Calling the arrangement an alliance may suggest more mutual trust than existed. It was a negotiated pause in a changing regional hierarchy, backed by the threat of renewed force."
+      ],
+      "sequence": 5,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.7:b06",
+      "title": "Costs of an inconclusive peace",
+      "paragraphs": [
+        "The departure of the invading army did not restore conditions to those before the campaign. Joseon had faced losses, displacement and pressure on fiscal resources while discovering that its security depended on terms negotiated under duress. Debates over the legitimacy of accommodation continued among officials.",
+        "The experience should not be treated solely as rehearsal for the more famous Qing invasion. For people in affected regions, 1627 was its own episode of violence and survival. The peace created opportunities to improve defences and diplomacy, but also perpetuated the contradiction between Ming loyalty and the reality of Later Jin power. Understanding that unresolved contradiction explains the decade that followed without assuming that another war was inevitable."
+      ],
+      "sequence": 6,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.7:b07",
+      "title": "The treaty's language and its practical limits",
+      "paragraphs": [
+        "The agreement reached after the 1627 invasion was described through relations of brotherhood, a form that could contain unequal military realities without formally making Joseon a conquered Qing province. Later Jin and Joseon could attach different expectations to the same diplomatic wording. Such ambiguity sometimes helps a peace agreement to function temporarily.",
+        "Yet ambiguity also stores future conflict. A court that considered the settlement a limited wartime concession could resist demands that its counterpart regarded as natural extensions of recognition. Officials then faced the problem of deciding when refusing a ceremony protected sovereignty and when it exposed households to another invasion. The historian should connect debates over language with the capacity of armies, not treat diplomacy as empty symbolism."
+      ],
+      "sequence": 7,
+      "label": "Batch W expanded original historical analysis"
+    },
+    {
+      "id": "VII.1.7:b08",
+      "title": "Captivity and mediation",
+      "paragraphs": [
+        "Gang Hong-rip's biography makes visible the difficult position of an officer who survived defeat in 1619 and later participated in communication involving Later Jin. His knowledge of the northern state could be valuable in 1627, while his earlier surrender exposed him to accusations from people who judged loyalty through different standards.",
+        "This is a warning against evaluating all wartime intermediaries by one label. Some sought to reduce casualties, others pursued personal advantage, and individuals could combine several motives. The primary record preserves actions more clearly than private conscience. The possibility of negotiated withdrawal depended partly on people able to cross political boundaries, which made their later reputations especially contested."
+      ],
+      "sequence": 8,
+      "label": "Batch W expanded original historical analysis"
+    },
+    {
+      "id": "VII.1.7:b09",
+      "title": "A forgotten civilian history of 1627",
+      "paragraphs": [
+        "For inhabitants of invaded regions, the withdrawal of armies did not erase loss of grain, animals or family members. Rebuilding a dwelling or restoring cultivation could be more urgent than the court's dispute over the correct diplomatic title. A regional perspective would study the places where troops marched, the timing of planting and evidence of displaced households.",
+        "Court histories rarely supply all these details and can overrepresent the emotional experience of senior officials. That imbalance is an archival problem rather than a reason to ignore commoners. The invasion's historical importance includes both the weakness revealed in Joseon's diplomacy and the renewed pressure on a society still recovering from the earlier Japanese war."
+      ],
+      "sequence": 9,
+      "label": "Batch W expanded original historical analysis"
+    }
+  ]
+}

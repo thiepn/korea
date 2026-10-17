@@ -1,0 +1,142 @@
+{
+  "id": "VI.1.9",
+  "title": "The Accession of Sejong and the Stabilization of the Founding Order",
+  "kicker": "EARLY JOSEON · SUCCESSION AND INSTITUTIONS",
+  "description": "Historically grounded examination of the accession of sejong and the stabilization of the founding order, with explicit criticism of the later dynastic record.",
+  "release": "W",
+  "sourceStatus": "Original narrative using retrospective Joseon annals and NIKH commentary; source anchors are contextual, not page-by-page claim certification.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Primary dynastic annals for Jeongjong, Taejong and Sejong; retrospectively compiled"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Editorial commentary on Joseon royal annals",
+      "url": "https://sillok.history.go.kr/intro/haejae.do",
+      "role": "Primary-text formation and competing revisions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Taejong Annals prefatory narrative",
+      "url": "https://sillok.history.go.kr/id/kca_000",
+      "role": "Genealogical representation and successor-state legitimacy"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "History textbook account of the founding rulers",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_p102r_0010_0010",
+      "role": "Later historiography, not contemporary testimony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.1.9:b01",
+      "title": "A succession resolved within living memory of strife",
+      "paragraphs": [
+        "Sejong ascended the throne in 1418, less than three decades after the founding of Joseon. The dynasty had already survived the first and second strifes of princes, relocations of court residence and efforts to suppress private armies. The accession therefore represented a test of whether the restructured monarchy could transfer authority without another armed contest among royal relatives.",
+        "Sejong's reputation for scholarship and humane governance should not be used to erase the political circumstances of his appointment. Taejong's court considered succession within a hierarchy of sons and recognized offices. The decision to set aside the former heir and advance the future Sejong was made within a family and ministerial network bearing memories of earlier crises. The absence of renewed civil war was an achievement of political design as much as personal merit."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The royal chronicles record the early Joseon succession struggles, Taejong's reign and Sejong's accession but retrospectively privilege the victorious dynastic line.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록: 정종실록·태종실록·세종실록; 왕대별 해제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.9:b02",
+      "title": "The passing over of the earlier crown prince",
+      "paragraphs": [
+        "The choice of Sejong followed dissatisfaction with the conduct and suitability of his elder brother, who had held the crown-prince position. Accounts in the annals describe behaviour by the previous heir and the court's assessment of it; they should not be treated as wholly disinterested biographies. A change of heir often generates later explanations emphasizing the virtues of the eventual king.",
+        "The new succession settlement depended on acceptance by royal family members, officials and those managing military power. The decisive difference from 1398 and 1400 was the absence of rival princely armies openly contesting the throne. That did not mean every courtier agreed about the choice. It meant disagreement could be contained within a stronger institutional framework."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The royal chronicles record the early Joseon succession struggles, Taejong's reign and Sejong's accession but retrospectively privilege the victorious dynastic line.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록: 정종실록·태종실록·세종실록; 왕대별 해제",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.9:b03",
+      "title": "Taejong as retired ruler",
+      "paragraphs": [
+        "Taejong stepped down yet remained influential, an arrangement that gave Sejong access to a powerful predecessor's guidance and a potential source of constraint. Retired royal authority could stabilize policy when ministers were uncertain how quickly to follow a younger ruler. It could also blur the division between the reigning monarch's commands and those of his father.",
+        "In studying the early reign, the historian should distinguish decisions attributable to Sejong from policies continued or supervised under Taejong. Later admiration for Sejong sometimes transforms the accession into the beginning of a wholly new age. Institutional change is usually less abrupt. The new king inherited officials, archives, tax structures, military arrangements and diplomatic relationships that had been shaped over thirty years."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.9:b04",
+      "title": "Government as recordkeeping and consultation",
+      "paragraphs": [
+        "The stability of the early fifteenth-century court enabled more sustained use of scholarly advisers and technical expertise. Documents, petitions, deliberations and examinations mattered because they allowed a government to respond without relying solely on personal charisma. Yet the ability to consult did not make Joseon an equal representative government.",
+        "Learned officials were recruited through hierarchical structures in which social status, connections and examinations all affected opportunity. Their recommendations could conflict with the monarch's wishes, while commoners' concerns were usually filtered through local administration. The quality of governance depended on the treatment of those concerns rather than simply the number of books read at court. Sejong's institutional inheritance provided resources but also carried limits."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.9:b05",
+      "title": "Diplomacy and security after the accession",
+      "paragraphs": [
+        "The court under Sejong continued to manage its relationship with Ming, northern frontier communities and maritime contacts. The monarchy could plan more consistently because immediate disputes among princes no longer dominated every decision. Diplomatic continuity nevertheless required officials familiar with envoys, documents and the practical risks of border incidents.",
+        "It is tempting to portray the reign as peaceful scholarship detached from conflict. In fact rulers needed revenue, defence and effective provincial communication to sustain any program of learning or welfare. The stabilizing early political settlement made later achievements possible, but did not guarantee their success. The need to secure the frontier and feed the population remained central to royal responsibility."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.9:b06",
+      "title": "What the accession reveals about the founding generation",
+      "paragraphs": [
+        "By 1418 the dynasty had developed procedures capable of moving the crown from a forceful consolidator to a younger monarch without immediate dynastic destruction. This does not retrospectively legitimate every killing or punishment during the preceding generation. Institutional resilience and coercive origins can coexist.",
+        "The transition marks a useful endpoint to the founding Chapter because the central dilemmas of 1392 were now answered more securely: who held the throne, how ministers served it, where governing authority resided and how succession was organized. But their solutions remained contingent and subject to later historical change. The next generations would continue to redefine the early Joseon settlement rather than merely execute a perfect plan written at its founding."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "VI.1.9:b07",
+      "title": "An inherited structure makes royal learning possible",
+      "paragraphs": [
+        "Sejong's later intellectual initiatives depended on resources assembled under earlier kings: officials capable of keeping records, a functioning fiscal administration and court spaces in which scholars could deliberate. A monarch might sponsor ambitious scholarship only when government could support salaries, books and material work.",
+        "Such dependence does not reduce Sejong's accomplishments to the actions of predecessors. It places them in an institutional history. The accession of 1418 joins the stability created by Taejong's reforms to the initiatives associated with Sejong's reign. This continuity is more persuasive than a narrative of an isolated genius who transformed Joseon without inheriting its administrative tools."
+      ],
+      "sequence": 7,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.9:b08",
+      "title": "The elder brother's displaced claim",
+      "paragraphs": [
+        "Replacing an earlier crown prince was politically sensitive because it altered expectations among royal relatives and the officials associated with them. The chronicles provide accounts of conduct used to justify the change, but the outcome should prompt scrutiny of how dynastic historians described those who were passed over.",
+        "A designated heir's suitability was evaluated through moral language in a court where obedience to the throne remained fundamental. The formal change nevertheless required political management. The absence of a war between brothers reflects the success of a stronger succession framework, while not proving that every affected relative accepted the decision enthusiastically or without loss."
+      ],
+      "sequence": 8,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.9:b09",
+      "title": "What counts as stabilisation",
+      "paragraphs": [
+        "A peaceful accession demonstrates something about control of forces and the use of recognised offices, but it does not reveal complete harmony among ministers or households. The state still had to manage taxation, frontier defence and elite competition. Stability was relative to the prior generation's armed dynastic crises.",
+        "The founding Chapter ends with a government whose institutions had become capable of more sustained policy, not a society in which every problem was resolved. This distinction makes subsequent chapters meaningful. Sejong's reign could develop new directions because the monarchy survived and consolidated; it also inherited unresolved inequalities and responsibilities that no accession alone could erase."
+      ],
+      "sequence": 9,
+      "label": "Batch W extended original scholarship"
+    }
+  ]
+}

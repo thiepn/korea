@@ -1,0 +1,148 @@
+{
+  "id": "VII.1.8",
+  "title": "Ming Loyalty, Manchu Power, and the Road to a Second Invasion",
+  "kicker": "LATER JIN AND QING · INVASIONS AND AFTERMATH",
+  "description": "A source-conscious account of ming loyalty, manchu power, and the road to a second invasion, distinguishing Qing/Joseon claims, firsthand diaries and later national memory.",
+  "release": "W",
+  "sourceStatus": "Original synthesis; palace annals and later commemorations are interested evidence, supplemented by AKS chronology and firsthand diarists.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "The Manchu invasion of 1636–1637 (병자호란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0023151",
+      "role": "Detailed chronology and outcome of the 1636–37 Qing invasion"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Injo",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Court strategy and retrospection under Injo and successor reigns"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gang Hong-rip (강홍립)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001497",
+      "role": "1627 negotiations and prior 1619 military contacts"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jianzhou field report (건주문견록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0076457",
+      "role": "Contemporary returned traveller's first-hand account, compiled with personal political interests"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Na Heon collection and Namhan diaries",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011545",
+      "role": "First-person accounts of 1636–1637 siege, surrender and hostage journeys"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.1.8:b01",
+      "title": "The rise of Later Jin and the reconfiguration of power",
+      "paragraphs": [
+        "The state established by Nurhaci in 1616 expanded through military and political consolidation among Jurchen and other northeastern communities. Its rise challenged Ming authority in Liaodong and transformed Joseon's longstanding assumptions about regional security. Joseon's northern border was no longer adjacent to the same political landscape that existed during the Japanese invasions.",
+        "A court interpreting these changes through the moral framework of gratitude to Ming might consider switching allegiance dishonourable. Yet military officials also assessed the strength of the new neighbour and the need to protect frontier households. These positions were not always mutually exclusive; decisions concerned timing, language and the precise obligations each policy implied. Historical analysis must recover the problem as contemporaries saw it, not only as later victors remembered it."
+      ],
+      "sequence": 1,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "The 1627 and 1636–37 campaigns, royal movements and consequences are documented in the Injo Annals and contextualized by scholarly chronology.",
+          "sourceIndex": 0,
+          "locator": "한국민족문화대백과사전 병자호란: 배경·경과·결과",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.8:b02",
+      "title": "The consequences of the 1627 settlement",
+      "paragraphs": [
+        "The brotherly arrangement after the first invasion created expectations about communication, political conduct and mutual standing. Later Jin's growing strength made earlier language increasingly uncomfortable for its leadership. Joseon officials, meanwhile, could view the settlement as a necessary temporary accommodation rather than a permanent renunciation of Ming-centered diplomacy.",
+        "Disagreement about what the treaty required created repeated opportunities for friction. A disputed embassy, ceremonial formula or tribute demand could become politically loaded because recognition of status affected the domestic legitimacy of both courts. The wording of correspondence was therefore not empty formality. It served as a practical instrument through which unequal and changing power was negotiated."
+      ],
+      "sequence": 2,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "The 1627 and 1636–37 campaigns, royal movements and consequences are documented in the Injo Annals and contextualized by scholarly chronology.",
+          "sourceIndex": 1,
+          "locator": "조선왕조실록 인조실록, 인조 5년 및 14–15년",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.8:b03",
+      "title": "Hong Taiji, imperial proclamation and Qing",
+      "paragraphs": [
+        "Hong Taiji succeeded Nurhaci and continued the consolidation of the northern state. In 1636 he adopted an imperial title and the dynastic name Qing, presenting a new claim to supreme regional standing. For Joseon, the change intensified the question of whether an existing relationship with Later Jin could survive when its ruler demanded a different hierarchy.",
+        "The calendar and terminology of these developments require precision. Sources written after Qing victory sometimes make the new imperial order appear inevitable, while Joseon memorials framed refusal as fidelity to moral principle. Neither perspective exhausts the strategic choices available at each moment. The transition of the state's name mattered, but the armies, commanders and resources that gave the claim force had been accumulating over earlier decades."
+      ],
+      "sequence": 3,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.8:b04",
+      "title": "Embassies as tests of recognition",
+      "paragraphs": [
+        "Diplomatic delegations carried letters, gifts and instructions whose details could be interpreted as acknowledgment or insult. Public ceremonies involving the emperor's title and envoy reception became arenas where officials debated whether concession would preserve peace or compromise Joseon's integrity. A posture that satisfied domestic opponents might be read abroad as deliberate defiance.",
+        "The surviving records devote considerable attention to disputes among court officials, but they may exaggerate the importance of particular speeches because such debates provided later historians with memorable moral examples. A nuanced account puts rhetoric beside troop movements, supply conditions and the Qing leadership's calculations. Diplomacy did not occur in a vacuum where the most eloquent argument could compensate for an expanding disparity of force."
+      ],
+      "sequence": 4,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.8:b05",
+      "title": "Fortresses, supplies and divided strategic advice",
+      "paragraphs": [
+        "After 1627, Joseon had reasons to improve its northern and central defensive arrangements. Fortifications could delay an attacker, but only if properly provisioned and connected to forces able to relieve them. In an emergency, the decision to protect the king could compete with plans to hold border positions or defend population centres.",
+        "Officials differed over how far military preparation should be combined with conciliatory diplomacy. Avoiding visible concession could maintain elite solidarity while increasing the chance of coercive war, but accommodation also carried risks of further demands. A historical judgment must compare the actual alternatives and constraints. It cannot assume an unlimited military budget or knowledge of what Qing commanders would decide in future months."
+      ],
+      "sequence": 5,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.8:b06",
+      "title": "From diplomatic impasse to renewed invasion",
+      "paragraphs": [
+        "The failure to settle ceremonial and geopolitical claims contributed to the Qing decision to invade in late 1636. That choice belonged to the Qing state and reflected its leaders' strategic priorities, while Joseon's responses shaped the immediate diplomatic crisis. The invasion was not simply a mechanically triggered moral punishment for bad manners.",
+        "The road to war involved years of ambiguous commitments, competing loyalties and efforts to defend sovereign standing in a changing region. Contingency matters: other messages, decisions or military arrangements might have altered timing or some consequences. Yet by 1636 Joseon confronted an adversary capable of moving forces rapidly and imposing terms. The structural imbalance narrowed available options and made failure extraordinarily costly."
+      ],
+      "sequence": 6,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VII.1.8:b07",
+      "title": "The Qing proclamation changes the stakes",
+      "paragraphs": [
+        "When Hong Taiji adopted imperial status and the dynastic name Qing in 1636, the change asserted a new rank in a diplomatic world that Joseon had understood through the Ming empire. The question was not only whether to send an envoy but what political relationship the envoy's words would acknowledge. A court that accepted the new title could appear to abandon Ming-centred legitimacy.",
+        "The Qing leadership, however, had armies and a growing territorial network capable of enforcing its demands. Symbolic refusal and military resistance could no longer be discussed as separate matters. This does not mean Joseon's ministers had no principled reason to object. It means an evaluation of their choices must include the material consequences for the people whose homes and lives stood between competing imperial projects."
+      ],
+      "sequence": 7,
+      "label": "Batch W expanded original historical analysis"
+    },
+    {
+      "id": "VII.1.8:b08",
+      "title": "The limits of fortification",
+      "paragraphs": [
+        "Building or repairing walls could improve the ability of defenders to resist, but a fortress required trained troops, provisions, communications and possible relief forces. Plans for northern defence could not guarantee the king's security if invaders moved faster than the court expected. Decisions over where to store supplies and where the royal family could withdraw were therefore strategic choices with consequences in 1636.",
+        "In later memory, particular fortresses are often judged by whether they were held or abandoned. Such verdicts should be tested against their actual mission, supply condition and the information commanders possessed. A defensive system is a network, not merely a set of strong walls. Its failure may reflect coordination and geography even when some individual defenders fought effectively."
+      ],
+      "sequence": 8,
+      "label": "Batch W expanded original historical analysis"
+    },
+    {
+      "id": "VII.1.8:b09",
+      "title": "No simple counterfactual about appeasement",
+      "paragraphs": [
+        "A later reader may conclude that concessions to Qing would certainly have prevented war, or that earlier resistance could have forced a better peace. Neither statement is established merely by knowing the eventual defeat. Qing's leaders had strategic aims extending beyond Joseon, while Korean diplomatic choices could alter costs, timing and justification.",
+        "Responsible counterfactual discussion separates plausible alternatives from guaranteed outcomes. The historical record establishes the escalating demands, debates and preparations. It does not reveal what an enemy court would have done under every different response. The deepest explanation combines unequal power, contested international legitimacy and particular human decisions rather than assigning the entire crisis to one diplomatic error."
+      ],
+      "sequence": 9,
+      "label": "Batch W expanded original historical analysis"
+    }
+  ]
+}

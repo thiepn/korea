@@ -1,0 +1,148 @@
+{
+  "id": "VI.1.5",
+  "title": "Taejo's Court, Royal House, and Founding Coalition",
+  "kicker": "FOUNDING JOSEON · 1388–1398",
+  "description": "An evidence-aware historical narrative on taejo's court, royal house, and founding coalition, separating the retrospective royal annals from events, political claims and later memory.",
+  "release": "W",
+  "sourceStatus": "Original editorial history with selective primary chronicle and institutional anchors; interpretive statements are attributed contextually, not presented as independent peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Taejo and Jeongjong",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Primary court chronicle; retrospective, royal and elite-centred accounts"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Editorial introduction to the Taejo Annals",
+      "url": "https://sillok.history.go.kr/intro/haejae.do",
+      "role": "Compilation history, dynastic legitimation and manuscript provenance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jeong Mong-ju (정몽주)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0050190",
+      "role": "Late Goryeo reform, opposition to dynastic overthrow and death in 1392"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical textbook account of Taejo's accession and early Joseon",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_p102r_0010_0010",
+      "role": "A later educational account, to be read critically rather than as contemporary testimony"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Taejong Annals prefatory narrative",
+      "url": "https://sillok.history.go.kr/id/kca_000",
+      "role": "Retrospective royal self-presentation and succession politics"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.1.5:b01",
+      "title": "The founder's court was a coalition, not a family portrait",
+      "paragraphs": [
+        "Taejo's early court included commanders, administrators and scholars whose cooperation had enabled the change of dynasty. Figures such as Bae Geuk-ryeom, Jo Jun and Jeong Do-jeon carried different forms of influence into the new state. Court office provided access to policy, honors and resources, but it did not erase their earlier connections to Goryeo or the different reasons they supported accession.",
+        "A political coalition can be united about replacing a dynasty while disagreeing on what comes next. Some valued the authority of ministers, others the power of the royal clan or the military leadership. Every allocation of appointments and hereditary honors could shift the balance. The first court's problem was to turn useful allies into a stable hierarchy without creating a rival center strong enough to displace the monarch."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "The late Goryeo–early Joseon political transition is reported in retrospective royal annals and institutional historical commentary, whose partisan framing requires criticism.",
+          "sourceIndex": 0,
+          "locator": "조선왕조실록 태조실록·정종실록 왕대별 기록",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.5:b02",
+      "title": "Royal marriages and the distribution of power",
+      "paragraphs": [
+        "Taejo's family relationships linked dynastic rule to influential households and provided multiple lines through which royal offspring could claim standing. His sons were not simply heirs in an uncomplicated queue; their maternal connections, political supporters and military experience mattered. The position of Queen Sindeok and her sons became particularly consequential when the court addressed succession.",
+        "Marriage served diplomacy within the elite, but treating women only as instruments of male alliances is incomplete. Royal women had household establishments, ritual standing and influence over networks of service, even though the chronicles foreground male officeholders. Their agency is difficult to reconstruct because later narratives were shaped by the succession winners. Historians should neither erase it nor invent specific interventions for which the evidence is absent."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "The late Goryeo–early Joseon political transition is reported in retrospective royal annals and institutional historical commentary, whose partisan framing requires criticism.",
+          "sourceIndex": 1,
+          "locator": "조선왕조실록 왕대별 해제: 태조실록 편찬 및 개수 경위",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.1.5:b03",
+      "title": "Merit subjects and the work of commemoration",
+      "paragraphs": [
+        "The new state issued honors and classifications to participants in its founding, creating a recognized group of meritorious subjects. Such registers could bring privilege to families and establish public versions of who had made the dynasty possible. They were not neutral histories of every participant's actual contribution.",
+        "A name's position in an honors list could reflect contemporary power, relationships and later political changes. When factions lost influence, accounts of their actions were vulnerable to reinterpretation. Studying meritorious subjects therefore reveals both genuine institutional reward and the construction of an official memory. These lists illuminate a particular elite coalition more directly than they describe the wishes of ordinary cultivators who paid the revenues supporting the government."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.5:b04",
+      "title": "Court factions and the problem of the prince",
+      "paragraphs": [
+        "The royal household contained adult sons who had participated in the upheavals before 1392. Yi Bang-won, later Taejong, had accumulated military and political experience and would not automatically accept a subordinate role in a succession arrangement that excluded him. Jeong Do-jeon's vision of strong ministerial institutions intersected with the problem of controlling princely armed followers.",
+        "Neither side should be reduced to a single abstract principle. A prince seeking a secure position could appeal to his service in the founding, while ministers might fear that princes with independent troops would undermine the government. Royal succession was therefore also a question of how coercive capacity should be organized. This made a constitutional dispute potentially violent well before the first strife of princes."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.5:b05",
+      "title": "Provincial offices kept the court alive",
+      "paragraphs": [
+        "The prestige of royal kin and central ministers depended on the ability to extract and distribute resources throughout the country. Provincial administrators managed registers, public order, transport and correspondence with central government. A ceremonial court with no routine revenue could not reward followers or maintain military forces.",
+        "The new dynasty inherited many working practices from Goryeo while trying to recast them in a reformist ideological vocabulary. That continuity could improve administrative stability and also preserve entrenched inequalities. Farmers, artisans and local clerks did not experience the founding simply as a series of names in the palace; they encountered changes through tax claims, requisitions and jurisdiction. Their relative silence in royal chronicles is a source limitation that a comprehensive narrative must acknowledge."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.5:b06",
+      "title": "The fragility concealed by the image of a founder",
+      "paragraphs": [
+        "Later depictions of Taejo often present an august ruler at the centre of a coherent new order. The first six years instead involved negotiations over government, capital, foreign recognition and the rivalry of sons and ministers. The very strength of Yi Seong-gye as the founding commander did not settle succession after his eventual retirement.",
+        "The political catastrophe of 1398 showed how quickly coalition disagreement could turn into royal violence. This does not mean the founding was merely a failed project: much of the administrative framework survived. It means that the court's achievements and its fractures developed together. A history written backward from Joseon's centuries of endurance risks hiding the serious possibility that the new dynasty could have been torn apart during its first generation."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.1.5:b07",
+      "title": "Merit classifications as political technology",
+      "paragraphs": [
+        "Rewarding founding supporters through ranks and honours created expectations about access to office, income and prestige. An award did more than celebrate earlier sacrifice: it could secure current loyalty and provide a public map of which families stood near the new sovereign. The classification of merit therefore operated as a political instrument amid the uncertainties of succession.",
+        "The list of honoured men cannot be assumed to record every participant equally. Supporters who died, lost favour or served outside the central court might receive different treatment, and later revisions could transform a family's standing. To reconstruct the founding coalition, historians must compare honors with biographies, dates of appointments and subsequent conflicts. That method exposes the shifting alliance beneath the apparently fixed category of founding merit."
+      ],
+      "sequence": 7,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.5:b08",
+      "title": "The court's dependence on professional personnel",
+      "paragraphs": [
+        "A dynasty changing its royal house could not replace every local clerk and experienced administrator without crippling daily government. Knowledge of tax records, storehouses, transport and ritual procedures was distributed across institutions inherited from Goryeo. The new court depended upon that expertise even as it spoke of moral renewal.",
+        "This continuity qualifies an image of complete institutional rupture. Some officials served successive governments because their work was needed; others faced exclusion or chose withdrawal. They did not all make the same political calculation. Their experiences show that political order was sustained by practical competence as well as royal legitimacy. The state existed wherever a clerk could carry out an order, a soldier received supplies or a district could communicate with the capital."
+      ],
+      "sequence": 8,
+      "label": "Batch W extended original scholarship"
+    },
+    {
+      "id": "VI.1.5:b09",
+      "title": "The royal household as an administrative institution",
+      "paragraphs": [
+        "A queen, royal sons and their households were not simply private relatives of the monarch. They possessed attendants, property relationships and access to individuals seeking influence. Their political significance became especially visible when maternal connections and heir selection divided Taejo's court.",
+        "The extant chronicles focus on princes' conflicts and ministers' accusations. That narrative emphasis should not erase the administrative and economic weight of royal women's establishments. Nor should it license invented conspiracies about specific queens. A source-critical account recognizes that family organisation structured access to power, while leaving uncertain the unrecorded intentions of people who later compilers described through the interests of victors."
+      ],
+      "sequence": 9,
+      "label": "Batch W extended original scholarship"
+    }
+  ]
+}

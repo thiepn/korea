@@ -1,0 +1,148 @@
+{
+  "id": "VII.1.2",
+  "title": "Postwar Restoration under Seonjo: Population, Agriculture, Military, and Administration",
+  "kicker": "POSTWAR JOSEON · RECONSTRUCTION AND REGIME CHANGE",
+  "description": "An analytical narrative on postwar restoration under seonjo: population, agriculture, military, and administration, using the court annals with NIKH and AKS commentary on factional source bias.",
+  "release": "W",
+  "sourceStatus": "Original historical synthesis with source-critical contextual locators; court accusations and royal self-justification are not treated as neutral testimony.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annals of the Joseon Dynasty: Seonjo, Gwanghaegun, Injo",
+      "url": "https://sillok.history.go.kr/main/main.do",
+      "role": "Royal court chronicles; Gwanghaegun journal survives in variant recensions and requires source criticism"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwanghaegun (광해군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005335",
+      "role": "Court politics, postwar restoration and Later Jin/Ming diplomacy"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Yi Gwal's Rebellion (이괄의 난)",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i305000",
+      "role": "Verified 1624 rebellion chronology, coup coalition and displacement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gang Hong-rip (강홍립)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001497",
+      "role": "1619 Sarhu campaign, Korean expedition and difficult captivity record"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jianzhou observations (건주문견록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0076457",
+      "role": "Returned envoy's report and its personal strategic interests"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VII.1.2:b01",
+      "title": "Recovery as an unfinished task under Seonjo",
+      "paragraphs": [
+        "The Japanese armies' withdrawal in 1598 ended the great invasions but did not reverse years of destruction. Fields had been abandoned, transport corridors disrupted and royal institutions strained by military provisioning. Seonjo's final decade confronted the gap between formal peace and everyday recovery. The government needed revenue and people to cultivate the countryside, yet heavy demands could make a household's return impossible.",
+        "Descriptions of national desolation need to be grounded in regional evidence. Fighting and requisition differed by location, and some villages retained productive capacity while others had lost buildings, tools and neighbours. An account of restoration should identify the purpose of each measure and the conditions under which it could operate. Court proclamations of relief were meaningful, but their presence in the annals does not prove that every district received sufficient assistance."
+      ],
+      "sequence": 1,
+      "label": "Original narrative · postwar institutions",
+      "evidence": [
+        {
+          "claim": "Joseon court annals and independent Korean institutional chronology situate the recovery era and the 1623–24 regime crisis, though dynastic narratives are retrospective.",
+          "sourceIndex": 0,
+          "locator": "선조실록·광해군일기·인조실록 사료열람",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.2:b02",
+      "title": "The population absent from the register",
+      "paragraphs": [
+        "War had scattered families through flight, captivity and death. The state relied on household registers to distribute obligations, but damaged records could not reliably identify everyone available for service. Restoring population knowledge involved officials, village leaders and the people whose circumstances might not fit earlier categories.",
+        "A household could have reason to seek registration as a protection of property and legal identity, while also fearing that recorded adults would be assigned burdens they could not bear. Negotiation, concealment and imperfect reporting should not automatically be labelled administrative incompetence. They were responses to harsh conditions. An elite court history usually records the need to rebuild registers more clearly than the conflicting incentives of individual households."
+      ],
+      "sequence": 2,
+      "label": "Original narrative · postwar institutions",
+      "evidence": [
+        {
+          "claim": "Joseon court annals and independent Korean institutional chronology situate the recovery era and the 1623–24 regime crisis, though dynastic narratives are retrospective.",
+          "sourceIndex": 2,
+          "locator": "우리역사넷 한국사 연대기: 이괄의 난, 1624년",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VII.1.2:b03",
+      "title": "Fields and the fiscal cycle",
+      "paragraphs": [
+        "Agricultural recovery depended on seed grain, irrigation, draught animals, labour and several successful seasons. A kingdom could not simply decree an increase in cultivated acreage; cultivation required reliable access to land and enough reserves to survive until harvest. Damage to irrigation works or the absence of neighbours capable of shared maintenance made individual effort insufficient.",
+        "The central government also needed taxes to support defence and administration. Lowering immediate burdens could help restore the future base of revenue, while collecting too soon could push families into flight or indebtedness. Court debates about exemptions and land surveys therefore reveal more than a budget problem. They show a contradiction between the desire to repair the agrarian economy and the state's need to fund recovery from that same economy."
+      ],
+      "sequence": 3,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.2:b04",
+      "title": "Military institutions rebuilt under pressure",
+      "paragraphs": [
+        "The wartime defence effort had revealed weaknesses in mobilization, training, coordination and supplies. Postwar officials assessed how to maintain effective forces without sustaining the full expense of wartime emergency commands. New military arrangements required skilled personnel and secure finance, both scarce in a devastated society.",
+        "Military reform cannot be treated as separate from agrarian reconstruction. Soldiers came from households that cultivated food, and fortification projects competed with urgent civilian needs for labour and materials. A planned garrison might look effective in an edict yet remain under-supplied in practice. The continuing insecurity of the northern frontier made complete demobilization risky; the state had to build capacity without provoking further local distress."
+      ],
+      "sequence": 4,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.2:b05",
+      "title": "Factional distrust survived the war",
+      "paragraphs": [
+        "The long invasions damaged confidence in political leadership and intensified divisions among elite factions. Officials disputed responsibility for earlier failures, appointments and the distribution of honours. Seonjo's court remained a place where judgments about loyalty and competence could carry consequences far beyond the original episode.",
+        "Those conflicts mattered for reconstruction because stable appointments and cooperation were difficult when factions feared that rivals would exploit failures. Yet it is inadequate to blame every administrative shortcoming on factionalism. Materials and labour were genuinely scarce, and geographic damage could not be undone through better etiquette. Political rivalries shaped how the state allocated limited capacity, while material conditions constrained every faction's programme."
+      ],
+      "sequence": 5,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.2:b06",
+      "title": "Japan, Ming and the changing horizon",
+      "paragraphs": [
+        "The end of the invasions left Joseon bound by memories of Ming military assistance and concerned about how to normalize communication across the sea with Japan. Diplomatic recovery involved prisoners, envoys and practical border arrangements rather than a simple return to prewar routine. Seonjo's government could not know that the strongest threat in subsequent decades would emerge from the expanding Later Jin to the north.",
+        "Reconstruction therefore required decisions with incomplete knowledge about the region's future balance of power. Ministers could reasonably prioritize different dangers, but posterity should not read the 1636 crisis backward as though all choices after 1598 had one inevitable destination. Seonjo's postwar period established institutional and diplomatic problems that successors inherited and transformed."
+      ],
+      "sequence": 6,
+      "label": "Original narrative · postwar institutions"
+    },
+    {
+      "id": "VII.1.2:b07",
+      "title": "The danger of counting empty fields as empty country",
+      "paragraphs": [
+        "Officials seeking to restore taxation often measured land in categories reflecting expected revenue rather than producing a comprehensive environmental survey. A damaged field might remain registered while its cultivators had fled, and a household might return without the tools required to farm. Numbers from administrative rolls therefore need interpretation in their institutional context.",
+        "The extent of recovery also varied over time. A temporary exemption could permit cultivation to resume while reducing immediate state income, but the government needed resources for defence and official salaries. Comparing such measures across districts helps explain why apparently consistent policy produced uneven outcomes. The important relationship is between state knowledge, household capacity and the long rebuilding of the tax base, not an unexamined nationwide recovery percentage."
+      ],
+      "sequence": 7,
+      "label": "Batch W expanded original historical analysis"
+    },
+    {
+      "id": "VII.1.2:b08",
+      "title": "Different memories produced different political expectations",
+      "paragraphs": [
+        "Families that experienced Japanese violence, soldiers who fought alongside Ming contingents and officials who witnessed evacuation could remember the war through different episodes. Court commemoration honoured particular forms of loyalty, yet practical recovery often required returning to commerce and managing old debts. The state could not simply prescribe one emotional or diplomatic response to the experience.",
+        "These memories shaped the politics of the next generation. Appeals to gratitude toward Ming carried weight because assistance had been vital in the invasions; concern about fiscal exhaustion also carried weight because households had lived with military demands. It was possible for both views to be held sincerely. Their interaction explains later disagreements better than treating one faction as moral and the other as exclusively calculating."
+      ],
+      "sequence": 8,
+      "label": "Batch W expanded original historical analysis"
+    },
+    {
+      "id": "VII.1.2:b09",
+      "title": "Why reconstruction belonged to provincial society",
+      "paragraphs": [
+        "The capital could issue orders and allocate official titles, but the recovery of local roads, irrigation and farmland depended on particular people in the districts. Village networks had to organize labour and resolve claims when earlier occupants had died or migrated. Local officials mediated central programmes through knowledge of community relations.",
+        "Such mediation was uneven and sometimes exploitative. A powerful landholder could secure favourable interpretations of an assessment while a poorer cultivator lacked means to appeal. The records preserve enough examples to require scrutiny of implementation, but rarely enough to quantify every injustice. A grounded account combines central reform with local social history while refusing to imagine either effortless state benevolence or universal failure."
+      ],
+      "sequence": 9,
+      "label": "Batch W expanded original historical analysis"
+    }
+  ]
+}
