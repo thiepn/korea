@@ -1,0 +1,136 @@
+{
+  "id": "VIII.4.2",
+  "title": "The Proclamation of the Korean Empire and the Politics of Imperial Sovereignty",
+  "kicker": "KOREAN EMPIRE · REFORM AND SOVEREIGNTY",
+  "description": "Historical analysis of the proclamation of the korean empire and the politics of imperial sovereignty based on dated Korean Empire institutions and critical source reading.",
+  "release": "V",
+  "sourceStatus": "Original historical synthesis; NIKH period analyses are institutional scholarship, not direct transcripts of private political motives.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gojong and the Korean Empire's reforms and setbacks",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0010",
+      "role": "Chronology of 1896–1904, Independence Club and Gwangmu reform institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Chronology: Korean Empire and Gwangmu Reform",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401000",
+      "role": "1897 elevation, 1899 Constitution, reform frameworks and disputes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangmu Reform (광무개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005118",
+      "role": "Survey of land, military and commercial reforms and implementation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Land title certificate (지계)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0081002",
+      "role": "1898–1903 survey and legal property documentation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Imperial palace ministry and political reform",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0030_0020_0040",
+      "role": "Royal intermediaries, civil administrative overlap and reform institutions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.4.2:b01",
+      "title": "Why kingship became empire",
+      "paragraphs": [
+        "Gojong's elevation to emperor in October 1897 was a claim about Korea's place in a rapidly changing international order. Under older diplomatic conventions the Joseon king occupied a rank below the Chinese emperor. In an environment shaped by foreign treaties and competing empires, imperial status offered a symbolic way to assert sovereign equality. The change of title must be read alongside efforts to strengthen governmental capacity.",
+        "The move did not require the creation of a new population or a break with every Joseon institution. It reorganized the public representation of monarchy and supplied a new ceremonial vocabulary for state authority. The use of Daehan and a new era name connected historical memory with contemporary claims to independence. Such symbols mattered because diplomacy and legitimacy depended in part on recognition and ritual, but they could not alone prevent foreign intervention."
+      ],
+      "sequence": 1,
+      "label": "Original evidence-aware historical narrative",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History identifies the 1897 Korean Empire proclamation, 1899 constitutional framework and Gwangmu reforms in land, military and finance.",
+          "sourceIndex": 0,
+          "locator": "주제로 본 한국사: 고종과 대한제국의 개혁과 좌절",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.2:b02",
+      "title": "From the Russian legation to Gyeongungung",
+      "paragraphs": [
+        "Gojong's time at the Russian legation after the upheavals of 1895 made the problem of royal security inseparable from relations with foreign powers. His return to Gyeongungung in 1897 preceded the imperial proclamation and attempts to restore the court's capacity to direct policy. Control of a secure residence, reliable guards and financial resources mattered as much as ceremonial announcement.",
+        "The transition should not be reduced to the idea that one foreign protector simply withdrew and an independent monarchy immediately emerged. Russian, Japanese and other powers continued competing for leverage. Korean officials sought room for independent action among their interests, often with limited instruments. The restoration of visible royal authority was real, while the geopolitical conditions limiting it were equally real."
+      ],
+      "sequence": 2,
+      "label": "Original evidence-aware historical narrative",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History identifies the 1897 Korean Empire proclamation, 1899 constitutional framework and Gwangmu reforms in land, military and finance.",
+          "sourceIndex": 1,
+          "locator": "한국사연대기 대한제국과 광무개혁 (1897~1903)",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.2:b03",
+      "title": "October 1897 and the public ceremony",
+      "paragraphs": [
+        "The ceremony of imperial accession at Hwangudan in October 1897 drew upon forms associated with sovereign rulership. Dates in secondary treatments sometimes distinguish rites, proclamations and public recognition; accounts should specify which act they mean rather than collapse every development into a single day. The political purpose was to place the Korean monarch among emperors rather than subordinated kings in international representation.",
+        "Ritual structures, clothing and state names expressed a deliberate claim to sovereignty. They should not be dismissed as decorative inventions, because public symbols were instruments of rule in an age of treaties and national competition. Yet imperial forms also strengthened a monarchical political project at the same moment constitutional activists were seeking a greater public role. National sovereignty and popular sovereignty were not necessarily the same programme."
+      ],
+      "sequence": 3,
+      "label": "Original evidence-aware historical narrative",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History identifies the 1897 Korean Empire proclamation, 1899 constitutional framework and Gwangmu reforms in land, military and finance.",
+          "sourceIndex": 3,
+          "locator": "한국민족문화대백과사전 지계와 양전사업",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.2:b04",
+      "title": "The legal articulation of imperial power",
+      "paragraphs": [
+        "The Daehanguk Gukje of August 1899 articulated the empire's sovereign position and concentrated authority in the emperor. The document defined the political order in terms that protected royal prerogatives across legislative, executive, judicial, diplomatic and military functions. It can therefore be studied both as a declaration of independence and as a formal defence of autocratic monarchy.",
+        "Calling the instrument a constitution without qualification risks implying that it created representative checks like those in some other modern constitutional systems. It was a legal framework affirming extensive imperial powers. Debates over independence and representative institutions had already exposed alternative ideas of political legitimacy. Reading the 1899 text against those debates shows that Korea's response to foreign pressure involved rival domestic visions, not a single uncontested modernization path."
+      ],
+      "sequence": 4,
+      "label": "Original evidence-aware historical narrative"
+    },
+    {
+      "id": "VIII.4.2:b05",
+      "title": "Relations with foreign governments",
+      "paragraphs": [
+        "Foreign representatives evaluated the new imperial title within their own diplomatic priorities. Some recognition or ceremonial exchange could help Korea express equality, but it did not guarantee that powers would refrain from pressing demands for concessions. The empire had to maintain missions, negotiate agreements and make decisions amid asymmetrical military and economic strength.",
+        "The language of sovereign equality in a treaty is important but does not establish equality of bargaining power. Korea's leaders could use international forms to defend autonomy while facing unilateral pressure from neighbours. Historical assessment should distinguish legal recognition, actual intervention and the varying interests of individual powers rather than infer that every foreign state pursued the same strategy."
+      ],
+      "sequence": 5,
+      "label": "Original evidence-aware historical narrative"
+    },
+    {
+      "id": "VIII.4.2:b06",
+      "title": "The emperor and political participation",
+      "paragraphs": [
+        "Gojong's imperial project depended on a strengthened court, trusted advisers and the capacity to issue policy through governmental institutions. This placed him in conflict with activists who sought meaningful checks on official decisions. The suppression of the Independence Club and the adoption of the 1899 constitutional framework make clear that a sovereign empire did not automatically imply a democratic government.",
+        "The tension should not be simplified into an enlightened public confronting an unchanging feudal monarchy. Court officials pursued technical reform, military rebuilding and fiscal measures that reformist critics might also support. The dispute concerned who could set priorities and hold rulers accountable. Modernization and centralization could advance together, and at some moments the government's reform efforts depended on the very concentration of power activists opposed."
+      ],
+      "sequence": 6,
+      "label": "Original evidence-aware historical narrative"
+    },
+    {
+      "id": "VIII.4.2:b07",
+      "title": "What sovereignty could not secure alone",
+      "paragraphs": [
+        "The new imperial status was a meaningful Korean assertion in the face of a destabilizing regional order. Its effectiveness, however, depended upon taxation, military strength, external alliances and the capacity to regulate concessions and infrastructure. An imperial proclamation could raise diplomatic claims but not supply a navy or dissolve unequal treaties.",
+        "The Korean Empire therefore must be studied as both a constitutional statement and an unfinished effort to build institutions. Its later vulnerability does not prove that the 1897 proclamation was empty from the outset. Nor should the significance of the ritual erase the political choices made afterward. The relationship between sovereign symbols, state capacity and public legitimacy is the central issue connecting this Chapter to the subsequent Gwangmu reforms."
+      ],
+      "sequence": 7,
+      "label": "Original evidence-aware historical narrative"
+    }
+  ]
+}
