@@ -1,0 +1,118 @@
+{
+  "id": "VIII.6.6",
+  "title": "Japanese Settlers, Colonial Hierarchy, and Unequal Political Privilege",
+  "kicker": "COLONIAL KOREA · SOCIETY, SURVEILLANCE AND WAR",
+  "description": "Institutional history of japanese settlers, colonial hierarchy, and unequal political privilege, differentiating legal design, unequal authority and local experience.",
+  "release": "T",
+  "sourceStatus": "Original editorial synthesis with contextual source locators; police archives require source criticism and official labels are not unmediated accounts.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History: Government-General and colonial power",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_047_0010",
+      "role": "Political hierarchy and colonial implementation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "After the March First Movement: Cultural Rule",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_40&levelId=kc_i403000",
+      "role": "1919 institutional reform and police reorganization"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government-General Administrative Structure",
+      "url": "https://theme.archives.go.kr/next/place/outline.do?flag=08",
+      "role": "1910, 1919, 1937, 1943 structural changes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Japanese Colonial Period",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047318",
+      "role": "Unequal settler treatment, wartime state and independence resistance"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Police and Surveillance",
+      "url": "https://db.history.go.kr/modern/level.do?levelId=hdsr_005_0020_0020_0020",
+      "role": "Policing, regulation and surveillance in the colony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.6.6:b01",
+      "title": "A colony inhabited by unequal imperial subjects",
+      "paragraphs": [
+        "Japanese settlers living in colonial Korea could pursue opportunities made available by imperial authority, including public employment, commerce and access to privileged networks. Korean residents encountered a legal and political environment in which their own sovereign state had been displaced. Although imperial rhetoric sometimes described an integrated political family, actual access to important offices and opportunities was unequal.",
+        "This inequality did not mean every settler was wealthy or every Korean poor. There were class divisions within each population, and commercial relationships could cross social boundaries. The crucial issue is structural: Japanese officials and residents generally possessed different means of influencing policy, obtaining appointments or turning to imperial institutions for protection. Historical comparison must examine particular occupations and locations rather than infer each person's status from nationality alone."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사: 조선총독부 기관과 총독 권한",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.6:b02",
+      "title": "The distribution of government posts",
+      "paragraphs": [
+        "Administrative careers reveal the hierarchy of the colonial state. Senior governorships, police leadership and powerful departmental posts were disproportionately filled by Japanese officials. Korean employees were indispensable in clerical, linguistic and local work but faced constraints in advancement and decision-making. A staffing table can show exclusion more clearly than broad descriptions of colonial prejudice.",
+        "The evidence still requires caution about categories. Salaries, rank, security of tenure and power over subordinates may matter more than raw numbers of employees. A Korean clerk could possess local social influence while being formally subordinate to a newly arrived Japanese officer. Equally, some Japanese lower officials could face burdens of work without enjoying the privileges of senior administrators. Institutional inequality must be examined through the actual hierarchy."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 2,
+          "locator": "국가기록원 일제 강점기 조선총독부 행정 체계: 1919·1937·1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.6:b03",
+      "title": "Land, business and settler opportunities",
+      "paragraphs": [
+        "Colonial rule altered property records, agricultural policy and commercial infrastructure. Japanese investors and settlers could benefit from finance, transport systems and official support, while Korean farmers and merchants navigated changing land titles, taxation and markets. The historical question is not whether all economic change was destructive or beneficial, but who controlled it and how coercion affected bargaining.",
+        "A railway or port could connect producers to new markets while also serving imperial extraction and military movement. A land survey might clarify some titles while disadvantaging people unable to establish claims under the new registration system. Evidence should distinguish local experience, long-term structural change and the published claims of colonial officials. Prosperity recorded at the level of aggregate output is not evidence of equal access to income or political power."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.6:b04",
+      "title": "Urban spaces and everyday encounters",
+      "paragraphs": [
+        "Settler neighbourhoods, government buildings, schools and commercial streets made colonial hierarchy visible within cities. Japanese and Korean residents might interact as employers, customers, neighbours and officials while enjoying unequal influence over urban administration. Unequal school opportunities and language policy shaped access to jobs and information.",
+        "Physical segregation was neither complete nor identical across every town. The history of lived inequality needs street-level records, school admission data and evidence about housing, not a blanket assumption that no mixed interaction occurred. Nevertheless the colonial state's ability to plan districts and allocate services made settlement patterns political. Urban modernity was inseparable from struggles about who paid for amenities and who could claim the right to use them."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.6:b05",
+      "title": "Privileges were produced by institutions",
+      "paragraphs": [
+        "The advantages of Japanese residents rested partly on legal status, state staffing decisions, imperial networks and differences in educational access. They were not simply products of personal prejudice. If a Korean applicant lacked access to a qualifying school or a council had no power to challenge discriminatory appointments, formal rules reproduced unequal outcomes without requiring every individual to make an openly hostile statement.",
+        "This institutional explanation does not remove individual responsibility. Officials and settlers could choose to exploit privileges, oppose abuses or participate in reform efforts, and those choices varied. But individual conduct occurred within a system that did not provide Koreans an equal capacity to shape fundamental government policy. Separating structure from biography is necessary for fair analysis of historical actors."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.6:b06",
+      "title": "Comparing inequality across the colonial decades",
+      "paragraphs": [
+        "The relationship between settlers, Korean officials and ordinary households changed between the military-police decade, the period called cultural rule and wartime mobilization. Political reforms could alter access to certain forums without creating equal sovereignty. War could intensify restrictions and economic controls for multiple groups while retaining the empire's hierarchy.",
+        "One should not measure a colony through a single year or one metropolitan neighbourhood. Rural labour, urban education and administrative salaries followed distinct patterns. A carefully dated series of records allows comparison, while anecdote alone risks distortion. The central conclusion remains that empire created unequal political privilege even where material change and social exchange crossed ethnic lines."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    }
+  ]
+}

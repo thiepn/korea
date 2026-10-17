@@ -1,0 +1,118 @@
+{
+  "id": "VIII.6.9",
+  "title": "Post-1919 “Cultural Rule”: Administrative Reform, Managed Participation, and Colonial Control",
+  "kicker": "COLONIAL KOREA · SOCIETY, SURVEILLANCE AND WAR",
+  "description": "Institutional history of post-1919 “cultural rule”: administrative reform, managed participation, and colonial control, differentiating legal design, unequal authority and local experience.",
+  "release": "T",
+  "sourceStatus": "Original editorial synthesis with contextual source locators; police archives require source criticism and official labels are not unmediated accounts.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History: Government-General and colonial power",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_047_0010",
+      "role": "Political hierarchy and colonial implementation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "After the March First Movement: Cultural Rule",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_40&levelId=kc_i403000",
+      "role": "1919 institutional reform and police reorganization"
+    },
+    {
+      "institution": "National Archives of Korea",
+      "title": "Government-General Administrative Structure",
+      "url": "https://theme.archives.go.kr/next/place/outline.do?flag=08",
+      "role": "1910, 1919, 1937, 1943 structural changes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Japanese Colonial Period",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047318",
+      "role": "Unequal settler treatment, wartime state and independence resistance"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Colonial Police and Surveillance",
+      "url": "https://db.history.go.kr/modern/level.do?levelId=hdsr_005_0020_0020_0020",
+      "role": "Policing, regulation and surveillance in the colony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.6.9:b01",
+      "title": "Why the March First Movement forced adjustment",
+      "paragraphs": [
+        "The mass mobilization for Korean independence in 1919 demonstrated the limitations of ruling primarily through visible military policing. The Government-General and imperial policymakers faced a problem of governing an unwilling population while responding to international attention and the costs of repression. Changes announced afterward aimed to stabilize imperial authority, not to concede Korean sovereignty.",
+        "The term cultural rule refers to the administration's effort to replace some overtly military methods with civilian institutions, regulated cultural opportunities and selective consultation. It should be treated as a policy label requiring scrutiny. Historians can recognize genuine changes in administrative technique while identifying continuities in coercive purpose. A government may adjust how it rules precisely because its authority is seriously challenged."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사: 조선총독부 기관과 총독 권한",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.9:b02",
+      "title": "A civilian policing form with continued coercion",
+      "paragraphs": [
+        "The gendarmerie-police system was reorganized into a regular police structure. This could alter uniforms, chains of command and visible daily encounters. Yet the new organization retained extensive powers to investigate dissent and supervise associations, and its personnel and budgets could increase.",
+        "A simple binary of brutal first decade and tolerant second decade is therefore historically misleading. Some people gained space to publish or meet, while others faced intensive surveillance or prosecution. The change must be measured in actual legal powers, staffing, practices and political outcomes. The formal distinction between military and civilian police mattered, but it did not settle the question of freedom."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "Korean institutional histories document the colonial hierarchy, 1919 cultural-rule changes and wartime administrative restructuring.",
+          "sourceIndex": 2,
+          "locator": "국가기록원 일제 강점기 조선총독부 행정 체계: 1919·1937·1943",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.6.9:b03",
+      "title": "Participation without sovereignty",
+      "paragraphs": [
+        "Colonial authorities promoted local councils and other advisory institutions that allowed selected Korean participation in restricted areas. These mechanisms could provide access to information, small administrative influence and a stage for elites seeking change through legal channels. They did not establish a nationally accountable legislature with the authority to end colonial rule.",
+        "Some participants used limited forums to raise practical grievances and advocate for schools or infrastructure. Others were cultivated by the regime as evidence of support. The same meeting could serve both purposes, making interpretation depend on individual statements and the council's actual powers. Political historians should distinguish the opportunity to advise from the right to govern oneself."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.9:b04",
+      "title": "Press and education under constraints",
+      "paragraphs": [
+        "The post-1919 environment included changes to licensing and the possibilities of publication, though censorship and political sanctions remained. Newspapers, literary circles and educational groups used openings to discuss identity, social reform and competing futures. These activities were not all equivalent to a hidden revolutionary organization.",
+        "Colonial authorities also attempted to regulate which forms of expression remained legitimate. A school or magazine might operate while independence advocacy remained dangerous. The resulting cultural field was neither unrestricted pluralism nor total silence. It consisted of contested spaces in which officials, editors, teachers and readers made choices under surveillance and sometimes abrupt closure."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.9:b05",
+      "title": "Divide, recruit and contain",
+      "paragraphs": [
+        "The colonial administration sought cooperation from certain Korean elites and groups while monitoring or isolating others. Such strategies could exploit differences among moderates, nationalists, socialists, religious leaders and local reformers. Those differences were real political disagreements, not necessarily invented by the government.",
+        "Attributing every divergence within Korean society to an imperial conspiracy would erase Korean intellectual agency. Conversely, ignoring the state's deliberate cultivation of compliant intermediaries would make the policy seem merely administrative. The relevant evidence includes official plans, council appointments, censorship decisions and the documented choices of Korean organizations. Repression and selective inclusion were complementary instruments."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "VIII.6.9:b06",
+      "title": "A regime modified but not democratized",
+      "paragraphs": [
+        "Cultural rule changed aspects of daily administration, but the core inequality remained: the Government-General governed a colony whose people had no sovereign power to select or dismiss its rulers. The reform's practical significance lies in its new methods and in the opportunities Koreans created within them, not in the claim that imperial domination was overcome.",
+        "By the 1930s, intensified militarization and wartime demands further altered the policy environment. The preceding period should not be dismissed as meaningless because later repression deepened; its organizations, cultural debates and policing practices were historically consequential. But an interpretation should not celebrate administrative accommodation as a substitute for the independence that protesters in 1919 had demanded."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    }
+  ]
+}
