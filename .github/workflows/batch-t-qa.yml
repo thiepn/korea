@@ -38,5 +38,5 @@ jobs:
         run: python tests/batch_t_journeys.py
       - name: Run actual Cloudflare Pages preview desktop/mobile journeys
         env:
-          KOREA_PREVIEW_URL: https://feat-batch-t-wiman-colonial-state.korea-eo3.pages.dev
+          KOREA_PREVIEW_URL: https://feat-batch-t-wiman-colonial.korea-eo3.pages.dev
         run: python tests/batch_t_preview.py

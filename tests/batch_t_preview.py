@@ -1,7 +1,7 @@
 """Batch T exact Cloudflare Pages branch-preview real-origin Chromium acceptance."""
 import json,os,time
 from playwright.sync_api import sync_playwright
-URL=os.environ.get('KOREA_PREVIEW_URL','https://feat-batch-t-wiman-colonial-state.korea-eo3.pages.dev').rstrip('/')
+URL=os.environ.get('KOREA_PREVIEW_URL','https://feat-batch-t-wiman-colonial.korea-eo3.pages.dev').rstrip('/')
 with sync_playwright() as pw:
     browser=pw.chromium.launch(headless=True,args=['--no-sandbox','--disable-dev-shm-usage'])
     for w,h in ((1440,900),(390,844),(320,720)):
