@@ -1,0 +1,42 @@
+name: Batch U — Gaya and Unified Silla Historical Corpus QA
+on:
+  push:
+    branches:
+      - feat/batch-u-gaya-silla-cultural-history
+  pull_request:
+    paths:
+      # Historical fixture is pinned to Batch U and must not block subsequent additive batches.
+      - 'data/articles/III.4.*.json'
+      - 'data/articles/IV.4.*.json'
+      - 'tests/batch_u_*'
+      - 'tests/fixtures/batch_u_*'
+      - '.github/workflows/batch-u-qa.yml'
+jobs:
+  historical-corpus:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build allowlisted production release
+        run: python scripts/build_release.py
+      - name: Validate canonical hashes, article preservation, words and content pack integrity
+        run: python tests/batch_u_pipeline.py
+      - name: Syntax check application scripts
+        run: |
+          node --check app.js
+          node --check exploration.js
+          node --check content-platform.js
+          node --check reader-window.js
+      - name: Install Chromium browser test runtime
+        run: |
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Run exact-head desktop/mobile generated-asset journeys
+        run: python tests/batch_u_journeys.py
+      - name: Run actual Cloudflare Pages preview desktop/mobile journeys
+        env:
+          KOREA_PREVIEW_URL: https://feat-batch-u-gaya-silla-cult.korea-eo3.pages.dev
+        run: python tests/batch_u_preview.py
