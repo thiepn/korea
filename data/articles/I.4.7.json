@@ -1,0 +1,136 @@
+{
+  "id": "I.4.7",
+  "title": "Fortifications, Conflict, and Organized Violence",
+  "kicker": "BRONZE AGE · MATERIAL AND SOCIAL CHANGE",
+  "description": "Evidence-conscious account of fortifications, conflict, and organized violence, foregrounding varied archaeological explanations.",
+  "release": "X",
+  "sourceStatus": "Original archaeological historical synthesis with selective contextual anchors; interpretation is not direct eyewitness testimony.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Bronze Age gallery, cultural sequences and excavated materials",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030300.do?showHallId=760&showroomCode=DM0004",
+      "role": "Curatorial synthesis; distinguish object classification from political inference"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Liaoning-type Bronze Dagger, Songguk-ri stone coffin context",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2040&schM=view&searchId=represent",
+      "role": "Specific bronze dagger and grave provenance; not independent evidence of a dynastic ruler"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "url": "https://whc.unesco.org/en/list/977",
+      "role": "Dolmen architecture, quarrying, regional variability and archaeological significance"
+    },
+    {
+      "institution": "National Museum of Korea, Journal of Korean Art & Archaeology",
+      "title": "Bronze dagger traditions and regional material connections",
+      "url": "https://www.ijkaa.org/v.1/0/6/68",
+      "role": "Comparative typological interpretation of bronze dagger assemblages"
+    },
+    {
+      "institution": "Noh and Kim, Archaeometry",
+      "title": "Quantitative Assessment of Social Stratification and Inequality (2026)",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/arcm.70161",
+      "role": "Recent quantitative proposal using dolmen dimensions; interpretation not settled"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.4.7:b01",
+      "title": "Conflict and its archaeological traces",
+      "paragraphs": [
+        "Fortifications, burned buildings, human injuries and weapon-shaped objects are all relevant to the history of organized violence, but none translates automatically into a narrative of repeated war. A settlement enclosed by a ditch may have sought protection from raiders, control over access, management of animals or a mixture of functions. Fire can result from accident as well as attack, and weapons can also serve ritual or display purposes. To infer an episode of violence, archaeologists ask whether destruction is widespread and synchronous, whether skeletal trauma corresponds to the deposit, and whether defensive constructions changed over time. The absence of such traces does not establish perpetual peace: many confrontations leave little enduring signature. Prehistoric warfare should be studied through converging evidence and alternative explanations, not projected backward from battles recorded many centuries later."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": [
+        {
+          "claim": "Material observations and historical interpretation have distinct evidential limits",
+          "sourceIndex": 0,
+          "locator": "Excavated Bronze Age artifacts, funerary assemblages and published curatorial interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.7:b02",
+      "title": "Why disputes could intensify",
+      "paragraphs": [
+        "Agricultural investment created resources worth protecting. Stored grain, access to water, harvested fields and routes linking settlements could all become subjects of rivalry as communities became more sedentary. Scarce resources do not mechanically cause war; they may instead encourage agreements over sharing, marriage alliances or exchange. The same field system that makes neighbors interdependent can produce disputes during drought. Violence might arise from competition between groups, internal struggles over leadership, retaliation or the capture of goods. Without contemporary written testimony, identifying motives behind a destroyed enclosure is usually speculative. The sound historical question is which material circumstances increased opportunities for conflict, and which signs indicate that communities responded through defensive investment, relocation or changes in residence. A landscape perspective prevents every ditch from being assigned to an imagined kingdom's border."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.7:b03",
+      "title": "The problem of defensive architecture",
+      "paragraphs": [
+        "Banks, palisades and ditches may require substantial collective labor, but the existence of an earthwork does not reveal who commanded it or whether it ever faced an assault. Excavations can test whether an enclosure was maintained, expanded, rebuilt or abandoned, and whether residential structures lay inside or outside its perimeter. Entrances and sightlines may inform functional interpretation, yet modern terrain often differs from the prehistoric landscape. A ditch with water management implications could serve several purposes in different seasons. Dating the structure is crucial: a fortification from a later phase should not be attributed to an early Mumun community simply because an older village lies beneath it. Strong cases for defense emerge from building design together with signs of attack or regional insecurity, whereas isolated features warrant restrained descriptions."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.7:b04",
+      "title": "Bodily evidence and social limits",
+      "paragraphs": [
+        "Healed injuries, embedded projectile points or perimortem trauma can point toward interpersonal violence, but medical diagnosis and preservation affect conclusions. A fracture might result from a fall or a fight; a burial displaying trauma may represent an individual event rather than an organized raid. Cremation or absent skeletal material could conceal patterns that existed. Demographic interpretations also require caution because excavated graves select whom a community commemorated and whose remains survive. Gendered accounts of warriors based solely on tool deposition risk circular reasoning. If several contemporaneous victims appear in one securely dated context, the inference of collective violence becomes stronger, but the identity of attackers and their political purpose may still be unknowable. Archaeology can often establish harm more securely than the story of who intended it and why."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": [
+        {
+          "claim": "Material observations and historical interpretation have distinct evidential limits",
+          "sourceIndex": 0,
+          "locator": "Excavated Bronze Age artifacts, funerary assemblages and published curatorial interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.7:b05",
+      "title": "Weapons, specialists and military anachronism",
+      "paragraphs": [
+        "Stone and bronze spearheads, daggers, arrowheads and axes show the availability of objects capable of injury. Their presence does not entail standing armies, standardized recruitment or permanent barracks. A person could hunt, defend a household and participate in episodic intercommunity fighting without entering a distinct military profession. Weapon production may require specialist knowledge while users remain ordinary farmers. When weapon types cluster in exceptional graves, the pattern might reflect prestige and social memory rather than habitual warfare. It is therefore anachronistic to seek the institutions of later Korean states directly within Bronze Age assemblages. Researchers can instead explore degrees of preparedness, the spatial location of dangerous equipment and the investment in protective features, always distinguishing capability from documented action."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.7:b06",
+      "title": "Migration, abandonment and threats",
+      "paragraphs": [
+        "A settlement deserted after a fire or environmental disruption may have been displaced by attack, but it may equally have moved because fields became less productive or houses required rebuilding. Patterns of relocation across a valley can provide clues only when occupations are securely dated and alternative pressures considered. Climate variability, floodplain changes and shifts in exchange routes may interact with conflict rather than offer mutually exclusive causes. Survivors could join relatives elsewhere, return seasonally, or rebuild nearby, each leaving different archaeological traces. Words such as invasion and conquest carry implications of organized external force that the finds may not justify. A careful account describes the actual sequence of burned surfaces, abandoned structures and later occupation before proposing a specific historical event. The absence of written names is not a defect to conceal with fictional generals."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.7:b07",
+      "title": "Cooperation under insecurity",
+      "paragraphs": [
+        "Communities exposed to risk might coordinate watch activities, relocate storage, negotiate access to defensible land or build collective barriers. These arrangements could make leaders more influential, but shared defense can also strengthen participatory obligations among households. An enclosure might therefore emerge from solidarity rather than domination. Insecurity could concentrate residents in larger villages or scatter them into difficult terrain, depending on local geography. There is no universally fixed connection between conflict and settlement hierarchy. Archaeology may capture the built result without revealing the arguments among participants. Combining defensive traces with agricultural and mortuary patterns makes it possible to ask whether wealth, power and vulnerability became concentrated together, while preserving uncertainty about institutions for which no surviving documents exist."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.7:b08",
+      "title": "Violence without a teleology of conquest",
+      "paragraphs": [
+        "Later narratives of Korean state formation sometimes cast prehistoric conflict as inevitable consolidation by stronger groups. Such a story imposes a known political outcome upon communities whose futures were open. Farming societies could defend their land, enter temporary coalitions, exchange spouses, adopt outsiders or break apart without producing a single ruling lineage. Some conflicts may have facilitated later political concentration, while others ended in depopulation or dispersed authority. The evidence should be organized around specific sites, dates and patterns of harm rather than a march toward the first kingdom. The study of fortifications and violence matters precisely because it reveals the costs and choices of human relationships that a history focused solely on pottery, harvests and successful states would miss."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    }
+  ]
+}

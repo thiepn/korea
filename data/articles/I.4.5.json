@@ -1,0 +1,136 @@
+{
+  "id": "I.4.5",
+  "title": "Bronze Technology and Prestige Goods",
+  "kicker": "BRONZE AGE · MATERIAL AND SOCIAL CHANGE",
+  "description": "Evidence-conscious account of bronze technology and prestige goods, foregrounding varied archaeological explanations.",
+  "release": "X",
+  "sourceStatus": "Original archaeological historical synthesis with selective contextual anchors; interpretation is not direct eyewitness testimony.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Bronze Age gallery, cultural sequences and excavated materials",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030300.do?showHallId=760&showroomCode=DM0004",
+      "role": "Curatorial synthesis; distinguish object classification from political inference"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Liaoning-type Bronze Dagger, Songguk-ri stone coffin context",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2040&schM=view&searchId=represent",
+      "role": "Specific bronze dagger and grave provenance; not independent evidence of a dynastic ruler"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "url": "https://whc.unesco.org/en/list/977",
+      "role": "Dolmen architecture, quarrying, regional variability and archaeological significance"
+    },
+    {
+      "institution": "National Museum of Korea, Journal of Korean Art & Archaeology",
+      "title": "Bronze dagger traditions and regional material connections",
+      "url": "https://www.ijkaa.org/v.1/0/6/68",
+      "role": "Comparative typological interpretation of bronze dagger assemblages"
+    },
+    {
+      "institution": "Noh and Kim, Archaeometry",
+      "title": "Quantitative Assessment of Social Stratification and Inequality (2026)",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/arcm.70161",
+      "role": "Recent quantitative proposal using dolmen dimensions; interpretation not settled"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.4.5:b01",
+      "title": "Rare bronze in a stone-tool world",
+      "paragraphs": [
+        "Calling the Mumun period the Bronze Age describes a phase of material history, not a society in which ordinary blades and hoes were chiefly made from metal. Copper alloys remained relatively costly and appear selectively in graves and special deposits, while polished stone and organic materials sustained much of the farming and household economy. This mismatch matters because a spectacular museum dagger attracts attention in ways a heavily used hoe does not. Archaeologists must compare the distribution of objects with the activities that made daily life possible. Metal could function as a weapon, gift, marker of affiliation, or ritual possession, and an object's formal resemblance to a weapon is insufficient to prove battlefield use. Damage, wear, deposition and find context all matter. Local bronze production is a separate question from ownership: a dagger might circulate across several exchanges before being placed in a grave, far from the workshop that cast it."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": [
+        {
+          "claim": "Material observations and historical interpretation have distinct evidential limits",
+          "sourceIndex": 1,
+          "locator": "Excavated Bronze Age artifacts, funerary assemblages and published curatorial interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.5:b02",
+      "title": "Liaoning connections and local variation",
+      "paragraphs": [
+        "Lute-shaped or Liaoning-type bronze daggers connect parts of the peninsula with broader northeastern Asian technical and aesthetic worlds. The National Museum of Korea identifies particular pieces through blade shape, detachable hilt design and contexts such as a Songguk-ri stone coffin. Similarity does not mean that every maker spoke the same language or answered to one northern court. Forms changed through time and varied by region, while local craftspeople could reproduce or modify an imported design. Metallurgical composition and casting details offer stronger evidence of technological relationships than an imagined ethnicity assigned to a silhouette. A museum's conventional date band may summarize several competing typologies rather than specify the year a tradition arrived. Broad connections between Liaoning and Korean sites should be investigated as networks of movement, adaptation and selective emulation, leaving political control to be established by other evidence."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.5:b03",
+      "title": "Casting as organized knowledge",
+      "paragraphs": [
+        "Bronze production required more than possession of a lump of ore. Craftspeople needed to acquire copper-bearing materials and suitable alloy ingredients, manage heating and cooling, prepare molds, and judge whether a casting could be repaired or reused. Stone molds preserve some decisions about form, including the distinction between blades cast separately from handles and objects produced in one piece. Workshop debris, failed castings and crucibles are more direct evidence for local manufacturing than an isolated finished dagger. Yet such traces are unevenly preserved and have not been found at every settlement where bronze artifacts appear. Skill could be passed among households or concentrated in small specialist groups; both arrangements could rely on patrons or exchange ties. To say that craft specialization developed is not the same as showing a full-time profession with wages, hereditary membership, or a monopoly held by a political chief."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.5:b04",
+      "title": "Prestige and burial selectivity",
+      "paragraphs": [
+        "Bronze artifacts often enter archaeological discussion through funerary association, where deposition was an intentional social act. A dagger placed near a corpse might honor a person's public standing, link kin to distant partners, memorialize ritual authority, or advertise resources available to the mourners. Its presence cannot reveal the exact office the dead person held. Conversely, communities may have refrained from burying their most valuable metal, preferring to recycle it or transmit it across generations. Burial assemblages therefore reflect choices made at death, not a complete inventory of possessions in life. When graves also contain beads, polished stone implements or carefully built chambers, the combination may indicate differential investment. The strongest interpretations compare whole cemeteries and settlement patterns, paying attention to missing age groups and unequal preservation, rather than treating a single elaborate dagger as proof of a kingdom."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": [
+        {
+          "claim": "Material observations and historical interpretation have distinct evidential limits",
+          "sourceIndex": 1,
+          "locator": "Excavated Bronze Age artifacts, funerary assemblages and published curatorial interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "I.4.5:b05",
+      "title": "Changing dagger and mirror traditions",
+      "paragraphs": [
+        "Later Korean-type slender bronze daggers and finely worked mirrors belong to developments that partially overlap and extend beyond the main Mumun chronological horizon. They should not be collapsed into one unchanging Bronze Age culture. Typological sequences help identify technical continuities, but their precision depends on stratified finds and the reliability of regional comparisons. A later object may resemble an earlier one because artisans preserved a valued form; this resemblance does not establish direct political continuity between their owners. Ornament and reflective surfaces could acquire ceremonial force through the circumstances of use, although the surviving metal cannot preserve recited words, gestures or beliefs. Scholars can investigate the complexity of casting and decoration while acknowledging that modern ritual labels are interpretive. The material history is richer when craft trajectories are followed individually instead of forced into a single dramatic story of technological replacement."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.5:b06",
+      "title": "Raw materials and uncertain trade routes",
+      "paragraphs": [
+        "The ingredients of bronze did not necessarily come from the river valley where an object was buried. Extraction, refining and movement could involve several communities, some transporting ores or ingots and others finishing objects. Compositional testing may help identify production traditions but does not always distinguish ore sources unequivocally, especially when scrap metal was remelted. A distinctive dagger on a southern site is evidence of contact or convergent production; it is not a map showing the exact path of a trader. Coastal navigation, river travel and overland passes offered different possibilities, and exchange could occur through gifts, marriages, itinerant artisans and conflict as well as peaceful trade. The political meaning of a rare object depended on local reception. Metal's scarcity could make it prominent in negotiation or ceremonial display without allowing archaeologists to name a specific merchant network."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.5:b07",
+      "title": "Bronze objects and the temptation of kingship",
+      "paragraphs": [
+        "One popular narrative takes expensive metal, places it in an impressive tomb, and infers a chief whose heirs commanded a region. Each link requires testing. Rare raw materials might concentrate in families that maintained wide marriage ties; an imposing funeral might mobilize collective labor for a respected elder; conspicuous objects could circulate through communities in which authority was negotiated rather than inherited. These alternatives do not deny inequality. They prevent a technical classification from becoming an unsupported political constitution. Late prehistoric communities likely experimented with several forms of leadership, and valuables were among the means by which distinctions could be made durable. Evidence becomes stronger when the same distinction appears repeatedly across graves, houses and labor projects. Bronze therefore belongs in a social history of claims and relationships rather than serving as a solitary proxy for the birth of the Korean state."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    },
+    {
+      "id": "I.4.5:b08",
+      "title": "What technological change ultimately altered",
+      "paragraphs": [
+        "Metalworking introduced new opportunities for specialists, patrons and long-distance partnerships, while retaining dependencies on ordinary farming labor and available fuel. It expanded the range of durable objects that could be exchanged and remembered, but it did not erase regional diversity or older practices of polished-stone manufacture. A realistic appraisal gives equal weight to what bronze could not do: it could not on its own supply food, settle conflicts, establish officials, or protect an irrigation ditch. The archaeological record shows technical experimentation and the selective accumulation of valued objects across a changing landscape. The historical task is to relate those objects to settlements, burial choices and exchange networks without imagining unrecorded kings. In subsequent centuries, some technological traditions contributed to wider political formations, yet the trajectories are local and contingent, not a universal timetable dictated by a metal's first appearance."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · archaeology and interpretation",
+      "evidence": []
+    }
+  ]
+}
