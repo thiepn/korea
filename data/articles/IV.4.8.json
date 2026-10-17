@@ -1,0 +1,158 @@
+{
+  "id": "IV.4.8",
+  "title": "Writing, Hyangga, Literature, and Historical Memory",
+  "kicker": "UNIFIED SILLA · MONASTIC AND CULTURAL WORLDS",
+  "description": "Original source-critical account of writing, hyangga, literature, and historical memory, distinguishing textual histories, material testimony and interpretation.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis; selective Korean Academy and National Museum institutional sources and qualified later compilations.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nine Mountain Seon Schools (선종구산문)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0028926",
+      "role": "Late Silla provincial Buddhist networks, leaders and lineages"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Stupa of Master Yeomgeo",
+      "url": "https://vcm.museum.go.kr/JPN/contents/E0403000000.do?relicId=4316&schM=relic_represent_view",
+      "role": "Dated 844 Gajisan Seon stupa and accompanying record"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangchal",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062985",
+      "role": "Korean language recording using Chinese characters and survival of hyangga"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangga (향가)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062873",
+      "role": "Poetry forms, transmission and uncertainties"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Mathematics Doctor (산학박사)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026391",
+      "role": "Silla Gukhak 682 and mathematical specialist teaching from 717"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period permanent gallery",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Religious art, funerary urns, glazing and transregional material culture"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samguk Yusa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0069669",
+      "role": "Later transmission of poems, monk biographies and historical memory"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.4.8:b01",
+      "title": "A lost literary world glimpsed through survivors",
+      "paragraphs": [
+        "Unified Silla produced poetry, inscriptions and historical writing, but most works have not survived in their original form. Some are known only because later Goryeo compilations preserved selections or referred to older texts. This survival pattern means that present-day readers encounter a highly filtered portion of what earlier people created.",
+        "The Samguk Yusa, compiled by the monk Iryeon in the thirteenth century, preserves a small but precious body of hyangga and accounts of their settings. Its stories are invaluable for cultural history, but they are not contemporary transcripts of every occasion they describe. The historian should distinguish a poem's transmitted text, a later explanation of its origin and modern interpretation of its language."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional scholarship documents the late-Silla Nine Mountain Schools, Gukhak and hyangchal writing, while museum catalogues identify securely dated Seon and Buddhist artworks.",
+          "sourceIndex": 2,
+          "locator": "향찰: Samguk Yusa and Gyunyeojeon poetry transmission",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.8:b02",
+      "title": "Hyangga and the written Korean voice",
+      "paragraphs": [
+        "Hyangga poems used systems of Chinese characters to record Korean language, often called hyangchal. Characters could convey meaning or sound, allowing expressions that Literary Chinese prose could not represent directly. Their preservation demonstrates complex adaptation rather than the absence of literacy before Hangul.",
+        "The Academy of Korean Studies identifies fourteen hyangga in the Samguk Yusa and eleven in the later Gyunyeojeon, with additional material in other traditions. This count describes surviving transmitted texts, not the total number once composed. Many verses are difficult to interpret because their written notation, linguistic history and manuscript transmission are complex. A translation into modern Korean or English is therefore an interpretation, not a transparent substitution word for word."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional scholarship documents the late-Silla Nine Mountain Schools, Gukhak and hyangchal writing, while museum catalogues identify securely dated Seon and Buddhist artworks.",
+          "sourceIndex": 2,
+          "locator": "향찰: Samguk Yusa and Gyunyeojeon poetry transmission",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.8:b03",
+      "title": "Songs of devotion and political memory",
+      "paragraphs": [
+        "Hyangga include poems associated with Buddhist devotion, mourning, praise and episodes involving court relationships. Their themes show the range of uses to which literary forms could be put. The Wonwangsaengga tradition relates aspiration for rebirth; other poems are attached to acts of loyalty or religious protection.",
+        "A narrative attached to a song may explain it through a miracle or moral lesson. That framing reveals how later communities interpreted the verse, but its historical details may not be independently verifiable. Studying the text and the accompanying story as different layers helps avoid treating every literary setting as a dated eyewitness report. The verse can remain culturally significant even where its supposed first performance is uncertain."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.8:b04",
+      "title": "Inscriptions and other surviving voices",
+      "paragraphs": [
+        "Stone and metal inscriptions supply a different kind of evidence from later poetry collections. A dedicatory text can give names, titles and sometimes dates, connecting literary language to a physical object and its patronage. Such inscriptions are not neutral summaries of society; they were made for particular commemorative or religious purposes.",
+        "They can nevertheless test a political chronology or clarify the use of a title that otherwise appears only in a later chronicle. Royal inscriptions, temple records and memorial steles represent literate elites whose social positions shaped what they recorded. Their silence about ordinary women, craftsmen or labourers does not imply those people were absent from cultural life. It shows the selective survival of writing."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.8:b05",
+      "title": "The literary use of Chinese",
+      "paragraphs": [
+        "Silla writers who composed Literary Chinese could communicate with officials and learned communities beyond the peninsula. This shared medium enabled diplomacy, Buddhist interpretation and the recording of state history. It did not mean that spoken Korean was identical to Chinese or that local poetic traditions were irrelevant.",
+        "An elite could move between cultural registers depending on audience. Chinese-character writing might be appropriate for a royal memorial or an envoy, while a local-language verse could address devotional or emotional themes. These genres should not be arranged in a simple hierarchy of authentic and foreign. Both were forms of creative work adapted to Silla's linguistic and social circumstances."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.8:b06",
+      "title": "Historical memory and loss",
+      "paragraphs": [
+        "Texts that once described Silla's history may have informed later compilations such as the Samguk Sagi, but historians cannot recover them wholesale from passing references. The loss of manuscripts creates uncertainties about chronology, literary variety and the views of groups not represented in the surviving canon.",
+        "A good history uses what remains while identifying its conditions of transmission. It asks why a monk preserved one hymn, why a court historian selected a particular episode and why an inscription used conventional praise. This method treats literary culture as a living field of memory and argument rather than a small list of timeless masterpieces detached from the societies that produced them."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.8:b07",
+      "title": "The risks of reading a poem through a later legend",
+      "paragraphs": [
+        "Hyangga survive in small numbers and often in sources compiled long after the situations they are said to describe. The Samguk Yusa's explanations of poems can include miraculous events, moral lessons and biographical details that should be treated as literary framing unless independently supported. This does not make the poems inauthentic or unimportant; it identifies separate layers of evidence.",
+        "Hyangchal notation used Chinese characters for both semantic and phonetic purposes to record Korean expressions. Its reading requires linguistic reconstruction because the sounds and grammatical uses of characters were different from their modern counterparts. Several proposed translations of a poem can diverge while each rests on serious scholarship. A historian should not pretend a chosen English version resolves all interpretive questions.",
+        "The transmitted group includes songs associated with spiritual aspiration, loyalty, lament and ritual action. They provide evidence of the subjects considered appropriate for literary expression, but their surviving selection may reflect the interests of Buddhist compilers. A secular song tradition could have existed on a much larger scale without leaving equivalent written remains.",
+        "A poem's relation to performance is also uncertain. The fact that a text is called a song does not supply its melody, instrumentation or original audience. Later musical traditions cannot be projected back unchanged. Distinguishing literary text, oral performance and ritual setting keeps cultural history from filling attractive gaps with imagination.",
+        "Inscriptions offer a different view of textual practice. A stone record may identify patrons and offices while preserving conventional praise. Such a document can help date an institution, but the voice is often that of a literate elite rather than a community as a whole. Historical reconstruction benefits from comparing these official forms with the rare verses recording Korean language.",
+        "The reported compilation of Samdaemok in 888 suggests an effort to gather and preserve poetic works, but the original anthology is lost. Later mentions do not allow its entire contents or editorial principles to be recovered. The loss itself is historically revealing: survival of a genre can depend more on later copying and selection than on how widely it circulated during its own age.",
+        "Women, farmers and artisans almost certainly engaged in forms of verbal expression that rarely appear in surviving manuscripts. Their absence from named authorship should not be mistaken for an absence of cultural participation. The historian can acknowledge this problem without inventing individual songs or attaching them to unsupported social categories.",
+        "Hyangga matters because it preserves evidence of Korean linguistic expression in a setting where Literary Chinese dominated many formal records. Its study demands philology, literary interpretation and historical source criticism together. The small surviving corpus is a window, not a complete map, of Silla's cultural world."
+      ],
+      "sequence": 7,
+      "label": "Batch U · source-specific cultural history expansion"
+    },
+    {
+      "id": "IV.4.8:b08",
+      "title": "Two poems, two different evidential problems",
+      "paragraphs": [
+        "The song commonly called Wonwangsaengga is associated in the Samguk Yusa with aspiration for rebirth in the Pure Land. The text's religious themes can be studied even though the identification of its original author has been debated. Later narrative settings associate the song with particular practitioners and miraculous experiences; these stories reveal the devotional interpretation of the poem rather than providing a complete contemporary biography.",
+        "Wonga offers a different type of problem. Its narrative concerns a court relationship and a promise allegedly forgotten by a king. The account of a pine tree withering and reviving is best read as part of a moral literary tradition about loyalty and memory, not accepted as a verifiable physical event. The Academy of Korean Studies identifies the surviving verse as incomplete, which further limits reconstruction of its original structure.",
+        "Contrasting these examples is valuable because hyangga was not restricted to one social function. Religious longing and criticism of political relations could each be expressed through poetic form. Yet both songs are encountered through later compilers who decided which story should accompany the text. The historian must explain not only what a poem may mean but also why this particular version survived.",
+        "The form of notation creates an additional difficulty. Hyangchal's use of character meanings and sounds means that grammatical interpretation can vary, especially when manuscripts have missing or disputed characters. It is appropriate to present alternative translations where scholarship disagrees rather than silently impose one as uniquely correct. Literary history is strongest when it allows the surviving material to retain its uncertainty."
+      ],
+      "sequence": 8,
+      "label": "Batch U · documentary and archaeological interpretive detail"
+    }
+  ]
+}

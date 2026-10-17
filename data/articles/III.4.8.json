@@ -1,0 +1,124 @@
+{
+  "id": "III.4.8",
+  "title": "Gaya Society, Tombs, Horse Culture, and Political Identity",
+  "kicker": "GAYA · SOUTHERN KINGDOMS AND NETWORKS",
+  "description": "Original source-critical history of gaya society, tombs, horse culture, and political identity, with archaeological and textual distinctions.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis with selective museums, academy and UNESCO evidence; written political traditions and individual grave interpretations are qualified.",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gaya Tumuli: Outstanding Universal Value",
+      "url": "https://whc.unesco.org/en/list/1666",
+      "role": "Seven independently developed Gaya elite cemeteries, regional polity distinctions, tomb structures and deposition"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy: Gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Iron, metallurgy, pottery, mounted equipment and burial assemblages"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000257",
+      "role": "Diverse polities, transmarine claims and chronology of conquest"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daegaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013970",
+      "role": "Terminological differences, diplomatic interpretations and conquest in 562"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.4.8:b01",
+      "title": "Cemeteries as evidence of unequal societies",
+      "paragraphs": [
+        "The seven Gaya tumulus clusters now recognized by UNESCO provide an unusually clear window onto the display of rank. Larger burial chambers, elaborate mound construction and concentrated metal objects suggest that some families could command labour and acquire valuable goods on a scale unavailable to many neighbours. The material evidence supports social differentiation, but it does not identify every institution through which these advantages were maintained.",
+        "Elite graves record what mourners chose to place with the dead, and those choices may dramatize status or ritual ideals rather than mirror an individual's daily possessions. Comparing the richest graves with lesser tombs and settlement remains helps estimate unequal access to resources. The cemeteries also show regional political individuality. An elaborate burial in Goryeong should not be assumed to express precisely the same institution as a richly furnished grave at Gimhae or Haman."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "UNESCO recognizes seven distinctive Gaya cemetery landscapes demonstrating shared practices and autonomous centres, while Korean reference histories distinguish the 532 and 562 conquests.",
+          "sourceIndex": 0,
+          "locator": "Gaya Tumuli UNESCO OUV: seven cemeteries, regional difference, shared cultural forms",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.8:b02",
+      "title": "Arms, armour and political identity",
+      "paragraphs": [
+        "Weapons, helmets and horse equipment are prominent in some Gaya burial assemblages. They reflect the importance of military prestige and skilled manufacture, though the distinction between ceremonial display and objects used in battle cannot always be resolved. Large quantities of iron associated with a tomb might convey the deceased's capacity to mobilize resources as much as his personal activities.",
+        "The richness of armour does not establish that Gaya maintained a single confederate army under a common command. Different polities had their own elite centres and often negotiated separately with neighbours. Military coordination was possible, but it requires episode-specific evidence. Archaeologists can compare manufacturing techniques and distribution patterns; court chronicles might identify particular commanders. Neither source alone yields an inventory of standing troops across the entire southern region."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "UNESCO recognizes seven distinctive Gaya cemetery landscapes demonstrating shared practices and autonomous centres, while Korean reference histories distinguish the 532 and 562 conquests.",
+          "sourceIndex": 2,
+          "locator": "한국민족문화대백과사전 가야, 532/562 dates and southern diplomacy",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.8:b03",
+      "title": "Horse culture and mobility",
+      "paragraphs": [
+        "Horse tack and related fittings show that mounted mobility became an important aspect of elite display and military organization. Such equipment could be adapted through connections with neighbouring Korean states and the wider East Asian world. The appearance of similar types in separate cemeteries is evidence for shared technical knowledge and exchange, not automatically for the movement of one army.",
+        "The horse itself required feed, shelter, training and handlers, so evidence for riding must be placed in an agricultural and settlement context. A region displaying costly equestrian equipment needed supporting labour and material resources. Funerary installations sometimes exaggerate the status of an individual rider. The historian should distinguish real logistical demands from the symbolic meaning of a warrior buried with impressive gear."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.8:b04",
+      "title": "Social rank beyond the tomb",
+      "paragraphs": [
+        "The labour invested in mounds and rich chambers implies hierarchies beyond the deceased and his closest relatives. Builders, transporters, metalworkers and food producers sustained the ceremonies through which elite power was recognized. Some individuals may have performed coerced service or occupied dependent positions, while others worked through kin or reciprocal obligations.",
+        "Determining the precise status of those workers is difficult without registers or contemporary local legal texts. Human remains interpreted as attendant burial in some tombs raise serious questions about coercion and sacrifice, but each case needs excavation-specific evidence. One cannot project the practice onto every grave or infer a single Gaya-wide law of personal dependency. Social inequality was real, yet its forms and intensity differed across sites and centuries."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.8:b05",
+      "title": "Gender and the limits of male-centred narratives",
+      "paragraphs": [
+        "Written histories mention rulers and military commanders disproportionately, and tomb interpretation has often reproduced that emphasis. Archaeological studies can examine ornaments, bodily remains and grave context to investigate women's positions, but artefact categories should not be assigned inflexibly to male or female identity without reliable osteological or contextual evidence.",
+        "Women could participate in household production, craft, exchange and elite alliance, but the surviving record seldom identifies named individuals. Marriage relationships might link powerful families or regions, yet attributing every shared burial style to an inter-polity marriage would be speculation. A better account names the documentary gaps and asks what additional settlement or burial evidence could test proposed patterns of gendered status."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.8:b06",
+      "title": "Shared culture without a single nation",
+      "paragraphs": [
+        "UNESCO describes Gaya polities as autonomous political equals sharing cultural commonalities, a formulation supported by the distribution of substantial cemeteries rather than one all-dominant capital. The claim is not that no centre was ever stronger, since Gimhae and later Goryeong were clearly prominent. It is that the archaeological picture resists uniform centralized rule across the entire Gaya world.",
+        "Political identity could be layered: attachment to a local chief, participation in a shared material tradition and involvement in alliances against a neighbour were compatible. Modern national categories obscure that flexibility. The tombs support a history of many powerful communities, each with its own choices, and they reveal the limitations of describing the entire region through only the dynastic memories preserved by its conquerors."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.8:b07",
+      "title": "Beyond the warrior grave",
+      "paragraphs": [
+        "The weapon-rich tombs of Gaya are powerful sources for the cultural presentation of elite authority. Yet they are unrepresentative of the living population. A farmer's field tools, a household's pottery or traces of ordinary dwellings tell different histories, often less visible to a museum visitor. Political inequality has to be reconstructed through comparison among social contexts rather than extrapolated from elite cemeteries alone.",
+        "Interpretations of gender from grave goods demand caution. A sword or ornament may have conventional associations, but such associations are not proof of the buried person's biological sex or social role. Osteological evidence and contextual archaeology may provide stronger constraints. Where neither exists, assigning fixed gender identities to every assemblage risks making modern expectations part of the ancient evidence.",
+        "The scale of burial construction reveals how labour could be mobilized for an elite family. It does not identify whether that work was compulsory, reciprocal, paid or performed through kinship obligations. Human remains in subsidiary compartments may raise the possibility of attendant death or coercion, but each case requires precise excavation data. Generalization from a few graves to an entire society would be irresponsible.",
+        "Gaya society exhibited genuine hierarchy alongside political diversity. Multiple powerful centres accumulated prestige while sharing forms of pottery and burial. This combination is the central historical problem: how could communities retain autonomy and still inhabit recognizably related cultural worlds? The answer is likely found in sustained exchange, competition and emulation, not one uniform law imposed by a permanent supreme king."
+      ],
+      "sequence": 7,
+      "label": "Batch U · source-specific archaeological expansion"
+    }
+  ]
+}

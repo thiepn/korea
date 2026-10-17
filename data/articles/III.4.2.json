@@ -1,0 +1,124 @@
+{
+  "id": "III.4.2",
+  "title": "Geumgwan Gaya and the Early Southern Network",
+  "kicker": "GAYA · SOUTHERN KINGDOMS AND NETWORKS",
+  "description": "Original source-conscious history of geumgwan gaya and the early southern network, distinguishing chronicles, political claims and excavated material.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis with contextual institutional and UNESCO citations; contested chronicles and archaeological inference qualified.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy permanent gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Gimhae, Goryeong, Haman and Hapcheon archaeological assemblages, iron, armour and trade"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000257",
+      "role": "Historical terminology, political succession, 400 campaign and 532/562 dates"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daegaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013970",
+      "role": "Goryeong political centre, chronicle ambiguities and 562 conquest"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gaya Tumuli",
+      "url": "https://whc.unesco.org/en/list/1666",
+      "role": "Seven archaeological cemetery clusters and changing regional elite networks"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.4.2:b01",
+      "title": "Gimhae before a single polity can be named",
+      "paragraphs": [
+        "The lower Nakdong River basin offered a combination of river communication, coastal access, agricultural land and nearby resources that made a powerful political centre possible. Archaeological work in the Gimhae region documents concentrated elite burials and extensive production during the centuries when Byeonhan communities were developing new forms of leadership. The name Geumgwan Gaya is useful for this emerging centre, but it should not be read as an unchanging state with fixed borders from the first century onward.",
+        "The date 42 CE, attached to the foundation of Garak in later traditions, belongs to a much later textual account of King Suro and the Six Eggs rather than an independently documented political event. Such traditions matter for dynastic memory and the way communities explained legitimate rule. They cannot by themselves establish the exact year in which Gimhae's elite began to command a wider network. Pottery production, burial differentiation, routes to the sea and relationships with neighbouring settlements give a longer and less abrupt view of political formation."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Museum documents distinct Gimhae, Goryeong, Haman and Hapcheon Gaya archaeological centres, and AKS distinguishes Gaya names and changing political centres.",
+          "sourceIndex": 0,
+          "locator": "Gaya Confederacy permanent gallery, regional tomb complexes and iron",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.2:b02",
+      "title": "Daeseong-dong and archaeological scale",
+      "paragraphs": [
+        "The Daeseong-dong cemetery in Gimhae provides material evidence for the accumulation of power among ruling families and for international connections. Rich burials include weapons, ornaments, imported objects and the remains of practices associated with prestige. The distribution and chronology of graves enable archaeologists to ask whether resources were concentrated in a small number of lineages or circulated among several competing groups.",
+        "A spectacular grave does not identify its occupant as King Suro or prove the rank assigned to a named ruler in literary tradition. Furnishings are purposeful statements made by mourners, not transparent portraits of political administration. Comparing the cemetery with surrounding sites is crucial. A wealthy centre would require farmers, craft specialists, transporters and dependent settlements, most of whom left less conspicuous archaeological remains than a large tomb. The centre's power must be reconstructed from an entire regional landscape rather than from its richest objects alone."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Museum documents distinct Gimhae, Goryeong, Haman and Hapcheon Gaya archaeological centres, and AKS distinguishes Gaya names and changing political centres.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 가야, political chronology and terminology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.2:b03",
+      "title": "Iron and an economy of relationships",
+      "paragraphs": [
+        "Iron resources and skilled metalworking were major factors in the rise of Gaya networks. Implements could serve agriculture and construction as well as war; weapons and bars of metal could circulate as gifts, exchange goods or political resources. The National Museum of Korea's Gaya displays include iron ingots, weapons, armour and tools that illustrate this productive environment.",
+        "The familiar phrase iron kingdom can be misleading if it makes metal alone sufficient to explain political growth. Ore extraction required labour and expertise, smelting required fuel and organized production, and movement to customers required navigable routes and security. Iron-producing communities still relied upon agriculture and other forms of work. Trade was mediated by relationships among coastal, riverine and inland groups, rather than controlled automatically by one ruler who possessed every furnace or harbour."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.2:b04",
+      "title": "The sea and the problem of foreign labels",
+      "paragraphs": [
+        "The southern coast linked Gimhae with islands, the Japanese archipelago and other peninsula settlements. Material similarities in pottery and ornaments suggest sustained movement of people and goods, though the interpretation of any single imported object depends on its date and deposition. The presence of Gaya-related goods in Wa regions does not establish permanent political sovereignty over those areas.",
+        "The term Imna or Mimana appears in Japanese sources and has a contentious later history because it was employed in colonial narratives to justify claims about ancient Japanese control of southern Korea. These political uses make source criticism essential. The Nihon Shoki contains traditions compiled long after many events it describes, and external labels for Gaya varied. Maritime exchange, military alliance and direct administration are different relationships; archaeological parallels cannot collapse them into a single imperial map."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.2:b05",
+      "title": "Political prominence and vulnerable alliances",
+      "paragraphs": [
+        "Geumgwan's advantage depended on its central position within exchange routes and relations with neighbouring chiefs. A powerful centre could coordinate defence and gift distribution without replacing all other polities in the Nakdong basin. Competition among regional elites was likely as opportunities expanded, and the precise degree of centralization changed over time.",
+        "The campaign involving Goguryeo in 400 CE has often been treated as a decisive blow to the earlier Geumgwan-centred configuration. That turning point needs careful interpretation because the inscription used in reconstructing the event foregrounds the victories of Gwanggaeto and is not a neutral southern court record. The subsequent changes in burial wealth and political centres are important evidence, but they should be investigated across generations rather than attributed entirely to one battle."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.2:b06",
+      "title": "Reading a centre's rise without an origin myth",
+      "paragraphs": [
+        "A coherent history of Geumgwan Gaya holds several time scales together: centuries of settlement and production; the formation of concentrated elite wealth; changing diplomacy and maritime exchange; and later memories of kingship. The founder narrative answers questions that later people asked about descent and rightful rule, while the cemetery reveals ways contemporary elites made rank visible. Neither record renders the other useless.",
+        "This distinction also preserves the agency of neighbouring Byeonhan communities that never belonged permanently to one capital. They could trade with Gimhae, adopt some funerary forms, oppose its leadership or seek other alliances. Rather than depict an embryonic nation destined to become Silla, the evidence shows one influential southern polity navigating a fragmented and highly connected early medieval world."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.2:b07",
+      "title": "A cemetery's chronology and the question of power",
+      "paragraphs": [
+        "The sequence of graves at Daeseong-dong is often used to track the changing fortunes of the Gimhae centre. This is a legitimate archaeological question, but the relationship between a cemetery and a political institution requires careful argument. Rich burials may signal elite prosperity, while changes in their frequency can arise through a new funeral custom or relocation of a family burial area. Researchers must establish dates and compare other nearby sites before inferring a political collapse.",
+        "Gimhae's early prominence was also connected to networks of practical production. River access and contacts with coastal traders mattered because moving heavy quantities of metal and food was difficult. Households, ferrymen and farmers supported these connections. The absence of a surviving merchant account book means the balance among market purchase, gift exchange and tribute remains uncertain. A model of one monopolistic royal metal company would be much more precise than the evidence warrants.",
+        "Later written stories about a founding king reflect the need for dynastic legitimacy and shared ancestry. The existence of the narrative does not allow an excavator to attach one named monarch to a tomb based on prestige alone. Conversely, archaeological silence about a founder cannot disprove that families remembered important past leaders. The genres answer different questions and should be presented side by side.",
+        "An account extending toward 532 must distinguish the diminished but surviving Gimhae royal community from the rising inland centres. Political decline was relative: a former leading court might retain local authority and participate in exchange while no longer directing broader alliances. The later surrender to Silla shows that Geumgwan was still a meaningful political actor, not a vanished population after 400."
+      ],
+      "sequence": 7,
+      "label": "Batch U · source-specific archaeological expansion"
+    }
+  ]
+}

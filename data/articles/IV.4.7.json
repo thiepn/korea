@@ -1,0 +1,146 @@
+{
+  "id": "IV.4.7",
+  "title": "Confucian Learning, Gukhak, and the Educated Elite",
+  "kicker": "UNIFIED SILLA · MONASTIC AND CULTURAL WORLDS",
+  "description": "Original source-critical account of confucian learning, gukhak, and the educated elite, distinguishing textual histories, material testimony and interpretation.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis; selective Korean Academy and National Museum institutional sources and qualified later compilations.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nine Mountain Seon Schools (선종구산문)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0028926",
+      "role": "Late Silla provincial Buddhist networks, leaders and lineages"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Stupa of Master Yeomgeo",
+      "url": "https://vcm.museum.go.kr/JPN/contents/E0403000000.do?relicId=4316&schM=relic_represent_view",
+      "role": "Dated 844 Gajisan Seon stupa and accompanying record"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangchal",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062985",
+      "role": "Korean language recording using Chinese characters and survival of hyangga"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangga (향가)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062873",
+      "role": "Poetry forms, transmission and uncertainties"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Mathematics Doctor (산학박사)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026391",
+      "role": "Silla Gukhak 682 and mathematical specialist teaching from 717"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period permanent gallery",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Religious art, funerary urns, glazing and transregional material culture"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samguk Yusa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0069669",
+      "role": "Later transmission of poems, monk biographies and historical memory"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.4.7:b01",
+      "title": "Gukhak and the formation of literate officials",
+      "paragraphs": [
+        "Silla established the Gukhak, a state education institution, in 682 under King Sinmun. Its development reflected the growing needs of a court governing a larger territory with more complex administrative and diplomatic relationships. Knowledge of Chinese classical texts and writing offered tools for producing records, interpreting precedents and preparing officials for service.",
+        "Calling Gukhak a modern university would be anachronistic. Access was conditioned by social rank and by the court's recruitment system, and the institution did not educate the whole population. The Academy of Korean Studies identifies its role in elite Confucian learning and later specialist mathematics teaching. The history of the institution is best reconstructed through dated offices and curricula rather than broad claims of universal public education."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional scholarship documents the late-Silla Nine Mountain Schools, Gukhak and hyangchal writing, while museum catalogues identify securely dated Seon and Buddhist artworks.",
+          "sourceIndex": 4,
+          "locator": "산학박사: Gukhak 682 and mathematics instruction from 717",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.7:b02",
+      "title": "Confucian texts alongside Buddhism",
+      "paragraphs": [
+        "Court support for Confucian learning did not require the suppression of Buddhism. The same elite world could value Buddhist ritual, Chinese literary proficiency and ancestral or court ceremonies. Different forms of learning served different institutional needs and carried distinct moral claims.",
+        "Silla's rulers and officials sought languages of legitimacy that could coexist. Confucian texts supplied models for political counsel, family hierarchy and governing virtue, while Buddhist practice offered ritual and philosophical resources. The relative influence of each changed with audience and circumstance. A history of culture should not construct two mutually exclusive national parties when the evidence points to overlapping practices among educated elites."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional scholarship documents the late-Silla Nine Mountain Schools, Gukhak and hyangchal writing, while museum catalogues identify securely dated Seon and Buddhist artworks.",
+          "sourceIndex": 4,
+          "locator": "산학박사: Gukhak 682 and mathematics instruction from 717",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.7:b03",
+      "title": "The mathematics of administration",
+      "paragraphs": [
+        "The office of sanhak baksa, a mathematics instructor at Gukhak, is attested from 717 according to the Academy of Korean Studies. This indicates that practical numerical knowledge had institutional standing in the court's educational system. Administrative accounting, land measurement, calendars and building projects depended on mathematical expertise, though individual records rarely show exactly what each student later calculated.",
+        "A named mathematics curriculum does not mean that scientific study was independent of political organization. Specialist learning served the information and technical needs of the state. The existence of titles and prescribed texts shows official aspirations; it does not reveal enrollment numbers or the distribution of mathematical literacy among artisans and farmers. Those questions require different evidence about practical calculation outside the court."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.7:b04",
+      "title": "Chinese writing and Korean linguistic practice",
+      "paragraphs": [
+        "Official documents commonly used Literary Chinese, which allowed participation in a wider East Asian textual world. Korean speech and grammar, however, did not disappear from administration or literary life. Systems using Chinese characters to represent local language elements emerged in different contexts, including hyangchal poetry and related notation practices.",
+        "The coexistence of these systems reveals a practical multilingual textual culture rather than a simple opposition of foreign writing and native speech. Officials might read Chinese classics while adapting characters to indicate Korean personal names or grammatical relationships. The surviving manuscripts are unevenly distributed across centuries, so the chronology of a particular notation must be established from actual examples rather than assumed from later standard forms."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.7:b05",
+      "title": "Appointments, rank and learning",
+      "paragraphs": [
+        "An education institution could produce qualified men without eliminating the constraints of the Silla rank order. Elite family background continued to shape access to prestigious appointments, and officeholding was not allocated solely through open academic competition. Learning nevertheless offered a route for creating networks and demonstrating competence within the existing political structure.",
+        "This tension is central to bureaucratic history. The state required specialists who could maintain records and diplomacy, but its social order restricted who could occupy influential posts. A catalogue of courses does not show the relative success of individual students. Biographical and inscriptional evidence can illuminate careers, while a narrative of expanding meritocracy needs proof of actual recruitment changes rather than the existence of a school alone."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.7:b06",
+      "title": "Knowledge as an institutional memory",
+      "paragraphs": [
+        "Education sustained the court by transmitting writing practices, texts and standards across generations. It made possible the recording of royal decisions and the communication of policy beyond face-to-face instruction. In this sense learning was part of the infrastructure of government alongside roads and administrative posts.",
+        "The social distribution of knowledge remained unequal, and scribes outside elite schools were also essential. Gukhak therefore represents a significant state investment, not the totality of learning in Silla society. The historical question is how different forms of expertise interacted: Confucian interpretation, mathematical calculation, Buddhist scholarship and the practical knowledge of officials and craftspeople."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.7:b07",
+      "title": "Confucian expertise and the expanding information state",
+      "paragraphs": [
+        "The establishment of Gukhak in 682 was connected to a kingdom that needed officials competent in writing, calculation and administration across newly incorporated regions. Schooling served elite governance rather than a modern commitment to universal access. The institution's existence tells us about the court's ambitions, not the number of people who could read in every provincial village.",
+        "Chinese classics supplied models of governance, ethical obligation and political counsel that officials could use while continuing to participate in Buddhist practices. It is therefore unhelpful to imagine that one body of scholarship simply replaced another. The court drew upon multiple religious and philosophical languages, sometimes in the careers of the same families.",
+        "Training was not detached from social rank. Family background conditioned eligibility for prestigious office, and an individual's learning could not remove every barrier imposed by the Silla status order. The effect of education on social mobility must be assessed through actual appointment patterns rather than the ideal that knowledgeable men should serve rulers.",
+        "The addition of mathematics instruction in 717 is a rare dated indication of technical teaching. A mathematics instructor and assistant held defined positions, and curricular references connect the institution to textual knowledge circulating across East Asia. Yet the existence of prescribed texts does not reveal how deeply calculations were taught or whether graduates later worked on every known royal construction project.",
+        "Outside Gukhak, artisans and clerks possessed knowledge acquired through practice. Surveying, weights, accounts and construction required skills not necessarily represented in the biographies of elite scholars. A history of learning should acknowledge the divided documentary record: state texts preserve official rank and curricula, while most workshop instruction left little writing behind.",
+        "The shared use of Literary Chinese enabled Silla officials to communicate with Tang and other neighbouring courts, but local languages persisted in speech, names and poetic writing. Adaptations of Chinese characters to express Korean grammatical forms are evidence of a complex linguistic environment, not an absence of indigenous intellectual creativity.",
+        "A school also functioned as a network. Teachers trained students, and officials who had read similar texts could share administrative vocabulary even when serving at different locations. The resulting continuity contributed to the state's ability to record decisions, petition higher offices and interpret earlier orders. Whether these connections worked effectively in every district is another question.",
+        "Gukhak's importance lies in institutionalized elite expertise. Its history becomes clearer when the historian distinguishes its creation, specialist teaching, restrictions of rank and broader forms of practical knowledge. It represents one significant site of learning within a kingdom where literacy and intellectual opportunity remained uneven."
+      ],
+      "sequence": 7,
+      "label": "Batch U · source-specific cultural history expansion"
+    }
+  ]
+}

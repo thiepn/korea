@@ -1,0 +1,124 @@
+{
+  "id": "III.4.4",
+  "title": "Daegaya and the Rise of a New Gaya Center",
+  "kicker": "GAYA · SOUTHERN KINGDOMS AND NETWORKS",
+  "description": "Original source-conscious history of daegaya and the rise of a new gaya center, distinguishing chronicles, political claims and excavated material.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis with contextual institutional and UNESCO citations; contested chronicles and archaeological inference qualified.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy permanent gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Gimhae, Goryeong, Haman and Hapcheon archaeological assemblages, iron, armour and trade"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000257",
+      "role": "Historical terminology, political succession, 400 campaign and 532/562 dates"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daegaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013970",
+      "role": "Goryeong political centre, chronicle ambiguities and 562 conquest"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gaya Tumuli",
+      "url": "https://whc.unesco.org/en/list/1666",
+      "role": "Seven archaeological cemetery clusters and changing regional elite networks"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.4.4:b01",
+      "title": "Goryeong as a growing political centre",
+      "paragraphs": [
+        "Daegaya's later prominence is associated with the Goryeong region and the concentration of imposing elite tombs at Jisan-dong. The development followed changes in the lower Nakdong power balance, but the precise timing and reasons for its rise require more than a claim that one federation simply moved its capital. Local production, alliances and the ability to mobilize communities in adjacent valleys all contributed to potential authority.",
+        "The Academy of Korean Studies notes that the same terms Gaya, Gara and Daegaya could refer to different centres in different texts. This creates historical confusion when a chronicle records a Gaya king without specifying which polity. Geographical inference must be tied to dates and source context, while an attractive territorial map should not resolve every ambiguity by assertion. The centre's political strength is visible in both text and archaeology, but the two registers remain distinct."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Museum documents distinct Gimhae, Goryeong, Haman and Hapcheon Gaya archaeological centres, and AKS distinguishes Gaya names and changing political centres.",
+          "sourceIndex": 0,
+          "locator": "Gaya Confederacy permanent gallery, regional tomb complexes and iron",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.4:b02",
+      "title": "Jisan-dong and the politics of burial",
+      "paragraphs": [
+        "The Jisan-dong tumuli include exceptionally large burial mounds and rich offerings, which demonstrate the concentration of resources among prominent groups. Their scale implies labour coordination, specialist craft and arrangements for collecting and redistributing goods. Human sacrifice or attendant burial has been discussed for some Gaya elite tombs, raising difficult questions about coercion, rank and ritual obligation.",
+        "Burial evidence is not a census of the living. Tombs may represent a narrow elite, and mortuary practices can exaggerate hierarchy or change independently of political institutions. The interpretation of particular skeletons and placements demands archaeological documentation, not a generic statement that every large tomb contained the same ceremony. The cemetery is especially useful when compared with ordinary settlements, agricultural production and regional workshops whose labour supported elite display."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Museum documents distinct Gimhae, Goryeong, Haman and Hapcheon Gaya archaeological centres, and AKS distinguishes Gaya names and changing political centres.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 가야, political chronology and terminology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.4:b03",
+      "title": "Rulers, titles and symbols of supra-local power",
+      "paragraphs": [
+        "Inscriptions on Gaya-period objects, including terminology rendered as great king, indicate the ambitions of some rulers and their use of prestige language. Such terms tell us how elites wished to be recognized, but do not specify the precise territory or enforceable powers of the person who bore the title. The court could be influential beyond Goryeong without governing every Gaya polity as a province.",
+        "A network of subordinate chiefs might supply tribute or troops in exchange for alliance and security. Alternatively, some communities may have balanced Daegaya against Silla, Baekje or another Gaya centre. The historian should distinguish influence from direct administration and acknowledge the possibility of several competing alliances in the same region. The absence of a surviving Daegaya administrative archive sharply limits reconstruction of its court procedures."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.4:b04",
+      "title": "Diplomacy across an unstable political landscape",
+      "paragraphs": [
+        "Daegaya operated between larger neighbours whose power was changing in the fifth and sixth centuries. Relations with Baekje could offer routes and military partnerships; relations with Silla might provide security but risk dependence. Sources refer to negotiations and shifting alliances, though chronology and attribution can be problematic.",
+        "The court's strategic problem was not solved by one permanent friend or enemy. A community that exported iron or maintained river passages could be economically valuable and militarily exposed at once. Alliances could turn costly if allies pursued territorial expansion of their own. The political trajectory of Daegaya is therefore best understood through a sequence of specific diplomatic choices and changing material capabilities, not a timeless claim that its leaders were predestined to be absorbed by Silla."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.4:b05",
+      "title": "A diverse kingdom beneath a royal name",
+      "paragraphs": [
+        "Goryeong's elite centre depended on farming households, craft workers, transporters and people in smaller settlements. The funerary wealth of its rulers should not obscure these populations or imply that all residents identified themselves as members of a single ethnic nation. Regional pottery and burial forms show both shared patterns and significant variation.",
+        "A state can integrate a region politically while local customs remain distinct. Craft circulation may reflect exchange rather than permanent migration, and administrative influence may extend only along secure routes. Maps often combine evidence from different decades into a single outline. A more historically honest approach illustrates an expanding sphere of power with uncertain margins and records the evidence behind each proposed identification."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.4:b06",
+      "title": "Power in 562 and the problem of sudden endings",
+      "paragraphs": [
+        "The Silla court's conquest of Daegaya in 562 is recorded in the Samguk Sagi, which associates the expedition with Isabu and Sadaham. By then Geumgwan Gaya had already submitted in 532. Confusion between the two events occurs in later transmitted traditions and must be resolved through source comparison rather than by simply choosing the most memorable date.",
+        "The loss of independent kingship did not erase the people, crafts and networks of Goryeong. Elites might enter Silla service, communities might retain local practices and material production could continue under new obligations. The dramatic event is the end of one royal authority. The larger history includes the changing conditions that made it possible and the uneven social transformations afterward."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.4:b07",
+      "title": "The chronology of Jisan-dong and regional command",
+      "paragraphs": [
+        "The Jisan-dong tumulus landscape is evidence of Goryeong's extraordinary concentration of labour and elite ambition. Archaeological chronology can show that large mounds accumulated over time, with changes in construction and furnishing. It cannot automatically tell us whether successive graves belonged to a single uninterrupted royal dynasty or how an associated title was inherited. A large cemetery is a political archive of choices, but not a written succession list.",
+        "The buried goods include metal objects and pottery that can be compared with finds from other Gaya centres. Shared techniques may imply communication among craftspeople or elite demand for similar forms, while differences indicate independent local histories. Patterns of contact must not be converted into tributary relationships without evidence. A prestige item is not a surviving diplomatic contract.",
+        "Daegaya's political position depended upon movement through inland valleys and relationships with neighbours who could either cooperate or resist. Its rulers might have assembled troops through multiple local chiefs rather than commanding one permanent army administered across every district. Sources do not preserve a detailed mobilization register, so precise estimates of manpower are speculative.",
+        "Its fall in 562 illustrates that elaborate elite culture and strong regional influence were insufficient guarantees of survival against Silla's growing power. But the monarchy's defeat is not a measure of its civilisation's worth. Goryeong's material legacy and the continued lives of its communities are part of the same history as Isabu's campaign and the later transfer of political authority."
+      ],
+      "sequence": 7,
+      "label": "Batch U · source-specific archaeological expansion"
+    }
+  ]
+}

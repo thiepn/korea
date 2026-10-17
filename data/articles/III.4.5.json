@@ -1,0 +1,124 @@
+{
+  "id": "III.4.5",
+  "title": "Ara Gaya and the Central Nakdong Polities",
+  "kicker": "GAYA · SOUTHERN KINGDOMS AND NETWORKS",
+  "description": "Original source-conscious history of ara gaya and the central nakdong polities, distinguishing chronicles, political claims and excavated material.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis with contextual institutional and UNESCO citations; contested chronicles and archaeological inference qualified.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy permanent gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Gimhae, Goryeong, Haman and Hapcheon archaeological assemblages, iron, armour and trade"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000257",
+      "role": "Historical terminology, political succession, 400 campaign and 532/562 dates"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daegaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013970",
+      "role": "Goryeong political centre, chronicle ambiguities and 562 conquest"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gaya Tumuli",
+      "url": "https://whc.unesco.org/en/list/1666",
+      "role": "Seven archaeological cemetery clusters and changing regional elite networks"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.4.5:b01",
+      "title": "Haman and a different centre of power",
+      "paragraphs": [
+        "Ara Gaya, associated with the Haman region, shows why Gaya should be analysed as multiple political communities rather than a single kingdom whose centre changed once. The Malisan tomb clusters reveal conspicuous elite wealth and distinctive material culture. Their placement within the local landscape suggests rulers and families who could mobilize significant resources and make their status visible through burial.",
+        "The chronology of tomb construction and the relationships among leading lineages require close archaeological work. A rich burial may reflect competition for prestige among local families rather than unquestioned obedience to one monarch. The category Ara Gaya is useful for political history, but individual objects cannot automatically be assigned to a royal institution named in a later text. The inhabitants of Haman also maintained agricultural and craft life beyond its celebrated graves."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Museum documents distinct Gimhae, Goryeong, Haman and Hapcheon Gaya archaeological centres, and AKS distinguishes Gaya names and changing political centres.",
+          "sourceIndex": 0,
+          "locator": "Gaya Confederacy permanent gallery, regional tomb complexes and iron",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.5:b02",
+      "title": "The central Nakdong corridor",
+      "paragraphs": [
+        "The Haman area was connected to inland and coastal routes, offering opportunities for exchange with surrounding Gaya polities, Baekje, Silla and maritime communities. Access to river passages could create strategic value even when a centre did not command the largest known territory.",
+        "The region's political leaders could profit from acting as intermediaries and face military pressure from larger neighbours. A map of roads and waterways helps frame possibilities, but actual journeys are not documented for every year. Archaeological similarities with neighbouring sites may reflect trade, shared craftsmen or mobility of people; they are not sufficient to prove direct rule. Ara's history must be reconstructed at the scale of local settlements and inter-polity relationships."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "The National Museum documents distinct Gimhae, Goryeong, Haman and Hapcheon Gaya archaeological centres, and AKS distinguishes Gaya names and changing political centres.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 가야, political chronology and terminology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.5:b03",
+      "title": "Embassies, rivalries and textual ambiguity",
+      "paragraphs": [
+        "The Nihon Shoki preserves names and episodes interpreted as involving Anra or Ara, particularly during the sixth-century contests over the Gaya region. Because the chronicle was compiled in Japan in the eighth century and organized to serve court history, its diplomatic narratives demand close comparison with Korean records and archaeology.",
+        "Its accounts cannot be read as a straightforward archive of a Japanese colonial government ruling southern Korea. Terms such as Mimana, Anra and Gara were used in different ways, and translation choices can produce misleading certainty. The historian should ask whether a passage describes an embassy, an allied military force, a foreign official's claim or a later court ideology. Conflating these forms has historically produced serious distortions."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.5:b04",
+      "title": "The material language of status",
+      "paragraphs": [
+        "Malisan burials contain arms, horse equipment, pottery and ornaments that illustrate elite investment in military display and ritual commemoration. Their assemblages differ in some respects from Gimhae and Goryeong, which is evidence of regional cultural choices and possibly distinct political networks.",
+        "The existence of armour in a grave does not prove that its occupant commanded a standing army of a particular size. Horse gear may indicate martial prestige without establishing the battlefield use of each object. Comparisons with other tomb groups are most productive when chronology and excavation context are carefully matched. A spectacular item removed from its burial circumstances is less informative about Ara society than a documented sequence of graves and nearby settlements."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.5:b05",
+      "title": "Local strategy amid sixth-century competition",
+      "paragraphs": [
+        "Ara's leaders had to navigate the shifting positions of Baekje, Silla and Daegaya. Diplomatic contacts could offer temporary protection while also exposing the polity to pressure from its own allies. Different Gaya communities might favour competing partnerships, which undercuts any image of a federation consistently acting through one common foreign policy.",
+        "A local ruling family could calculate short-term safety differently from leaders in another Nakdong valley. Political history should therefore preserve disagreement and uncertainty even when sources provide only isolated envoys or battles. The sixth-century decline of independent Gaya polities happened in stages and at different sites, rather than through one sweeping annexation of a homogeneous territory."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.5:b06",
+      "title": "Ara's historical individuality",
+      "paragraphs": [
+        "Haman's archaeological record provides a valuable corrective to narratives that move directly from early Gimhae to late Goryeong. Its communities participated in regional politics and fashioned a distinctive elite culture over several centuries. Their achievements were not merely variations of another centre's institutions.",
+        "The limits of surviving written evidence mean that much of the story remains one of material patterns, political inference and comparison. This is not a reason to invent missing dynasties or constitutional procedures. It is a reason to present Ara Gaya as an important historical actor whose role becomes more intelligible when the south is understood as an interconnected field of competing, cooperating and changing polities."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.5:b07",
+      "title": "Ara's evidence outside later dynastic memory",
+      "paragraphs": [
+        "Malisan's archaeological evidence provides a local chronology that can be investigated even where written sources are uncertain. The placement of mounds, burial furniture and construction techniques shows elite investment in Haman. Yet identifying one grave as belonging to a ruler named in an external chronicle requires more than approximate chronological overlap. Tomb occupants are not labelled in the way historians would prefer.",
+        "The region's position in the central Nakdong network could make it an intermediary between inland and coastal producers. Such an economic role required cooperation by smaller communities, whose material record may be relatively modest. Iron objects and pottery found in tombs reveal the ability of elites to acquire goods; they do not document the precise labour obligations of every farming household.",
+        "In the Japanese chronicle, the term Anra appears within narratives structured by the concerns of the Wa court. This evidence deserves study rather than blanket dismissal, but its terminology and claims require comparison with material finds and the Korean historical record. A reference to an envoy or meeting cannot automatically prove long-term domination by the court that recorded it.",
+        "Ara's survival and political strategies must also be understood as historically changing. It was not a passive middle territory between Geumgwan and Daegaya. Its leading families could seek advantage from shifting alliances, defend routes and adopt outside practices selectively. The result was a distinctive political history with serious evidentiary gaps, not a story that can be reconstructed fully by borrowing another kingdom's chronology."
+      ],
+      "sequence": 7,
+      "label": "Batch U · source-specific archaeological expansion"
+    }
+  ]
+}

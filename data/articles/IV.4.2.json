@@ -1,0 +1,131 @@
+{
+  "id": "IV.4.2",
+  "title": "Wonhyo and the Harmonization of Buddhist Thought",
+  "kicker": "UNIFIED SILLA · BUDDHISM AND INTELLECTUAL LIFE",
+  "description": "Source-conscious history of wonhyo and the harmonization of buddhist thought, distinguishing doctrinal texts, biographies, material remains and later legend.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis based on selective National Museum and Academy of Korean Studies materials, distinguishing legendary anecdotes from documented manuscripts.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period, permanent gallery",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Buddhist architecture, funerary practices, art, capital and cultural exchange"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Wonhyo (원효)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040908",
+      "role": "Life 617–686, writings, harmonization and popular Buddhist engagement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Uisang (의상)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0043250",
+      "role": "Study in Tang under Zhiyan, return to Silla and founding Hwaeom networks"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hwaeom Buddhism (화엄종)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0064815",
+      "role": "Doctrinal reception and subsequent development of Hwaeom"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gameunsa stupa sarira reliquary",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2481&schM=relic_represent_view",
+      "role": "Securely dated royal-associated 682 religious material and reliquary context"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.4.2:b01",
+      "title": "The scholar and the problem of contradictions",
+      "paragraphs": [
+        "Wonhyo, conventionally dated 617–686, became one of the most important thinkers in Korean Buddhist history through extensive commentarial writing. He examined scriptures and interpretations that appeared to disagree, arguing that apparent opposition could be understood through different explanatory perspectives rather than by declaring one tradition entirely false. This approach is often described as hwajaeng, or harmonization of disputes.",
+        "The Academy of Korean Studies identifies major works including his commentary on the Awakening of Faith and writings on the Vajrasamādhi Sutra. Their intellectual significance cannot be reduced to the slogan that all schools are the same. Wonhyo's arguments respond to technical questions about mind, awakening and the conditions under which different teachings can be valid. A careful presentation distinguishes his surviving texts from later stories used to dramatize his personality."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies identifies Wonhyo's works and Uisang's Tang study under Zhiyan, while the National Museum documents Buddhist material culture and the royal Gameunsa reliquaries.",
+          "sourceIndex": 1,
+          "locator": "원효: writings, hwajaeng and Buddhist popularization",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.2:b02",
+      "title": "The question of one mind",
+      "paragraphs": [
+        "Wonhyo's thought engages the relation between enlightenment and delusion, and the ways experience can be understood from different standpoints. Readers sometimes translate this into a vague celebration of tolerance, but his conceptual work is more precise. He attempted to explain how apparently contradictory analyses relate without abandoning disciplined argument or the Buddhist goal of liberation.",
+        "The relevant texts belonged to a learned East Asian debate, not to a purely isolated national philosophy. Writings circulated beyond Silla and influenced subsequent readers. Comparing a later Chinese reference to Wonhyo with his own arguments can show reception, but reputation is not itself proof of every interpretation attributed to him. The historian needs to keep textual transmission and later devotional memory separate."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies identifies Wonhyo's works and Uisang's Tang study under Zhiyan, while the National Museum documents Buddhist material culture and the royal Gameunsa reliquaries.",
+          "sourceIndex": 1,
+          "locator": "원효: writings, hwajaeng and Buddhist popularization",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.2:b03",
+      "title": "Journey stories and the boundaries of evidence",
+      "paragraphs": [
+        "The famous narrative of Wonhyo abandoning a journey to Tang after discovering that the pleasant water he drank came from a skull illustrates the insight that experience is shaped by mind. It has extraordinary pedagogical force but survives in later literary traditions with variant details. It should not be treated as an independently recorded contemporary travel diary.",
+        "The story belongs to the history of how followers understood Wonhyo's teaching. Its power lies in turning an abstract intellectual problem into a memorable episode. A historian can explain that function while preserving uncertainty about the precise event. The temptation to dramatize famous religious lives should not replace analysis of texts for which authorship and philosophical argument can be examined directly."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.2:b04",
+      "title": "Royal ties and a changed religious career",
+      "paragraphs": [
+        "Accounts of Wonhyo's relationship with Princess Yoseok and his subsequent status outside conventional monastic discipline complicate a portrait of him as merely a scholar secluded in a monastery. Later narratives associate him with a son, Seol Chong, and with activity among wider lay communities. The sources differ in purpose and detail, so the biographical tradition needs explicit attribution.",
+        "Such accounts have been interpreted as evidence for efforts to bring Buddhist teaching to people beyond an educated monastic elite. That public significance should not be denied, yet it should not be made into a claim that he single-handedly democratized all religion. Popular devotion involved many practitioners, patrons and local communities whose records are far less visible. Wonhyo's unusual career helps illuminate those possibilities without being sufficient evidence for a kingdom-wide social revolution."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.2:b05",
+      "title": "No-obstruction and popular practice",
+      "paragraphs": [
+        "The phrase muae, or unhindered practice, is associated with Wonhyo's religious activity and later memory. Narratives of movement, song and accessible teaching contrast with elite scholastic debate but should not be read as the abandonment of learning. The same intellectual could produce subtle arguments and reach audiences through different modes of communication.",
+        "The exact practices of lay people cannot be reconstructed from anecdotes about one monk. The sources largely preserve exceptional figures, while ordinary participation leaves scattered archaeological and textual traces. An evidence-conscious account therefore uses Wonhyo as an entry into multiple registers of religion rather than as a representative statistic. It explains why his image became attractive to later traditions without assuming a single public reception in seventh-century Silla."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.2:b06",
+      "title": "What survived and why it mattered",
+      "paragraphs": [
+        "Wonhyo's influence rests partly on texts that remained useful for later Buddhist scholarship and partly on a biography repeatedly reinterpreted. Learned readers engaged his commentarial reasoning, while stories about his life communicated lessons about insight and the limits of ordinary distinctions. These trajectories are related but not identical.",
+        "His place in Unified Silla reflects the intellectual agency of thinkers who worked within a shared transregional tradition while developing distinctive syntheses. A history attentive to textual chronology can show how his arguments emerged amid debates available in East Asia and why later writers found them compelling. That yields a fuller picture than either a nationalist claim of absolute originality or a picture of mere imitation of Tang models."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.2:b07",
+      "title": "Interpreting Wonhyo through writings and memory",
+      "paragraphs": [
+        "Wonhyo's fame today rests on both surviving doctrinal writings and a set of vivid stories transmitted by later authors. The written arguments deserve analysis as contributions to East Asian Buddhist debates, whereas anecdotes about drinking water from a skull reveal how later communities dramatized insight. A historian should not use one genre as an interchangeable source for the other.",
+        "Hwajaeng, the harmonization of doctrinal disputes, did not mean that contradicting propositions were all accepted indiscriminately. Wonhyo examined how teachings could address different levels or conditions of understanding. His intellectual work requires attention to the actual interpretive problems of scripture, including distinctions between mind, delusion and awakening. A slogan about tolerance cannot substitute for those arguments.",
+        "His relationships with the royal household and the traditions surrounding Princess Yoseok are evidence of a complex remembered career, but their precise details require attribution. Later depictions of Wonhyo reaching ordinary people through song and unhindered conduct are culturally important without amounting to a documented census of lay Buddhism across Silla.",
+        "The scale of works attributed to Wonhyo is striking, yet attribution and preservation differ by text. Some writings survive substantially, others are known through citations or later lists. Scholars distinguish direct reading of a text from reconstruction based on subsequent authors who interpreted it. These limits matter when assigning a philosophical claim specifically to Wonhyo rather than to his later reception.",
+        "Placing him in context also prevents a narrow nationalist history. His questions participated in Buddhist debates shared across Tang and Silla, while his responses were distinctive enough to attract later attention outside the peninsula. Intellectual exchange was not a binary between foreign import and native invention. It was a process of argument, textual transmission and interpretation."
+      ],
+      "sequence": 7,
+      "label": "Batch U · source-specific scholarly expansion"
+    }
+  ]
+}

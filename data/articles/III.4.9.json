@@ -1,0 +1,124 @@
+{
+  "id": "III.4.9",
+  "title": "Diplomacy among Gaya, Baekje, Silla, and Wa",
+  "kicker": "GAYA · SOUTHERN KINGDOMS AND NETWORKS",
+  "description": "Original source-critical history of diplomacy among gaya, baekje, silla, and wa, with archaeological and textual distinctions.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis with selective museums, academy and UNESCO evidence; written political traditions and individual grave interpretations are qualified.",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gaya Tumuli: Outstanding Universal Value",
+      "url": "https://whc.unesco.org/en/list/1666",
+      "role": "Seven independently developed Gaya elite cemeteries, regional polity distinctions, tomb structures and deposition"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy: Gallery",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Iron, metallurgy, pottery, mounted equipment and burial assemblages"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000257",
+      "role": "Diverse polities, transmarine claims and chronology of conquest"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daegaya",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013970",
+      "role": "Terminological differences, diplomatic interpretations and conquest in 562"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.4.9:b01",
+      "title": "Diplomacy among several southern courts",
+      "paragraphs": [
+        "Gaya was situated among expanding Silla and Baekje, a powerful Goguryeo to the north and communities of the Japanese archipelago across the sea. Its polities were not bound to one permanent foreign policy. An agreement that suited Geumgwan might not serve the interests of Ara or Daegaya, and changing control of river routes could alter the value of any alliance.",
+        "Written sources from different courts highlight their own achievements and grievances. The Samguk Sagi was compiled in Goryeo, centuries after many events; the Nihon Shoki was compiled for an eighth-century Japanese court; the Gwanggaeto Stele commemorates Goguryeo victory. None can be treated as neutral minutes of a Gaya diplomatic council. Comparing them with archaeology helps reconstruct relationships without equating each foreign assertion with direct political possession."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "UNESCO recognizes seven distinctive Gaya cemetery landscapes demonstrating shared practices and autonomous centres, while Korean reference histories distinguish the 532 and 562 conquests.",
+          "sourceIndex": 0,
+          "locator": "Gaya Tumuli UNESCO OUV: seven cemeteries, regional difference, shared cultural forms",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.9:b02",
+      "title": "Baekje and routes toward the southwest",
+      "paragraphs": [
+        "Baekje's political centres and western maritime access offered possible economic and strategic connections for Gaya polities. Sixth-century diplomacy could involve attempts to contain Silla or to bargain over contested corridors. Yet the surviving reports do not establish a continuous alliance of all Gaya leaders with Baekje.",
+        "The distinction between participation in a particular campaign and long-term subordination matters. Some Gaya communities may have negotiated support with Baekje while others pursued independent relationships. A route through a river valley could be used for trade at one moment and military movement at another. Explaining these shifting incentives is more historically persuasive than assigning permanent geopolitical identities to the southern kingdoms."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "UNESCO recognizes seven distinctive Gaya cemetery landscapes demonstrating shared practices and autonomous centres, while Korean reference histories distinguish the 532 and 562 conquests.",
+          "sourceIndex": 2,
+          "locator": "한국민족문화대백과사전 가야, 532/562 dates and southern diplomacy",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.4.9:b03",
+      "title": "Silla as competitor, partner and conqueror",
+      "paragraphs": [
+        "Silla's role in Gaya history changed over several centuries. The two worlds exchanged goods and technical knowledge while their courts competed over territory and allegiance. The surrender of Geumgwan Gaya in 532 and the destruction of Daegaya in 562 mark distinct stages of Silla expansion, not one undifferentiated conquest.",
+        "Some Gaya royal and elite families entered Silla society, contributing skills and connections to the expanding kingdom. The later reputation of Kim Yusin's ancestry provides a memorable example of such integration, but individual genealogical traditions need source criticism. The loss of independent courts could coexist with continued production and family life. Political incorporation was a historical process rather than instant cultural disappearance."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.9:b04",
+      "title": "Wa relationships and the politics of a word",
+      "paragraphs": [
+        "Relations with the archipelago included craft circulation, possible migration, diplomacy and military partnerships. Japanese court traditions use the designation Mimana, later deployed in narratives of Japanese colonial entitlement over Korea. The political afterlife of the term makes it especially important to avoid projecting a modern administrative meaning onto early references.",
+        "Material from Gaya contexts found in Japan shows connections, but the transfer of pottery or metal technology does not by itself demonstrate Japanese colonial offices in Gaya. Nor should archaeology be forced to deny the possibility of particular Wa military interventions described in sources. The appropriate method tests each episode and separates exchange, coalition fighting, tribute claims and institutional rule as distinct relationships."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.9:b05",
+      "title": "The importance of diplomatic intermediaries",
+      "paragraphs": [
+        "Embassies required people able to navigate language, routes and court etiquette. Local elites could act as brokers between Gaya polities and larger neighbours, securing gifts, marriages or military commitments. Their influence may be mostly invisible in surviving texts, which prefer to name kings and major campaigns.",
+        "Archaeological similarities in elite goods can suggest repeated contact, but cannot tell us who negotiated a treaty or what guarantees were exchanged. Conversely a chronicler's record of an embassy does not establish the experiences of traders and coastal residents who sustained the route. Diplomatic history becomes richer by placing formal exchanges within the material conditions that made them possible."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.9:b06",
+      "title": "A changing equilibrium, not a fixed alliance map",
+      "paragraphs": [
+        "The political field was altered by Goguryeo's southern intervention around 400, Baekje's shifting strategies and Silla's later growth. Gaya communities possessed meaningful choices but also faced increasing structural constraints as stronger states expanded. A strategy successful in one decade could become untenable in another.",
+        "The account must therefore preserve chronology. Invoking one timeless Gaya–Wa alliance or permanent Gaya–Baekje front conceals change and regional disagreement. The evidence supports active southern diplomacy across a highly connected environment, while leaving many individual agreements uncertain. The final destruction of independent Gaya royal centres did not negate the importance of their earlier strategic agency."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "III.4.9:b07",
+      "title": "Chronicle comparison as a diplomatic method",
+      "paragraphs": [
+        "A reported embassy in the Nihon Shoki must be read in light of that text's eighth-century compilation and its concern with Japanese court authority. The Samguk Sagi, composed centuries later under Goryeo, presents earlier Silla and Baekje actions through a different political lens. The Gwanggaeto inscription directly represents Goguryeo's commemorative viewpoint. These witnesses are not interchangeable, even where they refer to overlapping conflicts.",
+        "A diplomat's journey might involve exchange of gifts, marriage negotiations or requests for troops, but the survival of a court reception does not establish every motive. A history should identify who reported the encounter and which claims are attributed to the visitor rather than accepted as independent fact. Such precision is especially essential for the shifting use of Imna.",
+        "Archaeology helps demonstrate that the sea between Gaya and Wa was traversed repeatedly. Shared ironworking traditions, burial items and ceramics make isolation implausible. But they cannot establish the legal status of a particular port. An exchange network can be politically significant without becoming a colonial administrative system.",
+        "The ultimate test of diplomacy is chronology. Relations during the aftermath of the 400 campaign differed from the environment of Silla expansion in the sixth century. Geumgwan's surrender in 532 and Daegaya's defeat in 562 reflect different local strategies and balances of power. Flattening them into a timeless alliance matrix would conceal the very choices that make early medieval diplomacy historical."
+      ],
+      "sequence": 7,
+      "label": "Batch U · source-specific archaeological expansion"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "IV.4.5",
+  "title": "Monasteries, Monks, Pilgrimage, and the Buddhist Economy",
+  "kicker": "UNIFIED SILLA · BUDDHISM AND INTELLECTUAL LIFE",
+  "description": "Source-conscious history of monasteries, monks, pilgrimage, and the buddhist economy, distinguishing doctrinal texts, biographies, material remains and later legend.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis based on selective National Museum and Academy of Korean Studies materials, distinguishing legendary anecdotes from documented manuscripts.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period, permanent gallery",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Buddhist architecture, funerary practices, art, capital and cultural exchange"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Wonhyo (원효)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040908",
+      "role": "Life 617–686, writings, harmonization and popular Buddhist engagement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Uisang (의상)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0043250",
+      "role": "Study in Tang under Zhiyan, return to Silla and founding Hwaeom networks"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hwaeom Buddhism (화엄종)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0064815",
+      "role": "Doctrinal reception and subsequent development of Hwaeom"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gameunsa stupa sarira reliquary",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?relicId=2481&schM=relic_represent_view",
+      "role": "Securely dated royal-associated 682 religious material and reliquary context"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.4.5:b01",
+      "title": "A monastery was a working community",
+      "paragraphs": [
+        "A large Unified Silla monastery combined ritual spaces with kitchens, stores, lodging, workshops and lands or donors that supported its inhabitants. Its visible stone pagoda was only one element of an organization requiring regular food, repairs and skilled service. The institution could receive royal or aristocratic gifts while interacting with farmers and labourers whose names seldom entered commemorative inscriptions.",
+        "Reading temples as economic actors does not reduce religious motivation to material gain. Offerings were embedded in hopes for merit, protection, memory and spiritual progress. But those hopes had concrete effects on resources and local relationships. A donated field could provide food for monks while changing the obligations of people cultivating it. Administrative arrangements differed, and the surviving evidence rarely permits a comprehensive balance sheet for one temple across several centuries."
+      ],
+      "sequence": 1,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies identifies Wonhyo's works and Uisang's Tang study under Zhiyan, while the National Museum documents Buddhist material culture and the royal Gameunsa reliquaries.",
+          "sourceIndex": 0,
+          "locator": "Unified Silla gallery: Buddhist funerary practice and religious objects",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.5:b02",
+      "title": "Patronage and the distribution of power",
+      "paragraphs": [
+        "Kings and elites sponsored important religious buildings and images, leaving durable objects as signs of devotion and status. The Gameunsa reliquary provides a rare securely dated example of rich materials associated with royal sponsorship. Such treasures illustrate the capacity to mobilize specialist craftsmanship, not the ordinary equipment of every monastery.",
+        "Smaller foundations relied on different combinations of local support, religious networks and individual offerings. The relative influence of a temple could vary with the political position of its patrons. A monastery tied closely to a royal household might prosper during one reign and face uncertainty during a succession struggle. This relationship made religious institutions participants in politics even when their official mission concerned spiritual practice."
+      ],
+      "sequence": 2,
+      "label": "Original historical analysis",
+      "evidence": [
+        {
+          "claim": "The Academy of Korean Studies identifies Wonhyo's works and Uisang's Tang study under Zhiyan, while the National Museum documents Buddhist material culture and the royal Gameunsa reliquaries.",
+          "sourceIndex": 0,
+          "locator": "Unified Silla gallery: Buddhist funerary practice and religious objects",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.5:b03",
+      "title": "Ordination, discipline and learning",
+      "paragraphs": [
+        "Monks required training in scriptures, ritual and community discipline. Monastic rules created internal hierarchies, while respected masters attracted students from elsewhere. The ability to copy manuscripts and study sophisticated commentaries depended on literacy and access to educational materials.",
+        "Such practices did not involve only the capital. Regional temples could become centres of learning, especially as Seon networks expanded in later Silla. Yet the surviving biographies emphasize remarkable monks, and we cannot infer that every novice received identical instruction. Studying the actual buildings, inscriptions and manuscripts of individual communities offers better insight than an imagined uniform curriculum applied across the kingdom."
+      ],
+      "sequence": 3,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.5:b04",
+      "title": "Travel and pilgrimage",
+      "paragraphs": [
+        "Pilgrims could visit revered temples, sacred mountains and centres associated with important teachers. Monks sometimes travelled abroad, and some undertook arduous journeys to the Chinese mainland and beyond. Travel depended on roads, ships, patrons and the goodwill of intermediaries who could provide lodging and protection.",
+        "The best-known travellers should not be treated as typical of the whole monastic population. Their surviving texts are exceptional records of unusual experience, shaped by literary conventions and retrospective writing. Archaeological finds of imported goods or foreign styles may indicate wider connections but cannot identify every journey. A fuller history includes the many local movements that sustained regional religious networks without becoming famous travelogues."
+      ],
+      "sequence": 4,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.5:b05",
+      "title": "Religious service and lay encounters",
+      "paragraphs": [
+        "Temples offered ritual opportunities connected to illness, bereavement, seasonal observance and hopes for a favourable rebirth. Their public meaning extended beyond elite philosophical debates. Lay people may have donated food or work and received ceremonies or teaching in return, though actual participation is unevenly documented.",
+        "The presence of Buddhist images in household or burial contexts can suggest devotion, but does not measure the depth of personal understanding of Hwaeom, Pure Land practice or other teachings. Religion could be meaningful through ritual and social association even when participants did not read complex scriptures. Historians should therefore avoid using literacy as the measure of religious belonging."
+      ],
+      "sequence": 5,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.5:b06",
+      "title": "Economic institutions under changing royal power",
+      "paragraphs": [
+        "Late Silla's political troubles altered the environment in which monasteries competed for donations and protection. Regional leaders could support local religious communities while royal patronage remained symbolically important. The emergence of Seon mountain temples illustrates connections between religious authority and provincial power.",
+        "Monastic wealth could attract support and conflict, but evidence for specific estates or exploitation must be examined locally rather than generalized from later Goryeo institutions. Buddhist temples were durable economic organizations whose trajectories varied by site and period. Their contribution to cultural civilization included teaching and art as well as the often-invisible labour of daily maintenance."
+      ],
+      "sequence": 6,
+      "label": "Original historical analysis"
+    },
+    {
+      "id": "IV.4.5:b07",
+      "title": "Temple revenue and the meaning of a gift",
+      "paragraphs": [
+        "A donation to a monastery could be made in hope of religious merit, remembrance or royal favour, but it could also shift the control of productive resources. Land needed cultivators, buildings needed repair and ceremonies required food. The economic results of a gift therefore extended beyond the donor and the monastic official whose names survived in an inscription.",
+        "What we can say confidently about a temple's economy depends on the evidence for that institution. A wealthy eighth-century foundation cannot be assumed to possess every estate and privilege documented for much later Goryeo monasteries. Retrospective projection would conceal changes in law, court policy and local relationships. Specific texts and dated material remains are essential.",
+        "Pilgrimage and monastic travel created demands for lodging, food and navigation. Some travelling monks entered international networks, while far more likely moved between regional temples. Surviving biographies favour exceptional long journeys, so they overrepresent mobility that was unusual enough to be remembered. A landscape of everyday local movement is harder to reconstruct but important.",
+        "Monasteries also created spaces for teaching and the copying or preservation of texts. This work required trained readers and scribes, and it depended on donors who could supply paper and materials. The presence of learned manuscripts tells us about a literate religious institution, not the literacy of every lay donor who attended its rituals.",
+        "As Silla's royal centre weakened, support for some monasteries came increasingly through regional patrons. This shift could change which teachers gained prestige and where new institutions were founded. The rise of Seon networks does not prove that earlier doctrinal temples disappeared or that patrons had only political motives. Religious economies remained diverse and locally conditioned."
+      ],
+      "sequence": 7,
+      "label": "Batch U · source-specific scholarly expansion"
+    }
+  ]
+}
