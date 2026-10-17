@@ -1,0 +1,130 @@
+{
+  "id": "IV.4.6",
+  "title": "Seon Buddhism and the Rise of the Mountain Schools",
+  "kicker": "UNIFIED SILLA · MONASTIC AND CULTURAL WORLDS",
+  "description": "Original source-critical account of seon buddhism and the rise of the mountain schools, distinguishing textual histories, material testimony and interpretation.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis; selective Korean Academy and National Museum institutional sources and qualified later compilations.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nine Mountain Seon Schools (선종구산문)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0028926",
+      "role": "Late Silla provincial Buddhist networks, leaders and lineages"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Stupa of Master Yeomgeo",
+      "url": "https://vcm.museum.go.kr/JPN/contents/E0403000000.do?relicId=4316&schM=relic_represent_view",
+      "role": "Dated 844 Gajisan Seon stupa and accompanying record"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangchal",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062985",
+      "role": "Korean language recording using Chinese characters and survival of hyangga"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangga (향가)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062873",
+      "role": "Poetry forms, transmission and uncertainties"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Mathematics Doctor (산학박사)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026391",
+      "role": "Silla Gukhak 682 and mathematical specialist teaching from 717"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period permanent gallery",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Religious art, funerary urns, glazing and transregional material culture"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samguk Yusa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0069669",
+      "role": "Later transmission of poems, monk biographies and historical memory"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.4.6:b01",
+      "title": "A changing map of Buddhist authority",
+      "paragraphs": [
+        "The rise of Seon Buddhism during late Silla is associated with teachers who studied Chan traditions in China and founded influential communities in Korean mountain regions. The movement did not merely replace existing scripture-based Buddhism through one royal order. It developed through travel, monastic relationships, local patrons and the appeal of disciplined practice.",
+        "The Academy of Korean Studies describes the Nine Mountain Schools, or Gusan Seonmun, as a network formed through the late Silla and early Goryeo periods. The conventional number nine is a historical classification, not proof that all nine monasteries arose simultaneously. Dating each community requires comparing inscriptions, biographies and later lineage accounts. A narrative that gives one uniform date to the entire network obscures the process by which provincial monasteries became influential."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional scholarship documents the late-Silla Nine Mountain Schools, Gukhak and hyangchal writing, while museum catalogues identify securely dated Seon and Buddhist artworks.",
+          "sourceIndex": 0,
+          "locator": "선종구산문: named mountain lineages and provincial patronage",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.6:b02",
+      "title": "Practice, lineage and textual learning",
+      "paragraphs": [
+        "Seon emphasized the cultivation of direct insight and the relationship between master and disciple, while often questioning the idea that liberation could be secured merely by mastering doctrinal categories. This did not mean Seon monks never read scriptures or that all earlier traditions were rejected. The historical separation between doctrinal and meditative institutions was often less rigid than later polemical accounts suggest.",
+        "Lineage histories claimed connections to esteemed teachers, sometimes reaching back to figures in China or India. Such claims were meaningful sources of legitimacy but must be differentiated from securely documented teacher–student relationships. The emphasis on direct transmission could coexist with careful inscription and memorial writing, which paradoxically provide some of our strongest evidence for Seon institutional history."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional scholarship documents the late-Silla Nine Mountain Schools, Gukhak and hyangchal writing, while museum catalogues identify securely dated Seon and Buddhist artworks.",
+          "sourceIndex": 0,
+          "locator": "선종구산문: named mountain lineages and provincial patronage",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.6:b03",
+      "title": "The mountains and the provincial elite",
+      "paragraphs": [
+        "Many Seon communities took shape away from the capital, where local families and military leaders could provide resources and protection. As central royal authority weakened, provincial patrons gained influence over monasteries situated near their regional bases. These connections helped spread Buddhist institutions but could also tie a monastery's fortunes to a patron's political position.",
+        "The phrase mountain school evokes spiritual isolation, yet its foundations required land, workers, transport and exchange with surrounding communities. A monastery might occupy a remote slope while maintaining active ties to nearby markets and political centres. Its religious authority came through teachers and practice, but its survival depended on material arrangements. The historian should examine the monastery as both a religious and social institution."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.6:b04",
+      "title": "The stupa of Yeomgeo",
+      "paragraphs": [
+        "A particularly valuable material anchor is the stupa of the monk Yeomgeo, who died in 844, associated with the Gajisan lineage. The National Museum of Korea describes the monument and its accompanying record as an unusually securely dated instance of Silla Seon memorial practice. The octagonal structure illustrates the skilled carving and ritual attention given to an eminent teacher.",
+        "The stupa's importance does not make it a model for every monastic burial. It belongs to a community that could acquire materials and commission specialist labour. Its date and dedication constrain historical interpretation in a way that later biographies alone cannot. Studying the stone monument beside textual claims about lineage helps historians identify both the growth of Seon networks and the importance of commemoration in establishing their authority."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.6:b05",
+      "title": "Regional power and the question of dissent",
+      "paragraphs": [
+        "Seon has sometimes been described as the religious expression of local elites opposed to the capital's established doctrinal institutions. The pattern of provincial support makes that interpretation useful, but it should not become an automatic explanation of every monk's choices. Some teachers maintained relationships with the court while relying on regional patrons.",
+        "The distinction between spiritual practice and political opposition matters. A monastery could benefit from decentralization without advocating rebellion; a ruler might support a Seon institution for prestige or merit. The appropriate evidence includes dated gifts, inscriptions, biographies and known relationships with local commanders. Broad labels such as anti-aristocratic religion must be tested rather than adopted as universal motives."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.6:b06",
+      "title": "A transformation continuing into Goryeo",
+      "paragraphs": [
+        "Several prominent schools were institutionalized around the transition from Silla to Goryeo, and their histories extend across the dynastic boundary. This makes it misleading to assign all nine foundations to an undifferentiated eighth-century Silla. The growth of Seon is a long process of study abroad, local establishment and subsequent recognition.",
+        "The intellectual change was substantial: meditative lineages offered new frameworks for authority and practice, and they became durable parts of Korean Buddhist life. Yet they developed within a broader Buddhist world that included texts, rituals, donors and court patronage. Their history illustrates how religion could adapt to changing political geography without being reducible to the rise or fall of a single dynasty."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}

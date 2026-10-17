@@ -1,0 +1,130 @@
+{
+  "id": "IV.4.9",
+  "title": "Sculpture, Painting, Metalwork, Bells, and Architectural Art",
+  "kicker": "UNIFIED SILLA · MONASTIC AND CULTURAL WORLDS",
+  "description": "Original source-critical account of sculpture, painting, metalwork, bells, and architectural art, distinguishing textual histories, material testimony and interpretation.",
+  "release": "U",
+  "sourceStatus": "Original historical analysis; selective Korean Academy and National Museum institutional sources and qualified later compilations.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nine Mountain Seon Schools (선종구산문)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0028926",
+      "role": "Late Silla provincial Buddhist networks, leaders and lineages"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Stupa of Master Yeomgeo",
+      "url": "https://vcm.museum.go.kr/JPN/contents/E0403000000.do?relicId=4316&schM=relic_represent_view",
+      "role": "Dated 844 Gajisan Seon stupa and accompanying record"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangchal",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062985",
+      "role": "Korean language recording using Chinese characters and survival of hyangga"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangga (향가)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062873",
+      "role": "Poetry forms, transmission and uncertainties"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Mathematics Doctor (산학박사)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026391",
+      "role": "Silla Gukhak 682 and mathematical specialist teaching from 717"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period permanent gallery",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Religious art, funerary urns, glazing and transregional material culture"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samguk Yusa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0069669",
+      "role": "Later transmission of poems, monk biographies and historical memory"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.4.9:b01",
+      "title": "Artisans in an international visual world",
+      "paragraphs": [
+        "Unified Silla sculpture, metalwork and ceramics display sophisticated technical practice within a broader East Asian exchange of forms and ideas. Buddhist images could employ iconographic conventions shared with Tang China while exhibiting local stylistic choices in proportion, facial expression and garment carving. The movement of styles is evidence for contact, not proof that every sculptor trained abroad.",
+        "Production required artists, metal casters, stone workers, kiln specialists and patrons able to obtain materials. Many makers remain unnamed because inscriptions preserved donor and religious authority more consistently than artisan biographies. A history of art should therefore include the organization of skill and work alongside celebrated objects. Elite patronage made elaborate commissions possible, while regional workshops adapted designs for different audiences."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional scholarship documents the late-Silla Nine Mountain Schools, Gukhak and hyangchal writing, while museum catalogues identify securely dated Seon and Buddhist artworks.",
+          "sourceIndex": 5,
+          "locator": "Unified Silla museum gallery, sculpture and temple objects",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.9:b02",
+      "title": "Cast bells and public religious sound",
+      "paragraphs": [
+        "Large Buddhist bells required substantial bronze resources, casting expertise and coordination of labour. Their inscriptions or decorative programmes could commemorate donors, religious aims and sometimes craftsmen. Sound gave monuments a social presence beyond their visual surfaces, connecting ritual practice to the surrounding community.",
+        "A surviving bell is evidence of skilled production and a public religious institution, but it does not reveal every occasion on which it rang. Its current location may differ from the original setting because objects were moved, repaired or preserved after temples changed. The historian should attend to date, inscription and archaeological context before drawing conclusions about the organization of a particular monastery."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis",
+      "evidence": [
+        {
+          "claim": "Korean institutional scholarship documents the late-Silla Nine Mountain Schools, Gukhak and hyangchal writing, while museum catalogues identify securely dated Seon and Buddhist artworks.",
+          "sourceIndex": 5,
+          "locator": "Unified Silla museum gallery, sculpture and temple objects",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.4.9:b03",
+      "title": "Stone sculpture and Buddhist iconography",
+      "paragraphs": [
+        "Seated Buddhas, bodhisattvas, guardians and other figures expressed doctrinal and ritual themes through posture, attributes and spatial arrangement. The National Museum of Korea displays Unified Silla sculpture reflecting both local craft and wider artistic exchange.",
+        "Iconographic similarities do not establish that every viewer understood an image through learned doctrinal categories. Images could serve worship, protection and donor prestige for people with differing levels of textual knowledge. Historical interpretation should distinguish an image's prescribed symbolism from the varied uses or responses it may have received. In a temple, location and ritual context are often as important as the statue's isolated appearance."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.9:b04",
+      "title": "Pagodas, reliquaries and the politics of preservation",
+      "paragraphs": [
+        "Relic containers made from precious metal and placed within stone pagodas demonstrate how a temple could combine portable craftsmanship with large fixed architecture. The Gameunsa reliquaries are valuable because their historical context and dating are unusually secure. They document royal-associated religious patronage in the late seventh century.",
+        "Many objects survive only because they were concealed within structures or later recovered during repair. This creates a preservation bias: the archaeological record contains exceptional offerings more readily than routine wooden utensils or cloth. The history of Buddhist art must therefore include the processes by which items were hidden, lost, rediscovered and attributed. A museum collection is not a complete inventory of all material culture used at one time."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.9:b05",
+      "title": "Glaze, pottery and everyday aesthetic choices",
+      "paragraphs": [
+        "Unified Silla workshops produced green-glazed ceramics and decorated roof tiles, alongside many forms of ordinary pottery and construction material. Fine wares often appear in privileged contexts, while everyday vessels show the broader needs of households and institutions. The technical capacity to fire and finish such products relied on fuel, kilns and skilled knowledge.",
+        "A stylistic change can occur through local experiment as well as contact with foreign models. Distribution patterns may indicate trade or changes in the location of workshops. A single elaborately decorated tile should not be made representative of every village house; monumental roofing belonged to structures with access to particular resources. The relationship between artistic accomplishment and unequal material access deserves attention."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis"
+    },
+    {
+      "id": "IV.4.9:b06",
+      "title": "The many afterlives of a work of art",
+      "paragraphs": [
+        "Temples and sculptures underwent repairs, moves, loss and later reinterpretation. The object encountered in a museum or restored temple today may include material from several periods, while the original design can survive only partly. Preserving the distinction between early manufacture and later restoration is especially important for monumental architecture.",
+        "Modern viewers often treat Silla art as an emblem of national cultural identity. That appreciation is historically consequential but different from the religious and social purposes of its original patrons. A careful catalogue traces original function, changes of location and conservation history. It allows readers to admire skilled work without confusing the monument's present appearance with an untouched eighth-century moment."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis"
+    }
+  ]
+}
