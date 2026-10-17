@@ -2,7 +2,7 @@ name: Batch X — Mumun Farming and Late Joseon 1882–1894 Historical Corpus QA
 on:
   push:
     branches:
-      - feat/batch-x-joseon-founding-manchu-challenge
+      - feat/batch-x-mumun-1880s-sovereignty
   pull_request:
     paths:
       # Frozen baseline: later unrelated Chapter publications must not trigger this job.
