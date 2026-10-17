@@ -1,0 +1,142 @@
+{
+  "id": "VIII.2.6",
+  "title": "The Tianjin Convention, Qing–Japanese Rivalry, and the Post-Coup Order",
+  "kicker": "LATE JOSEON · 1882–1885",
+  "description": "Historically qualified account of the tianjin convention, qing–japanese rivalry, and the post-coup order, weighing official documents against observed practice.",
+  "release": "X",
+  "sourceStatus": "Original synthesis with selective primary-document criticism; political claims are not evidence of program implementation.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Joseon–Japan Trade Regulations and post-Imo negotiations",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_115_0040",
+      "role": "Historical treaty and editorial commentary; legal provisions distinct from daily practice"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imo Mutiny, diplomatic consequences",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047565",
+      "role": "Retrospective synthesis of 1882 military unrest"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Fourteen Reform Directives of the Gapsin Coup",
+      "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_116_0100&tabId=03&treeId=010701&whereStr=",
+      "role": "Edited reform program transmitted via Kim Ok-gyun's later Gapsin Ilok; survivor bias and possible omissions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gapsin Reform Program (갑신혁신정강)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000923",
+      "role": "Scholarly contextual interpretation of program and coup chronology"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Tianjin Convention (1885) historical term and chronology",
+      "url": "https://contents.history.go.kr/mobile/tg/view.do?ganada=&levelId=tg_004_1080&pageUnit=10&subjectCode=all&tabId=02",
+      "role": "Secondary documentation of Qing–Japanese military withdrawal and notification agreement"
+    },
+    {
+      "institution": "Yoo Bada, Historical Studies (KCI)",
+      "title": "Qing–Japanese Proposals for Joint Protection of Joseon and the 1885 Tianjin Convention",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArtiView.kci?sereArticleSearchBean.artiId=ART002227328",
+      "role": "Academic interpretation; proposed protection not equivalent to established protectorate"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.2.6:b01",
+      "title": "A bilateral agreement about a third country",
+      "paragraphs": [
+        "The 1885 Tianjin Convention was concluded between Qing China and Japan after the Gapsin Coup, with Korea at the center of its provisions but not exercising the role of an equal negotiating party to the arrangement. That circumstance captures the diplomatic problem of the era. Two stronger states sought to regulate their military presence in Joseon while each claimed interests linked to Korea's security and political orientation. Withdrawal of troops and notification before future deployments offered a method for managing immediate confrontation, but the agreement could not by itself define Korean sovereignty in universally accepted terms. It was an arrangement among competitors, not a constitutional act of the Korean people. The National Institute of Korean History's historical glossary locates it in the aftermath of the coup and Qing–Japanese rivalry, while the exact legal consequences require careful reading of its text and later application."
+      ],
+      "sequence": 1,
+      "label": "Original source-critical historical synthesis",
+      "evidence": [
+        {
+          "claim": "Documents of treaty-era state reform and coup politics must be distinguished from retrospective interpretation",
+          "sourceIndex": 4,
+          "locator": "NIKH treaty contextual notes and Gapsin reform directive transmission history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.6:b02",
+      "title": "Why the coup produced negotiation",
+      "paragraphs": [
+        "The 1884 conflict showed that Korean court struggles could produce direct confrontation between soldiers backed by rival external powers. Neither Qing nor Japanese leaders could assume that limited intervention would remain local if forces encountered one another around the capital. Diplomatic settlement addressed this danger while preserving room for future influence. Both states had strategic reasons to avoid immediate wider war, but their public assurances could conceal preparations for a different balance of power. The convention should not be interpreted as reconciliation of their competing ideas about Korea's place in East Asia. Rather, it formalized a conditional means of managing military risks after a crisis in which each had demonstrated an ability to intervene. The Korean court had to operate within the resulting expectations, regardless of whether they matched its preferred arrangements."
+      ],
+      "sequence": 2,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.6:b03",
+      "title": "Withdrawal did not mean neutrality",
+      "paragraphs": [
+        "An agreement to withdraw troops should be distinguished from withdrawal of diplomatic, commercial or advisory influence. Qing officials and Japanese representatives continued to pursue leverage through political networks, treaty privileges and claims about protection. The disappearance of a garrison might reduce the immediate threat of a clash while leaving external power deeply embedded in decisions about finance and appointments. Nor did a notification rule guarantee that future deployments would be cooperative or legitimate in Korean eyes. Agreements are instruments that states interpret under changing conditions, and parties may invoke them selectively when a new crisis occurs. A historical account therefore asks both what the convention said and what officials did afterward. The question of sovereignty remained unsettled because military procedures did not resolve the conflicting political ambitions behind them."
+      ],
+      "sequence": 3,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.6:b04",
+      "title": "The logic and limits of prior notice",
+      "paragraphs": [
+        "Notification before dispatching troops might appear to offer transparency, but its significance depended on whether each power accepted the other's reasons for intervention and whether Korea could refuse the intervention itself. If the two external governments treated notice as sufficient for action, Korean discretion could be marginalized. Conversely, a notice requirement might discourage sudden military moves by increasing the chance of diplomatic opposition. Its effect was contingent rather than mechanically stabilizing. The 1885 arrangement has to be read within the unequal diplomatic environment created after 1882, where Korea had already faced agreements negotiated under pressure. The distinction between a rule that regulates rivalry and a rule that protects a smaller state's political independence is central. The convention supplied the former more clearly than the latter."
+      ],
+      "sequence": 4,
+      "label": "Original source-critical historical synthesis",
+      "evidence": [
+        {
+          "claim": "Documents of treaty-era state reform and coup politics must be distinguished from retrospective interpretation",
+          "sourceIndex": 4,
+          "locator": "NIKH treaty contextual notes and Gapsin reform directive transmission history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.6:b05",
+      "title": "International law and contested protection",
+      "paragraphs": [
+        "Contemporary discussions of whether Korea should be protected jointly or separately by stronger powers reflected changing treaty-era categories. Scholarship on Qing–Japanese protection proposals before and after the coup shows that alternative institutional arrangements were explored. Considering a protectorate is not the same as legally establishing one, and an archival proposal should not be described as the operative constitutional status of Joseon. Powers could also disagree about how older tributary practices fitted the newer language of sovereign states. Korean officials confronted these categories strategically, invoking autonomy when useful while navigating economic and military dependence. The legal vocabulary of independence or subordination mattered, but its practical significance depended on troop movements, customs authority, appointments and recognition abroad. The Tianjin agreement offers a concentrated example of that gap between nominal status and effective control."
+      ],
+      "sequence": 5,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.6:b06",
+      "title": "Korean agency amid constrained choices",
+      "paragraphs": [
+        "The court and reform factions were not absent from the politics that produced the convention, even though Korea did not command the bargaining process between Qing and Japan. Korean elites adjusted diplomatic contacts, sought loans and advisers, and argued over the wisdom of reliance on one power to offset another. Some viewed Qing connection as a stabilizing counterweight to Japanese influence; others regarded it as a barrier to sovereign reform. The resulting calculations changed with government crises and personal relationships. Korean political agency therefore should not be confused with unrestricted freedom. Actors made choices among options shaped by external coercion and domestic disagreement. A study that recognizes both constraints and initiative offers a more accurate explanation than either portraying Joseon as simply passive or asserting that its diplomats could freely balance powers of vastly unequal strength."
+      ],
+      "sequence": 6,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.6:b07",
+      "title": "The long shadow over 1894",
+      "paragraphs": [
+        "In 1894 renewed conflict in Korea would expose how limited the Tianjin arrangement had been in settling underlying competition. The deployment of Qing and Japanese forces amid the Donghak crisis and the escalation toward war did not arise automatically from the 1885 text, but both sides interpreted their roles through the history of previous intervention. The convention shaped expectations about notification and military presence even as political circumstances changed. It is misleading to describe the later Sino-Japanese War as the inevitable execution of a plan fixed nine years earlier. Policy choices, military calculations, Korean domestic struggles and wider imperial strategies all mattered. The convention was one link in the chain, not a mechanism that controlled its outcome. Its history should be told alongside the choices that repeatedly reopened the issue it had sought to manage."
+      ],
+      "sequence": 7,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.6:b08",
+      "title": "Evaluating diplomatic consequence",
+      "paragraphs": [
+        "The Tianjin Convention achieved an immediate settlement between competing interveners, but it left the Korean monarchy vulnerable to the consequences of their continued rivalry. The agreement's limited effectiveness cannot be judged solely from the outbreak of war years later, since it did temporarily provide a procedural framework. Nor should that framework be praised as a guarantee of independence that Korean rulers never obtained. A source-critical narrative attends to the treaty itself, the political statements surrounding it, and observable subsequent actions. This approach reveals the central predicament of the 1880s: external powers increasingly treated Korea's security as a matter for their bilateral negotiation, while Korean administrators struggled to build institutions capable of sustaining genuine discretion. Diplomatic procedure and the problem of sovereign authority remained connected but far from identical."
+      ],
+      "sequence": 8,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    }
+  ]
+}

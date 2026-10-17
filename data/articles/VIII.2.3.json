@@ -1,0 +1,142 @@
+{
+  "id": "VIII.2.3",
+  "title": "Japan after the Imo Mutiny: Indemnities, Treaties, and Military Presence",
+  "kicker": "LATE JOSEON · 1882–1885",
+  "description": "Historically qualified account of japan after the imo mutiny: indemnities, treaties, and military presence, weighing official documents against observed practice.",
+  "release": "X",
+  "sourceStatus": "Original synthesis with selective primary-document criticism; political claims are not evidence of program implementation.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Joseon–Japan Trade Regulations and post-Imo negotiations",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_115_0040",
+      "role": "Historical treaty and editorial commentary; legal provisions distinct from daily practice"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imo Mutiny, diplomatic consequences",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047565",
+      "role": "Retrospective synthesis of 1882 military unrest"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Fourteen Reform Directives of the Gapsin Coup",
+      "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_116_0100&tabId=03&treeId=010701&whereStr=",
+      "role": "Edited reform program transmitted via Kim Ok-gyun's later Gapsin Ilok; survivor bias and possible omissions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gapsin Reform Program (갑신혁신정강)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000923",
+      "role": "Scholarly contextual interpretation of program and coup chronology"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Tianjin Convention (1885) historical term and chronology",
+      "url": "https://contents.history.go.kr/mobile/tg/view.do?ganada=&levelId=tg_004_1080&pageUnit=10&subjectCode=all&tabId=02",
+      "role": "Secondary documentation of Qing–Japanese military withdrawal and notification agreement"
+    },
+    {
+      "institution": "Yoo Bada, Historical Studies (KCI)",
+      "title": "Qing–Japanese Proposals for Joint Protection of Joseon and the 1885 Tianjin Convention",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArtiView.kci?sereArticleSearchBean.artiId=ART002227328",
+      "role": "Academic interpretation; proposed protection not equivalent to established protectorate"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.2.3:b01",
+      "title": "Japan's demands after the mutiny",
+      "paragraphs": [
+        "The Imo violence brought attacks against the Japanese legation and the death or flight of people linked to Japan's presence in Seoul. Japanese authorities responded by demanding security guarantees, compensation and revised conditions for diplomatic protection. These demands took shape in an environment where Japan already possessed unequal treaty advantages under the opening arrangements of 1876. The Korean court negotiated under the shadow of possible military force, reducing the value of formal consent as evidence of equal bargaining power. An account of indemnities must distinguish the immediate property and casualty claims from the wider use of the emergency to enlarge influence. The violence of 1882 was real and cannot be excused away; nevertheless, its diplomatic aftermath was shaped by governments pursuing interests that went well beyond restoring individual losses. The treaty texts mark negotiated legal outcomes rather than a full description of how pressure was exerted."
+      ],
+      "sequence": 1,
+      "label": "Original source-critical historical synthesis",
+      "evidence": [
+        {
+          "claim": "Documents of treaty-era state reform and coup politics must be distinguished from retrospective interpretation",
+          "sourceIndex": 0,
+          "locator": "NIKH treaty contextual notes and Gapsin reform directive transmission history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.3:b02",
+      "title": "The Jemulpo settlement",
+      "paragraphs": [
+        "The 1882 settlement conventionally known as the Jemulpo Treaty included compensation and arrangements related to the protection of the Japanese diplomatic mission. It changed the practical security environment by making an armed Japanese presence a matter of explicit political contention. The text should not be treated as a neutral contract between fully equivalent military powers. Korean officials confronted demands backed by naval and military capacity, while Qing intervention had already altered the balance around the royal court. Japanese officials presented protective measures as a necessary response to disorder; Korean politicians had to consider what such measures would mean for the capital's sovereignty. It is important to avoid inflating the treaty into a comprehensive annexation program completed at once. Rather, it was one stage in a developing pattern of unequal obligations and competing intervention claims that would recur in later crises."
+      ],
+      "sequence": 2,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.3:b03",
+      "title": "Diplomatic security and the question of sovereignty",
+      "paragraphs": [
+        "A state's ability to protect foreign representatives is an accepted diplomatic obligation, but arrangements for foreign guards can undermine control over armed force when imposed through coercive bargaining. Korea's dilemma after 1882 lay in how to meet legitimate security demands without giving outside powers a durable right to determine events near the throne. Japanese soldiers or guards could become active variables in a domestic political crisis, particularly when reform-minded court groups regarded Japan as a possible counterweight to Qing influence. Conversely, Korean officials relying on Qing support risked strengthening the very dependence their rivals criticized. These competing calculations created opportunities for Japanese policy but did not guarantee uniform acceptance among Japanese diplomats, soldiers or ministers. Treating all later events as the inevitable outcome of one treaty would obscure the decisions and reversals of the following decade."
+      ],
+      "sequence": 3,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.3:b04",
+      "title": "Trade terms beyond the emergency",
+      "paragraphs": [
+        "Japan's commercial leverage developed through treaties and supplementary regulations that addressed customs rates, port procedures and the conditions under which Japanese merchants conducted business. The National Institute of Korean History's treatment of the 1883 trade regulations shows Korean attempts to secure tariff discretion and the limitations of the resulting agreement. These negotiations were not simply an afterthought to the mutiny: revenue from duties mattered for military rebuilding and the creation of new administrative institutions. Tariff rates affected the availability of imports, the finances of the court and the expectations of merchants at the ports. A treaty clause stating a rate, however, cannot establish whether the intended revenue was collected consistently or how it burdened different households. The material history of commercial regulation requires connecting international commitments with customs capacity and the unequal power of negotiating parties."
+      ],
+      "sequence": 4,
+      "label": "Original source-critical historical synthesis",
+      "evidence": [
+        {
+          "claim": "Documents of treaty-era state reform and coup politics must be distinguished from retrospective interpretation",
+          "sourceIndex": 0,
+          "locator": "NIKH treaty contextual notes and Gapsin reform directive transmission history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.2.3:b05",
+      "title": "Japanese policy was not one voice",
+      "paragraphs": [
+        "Officials in Tokyo, diplomats in Seoul, merchants at open ports and military commanders could share broad strategic goals while disagreeing over tactics and risks. Calls for stronger measures after the mutiny developed alongside concerns about Qing forces, international opinion and the costs of direct confrontation. A historical narrative should identify which actor made which demand and at what stage, rather than treat Japan as an omniscient single person pursuing an uninterrupted plan. Korean reformers also had different assessments of Japanese support: technical knowledge, education and weapon procurement could be attractive, while diplomatic dependence was dangerous. This distinction becomes essential when examining the alliance that some participants in the 1884 coup sought. The consequences of Japanese involvement cannot be assessed by projecting later colonial rule backward as the inevitable purpose of every 1882 diplomatic exchange."
+      ],
+      "sequence": 5,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.3:b06",
+      "title": "People at ports and in the capital",
+      "paragraphs": [
+        "The expansion of Japanese commercial and diplomatic privileges affected more than cabinet discussions. Intermediaries, interpreters, transport workers, customs officials and Korean merchants had to deal with changing jurisdictions and commercial opportunities. Foreign goods could enter under terms that favored certain traders, while Korean administrators faced pressure to fund modernization from revenues constrained by treaty rules. Yet the extent of any effect varied by port, commodity and occupation, and surviving records favor institutions that kept accounts. Broad claims about nationwide benefit or deprivation should not be made without examining prices, tax collections and local testimonies. A trader might profit from a new arrangement even as the court lost discretion over tariffs; a laborer might encounter employment opportunities alongside insecurity. The diplomatic change redistributed opportunities and vulnerability unevenly rather than producing one uniform social experience."
+      ],
+      "sequence": 6,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.3:b07",
+      "title": "Unequal treaties and historical agency",
+      "paragraphs": [
+        "It is tempting to represent Korea's treaty negotiations as a simple story of victimization that left no room for Korean choice. Such a story overlooks the work of ministers and interpreters who advanced demands, resisted terms and attempted to create a functioning customs regime. The opposite depiction—voluntary adoption of a beneficial foreign commercial order—misses the coercive setting and unequal capacity to impose outcomes. The same evidence can support a more precise explanation: Korean officials operated under constrained but genuine strategic choices, while foreign powers possessed superior leverage. Treaties were products of bargaining within those inequalities. They should be analyzed in connection with the violence that preceded them and the economic institutions they subsequently reshaped. The Imo settlement thus belongs to a history of contested sovereignty rather than merely a chronology of numbered diplomatic instruments."
+      ],
+      "sequence": 7,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "VIII.2.3:b08",
+      "title": "A precedent for future confrontation",
+      "paragraphs": [
+        "The post-1882 arrangements helped create an environment in which foreign military presences and diplomatic grievances could be mobilized during domestic political struggles. When the Gapsin Coup occurred, the role of Japan's legation and Qing troops made the earlier settlement directly relevant. Japanese efforts to seek compensation after the later coup again connected internal violence with external legal demands. Nonetheless, the immediate consequences of 1882 should be kept analytically separate from decisions taken in 1884 and 1885. Each crisis changed the next government's expectations, resources and perceived risks. A careful sequence follows how the monarchy tried to preserve room for reform amid contradictory outside pressures, rather than retroactively treating the mutiny, the coup and subsequent conventions as a single coordinated external operation."
+      ],
+      "sequence": 8,
+      "label": "Original source-critical historical synthesis",
+      "evidence": []
+    }
+  ]
+}
