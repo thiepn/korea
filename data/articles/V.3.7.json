@@ -1,0 +1,141 @@
+{
+  "id": "V.3.7",
+  "title": "Family, Kinship, Marriage, and Lineage",
+  "kicker": "GORYEO · FAMILY, LIFE AND PLACE",
+  "description": "Source-critical survey of family, kinship, marriage, and lineage across varied legal statuses and regional environments.",
+  "release": "V",
+  "sourceStatus": "Original scholarly synthesis from Korean institutional research; surviving family archives disproportionately represent elites.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo social status, family, inheritance and kinship",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_015_0030_0020_0020_0020",
+      "role": "Academic research on bilateral kinship, marriage, family and property"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History, Goryeo family and status",
+      "url": "https://contents.history.go.kr/data/pdf/nh/nh_015_0020.pdf",
+      "role": "Marriage, property inheritance and documented variation among elite families"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo nobi",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012757",
+      "role": "Legal dependency and the limits of reconstructing ordinary lives"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo local clerks, hyangni",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062905",
+      "role": "Regional officials, social ranking, central-provincial relationships"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.3.7:b01",
+      "title": "Kinship was not solely a line of fathers",
+      "paragraphs": [
+        "Goryeo kinship networks were often organized through relationships on both paternal and maternal sides. Inheritance, marriage and genealogy could give substantial importance to a mother's relatives, especially among wealthy households. This did not mean that every kin relation possessed equal social power, nor that family life lacked hierarchies of age, status and gender.",
+        "It does mean that later patrilineal models familiar from parts of Joseon should not be read backward as a universal rule. The surviving histories of royal marriage and elite households show political value flowing through maternal relatives and affinal ties. A lineage name alone is therefore an incomplete guide to political alliances. The historical problem is how individuals mobilized overlapping kin networks in particular contexts."
+      ],
+      "sequence": 1,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.7:b02",
+      "title": "Marriage linked people and property",
+      "paragraphs": [
+        "A marriage could establish an alliance between two houses and redistribute obligations to support an emerging household. For powerful families, the standing of both partners' relatives influenced prospects for official careers and connections with the royal court. For smaller households, marriage raised practical questions about labour, residence and assistance during crop failure or illness.",
+        "Written evidence is sharply skewed toward families whose property disputes or ritual concerns entered documentary records. It is dangerous to infer that a wealthy couple's arrangement was typical of all cultivators or dependent workers. Historians can nevertheless identify the kinds of issues at stake: who contributed assets, where newly married people resided, who cared for aging parents and how goods were divided among descendants."
+      ],
+      "sequence": 2,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.7:b03",
+      "title": "Residence and the plurality of household forms",
+      "paragraphs": [
+        "Practices involving a husband living with his wife's family appear in broader Korean historical traditions and help question the assumption that every marriage immediately transferred a woman to her husband's lineage home. Goryeo households may have adapted residence to property, work and local social networks, rather than applying a single uniform formula in every generation.",
+        "The evidence is uneven, and one should distinguish explicit documents from customs reconstructed through later comparison. A residence pattern cannot by itself determine whether a woman enjoyed decision-making autonomy, because the authority of elders and owners could remain strong. The useful approach is to compare residence, property and care obligations without collapsing them into a modern label of matriarchy or patriarchal equality."
+      ],
+      "sequence": 3,
+      "label": "Original social history",
+      "evidence": [
+        {
+          "claim": "NIKH Goryeo family scholarship establishes bilateral kinship, property and social differentiation, while noting the limits of sources on ordinary households.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 제15권 고려 전기 가족제도 및 신분제도 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.7:b04",
+      "title": "Children and inheritance",
+      "paragraphs": [
+        "The inheritance of land, movable wealth and nobi supplied families with a means to transmit status and resources across generations. Evidence for broadly shared division among sons and daughters complicates older assumptions of exclusive primogeniture, especially when compared with later Joseon changes. Such patterns were not necessarily universal in every region or for every kind of property.",
+        "Inheritance documents provide information because they list recipients and assets, but they often say little about prior negotiation or the feelings of people treated as property. A division of estate wealth among children could be relatively inclusive of daughters while continuing to reproduce profound inequalities between free heirs and enslaved dependants. Family equality within one privileged group should never be mistaken for equality across the entire population."
+      ],
+      "sequence": 4,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.7:b05",
+      "title": "Family ritual and remembrance",
+      "paragraphs": [
+        "Religious patronage, ancestral observances and arrangements for funerals connected kinship to moral and spiritual obligations. Buddhism occupied a prominent place in Goryeo elite culture, while other local and Confucian practices shaped remembrance. These forms of devotion were not fixed or uniformly distributed.",
+        "A surviving temple inscription may describe a deceased parent as exemplary and identify donors, but it is also a public statement intended to honour a family. Such sources can illuminate ideals of filial care without proving that relations inside a household were always harmonious. Historians should read texts of praise alongside litigation and administrative records where possible, acknowledging that most families left no comparable monument."
+      ],
+      "sequence": 5,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.7:b06",
+      "title": "Conflict over property and belonging",
+      "paragraphs": [
+        "Kin ties did not prevent disagreement. Relatives might dispute ownership, custody of inherited objects, obligations toward elderly members or the interpretation of previous grants. Marriage between distinguished houses could intensify such conflicts because property claims intersected with court patronage.",
+        "Legal documents preserve the competing claims unevenly and may be summarized by later compilers. A defeated litigant's arguments can disappear behind an official ruling. The resulting record makes the court's solution visible more reliably than every participant's motives. This is one reason to avoid assuming that a single inheritance rule determined social practice automatically: families interpreted, negotiated and sometimes contested the rules."
+      ],
+      "sequence": 6,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.7:b07",
+      "title": "Ordinary families beyond the elite archive",
+      "paragraphs": [
+        "Agricultural households needed dependable labour and mutual aid, particularly when disease, famine or requisitions threatened survival. Kinship could provide networks for sharing food, raising children and managing seasonal work, but poverty and dependency could restrict choices. Some servants and nobi could have families of their own while remaining subject to the claims of owners.",
+        "The surviving documents tell us less about these households than about royalty and wealthy families. Archaeology, settlement research and comparisons with administrative records may help, but they cannot restore every missing personal voice. A responsible history therefore presents broad kinship patterns as propositions supported by particular kinds of evidence and leaves room for local variation throughout the dynasty."
+      ],
+      "sequence": 7,
+      "label": "Original social history"
+    },
+    {
+      "id": "V.3.7:b08",
+      "title": "Bilateral relatives and the problem of historical comparison",
+      "paragraphs": [
+        "Comparing Goryeo inheritance with later Joseon practice is informative because it reveals that Korean kinship arrangements changed over time. Yet a comparison can become misleading when it treats all Goryeo families as following one egalitarian model and all Joseon families as following one rigid patriarchal model. Social differences within each period were significant, and the timing of changes varied by practice. The relevant sources must be dated rather than organized into a simple moral progression.",
+        "A property division mentioning daughters provides direct evidence about that transaction. It may suggest a wider customary pattern when combined with comparable documents, but it does not specify the experiences of households without written estates. Legal norms, religious duties and local negotiations could alter the practical meaning of a share. A named heiress might receive valuable property while lacking influence in political institutions.",
+        "The broader conclusion is that family power did not always flow exclusively through men of one paternal line. Maternal and affinal connections mattered for wealth and political alliances. That insight should widen the analysis of Goryeo society without leading to unsupported claims that gender equality was universal or that later shifts occurred uniformly."
+      ],
+      "sequence": 8,
+      "label": "Batch V focused analytical case study"
+    }
+  ]
+}

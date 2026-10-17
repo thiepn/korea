@@ -1,0 +1,153 @@
+{
+  "id": "V.3.2",
+  "title": "Powerful Lineages, Hereditary Privilege, and the Munbeol Elite",
+  "kicker": "GORYEO · STATUS AND SOCIAL RELATIONSHIPS",
+  "description": "Critical social history of powerful lineages, hereditary privilege, and the munbeol elite in Goryeo, distinguishing official categories from household experience.",
+  "release": "V",
+  "sourceStatus": "Original synthesis from NIKH New Korean History and AKS encyclopedia; later Goryeosa retrospectively compiles earlier records.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History, volume 15: Goryeo Society, Status and Family",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_015_0030_0020_0020_0020",
+      "role": "Scholarly secondary synthesis for Goryeo status distinctions, family and inheritance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Munbeol (문벌)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0072775",
+      "role": "Powerful civil-official lineages and hereditary prestige"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangni (향리)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062905",
+      "role": "Local clerk formation and Goryeo provincial administration"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangyeok (향역)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062965",
+      "role": "Duties of local officials and labour, tribute, census and taxes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nobi (노비)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012757",
+      "role": "Changing dependent statuses, sale, ownership and 956 legislation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nobi restoration regulations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012770",
+      "role": "Later reversal and enforcement of status rules"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.3.2:b01",
+      "title": "The making of a capital elite",
+      "paragraphs": [
+        "Goryeo's leading civil-service lineages did not appear all at once after the kingdom's founding in 918. They developed through successive generations of office, royal marriage and control of educational opportunities. Early regional commanders and powerful households entered relations with the Wang court, while subsequent rulers promoted institutions that could draw officials into service. These processes were neither identical nor uncontested: a family with land and followers near its home could become influential at the capital, yet another regional family might never secure a prestigious court career. The term munbeol describes the inherited weight of family reputation, but it does not make every child of a famous ancestor politically powerful.",
+        "In the eleventh and twelfth centuries particular families became noted for repeated appointments and marriage connections, especially near Gaegyeong. Their social reproduction relied on documents, personal recommendations and the ability to educate sons for examinations. Prestige could be lost through political failure or a poorly chosen factional alliance. Looking beyond lists of ministers helps reconstruct how households converted resources into durable status: teachers, servants, relatives and marriage brokers all participated. The court remained an active arbiter of promotion rather than a helpless observer of hereditary power."
+      ],
+      "sequence": 1,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 15: 고려 사회의 신분제와 가족제도",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.2:b02",
+      "title": "Marriage as political infrastructure",
+      "paragraphs": [
+        "Marriage connected lineages across the capital and provinces, allowing households to share reputations and influence succession struggles. Relations with the royal house were especially consequential because a queen's relatives could obtain opportunities unavailable to ordinary officials. Such ties also exposed a family to danger when political fortunes changed. A marriage agreement could join property, kinship obligations and access to court information, not simply express a private preference by two individuals.",
+        "The surviving genealogical material is disproportionately concerned with prominent families. It allows reconstruction of some well-connected networks but cannot describe all marriages in Goryeo society. Later genealogies may reorganize earlier kinship into forms familiar from later centuries. A historian must distinguish evidence contemporaneous with a marriage from retrospective claims about descent. One should not project the rigid patrilineal household practices of late Joseon onto every Goryeo elite family. Maternal connections and affinal relatives retained meaningful political and social value."
+      ],
+      "sequence": 2,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 문벌 항목",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.2:b03",
+      "title": "Official appointment beyond examinations",
+      "paragraphs": [
+        "Civil-service examinations provided one route to office, yet selection was not a wholly open competition among equal candidates. Access to schooling, writing materials and time for study favoured prosperous households. Privilege connected with family officeholding could also open an administrative career. Such arrangements made examinations and inherited advantage complementary mechanisms rather than opposing principles in a simple meritocracy-versus-aristocracy story.",
+        "The resulting official class should be studied in its internal gradations. Senior ministers, lower clerks and men whose families merely hoped for advancement did not enjoy equivalent influence. A qualified candidate might serve for years without the opportunity to shape policy. Promotion also depended on royal favour, factional struggles and changes in institutional rules. The presence of an examination certificate establishes an accomplishment, but not proof that every talented commoner had a comparable chance to obtain one."
+      ],
+      "sequence": 3,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 4,
+          "locator": "한국민족문화대백과사전 노비 및 노비안검법 관련 항목",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.2:b04",
+      "title": "Property, patronage and the household economy",
+      "paragraphs": [
+        "Elite distinction required material support. Income claims on land, rewards from the crown and household labour could sustain study, marriage ceremonies and a residence appropriate to high rank. Monastic donations and religious patronage also displayed wealth and generated valuable relationships. Evidence for formal land allotments should not be flattened into a picture in which every aristocrat personally held the same hereditary estate; the relationship between entitlement, cultivation and actual possession changed over time.",
+        "A great house depended on labour performed by tenants, servants, dependants and paid specialists. These workers seldom appear by name in surviving elite narratives even when their production made prestigious lifestyles possible. Property disputes among relatives reveal how fragile wealth could become after death or political disgrace. Historians should avoid using a lavish burial or donation inscription as a representative portrait of the whole kingdom. The wealth of a few well-documented families shows inequality, not a census of average living standards."
+      ],
+      "sequence": 4,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.2:b05",
+      "title": "Court crises reveal the limits of privilege",
+      "paragraphs": [
+        "The political upheavals associated with powerful royal in-laws and aristocratic factions expose conflicts within the supposedly unified elite. A lineage could obtain extraordinary access to the monarch while other officeholding houses viewed its position as intolerable. The political importance of such episodes lies not only in who won a confrontation but in how the crown, officials and military commanders defended competing definitions of legitimate service.",
+        "A later dynastic historian might portray a defeated faction as arrogant or disloyal. Such judgments may preserve real conflict but also reflect a retrospective moral scheme. The historian should compare accounts and examine specific appointments or actions before accepting character portraits. Elite society was an arena of negotiation among people whose inherited status did not guarantee common purpose. This helps explain why the aristocratic order could dominate cultural life yet remain vulnerable to sudden redistributions of power."
+      ],
+      "sequence": 5,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.2:b06",
+      "title": "The military challenge and changing elite composition",
+      "paragraphs": [
+        "The military coup of 1170 revealed tensions between civil and military ranks and transformed the political environment for established families. It did not mechanically eliminate every civil-official lineage or abolish the social value of education. Under military rule, court expertise and family networks continued to matter, although coercive power and patronage were increasingly mediated through military leaders.",
+        "Later Mongol-era relationships and powerful landed interests further changed elite composition. The category munbeol should therefore be applied with attention to chronology rather than assumed unchanged between the eleventh and fourteenth centuries. Some families adapted through marriage and office, while others declined. A detailed history asks how mechanisms of privilege changed when military domination, foreign relations and new ideological currents altered the rewards available to elite households."
+      ],
+      "sequence": 6,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.2:b07",
+      "title": "What family names can and cannot show",
+      "paragraphs": [
+        "The appearance of repeated surnames in official biographies can suggest continuity, but a surname does not by itself establish that all bearers were members of one functioning kinship group. Genealogies can omit politically unsuccessful relatives, incorporate prestigious connections and be revised by later generations. Understanding powerful lineages requires tracing individual appointments, marriage links, tomb inscriptions and the social uses of ancestry.",
+        "Regional origins remained important even for houses concentrated in the capital. Their relatives might support temples, retain local property or use a provincial identity to claim prestige. At the same time children born into an elite family could pursue different careers or suffer differing fortunes. The history of aristocracy is therefore not simply a sequence of surnames. It is the changing ability to transmit resources, office and social recognition across generations under a monarchy that always retained some capacity to intervene."
+      ],
+      "sequence": 7,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.2:b08",
+      "title": "A marriage register is not a map of all power",
+      "paragraphs": [
+        "The most extensively recorded aristocratic marriages often involve families close to the monarchy. Those unions reveal how kinship could become political infrastructure, providing claims to counsel the king and opening careers for descendants. Yet the evidence concentrates on successful connections because courts and later compilers had reasons to preserve them. Families whose alliances failed or remained provincial left far fewer traces. This selection bias can make elite society appear more stable, smaller and more tightly integrated than it was.",
+        "A household might have several potential alliances, each offering different combinations of wealth, ritual prestige and access to office. A daughter or son could become a link between interests that were not otherwise united. Marriage did not eliminate competition; indeed, it could create rival expectations of promotion among close relatives. The same family that benefited from a royal marriage might become vulnerable when a queen's faction lost influence.",
+        "The historian should therefore avoid treating surviving genealogical diagrams as if they were an unchanging constitutional order. They are evidence about particular networks and later claims to ancestry. Reconstructing political influence requires chronological biographies, documented appointments and attention to rival factions, while the absence of comparable records about ordinary marriages must remain explicit."
+      ],
+      "sequence": 8,
+      "label": "Batch V focused analytical case study"
+    }
+  ]
+}

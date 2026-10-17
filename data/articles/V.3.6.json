@@ -1,0 +1,153 @@
+{
+  "id": "V.3.6",
+  "title": "Nobi, Dependency, Slavery, and Unfree Labor",
+  "kicker": "GORYEO · STATUS AND SOCIAL RELATIONSHIPS",
+  "description": "Critical social history of nobi, dependency, slavery, and unfree labor in Goryeo, distinguishing official categories from household experience.",
+  "release": "V",
+  "sourceStatus": "Original synthesis from NIKH New Korean History and AKS encyclopedia; later Goryeosa retrospectively compiles earlier records.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History, volume 15: Goryeo Society, Status and Family",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_015_0030_0020_0020_0020",
+      "role": "Scholarly secondary synthesis for Goryeo status distinctions, family and inheritance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Munbeol (문벌)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0072775",
+      "role": "Powerful civil-official lineages and hereditary prestige"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangni (향리)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062905",
+      "role": "Local clerk formation and Goryeo provincial administration"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangyeok (향역)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062965",
+      "role": "Duties of local officials and labour, tribute, census and taxes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nobi (노비)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012757",
+      "role": "Changing dependent statuses, sale, ownership and 956 legislation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nobi restoration regulations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012770",
+      "role": "Later reversal and enforcement of status rules"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.3.6:b01",
+      "title": "The legal meaning of nobi",
+      "paragraphs": [
+        "Nobi in Goryeo denotes a form of dependent or unfree status under which people could be treated as inheritable property and held by private owners or public institutions. The institution cannot be translated without qualification into every feature of plantation slavery or modern wage dependency. The legal capacity of owners, the types of labour required and the family arrangements of the enslaved require separate analysis.",
+        "This was a serious condition of coercion. Being counted as property meant that sale, gift or inheritance could alter a person's obligations without their free agreement. The existence of people who lived separately and maintained households does not eliminate the owner's legal claim over them. Conversely, a single description of household confinement does not capture every form of nobi labour across a dynasty lasting nearly five centuries."
+      ],
+      "sequence": 1,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 15: 고려 사회의 신분제와 가족제도",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.6:b02",
+      "title": "Public and private ownership",
+      "paragraphs": [
+        "Government offices, royal institutions, temples and private households could hold dependent labour. The terms for public and private nobi help identify different claims and responsibilities, but should not be assumed to describe identical experiences. An individual attached to a temple could perform agricultural, craft or domestic work, while a private household might expect service in a residence or collection of a recurring payment.",
+        "Administrative records of ownership also reveal what rulers tried to count and regulate. Numbers in later compilations may reflect policy aims or litigation rather than an exhaustive census. Historians should avoid adding unrelated lists to produce an apparent total population of the unfree. The central fact is that coercive status supplied labour and resources to powerful institutions; the daily work varied by place, period and owner."
+      ],
+      "sequence": 2,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 문벌 항목",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.6:b03",
+      "title": "War, debt and the production of dependency",
+      "paragraphs": [
+        "Political disorder and armed conflict could expose captives, displaced families and indebted cultivators to enslavement or forced subordination. In the aftermath of the Later Three Kingdoms, powerful households reportedly accumulated people whose original legal standing was disputed. Such processes connected military victory, private wealth and the early distribution of human labour.",
+        "The details cannot be reconstructed for every individual whose name is absent from the archive. A person described as previously free may have had limited ways to prove it when local elites controlled witnesses and records. The instability of status created incentives for rulers to intervene. The history of nobi is thus also a history of political authority: deciding who could claim a person's labour was a means of defining the limits of aristocratic power."
+      ],
+      "sequence": 3,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 4,
+          "locator": "한국민족문화대백과사전 노비 및 노비안검법 관련 항목",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.6:b04",
+      "title": "Gwangjong's 956 inspection policy",
+      "paragraphs": [
+        "King Gwangjong's nobi angeombeop, traditionally dated to 956, sought to review people held as nobi and restore those considered improperly enslaved to free status. The measure has been interpreted in relation to the crown's need to weaken powerful houses and broaden the pool of people bearing state obligations. Its significance rests on the state's willingness to challenge claims held by influential owners.",
+        "The law should not be depicted as modern abolition. It did not categorically eliminate the institution or declare all unfree people legally equal. Implementation provoked resistance and subsequent rulers adjusted the rules. How many people actually gained freedom remains hard to establish. The distinction between promulgating a law and transforming the lives of every eligible person is especially important in a society where local recordkeeping and elite influence could frustrate royal intentions."
+      ],
+      "sequence": 4,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.6:b05",
+      "title": "Restoration and the instability of rights",
+      "paragraphs": [
+        "Later measures, including the return-to-nobi regulation associated with Seongjong in 987, show that changes in legal status remained contested. The Academy of Korean Studies describes subsequent enforcement intended to return certain people to earlier dependent positions. These reversals reflected conflicts among the state, owners and those who claimed freedom.",
+        "The records often present reforms through the concerns of rulers and aristocrats. The voices of the people whose status was at stake are much harder to recover. Still, the repeated need for laws, inspections and lawsuits reveals that unfree status was not a natural fact beyond challenge. Individuals and households made claims, owners fought them and officials intervened with varying outcomes. The institution's endurance depended on political enforcement, not simply social convention."
+      ],
+      "sequence": 5,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.6:b06",
+      "title": "Households, marriage and inheritance under coercion",
+      "paragraphs": [
+        "Nobi could establish familial relationships and live in different economic arrangements, but owners' rights limited their security. Marriage and children's status were particularly consequential because ownership could extend across generations. Legal rules concerning the status of children affected not just labour supply but the capacity of families to remain together or exercise control over their future.",
+        "Inheritance documents could divide enslaved people among heirs as part of an estate, giving researchers valuable but disturbing evidence about how human beings were treated as transferable assets. Such records usually preserve the wishes of owners rather than the consent of the enslaved. An evidence-conscious account must not romanticize household stability as freedom, and must distinguish documented rules from the many individual life stories that were never written down."
+      ],
+      "sequence": 6,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.6:b07",
+      "title": "Resistance, social conflict and the end of fixed categories",
+      "paragraphs": [
+        "Goryeo's social and political crises created opportunities for challenges to inherited status. Military rule, regional revolts and the upheavals of the later dynasty altered elite power and could expose contradictions between established legal claims and the experience of ordinary people. Some dependants sought manumission or disputed ownership, although surviving evidence is selective.",
+        "An unfree person's claim in a court record may be the only glimpse of a larger struggle. The larger chronology of status changes should not be reduced to the assumption that every revolt was a unified abolitionist movement. Protesters had diverse goals, and some sought particular privileges rather than the abolition of dependency. The history of nobi requires attention to law, labour and human agency together, with clear acknowledgement of the source imbalance favouring owners and officials."
+      ],
+      "sequence": 7,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.6:b08",
+      "title": "The distinction between household residence and personal freedom",
+      "paragraphs": [
+        "Some nobi lived in an owner's residence, while others could live in separate households and perform labour or provide dues. The latter arrangement can resemble aspects of free farming life in a superficial description, but legal ownership of persons remained a decisive distinction. Their status could be inherited, contested or transferred under rules that did not depend on voluntary agreement. Maintaining a household was not the same as possessing the freedom to leave one's owner.",
+        "An estate division may describe nobi alongside land and other assets. Such records are essential evidence of coercion, but they are written from an owner's perspective. They often reveal little about the relationships, skills or preferences of those being divided. The absence of protest in a document is not evidence that the people named consented to the transaction.",
+        "Gwangjong's 956 inspection policy and later reversals show that the legal boundary between free and unfree could become a political issue. State intervention did not abolish the institution, yet it confirms that ownership claims required enforcement and could be challenged. That institutional history should be joined to the fragmentary evidence of dependent people's agency."
+      ],
+      "sequence": 8,
+      "label": "Batch V focused analytical case study"
+    }
+  ]
+}

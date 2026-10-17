@@ -1,0 +1,159 @@
+{
+  "id": "VIII.4.4",
+  "title": "Land Surveys, Property Certificates, Taxation, and Fiscal Modernization",
+  "kicker": "KOREAN EMPIRE · REFORM AND SOVEREIGNTY",
+  "description": "Historical analysis of land surveys, property certificates, taxation, and fiscal modernization based on dated Korean Empire institutions and critical source reading.",
+  "release": "V",
+  "sourceStatus": "Original historical synthesis; NIKH period analyses are institutional scholarship, not direct transcripts of private political motives.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gojong and the Korean Empire's reforms and setbacks",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0010",
+      "role": "Chronology of 1896–1904, Independence Club and Gwangmu reform institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Chronology: Korean Empire and Gwangmu Reform",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401000",
+      "role": "1897 elevation, 1899 Constitution, reform frameworks and disputes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangmu Reform (광무개혁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005118",
+      "role": "Survey of land, military and commercial reforms and implementation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Land title certificate (지계)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0081002",
+      "role": "1898–1903 survey and legal property documentation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Imperial palace ministry and political reform",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0030_0020_0040",
+      "role": "Royal intermediaries, civil administrative overlap and reform institutions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.4.4:b01",
+      "title": "Why an accurate land register mattered",
+      "paragraphs": [
+        "Late nineteenth-century Korean governments faced the longstanding difficulty of knowing how much land was cultivated, by whom and under what claims. Older surveys provided a basis for taxation but were uneven and could become outdated. The Korean Empire sought to improve cadastral information both to strengthen public revenue and to clarify rights in property.",
+        "These objectives were related but not identical. A tax survey identifies revenue obligations, while a title certificate identifies recognized ownership. A cultivator might pay rent to a landlord, and both could appear differently in records according to the question asked. Historians should not assume that a parcel's appearance in a register settled every dispute about occupancy, use or ownership."
+      ],
+      "sequence": 1,
+      "label": "Original evidence-aware historical narrative",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History identifies the 1897 Korean Empire proclamation, 1899 constitutional framework and Gwangmu reforms in land, military and finance.",
+          "sourceIndex": 0,
+          "locator": "주제로 본 한국사: 고종과 대한제국의 개혁과 좌절",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.4:b02",
+      "title": "The establishment of survey institutions",
+      "paragraphs": [
+        "The Yangjiamun began operations in the reform period, and land surveying expanded from 1898–1899. The Academy of Korean Studies describes substantial coverage across many counties before geopolitical events interrupted the programme. Technical methods could draw on foreign expertise as well as Korean administrative knowledge.",
+        "A survey required skilled people, instruments, recordkeeping and the ability to resolve boundary disagreements. A published total of surveyed districts is evidence of institutional reach but should be interpreted in relation to the original documents' definitions and dates. Not every district had equivalent quality of records, and measured land was not necessarily land whose ownership had been settled without dispute."
+      ],
+      "sequence": 2,
+      "label": "Original evidence-aware historical narrative",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History identifies the 1897 Korean Empire proclamation, 1899 constitutional framework and Gwangmu reforms in land, military and finance.",
+          "sourceIndex": 1,
+          "locator": "한국사연대기 대한제국과 광무개혁 (1897~1903)",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.4:b03",
+      "title": "Jigye and recognized ownership",
+      "paragraphs": [
+        "The issue of jigye certificates from the early 1900s sought to document landholders' rights through new administrative forms. Such certificates could provide evidence in transactions and disputes, but the history of title involves older sale documents, local memory and patterns of tenure as well as state-issued papers.",
+        "The policy should not be treated as instant creation of private property in a society that previously lacked property claims. People already bought, sold and inherited land under established practices. Reform attempted to make recognition more systematic and useful to the state. Its success differed across regions, and the programme's interruption meant that universal issuance never occurred."
+      ],
+      "sequence": 3,
+      "label": "Original evidence-aware historical narrative",
+      "evidence": [
+        {
+          "claim": "The National Institute of Korean History identifies the 1897 Korean Empire proclamation, 1899 constitutional framework and Gwangmu reforms in land, military and finance.",
+          "sourceIndex": 3,
+          "locator": "한국민족문화대백과사전 지계와 양전사업",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.4:b04",
+      "title": "Fiscal needs and social pressures",
+      "paragraphs": [
+        "The court hoped that more complete registers would improve tax collection and help fund defence, communications and other programmes. Officials also confronted claims of exemption, ambiguous ownership and changing cultivation. A survey could make obligations more predictable while exposing previously unregistered plots to taxation.",
+        "Consequences depended on social position. Powerful holders might negotiate classifications more effectively than poor cultivators. Tenants could face new documentation requirements without obtaining title themselves. The historian should distinguish the state's goal of rationalizing revenue from the experiences of different residents; greater administrative capacity can redistribute burdens rather than remove inequality."
+      ],
+      "sequence": 4,
+      "label": "Original evidence-aware historical narrative"
+    },
+    {
+      "id": "VIII.4.4:b05",
+      "title": "Methods of measurement and their limits",
+      "paragraphs": [
+        "Surveyors aimed to create more standardized knowledge of the landscape. Instruments, boundaries and recorded acreage made fields legible to offices located far from the land itself. Yet terrain, seasonal cultivation and conflicting local claims made accuracy difficult. A map is never simply the field; it is the result of decisions about how to measure and categorize it.",
+        "Surviving records can be compared with older land registers and later colonial surveys, but each was prepared under different rules and political conditions. Treating successive documents as directly comparable without reconciling their units or purposes can create false claims about sudden expansion or decline. A good land-history study discloses such differences before drawing quantitative conclusions."
+      ],
+      "sequence": 5,
+      "label": "Original evidence-aware historical narrative"
+    },
+    {
+      "id": "VIII.4.4:b06",
+      "title": "Reform and foreign economic competition",
+      "paragraphs": [
+        "The empire sought to preserve control over land at a time when foreign interests were increasingly active in commerce and concessions. Restrictions on foreign ownership and the documentary recognition of Korean landholders were connected with sovereignty as well as taxation.",
+        "This policy should not be understood as a completed national land market protected from all external influence. Mortgages, leases, business agreements and other arrangements could create complicated claims. Nor can a decree alone show uniform enforcement throughout the territory. The legal language reflected an ambition to defend domestic control under conditions in which foreign diplomatic and military pressure limited choices."
+      ],
+      "sequence": 6,
+      "label": "Original evidence-aware historical narrative"
+    },
+    {
+      "id": "VIII.4.4:b07",
+      "title": "The interrupted record and the historian",
+      "paragraphs": [
+        "The outbreak of war in 1904 curtailed the independent reform environment, leaving surveys and title issuance incomplete. Later political regimes changed the institutional setting and used different property registration methods. This makes it necessary to read Gwangmu documents in their own chronology rather than simply as a preliminary stage of colonial administration.",
+        "The project reveals a state attempting to count resources, define rights and enlarge revenue without sacrificing sovereignty. Its incomplete implementation is not evidence that it never existed, nor is the scale of its ambitions proof that all landholders benefited. The most defensible conclusion joins actual survey achievements with limits imposed by local inequality, institutional costs and accelerating foreign intervention."
+      ],
+      "sequence": 7,
+      "label": "Original evidence-aware historical narrative"
+    },
+    {
+      "id": "VIII.4.4:b08",
+      "title": "What land documents reveal about competing claims",
+      "paragraphs": [
+        "The empire's land surveys and jigye certificates were part of an effort to make property and taxation more legible to central authorities. Yet a surveyor recording a field's dimensions could not by that act settle every competing claim. Ownership, actual cultivation, rent and long-established village practice might be divided among different people. The administrative problem was therefore legal and social, not only technical.",
+        "Older sale contracts and tax registers help explain why the project mattered. A person claiming land might possess documents recognized in a local community while lacking a standardized certificate useful in a new government office. Conversely, a powerful claimant might attempt to influence how an uncertain boundary was recorded. Greater documentary consistency could reduce some disputes while creating new opportunities for unequal treatment.",
+        "The interruption of the programme in the early 1900s leaves an uneven archive. Historians must not assume that surveyed districts represented the whole country or that later colonial maps describe the same legal process. The project's achievements are substantial as evidence of independent Korean administrative effort, but they require precise chronological and geographical limits."
+      ],
+      "sequence": 8,
+      "label": "Batch V focused institutional case study"
+    },
+    {
+      "id": "VIII.4.4:b09",
+      "title": "An independent cadastral project and its later interpretation",
+      "paragraphs": [
+        "The Korean Empire's survey effort offers a particularly important test of historical continuity. Land registration did not first enter Korean history with later colonial administrators: Gwangmu officials undertook extensive independent attempts to measure fields and regularize claims before Japan imposed direct rule. Recognizing that institutional initiative matters for understanding Korean reform as something other than foreign modernization brought to an inert society.",
+        "The equivalence should not be overstated. Gwangmu surveys and subsequent colonial cadastral programmes had different political authorities, legal mechanisms and social consequences. Even when later officials used similar techniques or inherited some information, the existence of a common technical practice did not make the policies identical. In the earlier project, Korea's government sought revenue and a firmer basis for title under its own sovereignty. In the later period, the institutional power deciding property rules had changed fundamentally.",
+        "The archival record remains incomplete. Survey work proceeded unevenly and was interrupted, while residents' rights depended not only on measured boundaries but also on older contracts, tenancy and local negotiations. A standardized certificate could support a claim without resolving every dispute about cultivation. The consequences for a tenant might differ from those for a registered owner.",
+        "Rather than call the survey a complete success or an empty gesture, historians should identify counties actually covered, inspect the forms of the surviving records and ask what officials could implement before 1904. This method connects the Korean Empire's technical ambition to measurable activity while refusing to project later institutional outcomes backwards as inevitable."
+      ],
+      "sequence": 9,
+      "label": "Batch V additional cross-source analysis"
+    }
+  ]
+}

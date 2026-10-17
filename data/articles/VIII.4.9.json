@@ -1,0 +1,141 @@
+{
+  "id": "VIII.4.9",
+  "title": "Seoul, Urban Transformation, Public Space, and New Social Life",
+  "kicker": "KOREAN EMPIRE · STATE CAPACITY AND FOREIGN PRESSURE",
+  "description": "Historical investigation of seoul, urban transformation, public space, and new social life, linking reforms, social reach and diplomatic constraints.",
+  "release": "V",
+  "sourceStatus": "Original source-conscious prose; contemporaneous policy announcements do not establish universal implementation.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Korean Empire reforms and setbacks",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0010",
+      "role": "Chronology, military rebuilding, capital infrastructure and 1904 external crisis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Chronology of Gwangmu reform",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401000",
+      "role": "Practical 1897–1903 reforms and state capacity"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangmu Reform institutional study",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005118",
+      "role": "Military, land, commerce and industrial reform"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Palace ministry and reform officials",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0030_0020_0040",
+      "role": "Royal financing and state enterprises"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.4.9:b01",
+      "title": "A capital changing its physical form",
+      "paragraphs": [
+        "Seoul became an important site for the Korean Empire's claim to be an independent modern state. Streets, transport, public buildings and improved services could symbolize governmental ambition while addressing the practical needs of a growing city. Such projects were concentrated in the capital because it housed the imperial court and foreign missions.",
+        "Urban modernization was not a simple replacement of an old city by an entirely new plan. Markets, neighbourhood relationships and earlier infrastructure continued to shape daily life. A new tramway or electric installation had to fit into existing streets and patterns of movement. Historians should study the coexistence of old and new forms rather than make photographs of a modern-looking corridor stand for the condition of every district."
+      ],
+      "sequence": 1,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 0,
+          "locator": "주제로 본 한국사 고종과 대한제국 시기",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.9:b02",
+      "title": "Gyeongungung and imperial urban symbolism",
+      "paragraphs": [
+        "The court's position at Gyeongungung, later known as Deoksugung, brought politics and urban design into close contact. Imperial ceremony, guard arrangements and diplomatic meetings required spaces that projected sovereignty. New buildings and adaptations of palace grounds signalled a government operating within international forms of statehood.",
+        "Ceremonial architecture cannot be separated from security and administration. The choice of location affected movement between ministries, foreign legations and the palace. At the same time buildings consumed scarce resources, and their style does not tell us how widely the population endorsed the monarchy's constitutional claims. The built environment reveals political intention more directly than it reveals public consensus."
+      ],
+      "sequence": 2,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 1,
+          "locator": "한국사연대기 대한제국과 광무개혁",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.9:b03",
+      "title": "Tramways and the changing experience of distance",
+      "paragraphs": [
+        "Electric street transport offered new possibilities for moving people across parts of the capital. Where routes were built, journey times and patterns of access could change, affecting shops, officials and households near stops. But coverage was limited and the cost of travel influenced who actually used the service.",
+        "The arrival of a tram should not be described as the instant modernization of all urban mobility. Walking, carts and older transport services remained important. Residents might experience the infrastructure as convenience, disruption or competition. Sources celebrating technical novelty are useful for dating projects but less reliable as descriptions of universal benefit. Urban history requires attention to the differentiated geography of use."
+      ],
+      "sequence": 3,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 2,
+          "locator": "한국민족문화대백과사전 광무개혁 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.9:b04",
+      "title": "Electric lighting and the public sphere",
+      "paragraphs": [
+        "Electric installations created visible signs of technical change in commercial and administrative districts. Lighting could extend the practical use of certain spaces and demonstrate the government's readiness to invest in foreign-derived technologies. Yet supply networks and maintenance limited coverage, especially outside important central areas.",
+        "Night-time photographs and official reports show that electricity became part of elite urban representation; they do not prove that every household had access. Fuel, public safety and private expense still shaped most residents' evenings. Historians should locate facilities, examine costs and distinguish an official opening ceremony from sustained reliable service. Modern infrastructure was a lived service only where people could use it."
+      ],
+      "sequence": 4,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.9:b05",
+      "title": "Public spaces and competing politics",
+      "paragraphs": [
+        "Independence Gate, meeting sites, palace grounds and streets became stages for public debates about sovereignty and government. Political activists could address crowds or circulate newspapers, while authorities sought to control assembly and maintain order. The city therefore became a setting where public political participation tested the boundaries of imperial monarchy.",
+        "The visibility of meetings in Seoul can exaggerate the reach of movements that remained socially and geographically uneven. Urban crowds are not a representative sample of the whole population, and public speeches are not necessarily unanimous expressions of opinion. Nevertheless the fact that political arguments occupied visible spaces altered the culture of government. Streets became places where authority could be celebrated, petitioned or contested."
+      ],
+      "sequence": 5,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.9:b06",
+      "title": "Water, hygiene and urban governance",
+      "paragraphs": [
+        "Growing cities required systems for managing clean water, waste and disease, problems that intersected with reforms in medicine and administration. Projects could be justified through public health and the prestige of a modern capital, but their distribution followed budgets and political priorities.",
+        "The presence of sanitary plans or regulations should not be mistaken for uniformly safe living conditions. Neighbourhood differences, maintenance and the costs faced by households matter. An official report might emphasize a completed facility without recording complaints by those not served. Urban history gains accuracy when it examines administrative ambition alongside ordinary experience and the practical limits of coverage."
+      ],
+      "sequence": 6,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.9:b07",
+      "title": "The city and the limits of national representation",
+      "paragraphs": [
+        "Seoul's transformation is an important chapter in the history of Korean modernization, but the capital cannot represent every experience of the empire. Regional towns, villages and ports followed different paths, and many rural households saw little direct benefit from the newest installations.",
+        "The concentration of visible urban reform reflected the monarchy's priorities and the presence of foreign diplomats and businesses. At the same time innovations in the capital created skills and institutional examples that could influence later developments. A complete assessment weighs symbolism, access, financing and distribution rather than treating urban novelty as either proof of national success or evidence of an empty spectacle."
+      ],
+      "sequence": 7,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.9:b08",
+      "title": "The photograph of a modern street is a narrow archive",
+      "paragraphs": [
+        "Images of trams, electric lights or imperial buildings provide striking evidence that parts of Seoul changed during the Korean Empire. But photographs frame particular moments and places. They cannot tell us how much of the city had access to a service, how reliable it was or whether neighbouring districts could afford to use it. Images chosen for public circulation often emphasized modernity and state prestige.",
+        "Urban research therefore requires budgets, route maps, company records, municipal regulations and residents' reactions alongside photographs. A tramline might help officials and merchants while disrupting existing traffic or generating disputes over safety. Electric lighting could transform a ceremonial district without reaching ordinary households. Infrastructure was simultaneously material, spatial and political.",
+        "The capital's transformation is historically important, but it should not stand for the whole country. Many rural communities continued to organize life around agriculture, local markets and older forms of travel. Seoul offered a concentrated view of imperial ambition and public political debate, not a statistically representative picture of the empire's population."
+      ],
+      "sequence": 8,
+      "label": "Batch V focused institutional case study"
+    }
+  ]
+}

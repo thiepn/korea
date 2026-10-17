@@ -1,0 +1,141 @@
+{
+  "id": "VIII.4.5",
+  "title": "The Imperial Army, Military Schools, and Defense Modernization",
+  "kicker": "KOREAN EMPIRE · STATE CAPACITY AND FOREIGN PRESSURE",
+  "description": "Historical investigation of the imperial army, military schools, and defense modernization, linking reforms, social reach and diplomatic constraints.",
+  "release": "V",
+  "sourceStatus": "Original source-conscious prose; contemporaneous policy announcements do not establish universal implementation.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Korean Empire reforms and setbacks",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0010",
+      "role": "Chronology, military rebuilding, capital infrastructure and 1904 external crisis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Chronology of Gwangmu reform",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401000",
+      "role": "Practical 1897–1903 reforms and state capacity"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangmu Reform institutional study",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005118",
+      "role": "Military, land, commerce and industrial reform"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Palace ministry and reform officials",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0030_0020_0040",
+      "role": "Royal financing and state enterprises"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.4.5:b01",
+      "title": "Defending sovereignty required organized force",
+      "paragraphs": [
+        "The Korean Empire's leaders confronted the problem of defending an independent state in a region where Japan, Russia and other powers possessed large modern armed forces. Building reliable troops was therefore not an optional ornament of imperial ceremony. After the turmoil surrounding the Eulmi incident and Gojong's refuge in 1896, the question of who protected the royal court was urgent and immediate.",
+        "The history of military reform begins with units, budgets, training and command relationships rather than statements of national resolve. A palace guard might be essential for securing the monarch yet insufficient to defend borders or transport routes. The state had to choose how resources were divided among central security, provincial forces and technical modernization. Those choices were political because the forces capable of defending the ruler might also affect the balance between the monarch and rival factions."
+      ],
+      "sequence": 1,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 0,
+          "locator": "주제로 본 한국사 고종과 대한제국 시기",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.5:b02",
+      "title": "The central guard and new military organisation",
+      "paragraphs": [
+        "Reforms to the central guard and other troops in the late 1890s were intended to provide disciplined forces loyal to Gojong. Sources describe the Siwidae, Chinwidae and other organizations with changing responsibilities, equipment and methods of instruction. The names are meaningful but must be tied to particular dates, because their size and functions could be revised repeatedly.",
+        "The existence of a unit in a statute or ceremonial photograph does not demonstrate operational readiness. Historians should examine recruitment, training duration, supply and deployment. A force could impress an observer during a parade while remaining short of ammunition, transport or adequately trained officers for a campaign. Conversely, later conquest cannot erase the actual military skills acquired by individual soldiers and units during reform."
+      ],
+      "sequence": 2,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 1,
+          "locator": "한국사연대기 대한제국과 광무개혁",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.5:b03",
+      "title": "Foreign instructors and the limits of borrowing expertise",
+      "paragraphs": [
+        "Military training drew upon foreign knowledge at a moment when diplomatic dependence was dangerous. Employing instructors or studying foreign organization could improve drill and administration, but it could also expose the command structure to outside influence. The court had to decide which methods could be adopted without surrendering final control over officers and equipment.",
+        "The presence of advisers should not be interpreted as a simple transfer of a complete European military system. Training works only when regular payment, professional discipline and supply networks sustain it. Furthermore advisers had their own backgrounds and could be associated with political interests that Korean ministers regarded cautiously. A source listing the nationality of an instructor tells us little by itself about the quality or political consequence of the instruction."
+      ],
+      "sequence": 3,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 2,
+          "locator": "한국민족문화대백과사전 광무개혁 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.5:b04",
+      "title": "The creation of the Wonsubu",
+      "paragraphs": [
+        "The Supreme Military Command, or Wonsubu, was established in 1899 as part of Gojong's effort to strengthen imperial authority over defence. It brought a formal centre for high military direction into the new political order and emphasized the emperor's role in command. The National Institute of Korean History identifies it among the main institutions of Gwangmu reform.",
+        "Centralizing command could clarify responsibility but also create overlap with existing military ministries. The key question is not whether a supreme headquarters existed, but whether its orders could be implemented reliably across armed units and provinces. Budgetary allocations, personnel loyalties and the pace of training constrained the project. The institution reveals an ambition to build state power, even where the resources required to realize it remained insufficient."
+      ],
+      "sequence": 4,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.5:b05",
+      "title": "The cost of a modern army",
+      "paragraphs": [
+        "Recruitment, equipment, wages, horses and training facilities demanded steady revenue. Fiscal reforms and land surveys therefore had direct implications for military capacity. A government that could not calculate its tax base or deliver supplies predictably would struggle to sustain a professional force, regardless of ceremonial rank.",
+        "This dependence created difficult social choices. Redirecting revenue toward soldiers could compete with education, relief or infrastructure; extracting more taxes could provoke resistance from farmers already under strain. Foreign procurement might supply weapons while increasing dependence on imported equipment and credit. Military modernization cannot be evaluated in isolation from the economy that financed it or the domestic legitimacy of fiscal measures."
+      ],
+      "sequence": 5,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.5:b06",
+      "title": "Threats from abroad and military diplomacy",
+      "paragraphs": [
+        "The approach of the Russo-Japanese War in 1904 narrowed Korea's ability to choose among foreign relationships. Powerful neighbours could station troops or demand strategic advantages in ways that Korean military reform could not immediately prevent. This is a problem of asymmetric force, not simply a moral failure by commanders.",
+        "Korean policymakers nevertheless made decisions about defence, neutrality and diplomacy under pressure. They could seek international recognition or try to avoid allowing a foreign army to use their territory, but enforcement depended on capabilities and the willingness of other governments to respect those claims. Historians should examine dated orders and diplomatic communications rather than infer an uninterrupted policy from one public declaration."
+      ],
+      "sequence": 6,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.5:b07",
+      "title": "An unfinished military transformation",
+      "paragraphs": [
+        "The armed forces created and reorganized under the Korean Empire did not become capable of matching the largest regional powers before foreign intervention intensified. That limitation is a historical conclusion about resources and time, not proof that officers and soldiers lacked competence or that state-building was imaginary.",
+        "The experience of training, administrative reform and attempts to organize defence remained important to Korean institutional history. To understand the effort, one must separate the specific military changes of 1897–1903 from later forced developments. The tragedy of lost sovereignty does not authorize the historian to portray every preceding investment as futile from its inception. It calls for analysis of how internal capacity and external coercion interacted."
+      ],
+      "sequence": 7,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.5:b08",
+      "title": "The gap between command and capacity",
+      "paragraphs": [
+        "The Korean Empire could establish a supreme military command and reorganize troops while still facing shortages in supply, skilled officers and military equipment. Such limitations do not negate the significance of reform. They demonstrate that formal organization is only one component of military capability. Logistics, training time, discipline and dependable revenue are equally important when comparing armies.",
+        "Gojong's concern for royal security after the violent political crises of the 1890s shaped the priority given to palace-related units. Those forces had a vital defensive function but also a political one: they helped secure the monarch against domestic rivals or outside intervention. Investments in the central guard did not always have the same strategic benefits as improvements to provincial defence or transport.",
+        "The state's inability to deter major Japanese military intervention should not be translated into a claim that Korean soldiers did not learn modern techniques. A force can improve relative to its own earlier condition while remaining weaker than a rapidly expanding foreign army. Distinguishing absolute institutional gains from the changing regional balance is fundamental to assessing Korea's unfinished military transformation."
+      ],
+      "sequence": 8,
+      "label": "Batch V focused institutional case study"
+    }
+  ]
+}

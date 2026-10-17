@@ -1,0 +1,153 @@
+{
+  "id": "V.3.3",
+  "title": "Officials, Status Groups, and Social Mobility",
+  "kicker": "GORYEO · STATUS AND SOCIAL RELATIONSHIPS",
+  "description": "Critical social history of officials, status groups, and social mobility in Goryeo, distinguishing official categories from household experience.",
+  "release": "V",
+  "sourceStatus": "Original synthesis from NIKH New Korean History and AKS encyclopedia; later Goryeosa retrospectively compiles earlier records.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New Korean History, volume 15: Goryeo Society, Status and Family",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_015_0030_0020_0020_0020",
+      "role": "Scholarly secondary synthesis for Goryeo status distinctions, family and inheritance"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Munbeol (문벌)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0072775",
+      "role": "Powerful civil-official lineages and hereditary prestige"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangni (향리)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062905",
+      "role": "Local clerk formation and Goryeo provincial administration"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hyangyeok (향역)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062965",
+      "role": "Duties of local officials and labour, tribute, census and taxes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nobi (노비)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012757",
+      "role": "Changing dependent statuses, sale, ownership and 956 legislation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Nobi restoration regulations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012770",
+      "role": "Later reversal and enforcement of status rules"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.3.3:b01",
+      "title": "A hierarchy too complex for four boxes",
+      "paragraphs": [
+        "Modern surveys often classify Goryeo society into aristocrats, middle groups, ordinary free people and the unfree. Such a scheme is a useful introductory guide, but it can obscure relationships that changed with place, period and legal context. The standing of a local clerk differed from a central minister even when both handled government documents; the legal position of a free cultivator differed from that of a dependent whose labour was claimed by an owner.",
+        "A person's practical opportunities depended upon more than a label. Land access, literacy, networks and the obligations attached to residence could alter daily life profoundly. A woman from a rich family might possess property but lack access to certain official careers; a male commoner could be legally free while too burdened with labour demands to study. A complete social history needs to keep legal status, occupation, gender and wealth analytically distinct."
+      ],
+      "sequence": 1,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 0,
+          "locator": "신편 한국사 15: 고려 사회의 신분제와 가족제도",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.3:b02",
+      "title": "Entry routes into service",
+      "paragraphs": [
+        "The civil examination system is one of the most familiar features of Goryeo government. Examinations mattered because the state required literate officials able to handle memorials, law and ritual. Yet the available teaching networks were unevenly distributed, with wealthy lineages having resources to finance prolonged education and useful patronage. Officeholding privilege and family recommendation also influenced appointments.",
+        "The existence of upward mobility cannot be denied, but it should not be imagined as an unlimited social elevator. A talented man might rise through study or a local administrative career, while many free subjects never approached a school preparing candidates for court. The difference between a formal right and the cost of exercising it is central. Social mobility was real in particular biographies but needs a denominator before claims about its frequency can be made."
+      ],
+      "sequence": 2,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 1,
+          "locator": "한국민족문화대백과사전 문벌 항목",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.3:b03",
+      "title": "Military officers and civil officials",
+      "paragraphs": [
+        "Civil officials often received cultural prestige, reflecting Confucian learning and the bureaucratic language of government. Military officers, meanwhile, performed indispensable defence and enforcement tasks but contested their position within the court hierarchy. The tensions culminating in the 1170 coup should be understood in relation to institutional honours and political access, not merely as personal resentment by soldiers.",
+        "After the military takeover, rank and social power no longer corresponded in the same way. Men connected to military rulers could exercise extensive authority while formally royal institutions persisted. A court clerk might continue producing records under a commander who controlled appointments. Such situations show why the formal category of a position and the practical capacity to command must be distinguished whenever social status is reconstructed."
+      ],
+      "sequence": 3,
+      "label": "Original source-conscious narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS describe graded Goryeo officeholding, lineage privilege, local service and nobi law, with different source strengths.",
+          "sourceIndex": 4,
+          "locator": "한국민족문화대백과사전 노비 및 노비안검법 관련 항목",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.3.3:b04",
+      "title": "Status linked to hereditary obligations",
+      "paragraphs": [
+        "Many positions and labour obligations were inherited or connected to households registered in particular places. Local administrative service, craft work, transport and other specialized tasks could shape a community's social identity. The residents of hyang, so and bugok have been grouped in older scholarship as uniformly despised, but their changing circumstances and legal classifications need closer attention.",
+        "The same broad word dependent could cover different degrees of restriction. Some workers held household property or performed an economic function without being chattel; others could be bought or inherited under nobi arrangements. The historian should identify the regulation involved instead of converting every difficult occupation into slavery. Documentary categories were made by authorities with fiscal and administrative interests, and those interests shaped the visibility of each group."
+      ],
+      "sequence": 4,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.3:b05",
+      "title": "Women, family status and access to resources",
+      "paragraphs": [
+        "Official appointment lists are dominated by men, yet women were central to the transmission of elite property, marriage alliances and kinship obligations. A daughter could inherit a share of family assets and influence the future of another household through marriage. Such evidence challenges any model that treats Goryeo women as economically invisible.",
+        "Property rights were not the same as political equality, and written norms could coexist with coercion, family pressure or social restrictions. Women of different status groups faced unequal choices; a noble heiress and an unfree domestic worker cannot be placed into one general story of female autonomy. Tomb inscriptions and inheritance cases provide valuable but selective material. They often document elite families and require caution before generalization to poorer households."
+      ],
+      "sequence": 5,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.3:b06",
+      "title": "The material foundations of everyday rank",
+      "paragraphs": [
+        "Status was expressed through housing, clothing, diet, ceremonies and access to religious donations, but archaeological evidence must be read carefully. A rich grave establishes investment in burial ritual and perhaps household resources; it does not automatically tell us the precise legal rank of the deceased. Similarly, luxury ceramics might circulate through gifts or long-distance commerce beyond the highest court.",
+        "Material differences can nevertheless reveal inequality when connected with settlement and documentary patterns. Urban access to markets or imported goods might differ from conditions in remote villages. Seasonal hardship could affect even a legally free household sharply. A study of status must therefore connect formal institutions to work, subsistence and the distribution of risk rather than treat rank as an abstract ladder detached from lived experience."
+      ],
+      "sequence": 6,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.3:b07",
+      "title": "Change across the length of the dynasty",
+      "paragraphs": [
+        "Goryeo lasted from 918 to 1392, and the standing of officials, military commanders, provincial elites and dependent communities changed during those centuries. The rise of military families, the period of Mongol intervention and later reforms altered who controlled resources and how privilege could be transmitted. A social diagram suitable for the early twelfth century may mislead when applied to the fourteenth.",
+        "The surviving Goryeosa was compiled under Joseon, giving its classifications and judgments an additional layer of interpretation. It remains indispensable because it preserves institutional materials, but scholars should identify the source layer where possible. Studying status as historical change rather than one frozen structure makes room for conflict, adaptation and different local experiences. This is especially important when comparing Goryeo to later Joseon family and officeholding practices."
+      ],
+      "sequence": 7,
+      "label": "Original source-conscious narrative"
+    },
+    {
+      "id": "V.3.3:b08",
+      "title": "Formal eligibility and the cost of opportunity",
+      "paragraphs": [
+        "A status system can proclaim a route into service while denying most people the practical means to use it. Examination preparation required education, time, manuscripts and networks. A talented young person whose household depended on continuous agricultural labour could not pursue study under the same conditions as a wealthy court official's son. The distinction between formal possibility and broad access is essential when judging Goryeo mobility.",
+        "The same issue arises in military and clerical careers. Some positions offered recognized paths to advancement, but the rewards attached to service could be constrained by inherited standing and influential patrons. People could gain substantial local authority without entering elite metropolitan circles. Others received formal office yet lacked the resources to retain influence. The meaning of promotion thus changed with the institution and historical period.",
+        "Stories of exceptional individuals are invaluable because they show that social boundaries were not completely impermeable. But they cannot establish how frequently a change of rank occurred. A responsible analysis identifies the recorded success and then asks how typical the conditions were, what other routes existed and which groups remained legally excluded or economically disadvantaged."
+      ],
+      "sequence": 8,
+      "label": "Batch V focused analytical case study"
+    }
+  ]
+}

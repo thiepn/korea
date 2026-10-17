@@ -1,0 +1,141 @@
+{
+  "id": "VIII.4.10",
+  "title": "Imperial Diplomacy, Neutrality, and Russo-Japanese Rivalry before 1904",
+  "kicker": "KOREAN EMPIRE · STATE CAPACITY AND FOREIGN PRESSURE",
+  "description": "Historical investigation of imperial diplomacy, neutrality, and russo-japanese rivalry before 1904, linking reforms, social reach and diplomatic constraints.",
+  "release": "V",
+  "sourceStatus": "Original source-conscious prose; contemporaneous policy announcements do not establish universal implementation.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Korean Empire reforms and setbacks",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0010",
+      "role": "Chronology, military rebuilding, capital infrastructure and 1904 external crisis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Chronology of Gwangmu reform",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401000",
+      "role": "Practical 1897–1903 reforms and state capacity"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangmu Reform institutional study",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005118",
+      "role": "Military, land, commerce and industrial reform"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Palace ministry and reform officials",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0030_0020_0040",
+      "role": "Royal financing and state enterprises"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.4.10:b01",
+      "title": "The geopolitical problem of 1897",
+      "paragraphs": [
+        "The Korean Empire proclaimed its sovereignty in a region where Japan and Russia were competing for influence and military advantage. China had recently suffered defeat in the Sino-Japanese War, while other foreign governments pursued commercial and diplomatic opportunities. Gojong's government faced the task of securing international recognition without becoming dependent on one great power's protection.",
+        "The desire for neutrality or balanced relations was not an expression of indifference to external threats. It was an attempt to preserve room for choice when Korea could not match the military strength of its neighbours. The court's position changed as foreign forces altered their commitments, so one proclamation should not be used to describe a stable policy over seven years."
+      ],
+      "sequence": 1,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 0,
+          "locator": "주제로 본 한국사 고종과 대한제국 시기",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.10:b02",
+      "title": "The consequences of the Russian-legation refuge",
+      "paragraphs": [
+        "Gojong's move to the Russian legation in 1896 had immediate implications for court security and perceptions of foreign influence. The subsequent return to Gyeongungung and declaration of empire helped restore visible royal authority. But Russia remained one of several powers seeking influence through advisers, concessions and regional strategy.",
+        "It is inaccurate to portray the Korean government as the passive property of whichever mission housed its monarch. Korean officials negotiated, resisted or sought advantage within severe constraints. At the same time the physical security of the ruler and the presence of foreign troops could restrict available choices. A diplomatic history needs to distinguish formal treaty relations from leverage exercised through military and financial pressure."
+      ],
+      "sequence": 2,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 1,
+          "locator": "한국사연대기 대한제국과 광무개혁",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.10:b03",
+      "title": "Concessions as tools of influence",
+      "paragraphs": [
+        "Foreign governments and business interests sought commercial and resource concessions involving mines, railways, timber or other assets. The Korean state attempted to regulate such claims while seeking technical expertise and investment. Every concession had a legal and financial structure that affected long-term control.",
+        "A diplomatic promise is not the same as effective ownership, and an approved project is not the same as an operating enterprise. Historians should compare signed terms, investment and implementation, paying attention to the possibility of unequal bargaining. Economic diplomacy could change the strategic balance even when no formal territory was annexed. The struggle for sovereignty thus reached into contracts and infrastructure as well as embassies."
+      ],
+      "sequence": 3,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 2,
+          "locator": "한국민족문화대백과사전 광무개혁 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.10:b04",
+      "title": "International law and the practice of neutrality",
+      "paragraphs": [
+        "Korean leaders could invoke the vocabulary of sovereignty, treaties and neutrality to argue that foreign armies should respect their territory. Such claims belonged to the broader international order in which independent states were formally recognized. The weakness lay not in the conceptual clarity of sovereignty but in the lack of an effective enforcement mechanism against a determined stronger neighbour.",
+        "A declaration of neutrality has meaning even if violated. It records the position a government publicly asserted and forms part of the evidence for external aggression. But it cannot substitute for examination of what other states did in response. The history of diplomacy must therefore track declarations, military movements and practical negotiations separately."
+      ],
+      "sequence": 4,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.10:b05",
+      "title": "Competing Japanese and Russian strategies",
+      "paragraphs": [
+        "Japan regarded the peninsula as strategically important in relation to its security and continental ambitions, while Russia's activities in Manchuria and the region sharpened concerns over rival influence. Korean policy was increasingly constrained by negotiations and military calculations made outside Seoul.",
+        "Historians should avoid treating Japan and Russia as identical actors or assuming that every diplomat shared a single fixed goal. Their competing positions shifted in response to wider imperial interests. Korea's leaders attempted to exploit openings between them, but the balance became less favourable as confrontation approached. A careful account identifies dates and decisions rather than explain the entire conflict through timeless national characteristics."
+      ],
+      "sequence": 5,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.10:b06",
+      "title": "The road to February 1904",
+      "paragraphs": [
+        "By early 1904, Japan and Russia were moving toward war, creating an immediate danger to Korean territorial independence. Japan's military planning gave the peninsula exceptional strategic significance, and Korean assertions of neutrality faced a severe test. The outbreak of the Russo-Japanese War in February 1904 decisively narrowed Korea's sovereign choices.",
+        "The war's consequences should not be projected backward as a certainty understood by every Korean actor in 1897. Policymakers pursued alliances, reforms and international recognition under genuine uncertainty. Later loss of diplomatic autonomy does not demonstrate that no alternative possibilities existed before force was applied. It instead highlights the difference between legal equality among states and the capacity to defend it in an imperial international system."
+      ],
+      "sequence": 6,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.10:b07",
+      "title": "Diplomacy as an unfinished state-building project",
+      "paragraphs": [
+        "Maintaining independent foreign relations required legations, skilled interpreters, reliable financial commitments and the ability to negotiate strategically important contracts. The Korean Empire invested in the forms of a sovereign state while struggling with domestic fiscal and military constraints. Diplomatic institutions and internal reform were thus inseparable.",
+        "The history ends this Chapter before the war and the subsequent protectorate arrangements, preserving the architecture's chronological boundary. By 1904 Korean sovereignty had been asserted through imperial law, ceremony, negotiation and reform, yet it remained vulnerable to coercion by a stronger foreign power. Explaining this outcome requires attention to Korean agency and external aggression together, rather than converting vulnerability into evidence that the state had no meaningful history of its own."
+      ],
+      "sequence": 7,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.10:b08",
+      "title": "Neutrality was a political claim, not an enforceable shield",
+      "paragraphs": [
+        "Korean diplomacy in the years before 1904 sought to defend territorial independence while managing competition among stronger states. The language of neutrality asserted that Korea should not be made the military instrument of a foreign power. Its force depended upon diplomatic recognition and the willingness of other governments to respect the claim. International legal principles could be articulated more readily than enforced in the face of superior arms.",
+        "Gojong and his officials had to evaluate rapidly changing relationships involving Japan, Russia and other foreign governments. A concession or military arrangement that seemed advantageous at one moment could constrain policy later. Diplomats therefore pursued room for maneuver through formal missions, negotiations and sometimes rival foreign relationships. These efforts were genuine acts of government, even when their success was limited.",
+        "The Russo-Japanese War of February 1904 changed the regional situation decisively. That outcome must not be written backward as if Korea's leaders had known every future development in 1897. Historical explanation should preserve contingent choices and identify external intervention as an independent cause, while also assessing the practical weaknesses of Korean military and fiscal resources."
+      ],
+      "sequence": 8,
+      "label": "Batch V focused institutional case study"
+    }
+  ]
+}
