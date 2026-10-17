@@ -2,7 +2,7 @@
 
 ## Scope, authority, and editorial status
 
-Baseline `8716ee44d7686daacd399f3fa547bdf9e6b5a360`: 267 published articles, 1,647 immutable passages, 243,346 narrative words; 15 canonical v1.1 source blobs. Batch U completes Chapter **III.4 — Gaya and the Confederated South** and **IV.4 — Silla Buddhism, Learning, and Cultural Civilization**. 17 source-native new articles and three strictly append-only expansions (`III.4.1`, `III.4.7`, `IV.4.4`) introduce 20,101 original historical words and 145 new paragraphs-as-passages in the authoring regex tally, subject to Python content-compiler verification. Previously published metadata, titles, blocks and immutable passage IDs must remain unchanged.
+Baseline `8716ee44d7686daacd399f3fa547bdf9e6b5a360`: 267 published articles, 1,647 immutable passages, 243,346 narrative words; 15 canonical v1.1 source blobs. Batch U completes Chapter **III.4 — Gaya and the Confederated South** and **IV.4 — Silla Buddhism, Learning, and Cultural Civilization**. 17 source-native new articles and three strictly append-only expansions (`III.4.1`, `III.4.7`, `IV.4.4`) introduce 20,097 original historical words and 145 new paragraphs-as-passages in the verified Python content-compiler tally. Previously published metadata, titles, blocks and immutable passage IDs must remain unchanged.
 
 Sources are selectively cited per article in `sources` and `blocks[].evidence`. **Context** references do not establish that each narrative sentence is directly proven. The material is original editorial synthesis, not independent scholarly peer review or exhaustive archival research.
 
