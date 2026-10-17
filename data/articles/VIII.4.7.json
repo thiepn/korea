@@ -1,0 +1,130 @@
+{
+  "id": "VIII.4.7",
+  "title": "Schools, Medicine, Science, Newspapers, and the Expansion of Modern Knowledge",
+  "kicker": "KOREAN EMPIRE · STATE CAPACITY AND FOREIGN PRESSURE",
+  "description": "Historical investigation of schools, medicine, science, newspapers, and the expansion of modern knowledge, linking reforms, social reach and diplomatic constraints.",
+  "release": "V",
+  "sourceStatus": "Original source-conscious prose; contemporaneous policy announcements do not establish universal implementation.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Korean Empire reforms and setbacks",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0010",
+      "role": "Chronology, military rebuilding, capital infrastructure and 1904 external crisis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Chronology of Gwangmu reform",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401000",
+      "role": "Practical 1897–1903 reforms and state capacity"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangmu Reform institutional study",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005118",
+      "role": "Military, land, commerce and industrial reform"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Palace ministry and reform officials",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0030_0020_0040",
+      "role": "Royal financing and state enterprises"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.4.7:b01",
+      "title": "Education as a condition of independence",
+      "paragraphs": [
+        "Reformers in the Korean Empire argued that the state needed people capable of using new technical knowledge, interpreting foreign affairs and administering modern institutions. Schools thus became connected to questions of sovereignty as well as individual advancement. Public and private establishments expanded educational possibilities, though access remained uneven by region, wealth and gender.",
+        "The existence of a school should not be equated with mass education. Enrolment, teaching materials, trained instructors and the length of attendance determined whether an institution could serve its intended audience. Official proclamations emphasized national progress, but their language does not prove that rural households could release children from essential work or pay related costs. Educational development was consequential and limited at the same time."
+      ],
+      "sequence": 1,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 0,
+          "locator": "주제로 본 한국사 고종과 대한제국 시기",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.7:b02",
+      "title": "Newspapers and a public language of reform",
+      "paragraphs": [
+        "Print journalism gave reform advocates and officials a way to explain policies and dispute their effects. Newspapers associated with the broader independence and enlightenment movements introduced readers to changing concepts of citizenship, national wealth and external relations. The medium created political audiences that could challenge government decisions without holding office.",
+        "Newspaper evidence has limits. Writers expressed editorial positions, used rhetorical language and concentrated on issues visible to educated urban contributors. Readers outside distribution networks are harder to reconstruct. A lively newspaper controversy does not demonstrate universal participation, nor is the absence of a village's voice evidence of indifference. Historians should distinguish the development of public argument from the breadth of its social reach."
+      ],
+      "sequence": 2,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 1,
+          "locator": "한국사연대기 대한제국과 광무개혁",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.7:b03",
+      "title": "Medicine and public health institutions",
+      "paragraphs": [
+        "New medical practices and institutions appeared in an environment where epidemics, sanitation and access to trained care were pressing concerns. The adoption of foreign medical methods did not instantly displace existing therapeutic traditions, and families might seek assistance from several types of practitioners.",
+        "Public-health policy depended on buildings, funding, medicines and the capacity to communicate with residents. A hospital founded in a city cannot demonstrate equal access throughout Korea. Historians should examine who paid, who received treatment and whether administrative reforms reached beyond the capital. The presence of modern medical terminology in official writing is evidence of aspiration, not a measurement of population-wide health outcomes."
+      ],
+      "sequence": 3,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 2,
+          "locator": "한국민족문화대백과사전 광무개혁 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.7:b04",
+      "title": "Science, translation and technological literacy",
+      "paragraphs": [
+        "Technical education required translation and new vocabularies, since foreign manuals and instruments could not be used effectively without trained interpreters and teachers. Practical subjects such as surveying, military engineering and communications often had immediate governmental value. Translators and educators therefore acted as intermediaries between imported knowledge and local institutional needs.",
+        "This was not simply the transfer of knowledge from an advanced outside world to passive Korean recipients. Korean officials and students selected, adapted and debated methods according to domestic priorities. The resulting projects could fail because funding ended, foreign advisers withdrew or political authority changed. Technical literacy was a form of state capacity that had to be cultivated locally, not a finished commodity obtained by buying equipment."
+      ],
+      "sequence": 4,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.7:b05",
+      "title": "Gender and access to new learning",
+      "paragraphs": [
+        "Women's education began to receive new forms of institutional and public advocacy during the wider reform era. Yet such initiatives did not overcome social and economic barriers immediately. The possibilities available to a girl in a prosperous Seoul household could differ sharply from those in an agricultural family distant from schools.",
+        "Contemporary arguments for female education sometimes emphasized domestic improvement rather than equal civic participation. Such positions deserve analysis in their own terms instead of being treated as identical to later equality movements. The history of schooling should pay attention to intended curricula, admission rules and the work expected of students outside the classroom. Increasing visibility of women in reform discourse is significant even where participation remained selective."
+      ],
+      "sequence": 5,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.7:b06",
+      "title": "Competing aims of educational policy",
+      "paragraphs": [
+        "The court valued administrative expertise and disciplined service; public reformers might also seek independent judgement among educated citizens. These aims overlapped but could generate conflict when students or teachers criticized the government. Education could strengthen a centralizing monarchy and foster arguments for broader public accountability.",
+        "Private schools and associations navigated the same political tension. A teacher who supported national independence might disagree with another reformer over constitutional arrangements or the language of instruction. Sources recording patriotic speeches reveal commitments but not always the practical management of a school. The historian should follow actual institutions and their graduates rather than make education an abstract moral force."
+      ],
+      "sequence": 6,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.7:b07",
+      "title": "An uneven but enduring legacy",
+      "paragraphs": [
+        "The schooling, medical and print institutions of the Korean Empire developed under severe financial and diplomatic constraints. Some initiatives survived changes of administration; others were interrupted or redirected when foreign control increased. Their importance cannot be judged solely by whether the independent empire endured after 1904.",
+        "A careful account distinguishes actual facilities, plans never implemented and later institutions claiming descent from the reform years. It also recognizes that access was unequal and that imported techniques could serve both nationalist aspirations and foreign economic interests. Knowledge was one of the resources Korean society sought to mobilize in defence of autonomy, but acquiring it required time and political control that the state increasingly struggled to secure."
+      ],
+      "sequence": 7,
+      "label": "Original historical narrative"
+    }
+  ]
+}

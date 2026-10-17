@@ -1,0 +1,130 @@
+{
+  "id": "VIII.4.8",
+  "title": "Banks, Companies, Mining, Commerce, and Emerging Industrial Enterprise",
+  "kicker": "KOREAN EMPIRE · STATE CAPACITY AND FOREIGN PRESSURE",
+  "description": "Historical investigation of banks, companies, mining, commerce, and emerging industrial enterprise, linking reforms, social reach and diplomatic constraints.",
+  "release": "V",
+  "sourceStatus": "Original source-conscious prose; contemporaneous policy announcements do not establish universal implementation.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Korean Empire reforms and setbacks",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0010",
+      "role": "Chronology, military rebuilding, capital infrastructure and 1904 external crisis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Chronology of Gwangmu reform",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401000",
+      "role": "Practical 1897–1903 reforms and state capacity"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwangmu Reform institutional study",
+      "url": "https://encykorea.aks.ac.kr/Article/E0005118",
+      "role": "Military, land, commerce and industrial reform"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Palace ministry and reform officials",
+      "url": "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0030_0020_0040",
+      "role": "Royal financing and state enterprises"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VIII.4.8:b01",
+      "title": "A state seeking a productive economy",
+      "paragraphs": [
+        "The Korean Empire regarded domestic economic capacity as essential to maintaining sovereignty. Officials and private entrepreneurs explored new companies, mines, finance and commercial regulation, seeking to generate revenue while negotiating with foreign investors. These projects were not components of one finished industrial plan; they arose in different sectors and encountered distinct obstacles.",
+        "Commercial modernization depended on security of property, predictable contracts, transportation and access to credit. A firm could be organized formally yet lack the capital or infrastructure required for sustained operation. Similarly, foreign concessions could bring equipment while threatening control over profits or strategic resources. The history is therefore one of bargaining over the terms of development as much as the spread of new enterprises."
+      ],
+      "sequence": 1,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 0,
+          "locator": "주제로 본 한국사 고종과 대한제국 시기",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.8:b02",
+      "title": "Banks, credit and the problem of liquidity",
+      "paragraphs": [
+        "Commercial ventures required finance to pay workers, buy machinery and bridge the time between production and sale. Modernizing monetary institutions could help coordinate transactions, but the underlying availability of capital and trust in payments mattered. Existing merchants and moneylenders continued to participate in exchange alongside new forms.",
+        "A chartered bank's existence does not automatically prove widespread access to credit for small farmers or artisans. Financial services were concentrated where officials and businesses could make use of them, and loan terms varied. Historians should compare the practical reach of institutions rather than assume that new legal names replaced all earlier economic arrangements. Monetary change could produce both opportunity and instability for people earning their living through customary networks."
+      ],
+      "sequence": 2,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 1,
+          "locator": "한국사연대기 대한제국과 광무개혁",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.8:b03",
+      "title": "Mines and foreign concession politics",
+      "paragraphs": [
+        "Mineral resources attracted both government interest and foreign requests for exploitation rights. Mining required technical expertise, transport and investment, making outside partnerships tempting for a state seeking rapid development. At the same time a concession could place a valuable asset under terms shaped by diplomatic pressure.",
+        "The historian must distinguish a government's ownership claims, a signed concession and the actual productive operation of a mine. An agreement could be revised or poorly implemented; a mine might generate less revenue than anticipated. Foreign participation was not homogeneous, and different companies negotiated different conditions. Korea's central problem was how to obtain needed capital without losing control over economic assets essential to fiscal independence."
+      ],
+      "sequence": 3,
+      "label": "Original historical narrative",
+      "evidence": [
+        {
+          "claim": "NIKH and AKS characterize Gwangmu reform as an 1897–1903 programme of military, commercial and urban initiatives, under intensifying Japanese and Russian pressure.",
+          "sourceIndex": 2,
+          "locator": "한국민족문화대백과사전 광무개혁 연구",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VIII.4.8:b04",
+      "title": "Commercial associations and domestic entrepreneurship",
+      "paragraphs": [
+        "Korean merchants and entrepreneurs pursued opportunities created by transport, foreign trade and changing demand. Some organized associations or companies, while others adapted established family businesses. Their strategies demonstrate that commercial change was not carried out exclusively by the royal government or by outsiders.",
+        "The voices most visible in company records often belong to investors and officials rather than labourers, carriers or small producers. A firm's formation is an event in institutional history, not proof of broad prosperity. To assess its impact, one must consider employment, wages, market access and competition. Reformers could celebrate a Korean-owned enterprise as a symbol of national strength while ordinary workers experienced its practical results differently."
+      ],
+      "sequence": 4,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.8:b05",
+      "title": "Infrastructure, commerce and unequal benefits",
+      "paragraphs": [
+        "Railways, telegraphs, ports and urban services could reduce transaction costs and alter the geography of business. Yet the ownership of a line and its route mattered for who benefited. Foreign strategic interests could influence where infrastructure was placed, while domestic traders might gain new connections or face stronger competition.",
+        "A new station near a market may create opportunities for wholesalers and carriers while bypassing a nearby settlement. Government promotion of trade cannot be equated with identical benefits for all occupations. Historical analysis should connect individual infrastructure projects to financing and control, rather than use the general word progress as an explanation. Economic modernization was spatially and socially uneven."
+      ],
+      "sequence": 5,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.8:b06",
+      "title": "Trade policy and imperial pressure",
+      "paragraphs": [
+        "Foreign treaties and diplomatic relationships affected tariffs, concessions and the state's capacity to regulate markets. Korean leaders sought room to protect domestic enterprise, but the balance of power constrained negotiation. Some industries or firms were shaped by opportunities associated with particular foreign partners.",
+        "It is misleading to portray every transaction involving outside capital as simply imposed, or to assume that all Korean participants freely accepted its terms. The same agreement could involve practical benefits and unequal bargaining conditions. Understanding economic sovereignty requires examining who had authority to change a contract, enforce a decision or prevent a strategic asset from passing under external control."
+      ],
+      "sequence": 6,
+      "label": "Original historical narrative"
+    },
+    {
+      "id": "VIII.4.8:b07",
+      "title": "How to judge economic reform",
+      "paragraphs": [
+        "The existence of modern companies, financial initiatives and resource projects demonstrates that Koreans actively pursued economic reform during the empire. Their uneven outcomes show that institutional creation and durable productive capacity were different achievements. Some ventures faced shortages of investment, expertise or a secure political framework.",
+        "The longer history should avoid judging every initiative by the later loss of sovereignty. Foreign military intervention was a major force independent of the technical merits of individual projects. At the same time nationalist intention does not guarantee that a company served workers or farmers fairly. The strongest assessment identifies concrete activity, distribution of benefits and the political constraints that limited implementation."
+      ],
+      "sequence": 7,
+      "label": "Original historical narrative"
+    }
+  ]
+}
