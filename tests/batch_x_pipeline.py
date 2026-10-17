@@ -11,7 +11,7 @@ SNAP='f8c2cdb647ce76ef6170b3d25cc960e2bbe145bd'
 assert fixture['baseline_main']==BASE
 def blob_sha(path):
     raw=path.read_bytes()
-    return hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\\0'+raw).hexdigest()
+    return hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\0'+raw).hexdigest()
 def show(ref,path):
     return subprocess.run(['git','show',f'{ref}:{path}'],cwd=ROOT,capture_output=True,check=True).stdout
 def authored(id):
@@ -67,7 +67,7 @@ for id in sorted(target):
             assert len(evidence.get('claim',''))>=24 and len(evidence.get('locator',''))>=12,id
             assert 0<=evidence['sourceIndex']<len(curr['sources']),id
         anchors+=len(found)
-norm=[' '.join(re.findall(r'\\w+',p.casefold())) for p in prose]
+norm=[' '.join(re.findall(r'\w+',p.casefold())) for p in prose]
 assert len(norm)==len(set(norm)),('duplicate Batch X paragraph')
 assert 20000<=word_count<=30000,('original narrative word count',word_count)
 assert passages==fixture['expected_new_passages'],passages
