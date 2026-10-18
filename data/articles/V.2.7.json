@@ -1,0 +1,176 @@
+{
+  "id": "V.2.7",
+  "title": "Five Circuits, Two Frontier Regions, Counties, and Local Administration",
+  "kicker": "GORYEO · LAW, TERRITORY AND POWER",
+  "description": "Original historical study of five circuits, two frontier regions, counties, and local administration, combining institutional history with regional and social source criticism.",
+  "release": "Y",
+  "sourceStatus": "Original synthesis with selectively documented contextual evidence, not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History of Korea: Political Structure of Early Goryeo",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_013_0010",
+      "role": "Institutional synthesis; administrative ideals versus changing practices"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Five Circuits (오도)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0038163",
+      "role": "Evidence for gradual formation of five circuits and regional inspection"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo (고려): competing aristocratic and bureaucratic interpretations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Historiography of recruitment and class privilege"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sikmok Dogam (식목도감)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032553",
+      "role": "Goryeo legal deliberation and institutional change"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Official performance evaluation (고과법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003313",
+      "role": "Personnel supervision and later administrative adaptation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.2.7:b01",
+      "title": "The limits of drawing five colored provinces",
+      "paragraphs": [
+        "The familiar shorthand of Goryeo's five circuits and two frontier regions can make the kingdom appear to possess a territorial system as geometrically settled as a modern provincial map. The five do, or circuits, developed over time, while the northern and northeastern frontier regions followed other arrangements suited to defense and communication. The Academy of Korean Studies cautions that the formation of the five circuits was gradual, not an instantaneous redivision under one king. Some administrative names preserve a later stabilized configuration that was less clear in earlier decades. A historical atlas should therefore label its period and distinguish royal plans, regular inspection districts, and working local jurisdictions. Boundary lines did not guarantee the same administrative capacity at every settlement along them."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions and social status must be reconstructed as historically changing systems",
+          "sourceIndex": 0,
+          "locator": "Political Structure of Early Goryeo, five circuits and competing aristocratic-bureaucratic interpretations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.7:b02",
+      "title": "From ten circuits toward a different order",
+      "paragraphs": [
+        "Reforms under Seongjong introduced ten do, but later changes associated with Hyeonjong helped reorganize the territorial structure. The historical significance lies less in a memorized sequence of labels than in the monarchy's attempt to make distant communities legible and governable. Administrative revision could alter which officials inspected a locality or which regional center transmitted orders. Villages did not necessarily move because their nominal superior district changed. The long transition toward five circuits depended on regularized inspection, not the mechanical replacement of one perfectly functioning grid by another. Institutional histories compiled later may simplify these reforms into neat stages; specialists must reconstruct both changing terminology and evidence of actually deployed officers."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.7:b03",
+      "title": "Magistrates and the reach of central government",
+      "paragraphs": [
+        "A local magistrate represented royal authority through tax supervision, dispute resolution, public works, and reports to higher officials. Yet the ability to command resources depended on relationships with local clerks, families, and powerful landholders who might be more firmly rooted than an appointed outsider. Central policy could reach a district through such intermediaries while being interpreted or contested along the way. The historian should distinguish a formally appointed magistrate from the many localities that may have been administered indirectly. A hierarchy can look complete on paper and remain uneven in practice. The history of counties and subcounties is therefore also a history of information costs and the state's dependence on local knowledge."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.7:b04",
+      "title": "Hyangni and the problem of local continuity",
+      "paragraphs": [
+        "Local clerks and hereditary administrative families, commonly discussed under the category hyangni, occupied a crucial position between the central court and everyday county governance. They possessed knowledge of records, households, landscape, and routine obligations that short-term appointees could scarcely reproduce immediately. Their standing varied, and political reforms could attempt to curb autonomy without eliminating the need for their work. It is misleading to describe them simply as either officials of the center or autonomous provincial nobles. The position could entail opportunity, constraint, and negotiation. Their documentation is uneven because national histories preserve court appointments more consistently than the labor of those who maintained registers and transmitted local reports."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.7:b05",
+      "title": "Five circuits as routes of inspection",
+      "paragraphs": [
+        "A do was partly an administrative geography created through the movement of inspectors and their responsibilities rather than a uniform province containing identical lower units. The formation of regular circuits connected several important regional centers to periodic oversight. This structure could enable the royal government to compare problems across jurisdictions, investigate officials, and coordinate fiscal demands. The actual effectiveness of an inspection depended on travel, record accuracy, available escorts, and cooperation from local personnel. Hills, rivers, and seasonal weather influenced how quickly a complaint or tax report could reach the center. Historians should analyze the administrative geography of communication rather than merely translate five historical names into modern provincial equivalents."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.7:b06",
+      "title": "Two frontier regions and military government",
+      "paragraphs": [
+        "The northern and northeastern frontier regions were shaped by contact and conflict with Khitan, Jurchen, and other neighbors, making military concerns prominent in their administration. Yet frontier communities were also inhabited landscapes with farming, trade, kinship, and religious life. An account that calls the regions primarily military zones risks reducing residents to soldiers or enemies. Frontier officers needed knowledge of local routes and access to provisions; populations encountered official power through fortification, transport, taxation, and negotiation. Borderlines shifted with campaigns and settlements. A formal distinction between circuits and frontier regions thus reflected particular strategic problems, not a clean cultural division between an inner realm and a permanently alien outside."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.7:b07",
+      "title": "Special districts and unequal jurisdictions",
+      "paragraphs": [
+        "Not all local communities held the same administrative standing. Goryeo's various county, township, and special settlement classifications could structure the duties and opportunities available to residents. Places associated with particular crafts, supply obligations, or social status might have different relationships to higher officials than prestigious administrative centers. Such distinctions should not be translated mechanically into modern notions of municipality or caste. They changed over time, and surviving sources frequently privilege the legal category over the daily experience of those assigned to it. The political history of regional government must therefore consider the social implications of a place's designation, including who could seek office, appeal a decision, or move resources to the court."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions and social status must be reconstructed as historically changing systems",
+          "sourceIndex": 2,
+          "locator": "Political Structure of Early Goryeo, five circuits and competing aristocratic-bureaucratic interpretations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.7:b08",
+      "title": "Capitals and regional gravity",
+      "paragraphs": [
+        "Gaegyeong was the main royal center, but secondary capitals and large regional towns organized movement across the kingdom. The presence of royal buildings, markets, transport links, and ritual sites could make certain cities nodes of political influence even beyond their formal administrative boundaries. A journey from a remote district to the capital required time, supplies, and knowledge of roads; this created advantages for households already connected to officials. The monarchy's territorial claims could be broad while its daily information was concentrated around routes and regional centers. Regional urban history and the history of offices must therefore be read together. A title granted in the capital had meaning only when people in localities acted upon it."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.7:b09",
+      "title": "Petitions, disputes, and the journey of a document",
+      "paragraphs": [
+        "A complaint about land, taxes, or official misconduct might begin in a village but require several stages of transmission before reaching an authoritative decision maker. Local personnel could help formulate the appeal or obstruct its progress. The central government relied on written reports without always being able to verify what they omitted. Although normative rules may suggest avenues of redress, practical access was conditioned by wealth, status, literacy, and distance. The preserved legal or administrative cases show disputes important to elite compilers; they are not a complete record of daily grievance. Following how information crossed jurisdictions gives a more exact picture of Goryeo state capacity than assuming that a royal command automatically translated into relief."
+      ],
+      "sequence": 9,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.7:b10",
+      "title": "The geography of fiscal labor",
+      "paragraphs": [
+        "Tax collection, storage, and transport linked remote farms to the needs of soldiers, officials, court households, and religious institutions. Water routes could facilitate bulky movement, while mountainous terrain raised costs and shaped the location of supply centers. Changes in circuits and magistrate jurisdictions affected supervision of these obligations but did not eliminate the underlying labor. An inspection tour was itself a demand on local provisions. The fiscal state therefore existed in the routines of households as well as in the capital's accounting offices. Where a district is described as economically productive, historians should ask whose labor sustained that productivity and whether the surviving report reflects extraction, market exchange, or administrative estimates."
+      ],
+      "sequence": 10,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.7:b11",
+      "title": "Reform and uneven local outcomes",
+      "paragraphs": [
+        "The center could redraw jurisdictions or appoint officials in pursuit of greater consistency, but reform did not produce identical outcomes everywhere. A powerful local family might resist intrusive supervision; a smaller community might welcome an avenue for appeal against an intermediary. Some changes were responses to warfare or fiscal crisis rather than abstract administrative improvement. The surviving sources are more likely to celebrate a ruler's decision than describe the decade of local bargaining it generated. Comparing the official decree with subsequent appointments and settlement evidence helps test claims of effectiveness. This is especially necessary where institutions appeared under one dynasty and only acquired their familiar form several reigns later."
+      ],
+      "sequence": 11,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.7:b12",
+      "title": "Understanding a composite territorial state",
+      "paragraphs": [
+        "Goryeo's local administration was not a failed version of a modern centralized state. It was a composite order in which royal appointees, inspection circuits, frontier commands, county hierarchies, and local officeholding households combined to organize governance. The balance between them could shift with military danger, court reform, and economic change. The phrase five circuits and two frontiers remains a useful introduction, provided it is followed by the chronology and variety it conceals. Territorial organization is most revealing when linked to who carried reports, who gathered resources, and who possessed the standing to challenge decisions. Only then do regional names become part of a history of actual government."
+      ],
+      "sequence": 12,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    }
+  ]
+}

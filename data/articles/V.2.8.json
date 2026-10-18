@@ -1,0 +1,176 @@
+{
+  "id": "V.2.8",
+  "title": "Law, Courts, Punishment, Petitions, and Dispute Resolution",
+  "kicker": "GORYEO · LAW, TERRITORY AND POWER",
+  "description": "Original historical study of law, courts, punishment, petitions, and dispute resolution, combining institutional history with regional and social source criticism.",
+  "release": "Y",
+  "sourceStatus": "Original synthesis with selectively documented contextual evidence, not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History of Korea: Political Structure of Early Goryeo",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_013_0010",
+      "role": "Institutional synthesis; administrative ideals versus changing practices"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Five Circuits (오도)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0038163",
+      "role": "Evidence for gradual formation of five circuits and regional inspection"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo (고려): competing aristocratic and bureaucratic interpretations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Historiography of recruitment and class privilege"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sikmok Dogam (식목도감)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032553",
+      "role": "Goryeo legal deliberation and institutional change"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Official performance evaluation (고과법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003313",
+      "role": "Personnel supervision and later administrative adaptation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.2.8:b01",
+      "title": "Justice was an activity, not a single code",
+      "paragraphs": [
+        "Goryeo legal history cannot be reduced to one complete surviving statute book applied without variation for almost five centuries. The dynasty inherited and adapted normative practices while issuing decisions and regulations that addressed changing political and social circumstances. Later sources such as the Goryeosa preserve legal categories and important episodes, but their compilation after the dynasty's fall complicates the reconstruction of contemporaneous practice. A legal rule is evidence for what authorities sought to prescribe; a recorded dispute may reveal how particular people contested an obligation. Neither alone establishes the frequency of punishment or the typical experience of households. A responsible account treats law as the interaction of institutions, documents, custom, status, and the practical enforcement available in each locality."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions and social status must be reconstructed as historically changing systems",
+          "sourceIndex": 0,
+          "locator": "Political Structure of Early Goryeo, five circuits and competing aristocratic-bureaucratic interpretations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.8:b02",
+      "title": "Officials and the court of first encounter",
+      "paragraphs": [
+        "For many residents, the most accessible embodiment of law was a local official or administrative intermediary rather than the royal palace. Questions of debt, land boundaries, violence, household obligation, and public order could enter official processes through petitions or accusations. The formal responsibility of a magistrate did not guarantee equal access to his attention. A literate or influential household might better prepare documents, whereas poorer residents could face costs and intimidation. Historians should be cautious about reconstructing routine legal practice from a spectacular case that reached central chroniclers. The need to travel, secure witnesses, or persuade a clerk was itself part of the social experience of law."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.8:b03",
+      "title": "The authority of written procedures",
+      "paragraphs": [
+        "Recording accusations, judgments, tax obligations, and official responsibility could make government more predictable by giving disputants forms of evidence against arbitrary decisions. It could also empower people who controlled the production and storage of documents. A missing deed or contested register might transform a disagreement into a conflict over what counted as valid memory. The exact administrative procedures changed over time, and descriptions based on later practice should not be imported into earlier Goryeo without qualification. An institution charged with legal regulation, such as the Sikmok Dogam, helped establish formal standards at court. Yet council deliberation was not identical to enforcement by every county official, and practical outcomes depended on witnesses, resources, and prevailing power relationships."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.8:b04",
+      "title": "Punishment and unequal standing",
+      "paragraphs": [
+        "Prescribed penalties marked the boundary between lawful conduct and offenses against the state or other persons. They could involve bodily coercion, confinement, exile, or property consequences, but the appropriate categories and available procedures need to be tied to specific periods and sources. Status influenced how people were treated: an elite accused of misconduct and a dependent worker might not encounter the same institutional protections. The historian should not assume that every prescribed punishment was routinely imposed or that legal inequality was identical in every case. Reports of unusual severity often appear because later compilers considered them memorable. Assessing the social history of coercion requires comparing norms, recorded judgments, and the narrow survival of documents about ordinary defendants."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.8:b05",
+      "title": "Royal clemency and the meaning of authority",
+      "paragraphs": [
+        "The ability to pardon, mitigate punishment, or intervene in a disputed judgment expressed royal authority over the legal order. Such acts could be presented as evidence of a virtuous monarch, especially when linked to familiar Confucian ideas of compassionate governance. The language of benevolence should be examined alongside political motives and administrative consequences. A pardon might relieve suffering, reward loyalty, or seek reconciliation after conflict. It could also frustrate officials who wanted consistent enforcement. Chronicles preserve exemplary proclamations more readily than the experiences of every beneficiary. A careful historian distinguishes a ruler's stated purpose from the particular circumstances in which an act of clemency was announced and received."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.8:b06",
+      "title": "Petitions and the limits of appeal",
+      "paragraphs": [
+        "People sought redress through official channels, but the availability of an appeal in principle did not ensure that all grievances were heard. Status, geography, resources, and the willingness of local officials to transmit complaints shaped who could reach higher authority. A petition might also be a strategic document written in moral language to make a claim seem compatible with royal values. Historians should identify who authored the surviving text and what the petitioner wanted rather than treat every account as an unmediated expression of ordinary experience. Where appeals to the ruler are recorded, they often illuminate institutional conflict precisely because they were exceptional enough to enter the chronicle. The unseen cases remain part of the evidence problem."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.8:b07",
+      "title": "Family, inheritance, and legal expectations",
+      "paragraphs": [
+        "Disputes over property, marriage-related resources, kinship claims, and succession reveal how law intersected with family structure. Goryeo inheritance practice cannot simply be described as a mirror image of later Joseon norms, and distinctions between daughters' and sons' claims require contextual analysis. Elite documents are more likely to survive than those of farming families, which constrains broad claims about legal equality. A legal arrangement could allow different kinds of ownership while leaving substantial asymmetries in social power. Where religious donations or household property were involved, clerical institutions might participate in the dispute. The law's meaning emerged not just from formal principles but from how families could document and defend their interests."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions and social status must be reconstructed as historically changing systems",
+          "sourceIndex": 2,
+          "locator": "Political Structure of Early Goryeo, five circuits and competing aristocratic-bureaucratic interpretations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.8:b08",
+      "title": "Land rights and overlapping claims",
+      "paragraphs": [
+        "Rights to use, transmit, tax, or benefit from land were not necessarily identical. A household cultivating a plot could encounter demands from state officials, elite holders of privileges, and local intermediaries. Disagreement might concern title, assessment, boundary, labor service, or the consequences of an earlier grant. Modern concepts of absolute private property are not always adequate descriptions of these layered relations. A court's judgment might resolve a particular conflict without eliminating the structural conditions that produced it. The historian should ask whether a recorded grant describes cultivation, fiscal revenue, or honorific entitlement. Legal history is inseparable from the political economy of who had the authority to collect resources."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.8:b09",
+      "title": "Political prosecutions and historical narrative",
+      "paragraphs": [
+        "Court factional disputes could produce charges of treason, corruption, or disloyalty that were recorded by the eventual victors. An accusation may be evidence for the political stakes of a struggle without establishing the truth of every alleged act. Military regimes and external interventions could also change who possessed power to initiate prosecution or order punishment. Later dynastic historians sometimes arranged legal episodes to demonstrate the consequences of improper rule, giving moral clarity to events that contemporaries experienced as uncertain. Rather than accepting that framing uncritically, the historian should reconstruct the institutional setting, known participants, and documentary provenance. Some judgments may have been legally regular even while politically strategic; these possibilities are not mutually exclusive."
+      ],
+      "sequence": 9,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.8:b10",
+      "title": "Regional custom and central standardization",
+      "paragraphs": [
+        "The royal center could seek standardized procedures, but local communities maintained customary expectations and practical methods of settling disputes. The relationship was not necessarily one of complete conflict. Officials sometimes needed local knowledge to resolve disagreements, while residents might appeal to central rules against a dominant neighbor. The degree of consistency achieved by the state is difficult to determine from surviving normative texts. An administrative reform could be announced long before it was followed everywhere; the absence of recorded enforcement might result from lost documents rather than resistance. Historians should avoid either treating custom as pure local autonomy or assuming central law dissolved community practices. The coexistence of these mechanisms is a feature of premodern government."
+      ],
+      "sequence": 10,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.8:b11",
+      "title": "Comparative law without false equivalence",
+      "paragraphs": [
+        "Goryeo legal practices were influenced by broader East Asian traditions, but the borrowing of institutional language did not create identical societies. The court's officials adapted rules to its own ranks, family structures, military problems, and changing diplomatic environment. Nor should the legal order be measured solely against the procedures of a modern rights-based state. It is possible to recognize coercion and inequality while carefully describing the historical functions of petitions, punishment, and review. Comparison is productive when it identifies a specific rule or institution and follows its local use, not when it assumes the transfer of an entire foreign code. Source criticism helps preserve both shared legal vocabulary and distinctive political practice."
+      ],
+      "sequence": 11,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.8:b12",
+      "title": "The law as an uneven public relationship",
+      "paragraphs": [
+        "Goryeo's legal order connected the monarchy, officials, local administrators, powerful families, religious establishments, and dependent residents. It offered languages of obligation and complaint through which people could pursue resources or defend standing. Access to these languages and institutions was unequal, and the surviving cases privilege people whose disputes mattered to elite record keepers. A summary that celebrates refined codes without discussing coercion would be incomplete; a summary that sees nothing but arbitrary power would also miss the importance of documented procedure. The most revealing history asks how a claim traveled, whose testimony counted, and what a judgment changed in practice. This opens the path from courtroom categories to fiscal administration and household life."
+      ],
+      "sequence": 12,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    }
+  ]
+}

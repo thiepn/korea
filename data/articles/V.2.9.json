@@ -1,0 +1,176 @@
+{
+  "id": "V.2.9",
+  "title": "Census, Tax Administration, Corvée, and the Fiscal State",
+  "kicker": "GORYEO · LAW, TERRITORY AND POWER",
+  "description": "Original historical study of census, tax administration, corvée, and the fiscal state, combining institutional history with regional and social source criticism.",
+  "release": "Y",
+  "sourceStatus": "Original synthesis with selectively documented contextual evidence, not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History of Korea: Political Structure of Early Goryeo",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_013_0010",
+      "role": "Institutional synthesis; administrative ideals versus changing practices"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Five Circuits (오도)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0038163",
+      "role": "Evidence for gradual formation of five circuits and regional inspection"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo (고려): competing aristocratic and bureaucratic interpretations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Historiography of recruitment and class privilege"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sikmok Dogam (식목도감)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032553",
+      "role": "Goryeo legal deliberation and institutional change"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Official performance evaluation (고과법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003313",
+      "role": "Personnel supervision and later administrative adaptation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.2.9:b01",
+      "title": "What a census was intended to know",
+      "paragraphs": [
+        "The Goryeo state sought information about households, productive land, and obligations in order to sustain its court, officials, defense, and public activities. Census and register systems were central to this ambition, but their surviving references should not be mistaken for a complete modern enumeration. A recorded household category might serve fiscal and labor purposes rather than describe the actual composition of everyone living under one roof. An administrative district could report figures shaped by incentives to reduce burdens or attract recognition. The historian should distinguish what officials asked their clerks to count from what could reliably be known in practice. The difference matters when later scholars derive population trends from intermittent, changing or selectively preserved records."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions and social status must be reconstructed as historically changing systems",
+          "sourceIndex": 0,
+          "locator": "Political Structure of Early Goryeo, five circuits and competing aristocratic-bureaucratic interpretations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.9:b02",
+      "title": "Land measurement and the fiscal landscape",
+      "paragraphs": [
+        "Fields varied in quality, location, irrigation, and accessibility, complicating any effort to translate landholding into predictable public revenue. Assessments might reflect estimates of productive capacity rather than an equal share of physical acreage. A state interested in regular taxation needed local agents who understood both fields and households; these agents also had opportunities to influence what entered official documents. A fiscal reform announced at court could change the incentives for measurement without ensuring immediate uniformity. The historian should separate a method described in regulations from its actual distribution across counties. Land was simultaneously a source of food, a basis for family security, and a contested object of official or elite claims."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.9:b03",
+      "title": "The labor represented by taxes",
+      "paragraphs": [
+        "Revenue was not only a monetary transfer. Grain, cloth, goods, transport, and labor obligations connected rural households to garrisons, offices, ritual establishments, and capital consumption. The burden of delivering a commodity could exceed its nominal value when distance and season were considered. Transport might take a worker away from planting or harvest; storage losses could fall on intermediaries or cultivators. Elite histories often register the decree and the amount demanded more readily than the work needed to comply. A social history of finance reconstructs these practical costs without pretending to know precise numbers for every community. Fiscal obligations were experienced as demands on time, mobility, and household cooperation as well as on production."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.9:b04",
+      "title": "Military needs and fiscal choices",
+      "paragraphs": [
+        "Defending the realm required food, equipment, fortifications, horses, transport, and pay or support for military personnel. Frontier conflicts could generate extraordinary demands that disturbed routine arrangements. The king's choices about diplomacy and warfare therefore affected fields far from the battlefront. A requisition framed as urgent necessity might be contested by local cultivators or elite holders of privileges, while merchants and transporters could receive new opportunities. Historical writing that concentrates on commanders risks overlooking the fiscal foundations of a campaign. Conversely, changes in administrative taxation cannot be explained without considering threats on the northern frontier and the institutions created to respond to them. The fiscal state was part of political strategy."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.9:b05",
+      "title": "Officials, stipends, and preferential claims",
+      "paragraphs": [
+        "Government service required a system of remuneration and privilege. Goryeo officials could receive stipends and land-related benefits through arrangements whose precise legal form and practical reliability varied across periods. The relationship between a grant of revenue and direct possession of a cultivated plot is important: a right to draw income did not necessarily transfer the same bundle of rights as modern ownership. Scholars must identify whether a text concerns allotment, inheritance, cultivation, or fiscal exemption. Powerful families could use office and patronage to strengthen claims, potentially reducing resources directly available to the crown. Fiscal debates therefore took place within the same networks that structured recruitment and ministerial authority."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.9:b06",
+      "title": "Temples and the economy of exemptions",
+      "paragraphs": [
+        "Religious establishments could hold land, receive donations, employ labor, and participate in regional exchange. Royal patronage and private gifts altered the distribution of resources in ways that both supported Buddhist institutions and generated fiscal or political questions for the state. It is too simple to describe temple holdings as either unproductive privilege or uniformly beneficial public service. Monasteries supported learning, ritual, hospitality, and other activities while also pursuing their institutional interests. The surviving documents frequently describe exceptional grants and controversies more clearly than routine production on temple-associated land. Historians must distinguish a legal exemption, a recorded donation, and the actual management of dependent households or cultivators."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.9:b07",
+      "title": "Corvée and the cost of infrastructure",
+      "paragraphs": [
+        "Building or repairing roads, defenses, canals, warehouses, and administrative compounds required labor. The state could organize service obligations through local officers, who then distributed demands among households according to rules and bargaining power. A requirement described as collective public work might impose very different costs on families with ample labor and those facing illness or a failed harvest. Records of large construction projects show ambition but rarely account for all disruptions to household livelihoods. The fiscal history of Goryeo should therefore connect labor service with demographic uncertainty and seasonal production. A project that increased transport capacity might also generate immediate hardship for the workers and communities asked to complete it."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions and social status must be reconstructed as historically changing systems",
+          "sourceIndex": 2,
+          "locator": "Political Structure of Early Goryeo, five circuits and competing aristocratic-bureaucratic interpretations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.9:b08",
+      "title": "The clerk's register and practical control",
+      "paragraphs": [
+        "A fiscal system depended on people capable of producing, copying, storing, and interpreting records. Local hyangni and other clerks could become indispensable because officials newly arrived at a district needed continuity of information. This gave the record keeper practical influence over what could be assessed and which exemptions were recognized. It also created incentives for the center to inspect local documentation, rotate certain officials, or demand more standardized reporting. The historian cannot assume that all clerks acted dishonestly, but neither can the archive be treated as an impersonal mirror of society. Registers were tools constructed within relationships of trust, oversight, and unequal bargaining."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.9:b09",
+      "title": "Crisis, reform, and the persistence of arrears",
+      "paragraphs": [
+        "Crop failure, warfare, population movement, and political upheaval could disrupt the timing or amount of revenue available to the center. Authorities might issue relief measures, postpone obligations, or attempt renewed assessment, while districts with stronger patrons could escape burdens borne elsewhere. Later records of fiscal decline often serve political arguments about the incompetence or corruption of an earlier regime. These judgments are important sources for reform discourse but must be weighed against environmental conditions and structural limits. The inability to collect an amount entered on paper might signal hardship, evasion, lost control, or a misreported baseline. A careful fiscal history refuses to reduce all shortfalls to one moral cause."
+      ],
+      "sequence": 9,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.9:b10",
+      "title": "Social stratification in fiscal practice",
+      "paragraphs": [
+        "The effects of taxation depended on status and access to exemptions. A household with powerful connections might negotiate favorable treatment, while dependent workers or small cultivators had fewer resources for contesting demands. Differences between formally categorized social groups could therefore be amplified through the everyday processes of assessment and transport. Yet the sources rarely allow a reliable universal calculation of what each status group paid. A high-level decree may name a category without showing how each region applied it. The historian should use local evidence where available and avoid generalizing from a single elite complaint. Fiscal inequality was built both into rules and into the discretionary relationships required to operate them."
+      ],
+      "sequence": 10,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.9:b11",
+      "title": "Information and political power",
+      "paragraphs": [
+        "The state's desire to know households and fields was inseparable from its desire to organize obligations. A register could make a community visible to royal administration while also furnishing evidence in a dispute over property or status. The ability to collect information could strengthen the center, but information gathered through local networks could be incomplete or contested. Institutions designed for fiscal regularity thus generated new opportunities for officials and elites to influence the allocation of resources. The relationship between knowledge and power explains why government repeatedly revisited measurement, categories, and oversight. Fiscal development was not an inevitable advance toward administrative perfection; it was an uneven attempt to make a complex society answerable to a political center."
+      ],
+      "sequence": 11,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.9:b12",
+      "title": "Revenue and the limits of reconstruction",
+      "paragraphs": [
+        "Much of what can be said about Goryeo fiscal institutions comes from later compilations, episodic decrees, and institutional summaries rather than continuous accounts for every district. A named tax or classification does not justify the invention of nationwide yield totals. It is possible, nevertheless, to reconstruct the mechanisms by which agricultural surplus, specialized production, and household labor were mobilized. Attention to exemptions, transport, regional variation, and source bias helps identify why the same royal rule might be experienced differently across society. This is the principal insight of fiscal history: the monarchy's ability to govern was shaped not just by the laws it issued but by the labor, local cooperation, and information necessary to enforce them."
+      ],
+      "sequence": 12,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    }
+  ]
+}
