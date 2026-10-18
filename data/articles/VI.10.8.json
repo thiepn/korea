@@ -1,0 +1,168 @@
+{
+  "id": "VI.10.8",
+  "title": "Negotiations, Stalemate, and Wartime Military Reorganization, 1593–1596",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Original source-critical history of negotiations, stalemate, and wartime military reorganization, 1593–1596, integrating Korean, Ming and Japanese military contexts and unequal civilian costs.",
+  "release": "Z",
+  "sourceStatus": "Source-critical editorial synthesis supported by contextual institutional references; independent peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall historical collections",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "War chronology, Jinju, documentary history, refugee diary and postwar consequences"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Regional warfare, Korean and Ming counteroffensives, Korean mobilization and occupation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Ryu Seong-ryong retrospective official memoir requiring criticism of self-assessment"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: Yi Sun-sin's war diary",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "First-person naval observations and limitations of genre and individual viewpoint"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Myeongnyang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0018250",
+      "role": "Reorganization and naval conflict in 1597; numerical traditions require careful attribution"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Noryang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012716",
+      "role": "Korean–Ming combined naval operations during Japanese withdrawal in 1598"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "O Hui-mun's Swaemirok, household flight and unequal civilian hardship"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.8:b01",
+      "title": "The conflict enters a different phase",
+      "paragraphs": [
+        "After the major reversals of 1593, Japanese armies retained positions in southern Korea while Ming and Joseon forces confronted the high costs of renewed offensives. The front stabilized unevenly rather than turning into absolute peace. Garrisons still needed provisions, local communities still feared raiding and displaced households had limited prospects of returning safely. Negotiations gained importance because none of the main governments could secure all objectives at an acceptable cost. Yet the meaning of an agreement differed sharply among them. A ceasefire attractive to some Ming officials might leave Joseon exposed, while Hideyoshi continued to make demands unacceptable to his opponents."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum: Imjin War exhibition, records, civilian survival",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.8:b02",
+      "title": "The problem of mismatched messages",
+      "paragraphs": [
+        "Diplomatic contact crossed several linguistic and political boundaries. Japanese envoys, Ming negotiators and Korean officials had incentives to frame demands in terms that would be palatable to their own courts. Misrepresentation and ambiguity could allow talks to continue without genuine agreement. The widely repeated story that negotiators concealed incompatible demands reflects a real structural problem, but individual motives must be established from particular documents rather than assumed. Titles, recognition, territory and the future of Japanese troops in Korea were politically charged issues. The negotiations demonstrate how diplomatic procedure can sustain the appearance of progress even while participants disagree on the purpose of the process."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War: 1593 and 1597 campaigns, military and local resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.8:b03",
+      "title": "Joseon's limited control over negotiation",
+      "paragraphs": [
+        "Joseon was the territory being devastated, yet its government's preferences did not always determine the direction of Ming–Japanese talks. Ming commanders and diplomats weighed their own frontier and fiscal interests, while Korean ministers feared that concessions could legitimize a continuing Japanese presence. A hierarchical alliance provided military support without guaranteeing equality in diplomacy. Joseon officials protested proposals they regarded as dangerous and tried to communicate local conditions ignored by distant interlocutors. Historical memoirs by senior ministers preserve valuable insight into these tensions, but they also defend the author's own approach. The historian should separate the structure of unequal influence from the evaluative rhetoric of retrospective accounts."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 2,
+          "locator": "AKS Jingbirok: Ryu Seong-ryong retrospective wartime memoir",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.8:b04",
+      "title": "Japanese interests in a settlement",
+      "paragraphs": [
+        "For Hideyoshi, negotiation offered a possible means of obtaining recognition or strategic advantage after a quick conquest had failed. Japanese commanders in the field also needed time for rest, reorganization and supply. Their practical preferences might differ from demands sent from Japan, where the ruler's prestige was bound to the outcome of his continental undertaking. The resulting tension made diplomacy fragile. It is inaccurate to treat the Japanese side as a single unchanging voice, just as it is inaccurate to assume that all Ming officers shared one policy. A complex military coalition was being represented through formulas that could conceal conflicting objectives."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.8:b05",
+      "title": "The cost of holding fortified enclaves",
+      "paragraphs": [
+        "Japanese troops in southern positions required secure communications with the coast and continuing access to food, wood, weapons and replacement personnel. Korean and allied forces had to decide whether costly assaults on strongholds would be worthwhile. Raiding and blockade imposed hardship on surrounding villages even during periods described diplomatically as a truce. The distinction between official negotiation and local security is therefore crucial. A soldier's daily work, a village's harvest and a royal minister's diplomatic expectations operated on different timelines. The stalemate was not an interval free from historical events; it was a prolonged and damaging configuration of war."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.8:b06",
+      "title": "Military training and firearms",
+      "paragraphs": [
+        "Joseon officials responded to early defeats by experimenting with improved recruitment, drill and the systematic employment of firearms and other weapons. Ming military experience informed aspects of training, while Korean officers adapted methods to local troops and terrain. Institutions associated with wartime military reorganization should not be described as if fully matured at the moment of their creation. Training required people who could be spared from farms, access to powder and reliable command. A system promulgated in the capital might take years to function across provinces. The war created incentives for change but also depleted the resources required to achieve it."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.8:b07",
+      "title": "Maintaining a navy after 1592",
+      "paragraphs": [
+        "Korean naval forces continued patrolling, training and protecting important shipping routes during the stalemate. Their duties included intelligence, coastal security and the maintenance of vessels, not just celebrated major battles. Yi Sun-sin's writings preserve examples of discipline and logistical concern, while other sources reveal rival commands and political suspicion. The navy remained vulnerable to court decisions about appointments and operational strategy. A lack of spectacular battles did not mean that maritime warfare ceased to matter. Securing water routes influenced the feasibility of both supply and any renewed Japanese advance."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.8:b08",
+      "title": "The survival of local institutions",
+      "paragraphs": [
+        "Provincial administrators sought to restore tax collection, manage refugees, and repair the networks that allowed the state to function. These efforts collided with continuing military requisitions and household poverty. A register might be reconstructed on paper before the farmland or people listed in it had recovered. The court needed financial resources for defence but excessive demands could undermine compliance and cultivation. Social reconstruction and military reorganization were therefore linked through local labour and food. Later accounts that measure reform only by the formal founding of a new military office miss the economic constraints shaping its effectiveness."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.8:b09",
+      "title": "Why negotiations failed to produce peace",
+      "paragraphs": [
+        "Talks could not reconcile Hideyoshi's expectations with the terms other governments were willing to accept. Diplomatic miscommunication mattered, but it did not create the underlying conflict on its own. Korea's security, Ming prestige and Japanese political ambition remained contested. By 1596 the prospect of renewed war was increasingly serious. The sequence warns against imagining that a skillful translation or a single honest embassy would automatically have resolved incompatible political objectives. Diplomatic procedure can delay violence; it cannot compel rulers to abandon ambitions that they still believe force might obtain."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.8:b10",
+      "title": "Preparing for a renewed invasion",
+      "paragraphs": [
+        "The years of talks and stalemate left each participant with different advantages and vulnerabilities. Joseon possessed greater experience of the invader and improving military institutions, but remained economically exhausted. Japanese forces had established southern bases yet faced the problem of reaching objectives beyond those positions. Ming resources could support Joseon, but cooperation had to be maintained over long distances. The renewed campaign of 1597 would test the capacity of these states to learn from 1592. Its outcome would also be shaped by leadership conflict and the difficult conditions under which local people continued to survive."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    }
+  ]
+}

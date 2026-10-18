@@ -1,0 +1,168 @@
+{
+  "id": "VI.10.7",
+  "title": "Occupation, Mass Violence, Captivity, Famine, Disease, and Cultural Destruction",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Original source-critical history of occupation, mass violence, captivity, famine, disease, and cultural destruction, integrating Korean, Ming and Japanese military contexts and unequal civilian costs.",
+  "release": "Z",
+  "sourceStatus": "Source-critical editorial synthesis supported by contextual institutional references; independent peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall historical collections",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "War chronology, Jinju, documentary history, refugee diary and postwar consequences"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Regional warfare, Korean and Ming counteroffensives, Korean mobilization and occupation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Ryu Seong-ryong retrospective official memoir requiring criticism of self-assessment"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: Yi Sun-sin's war diary",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "First-person naval observations and limitations of genre and individual viewpoint"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Myeongnyang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0018250",
+      "role": "Reorganization and naval conflict in 1597; numerical traditions require careful attribution"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Noryang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012716",
+      "role": "Korean–Ming combined naval operations during Japanese withdrawal in 1598"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "O Hui-mun's Swaemirok, household flight and unequal civilian hardship"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.7:b01",
+      "title": "Occupation as a changing condition",
+      "paragraphs": [
+        "Japanese military occupation differed from place to place and over time. A heavily garrisoned city, a fortified coastal position and a village crossed by raiding parties exposed inhabitants to different forms of coercion. Occupation could involve forced provisioning, searches, destruction, capture and demands for labour. Some communities negotiated with armed forces to prevent immediate harm; others resisted and faced reprisals. Official chronicles commonly describe devastation from the viewpoint of government revenue or military necessity. To reconstruct the experience of people without office, historians must also examine diaries, local narratives, archaeological traces and the practical geography of flight and survival."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum: Imjin War exhibition, records, civilian survival",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.7:b02",
+      "title": "The violence of the invasion",
+      "paragraphs": [
+        "The war included large-scale killing and violent treatment of civilians, especially during assaults, sieges and punitive operations. The available records support serious conclusions about human suffering without justifying invented national death totals. Japanese commanders and individual troops did not act identically, and the circumstances of combat, supply stress and resistance affected local violence. Explaining that variation is not an excuse for brutality; it is necessary to understand how violence occurred. Later national memory rightly emphasizes the catastrophe, but scholarship should distinguish specific documented episodes from unsourced generalizations about every soldier or every place throughout the seven-year war."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War: 1593 and 1597 campaigns, military and local resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.7:b03",
+      "title": "Refugees and household fracture",
+      "paragraphs": [
+        "Families fled from the routes of invasion, sometimes moving repeatedly when formerly safe places became threatened. Carrying children, food and valuables over long distances demanded resources that poorer households often lacked. The diary Swaemirok, written by O Hui-mun, records a displaced household's persistent struggles with scarcity, sickness and uncertainty. Its extraordinary detail provides a counterpoint to formal battle histories. Yet O's literate social position afforded connections unavailable to many farmers, servants and slaves. A responsible use of the diary identifies its individuality rather than treating one family's story as a statistically representative account of Joseon society."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 2,
+          "locator": "AKS Jingbirok: Ryu Seong-ryong retrospective wartime memoir",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.7:b04",
+      "title": "Famine before and after combat",
+      "paragraphs": [
+        "War disrupted harvests through flight, burned fields, requisition and loss of working animals. Even when crops survived, the movement of armies and insecurity of roads could prevent grain from reaching buyers. People sheltered in fortresses or crowded refugee areas faced growing demand on limited stores. Hunger might worsen after soldiers departed if planting had been missed. Later official efforts to restore registers and revenue show concern with the underlying agrarian system, though they tell us less about those who died without entering a record. Causal analysis is more reliable than sensational unsupported estimates of famine mortality."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.7:b05",
+      "title": "Disease and the limits of diagnosis",
+      "paragraphs": [
+        "Refugee movement, crowding, weakened nutrition and damage to water supplies increased the danger of illness. Diaries report sickness and deaths, but the disease names and symptoms available in sixteenth-century texts rarely justify a precise modern diagnosis. Historians should therefore describe epidemiological conditions without confidently identifying pathogens absent adequate evidence. Diseases also affected armies, reducing readiness and increasing requisition needs. The result was a feedback loop in which military disruption harmed civilian health and civilian suffering reduced the resources available to continue the war. Such processes are difficult to show in a conventional battle chronology but central to the conflict's social history."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.7:b06",
+      "title": "Captivity across the sea",
+      "paragraphs": [
+        "The conflict involved taking Korean captives to Japan, including people with specialised craft skills and others seized amid warfare. Different routes and circumstances of captivity should be distinguished; not every migrant to Japan moved freely, and not every later cultural exchange was initiated through normal trade. Captives could be separated from kin and placed within households or productive enterprises under varying conditions. The records preserve some stories of return or later recognition but not the complete fate of those who disappeared. Historians must resist assigning precise totals without reliable documentation while recognizing that forced movement altered lives and created long-lasting diasporic connections."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.7:b07",
+      "title": "Books, temples and palaces",
+      "paragraphs": [
+        "The destruction or removal of cultural objects affected temples, libraries, workshops and royal sites as well as individual collectors. Loss of records could undermine administration; loss of ritual objects and buildings disrupted local religious life. Some objects subsequently entered collections in Japan, raising questions that continue in heritage discussion. Yet a damaged site should not automatically be attributed to a particular Japanese unit without supporting evidence. Documentation varies in date and purpose. Material archaeology, inventory lists and retrospective testimony each illuminate different aspects of cultural loss, and responsible scholarship marks where an object's path remains uncertain."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.7:b08",
+      "title": "Women and dependent workers",
+      "paragraphs": [
+        "Women, servants, enslaved labourers and children experienced war within unequal household structures. Elite accounts may record their suffering principally through a male household head's viewpoint. They might be ordered to carry goods, left behind when others fled or subjected to capture and violence. Their labour was also essential to nursing, cooking, rebuilding and keeping households functioning. Treating these groups only as victims risks overlooking agency, but romanticizing resilience can conceal coercion. Historians face a documentary imbalance: those with the least freedom usually left the fewest written records. Their circumstances must be approached through careful inference and explicit uncertainty."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.7:b09",
+      "title": "Local collaboration and survival choices",
+      "paragraphs": [
+        "Some residents supplied occupiers, served as guides or negotiated protection, while others secretly assisted Korean resistance. Such conduct cannot always be translated into stable political allegiance. A family facing armed men at its gate might comply to avoid immediate violence; a local notable could exploit occupation to settle disputes or protect private property. After recovery, governments might classify these choices within moral or legal categories that did not reflect the pressures of the moment. Distinguishing collaboration for advantage from compliance under duress is difficult but essential. The historian should not assign praise or condemnation simply because a later chronicle labels someone loyal or disloyal."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.7:b10",
+      "title": "The social meaning of reconstruction",
+      "paragraphs": [
+        "The end of a siege or the withdrawal of an army did not restore families, fields or archives. Survivors had to repair homes, recover seed and renegotiate obligations with local officials. Some communities were transformed by deaths, migration and the return of captives long after peace. The effects persisted into postwar taxation, status and cultural memory, although not every later problem can be attributed automatically to the invasion. A history of wartime devastation is strongest when it explains these specific mechanisms and their evidentiary limits. The human catastrophe was real, and precisely because it was real it does not need invented statistics or undifferentiated national stories."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    }
+  ]
+}

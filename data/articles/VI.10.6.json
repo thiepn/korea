@@ -1,0 +1,168 @@
+{
+  "id": "VI.10.6",
+  "title": "Ming Intervention, Pyongyang, Haengju, and the Counteroffensive of 1593",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Original source-critical history of ming intervention, pyongyang, haengju, and the counteroffensive of 1593, integrating Korean, Ming and Japanese military contexts and unequal civilian costs.",
+  "release": "Z",
+  "sourceStatus": "Source-critical editorial synthesis supported by contextual institutional references; independent peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall historical collections",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "War chronology, Jinju, documentary history, refugee diary and postwar consequences"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Regional warfare, Korean and Ming counteroffensives, Korean mobilization and occupation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Ryu Seong-ryong retrospective official memoir requiring criticism of self-assessment"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: Yi Sun-sin's war diary",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "First-person naval observations and limitations of genre and individual viewpoint"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Myeongnyang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0018250",
+      "role": "Reorganization and naval conflict in 1597; numerical traditions require careful attribution"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Noryang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012716",
+      "role": "Korean–Ming combined naval operations during Japanese withdrawal in 1598"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "O Hui-mun's Swaemirok, household flight and unequal civilian hardship"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.6:b01",
+      "title": "The war becomes an alliance conflict",
+      "paragraphs": [
+        "By late 1592 the Japanese advance had reached the north of Korea, threatening not only Joseon's royal government but also the security expectations of Ming China. Joseon appealed for help within its established tributary relationship, while Ming officials debated the reliability of reports and the extent of Japanese ambitions. Intervention served Ming strategic interests as well as support for a threatened allied dynasty. The resulting coalition possessed substantial military resources but also faced problems of language, supply, command and divergent political priorities. To describe the intervention simply as rescue denies this complexity; to dismiss it as self-interest alone ignores the genuine operational assistance that helped Joseon survive."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum: Imjin War exhibition, records, civilian survival",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.6:b02",
+      "title": "The Pyongyang campaign",
+      "paragraphs": [
+        "The counteroffensive around Pyongyang in early 1593 brought a major change in military momentum. Ming forces under Li Rusong, together with Korean participants, attacked a city held by Japanese troops. Artillery, infantry and the coordination of assault units mattered, but battles in a fortified urban environment also exposed civilians and damaged structures. Victory did not remove Japanese armies from the peninsula in one stroke. It forced a revision of their occupation plans and widened the opportunity for Joseon to recover territory. Sources created by Ming commanders, Korean officials and Japanese participants tend to emphasize different forms of military merit, which must be held apart rather than collapsed into one triumphant narrative."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War: 1593 and 1597 campaigns, military and local resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.6:b03",
+      "title": "Retreat did not mean collapse",
+      "paragraphs": [
+        "Japanese armies withdrew from some northern positions as their supply and command difficulties deepened, yet they retained substantial forces and footholds farther south. The temptation to tell the counteroffensive as a swift liberation overlooks the persistence of occupation and local violence. Roads retaken by allied soldiers needed guarding, while provincial administrations had to find supplies among communities already affected by flight. The coalition's success therefore generated new requirements for transport, siege equipment and food. Victories could also be followed by pauses because commanders feared an overextended advance. A coherent military history measures what territory and routes were actually secured instead of inferring strategic control from the announcement of a single victory."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 2,
+          "locator": "AKS Jingbirok: Ryu Seong-ryong retrospective wartime memoir",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.6:b04",
+      "title": "Haengju and Korean command",
+      "paragraphs": [
+        "The defence of Haengju in 1593 is associated with Kwon Yul and the successful resistance of Korean forces against Japanese attack. It became an emblem of the kingdom's continuing capacity to organize combat despite early defeats. A hilltop defensive position, adequate preparations and coordinated use of weapons contributed to its significance. The event should not be turned into an isolated miracle detached from the surrounding campaign. Soldiers and support workers had to assemble provisions, transport projectiles and prepare the ground. Later patriotic narration can reduce this collective labour to an exemplary commander. Examining the battle within regional strategy reveals both the defence's real importance and the dangers of idealized reconstruction."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.6:b05",
+      "title": "Ming and Joseon logistics",
+      "paragraphs": [
+        "Coalition warfare imposed heavy demands on the very population it sought to protect. Ming troops required food, fodder, quarters, transport and local intelligence, while Joseon officials struggled to provision their own forces and refugees. Disagreements over supplies could strain the alliance. Officials also negotiated the order in which towns should be relieved and the limits of offensive operations. These difficulties do not negate the value of Ming assistance; they demonstrate that multinational armies depend on political cooperation as much as tactical success. Ordinary households might see both protection and requisition from allied forces, a contrast rarely captured in celebratory court narratives."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.6:b06",
+      "title": "Commanders and institutional rivalry",
+      "paragraphs": [
+        "Korean commanders, civil ministers and Ming generals operated within different chains of command. Rank and ceremony could affect how orders were delivered, while battlefield opportunities demanded faster coordination than diplomatic hierarchies permitted. Officials also worried about responsibility if an operation failed. Later memoirs such as Jingbirok assign credit and criticism through the perspective of a senior Korean statesman, providing invaluable testimony but not an impartial assessment. Historians must distinguish reports written close to events from narratives composed when participants had reasons to defend their own judgement. This caution is especially important when explaining why apparently favorable opportunities were not always exploited."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.6:b07",
+      "title": "Local resistance supports recovery",
+      "paragraphs": [
+        "Righteous armies, local garrisons and maritime operations had already constrained Japanese communication routes before major Ming offensives succeeded. Their contribution was not interchangeable with the manpower and artillery of Ming forces, but it formed part of the campaign's changing strategic setting. A retreating Japanese army faced danger if roads and ferries were contested and supplies could not move safely by sea. Conversely, Korean local groups could not necessarily retake large defended cities without assistance. Cooperation emerged through practical necessity rather than one perfectly coordinated command system. Recognizing these complementary capacities gives a more convincing explanation of recovery than attributing all success to a single foreign general or Korean hero."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.6:b08",
+      "title": "The countryside behind a recovered city",
+      "paragraphs": [
+        "A city described as liberated did not immediately return to prewar conditions. Houses, warehouses and administrative records might be damaged, refugees might not return and food shortages could delay cultivation. Local officials had to establish who still lived in a district and what obligations could realistically be imposed. Surviving military correspondence often treats towns as strategic positions, not as complex communities with their own recovery needs. Historians should therefore distinguish operational success from social reconstruction. A retreat could also leave scattered soldiers and armed groups in the countryside, so insecurity continued after a formal change of control."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.6:b09",
+      "title": "The limits of the 1593 turnaround",
+      "paragraphs": [
+        "The counteroffensive substantially reduced the prospects of a rapid Japanese conquest, but it did not bring a peace settlement. Japanese forces maintained southern positions, Ming commanders weighed costs, and Joseon officials disagreed over the wisdom of compromises. A military victory could strengthen a negotiating position without resolving what each party demanded in diplomacy. The pattern of later stalemate is difficult to understand if early 1593 is presented as a decisive end to the conflict. The campaign instead changed the war from one of fast invasion and royal flight to a prolonged struggle involving garrison warfare and political negotiations."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.6:b10",
+      "title": "A history shared across borders",
+      "paragraphs": [
+        "The 1593 counteroffensive demonstrates that the conflict had become an East Asian war, not simply a foreign invasion of one kingdom. Ming officials fought to preserve security and influence; Korean forces defended their state and recovered institutions; Japanese commanders sought to salvage strategic objectives and standing within Hideyoshi's system. These motives overlapped and diverged. The population of Korea bore much of the physical cost regardless of which armies occupied a district. An evidence-conscious history integrates diplomatic hierarchies, artillery and logistics with refugees and damaged agrarian systems. It also avoids claiming complete numerical knowledge from selective military reports."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    }
+  ]
+}
