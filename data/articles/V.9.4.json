@@ -1,0 +1,130 @@
+{
+  "id": "V.9.4",
+  "title": "Repeated Invasions, Fortress Resistance, and the Long War of 1232–1259",
+  "kicker": "GORYEO · MONGOL INVASIONS AND YUAN WORLD",
+  "description": "Original critical history of repeated invasions, fortress resistance, and the long war of 1232–1259, separating royal narrative, imperial demands, local survival and evidence limits.",
+  "release": "Z",
+  "sourceStatus": "Original historical synthesis with selected contextual sources; independent scholarly peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo historical synthesis",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Institutional chronology of Mongol campaigns, diplomacy and dynastic survival; predominantly elite records"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Regional and political context of the 1232 relocation, including competing evaluations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Cheoinseong",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055720",
+      "role": "Specialist account of the 1232 battle and contributions of local residents and monks"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Surviving physical canon and historical context of war-era production"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Local and institutional consequences of the contested 1270 settlement"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.4:b01",
+      "title": "Campaigns rather than a single battle",
+      "paragraphs": [
+        "The years between 1232 and 1259 brought repeated Mongol offensives, truces, talks and localized fighting. Historians often number major invasions for clarity, but warfare did not pause neatly at the boundaries of those categories. Different commanders pursued changing objectives, and imperial succession struggles sometimes altered the pace of operations. Goryeo provinces experienced the conflict unevenly according to roads, terrain, agriculture and access to fortresses. One district could be rebuilding while another prepared for siege. A chronology limited to dates of invasions is therefore an inadequate history of a society forced to make new plans every season."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo entry: late thirteenth-century invasions and dynastic chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.4:b02",
+      "title": "Cheoinseong and Kim Yun-hu",
+      "paragraphs": [
+        "In 1232 resistance at Cheoinseong became famous because the Mongol commander Sartaq was killed there. The monk Kim Yun-hu is prominent in later accounts, yet the defenders also included residents of Cheoin and people sheltering within the small fortress. The engagement was a victory of local collective action, not simply a duel between celebrated commanders. Archaeological study of the surviving site and historical reconstruction help place the encounter in a modest physical setting. Its military consequence was important, but it did not end the imperial campaign system. Memory of a successful defence can inspire without being converted into proof that the entire war was being won."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 1,
+          "locator": "AKS Ganghwa transfer: reasons, competing assessments and war period",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.4:b03",
+      "title": "The significance of mountain refuges",
+      "paragraphs": [
+        "Fortresses in elevated terrain offered a way to exploit local knowledge and reduce cavalry advantages. They became shelters for noncombatants as well as positions defended by soldiers. Residents carried grain, tools, children and animals to these sites, sometimes abandoning crops that could not be harvested. A successful defence required food, water and cooperation among people of unequal status. Invaders might bypass the walls and destroy surrounding fields, thereby threatening later survival. When chronicles name only a commander, historians need to reconstruct the material work that made endurance possible and acknowledge the many defenders whose names were not preserved."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.4:b04",
+      "title": "Changing Mongol objectives",
+      "paragraphs": [
+        "Mongol strategy combined threats to towns with demands that the king leave Ganghwa, recognize overlordship and fulfil tribute obligations. Repeated devastation could be intended to demonstrate that the island court could not shield its subjects. Expeditionary commanders also faced constraints of time, food and imperial priorities elsewhere. Retreat did not necessarily mean abandoning the aim of submission. Conversely, Goryeo officials could interpret temporary pauses as proof that continued resistance was feasible. The resulting strategic misunderstanding sustained negotiations that repeatedly failed to resolve the underlying disagreement about royal attendance and political subordination."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.4:b05",
+      "title": "The war reached the south",
+      "paragraphs": [
+        "The campaign zone extended beyond the northern frontier into central and southern districts whose fields and temples supplied the kingdom. Raids, troop movements and provisioning imposed costs on people far from the island court. Refugees displaced local markets and could strain the supplies of places not directly attacked. Records of destruction are vivid, but they provide neither a complete geographical survey nor dependable national death totals. A cultural monument's loss is easier to commemorate than the unrecorded disruption of thousands of farming routines. Regional evidence must therefore complicate any uniform description of how the entire peninsula experienced invasion."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.4:b06",
+      "title": "Resistance and negotiated compliance",
+      "paragraphs": [
+        "Different communities resisted, negotiated, concealed resources or surrendered according to circumstances. Such responses do not form a simple moral scale. A group with sufficient grain and a strong wall might hold out; a settlement facing starvation and no realistic relief might seek accommodation. Military officers and local powerholders could force decisions on dependent workers and households. Histories written under later governments often praise defiance and condemn surrender without recovering the immediate danger faced by civilians. Analysis needs to distinguish a commander's obligation to a king from a village's practical obligation to keep people alive."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.4:b07",
+      "title": "The political endurance of the Choe regime",
+      "paragraphs": [
+        "The military government retained leverage partly because sustained resistance could be used to justify control of the royal establishment. Negotiated submission threatened that position, yet resistance also protected meaningful elements of Goryeo independence. These overlapping interests explain why attributing every policy to either patriotism or selfishness is inadequate. Civil officials concerned with revenue and population sometimes sought an exit from costly conflict. Their position became more persuasive as devastation accumulated. The military struggle and the internal constitutional struggle were therefore linked: peace became possible not just when Mongol military goals changed but when the arrangement of power inside Goryeo changed."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.4:b08",
+      "title": "A settlement not yet reached",
+      "paragraphs": [
+        "By the 1250s neither repeated campaigns nor insular refuge had produced a stable peace. Mongol armies retained great destructive capacity; Goryeo's dynasty remained recognizably alive. Those two facts could coexist for decades because holding a king's allegiance differed from devastating his provinces. The eventual settlement depended on changes in imperial leadership, the erosion of military-government power and decisions about royal attendance. The long war should consequently be understood as military, diplomatic and social history together. To call it a triumph without recognizing civilian catastrophe, or a simple conquest without recognizing political endurance, would flatten its conflicting outcomes."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    }
+  ]
+}

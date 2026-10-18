@@ -1,0 +1,130 @@
+{
+  "id": "V.9.5",
+  "title": "Devastation, Displacement, Famine, Cultural Loss, and Civilian Survival",
+  "kicker": "GORYEO · MONGOL INVASIONS AND YUAN WORLD",
+  "description": "Original critical history of devastation, displacement, famine, cultural loss, and civilian survival, separating royal narrative, imperial demands, local survival and evidence limits.",
+  "release": "Z",
+  "sourceStatus": "Original historical synthesis with selected contextual sources; independent scholarly peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo historical synthesis",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Institutional chronology of Mongol campaigns, diplomacy and dynastic survival; predominantly elite records"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Regional and political context of the 1232 relocation, including competing evaluations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Cheoinseong",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055720",
+      "role": "Specialist account of the 1232 battle and contributions of local residents and monks"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Surviving physical canon and historical context of war-era production"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Local and institutional consequences of the contested 1270 settlement"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.5:b01",
+      "title": "Violence beyond the battlefield",
+      "paragraphs": [
+        "The Mongol wars repeatedly displaced people who were neither professional soldiers nor participants in high politics. Families fled from threatened villages, cultivated fields became inaccessible, and officials struggled to collect taxes or move provisions. Texts sometimes describe districts as emptied or ruined, but such expressions are not automatically measured census totals. A rigorous history distinguishes killings during assaults, deaths associated with hunger and illness, and the longer loss of land and livelihood. Damage could continue after a campaign ended because planting opportunities and working animals had been lost. The accumulation of these hardships explains why military decisions made on Ganghwa had consequences felt far from the court."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo entry: late thirteenth-century invasions and dynastic chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.5:b02",
+      "title": "Who could find refuge",
+      "paragraphs": [
+        "Social rank determined access to transport and protection. Some wealthy households could secure boats, store grain or shelter with relatives; poorer cultivators might have to choose between their farms and their children's immediate safety. Enslaved people and dependent workers had constrained mobility even when danger was obvious. Mountain fortresses and coastal islands offered protection only if people could reach them and sufficient provisions remained. Women, older residents and children were not simply passive categories: they worked, negotiated and travelled, though sources rarely preserve their direct testimony. Surviving references to refugees must therefore be interpreted in light of whose movements official writers considered worth recording."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 1,
+          "locator": "AKS Ganghwa transfer: reasons, competing assessments and war period",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.5:b03",
+      "title": "The slow mechanics of famine",
+      "paragraphs": [
+        "Hunger did not require an army to seize every granary. Flight during planting, destruction of irrigation works, lost draft animals and blocked roads all reduced food access. An influx of refugees could exhaust stores in an otherwise defensible settlement. A city or fortress needed repeated deliveries as well as walls. Disease could spread in crowded shelters where water and sanitation deteriorated, but the diagnoses in medieval records do not justify applying precise modern labels. Historians can explain the pathways from invasion to famine without inventing national mortality estimates. The unequal survival chances of households reveal more than a bare claim that the country was devastated."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.5:b04",
+      "title": "Captivity and human extraction",
+      "paragraphs": [
+        "Some inhabitants were seized during raids, and later obligations within the Mongol empire also involved skilled labour and human service. These mechanisms should not be conflated: prisoners taken by armed groups, people transferred under formal demands and people who migrated voluntarily occupied different positions. The human result could still be family separation and loss of local expertise. Petitions concerning missing people survive disproportionately when influential relatives could approach officials. The absence of a name from administrative texts does not imply that the person's fate was insignificant. Attention to the categories used by chroniclers prevents a totalizing description that erases legal and social differences among displaced residents."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.5:b05",
+      "title": "Monasteries and destroyed collections",
+      "paragraphs": [
+        "Buddhist institutions held buildings, manuscripts, stored grain and land, making them both sources of social support and vulnerable targets in wartime. Destruction of a monastery affected local education, charity and the maintenance of ritual networks. The loss of manuscripts could not simply be repaired by rebuilding walls. Religious accounts preserved powerful narratives of destruction and merit, but their commemorative objectives need to be considered when reconstructing particular events. The historian should also resist assuming that every archaeological burn layer belongs to the Mongol period without sound dating. Cultural loss is important precisely because surviving evidence is selective, not because every celebrated tradition can be tied confidently to one identifiable raid."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.5:b06",
+      "title": "The Buddhist canon as an answer to crisis",
+      "paragraphs": [
+        "The carving of the Tripitaka Koreana woodblocks during Mongol pressure reveals organized scholarship and craft activity amid prolonged danger. The project drew upon protective Buddhist ideas, patronage and the labour of skilled carvers and supply networks. The surviving 81,258 woodblocks are a remarkable material record, recognized by UNESCO. Their existence should not be turned into evidence that religious ceremonies were believed by everyone to be sufficient military defence. Nor do preservation records tell us the personal experiences of every craft worker. The project demonstrates that war could motivate sustained intellectual enterprise while simultaneously devastating the social economy that supported other religious houses."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.5:b07",
+      "title": "Limits of the evidence",
+      "paragraphs": [
+        "Royal compilations preserve episodes of loss and government response but rarely provide continuous household histories. Local archaeological traces can reveal burning, fortification and rebuilding, although their chronology and attribution are often contested. A community's absence from a later land register may indicate migration, administrative reorganization or destruction; it is not automatically proof of one cause. Responsible interpretation therefore combines written and material evidence while marking gaps. Sweeping numerical estimates unsupported by reliable enumerations would disguise uncertainty rather than correct it. The war's suffering is historically evident without the need to manufacture statistical precision."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.5:b08",
+      "title": "Rebuilding as historical action",
+      "paragraphs": [
+        "Survival involved repairing water channels, replanting fields, sharing stores and renegotiating obligations after episodes of violence. Local elites might defend neighbours or exploit their dependence. Temples could shelter refugees while also requiring labour and provisions. The actions of villagers were not merely a background to imperial campaigns; they helped determine whether settlements persisted and whether royal taxation could resume. Much of this activity survives only indirectly in official concern over grain, labour or security. Reconstructing it shifts the history of the war from a series of famous confrontations toward the harder question of how social life continued under repeated military threat."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    }
+  ]
+}

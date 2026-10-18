@@ -1,0 +1,130 @@
+{
+  "id": "V.9.1",
+  "title": "The Rise of the Mongols and Goryeo's First Encounters with the New Empire",
+  "kicker": "GORYEO · MONGOL INVASIONS AND YUAN WORLD",
+  "description": "Original critical history of the rise of the mongols and goryeo's first encounters with the new empire, separating royal narrative, imperial demands, local survival and evidence limits.",
+  "release": "Z",
+  "sourceStatus": "Original historical synthesis with selected contextual sources; independent scholarly peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo historical synthesis",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Institutional chronology of Mongol campaigns, diplomacy and dynastic survival; predominantly elite records"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Regional and political context of the 1232 relocation, including competing evaluations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Cheoinseong",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055720",
+      "role": "Specialist account of the 1232 battle and contributions of local residents and monks"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Surviving physical canon and historical context of war-era production"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Local and institutional consequences of the contested 1270 settlement"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.1:b01",
+      "title": "A northern world already connected",
+      "paragraphs": [
+        "Goryeo encountered the Mongols through a frontier that had never been sealed from continental affairs. Earlier relations with Liao, Jin and Song had taught the court how to manage powerful neighbours through border defence, diplomacy and exchange. In the early thirteenth century those arrangements were unsettled by Mongol expansion and the movement of Khitan refugees. Reports crossing the Yalu brought news of unfamiliar commanders, but local people had already met soldiers, merchants and displaced families from several northern societies. A later narrative can make the rising empire seem irresistible from the beginning. For Goryeo officials, its strength, purposes and likely next moves were still uncertain, and policy had to be made through incomplete intelligence."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo entry: late thirteenth-century invasions and dynastic chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.1:b02",
+      "title": "The Khitan campaigns of the 1210s",
+      "paragraphs": [
+        "Khitan groups fleeing continental conflict entered Goryeo territory and created an immediate security emergency. Goryeo troops and Mongol forces cooperated in their defeat in 1219, an encounter remembered through claims of fraternity and reciprocal obligation. Cooperation against a common enemy should not be mistaken for recognition of permanent Mongol supremacy. The same participants could assign very different meanings to an agreement: Korean officials emphasized mutual assistance, while representatives of an expanding empire could later cite the relationship when demanding obedience. Combat also required guides, provisioning and liaison across language barriers. These practical encounters mattered as much as formal declarations because they established routes by which imperial agents subsequently entered the peninsula."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 1,
+          "locator": "AKS Ganghwa transfer: reasons, competing assessments and war period",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.1:b03",
+      "title": "Tribute and the language of obligation",
+      "paragraphs": [
+        "The new diplomatic relationship soon involved disputes over gifts, supplies, transport and attendance at court. For Mongol representatives, costly presentations could express the rightful duty of another ruler; for Goryeo officials, repeated demands appeared to threaten fiscal stability and political discretion. The distinction between an agreed exchange and coerced extraction was therefore contested from the start. Providing horses or specialist labour ultimately meant collecting goods and people from particular communities, not merely moving objects between palaces. The burden fell unequally according to rank and locality. Later Korean sources present many demands as obvious injustice, and that judgement may be persuasive, but historians should still distinguish documented requests from assumptions about their uniform enforcement."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.1:b04",
+      "title": "The killing of an envoy",
+      "paragraphs": [
+        "The death of the Mongol emissary Jeogoye near the border in 1225 provided a central grievance in accounts explaining the rupture. Responsibility remained disputed and the incident alone cannot prove a deliberate order from the royal court. Nevertheless, the safety of envoys mattered profoundly to rulers who relied on intimidation and communication over enormous distances. Relations worsened, but a major invasion did not follow instantly. The Mongols faced campaigns and succession questions elsewhere, while the Korean court evaluated its capacity to defend roads and fortresses. Treating the envoy's death as the single inevitable cause of war erases this intervening political history and the choices made by commanders on both sides."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.1:b05",
+      "title": "An empire with changing priorities",
+      "paragraphs": [
+        "Mongol policy should not be projected backwards from the later Yuan dynasty. The rulers of the 1220s pursued security, supplies, tribute and submission within a rapidly changing continental campaign system. The effort needed to conquer a walled town differed from what would be required to oversee an established kingdom whose existing officials might continue governing. Imperial commanders therefore employed negotiation alongside force, and their priorities could change after victories elsewhere. Goryeo leaders confronted a power that was ambitious but not omniscient or administratively uniform. Their difficulty was to distinguish concessions likely to avert attack from demands that would widen with each acceptance. No faction could honestly promise that accommodation or resistance would ensure safety."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.1:b06",
+      "title": "Court rivalries under external pressure",
+      "paragraphs": [
+        "King Gojong presided over a government in which military leaders wielded major coercive power. Policy emerged from a divided political setting rather than an undifferentiated national will. Civil officials concerned with continuity and agrarian revenues might favour negotiations, while military strongmen feared the consequences of allowing the monarch to submit personally to an imperial overlord. Such priorities were neither wholly principled nor wholly selfish. Protecting royal institutions, personal authority and provincial populations could overlap, but the different goals became visible when the crisis intensified. Later royal histories commonly arrange actors into loyal and disloyal camps; a critical reconstruction should test those labels against the practical alternatives available at each moment."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.1:b07",
+      "title": "The invisible work of frontier societies",
+      "paragraphs": [
+        "Between the embassies stood interpreters, escorts, horse handlers, farmers and refugees whose experiences are not proportionately represented in the dynastic records. An envoy's journey could consume grain from villages already strained by migration. News of approaching troops affected markets and decisions about whether to plant crops or move dependants. Families connected across the border might use personal knowledge to escape danger or be suspected of aiding enemies. These effects preceded formal declarations of war. A history limited to palaces overlooks how continental transformation reached people through provisioning, personal relations and uncertainty. It also risks inventing a single popular response where surviving evidence preserves mostly the opinions of literate officials."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.1:b08",
+      "title": "The road toward 1231",
+      "paragraphs": [
+        "By the opening of the 1230s diplomacy had failed to establish mutually acceptable expectations, and Mongol commanders possessed the reach to enforce demands militarily. The ensuing invasion was part of a changing continental relationship, not just retaliation for one death on a border road. Earlier cooperation, contested tribute and the structure of military government all shaped the response. Korean accounts emphasize the danger to dynastic independence; imperial perspectives stress disobedience. Both are partial viewpoints. Their contrast helps explain why the first Mongol campaign would produce a settlement without peace, while households across the peninsula would confront the material consequences of political decisions they had scarcely influenced."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    }
+  ]
+}
