@@ -12,7 +12,7 @@ assert fixture['baseline_main']==BASE
 assert fixture['authored_snapshot']==SNAP
 def blob_sha(path):
     raw=path.read_bytes()
-    return hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\\0'+raw).hexdigest()
+    return hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\0'+raw).hexdigest()
 def show(ref,path):
     return subprocess.run(['git','show',f'{ref}:{path}'],cwd=ROOT,capture_output=True,check=True).stdout
 old=fixture['article_blobs']; canonical_blobs=fixture['canonical_blobs']
