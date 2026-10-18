@@ -1,0 +1,165 @@
+{
+  "id": "II.5.6",
+  "title": "Goguryeo and the Han Frontier",
+  "kicker": "GOGURYEO · EARLY FRONTIER AND INCORPORATION",
+  "description": "Source-critical analysis of goguryeo and the han frontier, with separate attention to imperial documents, archaeology and later chronicles.",
+  "release": "AA",
+  "sourceStatus": "Original editorial synthesis with contextual institutional references; not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Early frontier exchanges, historical formation, expansion into Okjeo and other communities"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Archaeological context for frontier settlement, fortification and political geography"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Dongmyeongseongwang (동명성왕)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016431",
+      "role": "Transmitted early expansion and succession tradition, interpreted as retrospective political memory"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.5.6:b01",
+      "title": "An imperial frontier, not a fixed line",
+      "paragraphs": [
+        "The phrase Han frontier suggests a line dividing two coherent territories, yet the actual political landscape included commandery centers, indigenous communities, trade routes, garrisons, and competing intermediaries. Imperial maps and administrative terms expressed claims that could outrun practical control. Goguryeo leaders exploited opportunities created by terrain, shifting military priorities, and local affiliations. The middle Yalu region was not isolated from the Han world; contact with commandery institutions contributed to patterns of exchange, conflict, and political vocabulary. A historical account must distinguish an emperor's reported jurisdiction from the regular reach of soldiers and officials in particular valleys. This distinction helps explain how groups could negotiate recognition while resisting demands made by those who claimed to administer them."
+      ],
+      "sequence": 1,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo synthesis: early Han frontier and northern communities",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.6:b02",
+      "title": "The legacy of Xuantu",
+      "paragraphs": [
+        "The establishment and subsequent relocation of Xuantu commandery are significant because Goguryeo appears in some early texts as an administrative place-name as well as a developing political community. Such references should not be read as proof that the later kingdom was created by an imperial decree. Imperial nomenclature could attach to an existing settlement or recognized population while leaving substantial local institutions intact. The commandery's changing position also indicates frontier pressure and the limits of imposing a permanent structure on the region. Retrospective Korean royal history framed these developments differently, emphasizing the dynasty's origins and autonomous rule. Bringing the two source traditions into conversation reveals shifting authority rather than a simple alternation between complete dependency and complete independence."
+      ],
+      "sequence": 2,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    },
+    {
+      "id": "II.5.6:b03",
+      "title": "Tribute, gifts and practical bargains",
+      "paragraphs": [
+        "Exchange with imperial officials could involve tribute, titles, gifts, hostages, envoys, and access to marketplaces. Each practice had more than one possible meaning. The issuing court might record submission; a Goguryeo leader could regard an embassy as a profitable or strategically necessary relationship. Material advantages could include cloth, metal goods, prestige items, and information about rival powers. Participation in such relationships did not prevent subsequent raiding or alliance changes. Treating diplomacy as a continuously peaceful alternative to war oversimplifies a frontier on which negotiation itself could be backed by force. Diplomatic forms offered rulers ways to reposition themselves without permanently surrendering local autonomy, and outside histories often record the forms more clearly than the bargaining beneath them."
+      ],
+      "sequence": 3,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 2,
+          "locator": "AKS Dongmyeongseongwang: recorded northeastern conquests and later memory",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.6:b04",
+      "title": "Violence near military posts",
+      "paragraphs": [
+        "Commandery garrisons and their associated settlements could become targets in disputes over population, goods, and routes. The texts available to historians often record such encounters from the standpoint of imperial security. A punitive campaign is described as restoring order, while a raid becomes rebellion or depredation. Those descriptions are evidence of imperial priorities, not neutral assessments of every local grievance. Goguryeo histories may later incorporate the same conflict into a narrative of rising independence. Both require comparison with geography and the temporal reach of military occupation. A defeat in one year does not establish permanent subordination; a successful attack in another does not prove that the kingdom controlled all the surrounding settlements thereafter."
+      ],
+      "sequence": 4,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    },
+    {
+      "id": "II.5.6:b05",
+      "title": "The uncertain meaning of borders",
+      "paragraphs": [
+        "Political territory on this frontier was expressed through roads, fortified passes, river crossings, and networks of affiliation more than through surveyed boundaries of the modern kind. Different authorities could claim the same population, and the same chief could maintain contacts with more than one court. A border on a reconstructed map should therefore represent an interpretive approximation, especially for periods when surviving sources are episodic. Archaeological finds of imported goods provide evidence of contact, not automatic proof of conquest. Similarly, the appearance of a Chinese-style artifact in a burial does not identify the occupant as an immigrant or government employee. Mapping political change requires independent attention to routes, settlements, installations, and the language of competing texts."
+      ],
+      "sequence": 5,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 1,
+          "locator": "UNESCO capitals: Yalu-area archaeological sites and political geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.6:b06",
+      "title": "Moving people and changing allegiances",
+      "paragraphs": [
+        "Imperial warfare and indigenous expansion both created incentives for households to relocate. Refugees, captives, traders, military dependents, and people seeking better protection could cross the frontier for very different reasons. Their movement could carry skills, farming practices, ornaments, and religious ideas into new settings. The surviving records seldom allow such mobility to be quantified. In particular, one cannot infer a whole population transfer from the arrival of a prestigious object or a chronicle's story of a single leader defecting. The demographic history of the frontier was probably uneven and local, shaped by climate, violence, resources, and household decisions. Its importance lies in the way these movements altered the communities from which Goguryeo rulers recruited and collected support."
+      ],
+      "sequence": 6,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    },
+    {
+      "id": "II.5.6:b07",
+      "title": "Imperial weakness and indigenous agency",
+      "paragraphs": [
+        "The strength of imperial control changed as dynasties faced pressures elsewhere. Military resources directed toward a distant frontier were not always sustained through successive generations. Goguryeo's opportunities therefore depended partly on developments beyond northeastern Asia. But a narrative that explains every advance as merely a result of Chinese weakness deprives local institutions of agency. Goguryeo leaders still needed followers, fortresses, provisions, and the ability to make rival communities cooperate. Conversely, it would be misleading to treat every imperial setback as evidence of a planned Goguryeo strategy. The relationship was contingent: opportunities appeared, were contested, and could vanish quickly when frontier commanders or broader political conditions changed."
+      ],
+      "sequence": 7,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo synthesis: early Han frontier and northern communities",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.6:b08",
+      "title": "Records written for another audience",
+      "paragraphs": [
+        "Much of what can be said about this period comes from texts produced for Chinese dynastic or administrative audiences. Their concern was often imperial governance, tax and military order, or the reputation of a frontier general. Indigenous communities entered the narrative when they affected those concerns. Korean chronicles compiled in later centuries preserve another selection of events shaped by royal chronology and moral interpretation. Neither archive is a comprehensive social history. Differences in names, dates, or labels may reflect transmission as well as divergent political perspectives. A responsible reading makes the archive itself part of the story, asking whose actions became visible and whose work, losses, and bargaining disappeared behind the official description of a frontier disturbance."
+      ],
+      "sequence": 8,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    },
+    {
+      "id": "II.5.6:b09",
+      "title": "Archaeology and the limits of attribution",
+      "paragraphs": [
+        "Settlement distribution, funerary change, and imported objects can test claims of enduring contact across the frontier. They are indispensable where the written record falls silent, but material evidence has its own limits. An imported mirror can move as a gift, traded object, or inheritance; a fortress may have several occupation phases; ceramic styles can spread without armies. None automatically supplies the ethnicity or allegiance of every person using it. Chronological layers also require scientific dating and careful site formation analysis. The right method is comparison: where textual claims of conquest coincide with changes in settlement or defence, possibilities become clearer, yet disagreement should remain visible rather than forced into a single story."
+      ],
+      "sequence": 9,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 2,
+          "locator": "AKS Dongmyeongseongwang: recorded northeastern conquests and later memory",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.6:b10",
+      "title": "A political relationship lasting centuries",
+      "paragraphs": [
+        "Goguryeo's relationship with the Han frontier created institutions and experiences that outlasted any single battle. Rulers learned forms of diplomacy, communities experienced shifting opportunities for exchange, and military organization developed in response to powerful neighbors. The frontier was simultaneously a zone of coercion, opportunity, mobility, and cultural interaction. Its history is best understood as overlapping jurisdictions and changing practical capacities. Such an approach prepares the reader for the later dismantling of commandery rule and for Goguryeo's transformation into a larger kingdom, while resisting the assumption that the outcome was inevitable. The early frontier was not a rehearsal for a modern national conflict; it was a historically specific world of competing authorities."
+      ],
+      "sequence": 10,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    }
+  ]
+}

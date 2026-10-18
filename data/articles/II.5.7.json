@@ -1,0 +1,165 @@
+{
+  "id": "II.5.7",
+  "title": "Expansion among Northern and Eastern Communities",
+  "kicker": "GOGURYEO · EARLY FRONTIER AND INCORPORATION",
+  "description": "Source-critical analysis of expansion among northern and eastern communities, with separate attention to imperial documents, archaeology and later chronicles.",
+  "release": "AA",
+  "sourceStatus": "Original editorial synthesis with contextual institutional references; not independently peer-reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Early frontier exchanges, historical formation, expansion into Okjeo and other communities"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Archaeological context for frontier settlement, fortification and political geography"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Dongmyeongseongwang (동명성왕)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016431",
+      "role": "Transmitted early expansion and succession tradition, interpreted as retrospective political memory"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.5.7:b01",
+      "title": "Expansion was not one movement",
+      "paragraphs": [
+        "The gradual extension of Goguryeo influence into northern and eastern communities is sometimes summarized as a succession of conquests. That label obscures differences between a brief raid, repeated tribute, negotiated alliance, resettlement, and durable provincial administration. Communities such as Okjeo and Dongye appear in outside descriptions with their own regional practices and political histories. Their relationship to Goguryeo changed as military and economic pressures shifted. The court's ability to mobilize force helped establish dominance, but cooperation by local elites and producers could matter equally for maintaining it. A historical map showing an expanding color should not be mistaken for a contemporary survey of permanent royal jurisdiction across every coast and mountain district."
+      ],
+      "sequence": 1,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo synthesis: early Han frontier and northern communities",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.7:b02",
+      "title": "Okjeo and the eastern approaches",
+      "paragraphs": [
+        "Okjeo communities along the northeastern coastal regions occupied landscapes different from the central Yalu strongholds. Access to maritime resources, local farming, and routes between inland and coastal areas gave these settlements strategic value. Written descriptions of Okjeo are filtered through external ethnographic interests and later political narratives; they do not provide complete records of household choices. Goguryeo's growing capacity to extract goods or obligations from such areas would have extended its economic base beyond a single upland core. The degree of direct administration is harder to establish. Local people could continue customary life while also enduring tribute demands or providing labor to rulers who were physically far away. Political incorporation should not be equated with immediate cultural assimilation."
+      ],
+      "sequence": 2,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    },
+    {
+      "id": "II.5.7:b03",
+      "title": "Dongye and complicated affiliations",
+      "paragraphs": [
+        "Dongye is known through transmitted labels that group together communities with diverse local practices. Descriptions of customs, territorial relations, and political dependencies are valuable but require caution: ethnographic accounts can freeze a society in a timeless portrait while conditions were actually changing. Goguryeo interactions with eastern groups unfolded amid competition with commanderies and other regional powers. Local leaders could weigh the costs and benefits of alignment, and formal submission might be revised after a military reverse. The problem of interpreting these relationships lies partly in source vocabulary. A phrase translated as subject population may indicate tribute obligations rather than the replacement of every local institution. Archaeology can reveal trade and burial patterns but rarely names the authority collecting a particular tax."
+      ],
+      "sequence": 3,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 2,
+          "locator": "AKS Dongmyeongseongwang: recorded northeastern conquests and later memory",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.7:b04",
+      "title": "Buyeo and overlapping northern memories",
+      "paragraphs": [
+        "Buyeo was important as both a neighboring polity and a remembered point of origin for Goguryeo kingship. This dual role created possibilities for kinship language to coexist with strategic competition. Later historical accounts distinguish campaigns, refugee movements, and claims of descent, yet the documents emerge from different periods and cannot automatically be combined into a single linear history. Buyeo itself changed as regional powers contested northeastern routes. Assimilation of some people into a growing Goguryeo realm did not mean that every northern community ceased to possess distinct traditions. The most productive question is how political affiliation, material culture, and stories of ancestry interacted across generations, rather than which modern ethnic boundary a particular settlement would supposedly have recognized."
+      ],
+      "sequence": 4,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    },
+    {
+      "id": "II.5.7:b05",
+      "title": "The economics of unequal tribute",
+      "paragraphs": [
+        "An expanding court could draw upon grain, cloth, fish, animal products, metalwork, and labor supplied by different regions. The precise balance of products and obligations changed and is difficult to quantify for the early centuries. Some demands may have operated through local leaders who retained power while collecting goods for another authority. Others may have followed coercive expeditions or hostage agreements. Tribute should therefore be studied as a political relationship as well as an economic transfer. Households carrying the burden were not always the same people whose names appear in victory narratives. The ability to redistribute extracted resources to followers helped rulers maintain military coalitions but also created incentives for resistance and opportunistic shifts of allegiance."
+      ],
+      "sequence": 5,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 1,
+          "locator": "UNESCO capitals: Yalu-area archaeological sites and political geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.7:b06",
+      "title": "Routes connect mountain and coast",
+      "paragraphs": [
+        "River systems and passes joined Goguryeo's inland centers to coastal communities, while difficult terrain created opportunities for local negotiation and defence. Movement was seasonal and depended on supplies, water crossings, and security. Control of one fortress did not necessarily imply uninterrupted authority along an entire route. Yet a series of defended points could reduce the cost of collecting goods, sending envoys, and deploying soldiers. Interpreting geographical expansion requires attention to the practical movement of people and commodities, not simply boundary lines. Archaeological evidence of exchange may illuminate connections even where the records say little. The distribution of objects should be understood as the result of many transactions rather than a map of one ruler's itinerary."
+      ],
+      "sequence": 6,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    },
+    {
+      "id": "II.5.7:b07",
+      "title": "Retrospective royal victories",
+      "paragraphs": [
+        "Later chronicles often attach early expansions to named kings whose reigns establish a coherent narrative. Such accounts can preserve historical memory but are not contemporary dispatches with transparent sources. The temptation is to assign every archaeological change to a particular recorded campaign and declare the identification proved. This practice confuses kinds of evidence. A chronicle's notice may concern prestige or tribute rather than permanent occupation; material assemblages may change gradually or be dated only within broad intervals. Royal victory stories also omit unsuccessful expeditions and negotiations that produced no spectacular event. A fuller history asks how relations were sustained and when the people described as conquered retained meaningful control over their local affairs."
+      ],
+      "sequence": 7,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo synthesis: early Han frontier and northern communities",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.7:b08",
+      "title": "Incorporation and cultural diversity",
+      "paragraphs": [
+        "Political incorporation did not require the sudden disappearance of local languages, rituals, foodways, or descent traditions. A court could benefit from cultural flexibility so long as crucial obligations were met. At other times forced movement and elite replacement could reshape communities more sharply. The evidence does not allow one universal model for all northern and eastern districts. Burial traditions and household artifacts show regional variation that should not automatically be called resistance or assimilation. Diversity was part of the conditions under which Goguryeo developed its larger political identity. Later dynastic narratives frequently use a unifying vocabulary, but the lived realm was assembled from communities whose histories did not begin with the arrival of royal officials."
+      ],
+      "sequence": 8,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    },
+    {
+      "id": "II.5.7:b09",
+      "title": "Frontier competition never ceased",
+      "paragraphs": [
+        "Territorial gains created new neighbors, disputes, and responsibilities. A district supplying food or troops might become strategically exposed if the military balance changed. Commandery officers, regional chiefs, and rival courts could all contest allegiance, sometimes within a single generation. Maintaining influence required political attention as much as military strength. A ruler might reward local leaders, station armed followers, or accept incomplete compliance where full occupation was too expensive. These compromises should not be treated as failures measured against a modern ideal of sovereignty. They were among the ways ancient power operated. The geography of expansion remained fluid even when a later chronicler summarized a long period in a single sentence."
+      ],
+      "sequence": 9,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": [
+        {
+          "claim": "This reference supplies regional chronological or material context; specific interpretive inferences require separate assessment.",
+          "sourceIndex": 2,
+          "locator": "AKS Dongmyeongseongwang: recorded northeastern conquests and later memory",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.7:b10",
+      "title": "A broader kingdom without a single origin",
+      "paragraphs": [
+        "By expanding among diverse communities, Goguryeo acquired resources and experiences that helped sustain larger institutions. Its identity became broader than the founding lineage, although court memory continued to emphasize that lineage. The exact chronology of incorporation remains unevenly documented and some regional labels shift across sources. The most defensible history therefore identifies patterns of increasing influence while avoiding invented administrative precision. Northern and eastern peoples were not merely scenery through which a Goguryeo army marched. Their labor, bargaining, movement, and cultural continuities shaped the kingdom itself. The story of expansion is consequently also a story of how a complex regional population came to live within overlapping political relationships."
+      ],
+      "sequence": 10,
+      "label": "Batch AA · differentiated source-critical narrative",
+      "evidence": []
+    }
+  ]
+}
