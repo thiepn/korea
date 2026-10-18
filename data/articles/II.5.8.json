@@ -1,0 +1,165 @@
+{
+  "id": "II.5.8",
+  "title": "Economy, Settlement, and Material Foundations",
+  "kicker": "GOGURYEO · EARLY SOCIETY AND FOURTH-CENTURY THRESHOLD",
+  "description": "A source-critical history of economy, settlement, and material foundations, explicitly separating textual representation, archaeological evidence and interpretation.",
+  "release": "AA",
+  "sourceStatus": "Original synthesis with selective contextual sources; independent specialist review pending.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Chronology, social integration, geopolitical relationships and transformation through early fourth century"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Capital-city archaeological setting and elite commemorative landscapes"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Safeguarding Koguryo Tombs and Mural Paintings",
+      "url": "https://whc.unesco.org/en/koguryotombs",
+      "role": "Chronology of tomb construction and the limits of funerary evidence"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.5.8:b01",
+      "title": "Beyond the history of battles",
+      "paragraphs": [
+        "An account of Goguryeo's formation that concentrates entirely on rulers and campaigns cannot explain how people reproduced their livelihoods. Valleys, fields, forests, waterways, and settlements provided the resources on which armed power depended. The early economy was not a single production system directed by a central palace. Different communities cultivated suitable land, obtained animal and forest products, worked metal and clay, and exchanged goods along routes governed by terrain. The written record is much more interested in rulers and tribute than in the daily rhythm of agricultural work. Archaeology offers another perspective, but excavated sites represent only a sample of lived landscapes. Economic history therefore begins by acknowledging how unevenly ordinary labor survives in the sources."
+      ],
+      "sequence": 1,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo specialist history: social and political formation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.8:b02",
+      "title": "Land and seasonal constraints",
+      "paragraphs": [
+        "The mountain valleys associated with early Goguryeo offer cultivable plots, streams, and sheltered settlements but do not resemble an unlimited grain plain. Agricultural activity had to accommodate uneven soils, frost, rainfall, and the cost of transporting harvests. Crop choices and techniques varied over time and cannot be deduced from later tax terminology alone. Households balanced cultivation with other forms of subsistence, while elites depended on their ability to mobilize a portion of the results. An unfavorable season could undermine tribute, military expeditions, or the provisioning of a fortress. Political ambition consequently remained exposed to ecological risk. Describing kings as powerful without explaining the uncertainties faced by producers would detach the court from the material conditions that sustained it."
+      ],
+      "sequence": 2,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    },
+    {
+      "id": "II.5.8:b03",
+      "title": "Rivers as transport and habitat",
+      "paragraphs": [
+        "The Yalu and its tributaries linked communities and offered sources of water, fish, and transport. Their role cannot be reduced to a line on a political map. River crossings might facilitate commerce in one season and obstruct movement in another; floods could damage settlements, and steep banks could provide defensible positions. The location of a settlement near navigable water influenced its access to distant goods and information. Control of a corridor might be more valuable than nominal possession of a large but difficult upland district. Archaeological distributions of sites and objects can illuminate such connections, although dating, river-course change, and preservation require attention. Geography made the economy possible while also setting limits on centralized collection."
+      ],
+      "sequence": 3,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tomb conservation: chronology of material and ritual evidence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.8:b04",
+      "title": "Labor behind a defended center",
+      "paragraphs": [
+        "A fortified center consumed organized labor long before an enemy appeared. People quarried or collected stone, prepared timber, moved soil, maintained stores, repaired weapons, cooked, and transported water. These tasks could be organized through local obligations rather than a specialized salaried bureaucracy. The people performing them rarely appear in chronicles except when a conflict exposes their absence or extraordinary sacrifice. Archaeological evidence of walls and buildings gives a measure of coordinated effort, but it seldom identifies exactly who worked or on what legal terms. The economic significance of fortification lies in this constant demand for resources. A court's capacity to command labor across multiple settlements was itself an institutional achievement."
+      ],
+      "sequence": 4,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    },
+    {
+      "id": "II.5.8:b05",
+      "title": "Metalwork and specialized production",
+      "paragraphs": [
+        "Iron tools and weapons were valuable because they changed what cultivators, builders, and soldiers could accomplish. Yet metal objects reached settlements through different pathways: local production, exchange, gift, seizure, and reuse. An excavated weapon demonstrates access to material and technical skill, not necessarily a royal workshop or a permanent professional army. Craft production involved knowledge transmitted through working communities whose names are mostly absent from the texts. Furnaces, slag, molds, and tool distributions are useful where securely identified and dated. Researchers should resist treating all iron finds from northeastern Asia as proof of a centrally regulated Goguryeo industry. Economic specialization was likely variable, developing alongside changing political demands and regional opportunity."
+      ],
+      "sequence": 5,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 1,
+          "locator": "UNESCO Koguryo capital cities: settlement archaeology and elite architecture",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.8:b06",
+      "title": "Households, storage and surplus",
+      "paragraphs": [
+        "The extraction of surplus can make royal authority durable, but the evidence rarely permits precise calculations of early taxes, acreage, or yields. Families needed stores for winter and seed for the next season before providing food to chiefs or military retainers. Local leaders who controlled redistribution could gain influence over both rulers and dependents. Grain storage was also vulnerable to theft, fire, and warfare. When chronicles celebrate a campaign, they seldom describe how grain was collected or which people carried it. Reconstructing these relationships cautiously reveals the cost of governance. Regular provisions mattered more than occasional displays of treasure for the survival of armed and administrative households."
+      ],
+      "sequence": 6,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    },
+    {
+      "id": "II.5.8:b07",
+      "title": "Trade in a connected northeastern world",
+      "paragraphs": [
+        "Goguryeo's early communities were not closed off from the Han commanderies, Buyeo, or coastal populations. Goods and techniques could travel through trading relationships, diplomatic exchange, movement of craftspeople, and military conflict. Objects bearing recognizable external styles attest to connections but do not identify a single mechanism of transfer. The same artifact type might circulate for centuries and acquire new uses. A necklace, blade, or ornament could embody both material value and a claim of social distinction. Trade was thus neither entirely peaceful nor entirely controlled by states. Markets and exchange routes were embedded in the same shifting political landscape as fortresses, chiefs, and raids."
+      ],
+      "sequence": 7,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo specialist history: social and political formation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.8:b08",
+      "title": "Status differences in material life",
+      "paragraphs": [
+        "Some graves and settlements display more elaborate construction and greater access to valued objects than others. Such differences suggest social inequality, but they do not translate automatically into a list of legal classes. The wealthy may have commanded labor or long-distance connections, while poorer households could remain archaeologically inconspicuous. Looting often removes the most distinctive grave goods, biasing the surviving sample. Burial investment also expresses beliefs about the dead and the wishes of survivors, not merely lifetime consumption. Economic history must therefore triangulate funerary evidence with dwellings, craft debris, environmental samples, and texts, none of which is comprehensive by itself. Distinctive elite objects should not eclipse the unrecorded majority."
+      ],
+      "sequence": 8,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    },
+    {
+      "id": "II.5.8:b09",
+      "title": "Costs borne beyond the court",
+      "paragraphs": [
+        "Expanding political authority could impose heavier demands on rural and frontier communities. Food, animals, cloth, equipment, and transport services had to come from somewhere. Some people may have benefited from safer trade routes and new markets, while others faced requisition, forced movement, or exposure to attack. The surviving narratives rarely permit a representative distribution of these experiences. It would be equally wrong to assume universally oppressive extraction or effortless prosperity under successful kings. The sources reveal political capacity more clearly than household welfare. This asymmetry should remain explicit. The existence of a strong fortified state tells us that resources were mobilized, not that their costs were fairly shared or evenly recorded."
+      ],
+      "sequence": 9,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tomb conservation: chronology of material and ritual evidence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.8:b10",
+      "title": "An economy of relationships",
+      "paragraphs": [
+        "The material foundations of early Goguryeo were relationships among households, local elites, routes, productive landscapes, and royal demands. Military successes depended on those relationships, and changes in political control could redirect them. Archaeology recovers fragments of production and consumption, while chronicles preserve selective stories of tribute and campaigns. Reading the two together requires patience with unresolved questions. Rather than imposing a complete tax system or industrial structure on an early society, we can explain how surplus, labor, exchange, and defence increasingly supported one another. This account places ordinary work at the center of state formation and makes clear why economic and political histories cannot be separated."
+      ],
+      "sequence": 10,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    }
+  ]
+}
