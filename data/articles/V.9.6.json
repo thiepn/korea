@@ -1,0 +1,148 @@
+{
+  "id": "V.9.6",
+  "title": "Diplomacy, Hostages, the Fall of the Choe Regime, and the Settlement of 1259",
+  "kicker": "GORYEO · IMPERIAL SETTLEMENT AND YUAN WORLD",
+  "description": "Source-critical account of diplomacy, hostages, the fall of the choe regime, and the settlement of 1259 in the political and social history of thirteenth-century Korea.",
+  "release": "Z",
+  "sourceStatus": "Original historical editorial synthesis; context citations are not sentence-level independent peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo dynastic history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "The long settlement, Yuan hierarchy, royal marriage and overseas mobilization; retrospective Korean historical synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Military regime and revolt in 1270–1273; distinguished from the earlier court settlement"
+    },
+    {
+      "institution": "Ganghwa County",
+      "title": "Sambyeolcho campaign and Ganghwa sites",
+      "url": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=114&tourdiv=all",
+      "role": "Regional commemorative account of the conflict, requiring independent source criticism"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana printing woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "War-era Buddhist material production and subsequent heritage status"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Competing interpretations of island politics and return to mainland"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.6:b01",
+      "title": "Negotiating after decades of damage",
+      "paragraphs": [
+        "By the late 1250s the Goryeo court faced a problem that a generation of defensive ingenuity had not solved. Ganghwa remained a protected governmental centre, yet repeated invasions had damaged the mainland economy and tested the loyalty of people who bore the heaviest costs. The Mongol empire also underwent changes in political leadership, creating openings for a settlement that earlier rulers and commanders had not accepted. Negotiations therefore occurred in a context of exhaustion and opportunity rather than simple capitulation after a single lost battle. Later historical accounts often arrange the story as an inevitable restoration of royal authority. Contemporaries faced substantial uncertainty over whether the Mongols would honour any concession and whether the military establishment would permit the promised terms to be implemented."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo: Mongol war, 1259 accommodation and Yuan-era political relations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.6:b02",
+      "title": "The royal person as a diplomatic instrument",
+      "paragraphs": [
+        "At the centre of the dispute lay demands that the Goryeo ruler or a close royal representative personally attend the Mongol court. For imperial authorities this gesture visibly established subordination and reduced doubts about future obedience. For Goryeo's military rulers it threatened both the dynasty's independence and their own ability to control an absent monarch. The custom of sending royal relatives to foreign courts involved risk, but also potential diplomatic influence. A prince could cultivate an understanding with powerful hosts and argue for concessions that messengers carrying letters might not obtain. The practice should not be flattened into the modern language of hostage taking alone: the boundary between coerced residence, political representation and strategic dynastic education varied by person and circumstance."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 1,
+          "locator": "AKS Sambyeolcho: 1270–1273 military opposition and historiography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.6:b03",
+      "title": "The collapse of Choe power",
+      "paragraphs": [
+        "In 1258 the final effective ruler of the Choe military house, Choe Ui, was killed, ending the family's long dominance. The event did not immediately eliminate all military intervention in government, nor did it create an entirely autonomous monarchy. It nevertheless changed the political terms under which compromise with the Mongols could be considered. Civil officials and royal advisers who wanted relief from the war gained new leverage. Later narratives condemn the Choe regime's obstruction and praise the return of royal power, reflecting the interests of those for whom military dictatorship had become a cautionary lesson. The evidence supports a major shift in court politics without proving that every provincial community welcomed the new settlement or that elite interests ceased to matter."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.6:b04",
+      "title": "A meeting with Kubilai",
+      "paragraphs": [
+        "The crown prince, later King Wonjong, entered negotiations amid Mongol imperial politics, and accounts emphasize his encounter with Kubilai before the latter's supreme authority was fully consolidated. The relationship became central to the assertion that Goryeo could retain recognizable customs and governmental institutions under Mongol supremacy. Historians need to distinguish this general claim from a modern guarantee of unrestricted sovereignty. The crown prince's status, the changing imperial succession and the Goryeo court's internal opponents all shaped what each side thought the agreement meant. The promise of dynastic survival was consequential precisely because incorporation into an expanding empire could take more direct forms. It did not remove future interference in appointments, trade, marriages or military service."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.6:b05",
+      "title": "The agreement of 1259",
+      "paragraphs": [
+        "The peace associated with 1259 marked the end of the long phase of invasion and island resistance, but the settlement's enforcement continued to be disputed. Mongol authorities expected the eventual return of the court to the mainland and evidence of reliable allegiance. Korean officials sought to preserve established dynastic rites, titles, land administration and the authority of indigenous institutions. The distinction between an agreed principle and its implementation matters. Competing factions could endorse peace while disagreeing about timing, ceremonial form and the position of military households. An account that declares the war over in 1259 without following events to the 1270 return and Sambyeolcho resistance treats a diplomatic moment as a complete social transformation."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.6:b06",
+      "title": "What submission did not mean",
+      "paragraphs": [
+        "Goryeo did not disappear as a named dynasty when the war ended. Its kings continued to rule within a hierarchy that increasingly centred on Yuan power, and recognizable domestic offices persisted. At the same time, royal appointments, overseas campaigns, tribute and dynastic marriage gave the overlord substantial influence. These arrangements do not fit an unqualified picture of either total independence or identical administration with an imperial province. Medieval sovereignty was divisible in ways that modern legal categories can obscure. Goryeo elites retained room to bargain, though their freedom was constrained and ordinary subjects often bore the costs of the negotiated relationship. A careful narrative traces specific jurisdictions rather than using a single label as an explanation."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.6:b07",
+      "title": "The unresolved military problem",
+      "paragraphs": [
+        "Even after the Choe family fell, military officers retained organized forces, patronage connections and fears of what peace would mean for them. Returning to Gaegyeong could dissolve the institutional setting in which they had exercised decisive power. Demobilization, relocation and the demand to accept Mongol superiority touched their personal survival as well as ideology. The political centre could thus support a settlement on paper while powerful armed groups prepared to resist its consequences. This contradiction explains why the end of one war was followed by a new conflict among Koreans and their allies, with Mongol intervention shaping both. The Sambyeolcho resistance cannot be understood without the contested settlement that preceded it."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.6:b08",
+      "title": "Who obtained relief",
+      "paragraphs": [
+        "A reduction in major campaigning did not instantly restore damaged fields, family networks or confidence in distant institutions. Rural households needed seed, animals and safe routes, while the court had to reconstruct revenue without driving survivors into further flight. Local leaders could interpret peace as an opportunity to rebuild, or as the arrival of new fiscal and human demands from a superior imperial power. The evidence survives unevenly: diplomatic agreements name rulers, but rehabilitation is often visible only through later administrative concern with population and land. The historian should not confuse the court's ability to negotiate a place in the Mongol world with proof that ordinary residents experienced immediate security or prosperity."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.6:b09",
+      "title": "An imperial succession shaped the bargain",
+      "paragraphs": [
+        "The divisions within Mongol leadership mattered to the outcome. Kubilai's need to secure authority created incentives to accept a compliant dynasty whose own institutions could administer its territory. Goryeo's representatives could turn this imperial calculation into a claim for continuity, even while acknowledging unequal power. Agreements made under such circumstances were vulnerable to reinterpretation as political conditions changed. Some elements of later Yuan domination were not automatically present in 1259. Retrospective dynastic histories can compress decades of evolving obligations into one story of submission. Keeping the negotiation's contingent context visible prevents the later system from being projected backward onto the conditions that ended open warfare."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.6:b10",
+      "title": "Peace as a constitutional turning point",
+      "paragraphs": [
+        "The settlement changed the problem of Goryeo government from resisting invasion to navigating an enduring hierarchy with a stronger neighbour. It redistributed political advantages within the court, ended the Choe monopoly and forced choices about territorial return and armed institutions. Neither military victory nor diplomatic surrender alone explains the result. The decisive combination involved enormous civilian cost, strategic deadlock, imperial reorganization and political change inside Goryeo. Its legacy was not simply a loss of freedom. The kingdom survived as a dynasty while becoming embedded in an imperial order that transformed royal marriages, diplomacy and the obligations imposed on subjects. This complex outcome requires following the story past the signature of peace."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original history · source-critical"
+    }
+  ]
+}
