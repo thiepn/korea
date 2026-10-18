@@ -1,0 +1,156 @@
+{
+  "id": "V.2.2",
+  "title": "The Royal Household, Queens, Princes, Marriage, and Succession",
+  "kicker": "GORYEO · MONARCHY AND GOVERNMENT",
+  "description": "Evidence-conscious political and social history of the royal household, queens, princes, marriage, and succession, with critical attention to retrospective dynastic sources.",
+  "release": "Y",
+  "sourceStatus": "Original historical synthesis with selected contextual source notes; not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History of Korea — Political Structure of Early Goryeo",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_013_0010",
+      "role": "Specialist institutional historical synthesis of Goryeo government"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Central Secretariat and Chancellery (중서문하성)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053786",
+      "role": "Institutional chronology and debates on functions and later reforms"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo (고려) — social and political interpretations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Broad historical survey; competing aristocratic versus bureaucratic interpretations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sikmok Dogam (식목도감)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032553",
+      "role": "Distinctive Goryeo conference institution; later institutional changes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Official performance evaluation (고과법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003313",
+      "role": "Appointments and changing methods of evaluating officials"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.2.2:b01",
+      "title": "Succession was a political process",
+      "paragraphs": [
+        "In a dynastic monarchy, succession connected household reproduction to the continuity of public authority. Goryeo kings had to identify legitimate heirs, negotiate the standing of consorts, and manage the claims of princes who often possessed influential maternal relatives. Neither biological descent nor a formal designation automatically resolved the political problem. Officials, military personnel, and aristocratic households could favor different candidates for reasons that combined constitutional language with practical expectations about appointments and security. The palace was therefore not merely a private environment whose disputes occasionally interrupted government. Recognition of a queen, the rank of a son, and the ceremonial treatment of a deceased relative could influence how factions justified authority at the center of the state."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions changed through time and must not be reconstructed from timeless office lists",
+          "sourceIndex": 0,
+          "locator": "Goryeo early political structure, institutional reorganization and the later central offices",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.2:b02",
+      "title": "Marriage as an instrument of integration",
+      "paragraphs": [
+        "The dynasty's early marriage politics reflected the need to incorporate powerful regional families and sustain the ruler's coalition. A marital connection could give a lineage prestige, access to the palace, and a stake in stability, but it could also strengthen rival branches of the royal household. The genealogical record foregrounds named elite women while obscuring the social conditions of most marriages outside court. It is tempting to describe women solely as passive links between male kin groups; that wording overlooks possibilities for personal influence and the political role of queens who protected children, patronized religious communities, or managed household affairs. Evidence for individual decisions must nonetheless be distinguished from the structural possibilities created by marriage alliances."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.2:b03",
+      "title": "The queen and the politics of recognition",
+      "paragraphs": [
+        "Titles held by queens and royal consorts mattered because they helped determine the ceremonial hierarchy of the palace and the recognized standing of descendants. Those distinctions could shift over a woman's lifetime and after death. Posthumous honors often served contemporary political purposes, enabling a new ruler to strengthen a maternal line or repair a disputed succession. A later chronicle may present such measures as moral judgments rather than as competitive acts of legitimation. The historian should therefore ask when a title was bestowed, who benefited from its recognition, and which officials supported or opposed it. These questions uncover the governmental dimension of family honor without implying that every royal woman exercised the same level of political influence."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.2:b04",
+      "title": "Princes, estates, and available careers",
+      "paragraphs": [
+        "Princes occupied a difficult position. Their birth offered exceptional prestige and access to resources, but multiple potential heirs threatened the stability of a reigning monarch. Some royal family members were drawn into office or command; others might be constrained or redirected toward religious or ceremonial roles. The particular arrangements varied across reigns and should not be reconstructed by applying a timeless rule. A prince's supporters could be animated by concerns about succession, local patronage, or rivalry with officials holding the king's confidence. Land grants and household resources could make a candidate capable of sustaining followers, although the documentary record seldom supplies a complete account of his dependents. This interdependence of family and state made every succession a test of political organization."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.2:b05",
+      "title": "The mother’s family and court politics",
+      "paragraphs": [
+        "Maternal relatives were often important in the networks surrounding a king or potential heir. Their influence could emerge through marriage arrangements, management of kinship obligations, and proximity to the palace. But describing a court as dominated by an in-law faction can flatten differences among individual members and ignore the participation of bureaucrats or soldiers who had their own interests. A familial relationship did not guarantee political unity. One relative might support a candidate as a matter of principle, another to secure appointment, and a third out of fear of a rival coalition. Chronicles usually record the outcomes of these conflicts more completely than the motives of minor participants. Responsible analysis separates kinship structure from specific claims about action."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.2:b06",
+      "title": "Ritual and the public memory of descent",
+      "paragraphs": [
+        "Genealogies, ancestral rites, and ceremonies for deceased rulers helped create a durable language of dynastic continuity. They were also occasions for political decision: the place of a deceased king in a lineage narrative could shape the standing of his descendants, and the forms used for mourning could become precedents in court debates. Royal ritual was not an empty spectacle detached from government; it made hierarchy visible and offered officials a vocabulary for praising or contesting legitimacy. The source problem is that later compilers often emphasize whether an act conformed to their preferred moral and ritual standards. Historians should reconstruct the contemporary setting before accepting retrospective judgments about correct family conduct."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.2:b07",
+      "title": "Military crisis and the vulnerability of kin",
+      "paragraphs": [
+        "Periods of internal conflict or foreign intervention could rapidly reshape the royal household. Rebellion might force a ruler into exile, expose consorts to danger, or elevate princes whose claims had previously been marginal. Under Mongol and Yuan influence, royal marriage and succession acquired an additional diplomatic dimension that could restrict the court's discretion. The lived experience of queens and children is only unevenly preserved; accounts highlight a handful of famous episodes and leave most private relationships obscure. It would be misleading to invent their feelings or treat every dynastic union as an expression of one uniform policy. Yet the institutional consequences of marriage and coercion are visible in titles, embassies, appointments, and disputes over recognition."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions changed through time and must not be reconstructed from timeless office lists",
+          "sourceIndex": 1,
+          "locator": "Goryeo early political structure, institutional reorganization and the later central offices",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.2:b08",
+      "title": "Women’s status and the danger of comparison",
+      "paragraphs": [
+        "Evidence from Goryeo inheritance and family practice suggests that gender arrangements differed in consequential ways from some later Joseon norms, but the royal household cannot simply stand for the experiences of all women. Queens and elite daughters had access to resources unavailable to servants or rural laborers. Moreover, scholarly comparisons must specify whether they concern property transmission, residence, ritual, or political decision-making. An inheritance practice with room for daughters did not eliminate patriarchal asymmetries or guarantee equal authority. Royal family history is most useful when it examines particular legal and customary arrangements rather than issuing a broad verdict about a more liberated or more oppressive age. That demands attention to differences within the dynasty and across class."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.2:b09",
+      "title": "The archive favors successful claims",
+      "paragraphs": [
+        "A surviving royal genealogy reflects the historical importance later authors attached to particular lines. Those whose claims failed, whose descendants lost power, or whose marriages were politically inconvenient may appear only briefly or through hostile accounts. Court chronicles can make succession look like a series of inevitable victories by legitimate heirs, whereas participants faced uncertainty and alternatives. An historian should preserve the difference between a title granted before a crisis and a title assigned afterward. When examining an alleged usurpation, it is useful to ask what evidence comes from the victor's administration. Such source criticism neither proves every accusation false nor makes all claimants equivalent; it simply keeps political success from becoming the definition of original legitimacy."
+      ],
+      "sequence": 9,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.2:b10",
+      "title": "Kinship as an institution of government",
+      "paragraphs": [
+        "The royal household linked the intimate scale of marriage and parenthood to the public processes of appointment, diplomacy, and political survival. Its members were not outside the state; their status was produced and regulated partly through official decisions. At the same time, the court could not eliminate the obligations and ambitions generated by kinship. Some conflicts were managed through planned succession, ceremonies, or negotiated marriages; others erupted into confrontations that changed the balance between rulers, ministers, and commanders. A history of Goryeo monarchy that excludes queens and princes loses one of the principal mechanisms through which power moved. A history that treats them only as political instruments loses the complexity of the surviving evidence."
+      ],
+      "sequence": 10,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    }
+  ]
+}

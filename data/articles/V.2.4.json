@@ -1,0 +1,156 @@
+{
+  "id": "V.2.4",
+  "title": "Royal Secretariats, Censorial Institutions, and Remonstrance",
+  "kicker": "GORYEO · MONARCHY AND GOVERNMENT",
+  "description": "Evidence-conscious political and social history of royal secretariats, censorial institutions, and remonstrance, with critical attention to retrospective dynastic sources.",
+  "release": "Y",
+  "sourceStatus": "Original historical synthesis with selected contextual source notes; not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History of Korea — Political Structure of Early Goryeo",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_013_0010",
+      "role": "Specialist institutional historical synthesis of Goryeo government"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Central Secretariat and Chancellery (중서문하성)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053786",
+      "role": "Institutional chronology and debates on functions and later reforms"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo (고려) — social and political interpretations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Broad historical survey; competing aristocratic versus bureaucratic interpretations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sikmok Dogam (식목도감)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032553",
+      "role": "Distinctive Goryeo conference institution; later institutional changes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Official performance evaluation (고과법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003313",
+      "role": "Appointments and changing methods of evaluating officials"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.2.4:b01",
+      "title": "Why rulers needed internal critics",
+      "paragraphs": [
+        "Goryeo's monarchy developed institutions for receiving counsel, transmitting decisions, and scrutinizing official conduct. These functions could strengthen royal administration by making information and complaints visible, but they also gave officeholders a basis for objecting to the king or influential ministers. The existence of a censorial title does not prove that every criticism was effective, nor does a chronicle's report of a brave remonstrance prove that the court routinely tolerated dissent. An institutional account asks who could speak, through which channel, with what authority, and at what political risk. It also distinguishes formal offices from personal influence at court. The history of scrutiny therefore belongs within an examination of power rather than in a celebratory story of an early constitutional separation of powers."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions changed through time and must not be reconstructed from timeless office lists",
+          "sourceIndex": 0,
+          "locator": "Goryeo early political structure, institutional reorganization and the later central offices",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.4:b02",
+      "title": "Secretaries and the machinery of instruction",
+      "paragraphs": [
+        "Royal secretariats operated near the practical center of decision-making. Petitions had to be presented; written orders needed drafting and transmission; appointments and fiscal decisions required record keeping. The personnel controlling these flows could influence which matters reached the ruler and how they were framed. Such influence was not equivalent to independent sovereignty, yet it made the secretariat consequential during moments when competing groups sought royal approval. Administrative historians must distinguish the statutory function of an office from the actual practices of an individual official. Similar titles could have changing duties across reigns, and retrospective institutional descriptions may combine arrangements from several periods. Following the movement of a document can be more revealing than treating an office chart as a timeless constitution."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.4:b03",
+      "title": "The censorate and official accountability",
+      "paragraphs": [
+        "Censorial authorities were expected to inspect misconduct, criticize abuses, and sometimes participate in debates over personnel or policy. The moral language of upright government gave such interventions legitimacy, particularly when officials portrayed their objections as protecting the ruler from bad counsel. But censorial offices were staffed by men shaped by family, education, and political connections. Their criticisms could target genuinely harmful practices, defend a faction, or serve several purposes at once. Dismissing every remonstrance as self-interest is as simplistic as accepting all of them at face value. The institution's value lay partly in generating a public record of contested decisions, though that record is skewed toward affairs important enough to enter elite chronicle narratives."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.4:b04",
+      "title": "Remonstrance as a moral performance",
+      "paragraphs": [
+        "An official urging a king to reconsider a decision was performing an act with ceremonial and literary as well as political meaning. The language of classical governance made it possible to present criticism as loyalty to the realm rather than hostility to the person of the monarch. Such speeches are often preserved in histories precisely because later compilers valued them as examples of virtuous service. The polished narrative may compress debate, paraphrase an intervention, or give prominence to a protagonist approved by subsequent writers. To study remonstrance responsibly, a historian should locate the immediate policy issue, the speaker's position, the audience, and the transmission of the text. Moral rhetoric is historical evidence, but not a transparent recording of all motives."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.4:b05",
+      "title": "Censorship, petition, and unequal access",
+      "paragraphs": [
+        "Formal avenues of complaint should not be equated with universal participation in government. A local resident seeking to challenge a magistrate faced barriers of geography, literacy, money, official procedure, and status. Even when petitions could move upward through administrative channels, officials might filter or reinterpret their contents. The historian has more information about the people authorized to receive petitions than about all those who attempted to submit them. Cases preserved as exemplary judgments may be exceptional precisely because they were memorable. A history of accountability must therefore include the social distribution of access to the state. Institutional procedures could improve redress while still privileging certain households and professions."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.4:b06",
+      "title": "Collective councils and statecraft",
+      "paragraphs": [
+        "Goryeo created distinctive conference bodies alongside institutions modeled on continental practice. The Dobyeongmasa addressed military and frontier matters, while the Sikmok Dogam deliberated legal and ceremonial regulations, according to the Academy of Korean Studies. These bodies gathered senior participants whose influence depended on rank and political circumstance. Their existence complicates a simple division between an all-powerful king and a passive official hierarchy. Councils could bring expertise and elite consensus into decisions, but collective deliberation might also entrench the standing of powerful families. The relationship among the royal will, ministerial negotiation, and formal office changed across the dynasty. No single institutional diagram captures every phase."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.4:b07",
+      "title": "The changing weight of consultation",
+      "paragraphs": [
+        "Military governments, Mongol pressure, reforms, and transformations in central office titles altered how political consultation operated. In later Goryeo the successor to the Dobyeongmasa, the Dopyeonguisasa, acquired substantial authority, reducing the practical significance of some earlier arrangements. This change makes it hazardous to apply an eleventh-century description to a fourteenth-century crisis. Institutions did not simply accumulate: functions could migrate, be duplicated, or become largely honorific. A critical chronology links each form of consultation to the political actors capable of using it. It also asks how the administrative vocabulary was adapted to new external relationships, especially where Yuan-era interventions shaped the privileges of officials and the court."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions changed through time and must not be reconstructed from timeless office lists",
+          "sourceIndex": 1,
+          "locator": "Goryeo early political structure, institutional reorganization and the later central offices",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.4:b08",
+      "title": "Documents and their missing audiences",
+      "paragraphs": [
+        "Official records make some interactions between king and minister recoverable but rarely preserve every conversation that shaped a decision. A formal memorial may have followed weeks of lobbying or informal contact; a royal answer might be delayed while factions sought support. The surviving text is therefore one stage of a political process, not necessarily its complete cause. Some documents were copied into later chronicles, which can change their emphasis through selection and placement. Others survive only by title or indirect citation. Historians should not turn a preserved eloquent speech into a universally representative institutional practice. Comparing administrative rules with narrative episodes and the biographies of participants provides a more cautious reconstruction."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.4:b09",
+      "title": "The contradiction of moral and practical power",
+      "paragraphs": [
+        "Offices charged with criticism could be simultaneously dependent on royal appointment and expected to challenge royal decisions. This tension was not merely a defect: it was one way a monarchy organized the relationship between legitimacy and effective action. Kings could gain information through remonstrance while seeking to limit challenges that threatened particular policies. Officials could invoke shared values while competing over resources or rank. The historian should therefore avoid measuring success by whether the institution resembled a modern independent judiciary or legislature. Its historical question is how criticism was authorized, who deployed it, and when it made decisions more accountable or more vulnerable to factional capture."
+      ],
+      "sequence": 9,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.4:b10",
+      "title": "Government as a conversation under constraint",
+      "paragraphs": [
+        "The political order of Goryeo included commands and compliance, but also petitions, review, bargaining, refusals, and negotiated compromise. Secretariat and censorial institutions illuminate these less visible dimensions of monarchy. Their authority depended on written practices, shared ethical languages, and the personal standing of officeholders; none guaranteed that justice prevailed in every province. They should be read as institutions with histories of change, not as settled expressions of a single bureaucratic ideal. The subsequent examination of local administration, legal enforcement, and taxation shows why these central conversations mattered: policy only became government when officials and communities turned documents into action across distance."
+      ],
+      "sequence": 10,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    }
+  ]
+}

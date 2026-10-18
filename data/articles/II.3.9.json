@@ -1,0 +1,126 @@
+{
+  "id": "II.3.9",
+  "title": "Contraction, Reorganization, and the Commanderies around 300 CE",
+  "kicker": "HAN COMMANDERIES · MATERIAL AND TEXTUAL SOURCES",
+  "description": "Original source-critical study of contraction, reorganization, and the commanderies around 300 ce, evaluating Han and Korean historiography alongside archaeological evidence.",
+  "release": "Y",
+  "sourceStatus": "Original historical synthesis; selected contextual references are not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Ancient Korean Society and Lelang",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Modern institutional survey of the Han commanderies"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Lelang Commandery (낙랑군) — historiography and evidence",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011576",
+      "role": "Historiographical overview; includes interpretive disagreements and archaeological limits"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Lelang official inscribed roof-end tile",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0402000000.do?relicId=1874&schM=view&searchId=search",
+      "role": "Material proof of administrative inscription; not a territorial border"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daifang Commandery (대방군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014398",
+      "role": "Later reorganization and changing northeastern geopolitics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Eunyul Gwansan-ri tombs",
+      "url": "https://encykorea.aks.ac.kr/Article/E0042852",
+      "role": "Dated mortuary archaeology; limited excavation sample"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.3.9:b01",
+      "title": "The commanderies did not decline together",
+      "paragraphs": [
+        "The most misleading account of the commandery system is one in which four original units survive unchanged from Han victory until a single final conquest. The earliest consolidation occurred within decades of the founding, and subsequent reforms altered jurisdiction, regional authority, and relationships with nearby groups. Lelang's long survival contrasts with the shorter history of Zhenfan and Lintun. The Han center itself changed through dynastic crises and the politics of provincial governors, while northwestern Korea saw the growth of other political formations. What appears on a simplified map as an enclave of Chinese government was therefore a changing array of institutions, clients, military capacities, and commercial ties. A chronological history must restore those different clocks."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretation of historical sources and material evidence must be distinguished from direct historical testimony",
+          "sourceIndex": 0,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.9:b02",
+      "title": "The later Han and northern instability",
+      "paragraphs": [
+        "As imperial power shifted during the Eastern Han and the turmoil that followed, regional officers faced increasing incentives to secure resources and govern with less effective supervision from the distant center. The development should not be narrated as a simple disappearance of the Han world, because institutional terminology and cultural practices persisted. But political initiative could pass to provincial strongmen and new courts. The northeastern frontier became particularly sensitive to changes in Liaodong, where access to transport and military support shaped what commandery administrators could attempt. The printed name of an office may survive after the practical conditions that once sustained it have been transformed. This distinction is central to interpreting later records."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.9:b03",
+      "title": "Daifang and the early third century",
+      "paragraphs": [
+        "The establishment of Daifang by the Gongsun regional regime, generally placed in the early third century, indicates another attempt to reorganize authority south of Lelang. The Academy of Korean Studies describes the development as part of renewed military and diplomatic efforts toward surrounding groups. Daifang's later references to southern polities and the archipelago do not demonstrate continuous direct administration across those distant areas. Rather, a new jurisdiction sought to manage relations, traffic, and strategic influence. The exact geography of the relevant counties remains disputed in places, partly because ancient place names are correlated with later administrative units. Daifang should be understood as a political response to a particular regional conjuncture, not an automatic reproduction of the administrative ambitions of 108 BCE."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.9:b04",
+      "title": "Wei, Jin, and the change in imperial patrons",
+      "paragraphs": [
+        "The fall of the Gongsun regime to Cao Wei in 238 brought northern commandery politics into a different continental imperial framework. Later Jin succession and frontier disorder again changed the resources available to officials. At each transition it is important to distinguish formal sovereignty from the presence of local officeholders and the endurance of particular settlements. A commandery might still issue instructions or serve as a diplomatic station while its ability to project military power deteriorated. The history of Lelang and Daifang in the third century is therefore inseparable from the shifting political geography of northeast China, but it cannot be explained only by events at distant capitals. Regional communities were making decisions under those altered conditions."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretation of historical sources and material evidence must be distinguished from direct historical testimony",
+          "sourceIndex": 1,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.9:b05",
+      "title": "The Goguryeo advance and the end of Lelang",
+      "paragraphs": [
+        "The conventional end date for Lelang is 313 CE, when Goguryeo displaced the surviving commandery order in its northwestern core. This is an important institutional turning point, but the documentary shorthand must not imply that all residents were expelled or that every previously learned practice disappeared. Political authority could be replaced more quickly than patterns of farming, craftwork, personal affiliation, or exchange. The transformation also opened new possibilities for Goguryeo to project authority southward, though later contest with Baekje and others shows that no enduring settlement was guaranteed. Excavated materials whose dates straddle this transition invite investigation of continuity as well as change, not an automatic division between foreign and indigenous objects."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.9:b06",
+      "title": "The burden of exact dates",
+      "paragraphs": [
+        "Dates such as 82 BCE, the relocation of Xuantu, the creation of Daifang, or the loss of Lelang appear precise in chronologies but often condense complex administrative processes. A decree or military victory is an event; the implementation of a jurisdictional reform may have taken longer and varied across districts. Some sources were compiled long after the events they describe and may arrange them according to dynastic narrative priorities. Archaeological phase dating operates at yet another resolution. Where a tomb can be dated only within a range, its furnishings cannot be used to prove that a political reform took effect on an exact day. Maintaining those distinctions prevents scholarship from attaching false precision to a changing frontier."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.9:b07",
+      "title": "Afterlife of institutions and contacts",
+      "paragraphs": [
+        "The commandery system's disappearance did not erase the northeastern circulation of goods, texts, people, or institutional models. Later Korean polities drew on multiple channels of knowledge, including direct continental contact and the cultural practices of communities that had lived under earlier jurisdiction. The surviving archaeological landscape likewise preserves continuities that cross administrative boundaries. A nuanced account avoids both the claim that local societies were passive recipients and the opposite assumption that conquest left no enduring legacies. The final chapter of commandery history is a study of political replacement, material adaptation, and changing regional power: an imperial institution could vanish even while practices associated with its long presence entered new and locally directed forms."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}

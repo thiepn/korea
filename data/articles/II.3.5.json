@@ -1,0 +1,120 @@
+{
+  "id": "II.3.5",
+  "title": "Agriculture, Workshops, Markets, and Commandery Economy",
+  "kicker": "HAN COMMANDERIES · SOURCE-CRITICAL HISTORY",
+  "description": "Original evidence-conscious historical study of agriculture, workshops, markets, and commandery economy, emphasizing frontier encounters, institutional change, archaeology and the limits of retrospective sources.",
+  "release": "Y",
+  "sourceStatus": "Original synthesis with selected contextual anchors, not independent peer-reviewed source-by-source verification.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea — Ancient Korean Society and the Lelang Commandery",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional historical synthesis; not direct testimony of conquered groups"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Lelang Commandery (낙랑군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011576",
+      "role": "Historical encyclopedia discussion of offices, local societies and historiographic debate"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Lelang inscribed roof-end tile, collection Jeongnae2",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0402000000.do?relicId=1874&schM=view&searchId=search",
+      "role": "Excavated material culture demonstrating an administrative context; not a comprehensive census"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Zhenfan (진번군), Lintun (임둔군), and Xuantu (현도군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054690",
+      "role": "Specialist encyclopedia treatment of contested geography; other entries required for different commanderies"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.3.5:b01",
+      "title": "Administrative towns had to eat",
+      "paragraphs": [
+        "A commandery center required food, fuel, building materials, textiles, metalwork, and transport. Officials and soldiers could not operate through documents alone; their daily presence generated demands that connected towns with farms, workshops, river ports, and intermediary settlements. The degree to which those needs were satisfied by taxes, requisitions, official estates, or commerce cannot be calculated confidently for every district. Han administrative comparisons provide models for offices and procedures, not a ledger of what happened in each Lelang household. Archaeological attention to habitation debris, tool assemblages, kilns, and storage facilities may begin to identify actual production patterns. These practices link the history of imperial jurisdiction to the labor and resources of communities otherwise almost absent from elite narrative accounts."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional sources distinguish documented commandery institutions from contested reconstructions",
+          "sourceIndex": 0,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.5:b02",
+      "title": "Fields, climate, and provincial obligations",
+      "paragraphs": [
+        "Agriculture depended on the same environmental conditions that shaped the pre-conquest northwest: rainfall, river terraces, seasonal frost, available soils, and the organization of human labor. New fiscal demands could intensify the value of measuring fields, recording households, and collecting provisions. Yet evidence for specific Han agrarian techniques cannot simply be projected across the entire peninsula from a Chinese handbook. A tool resembling a continental form may suggest technical contact, while successful cultivation still depended on local expertise and adaptation. If a farming settlement provided grain to a garrison, the burden might fall differently on landlords, household members, and hired or dependent workers. Without household-level documents, such distinctions remain analytical possibilities rather than established figures."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.5:b03",
+      "title": "Workshops and the attraction of official demand",
+      "paragraphs": [
+        "Building administrative compounds and furnished tombs required roof tiles, bricks, timber joinery, metal fittings, lacquer vessels, and textiles. Specialist production could develop around predictable demand from officials and affluent families, whether the workers were attached to institutions, employed by intermediaries, or producing for wider sale. A decorated tile or finely finished lacquer object has an identifiable material history but not an automatic label stating the organization of its labor force. The National Museum of Korea's inscribed roof tile from Lelang is particularly instructive: it documents an administrative context and a developed ceramic technology, but it cannot by itself establish how many workshops supplied the area. Reconstructing production therefore requires associations among objects, production waste, tools, and the spatial organization of settlements."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.5:b04",
+      "title": "Market relations and coercion",
+      "paragraphs": [
+        "Taxes and markets often operated together rather than as opposed economic systems. A family owing provisions might acquire part of its obligation through exchange, while an official household might purchase materials not supplied through administrative channels. Powerful intermediaries could profit from transport, storage, or access to state demand. The archaeological discovery of a commodity far from its place of manufacture demonstrates movement; it rarely specifies the bargaining conditions or legal status of the parties involved. This matters because describing long-distance circulation as flourishing trade can conceal unequal power. Equally, assuming that every exchange was compulsory obscures the choices and expertise of local merchants, boat operators, and craft producers."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional sources distinguish documented commandery institutions from contested reconstructions",
+          "sourceIndex": 1,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.5:b05",
+      "title": "Money, measurement, and account keeping",
+      "paragraphs": [
+        "Coinage, scales, seals, inscriptions, and standardized objects point toward practices by which authorities or traders measured value and recorded obligations. Their presence should not be equated with a universally monetized economy. People might settle different transactions in grain, labor, objects, or coins according to circumstance. Writings transmitted from the Han empire describe a fiscal state skilled in classification and reporting, but their institutional ideals did not guarantee uniform application at the northeastern edge. A materially grounded economic history asks where standard forms were actually found and how their locations corresponded to burials, settlements, and transport routes. Absence of a coin from a rural excavation does not prove that its residents lacked relationships with monetized markets."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.5:b06",
+      "title": "The household behind the archaeological assemblage",
+      "paragraphs": [
+        "A workshop display often isolates a beautiful finished object from the food prepared, children cared for, timber transported, and tools repaired to make its production possible. Families could combine cultivation with seasonal craftwork or transport, and a member's work might take place beyond the residential settlement. Archaeology sometimes recognizes these connections through household size, features, and concentrations of manufacturing debris. But the gender or legal status of a worker cannot be securely reconstructed from a spindle whorl or iron implement alone. Treating the commandery economy as a network of laboring households makes its practical operation visible while keeping personal stories within the limits of surviving evidence."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.5:b07",
+      "title": "Economic consequences beyond Lelang",
+      "paragraphs": [
+        "Demand from a major administrative and commercial center could affect communities beyond its jurisdiction. Goods might pass along rivers, overland paths, and coastal routes to groups negotiating with, trading through, or resisting imperial representatives. Local elites could acquire prestige items without placing their settlements under direct Han county government. Such exchanges complicate simple equations between the spread of objects and the extension of administrative territory. Over time, as the commandery system contracted, some connections persisted while others were redirected to emerging regional courts. Economic change was therefore an uneven process embedded in social bargaining, not an automatic transfer of an entire continental system into a passive peninsula."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}

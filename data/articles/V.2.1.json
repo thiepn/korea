@@ -1,0 +1,156 @@
+{
+  "id": "V.2.1",
+  "title": "Kingship, Royal Ideology, and the Political Meaning of the Goryeo Monarchy",
+  "kicker": "GORYEO · MONARCHY AND GOVERNMENT",
+  "description": "Evidence-conscious political and social history of kingship, royal ideology, and the political meaning of the goryeo monarchy, with critical attention to retrospective dynastic sources.",
+  "release": "Y",
+  "sourceStatus": "Original historical synthesis with selected contextual source notes; not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History of Korea — Political Structure of Early Goryeo",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_013_0010",
+      "role": "Specialist institutional historical synthesis of Goryeo government"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Central Secretariat and Chancellery (중서문하성)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053786",
+      "role": "Institutional chronology and debates on functions and later reforms"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo (고려) — social and political interpretations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Broad historical survey; competing aristocratic versus bureaucratic interpretations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sikmok Dogam (식목도감)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032553",
+      "role": "Distinctive Goryeo conference institution; later institutional changes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Official performance evaluation (고과법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003313",
+      "role": "Appointments and changing methods of evaluating officials"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.2.1:b01",
+      "title": "The Goryeo king as a political center",
+      "paragraphs": [
+        "Goryeo kingship developed from a tenth-century project of political consolidation in a peninsula recently divided among successor states. Wang Geon's accession in 918 and the subsequent unification of rival territories established a monarchy that had to negotiate the standing of regional leaders, powerful households, military commanders, and religious institutions. The ruler was the formal center of appointments and state ritual, but formal sovereignty did not automatically imply unquestioned personal command. Royal policy required consultation, record production, and alliances capable of persuading families with land and retainers to support the court. Describing Goryeo as either an absolute monarchy or a disguised aristocratic republic oversimplifies its changing arrangements. A political history must investigate how royal authority was exercised under differing circumstances, not infer actual command from titles alone."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions changed through time and must not be reconstructed from timeless office lists",
+          "sourceIndex": 0,
+          "locator": "Goryeo early political structure, institutional reorganization and the later central offices",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.1:b02",
+      "title": "A dynasty born through accommodation",
+      "paragraphs": [
+        "The early Goryeo court inherited an uneven territorial landscape and depended on relationships developed before unification. Marriage, recognition of local standing, redistribution of honors, and the granting of office helped integrate former rivals. Such policies could consolidate power while leaving strong families with the means to pressure later rulers. A ruler who assembled legitimacy through compromise might be remembered by descendants as the founder of a unified order, but the historical process was more contingent. The relationship between local elites and the king was not always adversarial: central recognition might strengthen a lineage, while that lineage furnished resources for military defense and administration. The monarchy's strength was thus partly made through negotiated obligations that became harder to control when influential descendants formed durable court networks."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.1:b03",
+      "title": "Confucian concepts and the practice of ruling",
+      "paragraphs": [
+        "Goryeo rulers drew increasingly on continental bureaucratic and Confucian categories to describe appointments, moral government, and the responsibilities of officials. The political reforms associated with Seongjong belong within that development, including the reorganized secretariats and ministries. These ideas offered ways to evaluate a ruler and to frame criticism as service to the realm. They did not replace royal ritual, dynastic memory, or Buddhist patronage. A proclamation praising benevolent government has to be studied as a normative intervention rather than evidence that its ideal had been realized throughout the countryside. The value of political vocabulary lies in its ability to organize claims and disputes: ministers could challenge particular measures precisely by appealing to a shared understanding of what responsible kingship required."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.1:b04",
+      "title": "Buddhist protection and public authority",
+      "paragraphs": [
+        "Royal support for Buddhist communities was more than private piety, although the beliefs of individuals could be deeply sincere. Temple patronage, ritual ceremonies, textual production, and the protection of sacred establishments could project dynastic legitimacy and create networks of learning and resources. Different rulers supported different institutions, and monastic communities were not politically identical. The court could value prayers for the realm while disputing the allocation of labor or land to religious estates. A description of a Buddhist monarchy should therefore avoid treating religion as a decorative layer placed on top of an otherwise secular bureaucracy. Royal ideology incorporated multiple kinds of authority, and those sources might coexist, reinforce one another, or produce tension over resources and public duty."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.1:b05",
+      "title": "The royal household as government",
+      "paragraphs": [
+        "Queens, princes, in-laws, and palace attendants were participants in the practical politics of Goryeo kingship. Marriage could create alliances among lineages and affect claims to succession, while the status of a mother or a consort shaped the opportunities available to her children. A palace network could help transmit petitions and information outside the formal ministerial route. Yet these relationships did not necessarily escape official administration: titles, ceremonies, and recognition of heirs were themselves matters of state. Sources compiled by later officials tend to describe royal family crises as lessons in proper conduct, which can obscure the competing obligations felt by their participants. Kinship and bureaucracy must be studied together to explain court decisions."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.1:b06",
+      "title": "Royal movement and the geography of rule",
+      "paragraphs": [
+        "The political world of the monarchy extended beyond the principal capital at Gaegyeong. Secondary capitals, ceremonial journeys, military frontiers, and regional institutions connected the royal court to different landscapes. Travel required supplies, security, local cooperation, and ritual preparation; this could make a ruler's appearance a consequential event for residents along the route. At the same time, the ability to announce oversight in a province did not prove daily administrative access to every settlement. Some communities encountered royal authority mainly through officials, military requisitions, or tax demands. Placing kingship within geography prevents narratives of palace decisions from floating above the material work needed to sustain a realm."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.1:b07",
+      "title": "Foreign recognition and diplomatic autonomy",
+      "paragraphs": [
+        "Goryeo's rulers managed relationships with Khitan Liao, Song China, Jurchen groups, and later the Mongol empire and Yuan court. Diplomatic titles and ritual formulas mattered, yet they did not always map directly onto the internal political authority of the monarchy. The same king could seek external peace while asserting independence in domestic succession and appointments. Military defeat could sharply reduce that freedom, and royal marriages into the Yuan ruling family introduced new forms of constraint. Rather than assuming Goryeo possessed one immutable diplomatic status, historians should specify the period and the practice being discussed. The monarchy's ideological vocabulary and institutional choices changed when external power was able to intervene directly in affairs once settled at court."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions changed through time and must not be reconstructed from timeless office lists",
+          "sourceIndex": 1,
+          "locator": "Goryeo early political structure, institutional reorganization and the later central offices",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.1:b08",
+      "title": "Crises that exposed the limits of the throne",
+      "paragraphs": [
+        "Palace disputes, succession struggles, aristocratic confrontations, and the 1170 military coup illustrate moments when the principle of royal supremacy failed to secure obedience. A king might retain ritual status while effective decisions were controlled by military leaders or other powerful actors. Accounts written from the perspective of later restoration or reform could portray those disruptions as departures from an imagined proper order. Yet the causes involved structural interests: access to office, distribution of resources, rivalry between civil and military personnel, and the authority of individual commanders. Examining these constraints does not negate the monarchy's institutional significance. It clarifies the distinction between a symbol of continuity and the practical capacity to decide among competing claimants."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.1:b09",
+      "title": "Sources, royal chronicles, and retrospective moralization",
+      "paragraphs": [
+        "Much of Goryeo political history is known through the Goryeosa and Goryeosa Jeolyo, compiled under Joseon after the dynasty's fall. These texts preserve invaluable earlier material while arranging the past through categories meaningful to their later editors. Moral judgments about ministers, kings, and ritual propriety may reveal as much about the compilers' ideological preferences as about an event's contemporary meaning. Other forms of evidence, including inscriptions, diplomatic accounts, and surviving administrative documents, permit partial comparison. A source-conscious synthesis does not discard the retrospective histories; it asks which sections may preserve earlier records and where narrative organization or evaluative language requires caution. Silence about ordinary subjects is especially important when reconstructing the burdens of royal policy."
+      ],
+      "sequence": 9,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.1:b10",
+      "title": "A monarchy of changing relationships",
+      "paragraphs": [
+        "The historical identity of Goryeo kingship cannot be reduced to one political formula. Its legitimacy rested on foundation narratives, ritual, negotiated elite participation, learned bureaucratic categories, religious patronage, and the ruler's ability to respond to external danger. Different combinations mattered under different kings. Institutions developed to make governance routine, but those same institutions supplied officials with collective standing from which to resist some royal ambitions. The household could be a resource and a source of danger; military service could defend the dynasty and threaten its ruler. Reading kingship as a changing set of relationships provides a framework for the government, law, society, and regional administration examined across the rest of the Chapter."
+      ],
+      "sequence": 10,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    }
+  ]
+}

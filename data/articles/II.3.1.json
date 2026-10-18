@@ -1,0 +1,120 @@
+{
+  "id": "II.3.1",
+  "title": "Establishment of the Four Han Commanderies",
+  "kicker": "HAN COMMANDERIES · SOURCE-CRITICAL HISTORY",
+  "description": "Original evidence-conscious historical study of establishment of the four han commanderies, emphasizing frontier encounters, institutional change, archaeology and the limits of retrospective sources.",
+  "release": "Y",
+  "sourceStatus": "Original synthesis with selected contextual anchors, not independent peer-reviewed source-by-source verification.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea — Ancient Korean Society and the Lelang Commandery",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional historical synthesis; not direct testimony of conquered groups"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Lelang Commandery (낙랑군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011576",
+      "role": "Historical encyclopedia discussion of offices, local societies and historiographic debate"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Lelang inscribed roof-end tile, collection Jeongnae2",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0402000000.do?relicId=1874&schM=view&searchId=search",
+      "role": "Excavated material culture demonstrating an administrative context; not a comprehensive census"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Zhenfan (진번군), Lintun (임둔군), and Xuantu (현도군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054690",
+      "role": "Specialist encyclopedia treatment of contested geography; other entries required for different commanderies"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.3.1:b01",
+      "title": "The conquest and the frontier",
+      "paragraphs": [
+        "The Han campaign against Wiman Joseon culminated in 108 BCE after a conflict described principally in imperial historical writing. What these accounts represent as the restoration of order on an unruly frontier was also the defeat of an established political system with its own relationships among local leaders, communities, and maritime exchanges. A change in sovereign authority did not erase the people or institutions of the previous polity overnight. The destruction of Wanggeom-seong and the establishment of new administrative units should therefore be distinguished from the slower transformation of settlement, landholding, marriage, and commercial habits. The surviving narrative offers a detailed viewpoint from the Han court but far less testimony from those who had to negotiate the transition."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional sources distinguish documented commandery institutions from contested reconstructions",
+          "sourceIndex": 0,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.1:b02",
+      "title": "Four names, different institutional lives",
+      "paragraphs": [
+        "The conventional expression Four Han Commanderies names Lelang, Xuantu, Zhenfan, and Lintun as part of the post-conquest settlement. It can misleadingly imply four equally established, geographically stable provinces governed for the same length of time. Their records and archaeological visibility differ sharply. The two shorter-lived commands were absorbed in the early first century BCE; Xuantu's administrative center moved after substantial frontier pressure; Lelang remained the most durable administrative center in the northwest. A map showing four fixed blocks across several centuries collapses a sequence of reforms and conflicts into one artificial instant. Every territorial reconstruction should specify both its date and whether its boundary comes from an excavated object, transmitted textual name, or modern scholarly approximation."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.1:b03",
+      "title": "What a commandery governed",
+      "paragraphs": [
+        "A commandery was a jurisdiction in an imperial hierarchy, not simply a garrison stamped on a foreign landscape. It claimed authority over subordinate counties, their officers, tax obligations, reports, and local disputes; it also connected an administrative hub to provincial and metropolitan communication. The institution could be more visible in a capital and nearby transport corridor than in mountainous and distant communities. Ancient official lists name offices and counties but do not reveal how reliably every office exercised power at every moment. Military pressure, political negotiation, and the participation of influential local households were necessary to make administrative language effective. Understanding the commandery requires attention to the distance between the state's jurisdictional claims and its uneven capacity to enforce them."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.1:b04",
+      "title": "Place names and the limits of maps",
+      "paragraphs": [
+        "Names preserved in the Han histories are essential evidence, yet their location is not self-evident. Rivers have changed course, historical place names have been reused, and the spatial units covered by an ancient county may not correspond to a modern district. For Lelang, inscriptions and tomb clusters around the Pyongyang area strongly shape prevailing archaeological interpretations; for several other commanderies the relevant locations remain more disputed. Scholars have advanced incompatible identifications, sometimes using the same text to defend different routes or provincial centers. Rather than turning one reconstruction into an unqualified map, an accountable narrative identifies stronger and weaker anchors. This matters particularly where modern national borders encourage readers to project familiar territorial ideas backward into ancient administrative geography."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional sources distinguish documented commandery institutions from contested reconstructions",
+          "sourceIndex": 1,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.1:b05",
+      "title": "Conquest and local partnership",
+      "paragraphs": [
+        "Imperial officials could not administer the peninsula merely by importing clerks. They encountered families with inherited standing, cultivators with knowledge of fields and waterways, craft producers, and brokers who already understood existing exchanges. Some local elites may have gained advantages through positions, marriage, or trade under the new jurisdiction; others confronted coercion or lost access to authority. The archaeological record can indicate new wealth distributions without identifying the personal intentions of each buried individual. Terms such as assimilation and resistance conceal numerous intermediate choices: cooperation in one dispute, concealment of resources in another, or adoption of new writing techniques while maintaining local ritual. The transformation was neither uniform displacement nor an effortless fusion of populations."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.1:b06",
+      "title": "The evidence of records and objects",
+      "paragraphs": [
+        "The principal narrative of the conquest survives through imperial historiography, written for readers interested in Han governance and military legitimacy. County lists, official titles, and later geographical notices provide different kinds of information, while graves, roof tiles, and objects reveal the material infrastructure of rule. An inscribed roof-end tile referring to a Lelang official function is particularly important because an excavated administrative label can corroborate the existence of an institutional setting without confirming every claim of a chronicle. The date, original context, and modern history of an excavated item still require scrutiny. Contradictions among these records are research problems, not invitations to select whichever testimony produces a preferred national storyline."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.1:b07",
+      "title": "The long aftermath",
+      "paragraphs": [
+        "The creation of commanderies altered relations among northwestern settlements, communities farther east, and southern polities whose rulers sought trade and recognition. Yet the four original names were not all lasting fixtures; consolidation and relocation began within a few decades. The developments that eventually facilitated Goguryeo's advance belong to a much longer political history than the moment of Han victory. Studying the founding settlement as a contingent arrangement restores the alternatives that contemporaries faced: direct rule in some locations, delegated authority in others, and contested exchange at the fringes. Its significance lies not in proving that all of early Korea followed a prewritten path toward states, but in explaining how imperial administration became one actor among several powerful forces in northeast Asia."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}

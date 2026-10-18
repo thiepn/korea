@@ -1,0 +1,120 @@
+{
+  "id": "II.3.3",
+  "title": "Xuantu, Zhenfan, and Lintun",
+  "kicker": "HAN COMMANDERIES · SOURCE-CRITICAL HISTORY",
+  "description": "Original evidence-conscious historical study of xuantu, zhenfan, and lintun, emphasizing frontier encounters, institutional change, archaeology and the limits of retrospective sources.",
+  "release": "Y",
+  "sourceStatus": "Original synthesis with selected contextual anchors, not independent peer-reviewed source-by-source verification.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea — Ancient Korean Society and the Lelang Commandery",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional historical synthesis; not direct testimony of conquered groups"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Lelang Commandery (낙랑군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011576",
+      "role": "Historical encyclopedia discussion of offices, local societies and historiographic debate"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Lelang inscribed roof-end tile, collection Jeongnae2",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0402000000.do?relicId=1874&schM=view&searchId=search",
+      "role": "Excavated material culture demonstrating an administrative context; not a comprehensive census"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Zhenfan (진번군), Lintun (임둔군), and Xuantu (현도군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054690",
+      "role": "Specialist encyclopedia treatment of contested geography; other entries required for different commanderies"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.3.3:b01",
+      "title": "Three commanderies cannot be one history",
+      "paragraphs": [
+        "Xuantu, Zhenfan, and Lintun are conventionally grouped as the shorter-lived companions of Lelang, but their institutional trajectories resist a single story. The initial establishment after 108 BCE was followed by early consolidation, frontier movement, and the changing relationship between imperial officers and people whom they claimed to supervise. Our evidence is strongest for particular events and names, not for uniformly surveyed borders or uninterrupted county administration. An apparent omission in later historical writing may indicate genuine abolition, a change of reporting priorities, or the incorporation of a district into another jurisdiction. Good historical reconstruction starts from the named reforms while acknowledging what the records leave unstated."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional sources distinguish documented commandery institutions from contested reconstructions",
+          "sourceIndex": 0,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.3:b02",
+      "title": "Zhenfan and the problem of southern geography",
+      "paragraphs": [
+        "Zhenfan was incorporated into Lelang in 82 BCE according to the institutional chronology summarized by the Academy of Korean Studies. Its earlier location and territorial extent remain subjects of sustained debate. Later interpretations have placed it in different parts of the northwest or farther south, often relying on retrospective identification of county names and the later history of Daifang. Neither a location inferred from a subsequent administrative successor nor an ancient name resembling a modern locality settles the entire question. The historiographical value of the dispute is methodological: administrative continuity must be proved rather than presumed, and each geographic proposal should be tested against dates, distances, archaeological distributions, and the historical circumstances in which a textual source was compiled."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.3:b03",
+      "title": "Lintun and northeastern relationships",
+      "paragraphs": [
+        "Lintun, also established in the post-conquest period, was absorbed into Xuantu in 82 BCE. A subsequent reorganization placed a number of its eastern districts under Lelang after the movement of Xuantu's center. These shifts suggest that the Han authorities recognized the expense and instability of supervising a scattered frontier. Lists of districts provide an administrative framework, but they do not establish consistent troop strength or the consent of local people. The area interacted with groups later recorded as Ye or Okjeo, whose internal histories cannot be reduced to mere administrative appendages. A locally useful explanation must distinguish a formal change in jurisdiction from the lived social networks that might continue across the new line."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.3:b04",
+      "title": "Xuantu's movable center",
+      "paragraphs": [
+        "Xuantu's location changed substantially as resistance and regional politics constrained the Han commandery system. The reported relocation in the first century BCE is evidence against treating the earliest frontier plan as permanently enforceable. When a commandery center moved, the name might persist even as its geographic focus, transport routes, and pool of local collaborators changed. In later periods the commandery became entangled with the expanding political formations associated with Goguryeo and the Liaodong frontier. There is a temptation to read these developments as an uncomplicated linear retreat. Instead, they involved attempts to redirect administrative control toward safer corridors while preserving access to trade, intelligence, and diplomatic relationships."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional sources distinguish documented commandery institutions from contested reconstructions",
+          "sourceIndex": 1,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.3:b05",
+      "title": "Local agency and apparent disappearance",
+      "paragraphs": [
+        "The disappearance of a commandery name from an official list should not be interpreted as the disappearance of its inhabitants or their practices. Communities continued to cultivate land, manage seasonal exchanges, and negotiate relations with neighbors and distant officials. People could become subjects of a different county without moving their homes. Elite families might preserve status through patronage, but frontier coercion could also lead to flight, resistance, or displacement. Because the transmitted sources foreground rulers and provincial administrators, their sparse testimony about women, children, dependents, and craftspeople cannot be filled with invented biographies. Archaeology may expose continuity through pottery or burial forms, although those similarities rarely reveal precise political allegiance."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.3:b06",
+      "title": "What material culture can establish",
+      "paragraphs": [
+        "Bricks, lacquerware, ceramics, weapon fittings, coins, and other artifacts can illuminate the intensity of contacts between Han-administered districts and surrounding societies. They do not automatically disclose whether an object arrived as a tax payment, market exchange, official gift, or war booty. Comparative distributions and find contexts are more informative than a single impressive item detached from its excavation record. Where fieldwork and publication are uneven across present-day borders, apparent regional silences may reflect access rather than absence. The record is especially vulnerable to overconfident inferences about the three less visible commanderies, for which retrospective narratives tend to be much fuller than immediately datable objects from secure administrative settings."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.3:b07",
+      "title": "From failed uniformity to new frontiers",
+      "paragraphs": [
+        "The early reduction from four jurisdictions, the shifting base of Xuantu, and the persistence of Lelang show that imperial rule in the northeast developed through adaptation rather than execution of a fixed plan. Each alteration changed how administrators, merchants, and local leaders understood opportunities and threats. The legacy for later Korean history is not a single block of imported civilization followed by a single expulsion. It is an unsettled frontier system that supported writing, diplomacy, trade, and military conflict while generating local responses that cannot be collapsed into one ethnic category. That perspective also explains why the later emergence of Goguryeo must be studied alongside, rather than simply after, the changing commandery order."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}

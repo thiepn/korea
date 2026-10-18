@@ -1,0 +1,126 @@
+{
+  "id": "II.3.8",
+  "title": "Local Resistance and Relations with Neighboring Polities",
+  "kicker": "HAN COMMANDERIES · MATERIAL AND TEXTUAL SOURCES",
+  "description": "Original source-critical study of local resistance and relations with neighboring polities, evaluating Han and Korean historiography alongside archaeological evidence.",
+  "release": "Y",
+  "sourceStatus": "Original historical synthesis; selected contextual references are not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Ancient Korean Society and Lelang",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Modern institutional survey of the Han commanderies"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Lelang Commandery (낙랑군) — historiography and evidence",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011576",
+      "role": "Historiographical overview; includes interpretive disagreements and archaeological limits"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Lelang official inscribed roof-end tile",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0402000000.do?relicId=1874&schM=view&searchId=search",
+      "role": "Material proof of administrative inscription; not a territorial border"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daifang Commandery (대방군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014398",
+      "role": "Later reorganization and changing northeastern geopolitics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Eunyul Gwansan-ri tombs",
+      "url": "https://encykorea.aks.ac.kr/Article/E0042852",
+      "role": "Dated mortuary archaeology; limited excavation sample"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.3.8:b01",
+      "title": "Rule at the edge of its own jurisdiction",
+      "paragraphs": [
+        "The borders of a Han commandery were not fences enclosing populations with fixed loyalties. Officials claimed authority across county districts, while neighbors might trade with them, resist military demands, seek diplomatic recognition, or relocate when conflict intensified. The distinction between an interior population on the tax rolls and an external group sending gifts was meaningful in imperial language, but daily relationships were less tidy. The Academy of Korean Studies describes Lelang as an institution organizing encounters with surrounding groups. That description reveals how the center presented its political role, not necessarily how all its counterparts understood themselves. A frontier was continually made through movement, dispute, and negotiation rather than simply inherited as a line on the map."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretation of historical sources and material evidence must be distinguished from direct historical testimony",
+          "sourceIndex": 0,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.8:b02",
+      "title": "Conflict and accommodation",
+      "paragraphs": [
+        "Resistance could take the form of armed attack, refusal of obligations, elite rivalry, or movement away from a heavily monitored locality. Equally important were quieter accommodations, in which communities secured benefits from an imperial relationship without surrendering all practices. The relocation of Xuantu offers one documented indication that local military pressure could alter the administrative structure. Yet it should not be generalized into a constant war between two self-contained civilizations. Individuals and settlements had differing interests, and conflicts might pit local rivals against one another while officers supported one faction. The language of rebellion in a court history expresses the authority that the writer regards as legitimate; historians must also ask which other political arrangements could have appeared defensible to participants."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.8:b03",
+      "title": "Goguryeo and the northern political horizon",
+      "paragraphs": [
+        "Groups associated with the rise of Goguryeo interacted with changing Chinese commanderies over several centuries. Their relationships included military confrontation, exchange, and competition over the same frontier zones. It would be misleading to describe Goguryeo as already possessing its later imperial form at every earlier encounter. Political coalitions, royal lineages, administrative capabilities, and territorial reach changed substantially across time. Nor were the surviving Han records written to preserve Goguryeo's own version of events. Comparisons with later Korean histories can illuminate how battles were remembered while introducing retrospective political agendas. Establishing each episode's date and documentary provenance keeps a long sequence of confrontations from becoming one undifferentiated national struggle."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.8:b04",
+      "title": "Southern communities and commandery diplomacy",
+      "paragraphs": [
+        "Lelang and, later, Daifang maintained relationships with polities and local leaders in the southern peninsula. Official histories may name groups through categories such as Han, Ye, or Wa and describe envoys, tribute, and gifts. These labels encompass diverse communities whose internal hierarchies and geographic limits were not permanently fixed. Exchange with a commandery could provide valued goods, enhance a leader's standing at home, or offer a means of negotiating rivalry. It did not automatically place an entire region under commandery administration. When luxury objects appear in southern graves, they support the existence of contact but cannot independently identify a mission recorded in a text. Each class of evidence supplies only part of the history of external relations."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretation of historical sources and material evidence must be distinguished from direct historical testimony",
+          "sourceIndex": 1,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.8:b05",
+      "title": "Violence in histories and silences in settlements",
+      "paragraphs": [
+        "Battle narratives concentrate attention on rulers and armed units; the effects on cultivators, children, and dependent laborers are rarely specified. Conflict could interrupt planting, transport, and trade while also creating opportunities for migration or the concentration of wealth around protected settlements. These are historically plausible mechanisms, but the extent of a particular episode's damage must be established from evidence rather than assumed. Archaeology can reveal destruction or shifts in occupancy yet rarely disclose the motives of the people involved. An apparent abandoned settlement might reflect environmental change, altered land use, or a move within a local valley. Interpreting resistance requires integration across narrative, material, and environmental records."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.8:b06",
+      "title": "The administrative language of hierarchy",
+      "paragraphs": [
+        "Imperial reports often framed external relationships in terms of submission to the emperor and entry into a civilized order. Those words were politically consequential because gifts, titles, and ceremonial gestures could establish expectations between the commandery and distant leaders. They were also asymmetrical: the surviving documents mostly register how administrators wanted the event described. Local counterparts might value access to metals, prestige items, or help against rivals more than they valued participation in a metropolitan ideology. Describing these exchanges as diplomacy respects the possibility of strategic action on both sides without erasing the inequality of military and institutional resources. It also avoids treating an official title as reliable evidence of permanent obedience."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.8:b07",
+      "title": "How conflict changed the commandery system",
+      "paragraphs": [
+        "The disappearance of some commanderies, the relocation of others, and the eventual fall of Lelang reflect a succession of circumstances rather than the fulfillment of a single plan. Military force mattered, but so did taxation, transport costs, administrative rivalries, and the expansion of regional political centers. A durable historical account locates episodes within this moving environment. It does not attribute an event in the first century BCE to interests formed in the fourth century CE. Nor does it measure the value of local societies only by their ability to resist imperial offices. Their political creativity can also be found in alliance-making, selective borrowing, economic brokerage, and the adaptation of frontier institutions to local needs."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}

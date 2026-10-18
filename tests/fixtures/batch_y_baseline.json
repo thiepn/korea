@@ -1,0 +1,640 @@
+{
+  "baseline_main": "74adc154bd38f1541d6ea8d42e1a8e8d243bab05",
+  "authored_snapshot": "62ff00e6b6a7505e803e3522432bec7fda22a6e9",
+  "article_blobs": {
+    "I.1.1": "2016c7b8e8f9c1a00a29270135c09f3bea383645",
+    "I.1.4": "75eab3703dbed4d1ef6bb344a7527eeb84315db2",
+    "I.2.1": "4682cc18ca7595111e8a1d03a24a61a863d66976",
+    "I.2.10": "89e72badf303d71b48abfb31d60587d61e488820",
+    "I.2.2": "6c6541d9760d5eaf3bf92cb25eb522c1078c1a4c",
+    "I.2.3": "d443d04ce48b34685a0a30e27589d86ba5271545",
+    "I.2.4": "7efe1cc005110231b867315adc18b43809976f12",
+    "I.2.5": "1d53f4db716b9d727ec7d150bab689e7cc4ba93f",
+    "I.2.6": "049cd564cfc72fe543c6ac2398fc9fe6822597ac",
+    "I.2.7": "3cf3db2fbe04148d37d617fcfb013958a68131d9",
+    "I.2.8": "dc2bb5bd92779deae121b1d05122b792c14f6a96",
+    "I.2.9": "91f2fe697c09c7b9ea8ca2c3dc748c1f00665087",
+    "I.3.1": "6efb272c1e19b743ad14d23d45ef1553552c5bea",
+    "I.3.10": "ab05f9350f9c3e3b42dc32faaa601316d1c3b815",
+    "I.3.2": "d9220d2e4949356807693ca7e97dde0d049f6e79",
+    "I.3.3": "b60fce53025937c33d4966989c9408b0c8a800be",
+    "I.3.4": "0b407f5e03a513ce1bfc68bddfc9c78d76cb5c54",
+    "I.3.5": "7d4701e5fb5a6304822b31f9e715d542e683f9b9",
+    "I.3.6": "eb07861de521bc40267a2c21d298117e78187a15",
+    "I.3.7": "a3df620fe09b63885c5207b05ed128b45732a00c",
+    "I.3.8": "d8792853f4f806e6d4c1fae7dbbd46d86e15b1a0",
+    "I.3.9": "7f068ff3afc259bdb08da543f83b8764d8a7221c",
+    "I.4.1": "381bc9ca3392b53a353cdf5b325ffc9c81c3bcc2",
+    "I.4.10": "72d386983faa77539fe7db420a477fd329ae722e",
+    "I.4.2": "a3048ed508f7905781c9de67253f6402d1e46c16",
+    "I.4.3": "35f3862b0bc9581a18c6aca083c338c9957a6163",
+    "I.4.4": "eb8353cf5a6937da495df9504288259dbfafe376",
+    "I.4.5": "be6abac3f3790f6c385c7aff6e11773c1703ac8c",
+    "I.4.6": "c33414f0cfedc69189eec39bb0c8165fa3ab99ec",
+    "I.4.7": "4ace64abe92c261282e30d4d65014db47144652d",
+    "I.4.8": "c2213df5b662a05b84f995f38d9b988f1c8ececd",
+    "I.4.9": "f073b63a45f346f5dc88dc7120197ad0510bf43a",
+    "I.5.1": "70f491981eca5a8bf605a6b0fe518fcd9410ae64",
+    "I.6.2": "fd5efa66796bee680e23904fdd850bce26cde30a",
+    "II.1.1": "d85be9e18a2682939e3bd213392d2d23bd0f2cf2",
+    "II.1.10": "d2449c95f894f9590f5acebbbac84521adbf5da0",
+    "II.1.2": "170021d5185abccb0d8bab0aaecb8a17c947eaf6",
+    "II.1.3": "e8aa562c228f23b4ec0253ac476b58ab2da42779",
+    "II.1.4": "dfa54d6fb4fd9c8a860df00c299db1598bd706df",
+    "II.1.5": "b7a369ce5d5d0812e134f730108e25f5bf90dad8",
+    "II.1.6": "45fc5a5e1675af866b170d30ccb224aa0396070c",
+    "II.1.7": "0e72071d9d0b32625842c6d91c70e1506ec23ee6",
+    "II.1.8": "874ce7dd7a1ce96e0888b9ff5a2e303c37cb176d",
+    "II.1.9": "013ef724ddc33d764b126e9c6ade34bcbd262613",
+    "II.2.1": "ed6d586e341ccd48a6a0c46662b92df54daeb45c",
+    "II.2.10": "574138f43cadefa870e492ce17900b7d6294f3c7",
+    "II.2.2": "3198e2f34e8c41d08b6dabca745fb2fead430339",
+    "II.2.3": "ec7d09816d590c3a145ed4613e627e40f71250dd",
+    "II.2.4": "f7d6e77063870a6db8c612c1745750636f2b98e5",
+    "II.2.5": "34be8abc06119bcfabea6709bde9cb41b28f4e66",
+    "II.2.6": "ceb2f51b9da1e79292df66551254dba40bb3a093",
+    "II.2.7": "a32f7c62dfcbf7c667063ffdd848189b9356fc21",
+    "II.2.8": "8b299d7262cd4eb23d1ef52b83a4cbfedce32f0c",
+    "II.2.9": "6c2d78876d6c578417068196751df95eaf19c7d1",
+    "II.3.2": "2c44b762a2972e6d3c05c2a5fb3c43fcca4a97e0",
+    "II.3.4": "65709c6e04ce63f8f238090c73059862c4221e49",
+    "II.4.2": "811a4029ebf2e92e8ee40fea611b05e61efea6e6",
+    "II.5.2": "8d7781b663e59f85f4198ff6e897b9327adf14c0",
+    "III.1.4": "dec627c5acd6dd9f7c4920acedf64e2e8383c55d",
+    "III.1.5": "250d169c90d9f78d591af1e2b704398d2164f042",
+    "III.2.1": "4515d67e8870db6c16acd56e991e0dbd348ae488",
+    "III.2.10": "35ab362b3a3bd34ee68eb4d6acea81cb91046a03",
+    "III.2.2": "a8555ca1faac193b3f5a976368197ae7949d37f4",
+    "III.2.3": "a4cea01c280db5fe6aff9b1ff3b463501704511f",
+    "III.2.4": "3c460c0f10fe70de004f491f52c45aea6f5ab580",
+    "III.2.5": "1f2ba355d6837527bb19640fbe73c837582ea37f",
+    "III.2.6": "9fb76fb4863ae403e880cc4a96090fefa3063cb7",
+    "III.2.7": "5812bc2e73387fc86fcd708c453fa9af011b641e",
+    "III.2.8": "26ac6efe0e05d6a7e46afadf01b1f3b5a2c7b3da",
+    "III.2.9": "27d1ac1b0e85cb7d4aaa3d3c711dc2a3007c831b",
+    "III.3.1": "a254bab47d16b810cea8a35832a291927161a8fa",
+    "III.3.10": "e22e607ada9b58e8bfea473540e244409095aa5a",
+    "III.3.2": "a1ff74e26895b2d875e63bd4e3cccd02bdab5bd4",
+    "III.3.3": "09473e36d599e71b40da2f7d59e14a8114a88973",
+    "III.3.4": "7fbeaec5138793c2f8171a754e3b14c838d34650",
+    "III.3.5": "888dca2ca0841a4a00a159aeab73549f758bb2d2",
+    "III.3.6": "e3892e87a9c54b1362944a2c8d085f1f9d93125b",
+    "III.3.7": "4e21a437b754ea5216f375543c79c0faa28acfad",
+    "III.3.8": "8610c36d9c2cded007f3e280a39790bb06875b69",
+    "III.3.9": "197ad4bac13c5f2943f3f7210c54f43a45958c87",
+    "III.4.1": "0f6310f3ce302f94e7422d1908dc56f199ae8b8e",
+    "III.4.10": "b451c8a39f84af731479b2dca1022be44ac1e6c5",
+    "III.4.2": "774f5630d3cb5e759823ea34ca79864f3fef5ed2",
+    "III.4.3": "3c5c2a6d16a3b7231404ef06d754e7413a85d219",
+    "III.4.4": "07a3b26a7891f18b4f02c0189cf31d5ecd1e81e2",
+    "III.4.5": "e8085decbcef4ae4249633ed651a80a7de6084fa",
+    "III.4.6": "295f593b35d208e64c58335e74b845c937cbb27a",
+    "III.4.7": "e326228842c2e2266c3dfc7f3dfb4a2f9f39d5ce",
+    "III.4.8": "4756435d4e097d2cd2245220b0154951796b6074",
+    "III.4.9": "a5e6f9fe465d7894775cdf7c5953688d38072925",
+    "III.5.5": "9fb41ed7627e9419bba2c8cf025226ab6568a50a",
+    "IV.1.5": "a7d645cfdfedc8d99d7989cde3c9fe47f483593f",
+    "IV.2.2": "ff36f86a6915081f43ed232c69cd8fcdc6443df9",
+    "IV.3.1": "ede4e5523376641081ad6eee168d57f253b04f8b",
+    "IV.3.10": "d6491c223fee8849d1f6db51c20aeb40d64855a2",
+    "IV.3.2": "8d177f379b892980d7127cbc0491ba277d4a5af6",
+    "IV.3.3": "80ddd5e0559b7841c3c805091012a7d876fa65bf",
+    "IV.3.4": "b7843c1f129365afb10a699790ce8ee3f446563f",
+    "IV.3.5": "56695a73f7e219af4f49eaa9b51d3bd4852eb3a6",
+    "IV.3.6": "7935693ab73bbe98abe5853294ab471e17138f9a",
+    "IV.3.7": "2fe1402c6ed802e9f3a29a2654853650e755b3ef",
+    "IV.3.8": "0a7ad6729e26c44b3ead840a5d6ed89dd91cb4b8",
+    "IV.3.9": "15a129b42f5d06e520b5d944c9e2ea2d30844ed3",
+    "IV.4.1": "5c8003ba716c8298a7351df2b797f2907cf34aca",
+    "IV.4.10": "85d429255e7a76d6d804d8a207647c53674a1041",
+    "IV.4.2": "55b7486cc8b3a8a12890ad644eebf1e564eb7269",
+    "IV.4.3": "8538285e4703fe51353137cc72992eb512e53d93",
+    "IV.4.4": "054d2c1ad993648230f58f45e7b940e042a258a3",
+    "IV.4.5": "0ffad9676d6fe28ffc9b3a6ef670ca1669e38a8b",
+    "IV.4.6": "34950ea069787fc5f031bb0dac23f94b688c56a6",
+    "IV.4.7": "830e40dcbde0264fd095e9957d4ced4abee30d3c",
+    "IV.4.8": "bb0df068066845203e5060a7f8206b176b324bb7",
+    "IV.4.9": "aa3e53ea47b4b1cc69453a5f9c07c676117ee9bd",
+    "IV.5.1": "315c38892d1a9fb0745789c0ea8ee9a3fff3ecc7",
+    "IV.5.10": "fce8459e2cd8e9de978f6bd17d147074b8429b65",
+    "IV.5.2": "821f82542010e82357d3be6b818dcad6c34e056a",
+    "IV.5.3": "d57b5d5d4ace80a1e0807ed71fc84b29b7d32ada",
+    "IV.5.4": "3ef0dddbf3fbd7a2474b9b16a28c123569849c5c",
+    "IV.5.5": "fcfef83be12f9146da30bc9d597c4d10a79a8036",
+    "IV.5.6": "4b54847eb650e238f51c6b5591056c9a0eff35a5",
+    "IV.5.7": "6525e1a29b1d3a31c818bb04ddc12d6ec98b0639",
+    "IV.5.8": "628af957923bb6393fc29ba5571c84009faa253a",
+    "IV.5.9": "bd6577f284f72eaa7ee20479979a8582f6886c63",
+    "IV.6.4": "07e0e6cdfed4a7fb6bf031533d8ac2be44a9534a",
+    "IX.1.1": "e72d8004c9004eb4a036632449fe00bc44fbe75b",
+    "IX.1.10": "804303f0974309fedae0d6f715a208b09b8f3edc",
+    "IX.1.2": "fb08bb4747e1e0594747f0d77ff309fc2c02939c",
+    "IX.1.3": "561a05743524291275d81885d3241d0cf2bc1842",
+    "IX.1.4": "f470ac21371d37b6a0d0d53f2d3b97b1a2c08b53",
+    "IX.1.5": "2fe4a5cdd3f842462d2cf1f0b6e018d64ee12c10",
+    "IX.1.6": "48d0c6b7acbb1988868b590d4a56604b8d31f5fb",
+    "IX.1.7": "0793f0d7e8be7e0ce842231e44919cfef8195905",
+    "IX.1.8": "87676bf35a286ce6770f8d6a68a26c3fecf717e1",
+    "IX.1.9": "88d63bb4c6cf46bf491e9b271192aba600ea6ba2",
+    "IX.2.4": "8294f67c1926762621dfb59cb4e15f7dea8ba025",
+    "IX.3.1": "cfe7565f0f0b9c96e37677cbc4e6e778f5d02e8c",
+    "IX.3.10": "4e66a76b45e72e61fbc887b1d530d684ff731fc2",
+    "IX.3.2": "de1a9f99ac60d35256071fd9f7c08194e1ab9f8c",
+    "IX.3.3": "3b86772294da8d5d3fe4dbdad6b0ec0242e665fd",
+    "IX.3.4": "849b60cf2bc18a4d4d6f36ee34abe651835afef9",
+    "IX.3.5": "de4bfd70696ab9326326bc337a1585912e0e7681",
+    "IX.3.6": "212d9355581fe16b9df7bc2a2459472868f2985f",
+    "IX.3.7": "9b57c6d2dda1bc50b5d428c26919111e3d568f12",
+    "IX.3.8": "f18f13828b5597bd358d4f791b6e8505edfe3118",
+    "IX.3.9": "71ba97b3f67712768d66e618035bf83e8d61c113",
+    "IX.4.1": "ace188e6adf3a1b6c2afa395d4af2786ad1532a8",
+    "IX.4.10": "40fb69364514a2589ef32f480519b512e02d25b0",
+    "IX.4.2": "d152a09d75aabc57dd3d44586806514957b5cc87",
+    "IX.4.3": "984bc0f5c96c9ff9c55036c613034f7806c465dd",
+    "IX.4.4": "375ff0af3b3e7646f32d8edef445f2d6670cc673",
+    "IX.4.5": "ea41618bc4c3deaebbde11d657a448b484a54c8c",
+    "IX.4.6": "52815610d800c91cfefcca84619284398e9a53e2",
+    "IX.4.7": "2583fdf485258ef5106d3c72316dcb01a979275e",
+    "IX.4.8": "70aeb4db31fa186e13626aa8b6a177052b3b79e4",
+    "IX.4.9": "aeb6d5b18f0738324bb5fb1389882c442ae1568f",
+    "IX.5.3": "960ecc59cf574fbc8e0f07b22e3ba088aa9fc348",
+    "V.1.1": "3b4066f1f5a6d997d5580d20987ee1118a00bf12",
+    "V.1.10": "046a777aadcb19326ba03a98fbb1a0e27f9e0093",
+    "V.1.2": "89ab84495d996c2d913479efaa8645bdaeb7322b",
+    "V.1.3": "e52299505d3b96e1491a1a70f4ce0817296bdc94",
+    "V.1.4": "5e3158fbe17c07e65ac9d954d6b06922c095a929",
+    "V.1.5": "25694d2605c007661367911c307f583f40ca9e97",
+    "V.1.6": "e4c133c015e1d3b4f793e1db639cefa6739d1066",
+    "V.1.7": "b73f6d15bbd32e6a6177d249bc065be80f9c51fe",
+    "V.1.8": "bd62bb19790e593d2533fb1af27f5942160e2732",
+    "V.1.9": "2bce06c5143ea544cd74c520702a301c09b39fa1",
+    "V.2.3": "e48a908f2787fa4d22aad99c872e8d711a9f8901",
+    "V.2.5": "704f2e9a2a4250592c8b270148d9141f3c86200e",
+    "V.3.1": "e9005711940089335504b97bd0e56378e76aa9a4",
+    "V.3.10": "ebaa23378ddf7a53e7f8af22fd157e4800b94d94",
+    "V.3.2": "288b843cc817555ebc7346fb8e6b5287a977107f",
+    "V.3.3": "2b428d4ccd31a4e21360d10a2272c62e0c75cb8f",
+    "V.3.4": "f4c214c03c48ed9171d3db43c93153be8b392723",
+    "V.3.5": "46426074290b014720af9699bfbc78704c2ec44e",
+    "V.3.6": "9e2cbfb0ff31b6c7cb0f46ca197c2766abeb3f33",
+    "V.3.7": "f8bd6f5d19645b5fe4f5cb2d0bbb4c1783af164c",
+    "V.3.8": "33f23024a445aa515603ed7648e8731321831268",
+    "V.3.9": "adb9603187d92ecb1e44fcc01a60c208225febe8",
+    "V.4.1": "cb1a4aedd6d4d725c450b55c45e4ed8b3701d7e2",
+    "V.5.1": "3d15a1e8b821f5aca3e069de753adf8526627b62",
+    "V.5.10": "38de3061022b11e7a1575fea9644ed8bf3f0202b",
+    "V.5.2": "333fad9d8d20967d1000cebbcf2bbe17d27a3544",
+    "V.5.3": "aa8e7df5e5d584bd8aaeb3d088ddc8f907484c07",
+    "V.5.4": "c98779d1352866118f1ce855d77cb484c1f14d28",
+    "V.5.5": "ce40ac9b5780cc7369880ced64d82d938e7e55df",
+    "V.5.6": "8cb4a07e2a72713cf0eaf5c201de736dc40912cc",
+    "V.5.7": "f1459677112d044bb94daad40a37c497ced5cf1a",
+    "V.5.8": "c5a1364dbf66bedb0893e1c855b8709842c09370",
+    "V.5.9": "68f3fb07b7c95d777d524a6f00a6740b2ceaae86",
+    "V.6.5": "382b7be1a8a76432fc31feba41865889e2f42759",
+    "VI.1.1": "1f7131723247e05ff1d34f7506e4fbb5d2a437c9",
+    "VI.1.10": "9ec969ee6d0715e940c746ea4cb277dc30470fdd",
+    "VI.1.2": "19e87d7110e908da52a5a7563fe6b3acd8450ab6",
+    "VI.1.3": "0852f38676371cea40d060fad03d759acfb15eb1",
+    "VI.1.4": "077deb13120f85a7a81820220f672b95b647a0c8",
+    "VI.1.5": "64fcfa5e31d4715b9777625660d0c95d6b30932d",
+    "VI.1.6": "ff5ed3916c1e2290d30d2b7ccff4083b3410e45b",
+    "VI.1.7": "b6774f28cd516f89226b12ac8d6545cbfdab26a2",
+    "VI.1.8": "1a0a10cdc27beeac5ee9cda03fea413bdd8c74f7",
+    "VI.1.9": "fe8cd5ad6fc28a73ca0649c96388c5b7ae5d2339",
+    "VI.2.3": "fcf82be4813ef36bbb1c2806c4aaf11a965055d1",
+    "VI.2.5": "e7c1f06fc5c945c8191b69a08a8a9b0616fde292",
+    "VI.3.4": "abef971856a9c3838d62621bd6f532d07f1ffbb3",
+    "VI.4.1": "a72b6b4078eeec16d6506eeec5e58bd0e563282b",
+    "VI.4.10": "fd7bee16a1032fb5fd7b032ecaae024fb7e75088",
+    "VI.4.2": "da899499cc325958ed06df2d1e97bc4fdbffe652",
+    "VI.4.3": "17dec4bba0da1bf5f917ba9783ae518a486fbfc6",
+    "VI.4.4": "8ba6a2a12de5a1054cb1bc1a570a088b3c5f5503",
+    "VI.4.5": "bd2c0d74c7da011a7c2d15a3378266eaa7adb194",
+    "VI.4.6": "f1bb904959443de2ddc210ce50023a83c8a35c13",
+    "VI.4.7": "c5bed7e120cfd71140f338c61afacc6cfcf9b563",
+    "VI.4.8": "a510532181da91e3fc103d3d995cfaa9afca0963",
+    "VI.4.9": "f84e2213a247e6965e1265f86e859852b9919240",
+    "VI.6.3": "d903f0d0c67698f0b793e8e9ca85d53733d445d4",
+    "VII.1.1": "2ef7562285fadc63afc781295a580281cd53d0e0",
+    "VII.1.10": "40a93f93a4b9d27b327e98e343f652c46297cd73",
+    "VII.1.2": "4507488c1f1940313b5ee31a1c7b896276295b82",
+    "VII.1.3": "40edde4235fe8ad330dff55c4034e17e9cbc9986",
+    "VII.1.4": "21ade1c2e2e88d00d8278d7e84a4dad7e8b1e0cb",
+    "VII.1.5": "6a3c59cdd3bec481b414d1f1ceb3a315a4619786",
+    "VII.1.6": "ecde559c9810befab1bba153cb6e4bc9c223db25",
+    "VII.1.7": "7dfdc2af3919e42d64fc59c5cc41825de064f8da",
+    "VII.1.8": "1a63c20303e58e8fe1861855fd9b00a030a5ff25",
+    "VII.1.9": "b69f58018ea175755068d9ddb4b2142ce30dec20",
+    "VII.2.1": "33ec39dbe1fd0e3ff26e7828ee762dc2c019003b",
+    "VII.2.4": "55516e84c229426ee566943b24b7ff13ec04d462",
+    "VII.3.4": "2b6daa59970dd243c654cf8b87ddd0208fd9886c",
+    "VII.4.5": "a3df41a8dc1bf851648f479c89078a70a59a2fe7",
+    "VII.5.1": "06e4d6b0064c9d9adfe363ab4c72390a81a3f306",
+    "VII.5.10": "3a87a3226ad73a3ee842177746e99efd7c92ac39",
+    "VII.5.2": "1e3bcdf6e467bcd75ca83498f044e48849a44bfc",
+    "VII.5.3": "76b80974dcb8cf978cddc7776d6e24b72882c336",
+    "VII.5.4": "4d0beba6847eb2f886d587c2547cedb4433eadbc",
+    "VII.5.5": "eacf4073d4906e2ace14fcde785514dfb95d89d1",
+    "VII.5.6": "745ce1df3a5aa7c685b2c6255f50805f9707ed32",
+    "VII.5.7": "d367b0e841ef603dc8dfad4669e9184fc47ef12c",
+    "VII.5.8": "540f874b8f54d893e29878c9e3052e5b2fae46db",
+    "VII.5.9": "14d1333ac9a37d585da1e903e028a5e3f6011bcf",
+    "VII.6.1": "d6a62ca3755a3a1f1a0861434f82086df5e944af",
+    "VII.6.10": "6b38ec8865492a66417acc777c5744a2c8d9294e",
+    "VII.6.2": "df1b7b3bdba10f81c5d1114521472e8463bed9e8",
+    "VII.6.3": "063b27703cb5e27cf339390375125fc46582834f",
+    "VII.6.4": "03e8c7999e29bf3f01dcb38834f6b502e228c4bf",
+    "VII.6.5": "bb8d9feb2d49cda1ae87026d12934a542a1271a4",
+    "VII.6.6": "771a9ad1c94ebeafc99d162c74677468f6472abc",
+    "VII.6.7": "f2c07d8d5146cf3d699da4273862fb7af40e5712",
+    "VII.6.8": "7776502eb2bc446562ac2744fa974f833ed2acf0",
+    "VII.6.9": "7b543b98ad3f8896477ba4144d35aa73a2b11610",
+    "VIII.1.1": "370589507506a4943ed85242bd80f50a4e880cd7",
+    "VIII.1.10": "7cd6cc3d5b671ad71f3c67144ff136b58c15cb50",
+    "VIII.1.2": "7b3e2f93a223a116b20a453f21d2753317047747",
+    "VIII.1.3": "c9e4bfdf95d9a5b5e008828471390d2a24761de6",
+    "VIII.1.4": "900497198a05e7f4f90b71ebe52ed027fb6b6330",
+    "VIII.1.5": "21e3a721bec35c66693ba371f633e8db1adee4ef",
+    "VIII.1.6": "65aa397d0ff39c6d8e257757e6c9256cb7f7ac10",
+    "VIII.1.7": "09d502f6820fb1c1d938950b33865ff6630db181",
+    "VIII.1.8": "dc831efac940730287b09f3b0ddbf82182e903ee",
+    "VIII.1.9": "9e17bf5dde3093fa9963feab6bddc6b3607b203b",
+    "VIII.2.1": "d620a50ae225f9a2b1df3270ee0be78d2dd5be45",
+    "VIII.2.10": "5d227e2c8e26ecec23dbe4ff4c72a108afbf0349",
+    "VIII.2.2": "436d1b5023feb19030683797bcefd256ac708c2b",
+    "VIII.2.3": "476bf1d30ee81669cd1c3c36baa8f600170da701",
+    "VIII.2.4": "256e9155412c79f055e5c3e75391ed8374cd1385",
+    "VIII.2.5": "9381059f21fec98fad70c64152aa7ac874b7d6cf",
+    "VIII.2.6": "1a58857f6615602bfd52d4fb89dedec9a529d30c",
+    "VIII.2.7": "99bd90a9fbaae668ed3e18e13aeaeffa8fa830d2",
+    "VIII.2.8": "051d06e5810e0b0ad1e18ff660ac7bebdd31d198",
+    "VIII.2.9": "5a4bd9e18079a0468355a609244c417d38a5b29c",
+    "VIII.3.1": "97e6b453001d4f1c2f38c01ea56021c4f20c02ea",
+    "VIII.3.10": "3e07bbcd18f401f737e44e7bad12c1bd11da2b60",
+    "VIII.3.2": "eb8f4c57c09131f6950ef5ac259aa2b2821d1796",
+    "VIII.3.3": "f2931b1b4940aa542af0f2b3085a42976d9d829f",
+    "VIII.3.4": "713748ef09bc5e93a79a0d083471849085fe3d0c",
+    "VIII.3.5": "86b019ef804de9e0dbffb57ca2a1f6377a824c36",
+    "VIII.3.6": "7adb8f55d6961ce65858ec6dca4b9a9367350d19",
+    "VIII.3.7": "3c145761ffeb63fa38d7126cb8b63e8b61bc57e7",
+    "VIII.3.8": "ce7f348c33b3358ad8cf37af44664f336c4fbb82",
+    "VIII.3.9": "1ca68633b8bc0f223ce764325798d04ec4f4c81a",
+    "VIII.4.1": "962de3974859b6871e2b79f5c674e8abc7b70798",
+    "VIII.4.10": "3d2bf7972cef55ee135036d925d91ebafd62b26c",
+    "VIII.4.2": "2e5cefca8221bc0fd85e3e51406ec55d5139c4e4",
+    "VIII.4.3": "07720fd469ce7abcb7bb1c8bf15841f32201db4d",
+    "VIII.4.4": "8ac4212209e3bf0cc0c8828de361e831dd35d5c5",
+    "VIII.4.5": "42c5a4858636cb55f3101e69ff8b112d035ed560",
+    "VIII.4.6": "529c09a9c740719670aca6666745fc063a99d766",
+    "VIII.4.7": "bad7ef0a3daf6348fd6ac6fcfbb639248991e753",
+    "VIII.4.8": "6d45acb6fceee8405dcccc620cce374a26dd383b",
+    "VIII.4.9": "0a33f32f77d4f34b7f738064602b9903e5468885",
+    "VIII.6.1": "b24ca8de4e30df5c0a7d316f169be73944688d9a",
+    "VIII.6.10": "d7f31bff14ec4e796867be6ef9681c26c1d57a2b",
+    "VIII.6.2": "749a09f983b6b71242485034343e702c1f81bf17",
+    "VIII.6.3": "6ab6fb1b8ff978a10d4fb1f3f59e89d79c7bc849",
+    "VIII.6.4": "6be4ac5dfcbb949067f2669e1f2db07038bd18a1",
+    "VIII.6.5": "9f372321c443b7bb101cf758947bf88fed9a33ce",
+    "VIII.6.6": "0337d5deed44cca23343bfe9c64cb9ffdd1d83bc",
+    "VIII.6.7": "5585c2bf278b6b8474d2e96cc31f75a992fae48d",
+    "VIII.6.8": "520a9ae467cf20d314d4d1c1f842b0b30d2c333d",
+    "VIII.6.9": "489c0f6c178de9645f7b6a777a71d033ccc13b1b",
+    "VIII.9.1": "181846d36d9bd2982c196cf3560cdcd5b02cd222",
+    "VIII.9.10": "df6a8a0dd6b6d77d76a4bd464ae9f08e0b213c44",
+    "VIII.9.2": "1c688d79cdc1f439266f5f5b9cdd7c117959a419",
+    "VIII.9.3": "a32f7f1e475a172da99760b78536f385e21a3896",
+    "VIII.9.4": "975f72119dfeaf100054422f19eb90346b4c90d4",
+    "VIII.9.5": "41b17ca2ff3c07665f5ef35ceba727ffb3841927",
+    "VIII.9.6": "89c2b52cd1b43853f285f01d2065e08468464e48",
+    "VIII.9.7": "eafc59fefd524fbc95c907536ce15b1831714cd9",
+    "VIII.9.8": "d4d951df55c334a86e7b688424e158c7dc91cafa",
+    "VIII.9.9": "aacd9acef4d962f0625d1cabc9942f9d49bc8fcb",
+    "X.1.1": "436148fcd2d34bda77e6c689f0f3215bb37efcf1",
+    "X.1.2": "f02d735529fc1ebe4ccce58e0597e61e4b5584b0",
+    "X.1.6": "5dab8cb95d854b59dcf830388e96d1a9e5e17d67",
+    "X.2.1": "777e81324091a36748a05ff95fad30654a6cb720",
+    "X.2.10": "d900bd08958a8f6bed647f1958245fbde80fd50d",
+    "X.2.2": "75294a50188bac817e5a34c0f8aa0fff4f61d760",
+    "X.2.3": "66107cb4cd9cc36520d74f4ad66ab7fe1930e18b",
+    "X.2.4": "4c41fbd8b865470ce0c71a4424c84d26433829ef",
+    "X.2.5": "95b7a2b673357df2585ab32d737115a61ae1ff50",
+    "X.2.6": "f59f14677ad2fc33e6528cbbe5c162beab362f5b",
+    "X.2.7": "d682ed4eab684050a2ad1df900c4bfb50e785494",
+    "X.2.8": "4fb3114a70173a244b88b9b03c7c35877b581e56",
+    "X.2.9": "ae1c0f856c02a5c19028bde71a36351f4c91676b",
+    "X.3.1": "8355c790e10c98d1d57b10c28eb165a292800e57",
+    "X.3.10": "6acc03c559d7eb38b44c731f24a1e0fda8b76671",
+    "X.3.2": "e5171399a5b5004243d18c820ac6a37586f44ba6",
+    "X.3.3": "11010b66dd882c4bb76cb5d2f5e31a468d1cbee9",
+    "X.3.4": "9d820d65d0c5c3defc08ef0847f3c159988e5c77",
+    "X.3.5": "9dc2d08c3c9bfbce8bb3155b70203373060e20e4",
+    "X.3.6": "403c90e582e09ff0507a3dc2d7321dffe43ac82d",
+    "X.3.7": "9b276c7492cca1dbf2296ee5d867d50987b557a9",
+    "X.3.8": "4ea83d02e695d0ccabb32c8c19db7222b30c5c28",
+    "X.3.9": "241f85bdbec1f1c85c51dd4d56fcd9bcaa0697cb",
+    "X.4.3": "c5c0770c295ced8223147eb9a255ee81f748e1df",
+    "X.5.10": "fd5388e9f2e03f5c32eea9aa04eb6bbc2a81390e",
+    "X.5.3": "09fb34b29bd22120ce3dc0a1e3babce3038e16fd"
+  },
+  "canonical_blobs": {
+    "canonical/00_PROJECT_CONSTITUTION.md": "5dbb805da00b6eade4272c5cf697579b3609a4a0",
+    "canonical/02_PART_BOUNDARIES_AND_OWNERSHIP.md": "8cf2291561a743e086bfa9b296e35a5d15e906f9",
+    "canonical/03_SECTION_GENERATION_PROTOCOL.md": "444ff43dac248f593102a266ef35f127190db701",
+    "canonical/KOREA_PRODUCT_VISION_V2_DRAFT_2026-10-15.md": "03c1e735cb23fa2fd13f50236007de1c412dece3",
+    "canonical/MASTER_ARCHITECTURE_REGISTRY_v1.1.xlsx": "e2765a9afa0c1e8179129c6466533a4b5d6c9e83",
+    "canonical/PART_III_ARCHITECTURE.md": "4d7c793e2a73fc0e6d95544605f341e0d074aed7",
+    "canonical/PART_II_ARCHITECTURE.md": "dfab4b21d126112ebc379b1a230edfc6745b933c",
+    "canonical/PART_IV_ARCHITECTURE.md": "ffbb31fe80987809e24299b24a949013087a01b3",
+    "canonical/PART_IX_ARCHITECTURE.md": "6621367ddd1725c1650121d8dcee16aef005b27c",
+    "canonical/PART_I_ARCHITECTURE.md": "7c0f0949783eded6c978be6ae6f6b4b9cf83b613",
+    "canonical/PART_VIII_ARCHITECTURE.md": "65eb9b830f89b26e8763f3b376d690113339f62a",
+    "canonical/PART_VII_ARCHITECTURE.md": "46c1cd3c07cb5b353bff075d5b21c341d25ccdcd",
+    "canonical/PART_VI_ARCHITECTURE.md": "1e1be0f306792892137368518a144eee5ae907bd",
+    "canonical/PART_V_ARCHITECTURE.md": "638f7f2027a5f5d8bff9a6a2a5309fd8c70b6bea",
+    "canonical/PART_X_ARCHITECTURE.md": "31c26df4f2ab998cc2ce463adef2810e256f032f"
+  },
+  "prior_appended": {
+    "II.3.2": {
+      "id": "II.3.2",
+      "title": "Lelang: Capital, Administration, and Colonial Government",
+      "kicker": "EXTENDED HISTORICAL ARCHIVE",
+      "description": "An editorial introduction to Lelang: Capital, Administration, and Colonial Government, part of the expanding KOREA history archive.",
+      "blocks": [
+        {
+          "id": "II.3.2:b01",
+          "title": "Lelang as an administrative landscape",
+          "paragraphs": [
+            "Lelang was more than an abstract commandery name. It refers to a complex colonial administrative presence whose significance can be approached through official institutions, graves, objects, and changing connections with local societies. Written sources provide names and structures but offer selective coverage; archaeology illuminates material habits that political histories often neglect. A commandery center could contain officials, military personnel, families, craft workers, and traders whose daily experiences differed considerably. The question is how these groups interacted rather than whether every inhabitant represented one fixed cultural identity."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 1
+        },
+        {
+          "id": "II.3.2:b02",
+          "title": "Cultural objects do not explain every person",
+          "paragraphs": [
+            "Imported objects and styles may reflect social aspiration, exchange, official practice, and local adaptation. A burial furnished in one tradition does not establish that the person lived an entirely homogeneous cultural life. Communities may borrow writing, tools, and fashions while retaining other practices. Research on Lelang therefore demands caution about identifying ethnicity from artifacts. Examining the circulation of materials also shows how political authority could support forms of cultural contact that outlasted individual administrators."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 2
+        },
+        {
+          "id": "II.3.2:b03",
+          "title": "Beyond the capital and its walls",
+          "paragraphs": [
+            "Commandery influence varied with distance and time. The reach of taxation, legal orders, and military protection was not necessarily equal in every valley or settlement. Relations with neighboring polities could involve conflict, negotiation, and exchange. Understanding this geography is necessary before making claims about what the commandery meant for the whole peninsula. The historical importance of Lelang lies partly in the complicated connections between an imperial institution and multiple local worlds."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 3
+        }
+      ],
+      "release": "C"
+    },
+    "II.3.4": {
+      "id": "II.3.4",
+      "title": "Chinese Settlers, Local Elites, and Mixed Communities",
+      "kicker": "DEEP HISTORY · BATCH D",
+      "description": "A five-part original historical reading on Chinese Settlers, Local Elites, and Mixed Communities.",
+      "release": "D",
+      "blocks": [
+        {
+          "id": "II.3.4:b01",
+          "title": "A commandery was not an empty grid",
+          "paragraphs": [
+            "The establishment of Han commanderies brought administrative categories, military installations, and continental political institutions into parts of the Korean peninsula and neighboring regions. These institutions entered landscapes already inhabited by diverse communities. The inhabitants did not suddenly disappear into a uniform colonial population, nor did each person stand on a clear line between Chinese settler and local subject. Soldiers, traders, farmers, administrators, craftspeople, spouses, servants, and people moving between jurisdictions experienced rule differently. The historian must be careful about the language of origin. A Chinese-style tomb may reflect the adoption of elite fashions, family connections, or political aspiration rather than conclusively recording the birthplace of its occupant."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 1
+        },
+        {
+          "id": "II.3.4:b02",
+          "title": "Objects cross social boundaries",
+          "paragraphs": [
+            "Burial assemblages, imported wares, seals, coins, writing materials, and changes in workshop products offer evidence for commandery life. An object can carry more than one story. A bronze mirror might be a prestigious possession, a diplomatic gift, an heirloom, or a product circulating through commercial exchange. The location in which it was found and the other materials beside it matter as much as its visual style. The most revealing comparison is often between what elites chose to display and what ordinary neighborhoods required for work. Government archives and material culture illuminate one another, but neither should be forced to represent the whole population."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 2
+        },
+        {
+          "id": "II.3.4:b03",
+          "title": "Negotiation at the local level",
+          "paragraphs": [
+            "Imperial rule depended on relationships with people who knew routes, fields, and communities that distant administrators did not. Local intermediaries might collect resources, communicate orders, or settle disputes, gaining advantages that were never evenly shared. Others could resist, evade obligations, or maintain practices outside the official institutions. Political control was rarely a simple matter of a center issuing commands and a periphery obeying them. Roads, transport, garrisons, storage, and the personal credibility of intermediaries all constrained how far authority could reach. Everyday negotiation is difficult to recover, but the uneven spread of administrative objects and settlement patterns cautions against imagining complete uniformity."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 3
+        },
+        {
+          "id": "II.3.4:b04",
+          "title": "Family life across categories",
+          "paragraphs": [
+            "In places where different populations encountered one another for generations, marriage, language use, funerary practice, and household customs could change without following a single direction. People might participate in a commandery economy and still preserve local kinship traditions. Children raised between communities need not have understood themselves through the rigid labels later historians employ. The survival of a grave or inscription provides evidence of social choices, not access to a person's entire identity. It is possible to write about interaction without inventing private thoughts: the record supports a world in which adaptation and continuity were simultaneous, and in which public styles could differ from household practices."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 4
+        },
+        {
+          "id": "II.3.4:b05",
+          "title": "The limits of the imperial map",
+          "paragraphs": [
+            "Maps of the Han commanderies are useful orientation tools but can create an illusion of sharply governed territory. Jurisdiction could change, centers shift, and the degree of effective control vary with distance and resistance. Political terms in surviving texts often come from the perspective of officials who had reason to emphasize the orderliness of their administration. Regional archaeology may reveal stronger continuity across a formal conquest than those accounts imply. The commandery period should therefore be read as a history of institutions and encounters rather than as a blank interval between named Korean states. Its inhabitants helped shape the political and cultural worlds that followed."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 5
+        }
+      ]
+    },
+    "V.2.3": {
+      "id": "V.2.3",
+      "title": "The Central Government: Chancellery, Secretariat, and Six Ministries",
+      "kicker": "EXTENDED HISTORICAL ARCHIVE",
+      "description": "An editorial introduction to The Central Government: Chancellery, Secretariat, and Six Ministries, part of the expanding KOREA history archive.",
+      "blocks": [
+        {
+          "id": "V.2.3:b01",
+          "title": "Governing through written work",
+          "paragraphs": [
+            "Central institutions in Goryeo adapted established East Asian bureaucratic patterns while responding to the monarchy's particular political environment. Secretariats and ministries could receive proposals, prepare decisions, transmit instructions, and record personnel or fiscal matters. These tasks gave written administration a central place in royal government, but documents alone could not ensure compliance. The court relied on trained officials and relationships with local actors to translate policy into practical action."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 1
+        },
+        {
+          "id": "V.2.3:b02",
+          "title": "Offices and personal networks",
+          "paragraphs": [
+            "An office created a formal responsibility, while family background, education, patrons, and factional relationships could influence its holder's career. The tension between institutional ideal and social reality is crucial to understanding Goryeo government. Officials were not simply interchangeable technicians: they belonged to households and elite networks whose interests sometimes conflicted. Studying rank and appointment alongside political disputes shows how a bureaucracy could strengthen monarchy and still provide arenas for aristocratic competition."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 2
+        },
+        {
+          "id": "V.2.3:b03",
+          "title": "Information had to travel",
+          "paragraphs": [
+            "A central court needed reports about harvests, taxes, law, and provincial conditions. Each report passed through people who selected what to communicate. Delays, local disputes, and imperfect records limited what rulers knew. A broad narrative of institutions should therefore examine roads, messengers, clerks, and documentary routines, not merely formal charts of ministries. Administrative power depends on information as much as on command."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 3
+        }
+      ],
+      "release": "C"
+    },
+    "V.2.5": {
+      "id": "V.2.5",
+      "title": "Civil Service Examinations and Official Recruitment",
+      "kicker": "DEEP HISTORY · BATCH D",
+      "description": "A five-part original historical reading on Civil Service Examinations and Official Recruitment.",
+      "release": "D",
+      "blocks": [
+        {
+          "id": "V.2.5:b01",
+          "title": "The examination as an opening and a barrier",
+          "paragraphs": [
+            "Civil service examinations offered Goryeo rulers a method of identifying and ranking people who could participate in government through learned achievement. The attraction of the system is easy to see: the court could define valued knowledge, create a shared language among officials, and reward forms of training rather than relying exclusively on personal favor. Yet examinations took place within a society in which access to education, time for study, family networks, and status were uneven. An open route in principle could remain difficult to enter in practice. The political meaning of an examination depended on who was eligible, which successes led to office, and how recruitment interacted with hereditary privilege."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 1
+        },
+        {
+          "id": "V.2.5:b02",
+          "title": "The long preparation behind a public test",
+          "paragraphs": [
+            "For candidates, the examination was not a single morning of writing. Study required texts, teachers, supplies, and familiarity with the forms of composition prized by officials. A learned household might treat such preparation as an investment across generations, while another family could not spare the labor of a young member for years of study. Literary culture itself became part of the recruitment system: models of argument, moral vocabulary, and cultivated style mattered because successful candidates were expected to serve within an established bureaucracy. The examination helped create a class of men trained to explain government in similar terms, though training did not guarantee identical political views."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 2
+        },
+        {
+          "id": "V.2.5:b03",
+          "title": "Offices are distributed after success",
+          "paragraphs": [
+            "Passing a test did not settle the questions of appointment, promotion, or influence. A bureaucratic career depended on available posts, court politics, patronage, and the practical work for which an official was needed. Elite families could strengthen their position by combining examination success with marriage networks and other forms of access to government. The state, in turn, had reasons to value tested expertise while managing the expectations of powerful lineages. Examining that relationship helps prevent a false opposition between merit and aristocracy. Different methods of recruitment operated within the same political society and could reinforce as well as challenge one another."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 3
+        },
+        {
+          "id": "V.2.5:b04",
+          "title": "Knowledge and administrative power",
+          "paragraphs": [
+            "An examination curriculum defines what the state thinks its officials should be able to know and communicate. Classical learning supplied ethical and political concepts, historical examples, and techniques of writing that became part of official debate. But the ability to compose a fine answer is not the same as the ability to administer a remote county, resolve a tax dispute, or maintain supplies. Governments needed both symbolic authority and practical competence. The gap between learned ideals and administrative work offers a useful route into questions of local officials, court criticism, and the material limits of governance."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 4
+        },
+        {
+          "id": "V.2.5:b05",
+          "title": "Careers, families, and memory",
+          "paragraphs": [
+            "Success in official examinations could become an important element of a family's history, commemorated in records that later historians are more likely to encounter than the lives of unsuccessful candidates. That survival bias matters. We see those who passed and entered elite networks more clearly than those who studied without appointment or never had access to the relevant schools. Goryeo's examinations were consequential, but they did not turn a stratified society into a modern meritocracy. Their enduring historical interest lies in the tension between a state seeking service through learning and a social order structured by unequal opportunity."
+          ],
+          "label": "Prototype editorial narrative · unsourced sample",
+          "sequence": 5
+        }
+      ]
+    }
+  },
+  "batch_y_blocks": {
+    "II.3.1": {
+      "prior_blocks": 0,
+      "batch_y_end": 7
+    },
+    "II.3.2": {
+      "prior_blocks": 3,
+      "batch_y_end": 10
+    },
+    "II.3.3": {
+      "prior_blocks": 0,
+      "batch_y_end": 7
+    },
+    "II.3.4": {
+      "prior_blocks": 5,
+      "batch_y_end": 12
+    },
+    "II.3.5": {
+      "prior_blocks": 0,
+      "batch_y_end": 7
+    },
+    "II.3.6": {
+      "prior_blocks": 0,
+      "batch_y_end": 7
+    },
+    "II.3.7": {
+      "prior_blocks": 0,
+      "batch_y_end": 7
+    },
+    "II.3.8": {
+      "prior_blocks": 0,
+      "batch_y_end": 7
+    },
+    "II.3.9": {
+      "prior_blocks": 0,
+      "batch_y_end": 7
+    },
+    "II.3.10": {
+      "prior_blocks": 0,
+      "batch_y_end": 7
+    },
+    "V.2.1": {
+      "prior_blocks": 0,
+      "batch_y_end": 10
+    },
+    "V.2.2": {
+      "prior_blocks": 0,
+      "batch_y_end": 10
+    },
+    "V.2.3": {
+      "prior_blocks": 3,
+      "batch_y_end": 14
+    },
+    "V.2.4": {
+      "prior_blocks": 0,
+      "batch_y_end": 10
+    },
+    "V.2.5": {
+      "prior_blocks": 5,
+      "batch_y_end": 17
+    },
+    "V.2.6": {
+      "prior_blocks": 0,
+      "batch_y_end": 10
+    },
+    "V.2.7": {
+      "prior_blocks": 0,
+      "batch_y_end": 12
+    },
+    "V.2.8": {
+      "prior_blocks": 0,
+      "batch_y_end": 12
+    },
+    "V.2.9": {
+      "prior_blocks": 0,
+      "batch_y_end": 12
+    },
+    "V.2.10": {
+      "prior_blocks": 0,
+      "batch_y_end": 12
+    }
+  },
+  "expected_new_passages": 181,
+  "expected_new_article_ids": [
+    "II.3.1",
+    "II.3.3",
+    "II.3.5",
+    "II.3.6",
+    "II.3.7",
+    "II.3.8",
+    "II.3.9",
+    "II.3.10",
+    "V.2.1",
+    "V.2.2",
+    "V.2.4",
+    "V.2.6",
+    "V.2.7",
+    "V.2.8",
+    "V.2.9",
+    "V.2.10"
+  ]
+}
