@@ -1,0 +1,156 @@
+{
+  "id": "V.2.6",
+  "title": "Official Ranks, Careers, Appointment, and Bureaucratic Culture",
+  "kicker": "GORYEO · MONARCHY AND GOVERNMENT",
+  "description": "Evidence-conscious political and social history of official ranks, careers, appointment, and bureaucratic culture, with critical attention to retrospective dynastic sources.",
+  "release": "Y",
+  "sourceStatus": "Original historical synthesis with selected contextual source notes; not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "New History of Korea — Political Structure of Early Goryeo",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_013_0010",
+      "role": "Specialist institutional historical synthesis of Goryeo government"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Central Secretariat and Chancellery (중서문하성)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053786",
+      "role": "Institutional chronology and debates on functions and later reforms"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo (고려) — social and political interpretations",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Broad historical survey; competing aristocratic versus bureaucratic interpretations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sikmok Dogam (식목도감)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032553",
+      "role": "Distinctive Goryeo conference institution; later institutional changes"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Official performance evaluation (고과법)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003313",
+      "role": "Appointments and changing methods of evaluating officials"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.2.6:b01",
+      "title": "Rank, office, and career were distinct things",
+      "paragraphs": [
+        "Goryeo's political world distinguished graded status, an appointment to particular duties, and the history of an individual's service. A rank could locate a person within the formal hierarchy while the actual authority attached to a position varied with the office, the time, and access to influential decision makers. Civil and military pathways developed institutional categories, yet the balance between them shifted dramatically after the 1170 military coup. It is misleading to describe an official's standing by rank alone or assume that a title unchanged in a later source meant unchanged influence. A career depended on repeated decisions about appointment, dismissal, service, and advancement. The records preserve the paths of exceptionally successful men more thoroughly than those who remained in minor posts or never entered office."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions changed through time and must not be reconstructed from timeless office lists",
+          "sourceIndex": 0,
+          "locator": "Goryeo early political structure, institutional reorganization and the later central offices",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.6:b02",
+      "title": "The personnel apparatus and its limits",
+      "paragraphs": [
+        "The Six Ministries included a personnel component responsible for maintaining categories of appointment and evaluation, but no organization could turn all careers into impersonal calculations. The Academy of Korean Studies describes changing systems of official performance assessment, including reforms associated with Seongjong. Such rules reflected the ruler's interest in distinguishing competent from negligent service. Their existence does not prove that every official was regularly investigated or that a bad assessment always led to removal. Elite alliances could intervene, and central evaluators often depended on reports from the same networks they were supposed to scrutinize. An institutional history should examine both the published rule and the social channels through which information reached the court."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.6:b03",
+      "title": "Entry through examination and inherited opportunity",
+      "paragraphs": [
+        "State examinations offered one prestigious route toward public office, and their establishment under Gwangjong is important for understanding royal recruitment. Other routes, including opportunities connected to family service and hereditary privilege, coexisted with the examination system. Families with resources for education could pursue literary success while also cultivating marriage and patronage links. It is therefore misleading to contrast a meritocratic bureaucracy with a completely hereditary aristocracy as if Goryeo had to embody only one of them. Officials could benefit from learning and lineage at different moments in their careers. The distribution of opportunity, not just the wording of eligibility rules, shows whose competence the court could readily recruit."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.6:b04",
+      "title": "Education and professional identity",
+      "paragraphs": [
+        "Literary education taught officials a common vocabulary for expressing duty, debating policy, and interpreting precedents. Such learning created networks among teachers, students, and families who invested in preparation. It could also produce disagreements: sharing classical references did not mean holding the same position on taxation, diplomacy, religion, or military appointments. Men trained in one scholarly environment might later serve in very different provinces or court offices. The distinction between general literary cultivation and specialized administrative skill mattered when officials encountered local problems that could not be resolved by elegant prose alone. An effective state needed people who could interpret moral norms, process records, and negotiate with households that possessed their own interests."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.6:b05",
+      "title": "Patronage and the social life of a career",
+      "paragraphs": [
+        "Recommendations, sponsorship, and kinship relationships helped connect an aspirant to the limited number of offices available. Patronage need not always imply corruption; where a state lacked comprehensive testing of practical service, personal knowledge could be an important way to judge a candidate. It also created avenues for exclusion and preferential treatment. The historian should examine how officials presented recommendations and whether subsequent appointments followed the expected procedures. Elite biographies tend to emphasize virtuous talent and honorable sponsors, not informal bargains. That narrative preference can conceal the dependence of a career on marriage connections, households of officials, and local resources that made prolonged service financially possible."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.6:b06",
+      "title": "Civil and military careers",
+      "paragraphs": [
+        "The formal distinction between civil and military officials was consequential, particularly when rewards and access to influence became unequal. Tensions were among the factors behind the military revolt of 1170 and the decades of rule by military strongmen that followed. Yet the categories were not socially or politically airtight: commanding troops required logistics and communication, while civil officials participated in frontier decisions. Military domination did not abolish the need for written administration. Careers could be interrupted or redirected during coups, and later chroniclers might interpret these shifts through a moral contrast between proper civilian rule and illegitimate violence. A better institutional account asks how office functions survived amid changes in who controlled appointments."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.6:b07",
+      "title": "Pay, honor, and the material basis of office",
+      "paragraphs": [
+        "Holding public office could provide access to stipends, land-related benefits, ceremonial privileges, and influence over clients. These rewards were crucial to understanding why careers mattered to families. Yet a nominal entitlement and its reliable payment are not the same thing; fiscal difficulties could affect the state's capacity to support officials. A high title without an adequate material base might not secure effective service, while an individual with control over local resources could possess influence beyond his formal rank. Institutional sources describe systems of compensation but rarely provide full household accounts. Distinguishing official honor from actual economic power helps link personnel administration to the broader history of status, taxation, and political contest."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": [
+        {
+          "claim": "Goryeo governing institutions changed through time and must not be reconstructed from timeless office lists",
+          "sourceIndex": 1,
+          "locator": "Goryeo early political structure, institutional reorganization and the later central offices",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.2.6:b08",
+      "title": "Mobility beyond the elite biography",
+      "paragraphs": [
+        "Biographical collections are disproportionately concerned with officials who achieved distinction, attracted political controversy, or belonged to lines that later patrons wished to commemorate. They say less about clerks, minor local workers, translators, and the wide range of people necessary to maintain records. For many such individuals, writing may have been an occupational skill without a pathway into prestigious central posts. The notion of social mobility has to be specified: entry into a modest administrative role differs from repeated access to senior councils. An educated household might advance in one generation and lose prominence in another. The existence of examinations indicates an institutional opportunity but not equal chances across residence, status, and wealth."
+      ],
+      "sequence": 8,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.6:b09",
+      "title": "Official ethics and career conflicts",
+      "paragraphs": [
+        "Goryeo officials were expected to present themselves as serving the ruler and the common good, using ethical arguments drawn from established political learning. Yet their decisions could affect the fortunes of friends and kin, producing conflicts between public office and private obligation. Chronicles preserve accusations of corruption and instances of courageous refusal, often framed as moral examples. Such accounts should be analyzed for their immediate political stakes as well as their ethical claims. A dismissal recorded as punishment for misconduct may also have followed a factional reversal. The historian need not assume universal hypocrisy or universal virtue; instead, it should compare the charges, the available evidence, and the circumstances under which a narrative was preserved."
+      ],
+      "sequence": 9,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    },
+    {
+      "id": "V.2.6:b10",
+      "title": "Institutions that survived through revision",
+      "paragraphs": [
+        "Goryeo's ranks and offices changed as the dynasty responded to reforms, military rule, and external pressure. Some institutions retained recognizable names while responsibilities shifted; others disappeared or were incorporated into new arrangements. An official's career spanning several reigns could therefore involve changes in the meaning of a title even without an obvious break in service. Personnel administration was a way of building continuity, but it was also a field of struggle over who had the right to reward, examine, and discipline. The most useful history of bureaucratic culture does not isolate official lists from political crises. It reads them together with family networks, education, public ethics, and the everyday administrative work that made the realm governable."
+      ],
+      "sequence": 10,
+      "label": "Original historical synthesis · institutional source criticism",
+      "evidence": []
+    }
+  ]
+}
