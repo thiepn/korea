@@ -36,4 +36,4 @@ with sync_playwright() as pw:
         assert not errors,(w,errors)
         page.close()
     browser.close()
-print('PASS Batch Y desktop/mobile generated assets: both full Chapters, two pathways, citation, Korean search, Bronze Age farming and contested late Joseon sovereignty, zero pageerrors or horizontal overflow.')
+print('PASS Batch Y desktop/mobile generated assets: both full Chapters, two pathways, citation, Korean search, Han commandery history and Goryeo government, zero pageerrors or horizontal overflow.')
