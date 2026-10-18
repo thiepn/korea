@@ -1,0 +1,165 @@
+{
+  "id": "II.5.3",
+  "title": "From Local Communities to an Early Goguryeo Polity",
+  "kicker": "EARLY GOGURYEO · FORMATION AND SOURCE CRITICISM",
+  "description": "An original historical study of from local communities to an early goguryeo polity, separating political traditions, documentary testimony and archaeological interpretation.",
+  "release": "AA",
+  "sourceStatus": "Original source-critical synthesis with selective contextual institutional anchors; independent specialist review pending.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Specialist synthesis: early history, Han frontier, kingdom expansion and the limits of retrospective chronology"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Dongmyeongseongwang (동명성왕)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016431",
+      "role": "Foundation traditions, Chumo/Jumong, variant name forms and transmission through later chronicles and inscriptions"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Site-specific archaeological reference for Huanren, Ji'an, fortifications, tombs and the Gwanggaeto stele"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.5.3:b01",
+      "title": "From valley communities toward a kingdom",
+      "paragraphs": [
+        "The early Goguryeo polity grew within a landscape of mountain valleys, river corridors, and communities whose local leaders controlled resources and relationships. A familiar narrative presents this change as a single monarchy expanding from a founding capital. The process was likely less uniform. Leaders had to obtain food, men, horses, tools, and the consent or submission of other chiefs; these resources were dispersed rather than stored in one royal treasury. Early Chinese records refer to people and locations through administrative or ethnographic categories that do not neatly describe their own internal identities. Korean histories written later offer an ordered succession of reigns. Interpreting their overlap requires attention to both the geography of power and the political agendas of surviving texts."
+      ],
+      "sequence": 1,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo synthesis: early political and frontier formation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.3:b02",
+      "title": "The local scale of authority",
+      "paragraphs": [
+        "A valley chief could command labor for walls, broker exchange along a pass, host ritual assemblies, and lead armed followers without exercising the kind of territorial bureaucracy familiar from later states. Several such centers might acknowledge a predominant ruler while retaining considerable autonomy. What made Goguryeo more than a temporary coalition was the gradual development of relationships that survived the death or defeat of particular leaders. Repeated tribute, durable marriage agreements, assemblies, and military obligations can produce this continuity, though each is unevenly documented for the earliest phase. Terms such as tribe, clan, chiefdom, and kingdom summarize different analytic models, not categories inscribed on every archaeological object. Avoiding an abrupt leap from village to centralized state helps preserve the actual complexity of political formation."
+      ],
+      "sequence": 2,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    },
+    {
+      "id": "II.5.3:b03",
+      "title": "Walled places and power",
+      "paragraphs": [
+        "Mountain fortresses and riverine centers gave rulers advantages in visibility, refuge, storage, and control of movement. They also required coordinated construction, repair, provisioning, and access to nearby farmland. A fortification can therefore indicate organized collective labor, but the builders and political sponsors are not always identifiable. UNESCO documentation of early Goguryeo capital complexes in the Huanren and Ji'an areas demonstrates a landscape of mountain and plain sites rather than a single unchanging royal residence. Defensible geography helped political authority endure pressure from stronger neighbors. It also limited what armies could do away from supply lines. The capacity to maintain a fortified network was a form of power distinct from the prestige of winning one celebrated battle."
+      ],
+      "sequence": 3,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Koguryo capital cities: fortifications and Gwanggaeto stele",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.3:b04",
+      "title": "Lineage and coalition",
+      "paragraphs": [
+        "Early narratives preserve names of royal ancestors and influential groups, yet the relationship between these genealogies and an independently recoverable hierarchy remains disputed. Alliances through marriage could tie ruling families to local communities; the language of common descent could later present those alliances as ancient unity. Incorporation did not erase previous identities. Some communities supplied troops or food while retaining regional interests, and court authority could vary with distance and season. By considering the possibility of a coalition, historians avoid assuming every early command came from a government whose officers and districts were already fully standardized. Political formation can instead be measured by the ability to summon, bargain, punish, and negotiate repeatedly across a changing set of local power holders."
+      ],
+      "sequence": 4,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    },
+    {
+      "id": "II.5.3:b05",
+      "title": "Food and military service",
+      "paragraphs": [
+        "A ruler's capacity to maintain followers depended upon cultivators, hunters, pastoral activity where applicable, transport workers, and people who processed metal or built equipment. River valleys offered fields and routes, but steep terrain and harsh winters imposed constraints. Soldiers needed provisions long before campaigns could begin. The burden could be collected as offerings, obligations to a chief, or more regularized tribute; the surviving record does not permit one precise tax schedule for the first century. Economic organization and military organization should therefore be studied together. A small force that could move quickly and retreat behind walls might be politically consequential without possessing the population or grain reserves of a much larger agrarian state."
+      ],
+      "sequence": 5,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 1,
+          "locator": "AKS Dongmyeongseongwang: transmitted Chumo foundation narratives",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.3:b06",
+      "title": "Relations with commandery institutions",
+      "paragraphs": [
+        "Goguryeo's rise occurred near Han imperial administrative positions and their successors. Imperial officials sometimes tried to classify communities as subordinate districts, negotiate with leaders, recruit intermediaries, or mount punitive operations. Such contacts offered opportunities for exchange as well as conflict. Receiving an external title did not necessarily mean that a local leader surrendered all initiative. Conversely, an account of a raid does not prove permanent independence from every nearby institution. Frontier politics involved overlapping claims and changing military feasibility. The Han-centered archives emphasize imperial interests, while later Korean royal narratives foreground successful resistance. Neither speaks for every local settlement on the frontier. Comparing them brings administrative ambition and practical control into clearer distinction."
+      ],
+      "sequence": 6,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    },
+    {
+      "id": "II.5.3:b07",
+      "title": "Burials as evidence of differentiation",
+      "paragraphs": [
+        "Changes in funerary practices can suggest widening differences in wealth, status, and connections to ruling circles. Stone-piled graves, chamber construction, and grave goods are material records of decisions by surviving households and communities. They do not straightforwardly identify political office, language, or ethnicity. Some assemblages reflect continuity within local traditions; others suggest movement of techniques and prestige goods across long distances. Looting and uneven excavation further complicate comparison. The later painted tombs famous from Goguryeo should not be projected wholesale onto earlier centuries. Their representational language belongs to another phase of state development. What early graves can establish more securely is that resources and commemorative labor were distributed unequally, providing one measure of emerging political stratification."
+      ],
+      "sequence": 7,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo synthesis: early political and frontier formation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.3:b08",
+      "title": "The instability of early dates",
+      "paragraphs": [
+        "Early rulers receive sequential reign dates in medieval compilations, creating the appearance of an uninterrupted and precise royal timetable. Such chronology is valuable as a structure for discussion, but precision is not the same as verification. Annals may preserve older material while arranging traditions according to political assumptions current when they were written. Archaeological phases seldom correspond to the reign of one named ruler, and Chinese records date interactions from an outside point of view. Differences need not be harmonized by choosing whichever text supplies the neatest narrative. Sometimes the best conclusion is an interval, an uncertain identification, or a distinction between a reported date and the chronology of material change."
+      ],
+      "sequence": 8,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    },
+    {
+      "id": "II.5.3:b09",
+      "title": "Center and periphery reconsidered",
+      "paragraphs": [
+        "Describing Goguryeo as a center expanding into a passive periphery overlooks the choices of incorporated groups. Regional chiefs might cooperate to gain protection, resist demands, migrate, exploit rivalry, or adopt royal symbols for their own local advantage. A political relationship could be negotiated in one decade and enforced militarily in another. Areas called peripheral by a court could be central to trade, food production, or access to horses. The landscape cannot be described adequately by coloring a map once and assuming that influence stayed fixed. A more careful reconstruction maps routes, settlements, exchange zones, and the limited evidence for jurisdiction separately, allowing political boundaries to remain contested."
+      ],
+      "sequence": 9,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Koguryo capital cities: fortifications and Gwanggaeto stele",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.3:b10",
+      "title": "What formation really changed",
+      "paragraphs": [
+        "The emergence of Goguryeo altered the possibilities of politics in northeastern Asia. A more persistent rulership could coordinate fortresses, organize expeditions, claim legitimacy through shared traditions, and negotiate with imperial institutions. It still depended on local actors, unreliable harvests, and relationships difficult to enforce at a distance. The transition from communities to polity was not a single march toward inevitable empire; it was repeatedly tested by succession, warfare, and economic pressure. Later expansion may make the early organization seem more coherent than it was. Keeping that retrospective distortion in view makes the formative centuries historically interesting in their own right, rather than merely a preface to the celebrated fifth-century kings."
+      ],
+      "sequence": 10,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    }
+  ]
+}
