@@ -60,7 +60,7 @@ for id in sorted(target):
     assert cw>=750,('thin narrative article',id,cw)
     per[id]=cw
     words+=cw
-normalized=[' '.join(re.findall(r'\\w+',p.casefold())) for p in prose]
+normalized=[' '.join(re.findall(r'\w+',p.casefold())) for p in prose]
 assert len(normalized)==len(set(normalized)),'repeated Batch Z prose'
 assert 20000<=words<=30000,('new words out of range',words)
 assert words==fixture['expected_new_words'],('frozen word-count mismatch',words,fixture['expected_new_words'])

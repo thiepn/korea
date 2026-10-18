@@ -10,7 +10,7 @@ on:
       - 'data/articles/VI.10.*.json'
       - 'tests/batch_z_*'
       - 'tests/fixtures/batch_z_*'
-      - '.github/workflows/batch-y-qa.yml'
+      - '.github/workflows/batch-z-qa.yml'
       - 'scripts/resolve_batch_z_preview.py'
 permissions:
   contents: read
