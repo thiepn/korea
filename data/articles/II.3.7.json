@@ -1,0 +1,126 @@
+{
+  "id": "II.3.7",
+  "title": "Writing, Education, Burial, and Material Culture",
+  "kicker": "HAN COMMANDERIES · MATERIAL AND TEXTUAL SOURCES",
+  "description": "Original source-critical study of writing, education, burial, and material culture, evaluating Han and Korean historiography alongside archaeological evidence.",
+  "release": "Y",
+  "sourceStatus": "Original historical synthesis; selected contextual references are not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Ancient Korean Society and Lelang",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Modern institutional survey of the Han commanderies"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Lelang Commandery (낙랑군) — historiography and evidence",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011576",
+      "role": "Historiographical overview; includes interpretive disagreements and archaeological limits"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Lelang official inscribed roof-end tile",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0402000000.do?relicId=1874&schM=view&searchId=search",
+      "role": "Material proof of administrative inscription; not a territorial border"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daifang Commandery (대방군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014398",
+      "role": "Later reorganization and changing northeastern geopolitics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Eunyul Gwansan-ri tombs",
+      "url": "https://encykorea.aks.ac.kr/Article/E0042852",
+      "role": "Dated mortuary archaeology; limited excavation sample"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.3.7:b01",
+      "title": "An archive written in clay and stone",
+      "paragraphs": [
+        "Much of the everyday history of Lelang and related jurisdictions survives not as a continuously preserved manuscript but in objects recovered from the ground. The numerous tombs associated with the northwestern commandery zone have produced ceramics, lacquerware, bronze objects, ornaments, weapons, and structures that speak to changing wealth and funerary practice. Material abundance should not be confused with equal representation: families able to build conspicuous tombs are disproportionately visible. Excavation also encounters disturbance, reuse, and imperfect early recording. A grave furnishes a concentrated sample of things selected by the living at a particular moment, not a complete inventory of its occupant's possessions or beliefs. The historian must read this selection alongside settlements and documentary references rather than allow the best-furnished burials to stand for all inhabitants."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretation of historical sources and material evidence must be distinguished from direct historical testimony",
+          "sourceIndex": 0,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.7:b02",
+      "title": "Writing and the production of authority",
+      "paragraphs": [
+        "Imperial commandery government required an administrative vocabulary: positions, reports, registers, dates, and recorded transactions. Inscribed materials show that writing participated in this environment, although survival is highly selective. The National Museum of Korea identifies a roof-end tile inscribed with an official designation associated with Lelang; this is unusually direct evidence for the material presence of administrative nomenclature. It is not, by itself, proof that every county operated according to the normative structure of Han law. Literacy may have been distributed unevenly among officials, scribes, merchants, and households. Language and script could be acquired for practical exchange without signaling comprehensive adoption of metropolitan learning. The physical distribution of writing therefore opens questions about access and power rather than resolving them."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.7:b03",
+      "title": "Tombs, status, and the limits of ethnicity",
+      "paragraphs": [
+        "Wooden-chamber graves, brick constructions, and varying burial furnishings have frequently been used to identify the social composition of commandery communities. Such approaches require restraint. Mortuary practice expresses choices made by relatives, institutional expectations, and available resources; it does not reveal an immutable ethnic category stamped onto an individual. Objects fashioned in a Han style might accompany migrants, descendants of local families, or people participating in shared prestige conventions. Conversely, continuity in pottery or ritual can exist within a population that has experienced changes in administration. Burial archaeology is most productive when it reconstructs chronology, social differentiation, and cultural interaction without insisting that every artifact corresponds to a named people in a historical text."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.7:b04",
+      "title": "The infrastructure of an official city",
+      "paragraphs": [
+        "Tiles, bricks, compounds, roads, storage and service spaces remind us that administration depended on a built environment. A center had to furnish offices, receive travelers, move records, shelter soldiers, and maintain a labor force that repaired its facilities. Excavated architectural materials and written office names are evidence of these demands, although urban dimensions and population totals remain uncertain. A decorated roof tile originally used in an official building could enter a later archaeological context through rebuilding or disposal. Dating its manufacture and deposition as the same event would risk compressing the life history of the object. Reconstruction should distinguish a structure observed in excavation from the broader city plan inferred through comparison with continental administrative centers."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretation of historical sources and material evidence must be distinguished from direct historical testimony",
+          "sourceIndex": 1,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.7:b05",
+      "title": "Education, models, and mediated learning",
+      "paragraphs": [
+        "The presence of formal institutions made continental literary forms more available, but it does not justify imagining a universal school system serving all commandery residents. Officials needed trained personnel, and elite households had incentives to acquire useful literacy. The actual settings in which people learned writing may have included family teaching, clerical apprenticeship, and direct service to offices. Textual references from other Han territories can suggest possible practices but cannot be substituted for local evidence. Even when familiar moral or cosmological expressions appear on objects, the meanings attached to them may have differed among producers, patrons, and viewers. Cultural exchange was mediated by position and purpose rather than identical assimilation across social strata."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.7:b06",
+      "title": "Conservation and unequal access to evidence",
+      "paragraphs": [
+        "Some major find areas lie in present-day North Korea, where excavation, publication, and access have followed different institutional histories from those in the South and abroad. Colonial-period collecting and unequal preservation further complicate the evidential landscape. A museum inventory may contain an object with a familiar label but incomplete find-context information. Researchers should ask when it was excavated, by whom, under what reporting standards, and whether its provenance can be independently corroborated. The distinction between a secure stratigraphic association and an attractive object acquired through an old collection is especially important when making fine chronological claims. Conservation work preserves materials while reminding us that a modern collection is itself a product of history."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.7:b07",
+      "title": "Culture beyond a diffusion diagram",
+      "paragraphs": [
+        "It is tempting to narrate Lelang as a simple channel through which advanced Chinese culture flowed into an undeveloped peninsula. Such a model obscures preexisting technologies, local decisions about adoption, and differences among regions. A new tile-making practice could respond to particular administrative or ceremonial demand; a lacquer object could be imitated or repurposed; writing could assist merchants as well as officers. The same evidence may demonstrate contact without proving that local political institutions were copied wholesale. Material civilization develops through selective learning, labor, and contestation. Understanding how people used imported forms is more informative than assigning an entire site to one cultural side of a binary divide."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}

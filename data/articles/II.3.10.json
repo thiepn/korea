@@ -1,0 +1,126 @@
+{
+  "id": "II.3.10",
+  "title": "The Commanderies in Modern Historiography",
+  "kicker": "HAN COMMANDERIES · MATERIAL AND TEXTUAL SOURCES",
+  "description": "Original source-critical study of the commanderies in modern historiography, evaluating Han and Korean historiography alongside archaeological evidence.",
+  "release": "Y",
+  "sourceStatus": "Original historical synthesis; selected contextual references are not independent scholarly peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Ancient Korean Society and Lelang",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Modern institutional survey of the Han commanderies"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Lelang Commandery (낙랑군) — historiography and evidence",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011576",
+      "role": "Historiographical overview; includes interpretive disagreements and archaeological limits"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Lelang official inscribed roof-end tile",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0402000000.do?relicId=1874&schM=view&searchId=search",
+      "role": "Material proof of administrative inscription; not a territorial border"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Daifang Commandery (대방군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0014398",
+      "role": "Later reorganization and changing northeastern geopolitics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Eunyul Gwansan-ri tombs",
+      "url": "https://encykorea.aks.ac.kr/Article/E0042852",
+      "role": "Dated mortuary archaeology; limited excavation sample"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.3.10:b01",
+      "title": "Why the commanderies became a historical argument",
+      "paragraphs": [
+        "Few subjects in early Korean history have been as thoroughly entangled with modern political meanings as the Han commanderies. Their existence raises questions about sovereignty, foreign rule, ethnicity, and the earliest territorial histories of the peninsula. Those are understandable concerns, but they can distort research when a preferred modern conclusion determines which ancient evidence is acceptable. The historical task is narrower and more demanding: identify institutions, locations, chronologies, population interactions, and the evidential grounds for reconstructing them. A commandery founded under Han authority was a form of imperial government; this does not make the present-day inhabitants of a territory descendants of one homogeneous ancient category. Ancient and modern political identities must be distinguished."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretation of historical sources and material evidence must be distinguished from direct historical testimony",
+          "sourceIndex": 0,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.10:b02",
+      "title": "The importance of textual provenance",
+      "paragraphs": [
+        "Han-era narratives, later geographical commentaries, Korean histories compiled centuries afterward, and present-day archaeological reports were produced under different conditions. They cannot all be treated as first-hand testimony of the same weight. A county named in an official geography may be evidence for a jurisdiction recognized by compilers, but its placement on a modern map requires additional arguments. A later chronicle may preserve an otherwise lost event and simultaneously rearrange its meaning around the interests of subsequent rulers. Historians should identify authorship, compilation date, genre, and the potential pathways through which older information was transmitted. A critical source note is not an ornamental citation: it states what a given document can and cannot establish."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.10:b03",
+      "title": "Colonial scholarship and its institutional setting",
+      "paragraphs": [
+        "The Japanese colonial period profoundly influenced the archaeological collection, excavation, and interpretation of sites associated with Lelang. Scholars working within colonial institutions helped create large bodies of data, but their questions and public framing were conditioned by unequal political power. Using an excavation measurement from that period need not endorse an imperial ideology; ignoring its context, however, risks perpetuating one. The provenance of museum objects, restoration histories, publication practices, and lost field records must all be interrogated. A nationalist rejection of every colonial-era observation is no substitute for careful testing, just as uncritical acceptance of colonial-period interpretations is not methodologically neutral. Evidence and its modern institutional history require separate critical evaluation."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.10:b04",
+      "title": "Archaeology and the Pyongyang debate",
+      "paragraphs": [
+        "Concentrations of tombs, inscribed tiles, and administrative material around the Pyongyang area have shaped the prevailing scholarly reconstruction of Lelang. The National Museum of Korea identifies material associated with official buildings there. Different interpretations continue to debate the spatial reach of the commandery and the locations of the shorter-lived units, sometimes invoking alternative readings of the transmitted histories. The strength of a specific find rests on authentication, excavation context, and datable association rather than the modern political affiliation of its discovery site. A disagreement over how far a commandery extended is not identical to a disagreement over whether there was an administratively significant center. Clarity about the level of the claim reduces the temptation to collapse every dispute into a single yes-or-no question."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretation of historical sources and material evidence must be distinguished from direct historical testimony",
+          "sourceIndex": 1,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.10:b05",
+      "title": "Ethnicity is not excavated intact",
+      "paragraphs": [
+        "Objects are often classified as Han-style or indigenous, and those categories can be useful for comparing manufacture and design. They do not, without further evidence, disclose an individual's ancestry, first language, or political loyalties. A burial may combine traditions precisely because lives were lived across several networks. Migrants could acquire local practices, and local families could seek objects associated with imperial office. The archaeological task is to reconstruct production, circulation, and social use, not to make cultural similarity stand in automatically for population replacement. Ancient administrative categories are also dangerous if treated as timeless biological identities. The social history of the commanderies requires attention to mixed communities and changing affiliations without inventing detailed biographies unsupported by the record."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.10:b06",
+      "title": "The politics of terminology",
+      "paragraphs": [
+        "The word colony may illuminate the unequal relationship between a Han imperial authority and conquered or subordinated communities, but it also carries associations from modern European empires that require explanation. Commandery is a more specific institutional designation but can sound neutral where force and hierarchy were consequential. Similarly, conquest identifies an event, while administration and settlement refer to processes that may not unfold uniformly afterward. Historians gain little by demanding one word bear the entire moral and political argument. Better practice specifies the administrative structure, sources of coercion, geographic uncertainty, and evidence for local participation. Terms should clarify mechanisms rather than substitute for research."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.10:b07",
+      "title": "A transparent evidential hierarchy",
+      "paragraphs": [
+        "A responsible synthesis ranks the evidence at the level of the individual claim. An inscription in a secure excavation context strongly supports the existence of a name or function at that place; it does not establish the entire jurisdictional border. A dated Chinese history can establish that a court recorded a reform; it cannot automatically verify implementation in every village. A scholarly atlas may propose a boundary informed by several kinds of material; its line is an interpretation rather than a discovered stone marker. This approach allows disagreement without abandoning reasoned judgment. Historical uncertainty is not evidence that all reconstructions have equal support. It is a reason to be explicit about what is known, inferred, and currently inaccessible."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}
