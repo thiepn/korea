@@ -30,6 +30,69 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "II.3.2:b04",
+      "title": "Where the administrative center stood",
+      "paragraphs": [
+        "The Lelang commandery is commonly associated with the Pyongyang region, where substantial assemblages of Han-period tombs and architectural material have been documented. This location is supported by more than a repeated place name: archaeological distributions, inscriptions, and the administrative setting reconstructed from them reinforce one another. Nevertheless, the geographic reach of a central jurisdiction cannot simply be read off a concentration of graves. A city could be securely situated while the margins of the counties supposedly subordinate to it remained uncertain. Textual county lists may preserve institutional claims rather than a complete map of effective coercion. Scholars reconstruct the commandery's spatial organization by comparing chronologies, sites, place names, and the context of artifacts, not by assuming that a modern national border describes an ancient administrative limit."
+      ],
+      "sequence": 4,
+      "label": "Original Batch Y historical extension · source-critical"
+    },
+    {
+      "id": "II.3.2:b05",
+      "title": "The inscription and its modest claim",
+      "paragraphs": [
+        "An inscribed roof-end tile in the National Museum of Korea collection bears the expression Nangnangyegwan, associated with an administrative office. Its significance lies in the conjunction of a named function and an architectural object: an institutional term existed in a built environment that required specialized production. Such a find does not by itself identify every officeholder or establish the complete plan of the commandery capital. The tile passed through manufacturing, construction, use, possible rebuilding, and deposition before entering a museum; these stages need not coincide in date. Inscriptions provide unusually direct local evidence, but they still require contextual analysis. Read in conjunction with historical notices, they help distinguish the presence of administration from the imperial claim to regulate an entire region."
+      ],
+      "sequence": 5,
+      "label": "Original Batch Y historical extension · source-critical"
+    },
+    {
+      "id": "II.3.2:b06",
+      "title": "Records and the economy of official service",
+      "paragraphs": [
+        "A working commandery depended on registers, communications, tax obligations, military provisioning, and the supervision of subordinate districts. Documents could travel between a regional center and smaller offices; instructions could also pass through local intermediaries whose formal titles are poorly recorded. The central town required food, wood, ceramics, metalworking, and the services of people whose names generally do not enter surviving political histories. An administrative system cannot be understood simply by listing ranks from a metropolitan statute. Historians must ask how communication functioned when roads were difficult, how authority was negotiated at a distance, and whether officials depended on established local families. The surviving material suggests complexity without allowing a secure calculation of the numbers employed in each occupation."
+      ],
+      "sequence": 6,
+      "label": "Original Batch Y historical extension · source-critical"
+    },
+    {
+      "id": "II.3.2:b07",
+      "title": "Lelang and the wider northern frontier",
+      "paragraphs": [
+        "The apparent longevity of Lelang should not obscure the fragile environment surrounding it. Xuantu's changes of location, the reorganization of southern jurisdictions, and the emergence of powerful regional neighbors affected the meaning of Lelang's authority. The center's political importance may have encouraged merchants and diplomatic visitors as well as attracting the attention of rival powers. A regional settlement's interaction with the commandery might involve exchanging goods, seeking recognition, or refusing demands without having a stable status in imperial law. It is therefore misleading to treat contact as synonymous with inclusion. The historian must differentiate trade networks, spheres of influence, and county administration even when a court text describes all three in a vocabulary of allegiance."
+      ],
+      "sequence": 7,
+      "label": "Original Batch Y historical extension · source-critical"
+    },
+    {
+      "id": "II.3.2:b08",
+      "title": "Burial evidence and social inequality",
+      "paragraphs": [
+        "Large graves, brick architecture, lacquer vessels, bronze mirrors, and elaborate furnishings make some Lelang-associated households unusually visible in the archaeological record. They can suggest the resources available to prosperous residents and the circulation of specialist products. Yet a tomb is the outcome of funerary decisions by the survivors; it does not record all the actions or beliefs of the deceased. The cost of objects may indicate status, but some might be heirlooms or gifts, while others are difficult to assign to one economic category. Comparing graves with less spectacular habitation traces can shift attention toward craftspeople, laborers, and families outside the commandery elite. Such comparisons require stable excavation contexts and careful dating rather than impressions drawn from isolated prestigious finds."
+      ],
+      "sequence": 8,
+      "label": "Original Batch Y historical extension · source-critical"
+    },
+    {
+      "id": "II.3.2:b09",
+      "title": "Colonial historiography and its inheritance",
+      "paragraphs": [
+        "Research on Lelang has a modern history shaped in part by Japanese colonial institutions, northern and southern Korean scholarly communities, and different degrees of access to excavation records. Colonial scholars amassed evidence under unequal conditions and often framed ancient conquest in ways useful to their own political setting. Recognizing this does not establish that each measured object or excavated tomb is false. Instead, it requires separation of the evidence's material properties from the historical arguments made about it. Modern interpretations can also be affected by contemporary ideas of territorial continuity. A credible account makes these contexts explicit, states why a particular identification is preferred, and leaves genuinely contested boundaries open when the available record does not permit certainty."
+      ],
+      "sequence": 9,
+      "label": "Original Batch Y historical extension · source-critical"
+    },
+    {
+      "id": "II.3.2:b10",
+      "title": "The capital as a lived community",
+      "paragraphs": [
+        "Calling Lelang a commandery capital emphasizes government, but residents also lived through marriages, illnesses, festivals, ordinary conflicts, apprenticeship, provisioning, and journeys beyond the center. A place could simultaneously be an official hub, a market, a household landscape, and a site of cultural mixing. That multiplicity is not a modern embellishment; it follows from the infrastructure needed to sustain an urban settlement over generations. The difficulty is evidential: most personal stories cannot be recovered, and archaeological categories rarely identify individuals. The strongest synthesis explains how officeholding, material consumption, and external exchange structured possibilities for communities without inventing conversations or treating every resident as a representative of one political or ethnic identity."
+      ],
+      "sequence": 10,
+      "label": "Original Batch Y historical extension · source-critical"
     }
   ],
   "release": "C"
