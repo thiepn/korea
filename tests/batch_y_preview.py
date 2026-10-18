@@ -28,7 +28,7 @@ with sync_playwright() as pw:
         page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("II.3.1")',timeout=20000)
         page.keyboard.press('Escape')
         page.evaluate('location.hash="#/history/V.2.8"')
-        page.wait_for_function('document.body.textContent.includes("Rank, office, and career were distinct things")',timeout=20000)
+        page.wait_for_function('document.body.textContent.includes("Justice was an activity, not a single code")',timeout=20000)
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),('horizontal overflow',w)
         assert not errors,(w,errors)
         page.close()
