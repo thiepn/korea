@@ -1,0 +1,156 @@
+{
+  "id": "VI.10.2",
+  "title": "Warnings, Intelligence, Military Preparedness, and the Prewar Defense System",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Source-critical account of warnings, intelligence, military preparedness, and the prewar defense system, with distinct viewpoints from court memoirs, surviving diaries, military history and material evidence.",
+  "release": "Z",
+  "sourceStatus": "Original editorial history anchored in selected institutional references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall: seven-year war and documentary evidence",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "Institutional exhibition joining military history, the refugee diary Swaemirok and wartime objects"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War (임진왜란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Specialist chronology, Japanese invasion, righteous armies and broader societal disruption"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: War Diary of Admiral Yi Sun-sin",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "Surviving first-person naval diary, necessarily limited to its author's experience"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok (징비록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Retrospective memoir by minister Ryu Seong-ryong, rich but shaped by personal evaluation"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee: Swaemirok exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "Close view of O Hui-mun's wartime household diary; not representative of every social rank"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.2:b01",
+      "title": "A defence system designed for other dangers",
+      "paragraphs": [
+        "Joseon's military arrangements before 1592 were shaped by longstanding concerns about raids, frontier security and the organization of provincial forces. The command structure relied on magistrates, officers, garrisons and systems of mobilization that worked unevenly under local social conditions. It was not organized primarily for a large professional army landing simultaneously at major southern ports. Historical criticism should avoid saying that Joseon possessed no military institutions; the question is whether existing institutions could assemble effective forces at the pace required by the new invasion. Their performance depended on training, weapons, transport, taxation and the political ability of officials to obtain accurate local information."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum Imjin War Hall: 1592 invasion, documentary sources and civilian diary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.2:b02",
+      "title": "Reports from Japan",
+      "paragraphs": [
+        "Diplomatic missions conveyed warnings about Hideyoshi's intentions, but reports differed in confidence and interpretation. Some visitors observed extensive military capacity; others perceived opportunities to preserve established relations. Later historical writing often compresses the debate into one correct warning and one negligent dismissal. This approach imposes the knowledge of April 1592 upon people who lived before it. Officials had to distinguish threatening rhetoric from actual preparations, judge the credibility of intermediaries and balance defensive spending against other fiscal needs. Their failure to agree had serious consequences without proving that every individual who preferred negotiation knowingly invited invasion."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War entry: campaigns, righteous armies and historical interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.2:b03",
+      "title": "Provincial command and local realities",
+      "paragraphs": [
+        "Orders from Seoul depended on provincial officials responsible for taxation, justice and public works as well as defence. Some had little practical combat experience, and the speed with which a professional invading army could move tested their ability to collect troops and supplies. Local military registers did not necessarily correspond to men equipped and present when needed. Avoiding invented totals matters here: the administrative appearance of a force can differ radically from its battlefield strength. Officials also relied on community cooperation, and heavy mobilization could alienate the very households needed for support. The challenge was institutional and social, not merely one of courage."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Nanjung Ilgi registry: diary provenance and limits of firsthand naval testimony",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.2:b04",
+      "title": "Walls, signal systems and weaponry",
+      "paragraphs": [
+        "Fortifications, warning beacons and communication roads formed a defensive infrastructure that could offer valuable early information. Yet a signal system was useful only if messages were interpreted, relayed and acted upon quickly. Fortress walls provided resistance where provisions and trained defenders were available, but could not stop a mobile enemy that bypassed them. Joseon possessed firearms and artillery traditions, while Japanese forces brought considerable experience in matchlock tactics. The differing weapons should not be described as a simple contrast between technologically backward Koreans and modern Japanese. Effective fire depended on drill, powder supply, tactical coordination and terrain as much as the presence of particular weapons."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.2:b05",
+      "title": "The navy before Yi Sun-sin's victories",
+      "paragraphs": [
+        "Joseon's coastal defence institutions predated the celebrated campaigns of Admiral Yi Sun-sin. Shipbuilding experience, maritime geography and provincial fleets were institutional resources that capable commanders could use. They were unevenly distributed and subject to problems of readiness, political oversight and supply. Yi's later achievements must be placed within this inherited technical and administrative base rather than portrayed as the sudden invention of naval warfare by one individual. His diaries and reports provide exceptional first-person evidence for the work of preparation, but they reveal conditions from his vantage point, not the complete workings of every Korean fleet before the war."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.2:b06",
+      "title": "Seoul's political calculations",
+      "paragraphs": [
+        "Military expenditure competed with other claims on revenue, while established divisions among ministers affected the credibility accorded to warnings. Government leaders could disagree about how to reinforce coastal garrisons without disagreeing that national security mattered. Chroniclers writing after the war had incentives to attribute disaster to rival factions or failed advisers. Ryu Seong-ryong's later Jingbirok is particularly valuable because its author participated in wartime decision-making, yet its reflective purpose of drawing lessons from calamity must be kept visible. The historian should distinguish the decisions documented at the time from the moral structure supplied by retrospective interpretation."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.2:b07",
+      "title": "Mobilization was a problem of people",
+      "paragraphs": [
+        "Recruitment required names on registers to become men who could leave farms, travel to assembly points and fight with adequate food and equipment. A household losing workers to mobilization could miss planting or harvesting even before violence reached its district. Those with patronage might evade duties, while vulnerable dependants could carry disproportionate burdens. Military administrators had to persuade or compel compliance through local elites and community institutions. These mechanisms show why military readiness cannot be measured only by inventories of swords or cannon. A defence system had to coordinate social labour under immense time pressure."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.2:b08",
+      "title": "The southern approaches",
+      "paragraphs": [
+        "The southeastern coast offered accessible routes from Japanese bases, making ports and nearby road networks strategically important. However, knowledge that an enemy might land in the south did not identify exact dates, contingents or tactical routes. Town defenders needed to choose whether to concentrate in fortifications, contest the landing or guard the roads leading inland. Those decisions were shaped by terrain and by the numbers that could realistically be gathered. Reconstructing the defensive setting requires keeping military geography separate from hindsight. A fortress that fell quickly may have faced overwhelming pressure, inadequate supplies or command confusion; the written verdict of cowardice does not establish which factor dominated."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.2:b09",
+      "title": "Why warnings did not become preparation",
+      "paragraphs": [
+        "The divergence between alarm and effective mobilization resulted from more than individual negligence. Joseon's institutions struggled to translate uncertain diplomatic information into a coordinated defence policy, and a very large expedition could move faster than provincial chains of command. Officials also underestimated how quickly an invading army might advance after landing. The consequences were catastrophic, but the historian must avoid assuming that an unspecified amount of additional training or a single wise appointment would have prevented all losses. The appropriate question is which specific points of coordination failed and which resources later enabled resistance to recover."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.2:b10",
+      "title": "Readiness reconsidered after the disaster",
+      "paragraphs": [
+        "The invasion exposed the limitations of a dispersed defence system and helped make military reform a central wartime concern. Subsequent arrangements for training, firearms and combined forces responded to problems already visible in the opening weeks. Retrospective stories about an unprepared nation sometimes conceal the institutional capabilities that proved useful at sea and in local strongholds. The more accurate picture is one of uneven readiness: vulnerable land commands alongside experienced maritime personnel, courageous local action alongside rapid collapse. Understanding those contrasts is essential to explaining why initial defeat did not lead to the destruction of Joseon's dynasty."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original historical synthesis · source-critical"
+    }
+  ]
+}

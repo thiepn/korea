@@ -1,0 +1,156 @@
+{
+  "id": "VI.10.4",
+  "title": "Yi Sun-sin, the Joseon Navy, and the Campaigns of 1592",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Source-critical account of yi sun-sin, the joseon navy, and the campaigns of 1592, with distinct viewpoints from court memoirs, surviving diaries, military history and material evidence.",
+  "release": "Z",
+  "sourceStatus": "Original editorial history anchored in selected institutional references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall: seven-year war and documentary evidence",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "Institutional exhibition joining military history, the refugee diary Swaemirok and wartime objects"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War (임진왜란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Specialist chronology, Japanese invasion, righteous armies and broader societal disruption"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: War Diary of Admiral Yi Sun-sin",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "Surviving first-person naval diary, necessarily limited to its author's experience"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok (징비록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Retrospective memoir by minister Ryu Seong-ryong, rich but shaped by personal evaluation"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee: Swaemirok exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "Close view of O Hui-mun's wartime household diary; not representative of every social rank"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.4:b01",
+      "title": "The strategic importance of the sea",
+      "paragraphs": [
+        "Japanese armies advancing through Korea depended on connections with ports and shipping routes across the Korea Strait. Control of coastal waters affected the movement of reinforcements, food and weapons. Joseon's naval response in 1592 therefore mattered beyond the tally of ships lost in individual encounters. It imposed risks on the logistic system supporting inland occupation and complicated plans to use sea routes farther west. The popular image of naval victory as a separate story about an exceptional hero conceals how fundamentally maritime warfare was connected to land campaigns. Ports, islands, tides, ship maintenance and boat crews were all part of the larger strategic contest."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum Imjin War Hall: 1592 invasion, documentary sources and civilian diary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.4:b02",
+      "title": "Yi Sun-sin as administrator",
+      "paragraphs": [
+        "Before his celebrated victories, Yi Sun-sin was a naval officer responsible for training men, inspecting ships, organizing supplies and securing local readiness. His surviving Nanjung Ilgi provides remarkable first-person insight into daily worries and operational decisions, but it is not a complete chronicle of the war. A diary records what an author knew and considered worth writing, including personal judgments shaped by professional rivalry. Yi's effectiveness relied on officers, carpenters, sailors and coastal residents as well as his leadership. Recognizing this collective infrastructure does not diminish his military importance; it explains how his decisions could be translated into practical action."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War entry: campaigns, righteous armies and historical interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.4:b03",
+      "title": "Ships and tactical conditions",
+      "paragraphs": [
+        "Joseon warships commonly emphasized stable platforms for artillery and coordinated manoeuvre, while Japanese forces were experienced in naval transport and close combat. Popular comparisons that contrast an invulnerable Korean ship with a helpless Japanese vessel erase substantial variation in design, equipment and tactical setting. The panokseon and other craft needed crews who could row, navigate and maintain weapons under difficult conditions. A commander's choice of water, wind and formation mattered enormously. Material reconstruction must be checked against dated artefacts and descriptions rather than relying on modern models whose dimensions or fittings are uncertain. Naval success rested on a technical system embedded in coastal society."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Nanjung Ilgi registry: diary provenance and limits of firsthand naval testimony",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.4:b04",
+      "title": "Early victories and confidence",
+      "paragraphs": [
+        "Yi's campaigns began with actions that challenged Japanese maritime movement around the southern coast. Successes such as the engagement at Okpo showed that Japanese vessels and supply routes were vulnerable. Their significance extended beyond immediate losses by strengthening morale and demonstrating the viability of coordinated Korean naval operations. Yet it is important not to imagine that the victories instantly ended Japanese transportation or freed the entire coastline. Enemy forces retained access to ports and local shelters, and Korean naval commands also faced shortages. Describing early success in its limited operational setting produces a more credible history than retrospective claims that one engagement decided the war."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.4:b05",
+      "title": "Hansando and control of routes",
+      "paragraphs": [
+        "The Battle of Hansando in 1592 became central to the military memory of the invasion because it showcased fleet coordination and the ability to lure or engage opposing ships in advantageous waters. Narratives often celebrate the crane-wing formation, but precise tactical reconstructions depend on later illustrations and contested readings of reports. The larger significance lies in Japanese difficulty securing maritime supply routes once Korean fleets could intervene. Yi's leadership operated through preparation, communication and the experience of officers across several units. A battle should not be isolated from the demands of provisioning or from the continued presence of Japanese land armies."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.4:b06",
+      "title": "Turtle ships and later imagination",
+      "paragraphs": [
+        "The geobukseon or turtle ship occupies a prominent place in modern Korean heritage, yet the surviving evidence for its exact form and deployment requires care. Original reports and later descriptions are not equivalent to construction blueprints. Modern paintings and full-size replicas can make a disputed detail seem certain through repeated visualization. The vessel's role should therefore be discussed within the wider fleet of Korean ships rather than as a miraculous weapon that eliminated every tactical problem. The historical challenge is to establish what is documented about protective design and fighting function while marking unknown features. Such source criticism preserves the ship's significance without turning reconstruction into unverified fact."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.4:b07",
+      "title": "The personal scale of naval command",
+      "paragraphs": [
+        "Yi's diary records not only battles but also worries, illness, discipline, the weather and the conduct of subordinates. These notes make the document invaluable because the celebrated admiral appears as a working commander within an unpredictable institution. However, a diary written for private use still selects events through the author's own expectations and conflicts. Its survival contrasts sharply with the absent diaries of ordinary rowers and labourers. A historian can draw on Yi's observations while avoiding the assumption that his views represent the experiences of everyone aboard a ship. The human scale of naval war includes fatigue, injury, food and the fear of punishment as well as strategy."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.4:b08",
+      "title": "Coordination and rivalry among commanders",
+      "paragraphs": [
+        "Joseon fleets operated under a hierarchy whose officers had their own responsibilities and reputations. Naval coordination depended on trust, reliable signalling and shared tactical practice, and political rivalries could undermine those conditions. Yi's later career demonstrates that battlefield success did not place him outside court politics. The state had to reconcile competing reports and the authority of officers stationed far from Seoul. An explanation focused exclusively on a single admiral obscures the institutional capacity necessary for naval endurance and the vulnerabilities created when appointments reflected political conflict. The campaigns are therefore part of Joseon's broader history of military administration."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.4:b09",
+      "title": "What victory at sea could not do",
+      "paragraphs": [
+        "Even with significant naval successes, Korean fleets could not by themselves expel large Japanese armies from every occupied inland stronghold. Land campaigns, local resistance and Ming intervention remained essential. Conversely, successes on land could be undermined if enemy shipping safely delivered provisions and reinforcements. The strategic significance of naval warfare lies in this interdependence. The historian must distinguish control of particular waters at particular times from universal command of the sea. Maritime victory was neither decorative nor a complete substitute for inland defence; it altered the conditions under which both sides could continue fighting."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.4:b10",
+      "title": "From campaign history to memory",
+      "paragraphs": [
+        "Yi Sun-sin became an enduring symbol of national endurance, and later periods promoted his example for different political and cultural purposes. UNESCO's recognition of the Nanjung Ilgi concerns the exceptional documentary record left by the commander, not a judgment that every later heroic narrative is accurate. Modern public history can honour military skill while retaining the context of allied commanders, sailors and communities. Reading the diary alongside institutional records, ship archaeology and accounts from other participants guards against replacing complex historical explanation with an exemplary biography. Naval warfare in 1592 is thus both a story of decisive operational leadership and of the many people whose collective work made such leadership effective."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original historical synthesis · source-critical"
+    }
+  ]
+}

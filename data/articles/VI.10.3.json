@@ -1,0 +1,156 @@
+{
+  "id": "VI.10.3",
+  "title": "The Invasion of 1592: Busan, Dongnae, Seoul, and the Royal Flight",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Source-critical account of the invasion of 1592: busan, dongnae, seoul, and the royal flight, with distinct viewpoints from court memoirs, surviving diaries, military history and material evidence.",
+  "release": "Z",
+  "sourceStatus": "Original editorial history anchored in selected institutional references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall: seven-year war and documentary evidence",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "Institutional exhibition joining military history, the refugee diary Swaemirok and wartime objects"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War (임진왜란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Specialist chronology, Japanese invasion, righteous armies and broader societal disruption"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: War Diary of Admiral Yi Sun-sin",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "Surviving first-person naval diary, necessarily limited to its author's experience"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok (징비록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Retrospective memoir by minister Ryu Seong-ryong, rich but shaped by personal evaluation"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee: Swaemirok exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "Close view of O Hui-mun's wartime household diary; not representative of every social rank"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.3:b01",
+      "title": "Landing in the southeast",
+      "paragraphs": [
+        "Japanese forces began their 1592 campaign by landing at the southeastern coast, with Busan among the first major points of attack. The invasion brought a rapidly moving force experienced in contemporary Japanese warfare against Korean defences not prepared for that scale of concentrated assault. Accounts of the landings emphasize commanders and heroic resistance, but the towns were also markets and communities whose residents suddenly confronted violence, fire and flight. Coastal routes and ships made the enterprise possible, while roads inland determined the speed of the advance. The historian must distinguish the dramatic sequence of captured sites from the logistical problem of sustaining an army ever farther from its sea-borne bases."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum Imjin War Hall: 1592 invasion, documentary sources and civilian diary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.3:b02",
+      "title": "The fall of Dongnae",
+      "paragraphs": [
+        "The fighting at Dongnae became a defining memory of local resistance. Later representations often focus on the moral choice to defend the town despite overwhelming danger. Such commemoration communicates the significance attached to duty and sacrifice, but it can obscure the uncertainty faced by residents and lower-ranking soldiers. The decision to hold a fortress affected people who could not freely choose escape, and attackers possessed considerable numerical and tactical advantages. Loss of an important southern stronghold opened further routes into the peninsula. The event should therefore be read as both an instance of determined defence and a stage in the collapse of an exposed regional security network."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War entry: campaigns, righteous armies and historical interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.3:b03",
+      "title": "Speed and the roads inland",
+      "paragraphs": [
+        "Japanese armies advanced north along several routes, exploiting weak coordination among Korean field commands and opportunities created by earlier victories. The most famous early encounters were costly defeats for Joseon, but a simple timeline should not be mistaken for a perfectly managed invasion. Different Japanese contingents competed for progress while encountering unfamiliar geography and increasingly difficult supply arrangements. Goryeo and Joseon precedents for defending mountain passes did not ensure their effective application under severe pressure. Korean officers struggled to assemble dispersed forces in time, and news arriving after a position had fallen could make the next defensive order obsolete before it was carried out."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Nanjung Ilgi registry: diary provenance and limits of firsthand naval testimony",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.3:b04",
+      "title": "Why the capital could not be held",
+      "paragraphs": [
+        "Seoul's political and symbolic importance was immense, yet its defence depended on control of routes to the south and a military organization that was breaking down. The royal court faced the prospect of capture if it remained while enemy units advanced with unexpected speed. Flight preserved the king and the possibility of continuing central government, but it also carried grave legitimacy costs. Residents left behind might experience the departure as abandonment, while ministers could argue that a captured monarch would make organized resistance impossible. Historical accounts must hold these incompatible realities together. The flight was neither a purely cowardly act nor an event without consequences for public trust."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.3:b05",
+      "title": "The journey north",
+      "paragraphs": [
+        "King Seonjo and his court moved northward as Japanese armies approached, eventually seeking security nearer the Ming border. The journey disrupted the rituals and administrative routines through which monarchy made itself visible. Officials carried documents, issued hurried orders and tried to maintain communication with provinces, while ordinary refugees moved under far more precarious conditions. Accounts of anger directed against royal property or officials reveal strains in the relationship between rulers and subjects, though later narratives may choose episodes that support particular moral lessons. The distinction between protecting the office of kingship and protecting every household became painfully clear."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.3:b06",
+      "title": "Early defeats and tactical explanation",
+      "paragraphs": [
+        "Japanese success reflected concentration of forces, experienced officers, firearms integrated into infantry tactics and rapid exploitation of Korean command failures. No one factor explains every battle. Firearms alone do not account for maneuver, logistics or the defensive advantages of particular terrain. Korean forces included men with courage and military experience but often lacked time to train or assemble under coordinated command. Later memorial history tends to assign responsibility to a few unsuccessful generals, while Japanese accounts emphasize momentum and prowess. A critical account assesses the structural problems without erasing individual decisions or treating invaders as mechanically superior in every circumstance."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.3:b07",
+      "title": "The occupation of cities",
+      "paragraphs": [
+        "Capturing a city gave Japanese troops access to roads, buildings and supplies but did not automatically bring orderly administration of the countryside. Local communities could flee, resist or negotiate, and protecting a long line of communication demanded garrisons beyond the field armies. Occupation also created incentives for violence and expropriation, with effects on trade, harvests and public health. The king's absence did not eliminate every Korean official or local network. Those surviving institutions later provided means of organizing resistance. The gap between holding Seoul and ruling Joseon is fundamental to understanding why the invasion's spectacular opening did not deliver its political objectives."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.3:b08",
+      "title": "Ming enters the calculation",
+      "paragraphs": [
+        "As Japanese troops moved toward the north, Ming leaders faced a threat to the regional order and potentially their own frontier security. They also had to judge incomplete reports about Korean intentions and Japanese ambitions. Seonjo's government appealed for assistance, an action consistent with the existing diplomatic hierarchy but one that introduced new costs and constraints. The resulting conflict became an explicitly regional war. Ming intervention was not simply an act of charity; it served strategic interests while helping preserve an allied dynasty. Explaining this relationship requires distinguishing political rhetoric of assistance from the material calculations of commanders and fiscal officials."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.3:b09",
+      "title": "Civilian displacement from the first months",
+      "paragraphs": [
+        "The rapid advance scattered families, disrupted markets and emptied places that had relied on secure travel between villages and towns. Refugees might move with the royal court's direction of flight or toward mountains and islands known locally. Many lacked means to carry food for long journeys. O Hui-mun's Swaemirok later records a refugee household's efforts to survive, but its author's social position and particular experience cannot stand for all people. Administrative records recognize displaced populations most clearly when their presence affected taxation or military supply. The historian should therefore recover the mechanisms of distress without inventing precise population totals for the summer of 1592."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.3:b10",
+      "title": "The opening did not decide the war",
+      "paragraphs": [
+        "By taking southern strongholds and Seoul, Japanese commanders won significant early successes. Yet rapid advance increased the distance between front lines and ports and exposed maritime supply routes that Korean naval forces could contest. Local militias, government troops and Ming intervention would subsequently make occupation expensive and unstable. The opening campaign demonstrates the difference between tactical defeat and the destruction of a state. Joseon's monarchy survived, provincial networks adapted and political alliances extended beyond the peninsula. A narrative ending with the royal flight misses the very dynamics that explain why the war continued for years instead of concluding with the fall of a capital."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original historical synthesis · source-critical"
+    }
+  ]
+}

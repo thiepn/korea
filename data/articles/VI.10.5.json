@@ -1,0 +1,156 @@
+{
+  "id": "VI.10.5",
+  "title": "Righteous Armies, Monk Soldiers, Local Resistance, and Civilian Mobilization",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Source-critical account of righteous armies, monk soldiers, local resistance, and civilian mobilization, with distinct viewpoints from court memoirs, surviving diaries, military history and material evidence.",
+  "release": "Z",
+  "sourceStatus": "Original editorial history anchored in selected institutional references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall: seven-year war and documentary evidence",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "Institutional exhibition joining military history, the refugee diary Swaemirok and wartime objects"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War (임진왜란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Specialist chronology, Japanese invasion, righteous armies and broader societal disruption"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: War Diary of Admiral Yi Sun-sin",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "Surviving first-person naval diary, necessarily limited to its author's experience"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok (징비록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Retrospective memoir by minister Ryu Seong-ryong, rich but shaped by personal evaluation"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee: Swaemirok exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "Close view of O Hui-mun's wartime household diary; not representative of every social rank"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.5:b01",
+      "title": "What righteous armies meant",
+      "paragraphs": [
+        "The term uibyeong, commonly translated righteous armies, describes locally mobilized forces that resisted Japanese occupation outside or alongside normal official military structures. Their emergence in 1592 reflected both the collapse of some government units and the continuing capacity of local communities to organize. The title itself carries moral meaning shaped by Confucian ideals and later commemoration. Not every volunteer group had the same organization, resources or relationship to the court. Some were led by local scholars, others drew practical strength from soldiers, farmers and people escaping occupied districts. Treating the movement as one centralized patriotic army distorts the decentralized circumstances in which it arose."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum Imjin War Hall: 1592 invasion, documentary sources and civilian diary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.5:b02",
+      "title": "Local knowledge as an advantage",
+      "paragraphs": [
+        "Resistance forces knew roads, mountain passes, rivers, ferries and food sources that unfamiliar Japanese units had to discover. They could disrupt messages and supplies, defend crossings or challenge isolated garrisons without needing to defeat a large field army in open battle. Their effectiveness depended on geographic familiarity and social networks that provided warning and provisions. Such strategies were particularly important when royal military authority had become fragmented. However, ambushes and raids could provoke retaliation against nearby villages. Local resistance therefore involved decisions about risk that could not be reduced to heroic enthusiasm. Families who sheltered fighters shared dangers as well as a political purpose."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War entry: campaigns, righteous armies and historical interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.5:b03",
+      "title": "Leaders and collective work",
+      "paragraphs": [
+        "Figures such as Gwak Jae-u became prominent in Korean historical memory, but the organizations associated with them required recruiters, messengers, cooks, craftsmen, carriers and donors. A leader's prestige could persuade neighbours to join, while other people were mobilized through obligations to landowners or local elites. Chronological records disproportionately preserve educated commanders capable of leaving written accounts or attracting recognition. Ordinary participants can often be recovered only indirectly through descriptions of supplies or general troop movements. Analysing leadership together with collective labour allows the history to acknowledge remarkable initiative without describing resistance as the creation of a handful of exceptional men."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Nanjung Ilgi registry: diary provenance and limits of firsthand naval testimony",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.5:b04",
+      "title": "Monastic participation",
+      "paragraphs": [
+        "Buddhist monks formed fighting and support groups despite the Neo-Confucian state ideology's complicated relationship with monastic institutions. Monasteries possessed social networks, land, organizational experience and people accustomed to collective discipline. Some monks fought; others supplied food, information or shelter. Their participation illustrates that religious communities remained active components of Joseon society even when political rhetoric often marginalized Buddhism. Later accounts may emphasize particular monk commanders to demonstrate loyalty and merit. A critical history asks what specific services can be documented and how regional temples sustained them, rather than treating monastic soldiers as a uniformly organized national order."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.5:b05",
+      "title": "Confucian ideals and social constraints",
+      "paragraphs": [
+        "The rhetoric of loyalty to king and country could motivate scholarly leaders, but participation was shaped by kinship, local security, material interest and fear of occupation. Some households fought because Japanese troops threatened their farms; others sought office or recognition through service. Such motivations need not be mutually exclusive. Civilian workers drawn into resistance had varying freedom to refuse, especially where social hierarchy and dependent labour persisted. The official label righteous tends to mask those inequalities. The historian can recognize the movement's importance while asking who chose to fight, who was ordered to carry supplies and who bore the danger when a local attack failed."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.5:b06",
+      "title": "Resistance and the court",
+      "paragraphs": [
+        "As regular government forces recovered, the court sought to coordinate or absorb many local formations. Military registration, appointments and orders could give volunteer groups legitimacy, but also limit their autonomy. Commanders who had mobilized independently sometimes resented bureaucratic restrictions. Officials feared that armed groups operating without oversight might create disorder or compete for resources. The relation between righteous armies and the royal state therefore changed through the war. A narrative in which all resistance groups simply awaited royal direction ignores the early improvisation that made them possible, while a story of complete independence overlooks their dependence on surviving state institutions."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.5:b07",
+      "title": "Different regional contexts",
+      "paragraphs": [
+        "The strength and organization of resistance varied across provinces according to the timing of occupation, local elite networks, terrain and access to weapons. An area protected by effective naval activity could support different operations from a landlocked district with severed roads. In some places local leaders prevented deeper penetration; elsewhere forces faced overwhelming attacks or dissolved under supply problems. Historians should avoid assigning one national timetable to these uneven histories. The AKS synthesis lists many commanders and regional achievements, but the number of documented names cannot directly measure the participation of less literate people or compare casualties across districts."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.5:b08",
+      "title": "Civilians between armed camps",
+      "paragraphs": [
+        "A village might have to provision Japanese troops under occupation while secretly assisting local resisters or sheltering refugees. Compliance could be a survival tactic rather than allegiance. Retaliation, requisitions and the interruption of farming created conflicts among neighbours over the distribution of danger. Low-status workers often had little control over orders issued by either side. Refugee diaries such as Swaemirok preserve fragments of this pressure, although the author's circumstances were not representative of all social classes. Reconstructing these dilemmas complicates the heroic vocabulary without denying the courage and political importance of resistance."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.5:b09",
+      "title": "Monuments and the making of heroes",
+      "paragraphs": [
+        "Later generations commemorated righteous-army leaders in shrines, biographies and public narratives. Such memory helped make civilian agency visible within a war sometimes told through court decisions and foreign intervention. At the same time, commemoration could privilege a narrow range of male elite figures and obscure participants whose names did not enter archives. The task is not to discard memorial sources but to study why they were created and which actions they chose to celebrate. A shrine inscription may preserve a valuable tradition while also expressing the priorities of later descendants and political authorities."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.5:b10",
+      "title": "A distributed war effort",
+      "paragraphs": [
+        "Local resistance constrained occupation, sustained communication and helped preserve the possibility of royal recovery after the initial collapse. Its achievements were complementary to naval operations, surviving state troops and Ming assistance, not an independent replacement for all those forces. Understanding the movement requires bringing together military tactics, religious institutions, social hierarchy and household survival. That approach also avoids a modern assumption that every fighter acted out of the same national consciousness. Righteous armies were historically significant because real communities improvised armed and unarmed forms of resistance under exceptional danger, often with costs that conventional battle narratives scarcely record."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original historical synthesis · source-critical"
+    }
+  ]
+}
