@@ -1,0 +1,120 @@
+{
+  "id": "II.3.6",
+  "title": "Lelang and the Exchange Networks of Northeast Asia",
+  "kicker": "HAN COMMANDERIES · SOURCE-CRITICAL HISTORY",
+  "description": "Original evidence-conscious historical study of lelang and the exchange networks of northeast asia, emphasizing frontier encounters, institutional change, archaeology and the limits of retrospective sources.",
+  "release": "Y",
+  "sourceStatus": "Original synthesis with selected contextual anchors, not independent peer-reviewed source-by-source verification.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea — Ancient Korean Society and the Lelang Commandery",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional historical synthesis; not direct testimony of conquered groups"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Lelang Commandery (낙랑군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0011576",
+      "role": "Historical encyclopedia discussion of offices, local societies and historiographic debate"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Lelang inscribed roof-end tile, collection Jeongnae2",
+      "url": "https://vcm.museum.go.kr/ENG/contents/E0402000000.do?relicId=1874&schM=view&searchId=search",
+      "role": "Excavated material culture demonstrating an administrative context; not a comprehensive census"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Zhenfan (진번군), Lintun (임둔군), and Xuantu (현도군)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054690",
+      "role": "Specialist encyclopedia treatment of contested geography; other entries required for different commanderies"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.3.6:b01",
+      "title": "Lelang as a node, not the whole network",
+      "paragraphs": [
+        "Lelang's importance in northeast Asian exchange rested partly on its administrative position and partly on the geographic opportunities of a region connecting inland routes, river corridors, and the Yellow Sea. It did not create every network from nothing. Communities exchanged goods and information before the conquest, and political reorganization changed some routes more than others. The evidence for external contact includes exotic objects, continental technologies, and historical notices of embassies and groups recognized by commandery officials. None of these categories establishes a monopoly on movement. A description of Lelang as the gateway through which the peninsula received outside culture is too narrow: people crossed several frontiers, and local producers could influence what foreigners sought in return."
+      ],
+      "sequence": 1,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional sources distinguish documented commandery institutions from contested reconstructions",
+          "sourceIndex": 0,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.6:b02",
+      "title": "Northern connections and continental politics",
+      "paragraphs": [
+        "Relations with Liaodong and the Han provincial world carried officials, goods, administrative language, and information. Transport was constrained by weather, mountainous corridors, and political disruptions, not simply by the existence of a route on a modern map. Exchange could involve official dispatches and provisioning, private entrepreneurship, and obligations imposed on frontier communities. The changing fortunes of Xuantu and the later rise of regional warlords demonstrate that northern networks were vulnerable to struggles over jurisdiction. When the political center of commandery affairs shifted, the traffic linked to it could also change without every regional craft tradition disappearing. Archaeological distributions need to be placed against these political and logistical uncertainties."
+      ],
+      "sequence": 2,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.6:b03",
+      "title": "The Yellow Sea and southern polities",
+      "paragraphs": [
+        "Coastal transport offered possibilities different from overland carriage, including the movement of relatively bulky commodities between distant landing places. The presence of Han-period objects in southern settlements is evidence of connection, but not of the direct physical journey of every item from Lelang. Exchanges may have involved several communities and successive brokers, making the apparent source and final destination only endpoints in a more complicated circulation. Later histories refer to contacts among Han commanderies, the Samhan groups, and communities across the water. Such accounts are valuable but cannot be assumed to describe an identical pattern for every century. A network map should separate documented appearances of specific objects from hypothetical links drawn to explain them."
+      ],
+      "sequence": 3,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.6:b04",
+      "title": "Relations with the Japanese archipelago",
+      "paragraphs": [
+        "The archipelago's early communities also participated in networks through which metal, beads, and other objects could circulate. The political arrangements of these communities were not those of later historic Japanese states, and projecting later sovereign boundaries onto the period distorts the evidence. Continental items recovered in island contexts may reflect travel, marriage alliances, prestige exchange, or chains of transactions. Their origin does not automatically establish a commandery-directed mission. Likewise, a written notice of a diplomatic encounter records an exchange from the perspective of literate observers, not the full economy of migration and trade. An accountable account places archaeological distributions and transmitted diplomatic labels side by side without forcing them into a single narrative."
+      ],
+      "sequence": 4,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional sources distinguish documented commandery institutions from contested reconstructions",
+          "sourceIndex": 1,
+          "locator": "Ancient Korean Society and the Lelang Commandery; Lelang Commandery: historical and archaeological discussion",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.3.6:b05",
+      "title": "Objects as evidence of relationships",
+      "paragraphs": [
+        "A mirror, coin, lacquer vessel, or iron blade can reveal information about manufacture and design, but its social meaning must be inferred with care. A household might obtain an exotic object to demonstrate status, adopt a useful technology, or participate in ritual practices unfamiliar to its producers. The same object type may have different meanings in a formal tomb and in domestic discard. Scientific analysis can narrow questions of composition or provenance, while contextual excavation tells us something about circulation and deposition. These are powerful methods, not complete biographies. If a scholar identifies an object as Chinese-style, that classification does not assign a stable ethnic identity to the person who buried or used it."
+      ],
+      "sequence": 5,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.6:b06",
+      "title": "Diplomatic categories and imagined hierarchies",
+      "paragraphs": [
+        "Chinese histories frequently describe frontier encounters through the language of submission, tribute, and the conferral of honors. Those words present an imperial political order and may not capture how a local community interpreted the same exchange. A gift or embassy could serve practical goals: obtaining scarce commodities, regulating violence, or seeking advantage over rivals. Officials might understand the event as an affirmation of Han supremacy, while local leaders valued it as a usable relationship rather than permanent subordination. The historian must distinguish the words of the record from the strategic possibilities they obscure. This is particularly important when writing about groups whose own archives have not survived to contest the official description."
+      ],
+      "sequence": 6,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    },
+    {
+      "id": "II.3.6:b07",
+      "title": "Networks that outlived the commandery",
+      "paragraphs": [
+        "As Lelang and allied administrative structures weakened and ultimately fell to expanding regional powers, exchange did not simply cease. Routes could be redirected toward Goguryeo, Baekje, Silla, or other centers whose political and commercial needs differed from those of Han officers. Certain production habits and writing practices could persist even where institutions lost authority. The historian's task is to connect changing material circulations with specific political developments, rather than narrate an inevitable transition from Chinese influence to Korean independence. Lelang's economic significance is best understood as a changing position within a wider and more resilient network in which local communities were active makers of history."
+      ],
+      "sequence": 7,
+      "label": "Original historical synthesis · source-critical",
+      "evidence": []
+    }
+  ]
+}
