@@ -1,0 +1,148 @@
+{
+  "id": "V.9.7",
+  "title": "Return to Gaegyeong and the Sambyeolcho Resistance",
+  "kicker": "GORYEO · IMPERIAL SETTLEMENT AND YUAN WORLD",
+  "description": "Source-critical account of return to gaegyeong and the sambyeolcho resistance in the political and social history of thirteenth-century Korea.",
+  "release": "Z",
+  "sourceStatus": "Original historical editorial synthesis; context citations are not sentence-level independent peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo dynastic history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "The long settlement, Yuan hierarchy, royal marriage and overseas mobilization; retrospective Korean historical synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Military regime and revolt in 1270–1273; distinguished from the earlier court settlement"
+    },
+    {
+      "institution": "Ganghwa County",
+      "title": "Sambyeolcho campaign and Ganghwa sites",
+      "url": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=114&tourdiv=all",
+      "role": "Regional commemorative account of the conflict, requiring independent source criticism"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana printing woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "War-era Buddhist material production and subsequent heritage status"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Competing interpretations of island politics and return to mainland"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.7:b01",
+      "title": "The meaning of returning",
+      "paragraphs": [
+        "The court's move back to Gaegyeong in 1270 symbolized more than a change of residence. It signalled acceptance of arrangements negotiated with Mongol power and a break with the military regime's long island strategy. For supporters, the return promised an end to costly separation and a restoration of earlier administrative centres. For opponents, it signified surrender of the strategic advantage that had protected the dynasty for decades. Because royal ceremony, office-holding and military command all depended on the capital's location, relocation immediately redistributed influence. Later memorial traditions tend to describe the struggle in moral terms of loyal resistance or necessary restoration. Neither description captures the full variety of calculations made by courtiers, island residents and armed groups."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo: Mongol war, 1259 accommodation and Yuan-era political relations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.7:b02",
+      "title": "Who the Sambyeolcho were",
+      "paragraphs": [
+        "Sambyeolcho forces had developed within the military government's security and combat apparatus. They were not a spontaneously assembled national army, although their campaigns attracted participants and sympathizers beyond the original formations. Some fighters had personal reasons to fear punishment or loss of status under a new settlement. Others rejected Mongol supremacy, distrusted the court's policy or saw opportunities for local authority. The formation's institutional history matters because it helps explain its mobility, organization and connection to former military powerholders. Treating all members as identical patriots ignores factional origins, but reducing them to selfish retainers also misses the real anti-imperial dimension of their subsequent resistance."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 1,
+          "locator": "AKS Sambyeolcho: 1270–1273 military opposition and historiography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.7:b03",
+      "title": "A rebellion begins on Ganghwa",
+      "paragraphs": [
+        "With the royal government's return planned, Sambyeolcho forces resisted and established an alternative political centre. They moved beyond Ganghwa, rather than defending the island indefinitely, because mainland and coastal control became contested and their survival required ships, food and allies. The rebellion challenged both the central government's claim to speak for Goryeo and the Mongol-backed settlement. A war within a kingdom can still involve foreign domination, but its alliances cannot be assumed from ethnic categories alone. Royal authority, military institutions and local populations were divided. The sources name commanders and political declarations more readily than they record why each farmer or boatman furnished supplies to one side."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.7:b04",
+      "title": "Jindo and maritime opportunity",
+      "paragraphs": [
+        "The resistance established a substantial base on Jindo, drawing upon island routes and defensive geography. Maritime movement enabled fighters to shift positions and threaten communications without depending entirely on roads controlled by royal and Mongol forces. Ships were not merely tactical equipment: they moved refugees, provisions, horses and government agents. Maintaining a coastal base required continual extraction from local communities, and resistance could impose burdens on the very people it claimed to defend. The importance of Jindo should also caution against a capital-centred history of this period. Different coastal districts experienced the conflict as a struggle over ports, fishing grounds, agriculture and access to markets, not simply over the legitimacy of rival political declarations."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.7:b05",
+      "title": "Jeju as a final stronghold",
+      "paragraphs": [
+        "After the loss of the Jindo base, surviving Sambyeolcho forces shifted to Jeju, where island geography again offered temporary protection. The relocation was not a retreat into an empty landscape. Jeju possessed communities, resources and local political arrangements that the arriving military could draw upon or disrupt. Maintaining a rebel government there demanded organization and supplies, while opposing forces learned to project power across water. The final suppression in 1273 showed that insularity did not provide permanent immunity from a growing imperial and Goryeo capacity for maritime operations. Later accounts of heroic endurance should be balanced with attention to inhabitants whose choices may have been sharply constrained by the armed groups controlling their island."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.7:b06",
+      "title": "Royal and Mongol military cooperation",
+      "paragraphs": [
+        "The royal government's struggle against Sambyeolcho involved cooperation with Mongol military power, a fact that complicates simple national binaries. Goryeo rulers had an interest in defeating forces that disputed the settlement and threatened their authority; Mongol leaders sought enforcement of submission and secure strategic communications. Their alliance was shaped by overlapping interests, not necessarily affection or equality. Military records tend to distinguish armies in formal categories but reveal less about mixed logistical work, local guides or people caught between commands. Analysis should neither deny the anti-Mongol objectives of the rebels nor erase the dynastic interest of the government that opposed them."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.7:b07",
+      "title": "Resistance, coercion and local society",
+      "paragraphs": [
+        "Armed groups in a prolonged campaign need grain, boats, labour and recruitment. A resident's outward cooperation cannot always be read as wholehearted political allegiance. Some communities resisted control; others furnished supplies to avoid immediate punishment or because kinship ties connected them to soldiers. Refugees moved between contested sites, and the meaning of obedience changed with the appearance of a new armed force. Later histories label supporters and opponents according to dynastic loyalties, but ordinary people's options often lay between risk and risk. A nuanced history recognizes the resistance as politically meaningful while still investigating how its military activity affected the islands where it operated."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.7:b08",
+      "title": "The end of military rule",
+      "paragraphs": [
+        "Defeat of Sambyeolcho in 1273 closed the final large-scale armed challenge connected to the island military order. It did not end all regional violence or establish complete central control overnight. The government still faced rebuilding, accommodation with Yuan power and the challenge of reorganizing local authority. Memory of the rebels developed within later arguments about national independence, often emphasizing courage against overwhelming force. That moral importance should not obscure the fact that the movement contested a Korean king as well as foreign domination. Its defeat consolidated the transition from a prolonged military-government war footing to a new royal relationship with the empire."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.7:b09",
+      "title": "What the episode reveals about sovereignty",
+      "paragraphs": [
+        "The Sambyeolcho war shows that medieval sovereignty was not a single switch turned from independence to submission. A royal government could survive and claim legitimacy while accepting imperial hierarchy; an armed group could reject that settlement while coercing local people. The institutions of the old military order survived long enough to generate a new political centre. This interplay of loyalty, autonomy and power explains the difficulty of assigning a simple verdict of patriotism or treachery. Historical interpretation is strongest when it identifies what each actor controlled, what they sought and what resources their choice demanded from noncombatants."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.7:b10",
+      "title": "How to read the evidence",
+      "paragraphs": [
+        "Sambyeolcho history relies heavily on later dynastic compilations, regional sites and commemoration shaped by subsequent politics. The locations of forts and island routes help test military plausibility, but cannot directly establish motives. An inscription or rebuilt monument may tell more about later memory than about an individual soldier's intentions. The best explanation therefore holds together institutional origins, the geography of maritime resistance, conflict with royal forces and the emerging Mongol relationship. The 1270–1273 episode was neither a footnote to a finished peace nor a straightforward continuation of the old island defence. It was a contested transition in the very meaning of Goryeo political authority."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original history · source-critical"
+    }
+  ]
+}

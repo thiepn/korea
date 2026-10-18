@@ -1,0 +1,168 @@
+{
+  "id": "VI.10.9",
+  "title": "The Second Invasion of 1597: Chilcheollyang, Myeongnyang, and Renewed Land War",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Original source-critical history of the second invasion of 1597: chilcheollyang, myeongnyang, and renewed land war, integrating Korean, Ming and Japanese military contexts and unequal civilian costs.",
+  "release": "Z",
+  "sourceStatus": "Source-critical editorial synthesis supported by contextual institutional references; independent peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall historical collections",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "War chronology, Jinju, documentary history, refugee diary and postwar consequences"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Regional warfare, Korean and Ming counteroffensives, Korean mobilization and occupation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Ryu Seong-ryong retrospective official memoir requiring criticism of self-assessment"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: Yi Sun-sin's war diary",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "First-person naval observations and limitations of genre and individual viewpoint"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Myeongnyang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0018250",
+      "role": "Reorganization and naval conflict in 1597; numerical traditions require careful attribution"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Noryang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012716",
+      "role": "Korean–Ming combined naval operations during Japanese withdrawal in 1598"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "O Hui-mun's Swaemirok, household flight and unequal civilian hardship"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.9:b01",
+      "title": "A second major Japanese offensive",
+      "paragraphs": [
+        "Japanese forces renewed large-scale operations in 1597 after years of unsuccessful negotiation. The renewed invasion was not identical to the rapid advance of 1592. Korean defenders and Ming allies now possessed more experience, Japanese forces operated with a history of supply problems, and the military geography of the south had been reshaped by fortifications and earlier destruction. The campaigns nevertheless brought further devastation to communities that had scarcely recovered from the first invasion. A chronological label such as second invasion is useful, but it should not obscure the continuity of garrison occupation and local fighting during the years in between."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum: Imjin War exhibition, records, civilian survival",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.9:b02",
+      "title": "The crisis in naval command",
+      "paragraphs": [
+        "Yi Sun-sin's removal from command and the appointment of Won Gyun reflected political and operational conflicts at court. Surviving accounts emphasize rivalry, accusations and orders that commanders disputed. It would be too simple to assign all subsequent disaster to the moral defects of a single officer. Naval operations depended on intelligence, choices about engagement, the condition of crews and the relation between civilian government and military command. Yet appointments made within political conflict had serious strategic consequences. The vulnerability of an otherwise capable defensive institution to court mistrust is a central lesson of the renewed campaign."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War: 1593 and 1597 campaigns, military and local resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.9:b03",
+      "title": "The catastrophe at Chilcheollyang",
+      "paragraphs": [
+        "At Chilcheollyang the Korean fleet suffered a devastating defeat in 1597, sharply reducing the ships and trained crews available for coastal defence. Japanese forces exploited operational opportunities amid confusion and unfavourable conditions. Later heroic histories contrast this disaster with Yi Sun-sin's return, sometimes turning Won Gyun into the convenient embodiment of all institutional failure. Such retrospective framing should not displace analysis of preparations, the information available to officers, the location of retreat routes and the relation between orders and feasible naval manoeuvre. The losses mattered because sea defence, communications and supplies were interconnected; restoring naval capacity became an urgent strategic task."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 2,
+          "locator": "AKS Jingbirok: Ryu Seong-ryong retrospective wartime memoir",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.9:b04",
+      "title": "Yi Sun-sin restored",
+      "paragraphs": [
+        "Yi was reinstated when the scale of naval losses made his experience particularly valuable. He had to gather surviving vessels, crews, equipment and local cooperation under conditions of damaged morale and continuing pressure. His diary is an unusually close source for the difficulties of command, yet it also records one participant's perspective on a crisis involving many people. The familiar tradition of a tiny fleet standing alone against an overwhelming enemy should be contextualized within coastal geography, repairs, scouting and the wider strategic need to prevent Japanese use of western routes. Leadership mattered because it organized resources that other officers and communities still possessed."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.9:b05",
+      "title": "Myeongnyang and the narrow waters",
+      "paragraphs": [
+        "The Battle of Myeongnyang in September 1597 became famous for Korean naval success in the confined waters near Jindo. Currents, geography, ship handling and disciplined command contributed to the tactical result. Popular accounts often repeat exact ship numbers as though they were beyond dispute; contemporary and later figures should be attributed rather than blended. The victory was strategically significant because it challenged Japanese maritime movement after Chilcheollyang. It did not magically replace the lost fleet or end the land offensive. The lesson of Myeongnyang lies in the interplay of operational leadership and local environmental knowledge, not in the notion that one ship type or one commander could disregard material constraints."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.9:b06",
+      "title": "The renewed fighting on land",
+      "paragraphs": [
+        "Japanese armies advanced through southern provinces, threatening routes toward the interior. Korean and Ming troops resisted in separate engagements, including clashes whose locations and tactical details receive different emphasis in Korean, Japanese and Chinese records. Even when defenders prevented a decisive northern advance, villages experienced requisition, siege and displacement. A map of opposing arrows cannot show the interruption of planting or the disappearance of local stores. The second campaign therefore combined serious battles with intensified social costs. It also demonstrated that Japan's chances of achieving sweeping conquest were substantially constrained by the coalition and the strategic situation that had developed since 1592."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.9:b07",
+      "title": "Forts, roads and the meaning of progress",
+      "paragraphs": [
+        "Controlling a fortress or road junction mattered only if an army could provision it and secure communications with other positions. Japanese forces held substantial southern strongholds but faced difficulty sustaining operations farther inland. Korean and Ming units needed supplies to counterattack, while exhausted communities might have little grain to furnish either side. The relative importance of land and sea routes changed with naval victories and defeats. Historians should distinguish temporary occupation, operational success and permanent political control rather than equating every captured town with a completed conquest. These distinctions explain the renewed war's eventual stalemate."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.9:b08",
+      "title": "The continuing power of local defence",
+      "paragraphs": [
+        "Righteous-army traditions, local officials and ordinary residents still contributed to defence despite years of exhaustion. Some groups gathered intelligence or hindered enemy transport; others sheltered refugees or supported government troops. Their capacity was uneven, and not every community could afford to resist openly. A local population forced to supply an occupier might also assist Korean units when an opportunity arose. Such shifting behaviour is difficult to judge from later categories of loyalty. The second invasion's outcome depended partly on a social landscape where many people had developed practical knowledge of survival and resistance under prolonged military pressure."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.9:b09",
+      "title": "Reconstructing the battle narratives",
+      "paragraphs": [
+        "The main sources for the 1597 campaigns include court records, military reports, diaries and later collections organized to honour or condemn commanders. Each gives a selective account. Yi's firsthand journal is unusually valuable but cannot independently resolve every disputed troop or ship count. Japanese narratives may promote their own achievements, while Korean commemorative writing can magnify the contrast between disastrous and victorious leadership. A careful history locates agreements across sources, identifies contested details and explains the operational consequences that are firmly supported. Such criticism strengthens the significance of the battles rather than diminishing them."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.9:b10",
+      "title": "The road toward withdrawal",
+      "paragraphs": [
+        "The renewed invasion failed to deliver Hideyoshi's overarching ambitions, even as Japanese forces inflicted further damage and retained entrenched positions. Military pressure from Korean and Ming troops, the limits of supply and changes in leadership shaped the subsequent campaign. The war's eventual end would depend on political developments in Japan as well as battlefield operations in Korea. The 1597 sequence thus shows an alliance recovering from naval catastrophe and an invading army unable to convert renewed offensives into conquest. Its legacy combines military adaptation, the renewal of widespread civilian suffering and the enduring memory of Myeongnyang."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    }
+  ]
+}

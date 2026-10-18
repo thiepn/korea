@@ -1,0 +1,148 @@
+{
+  "id": "V.9.9",
+  "title": "Japan Expeditions, Jeongdong Haengseong, Jeju, and Imperial Mobilization",
+  "kicker": "GORYEO · IMPERIAL SETTLEMENT AND YUAN WORLD",
+  "description": "Source-critical account of japan expeditions, jeongdong haengseong, jeju, and imperial mobilization in the political and social history of thirteenth-century Korea.",
+  "release": "Z",
+  "sourceStatus": "Original historical editorial synthesis; context citations are not sentence-level independent peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo dynastic history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "The long settlement, Yuan hierarchy, royal marriage and overseas mobilization; retrospective Korean historical synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Military regime and revolt in 1270–1273; distinguished from the earlier court settlement"
+    },
+    {
+      "institution": "Ganghwa County",
+      "title": "Sambyeolcho campaign and Ganghwa sites",
+      "url": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=114&tourdiv=all",
+      "role": "Regional commemorative account of the conflict, requiring independent source criticism"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana printing woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "War-era Buddhist material production and subsequent heritage status"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Competing interpretations of island politics and return to mainland"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.9:b01",
+      "title": "From defending against invasion to supplying it",
+      "paragraphs": [
+        "One of the most striking changes after Goryeo's settlement with the Mongols was its later involvement in imperial expeditions against Japan. A kingdom that had survived repeated attacks was compelled to provide ships, sailors, soldiers and logistical support for operations serving Yuan strategic aims. This reversal was not a purely symbolic acknowledgement of overlordship. It required heavy material organization by coastal and inland communities. The campaigns show why retaining local royal institutions did not mean freedom from foreign policy obligations. They also expose the limitations of national categories: forces assembled for a Yuan expedition included people with different loyalties, responsibilities and degrees of coercion."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo: Mongol war, 1259 accommodation and Yuan-era political relations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.9:b02",
+      "title": "The campaign of 1274",
+      "paragraphs": [
+        "The first major invasion of Japan in 1274 relied in part on ships and personnel produced through Goryeo's maritime resources. Preparing an expedition required timber, iron, rope, navigational expertise and provisioning across the straits, as well as coordination among groups accustomed to different chains of command. The operation reached Japanese territory but failed to establish a lasting conquest. Explanations should not rely on a single dramatic weather event to account for the outcome. Operational limits, defensive resistance, the condition of vessels and the demands of transport require attention. Goryeo participation imposed costs even when imperial objectives failed; shipbuilding labour could not simply be refunded to families after a fleet returned."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 1,
+          "locator": "AKS Sambyeolcho: 1270–1273 military opposition and historiography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.9:b03",
+      "title": "The campaign of 1281",
+      "paragraphs": [
+        "A larger expedition in 1281 drew on imperial resources over a much wider sphere and again involved Korean ships and personnel. Coordination between separate maritime forces was difficult, and the expedition failed. Later narratives frequently emphasize destructive storms, but treating all losses as a consequence of divine wind obscures preparation, command problems, combat and the precariousness of enormous fleets. The historian must distinguish Japanese defensive memories from Yuan and Goryeo records, each shaped by different expectations of victory and failure. For Goryeo's coastal population, the critical issue was not only the final battle but years of shipbuilding, supply collection and the loss of workers to imperial service."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.9:b04",
+      "title": "The meaning of Jeongdong Haengseong",
+      "paragraphs": [
+        "The Branch Secretariat for the Eastern Conquest, conventionally called Jeongdong Haengseong, became associated with the preparation and oversight of expeditions against Japan and with Yuan influence over Goryeo. Its existence is sometimes presented as proof that the kingdom had been completely replaced by an imperial province. Such a conclusion confuses institutional form with effective jurisdiction. The secretariat's powers, personnel and practical activity changed over time, while Goryeo royal ministries continued many domestic functions. The institution is important because it provided mechanisms for intervention and mobilisation, not because its title alone settles every question about Korea's status in the imperial political order."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.9:b05",
+      "title": "Jeju and strategic geography",
+      "paragraphs": [
+        "Jeju became entangled in the struggle surrounding Sambyeolcho and in the maritime calculations of the empire after the rebellion was suppressed. Its distance from the mainland made it a valuable base for movement, horses and maritime routes, while local residents bore the consequences of successive military occupations. Jeju's environment and social arrangements should not be reduced to an empty strategic map. Pasture, fresh water, harbour conditions and the seasonal availability of labour mattered to imperial planners. The same geographic features that had once supported anti-Mongol resistance could later serve Yuan strategic interests. That shift illustrates how control of islands was central to the political and economic restructuring of the region."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.9:b06",
+      "title": "Military requisition and social hierarchy",
+      "paragraphs": [
+        "Building and supplying an expedition imposed demands unevenly. Officials needed skilled boatwrights, carpenters, sailors, transporters and grain producers; some people could secure protection through patronage while others faced compulsory service. A royal order and its effect on a village were not equivalent. Local intermediaries determined how obligations were distributed and could profit from or resist imperial demands. Historians should resist inventing exact totals for labour losses when records are incomplete, but the mechanisms are clear: a military enterprise reaching overseas could transfer the costs of an emperor's ambitions onto households that had little influence over policy."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.9:b07",
+      "title": "Korean expertise within imperial power",
+      "paragraphs": [
+        "Goryeo's knowledge of coastal construction and navigation was valuable precisely because the Mongol empire's earlier successes were concentrated on land. Imperial expansion adapted by drawing expertise from subject and allied societies. Korean sailors and shipbuilders were not merely passengers in the resulting campaigns; their specialist skills were essential to practical operations. Yet recognition of expertise must not obscure the coercive framework in which services could be demanded. The relationship generated technical exchange and political vulnerability together. An account that calls the invasions only Mongol or only Korean would conceal the multinational structure of the expeditionary force and the unequal authority governing it."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.9:b08",
+      "title": "Japanese records and the problem of perspective",
+      "paragraphs": [
+        "Much popular discussion of the expeditions centres on the Japanese image of miraculous protection. Japanese defensive texts and visual sources preserve indispensable detail, but they were created within particular religious, military and commemorative settings. Yuan imperial records tend to prioritize command and demands; Goryeo narratives reflect the burden placed on an existing kingdom. None should be read as an unmediated log of all events. The same arrival of ships could be understood as foreign aggression in one source and an obligation fulfilled for an overlord in another. Reconstructing operations requires allowing these viewpoints to remain distinct while checking them against logistics and geography."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.9:b09",
+      "title": "Expeditionary failure and continuing dependency",
+      "paragraphs": [
+        "The failure to conquer Japan did not end Goryeo's relationship of subordination to Yuan or remove all administrative arrangements connected with expeditionary planning. Imperial authorities could repurpose personnel and institutions, while Goryeo communities faced rebuilding of vessels and recovery from requisitions. The collapse of an operation at sea and the endurance of political hierarchy on land must be treated as separate outcomes. The campaigns also altered maritime routes and brought different populations into contact. Their impact lay not simply in whether Japan was conquered but in how armies, ships and labour moved through the regional imperial economy."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.9:b10",
+      "title": "A different measure of the invasions",
+      "paragraphs": [
+        "The Yuan expeditions reveal that Goryeo's incorporation into imperial politics could be militarily productive for its overlord while costly for local society. Royal institutions negotiated obligations, but their continued existence did not always protect the population. Islands that had served as refuges became imperial staging grounds, and nautical skills became resources of compulsory mobilisation. Historical analysis is improved when it asks who built each ship, who commanded it, who bore the losses and which government could insist on the campaign. That approach connects major international events with everyday consequences without collapsing the varied perspectives of Mongol, Korean and Japanese sources."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original history · source-critical"
+    }
+  ]
+}

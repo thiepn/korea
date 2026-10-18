@@ -1,0 +1,148 @@
+{
+  "id": "V.9.10",
+  "title": "Goryeo in the Yuan World: Mobility, Trade, Culture, Institutions, and Exchange",
+  "kicker": "GORYEO · IMPERIAL SETTLEMENT AND YUAN WORLD",
+  "description": "Source-critical account of goryeo in the yuan world: mobility, trade, culture, institutions, and exchange in the political and social history of thirteenth-century Korea.",
+  "release": "Z",
+  "sourceStatus": "Original historical editorial synthesis; context citations are not sentence-level independent peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo dynastic history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "The long settlement, Yuan hierarchy, royal marriage and overseas mobilization; retrospective Korean historical synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Military regime and revolt in 1270–1273; distinguished from the earlier court settlement"
+    },
+    {
+      "institution": "Ganghwa County",
+      "title": "Sambyeolcho campaign and Ganghwa sites",
+      "url": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=114&tourdiv=all",
+      "role": "Regional commemorative account of the conflict, requiring independent source criticism"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana printing woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "War-era Buddhist material production and subsequent heritage status"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Competing interpretations of island politics and return to mainland"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.10:b01",
+      "title": "Beyond the language of subordination",
+      "paragraphs": [
+        "Goryeo's integration into the Yuan-centred world was an unequal political relationship, but it also produced movements of people, goods, skills and ideas that cannot be summarized by a succession of tribute missions. Royal relatives, envoys, monks, merchants, translators and craftsmen crossed routes linking Korea with continental centres. Their opportunities differed profoundly by status. A prince resident at court travelled within a framework of political obligation; a merchant might seek profit; a captive or conscripted worker could have little choice. Treating all movement as either free cosmopolitan exchange or uniform oppression makes it impossible to explain the society that emerged from these encounters."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo: Mongol war, 1259 accommodation and Yuan-era political relations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.10:b02",
+      "title": "Trade and the imperial transport network",
+      "paragraphs": [
+        "Continental security arrangements and imperial routes created possibilities for commercial exchange, even as military requisition and political dependence shaped who could benefit. Textiles, books, ceramics, medicines, metals and luxury goods moved through networks with varying degrees of official sponsorship. The existence of an imported object in an elite grave does not prove the commercial habits of ordinary villages. Nor does an order to deliver goods establish that the entire supply reached its destination. Historians need to distinguish documented missions, archaeological finds and inferred movement. Trade belonged to the political economy of empire, in which privilege, coercion and entrepreneurial action frequently overlapped."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 1,
+          "locator": "AKS Sambyeolcho: 1270–1273 military opposition and historiography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.10:b03",
+      "title": "Monks, manuscripts and learning",
+      "paragraphs": [
+        "Buddhist communities connected Goryeo to a wider East Asian intellectual world through travel, ritual, texts and artistic practice. Such networks predated Mongol conquest, but new political circumstances affected access to patrons and routes. The survival of the Tripitaka Koreana woodblocks records the scale of textual effort that Goryeo society could sustain under extraordinary pressure. UNESCO's designation describes a material collection and its historical value, not proof of uniform religious belief among the population. Intellectual exchange should also be separated from the simpler concept of influence: Korean practitioners selected and adapted ideas while participating in transregional institutions. The historical actors were not passive recipients of a culture flowing from an imperial centre."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.10:b04",
+      "title": "Dress, vocabulary and court practice",
+      "paragraphs": [
+        "Contact with the Yuan court reshaped aspects of elite fashion, ceremonial behaviour, material tastes and vocabulary. Later Korean narratives sometimes present such changes as signs of lost cultural independence, while other accounts celebrate the prestige of transregional sophistication. Both moral frames can simplify practice. A garment's style does not reveal whether its wearer embraced the ideology associated with it. Royal courts often borrowed visible signs of power while retaining local administrative customs and religious practices. Evidence from objects, portraits and documents can illuminate specific settings, but one should not project elite consumption onto farmers who left few comparable artefacts."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.10:b05",
+      "title": "Women and dynastic connections",
+      "paragraphs": [
+        "Royal marriage networks made women from the imperial family important participants in Goryeo politics. Their households could bring retainers, property expectations, patronage and claims that affected court factionalism. These individuals were neither merely passive symbols nor independently free from the strategic constraints of marriage diplomacy. Korean women in other social positions encountered different consequences of mobility, service and household law. The sources preserve far more about princesses than about women working in transported households or producing goods demanded by officials. A social history must acknowledge this imbalance rather than treating elite biography as a representative account of female experience."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.10:b06",
+      "title": "The administrative vocabulary of empire",
+      "paragraphs": [
+        "Yuan relationships introduced new offices, titles and channels of petition alongside Goryeo's inherited institutions. Their significance depended on what powers they exercised and whether local agents cooperated. An imperial-style title may have served diplomatic protocol without replacing domestic taxation, while a temporary command could exercise force far beyond its nominal administrative scope. Categories drawn from later national government systems offer a poor guide to this arrangement. Goryeo's autonomy existed in specific competencies and was repeatedly negotiated rather than simply declared once in the thirteenth century. Tracing institutional operations reveals continuity and transformation at the same time."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.10:b07",
+      "title": "People who did not travel",
+      "paragraphs": [
+        "Networks become visible because some individuals and objects moved across long distances, but most households continued to live through local agrarian rhythms. Their experience of the Yuan world could be indirect: additional levies, changed prices, rumours about an imperial marriage or the return of a neighbour after military service. A new fashion at court might matter far less to them than the availability of oxen and grain. The history of exchange must therefore include the stationary people who financed mobility through taxation and labour. Official records seldom present their voices except when their resources were needed or a crisis disrupted collection."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.10:b08",
+      "title": "Late Yuan instability and Goryeo choices",
+      "paragraphs": [
+        "As Yuan authority weakened, Goryeo rulers and factions reassessed their external alignments and the obligations embedded in the existing order. These decisions did not automatically restore a remembered condition of untouched sovereignty. Families, offices and economic relationships built over generations persisted, while new disputes arose over landholding and political loyalty. Subsequent reform narratives may depict the removal of Yuan influence as a single act of national renewal, but the reality unfolded through competing coalitions. It is important to distinguish the changing options of later rulers from the constraints faced by Goryeo's negotiators during the wars of the 1250s."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.10:b09",
+      "title": "The limits of cultural labels",
+      "paragraphs": [
+        "Describing this period as Mongolization, exchange or foreign domination highlights different truths but can also obscure people who experienced several of them at once. A Goryeo official might adopt dress from the imperial court, defend local institutional privileges and enforce compulsory labour demands. A Buddhist monk could participate in continental learning networks while helping maintain a distinctly Korean sanctuary. Material evidence is unevenly preserved, and written accounts reflect the concerns of court and religious elites. Analytical labels should therefore follow documented practices rather than dictate in advance whether contact was beneficial or damaging."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.10:b10",
+      "title": "An entangled century",
+      "paragraphs": [
+        "The Mongol invasions began as a military threat and ended in a relationship that connected Goryeo more deeply to a Eurasian imperial order. The kingdom retained its name and many administrative practices, but royal politics and regional obligations changed substantially. Coercion shaped the conditions of exchange, yet it did not prevent Korean actors from exercising agency within those limits. Commerce, marriage, religion and maritime mobilisation demonstrate that Goryeo's place in the Yuan world cannot be understood as merely a sequence of military defeats. To reconstruct the period responsibly, historians must move among imperial policy, local livelihood and the ways later generations remembered both endurance and compromise."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original history · source-critical"
+    }
+  ]
+}

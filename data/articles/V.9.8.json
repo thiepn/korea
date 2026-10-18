@@ -1,0 +1,148 @@
+{
+  "id": "V.9.8",
+  "title": "Goryeo–Yuan Political Order: Royal Marriage, Princes, and Negotiated Autonomy",
+  "kicker": "GORYEO · IMPERIAL SETTLEMENT AND YUAN WORLD",
+  "description": "Source-critical account of goryeo–yuan political order: royal marriage, princes, and negotiated autonomy in the political and social history of thirteenth-century Korea.",
+  "release": "Z",
+  "sourceStatus": "Original historical editorial synthesis; context citations are not sentence-level independent peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo dynastic history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "The long settlement, Yuan hierarchy, royal marriage and overseas mobilization; retrospective Korean historical synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Military regime and revolt in 1270–1273; distinguished from the earlier court settlement"
+    },
+    {
+      "institution": "Ganghwa County",
+      "title": "Sambyeolcho campaign and Ganghwa sites",
+      "url": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=114&tourdiv=all",
+      "role": "Regional commemorative account of the conflict, requiring independent source criticism"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana printing woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "War-era Buddhist material production and subsequent heritage status"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Competing interpretations of island politics and return to mainland"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.8:b01",
+      "title": "Survival within an empire",
+      "paragraphs": [
+        "Goryeo remained a named dynasty under Yuan supremacy, an arrangement that combined institutional continuity with deep political constraints. Kings, offices and many domestic legal practices survived, but powerful imperial actors influenced succession, royal marriage, diplomacy and military mobilization. The result does not fit neatly into a modern choice between an independent sovereign state and an administratively absorbed province. Historical documents use varying titles and ritual forms, and their practical significance changed across reigns. A source-critical account should ask which decisions Goryeo officials could make without intervention, which depended on imperial assent and how local people experienced the fiscal consequences of this unequal relationship."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo: Mongol war, 1259 accommodation and Yuan-era political relations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.8:b02",
+      "title": "The royal marriage system",
+      "paragraphs": [
+        "Marriage between the Goryeo royal house and members of the imperial family became a central feature of its political position. Such unions gave rulers claims to privileged connections while involving them in the dynastic hierarchy of their overlord. Princesses and their households possessed political influence, financial claims and their own connections to imperial society. They should not be treated merely as diplomatic tokens, nor should marriage be romanticized as evidence of voluntary equality. Succession and court factionalism could become entangled with kinship obligations far beyond the peninsula. The personal and institutional consequences were uneven because royal families enjoyed forms of mobility and status unavailable to most subjects."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original history · source-critical",
+      "evidence": [
+        {
+          "claim": "Contextual official history of Goryeo–Mongol relations and changing political authority; interpretation remains editorial.",
+          "sourceIndex": 1,
+          "locator": "AKS Sambyeolcho: 1270–1273 military opposition and historiography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.8:b03",
+      "title": "Royal heirs at the Yuan court",
+      "paragraphs": [
+        "Goryeo princes could reside at the Yuan centre, gaining knowledge, patrons and political vulnerability at the same time. Residence might strengthen a future king's access to imperial officials yet weaken his ties to domestic factions. Political rivals could appeal to the same overlord for recognition of competing candidates. Education and etiquette mattered because being accepted as a legitimate partner within the court's rules could affect a ruler's practical ability to govern. The term hostage captures coercive aspects of this relationship but obscures the more complex opportunities for brokerage. Historians should distinguish particular royal careers rather than assume every prince experienced residence in the same way."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.8:b04",
+      "title": "Appointments and political intervention",
+      "paragraphs": [
+        "Yuan influence could shape the choice, deposition or reinstatement of Goryeo rulers. Court politics thus acquired an additional arena in which factions sought outside support. Yet the empire was not able to administer every Korean locality directly through personal command. Goryeo ministries, provincial offices and established social elites continued to mediate decisions. A demand conveyed by imperial envoys might be negotiated, delayed or implemented differently across regions. The endurance of indigenous structures mattered both to the dynasty's survival and to the empire's ability to extract resources without constructing an entirely new government. Its success cannot be reduced to straightforward resistance or collaboration."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.8:b05",
+      "title": "Imperial titles and administrative names",
+      "paragraphs": [
+        "Formal titles used within the Yuan political world signalled hierarchy, but they did not translate automatically into a single unchanging jurisdiction. Goryeo's external standing could be altered through court protocol even when officials continued routine domestic business under familiar offices. Conversely, the preservation of titles could coexist with harsh demands for men, grain or special goods. The historian should separate symbolic status, legal claims and actual enforcement. Later national histories understandably highlight the dynasty's continuity, while imperial accounts may emphasize submission. Reading the two together reveals the political usefulness of ambiguity: both sides could insist on recognizable order while disagreeing over the extent of royal discretion."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.8:b06",
+      "title": "The cost of belonging",
+      "paragraphs": [
+        "Imperial integration was lived through requirements for supplies, specialist labour, travel and military cooperation. These burdens fell on particular districts and social groups rather than on an abstract entity called Goryeo. Transport crews, agricultural producers and craftsmen might be compelled to support projects shaped by interests far from their communities. At the same time, elite families could benefit from trade connections, imperial office and cultural prestige. A balanced history cannot assume that every instance of contact was exploitative or that exchange erased coercion. Yuan relations redistributed opportunities and vulnerabilities in ways that royal marriage narratives alone are incapable of showing."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.8:b07",
+      "title": "Mongol and Korean cultural interaction",
+      "paragraphs": [
+        "Royal and aristocratic contact created pathways for clothing practices, languages, objects, technologies, foodways and artistic styles to move between the peninsula and continental courts. Such movement did not constitute a simple one-way replacement of Korean culture. Selective adoption, local adaptation and resistance to particular customs occurred simultaneously. Surviving court objects usually tell us more about elite tastes than about the everyday practices of rural households. Historians also need to distinguish objects made under Yuan influence from those actually imported from imperial territories. Material culture can reveal connections without by itself establishing the motives or identities of everyone who used an object."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.8:b08",
+      "title": "Autonomy as a negotiated practice",
+      "paragraphs": [
+        "Goryeo's room for self-government varied with imperial politics, the ambitions of individual rulers and the strength of domestic institutions. It is misleading to describe a timeless bargain struck in 1259 that fixed all subsequent relations. Special demands and interventions could widen or contract, and crises within the Yuan empire altered the leverage available to Korean kings. Goryeo officials defended precedents because remembered exemptions could become arguments in later negotiations. These processes made political knowledge and diplomatic continuity valuable forms of state capacity. Autonomy was consequently something exercised and defended in specific disputes, not simply a quality permanently possessed or lost."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.8:b09",
+      "title": "The changing late-Yuan landscape",
+      "paragraphs": [
+        "The relationship evolved as the Yuan dynasty confronted internal contestation and weakening control over distant domains. Goryeo rulers gained opportunities to revisit obligations, though they faced domestic factions whose interests had long been tied to the imperial system. Later reforms and the dynasty's eventual decline cannot be explained by saying the Mongol relationship ended cleanly at one moment. Networks of service, memory and material exchange outlived particular political arrangements. Historians must also avoid judging all thirteenth-century compromises solely by the aspirations of fourteenth-century reformers. Actors in the earlier period were managing the immediate survival of a state through an unequal empire."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original history · source-critical"
+    },
+    {
+      "id": "V.9.8:b10",
+      "title": "Interpreting the political settlement",
+      "paragraphs": [
+        "The Goryeo–Yuan order demonstrates how a medieval kingdom could retain recognizable identity while subordinating central aspects of its diplomacy and dynastic life. Neither celebration of unbroken sovereignty nor description as an indistinguishable imperial province captures its flexibility and coercion. Institutional sources are indispensable, but their concern with kings and ministries makes household costs difficult to reconstruct. Royal marriage and imperial residence were political structures, not merely personal anecdotes. Keeping their different consequences visible allows the historian to explain both the persistence of Goryeo institutions and the lasting changes brought by entering a vast continental world."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original history · source-critical"
+    }
+  ]
+}

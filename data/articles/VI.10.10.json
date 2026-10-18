@@ -1,0 +1,168 @@
+{
+  "id": "VI.10.10",
+  "title": "The Final Campaigns of 1598: Noryang, Japanese Withdrawal, and the War's End",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Original source-critical history of the final campaigns of 1598: noryang, japanese withdrawal, and the war's end, integrating Korean, Ming and Japanese military contexts and unequal civilian costs.",
+  "release": "Z",
+  "sourceStatus": "Source-critical editorial synthesis supported by contextual institutional references; independent peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall historical collections",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "War chronology, Jinju, documentary history, refugee diary and postwar consequences"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Regional warfare, Korean and Ming counteroffensives, Korean mobilization and occupation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Ryu Seong-ryong retrospective official memoir requiring criticism of self-assessment"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: Yi Sun-sin's war diary",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "First-person naval observations and limitations of genre and individual viewpoint"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Myeongnyang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0018250",
+      "role": "Reorganization and naval conflict in 1597; numerical traditions require careful attribution"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Noryang",
+      "url": "https://encykorea.aks.ac.kr/Article/E0012716",
+      "role": "Korean–Ming combined naval operations during Japanese withdrawal in 1598"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "O Hui-mun's Swaemirok, household flight and unequal civilian hardship"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.10:b01",
+      "title": "The changed strategic setting in 1598",
+      "paragraphs": [
+        "By 1598 Japanese forces occupied fortified southern positions while Korean and Ming commanders sought to restrict their movement and compel withdrawal. The early ambition to pass through Korea and subdue Ming China had not been realized. The conflict's final stage was shaped by accumulated casualties, exhausted supplies, operational uncertainty and political change in Japan. A war can end without either side achieving all declared objectives, and commanders must then plan for the dangers of retreat as well as attack. The final months should not be described as mere ceremony after a predetermined Japanese departure. Armed forces remained capable of inflicting substantial losses."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum: Imjin War exhibition, records, civilian survival",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.10:b02",
+      "title": "Hideyoshi's death and the decision to withdraw",
+      "paragraphs": [
+        "Toyotomi Hideyoshi died in 1598, altering the political incentives of Japanese leaders who had supported his continental ambitions. The decision to withdraw did not make the remaining armies instantly disappear from Korean coastal forts. Thousands of people, weapons and supplies still had to be moved by ships through waters contested by Korean and Ming naval forces. Japanese commanders faced the problem of preserving their troops while carrying out orders from a changing political centre. The death of the original architect of the invasion was a major cause of withdrawal, but the retreat's timing and difficulties were shaped by the ongoing military situation."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War: 1593 and 1597 campaigns, military and local resistance",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.10:b03",
+      "title": "The alliance in the final operations",
+      "paragraphs": [
+        "Korean and Ming commanders planned operations against Japanese strongholds and the routes by which their garrisons might escape. The alliance combined naval and land capabilities, but coordination remained difficult because commanders answered to different courts and possessed different priorities. Ming officers sought to limit strategic threats and safeguard their troops; Korean leaders pursued the liberation of their country and protection against another invasion. These goals broadly coincided without making every tactical decision identical. The historian should study the actual organization of combined operations rather than imagine the alliance as an institution with unified modern command."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original evidence-conscious historical narrative",
+      "evidence": [
+        {
+          "claim": "Institutional account and primary-source collections contextualize the military chronology and civilian experience, with interpretive limitations.",
+          "sourceIndex": 2,
+          "locator": "AKS Jingbirok: Ryu Seong-ryong retrospective wartime memoir",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.10:b04",
+      "title": "The sea lanes around Noryang",
+      "paragraphs": [
+        "The Noryang Strait near the southern coast became the setting for the final celebrated naval encounter. Geography mattered because ships attempting to move through confined waters faced currents, narrow approaches and the tactical choices of opposing fleets. Japanese withdrawal made passage and escort especially urgent, while Korean and Ming forces sought to intercept units supporting the evacuation. A battle fought during retreat cannot be understood solely as an effort to seize territory. It involved the denial of movement, the protection of allied vessels and the danger of entangling fleets at close quarters. Operational narratives must distinguish which forces were attempting to depart from those seeking to block them."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.10:b05",
+      "title": "The battle of Noryang",
+      "paragraphs": [
+        "In November 1598 fleets commanded by Yi Sun-sin and the Ming admiral Chen Lin fought Japanese naval forces near Noryang. The encounter imposed serious losses and became a major symbol of the war's end. Korean commemorative memory often focuses on Yi's final moments, but the battle was a combined operation whose participants came from several services and political systems. Accounts of damage and numbers differ across traditions; the historian should avoid presenting every dramatic detail as certain. The event's significance lies in the military encounter during evacuation, the alliance's capacity to coordinate and the personal loss of a commander central to Korean naval resistance."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.10:b06",
+      "title": "Yi Sun-sin's death",
+      "paragraphs": [
+        "Yi Sun-sin was killed during the final fighting, an event later woven into powerful traditions of sacrifice and duty. The proximity of his death to the end of the war helped make him a symbol of perseverance through national catastrophe. That symbolic status was not created all at once; subsequent courts, writers and public institutions shaped his image in different periods. His diary provides exceptional evidence for his life under command, but no personal record can describe an event after its author died. Claims about exact final words or dramatic gestures must therefore be attributed to specific accounts and treated critically. Historical respect does not require accepting every detail of later legend."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.10:b07",
+      "title": "The withdrawal of Japanese armies",
+      "paragraphs": [
+        "Japanese units ultimately evacuated their Korean positions, ending the large-scale invasions. Withdrawal did not restore destroyed buildings, return captives or replace food supplies. Some garrisons were dismantled, while surviving military sites remained in the landscape as evidence of prolonged occupation. Families seeking missing relatives or former homes confronted consequences lasting beyond the return of peace. The shift from combat to reconstruction posed administrative problems for Joseon, whose officials had to restore registers, rebuild defenses and recover revenue from devastated districts. Ending the invasion was a prerequisite for recovery, not recovery itself."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.10:b08",
+      "title": "Ming costs and regional repercussions",
+      "paragraphs": [
+        "Ming intervention helped prevent the conquest of Joseon and formed an important chapter in the dynasty's own military and fiscal history. The war consumed resources and exposed problems of commanding large expeditions beyond imperial frontiers. Exaggerated claims that the conflict alone caused Ming collapse ignore the many political, financial and military pressures that followed over subsequent decades. For Japan, the outcome intersected with changing political leadership after Hideyoshi's death, but the subsequent formation of Tokugawa rule should not be presented as the immediate automatic consequence of one naval battle. East Asian political relations were altered, not settled permanently, by the peace."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.10:b09",
+      "title": "Captives, communication and postwar contact",
+      "paragraphs": [
+        "The end of fighting left questions about captives taken to Japan, trade, diplomatic trust and the memory of violence. Contacts across the Korea Strait did not vanish, but their restoration required negotiation and new assurances. Some former enemies became interlocutors in systems intended to prevent renewed attacks. This history complicates an image of relations frozen forever after 1598. It also cannot be reduced to a simple story of reconciliation, because the human consequences of forced migration and cultural destruction were not quickly repaired. Diplomatic reopening and individual loss followed different timelines and involved people with unequal power to seek restitution."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    },
+    {
+      "id": "VI.10.10:b10",
+      "title": "The war's historical legacy",
+      "paragraphs": [
+        "The invasions of 1592–1598 reshaped Joseon's military institutions, agrarian life, cultural memory and relations with Japan and Ming China. They revealed how vulnerable an established state could be to concentrated external force, but also how maritime defence, local resistance and alliance warfare could prevent a rapid conquest from becoming durable political domination. Later generations selected heroes, memorialized suffering and debated the failures of ministers and commanders. A responsible final account holds these memories beside contemporary diaries, official records and material remains. It avoids inventing a neat victory without cost or a single explanation for the war's end. The legacy is a history of resilience, invasion, exhaustion and uneven reconstruction."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original evidence-conscious historical narrative"
+    }
+  ]
+}

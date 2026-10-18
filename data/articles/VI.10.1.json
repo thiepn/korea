@@ -1,0 +1,156 @@
+{
+  "id": "VI.10.1",
+  "title": "Toyotomi Hideyoshi, Japanese Unification, and the Breakdown of Diplomacy",
+  "kicker": "JOSEON · THE IMJIN WAR, 1592–1598",
+  "description": "Source-critical account of toyotomi hideyoshi, japanese unification, and the breakdown of diplomacy, with distinct viewpoints from court memoirs, surviving diaries, military history and material evidence.",
+  "release": "Z",
+  "sourceStatus": "Original editorial history anchored in selected institutional references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Jinju National Museum",
+      "title": "Imjin War Hall: seven-year war and documentary evidence",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/020101.html",
+      "role": "Institutional exhibition joining military history, the refugee diary Swaemirok and wartime objects"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Imjin War (임진왜란)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0047674",
+      "role": "Specialist chronology, Japanese invasion, righteous armies and broader societal disruption"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Nanjung Ilgi: War Diary of Admiral Yi Sun-sin",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/498",
+      "role": "Surviving first-person naval diary, necessarily limited to its author's experience"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jingbirok (징비록)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055088",
+      "role": "Retrospective memoir by minister Ryu Seong-ryong, rich but shaped by personal evaluation"
+    },
+    {
+      "institution": "Jinju National Museum",
+      "title": "Chronicle of a Refugee: Swaemirok exhibition",
+      "url": "https://jinju.museum.go.kr/eng/html/sub02/0202.html?mng_no=120&mode=V",
+      "role": "Close view of O Hui-mun's wartime household diary; not representative of every social rank"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.10.1:b01",
+      "title": "The political setting in Japan",
+      "paragraphs": [
+        "The invasions of Korea in 1592 and 1597 followed decades of Japanese civil warfare and Toyotomi Hideyoshi's consolidation of military authority. Success in imposing order among rival lords gave the ruler formidable manpower and organizational resources, but it did not automatically supply a stable foreign policy. Commanders who had earned positions through warfare expected rewards and opportunities within a structure oriented toward armed service. Continental ambition offered a possible outlet, although historians debate the relative influence of prestige, strategic calculation, domestic control and Hideyoshi's personal aims. Describing the invasion as a single national decision by a united Japanese people obscures the competing obligations of different domains and the constraints faced by soldiers, carriers and noncombatant subjects."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 0,
+          "locator": "Jinju National Museum Imjin War Hall: 1592 invasion, documentary sources and civilian diary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.1:b02",
+      "title": "Ambitions directed beyond Korea",
+      "paragraphs": [
+        "Hideyoshi's plans were not confined to the conquest of Joseon. Communications involving the passage of Japanese troops toward Ming China reveal a wider ambition to alter East Asian hierarchy. Korean rulers understood that permitting a foreign army to march through the peninsula would be incompatible with the obligations and security of their kingdom. From the Japanese ruler's viewpoint, Joseon might be treated as a corridor or an actor obliged to facilitate his undertaking. This clash was more than a misunderstanding over protocol. It reflected incompatible political projects. Historians should distinguish the grandiosity of imperial correspondence from the military and logistical capacity actually available to sustain such ambitions beyond Japan."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 1,
+          "locator": "AKS Imjin War entry: campaigns, righteous armies and historical interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.1:b03",
+      "title": "Embassies and linguistic mediation",
+      "paragraphs": [
+        "The final exchanges before the war depended on diplomats, interpreters, Buddhist intermediaries, written Chinese and diplomatic formulas with several possible meanings. Expressions intended as demands could be reported as proposals; reports framed for a cautious Korean court might emphasize reassuring signs. Language was therefore an instrument of power and a source of genuine uncertainty. Joseon's envoys did not receive transparent access to Hideyoshi's full strategic deliberations. They judged officials and ceremonies under unfamiliar conditions while trying to maintain accepted relations with Japan. A historical account cannot resolve the dispute by assuming that one side possessed complete information and the other deliberately ignored it. The evidence reveals mediation, selective reporting and sharply divergent expectations."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Institutional exhibition and scholarly source criticism contextualize documented invasion chronology and memoirs; not independent verification of all narrative claims.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Nanjung Ilgi registry: diary provenance and limits of firsthand naval testimony",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "VI.10.1:b04",
+      "title": "The old relationship through Tsushima",
+      "paragraphs": [
+        "Trade, piracy suppression and official intercourse had connected Japanese communities and Joseon before the Toyotomi ascendancy. The island of Tsushima played a special intermediary role, managing relations whose profitability depended on preserving access and reducing violence. Hideyoshi's continental ambitions created a dilemma for such intermediaries: they needed to transmit increasingly coercive expectations without destroying the channels through which communication had previously worked. Their words and conduct are best assessed as part of a negotiated border economy, not as a simple expression of a single Japanese intention. The failure of mediation exposed the limits of diplomatic institutions built for regulated exchange when confronted with a ruler demanding strategic passage for an invading army."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.1:b05",
+      "title": "Ming and the regional order",
+      "paragraphs": [
+        "Joseon had long maintained diplomatic relations with Ming within a hierarchical framework that also involved practical military and security expectations. A Japanese campaign directed against China through Korea threatened those arrangements. Korean refusal to facilitate passage was therefore both an assertion of domestic security and a defence of an established regional relationship. Ming officials initially had to interpret incomplete reports from the peninsula, including the question of whether Korea was collaborating with Japan. The invasion transformed such suspicions into urgent strategic decisions. Diplomacy should be understood not as a decorative prelude but as a central arena in which the legitimacy and meaning of military movement were contested."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.1:b06",
+      "title": "Material readiness for overseas war",
+      "paragraphs": [
+        "Preparing the invasion required shipping capacity, ports, provisions, firearms, horses, manpower and communications between different Japanese military contingents. The experience of warfare in Japan was relevant but not identical to operating along unfamiliar Korean roads and coastlines. Transport by sea made supply routes vulnerable even when armies advanced rapidly on land. Each lord contributed forces within a hierarchy that could be contentious. The scale of the enterprise was made possible by Japanese political consolidation, yet sustaining it depended on Korean conditions that Japanese commanders could not fully anticipate. Such logistical questions provide a firmer explanation of the war's changing fortunes than any assumption that early victories guaranteed eventual conquest."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.1:b07",
+      "title": "Joseon reports and divided assessments",
+      "paragraphs": [
+        "Korean missions and frontier contacts produced reports interpreted differently by officials in Seoul. Some warned of imminent attack; others emphasized ambiguities in Japanese declarations or estimated that the threat could still be resolved diplomatically. The resulting debate was embedded in established factional politics, but the often repeated image of two parties simply choosing opposite answers can oversimplify the evidence. People in court differed over strategy, military preparation and the reliability of reports. Histories written after catastrophic events naturally search for clear moments of culpable error. Such retrospective judgement is useful to study as political memory but cannot substitute for reconstructing the uncertainty of the late 1580s and early 1590s."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.1:b08",
+      "title": "Hideyoshi's authority and its limits",
+      "paragraphs": [
+        "The Toyotomi regime could command many provincial lords, but obligation did not erase rivalry or guarantee coordination between forces during a prolonged foreign war. Campaign commanders pursued individual reputations while negotiating supplies, reinforcements and orders sent across the sea. The prospect of rewards could encourage rapid advances that outran support. Hideyoshi's central ambitions therefore had to operate through a complex coalition of military households and transport systems. Explaining the 1592 invasion requires attending to this internal structure as well as to the Korean court's preparations. Neither side entered a campaign with a modern national army controlled through instantaneous central communication."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.1:b09",
+      "title": "The breakdown was cumulative",
+      "paragraphs": [
+        "There was no single moment at which all possibilities for peaceful interaction vanished. Over years, Japan's demands grew incompatible with Joseon's understanding of legitimate interstate conduct, while existing intermediaries failed to produce a workable formula. Korean officials who hoped for reassurance had reasons connected to prior patterns of regulated trade; those who warned of war also recognized changing continental ambitions. The decisive rupture occurred when military preparations converted coercive messages into an assault. Reading later memoirs against the sequence of missions helps separate evidence of danger from the hindsight that made warning signs appear unambiguous after the fact."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "VI.10.1:b10",
+      "title": "A regional war begins",
+      "paragraphs": [
+        "The outbreak cannot be explained adequately as an isolated bilateral quarrel. Japanese unification, Korean dynastic governance and Ming geopolitical expectations interacted within a maritime region already linked by commerce and diplomacy. Once armies entered Korea, these relationships became the framework for a war affecting people far beyond the rulers who had exchanged messages. The causes include deliberate aggression and imperial ambition, but also the institutional capacities that made aggression possible and the failure of diplomacy to bridge incompatible assumptions. Keeping these levels distinct avoids turning the origins of the conflict into either a morality tale about foolish ministers or a deterministic extension of Japan's domestic wars."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original historical synthesis · source-critical"
+    }
+  ]
+}

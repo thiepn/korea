@@ -1,0 +1,139 @@
+{
+  "id": "V.9.3",
+  "title": "The Transfer to Ganghwa and the Island Strategy of Resistance",
+  "kicker": "GORYEO · MONGOL INVASIONS AND YUAN WORLD",
+  "description": "Original critical history of the transfer to ganghwa and the island strategy of resistance, separating royal narrative, imperial demands, local survival and evidence limits.",
+  "release": "Z",
+  "sourceStatus": "Original historical synthesis with selected contextual sources; independent scholarly peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo historical synthesis",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Institutional chronology of Mongol campaigns, diplomacy and dynastic survival; predominantly elite records"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Regional and political context of the 1232 relocation, including competing evaluations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Cheoinseong",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055720",
+      "role": "Specialist account of the 1232 battle and contributions of local residents and monks"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Surviving physical canon and historical context of war-era production"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Local and institutional consequences of the contested 1270 settlement"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.3:b01",
+      "title": "Why an island seemed defensible",
+      "paragraphs": [
+        "The Goryeo court transferred its effective capital to Ganghwa Island in 1232. Its tidal channels complicated the approach of mounted invaders, while its location near Gaegyeong and established coastal routes allowed the administration to maintain contact with familiar districts. Protection was relative rather than absolute: currents, boats, harbours and food supplies still had to be managed. The decision changed the geography of power by placing the king and military rulers behind water without transporting the entire population to safety. Its significance lies in this conjunction of strategic ingenuity and unequal exposure. A dynastic government survived by choosing a defensible centre, while communities that supported it remained vulnerable on the mainland."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo entry: late thirteenth-century invasions and dynastic chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.3:b02",
+      "title": "Contested decisions at court",
+      "paragraphs": [
+        "The military leader Choe U was decisive in the move, and contemporary discussion recorded in later histories included objections from officials who wanted to defend Gaegyeong. Such opposition should not be reduced to cowardice or an inability to grasp geography. The old capital carried political and ceremonial meaning, and the government bore responsibilities to residents who could not follow it. Proponents argued that an island base gave a weaker army the chance to outlast cavalry assaults. The Choe household's interest in retaining political power further complicated motives. Historians cannot collapse dynastic survival, military self-preservation and protection of subjects into a single unproblematic patriotic objective."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 1,
+          "locator": "AKS Ganghwa transfer: reasons, competing assessments and war period",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.3:b03",
+      "title": "Constructing a wartime capital",
+      "paragraphs": [
+        "Gangdo developed a royal precinct, offices, stores and layers of walls through successive stages. Archaeological research on Ganghwa fortifications distinguishes early thirteenth-century earthworks from later reconstruction; visible stone structures should not automatically be dated to the original move. Construction required laborers, timber, earth, transport and maintenance at precisely the moment when war disrupted normal revenue. The capital reproduced ceremonies and administration so that officials could continue to issue orders under recognized authority. Yet the visible continuity of palaces and rituals should not obscure the human cost of housing an enlarged court amid scarce resources. Material construction records therefore reveal both the seriousness and the expense of the island strategy."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.3:b04",
+      "title": "The mainland's different war",
+      "paragraphs": [
+        "Mongol forces continued to threaten roads, fields and inland fortifications while the royal court enjoyed relative insular protection. Residents outside Ganghwa faced choices involving flight to mountains, local negotiations and attempts to keep fields productive. A command to resist was easier to issue than the grain and weapons needed to sustain a long siege. Not all provinces could receive timely instructions or reinforcements from the new capital. The disparity fostered later criticism of a regime which protected its ruling centre without adequately protecting subjects. That criticism is not sufficient to dismiss the strategic value of the transfer, but it must be part of its assessment."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.3:b05",
+      "title": "Coasts as military and economic corridors",
+      "paragraphs": [
+        "An island capital depended on vessels moving rice, timber, goods, officials and news along coastal routes. Goryeo's experience with maritime transport provided an advantage against forces whose immediate strength lay in mounted land campaigns. Such movement was still affected by weather, landing sites and attacks on shoreline settlements. Boat crews and dock laborers were part of the war economy, though rarely named in chronicles. It is inaccurate to turn the observation that Mongol forces initially lacked an effective assault capability into a claim that the empire could never wage maritime war. Imperial nautical capacity changed dramatically later in the century, as Goryeo itself was forced to assist campaigns against Japan."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.3:b06",
+      "title": "Political theatre and continued sovereignty",
+      "paragraphs": [
+        "The royal court needed spaces for appointments, audiences, diplomatic responses and rites because a kingdom without a functioning governing centre risked disintegration. Ceremonial continuity mattered for subjects and for foreign interlocutors. Yet maintaining the familiar form of government did not mean that the king freely controlled its military resources. Choe officials exercised coercion and patronage within the enclave. Later chronicles sometimes portray costly court activity as evidence of elite irresponsibility; their judgments are shaped by later dynastic and moral priorities. The contrast between public ritual and provincial devastation is historically illuminating without being sufficient to reconstruct every official's intent."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.3:b07",
+      "title": "A temporary move that lasted decades",
+      "paragraphs": [
+        "Ganghwa was not abandoned after one campaigning season. A generation of officials and households lived with the consequences of the relocation while diplomacy alternated with new raids. Buildings originally intended for emergency shelter became permanent institutions, and children grew up amid the expectations of protracted war. Maintaining a protected capital became an end in itself, potentially complicating agreement over the conditions of return. War expenses also accumulated, and commanders repeatedly demanded the monarch's appearance on the mainland. The long duration shows both the effectiveness of the geography for defending the court and the inability of refuge alone to terminate the conflict."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.3:b08",
+      "title": "The limits of commemoration",
+      "paragraphs": [
+        "Historical memory often celebrates Ganghwa as a symbol of resistance to overwhelming invaders. This theme is meaningful, but it can conceal disagreements within the Goryeo government and the hardship borne by those left beyond the waterways. The Mongol perspective also differed: an absent king appeared to be evading the expected gesture of submission. Fortification remains, official compilations and local social history should be read together rather than allowing any one source to dominate. Ganghwa's story is not simply an island that saved a dynasty; it is the history of how states distribute danger, resources and authority when political survival becomes their central concern."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.3:b09",
+      "title": "How archaeology complicates a simple plan",
+      "paragraphs": [
+        "Successive building phases on Ganghwa reveal that an island capital was made through construction and revision rather than established through a single founding order. Defence walls required materials, labour and knowledge of the shoreline; royal buildings required courtyards, storage and connections to transport. The existence of later rebuilding makes chronology difficult because a visible wall may represent Joseon-era repairs rather than an original Goryeo feature. Archaeological investigation can establish material sequences more securely than later commemorative narratives, but it cannot alone recover the motivations of Choe U or particular officials. The historical picture improves when fortification remains, written records of labour and the political debates over relocation are considered separately before being combined into a conditional explanation."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original additional historical analysis"
+    }
+  ]
+}

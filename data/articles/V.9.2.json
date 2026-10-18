@@ -1,0 +1,148 @@
+{
+  "id": "V.9.2",
+  "title": "The First Mongol Invasion of 1231 and Goryeo's Initial Response",
+  "kicker": "GORYEO · MONGOL INVASIONS AND YUAN WORLD",
+  "description": "Original critical history of the first mongol invasion of 1231 and goryeo's initial response, separating royal narrative, imperial demands, local survival and evidence limits.",
+  "release": "Z",
+  "sourceStatus": "Original historical synthesis with selected contextual sources; independent scholarly peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goryeo historical synthesis",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003424",
+      "role": "Institutional chronology of Mongol campaigns, diplomacy and dynastic survival; predominantly elite records"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Transfer of the capital to Ganghwa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001532",
+      "role": "Regional and political context of the 1232 relocation, including competing evaluations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Battle of Cheoinseong",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055720",
+      "role": "Specialist account of the 1232 battle and contributions of local residents and monks"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Surviving physical canon and historical context of war-era production"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Sambyeolcho resistance",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026605",
+      "role": "Local and institutional consequences of the contested 1270 settlement"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.9.2:b01",
+      "title": "An invasion through the northwest",
+      "paragraphs": [
+        "A major Mongol army entered Goryeo in 1231 under Sartaq, widely rendered Salitai in Korean scholarship. Its advance exploited communications through the northern approaches while threatening fortified settlements and roads leading toward the capital. A schematic arrow on a modern map cannot reproduce the uncertainties of ferries, seasonal movement and dispersed garrisons. Mongol cavalry possessed mobility and experience, but commanders still needed intelligence, provisions and routes. Goryeo defence likewise depended on local capacity rather than on the orders of a single central general. The campaign exposed problems of coordination and decision-making without proving that every fortress or community lacked the means to resist."
+      ],
+      "sequence": 1,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 0,
+          "locator": "AKS Goryeo entry: late thirteenth-century invasions and dynastic chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.2:b02",
+      "title": "What a fortress could achieve",
+      "paragraphs": [
+        "Fortified centres offered places where soldiers and residents might withstand attacks or bargain for safer surrender. Success depended on food, water, ammunition, the condition of walls and the prospects of relief. A garrison that delayed an invading column could protect surrounding people temporarily but did not automatically restore the roads beyond its walls. Mongol forces could bypass a strong site or devastate the land on which it depended. That imbalance shaped negotiations as much as victories in battle. Surviving chronicles devote attention to named commanders while scarcely recording the labour of carriers, cooks, builders and farmers whose work made any resistance possible."
+      ],
+      "sequence": 2,
+      "label": "Batch Z original historical synthesis · source-critical",
+      "evidence": [
+        {
+          "claim": "Interpretive discussion contextualized by Korean institutional historical synthesis; not a direct attestation of every sentence.",
+          "sourceIndex": 1,
+          "locator": "AKS Ganghwa transfer: reasons, competing assessments and war period",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "V.9.2:b03",
+      "title": "The king and the military government",
+      "paragraphs": [
+        "King Gojong's court confronted the invasion within the constitutional reality of military domination. A declaration by the monarch did not necessarily settle what the Choe leadership would permit. Competing advisers calculated the costs of resisting, submitting or gaining time through diplomatic messages. Protecting the royal dynasty and protecting the position of an entrenched military house could be compatible in some circumstances and incompatible in others. Later accounts cast officials as heroic or cowardly with the advantage of knowing subsequent events. At the moment of decision, however, men in Gaegyeong could not know whether a concession would secure withdrawal or invite a deeper assault on their independence."
+      ],
+      "sequence": 3,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.2:b04",
+      "title": "Terms of a temporary accommodation",
+      "paragraphs": [
+        "Negotiations produced an initial settlement, but its terms left fundamental disputes unsettled. Mongol representatives pressed for tribute and visible forms of submission, and historical accounts refer to darughachi supervisory agents. The reported presence of such officials should not be equated with effective control of every village. A political demand issued in a camp might be delayed or resisted in distant districts. For Goryeo's rulers, the most sensitive questions included royal attendance before the imperial court and recognition of external oversight. Neither side accepted the other's underlying assumptions. The result was a breathing space, not durable political reconciliation."
+      ],
+      "sequence": 4,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.2:b05",
+      "title": "Campaign logistics and civilian costs",
+      "paragraphs": [
+        "An army's passage consumed fodder, stored grain and draft labour whether or not it took a fortress. Villages near a road might endure requisition while communities farther away supplied transport animals or military levies. Flight at planting time could produce hunger months later, after soldiers had left the district. Goryeo defenders faced similar logistical requirements, so not every loss of food was caused by the invaders. The sources do not justify a precise national death toll for 1231. It is more responsible to explain mechanisms of displacement, harvest disruption and regional inequality than to attach invented numbers to the violence."
+      ],
+      "sequence": 5,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.2:b06",
+      "title": "How imperial victory was measured",
+      "paragraphs": [
+        "The invaders could claim progress if the Goryeo court accepted obligations and important roads were made unsafe for resistance. Goryeo leaders could present preservation of the royal house as a success even while districts suffered. A villager's criteria for victory were different: whether children returned, fields could be worked and stores survived. These dissimilar measures explain why a campaign could end in negotiations without anyone feeling secure. Royal records inevitably privilege the first two perspectives and provide intermittent glimpses of the third. Their moral narrative must be read against geography, material damage and the practical limits of command."
+      ],
+      "sequence": 6,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.2:b07",
+      "title": "The alternative of island defence",
+      "paragraphs": [
+        "After the first campaign, Goryeo's military rulers increasingly looked to Ganghwa as a refuge near familiar transport networks but separated from cavalry forces by tidal waters. Island relocation promised protection for the court and its records. It also meant leaving much of the mainland exposed and imposing new costs on boat crews, builders and people asked to provision a displaced bureaucracy. The idea was strategically plausible without being socially equitable. Officials who opposed the move did not necessarily favour submission, while supporters were not necessarily indifferent to provincial losses. Both positions emerged from an unsatisfactory choice created by the scale of imperial power."
+      ],
+      "sequence": 7,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.2:b08",
+      "title": "Why the invasion did not settle the issue",
+      "paragraphs": [
+        "The 1231 campaign revealed that Goryeo could not readily defeat Mongol armies in open manoeuvre and that the Mongols could not easily turn one coerced accommodation into permanent obedience. Their encounter created incentives for both further coercion and a new defensive strategy. The court's subsequent removal to Ganghwa reshaped the conflict into decades of alternating invasions, diplomacy and local resistance. Calling this one prolonged battle obscures the separate rhythms of farming, rebuilding and renewed attack. The first invasion was consequently both a military event and the opening of a much longer crisis over who could claim authority over Goryeo."
+      ],
+      "sequence": 8,
+      "label": "Batch Z original historical synthesis · source-critical"
+    },
+    {
+      "id": "V.9.2:b09",
+      "title": "The problem of counting armies",
+      "paragraphs": [
+        "Chronicles often record impressive numbers of invading troops and assembled Korean defenders. Such figures can signal the perceived scale of danger without constituting modern verified strength returns. A commander might report the forces formally assigned to a district even when many had not arrived, lacked weapons or had already dispersed. An invader's military presence could also include auxiliary personnel and coerced carriers not counted consistently as fighting troops. Comparisons across records therefore require asking how each number was generated, which units it included and why the writer cited it. The first Mongol invasion remains a major military crisis even where exact totals cannot be established. Sound operational explanation relies on routes, fortifications and sequence, not dramatic but unsupported arithmetic."
+      ],
+      "sequence": 9,
+      "label": "Batch Z original additional historical analysis"
+    },
+    {
+      "id": "V.9.2:b10",
+      "title": "The aftermath in northwestern communities",
+      "paragraphs": [
+        "Border communities bore the immediate effects of campaigning before southern officials could judge the full crisis. People near river crossings might lose animals or stored provisions and then be expected to provision Goryeo's own defensive forces. Local interpreters and merchants faced suspicion if they maintained contacts that had previously supported normal exchange. News of a temporary agreement could arrive too late to avert flight or concealment of grain. Such experiences rarely enter the royal annals except where they became matters of tax collection or military appointment. Reconstructing them requires cautious inference from the institutional record and regional geography, not fictional testimony. The human consequences of the first invasion were already cumulative before the court made its dramatic choice about the capital."
+      ],
+      "sequence": 10,
+      "label": "Batch Z original additional historical analysis"
+    }
+  ]
+}
