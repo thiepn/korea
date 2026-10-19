@@ -115,7 +115,9 @@ assert all(len(aliases.get(id,[])) >= 3 for id in targets), "incomplete Korean t
 
 explore = json.loads((ROOT / "data/explore.json").read_text(encoding="utf-8"))["collections"]
 original_routes = json.loads(git_show(BASE,"data/explore.json").decode("utf-8"))["collections"]
-assert explore[:len(original_routes)] == original_routes, "altered historic reading routes"
+old_slugs = {route["slug"] for route in original_routes}
+assert len(old_slugs) == len(original_routes), "prior routes contain duplicate slugs"
+assert [route for route in explore if route["slug"] in old_slugs] == original_routes, "historic routes removed, altered, duplicated or reordered"
 for slug,ch in [
     ("goguryeo-formation-complete","II.5"),
     ("goguryeo-northern-kingdom-complete","III.1"),
