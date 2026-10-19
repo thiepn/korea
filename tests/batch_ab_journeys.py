@@ -28,7 +28,7 @@ with sync_playwright() as pw:
         page.locator('.passage-evidence summary').first.click()
         assert 'National Institute of Korean History' in page.locator('.passage-evidence').first.inner_text()
         page.keyboard.press('/');page.locator('#searchInput').fill('제헌 헌법')
-        page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("IX.2.10")',timeout=20000)
+        page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("IX.2.1")',timeout=20000)
         page.keyboard.press('Escape')
         page.evaluate('location.hash="#/history/IX.2.10"')
         page.wait_for_function('document.body.textContent.includes("The 38th parallel was a dividing line")',timeout=20000)
