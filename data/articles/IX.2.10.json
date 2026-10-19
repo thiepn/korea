@@ -1,0 +1,161 @@
+{
+  "id": "IX.2.10",
+  "title": "Border Conflict, Military Expansion, Competing Unification Strategies, and the Road to War",
+  "kicker": "TWO KOREAN STATES · THE NORTH AND THE ROAD TO WAR",
+  "description": "Original source-conscious account of border conflict, military expansion, competing unification strategies, and the road to war, comparing institutional, social and foreign archival perspectives.",
+  "release": "AB",
+  "sourceStatus": "Original critical synthesis with selective contextual citations; independent specialist historical review pending.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "1946 Northern Korea Land Reform Decree",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_157_0010",
+      "role": "Contemporary published legal text and specific provisions for redistribution and local committees"
+    },
+    {
+      "institution": "Wilson Center",
+      "title": "Korean Uprisings in 1946 and Soviet occupation records",
+      "url": "https://www.wilsoncenter.org/blog-post/korean-uprisings-1946-was-us-occupation-responsible-korean-war",
+      "role": "Archival interpretation of Soviet official reports, local committees and limits of retrospective regime narratives"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS: Korea and Soviet–American Troop Withdrawal, 1948",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v06/d894",
+      "role": "Original Soviet communication as transmitted by U.S. diplomats; distinct from independent confirmation of implementation"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS 1949: Korea National Security Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1949v07p2/d209",
+      "role": "U.S. perspective on Korean governments, military withdrawal and defense concerns"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.2.10:b01",
+      "title": "A border that neither government accepted as final",
+      "paragraphs": [
+        "The 38th parallel was a dividing line established for occupation purposes and later hardened into a contested boundary between two states. Neither government accepted permanent division as the legitimate future of Korea. Competing claims made the border politically unstable, while military formations and police organizations developed on both sides. The existence of frequent incidents did not automatically entail a full-scale interstate invasion; several types of confrontation must be distinguished. Armed patrol clashes, insurgent operations, propaganda and strategic planning were related but not identical. The history of the road to war requires attention to the evolving capabilities and choices of Korean leaders as well as to international support."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.10:b02",
+      "title": "Skirmishes and local escalation",
+      "paragraphs": [
+        "During 1949 border fighting intensified in several sectors, with competing reports of incursions and retaliation. The documentary record is often partisan, and claims about who fired first in a particular exchange should not be generalized into an explanation of the entire conflict. Local commanders could react to immediate threats or seek tactical gains without possessing authority to launch a war for national unification. Civilians near disputed areas experienced insecurity regardless of which government published a victorious communique. A timeline should identify incidents specifically and avoid treating them as a continuous, centrally directed campaign unless the evidence supports that conclusion. Escalation depended on decisions at multiple levels."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.10:b03",
+      "title": "Southern unification language",
+      "paragraphs": [
+        "Syngman Rhee spoke of ending division and displayed a willingness to consider forceful reunification. His rhetoric caused concern among American officials who were unwilling to underwrite an uncontrolled southern offensive. Yet an aggressive public statement is not proof that South Korea possessed the logistical or political means for a major invasion. Analysis must compare political aims with actual force structure, training and foreign restrictions. Northern accounts later used southern rhetoric to justify claims that war was imposed upon the DPRK, but those narratives cannot replace scrutiny of the decisions made in Pyongyang and Moscow. Responsibility for an initiated large-scale operation cannot be assigned by rhetoric alone."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.10:b04",
+      "title": "Northern plans and military growth",
+      "paragraphs": [
+        "The northern leadership built a military establishment with expanding organizational capacity and external support. By the spring of 1950 Kim Il Sung sought approval and assistance for military action to reunify the peninsula under his government. Archival evidence available after the Cold War has strengthened historical understanding of these discussions, though records of private meetings still require attention to reporting and translation. The chronology of requests, revisions and approvals matters because it distinguishes general political ambition from a concrete plan for invasion. The existence of northern military preparation also demonstrates why the eventual assault should not be characterized merely as an accidental enlargement of minor border incidents."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.10:b05",
+      "title": "Moscow's changing position",
+      "paragraphs": [
+        "Soviet leadership initially expressed caution about a major Korean war, reflecting wider strategic considerations and uncertainty about the risk of American intervention. Its calculations changed in early 1950, when support for northern plans became more forthcoming under conditions that still reflected an effort to manage risk. The historian should not describe Soviet policy as unchanging since 1945. Diplomatic and intelligence sources preserve selective evidence of these assessments, and later political memoirs may have their own agendas. The key analytical question is how external approval affected decisions within the DPRK without erasing Kim's role as an active advocate of military reunification."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.10:b06",
+      "title": "Beijing and the regional equation",
+      "paragraphs": [
+        "The establishment of the People's Republic of China in 1949 altered the regional balance. Chinese leaders had their own urgent priorities after a prolonged civil war, and their relationships with Korean revolutionaries included wartime experience and cross-border connections. Consultations among northern Korean, Soviet and Chinese leaders formed part of the context in which a campaign became possible. The precise knowledge and commitments of each participant must be reconstructed from surviving sources, not assumed from a simplified alliance map. Chinese involvement in the later war has its own chronology and decision process; this article addresses the diplomatic conditions before June 1950 rather than projecting subsequent intervention backward."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.10:b07",
+      "title": "The problem of American deterrence",
+      "paragraphs": [
+        "American policies combined withdrawal of occupation units with diplomatic backing, training and economic assistance for the republic. Statements about the United States' defense perimeter have often been treated as deterministic signals, but strategic speech was only one element of a more complex decision environment. Korean leaders and their patrons interpreted American commitments under uncertainty, and their interpretations could be mistaken. A document describing low strategic priority does not establish a binding promise of nonintervention, just as aid does not automatically amount to an unconditional defense guarantee. Understanding deterrence requires distinguishing public language, private analysis, military capability and the assessments of those contemplating aggression."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.10:b08",
+      "title": "Insurgency, repression and civilian insecurity",
+      "paragraphs": [
+        "The border problem intersected with internal armed conflict and state repression in the south, but these phenomena should not be collapsed into a single undifferentiated war before 1950. Insurgent groups attacked authorities and sometimes civilians, while counterinsurgency forces committed grave abuses against suspected supporters and residents. The Jeju and Yeosu–Suncheon histories belong in IX.2.4; here their significance lies in the security environment and rival governments' interpretations of southern stability. Local civilian suffering was not simply a propaganda detail. Coercion and fear affected recruitment, intelligence and the perceived legitimacy of both competing projects."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.10:b09",
+      "title": "The decision threshold of June 1950",
+      "paragraphs": [
+        "Planning for a full-scale offensive created a decisive difference between ordinary frontier instability and the international war that began on 25 June 1950. The northern attack across the parallel followed preparation and strategic decisions; it was not adequately explained as a spontaneous border accident. This finding is compatible with recognizing political repression, aggressive southern declarations and earlier armed clashes as part of the background. Historical causation is not an exercise in assigning all developments to one side. It requires identifying which actors made which choices and which alternatives remained possible. The opening campaign and the subsequent United Nations and Chinese interventions belong to the separate Korean War Chapter."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.10:b10",
+      "title": "Contingency before catastrophe",
+      "paragraphs": [
+        "On the eve of war two governments claimed all Korea, each facing domestic challenges and depending upon external support. Their leaderships differed in organization, resources and immediate strategy, but both understood division as provisional and contested. Local border violence had normalized coercion without eliminating the importance of high-level decisions. A retrospective history can make the 1950 invasion seem inevitable, especially when state propaganda explains every earlier action as preparation for it. Yet institutions, diplomacy and military plans evolved through choices whose outcomes were uncertain. This concluding article marks the transition from rival state formation to open interstate war while preserving accountability for the decision to invade and the distinct experiences of civilians."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
