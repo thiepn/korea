@@ -1,0 +1,161 @@
+{
+  "id": "IX.2.1",
+  "title": "The May 1948 Election, Constituent Assembly, Constitution, and Establishment of the Republic of Korea",
+  "kicker": "DIVISION AND STATE FORMATION · SOUTHERN KOREA 1948–1950",
+  "description": "Original institutional and social historical analysis of the may 1948 election, constituent assembly, constitution, and establishment of the republic of korea, distinguishing partisan claims, official texts and civilian consequences.",
+  "release": "AB",
+  "sourceStatus": "Original critical synthesis with selected contextual archival and institutional references; scholarly peer review pending.",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "The 1948 Founding Constitution",
+      "url": "https://www.archives.go.kr/next/newsearch/listSubjectDescription.do?id=001430&pageFlag=C&sitePage=1-2-2",
+      "role": "Official chronology and institutional record of the Constituent Assembly and constitution"
+    },
+    {
+      "institution": "Republic of Korea official government",
+      "title": "Constitution and Government",
+      "url": "https://www.korea.net/Government/Constitution-and-Government/Constitution",
+      "role": "Dates of elections, constitutional promulgation, inauguration and retrospective state presentation"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "Foreign Relations of the United States, 1949: National Security Council assessment",
+      "url": "https://history.state.gov/historicaldocuments/frus1949v07p2/d209",
+      "role": "Primary contemporary American policy assessment; actor-specific interests and evaluative language must be separated from neutral historical fact"
+    },
+    {
+      "institution": "Jeju 4.3 Peace Foundation",
+      "title": "Historical timeline and civilian losses",
+      "url": "https://jeju43peace.or.kr/kor/sub01_01_03.do",
+      "role": "Investigation and memorial source for armed uprising, counterinsurgency and civilian victimization"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.2.1:b01",
+      "title": "A vote under division",
+      "paragraphs": [
+        "The election held in southern Korea on 10 May 1948 was a milestone in institutional state formation and a source of enduring controversy. It took place where international election observers could operate, not throughout the peninsula as originally envisioned in proposals for a unified political process. The Soviet authorities did not permit the UN commission to conduct comparable observation in the north. Some southern political actors treated the vote as an achievable route from occupation to Korean government, while others opposed it as a step toward permanent division. Its historical importance requires both facts: participation established a representative assembly for the south, and the process did not resolve the legitimacy of a government claiming to speak for all Koreans."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 0,
+          "locator": "National Archives 1948 Constituent Constitution timeline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.1:b02",
+      "title": "The international framework",
+      "paragraphs": [
+        "United Nations deliberations followed failed efforts to produce a joint occupation settlement. The UN Temporary Commission on Korea was intended to observe and consult with Korean political society, but unequal access across the dividing line conditioned the result. Its presence did not mean that every important Korean politician agreed to the scope of the election. Foreign governments also interpreted the process through early Cold War strategic interests, so diplomatic statements cannot stand as impartial accounts of popular consent. The eventual election should be understood as a constrained institutional choice within a deeply contested international arrangement. It neither occurred in a political vacuum nor followed an inevitable administrative blueprint."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.1:b03",
+      "title": "Political competition and boycott",
+      "paragraphs": [
+        "Parties, independents and regional political figures approached the southern election from different positions. Syngman Rhee favored prompt formation of a southern government, while figures associated with negotiation for a unified outcome resisted the separate vote. Kim Gu's opposition and attempts at north–south consultation mattered politically even though they did not prevent the new assembly from meeting. Describing everyone simply as pro- or anti-democratic would erase differences between support for representation and disagreement about territorial scope. Electoral politics also developed amid intimidation and polarization. The existence of competing positions does not justify treating every threat of violence as equivalent or presuming that abstention always expressed a single motive."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 2,
+          "locator": "FRUS NSC U.S. interests and southern state support",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.1:b04",
+      "title": "The Constituent Assembly",
+      "paragraphs": [
+        "The representatives who assembled at the end of May confronted an urgent and consequential task. They needed a legal framework for a state whose sovereignty was asserted over Korea but whose effective jurisdiction was limited to the south. Debates about presidential authority, cabinet responsibility, rights and institutional design reflected not merely abstract constitutional theory but rivalry among politicians emerging from colonial rule and occupation. The assembly created a body in which lawmaking could be conducted by elected deputies; it did not remove coercion from the surrounding political environment. Official records preserve proceedings more readily than the responses of residents living far from Seoul, and that gap should be made explicit."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.1:b05",
+      "title": "Promulgation on 17 July",
+      "paragraphs": [
+        "The constitution promulgated on 17 July 1948 created institutions and stated rights and obligations that would become central to the Republic of Korea's later constitutional history. The text expressed a political vision, but constitutional enactment and effective protection of rights must be distinguished. A written guarantee could coexist with emergency security measures or unequal treatment in practice. The constitution also carried claims about national territory that exceeded the new government's actual administrative control. The historian must read it as a foundational legal source and as a document produced under the pressure of division. Later constitutional revisions belong to subsequent political chapters, not to this moment of founding."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 0,
+          "locator": "National Archives 1948 Constituent Constitution timeline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.1:b06",
+      "title": "An indirect presidential choice",
+      "paragraphs": [
+        "The constituent representatives selected Syngman Rhee as the republic's first president on 20 July. That parliamentary mechanism matters because it differentiates the founding constitutional arrangement from later presidential elections. Rhee had accumulated symbolic influence through anti-colonial politics and support among particular conservative and nationalist constituencies, but he did not enjoy undisputed authority across all currents of Korean political life. His selection also reflected the emerging distribution of power inside the assembly and the importance of American relations. A biography-centered account is insufficient: the office, electoral method and coalition behind the presidency together shaped how political authority would be exercised after the transfer from occupation administration."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.1:b07",
+      "title": "The government begins",
+      "paragraphs": [
+        "The establishment of the Republic of Korea on 15 August 1948 was both a ceremonial event and a transfer of governing responsibilities. Ministries, courts, police and administrative offices now operated under a Korean executive, though many personnel and institutional practices were inherited or adapted from occupation and colonial arrangements. Ceremony supplied a public claim of independent government, but building practical state capacity required budgets, supplies, appointments and the negotiation of local obedience. The existence of a new national flag and constitution should not be taken as proof that every district experienced an immediate break with older methods of rule. The labor of establishing a state extended well beyond inauguration day."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 2,
+          "locator": "FRUS NSC U.S. interests and southern state support",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.1:b08",
+      "title": "International recognition and its scope",
+      "paragraphs": [
+        "A United Nations resolution in December 1948 recognized a government exercising effective control and jurisdiction in the region accessible to its commission. The precise wording matters: international recognition arose within a divided political setting and did not create direct administrative control north of the parallel. Later summaries sometimes reduce the process to a slogan that one government alone possessed all possible legitimacy. A historian must distinguish the legal and diplomatic language of the resolution, the actual scope of observation and the claims advanced by the contending Korean governments. Recognition increased the republic's capacity to seek assistance and diplomatic support but did not end the division that shaped its creation."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.1:b09",
+      "title": "Participation, exclusion and everyday stakes",
+      "paragraphs": [
+        "For residents, state formation involved more than the act of casting a ballot. The prospective government would affect land titles, school administration, food distribution, policing and military obligations. People differed sharply in access to political influence and in their vulnerability to accusations of disloyalty. Rural households might evaluate politicians through experiences of landlords, police or occupation officials rather than constitutional debates in Seoul. No single survey captures the views of everyone subject to the new government's laws. The new political order could bring opportunities for Korean self-government and new sources of repression, and neither aspect should be obscured by treating the event as entirely emancipatory or entirely illegitimate."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 0,
+          "locator": "National Archives 1948 Constituent Constitution timeline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.1:b10",
+      "title": "The foundational paradox",
+      "paragraphs": [
+        "The Republic of Korea emerged through constitutional acts asserting national sovereignty while operating in only part of the territory it claimed. That difference created challenges for domestic loyalty, diplomacy and security policy. The government formed a durable institutional framework, yet its democratic promises existed alongside serious restrictions and coercive practices examined in neighboring articles. The constitution and the May election have their own historical significance independent of the Korean War that followed two years later. Treating the election solely as a prelude to war would deny the agency of representatives, voters and opponents struggling over alternatives in 1948. The resulting state was both an achievement and a contested political settlement."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

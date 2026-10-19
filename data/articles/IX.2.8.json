@@ -1,0 +1,161 @@
+{
+  "id": "IX.2.8",
+  "title": "Land Reform, Nationalization, Labor, and Social Transformation in the North",
+  "kicker": "TWO KOREAN STATES · THE NORTH AND THE ROAD TO WAR",
+  "description": "Original source-conscious account of land reform, nationalization, labor, and social transformation in the north, comparing institutional, social and foreign archival perspectives.",
+  "release": "AB",
+  "sourceStatus": "Original critical synthesis with selective contextual citations; independent specialist historical review pending.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "1946 Northern Korea Land Reform Decree",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_157_0010",
+      "role": "Contemporary published legal text and specific provisions for redistribution and local committees"
+    },
+    {
+      "institution": "Wilson Center",
+      "title": "Korean Uprisings in 1946 and Soviet occupation records",
+      "url": "https://www.wilsoncenter.org/blog-post/korean-uprisings-1946-was-us-occupation-responsible-korean-war",
+      "role": "Archival interpretation of Soviet official reports, local committees and limits of retrospective regime narratives"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS: Korea and Soviet–American Troop Withdrawal, 1948",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v06/d894",
+      "role": "Original Soviet communication as transmitted by U.S. diplomats; distinct from independent confirmation of implementation"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS 1949: Korea National Security Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1949v07p2/d209",
+      "role": "U.S. perspective on Korean governments, military withdrawal and defense concerns"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.2.8:b01",
+      "title": "Reforming property relations in the north",
+      "paragraphs": [
+        "Agrarian reform in northern Korea preceded the DPRK's formal founding and deeply affected the social world that the state inherited. The March 1946 decree sought to end landlord dominance and give land to cultivators through confiscation without compensation. It included provisions about former Japanese property and some categories of Korean landlords, while assigning implementation to administrative and village committees. Its actual operation required classifying owners, surveying plots and handling disputes. The text should be read as a primary political and legal document, not as independent proof that every parcel was redistributed exactly as intended. Land reform was both a material intervention and a method of reorganizing local power."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.8:b02",
+      "title": "The decree's categories",
+      "paragraphs": [
+        "The published decree distinguished property subject to confiscation from categories exempted under specified circumstances, and it set rules for distribution. Translating its land-measurement terms and ownership language requires care. A legal category such as tenant or landlord could simplify complicated family arrangements involving debts, inheritance and sharecropping. People whose property relations did not fit an official label might have contested the classification or concealed information. The law expressed a political ideal of cultivators controlling the land they worked, but its administrative execution depended on officials who were themselves embedded in local conflicts. The decree is therefore indispensable evidence for intention and procedure, not a census of individual outcomes."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.8:b03",
+      "title": "Village committees and the exercise of power",
+      "paragraphs": [
+        "Agrarian reform was organized through local committees with formal roles for agricultural workers and poorer cultivators. That framework created routes for people excluded from earlier landlord politics to gain authority. It also gave committee members significant influence over identifying properties, judging eligibility and distributing resources. Officials could act with genuine commitment to equity while also participating in coercion or partisan discrimination. The archival record is uneven: legal documentation often preserves successful implementation narratives better than individual complaints. Analysing committees requires attention to both new participatory opportunities and the dangers of concentrated local power. Neither dimension should be assumed to negate the other."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.8:b04",
+      "title": "Landlords and displaced wealth",
+      "paragraphs": [
+        "For large landholders, confiscation could mean the loss of their primary economic resource and established social position. Some moved south or became politically alienated, while others remained and sought adaptation. Their experiences cannot be generalized from elite memoirs alone. The regime's category of class enemy could combine economic classification with an accusation of political disloyalty, but a family's response varied according to circumstances. Landlords might have depended upon tenants and wage laborers while also participating in local education or religious patronage. Reform disrupted these networks as well as property titles. Its significance is not captured by a simple moral portrait in which everyone in one category possessed identical motives."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.8:b05",
+      "title": "Recipients and unequal starting points",
+      "paragraphs": [
+        "Former tenants and small cultivators stood to gain from ownership, but the distribution of land did not give every recipient the same resources. Soil quality, access to irrigation, equipment, seed and labor influenced whether a household could farm successfully. Some farmers received land while lacking animals or implements, creating continued reliance on neighbors or public assistance. The political symbolism of free allocation could be powerful even when production remained difficult. Women’s and dependents’ property positions also require careful investigation; legal ownership language alone cannot establish how all households divided work or controlled income. A serious social history evaluates opportunities and vulnerabilities rather than treating every land recipient as a representative success."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.8:b06",
+      "title": "Nationalization of industry",
+      "paragraphs": [
+        "Northern authorities nationalized major industrial enterprises, transport and other resources as part of a broader restructuring of the economy. These assets included facilities developed under Japanese colonial priorities, often with technical dependence on external networks. Formal state ownership did not automatically solve shortages of fuel, parts or trained personnel. Engineers and experienced workers remained necessary, and some managers might have been retained despite the change in political system. Industrial policies therefore combined symbolic claims about ending colonial exploitation with practical problems of maintaining production. Administrative records may describe targets and output, but they must be assessed for reporting incentives and the disruption caused by division."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.8:b07",
+      "title": "Labor organizations and discipline",
+      "paragraphs": [
+        "Trade unions and workplace committees offered new forms of organization for workers, but their political autonomy depended on their relationship to the developing party-state. Official language celebrated labor participation, while production campaigns could impose demands and limit dissent over conditions. The relevant questions include who set targets, who could criticize managers, how wages were distributed and whether appeals were possible. Surviving state sources are more likely to highlight exemplary workers than unpopular assignments. Oral testimony collected later may illuminate alternatives, though memory after decades of war and migration can be selective. Labor policy must be examined as both social mobilization and institutional control."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.8:b08",
+      "title": "Education, literacy and new opportunities",
+      "paragraphs": [
+        "The northern authorities promoted literacy, schooling and the training of cadres as tools of economic and political transformation. Broader educational access could benefit people previously excluded from formal schooling, while curricula and appointment procedures also carried ideological priorities. A new classroom required teachers, books, buildings and stable attendance, all affected by wartime disruption and household labor needs. Enrollment figures should be treated as administrative measures rather than automatic proof of educational quality. The experience of a rural girl, a factory apprentice and a party trainee could differ sharply. Reform created pathways for advancement but did so within an increasingly controlled political system."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.8:b09",
+      "title": "Agriculture and industry across division",
+      "paragraphs": [
+        "The division of Korea interrupted older links between northern industrial installations and southern agricultural regions. That was economically consequential for both states, though simplistic claims that one half produced only factories and the other only rice would obscure regional diversity. Cross-border electricity, transport and market relationships were affected by political restrictions and conflicting security policies. The northern government sought to redirect production and distribution under new state institutions. Shortages and incentives should be interpreted within these constraints rather than attributed entirely to ideology. A ministry's claim that a plan was fulfilled does not substitute for independent evidence about actual household supplies or industrial output."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.8:b10",
+      "title": "A social revolution with lasting tensions",
+      "paragraphs": [
+        "By the time the DPRK was proclaimed, northern land reform and nationalization had reshaped ownership and local political relationships. Some previously disadvantaged groups experienced real gains, while displaced owners and critics faced severe losses and restrictions. Production, education and labor organizations helped expand state reach but also gave political leaders tools to supervise society. The regime's claims of unanimity must be distinguished from uneven everyday experiences. These transformations created foundations for a new social order without determining all of its later development. This article belongs to the 1946–1950 founding economy, not the later collectivization programs or subsequent North Korean famines examined in other Chapters."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

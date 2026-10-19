@@ -1,0 +1,161 @@
+{
+  "id": "IX.2.5",
+  "title": "South Korean Land Reform, Economic Reconstruction, and the Social Foundations of the New Republic",
+  "kicker": "DIVISION AND STATE FORMATION · SOUTHERN KOREA 1948–1950",
+  "description": "Original institutional and social historical analysis of south korean land reform, economic reconstruction, and the social foundations of the new republic, distinguishing partisan claims, official texts and civilian consequences.",
+  "release": "AB",
+  "sourceStatus": "Original critical synthesis with selected contextual archival and institutional references; scholarly peer review pending.",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "The 1948 Founding Constitution",
+      "url": "https://www.archives.go.kr/next/newsearch/listSubjectDescription.do?id=001430&pageFlag=C&sitePage=1-2-2",
+      "role": "Official chronology and institutional record of the Constituent Assembly and constitution"
+    },
+    {
+      "institution": "Republic of Korea official government",
+      "title": "Constitution and Government",
+      "url": "https://www.korea.net/Government/Constitution-and-Government/Constitution",
+      "role": "Dates of elections, constitutional promulgation, inauguration and retrospective state presentation"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "Foreign Relations of the United States, 1949: National Security Council assessment",
+      "url": "https://history.state.gov/historicaldocuments/frus1949v07p2/d209",
+      "role": "Primary contemporary American policy assessment; actor-specific interests and evaluative language must be separated from neutral historical fact"
+    },
+    {
+      "institution": "Jeju 4.3 Peace Foundation",
+      "title": "Historical timeline and civilian losses",
+      "url": "https://jeju43peace.or.kr/kor/sub01_01_03.do",
+      "role": "Investigation and memorial source for armed uprising, counterinsurgency and civilian victimization"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.2.5:b01",
+      "title": "A divided economy at founding",
+      "paragraphs": [
+        "The Republic of Korea inherited an economy fractured by Japanese colonial extraction, wartime mobilization and the new political division. Northern and southern regions had developed complementary but unequal industrial and agricultural capacities under colonial rule, so separation interrupted supplies and markets. Southern authorities also faced shortages, inflationary pressure and the task of organizing public finance without a stable postcolonial tax system. New ministries inherited records, facilities and personnel whose experience was uneven. The republic could proclaim economic reconstruction, but the availability of grain, fuel, electricity and foreign exchange set practical limits. An account focused solely on aggregate growth would miss the immediate struggle for basic institutional and household stability."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 0,
+          "locator": "National Archives 1948 Constituent Constitution timeline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.5:b02",
+      "title": "Land tenure as a political question",
+      "paragraphs": [
+        "Agrarian inequality and tenancy were among the most consequential social issues inherited from colonial Korea. Landowners, tenant farmers and rural laborers differed in their interests, while state policy could change the balance of income, authority and security in villages. Northern land reform had already transformed property relations across the dividing line, increasing pressure on southern politicians to act. It is misleading, however, to interpret agrarian reform exclusively as a response to communism. Peasant demands for access to land had histories of their own, and members of the new republic debated what kind of ownership system was compatible with social peace. Legislation's eventual terms reflected compromise and competing priorities."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.5:b03",
+      "title": "The 1949 land reform law",
+      "paragraphs": [
+        "The southern land reform program was legislated in 1949 and implemented through further measures around 1950, with the outbreak of war complicating its operation. Its underlying principle was to convert many tenants into owner-cultivators while compensating former landowners through mechanisms that differed markedly from northern confiscation without compensation. Dates, eligibility and financial terms should be read from the specific legislative sources rather than collapsed into a single reform day. Passing a law did not immediately settle every disputed title or bring payment to every eligible person. The implementation depended on administrative records, parcel boundaries and households' capacity to meet obligations. Its subsequent consequences extended well beyond the founding period."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 2,
+          "locator": "FRUS NSC U.S. interests and southern state support",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.5:b04",
+      "title": "Landowners, tenants and compensation",
+      "paragraphs": [
+        "The costs and benefits of reform were not distributed uniformly. A tenant who received ownership might gain security but also inherit payment obligations and production risks. A former landlord might receive compensation whose practical value changed with inflation and economic disruption. Small proprietors, landless workers and households with ambiguous claims could face different outcomes. Administrative categories often simplify complex local relationships, including informal loans or share arrangements. Historians should distinguish statutory intent from what happened to particular communities and avoid presenting every transfer as an unqualified improvement. The transformation of property rights reshaped rural politics precisely because land represented both livelihood and local social authority."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.5:b05",
+      "title": "Former Japanese property",
+      "paragraphs": [
+        "Property formerly owned by Japanese institutions or settlers created distinctive problems of disposal and title after liberation. Occupation administrators had managed many assets before the republic established its own arrangements. Transferring them could generate resources for reconstruction but also opportunities for favoritism or conflict over legitimate claimants. Urban buildings and enterprises posed different questions from farmland. Former employees might possess useful knowledge without holding legal title, while displaced owners or tenants asserted competing rights. The eventual allocation of these properties affected the distribution of capital in the early republic. It requires its own documentary evidence rather than the assumption that all assets passed straightforwardly from colonial authorities to a unified Korean public."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 0,
+          "locator": "National Archives 1948 Constituent Constitution timeline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.5:b06",
+      "title": "Industry, transport and fuel",
+      "paragraphs": [
+        "Railways, ports, factories and power connections were crucial to the rebuilding of the southern economy. Many systems had been organized within a colonial network extending beyond the new divide, and the interruption of cross-border exchange created technical bottlenecks. Even an existing factory could fail to operate without coal, electricity, skilled staff or replacement parts. Policies to restore production depended on overseas imports, foreign assistance and the state of internal transport. Contemporary statistics should be assessed for coverage and changes in price levels. The survival of buildings alone did not measure productive capacity, and regional disparities shaped who regained work and who remained dependent on emergency distribution."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.5:b07",
+      "title": "American aid and policy choices",
+      "paragraphs": [
+        "U.S. economic assistance supplied vital materials and strengthened the new government's ability to function, but it also created a relationship of dependence and negotiation. American advisers considered stabilization, fiscal discipline and political security, while Korean officials sought resources for priorities of their own. Assistance records reflect donor accounting categories and strategic concerns, not a complete picture of everyday welfare. Aid could keep essential imports arriving without solving land inequality or bureaucratic inefficiency. Some domestic elites benefited more than others from access to scarce commodities. Describing recovery only as an American gift would erase Korean choices; portraying the republic as economically self-sufficient would ignore the scale of external support."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 2,
+          "locator": "FRUS NSC U.S. interests and southern state support",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.5:b08",
+      "title": "Household prices and survival",
+      "paragraphs": [
+        "Inflation and shortage were experienced not as abstract indices but through the cost of rice, clothing, heating and transport. A wage could lose purchasing power before the next payment, and families with access to land or relatives might adapt differently from urban laborers. Women often carried much of the labor of household provisioning, although policy archives rarely record the time required to obtain necessities. Black markets, informal borrowing and local mutual assistance could supplement official systems; their relative importance varied by place. A social history of reconstruction must not treat all households as equally vulnerable. The economic transformation was mediated through unequal assets, employment and access to administrative networks."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.5:b09",
+      "title": "Regional divergence",
+      "paragraphs": [
+        "Seoul and provincial towns faced different infrastructural challenges from coastal fishing settlements and agricultural villages. Access to railways, ports and public offices affected commercial opportunity, while local landlords or officials could shape the implementation of reform. National averages blur these contrasts. Regions that had received substantial wartime or colonial investment were not necessarily those with the greatest need after liberation. Evaluating economic policy requires tracing how resources and administrative capacity moved from central ministries to actual local users. A reconstruction strategy may appear coherent in a budget document while unfolding unevenly in practice. That disparity is not incidental but part of the emerging geography of the republic."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 0,
+          "locator": "National Archives 1948 Constituent Constitution timeline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.5:b10",
+      "title": "Foundations, not a finished recovery",
+      "paragraphs": [
+        "By June 1950 the new republic had set in motion agrarian redistribution and efforts to stabilize commerce, transport and finance, yet it had not overcome the structural disadvantages created by war, colonial institutions and division. Land reform would become central to later rural society, but its early effects were incomplete and vulnerable to renewed conflict. This article owns the socioeconomic program of the founding years, not the republic's much later industrial development or the economic devastation of the Korean War. The crucial historical point is that the state was formed amid an unresolved struggle over livelihood and property, with political legitimacy depending partly on how these material problems were addressed."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

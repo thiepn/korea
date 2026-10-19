@@ -1,0 +1,161 @@
+{
+  "id": "IX.2.2",
+  "title": "Syngman Rhee, the First Republic, and the Formation of the South Korean Political Coalition",
+  "kicker": "DIVISION AND STATE FORMATION · SOUTHERN KOREA 1948–1950",
+  "description": "Original institutional and social historical analysis of syngman rhee, the first republic, and the formation of the south korean political coalition, distinguishing partisan claims, official texts and civilian consequences.",
+  "release": "AB",
+  "sourceStatus": "Original critical synthesis with selected contextual archival and institutional references; scholarly peer review pending.",
+  "sources": [
+    {
+      "institution": "National Archives of Korea",
+      "title": "The 1948 Founding Constitution",
+      "url": "https://www.archives.go.kr/next/newsearch/listSubjectDescription.do?id=001430&pageFlag=C&sitePage=1-2-2",
+      "role": "Official chronology and institutional record of the Constituent Assembly and constitution"
+    },
+    {
+      "institution": "Republic of Korea official government",
+      "title": "Constitution and Government",
+      "url": "https://www.korea.net/Government/Constitution-and-Government/Constitution",
+      "role": "Dates of elections, constitutional promulgation, inauguration and retrospective state presentation"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "Foreign Relations of the United States, 1949: National Security Council assessment",
+      "url": "https://history.state.gov/historicaldocuments/frus1949v07p2/d209",
+      "role": "Primary contemporary American policy assessment; actor-specific interests and evaluative language must be separated from neutral historical fact"
+    },
+    {
+      "institution": "Jeju 4.3 Peace Foundation",
+      "title": "Historical timeline and civilian losses",
+      "url": "https://jeju43peace.or.kr/kor/sub01_01_03.do",
+      "role": "Investigation and memorial source for armed uprising, counterinsurgency and civilian victimization"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.2.2:b01",
+      "title": "Rhee's rise and the limits of consensus",
+      "paragraphs": [
+        "Syngman Rhee became the most prominent leader of the Republic of Korea at a time when no single Korean political movement could claim uncontested popular support across the divided peninsula. His long record of anti-colonial activism and overseas diplomacy helped give him prestige, but his political methods, coalition and visions of unification were disputed. Southern conservatives, anti-communists, former officials, local patrons and religious networks did not constitute a homogeneous party. Their willingness to support Rhee could reflect security concerns, aspirations for authority or opposition to rival groups. The first republic's formation must be understood through these alliances as well as through the choices of the president himself."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 0,
+          "locator": "National Archives 1948 Constituent Constitution timeline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.2:b02",
+      "title": "Returning from exile",
+      "paragraphs": [
+        "Rhee's political career developed over decades in which Korean independence movements disagreed about foreign support, provisional government and political strategy. His return after liberation gave him access to a public longing for a Korean leader independent of Japanese colonial institutions, but his authority was not simply conferred by national unanimity. American occupation officials evaluated Korean figures through their own strategic assumptions and administrative needs. Public rallies and reported crowds were evidence of mobilization, not a national opinion poll. The political consequences of exile included international connections and distance from some local organizational networks. Both assets and limitations shaped Rhee's position in the late 1940s."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.2:b03",
+      "title": "A coalition built against communism",
+      "paragraphs": [
+        "Anti-communism became a powerful principle of political alignment in the southern founding government. It could unite people otherwise divided by economic interests, class or earlier careers. Former colonial administrative personnel and nationalist politicians might serve alongside one another because they regarded leftist organizations as a common danger. This did not dissolve disagreement over patronage, regional influence or democratic procedure. Public use of anti-communist language also created incentives for denunciation of opponents. Analysts should separate ideological conviction from opportunistic accusation rather than assuming a single motive for everyone involved. The coalition could be politically effective while remaining dependent on coercive and exclusionary practices."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 2,
+          "locator": "FRUS NSC U.S. interests and southern state support",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.2:b04",
+      "title": "Legislators and presidential conflict",
+      "paragraphs": [
+        "Although Rhee held the presidency, the new National Assembly was not merely decorative at the founding moment. Deputies held differing views about the constitution, cabinet appointments, colonial collaboration and social reform. Executive authority had to operate alongside legislators who could contest ministerial choices or demand accountability. Later confrontation between presidency and assembly is often told as a predetermined slide into authoritarianism. A more precise explanation traces institutions that initially allowed disagreement but lacked secure guarantees against executive pressure. The political rules mattered because their interpretation determined whether competition could remain ordinary parliamentary dispute or become framed as a danger to national security."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.2:b05",
+      "title": "The problem of former collaborators",
+      "paragraphs": [
+        "The republic inherited many bureaucratic and police structures from preceding regimes. Demands to investigate persons associated with Japanese colonial rule created tensions within the new governing coalition. Some accused officials possessed administrative skills or powerful networks valued by the government; victims and independence activists sought recognition and accountability. A claim that every experienced official had been a collaborator would be unsupported, but treating continuity as politically neutral would also distort the debate. Investigations and the fate of bodies such as the Special Investigation Committee for Anti-National Activities reflected conflicting priorities among institutions. The unresolved question was whether state-building could be pursued without reckoning adequately with inherited forms of coercion."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 0,
+          "locator": "National Archives 1948 Constituent Constitution timeline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.2:b06",
+      "title": "Local power and center–province relations",
+      "paragraphs": [
+        "Rhee's presidency depended on support and compliance outside Seoul. Provincial administrators, police commanders, economic intermediaries and local political organizers could influence implementation of central policy. Their actions were not always identical to presidential intention, yet executive leadership bore responsibility for institutional design and oversight. Residents encountering a police station or ration office might experience the republic through individuals they knew from earlier regimes. Political history must therefore connect cabinet decisions to provincial realities. Uneven state capacity can produce both gaps in enforcement and opportunities for abuse, and a formally centralized constitution does not prove that all power was exercised uniformly."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.2:b07",
+      "title": "American support without complete control",
+      "paragraphs": [
+        "The United States was crucial to the republic's security, economic assistance and diplomatic position. Its officials could advise, pressure or refuse particular requests, but these relationships should not erase the choices of Korean politicians. American documents show concerns over stability, costs and the risks of war, which were not always identical to Rhee's ambitions. Rhee likewise sought greater support and pressed policies that could irritate foreign patrons. Depicting him as wholly autonomous would understate dependence; depicting him as a mere instrument would ignore agency and domestic coalition building. Bilateral relations were a negotiation between unequal actors with partially overlapping objectives."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 2,
+          "locator": "FRUS NSC U.S. interests and southern state support",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.2:b08",
+      "title": "Unification as presidential language",
+      "paragraphs": [
+        "Rhee's refusal to accept permanent division gave political force to a claim that the republic represented Korea beyond its effective jurisdiction. He articulated anti-communist unification goals in ways that raised concerns about renewed military conflict. But political declarations, actual military capacity and decisions to launch a large-scale campaign must not be treated as interchangeable facts. His words need to be placed alongside the restrictions and uncertainty of American assistance and the capabilities of southern forces. Other Korean political currents also opposed division without endorsing identical strategies. Understanding presidential unification rhetoric is necessary for the road to war but does not remove responsibility for the concrete military choices made by different actors."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.2:b09",
+      "title": "Social support and opposition",
+      "paragraphs": [
+        "The founding coalition's political durability cannot be explained solely through repression. Some citizens identified Rhee with independence, order or resistance to communism, while others opposed policies or feared the growing coercive apparatus. Workers, farmers, religious congregations and students had divergent interests that changed through direct experience. Detailed individual voting behavior and private attitudes are not uniformly documented, and later memories may be shaped by the Korean War and subsequent authoritarian governments. An evidence-conscious analysis recognizes genuine political support without treating it as blanket consent. Likewise, accounts of opposition should specify organizations, grievances and contexts rather than imagining one unified popular resistance movement."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "The referenced institutional or archival document provides context, not independent confirmation of every inference.",
+          "sourceIndex": 0,
+          "locator": "National Archives 1948 Constituent Constitution timeline",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.2:b10",
+      "title": "The unsettled First Republic",
+      "paragraphs": [
+        "By mid-1950 the Republic of Korea had ministries, a presidency, an assembly and foreign relationships, but its institutional future remained uncertain. Tensions over security law, land policy, accountability and the territorial claim to all Korea shaped the political environment. Rhee's authority was substantial yet contested, and his coalition included people with incompatible long-term preferences. Later political crises belong to subsequent Chapters; this unit concerns the original coalition and the challenges created by state formation. It is possible to recognize the republic's enduring constitutional significance while analyzing early violations of political rights and the unequal exercise of state power. Such complexity is more faithful than a single verdict about one leader."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "IX.2.9",
+  "title": "Soviet and American Military Withdrawal and the Problem of Competing Sovereignty",
+  "kicker": "TWO KOREAN STATES · THE NORTH AND THE ROAD TO WAR",
+  "description": "Original source-conscious account of soviet and american military withdrawal and the problem of competing sovereignty, comparing institutional, social and foreign archival perspectives.",
+  "release": "AB",
+  "sourceStatus": "Original critical synthesis with selective contextual citations; independent specialist historical review pending.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "1946 Northern Korea Land Reform Decree",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_157_0010",
+      "role": "Contemporary published legal text and specific provisions for redistribution and local committees"
+    },
+    {
+      "institution": "Wilson Center",
+      "title": "Korean Uprisings in 1946 and Soviet occupation records",
+      "url": "https://www.wilsoncenter.org/blog-post/korean-uprisings-1946-was-us-occupation-responsible-korean-war",
+      "role": "Archival interpretation of Soviet official reports, local committees and limits of retrospective regime narratives"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS: Korea and Soviet–American Troop Withdrawal, 1948",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v06/d894",
+      "role": "Original Soviet communication as transmitted by U.S. diplomats; distinct from independent confirmation of implementation"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS 1949: Korea National Security Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1949v07p2/d209",
+      "role": "U.S. perspective on Korean governments, military withdrawal and defense concerns"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.2.9:b01",
+      "title": "Withdrawal without peace",
+      "paragraphs": [
+        "The removal of occupying troops was widely presented as an essential step toward Korean independence, but in 1948–1949 it occurred without a unified political settlement. The Soviet Union announced and undertook a withdrawal from the north at the end of 1948, while the United States completed the main withdrawal of its occupation forces from the south in June 1949. Those dates mattered symbolically, but they did not eliminate the strategic influence of either power. Diplomatic recognition, advisers, economic assistance and military supplies continued to shape the rival governments. The end of formal occupation must therefore be distinguished from both complete disengagement and the achievement of independent peninsula-wide sovereignty."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.9:b02",
+      "title": "The Soviet withdrawal announcement",
+      "paragraphs": [
+        "Soviet correspondence transmitted in American diplomatic records described a northern request for simultaneous withdrawal of foreign troops and announced a timetable ending in December 1948. It framed removal as a contribution to self-determination while pressing the United States to depart from the south. That communication is a valuable contemporary source for Soviet diplomatic position, not a neutral account of northern public opinion. The northern government used the issue to bolster its claim to independent authority. The strategic significance of withdrawal depended on whether advisers, military training and material support continued after visible occupation units left. A declaration and the complete removal of external influence are different historical events."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.9:b03",
+      "title": "Washington's calculation",
+      "paragraphs": [
+        "American policymakers debated the costs of maintaining troops in Korea and the danger of withdrawing before southern institutions became able to defend themselves. Contemporary National Security Council documents reveal priorities related to financial commitments, regional strategy and domestic Korean stability. These sources also contain assumptions about communist intentions and Korean political actors that require criticism. The government sought to limit direct military responsibility while maintaining political and economic support. Its approach reflected competing assessments rather than a single confident belief that invasion was impossible. Policy memoranda identify what officials thought and proposed; they should not be treated as proof that every prediction was correct."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.9:b04",
+      "title": "The delayed timetable",
+      "paragraphs": [
+        "American military reduction began in 1948, but decisions about the final contingent were repeatedly revised as Korean politics and United Nations deliberations changed. Contemporary records describe concern about internal security and the risk that rapid withdrawal would damage the republic's survival. Keeping a residual force was itself politically controversial, since the continued presence of foreign troops complicated claims of full independence. Official correspondence reveals the timing of specific plans but does not represent the views of all soldiers or civilians. The shift to a combined diplomatic and assistance relationship was part of redefining American involvement rather than severing it."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.9:b05",
+      "title": "June 1949 and residual assistance",
+      "paragraphs": [
+        "The completion of the principal American withdrawal by the end of June 1949 marked an important transition from occupation to diplomatic and military assistance. Korean armed forces now had to assume direct security responsibilities while continuing to rely on foreign training and material. The distinction between equipment supplied for domestic security and capability for major offensive operations had consequences for how American officials evaluated requests. South Korean leaders did not always agree with those assessments. A comparison of force numbers alone would obscure logistics, command arrangements, maintenance and political ambitions. The remaining advisory presence demonstrates why withdrawal is best understood as a change in the form of influence."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.9:b06",
+      "title": "The competing sovereignty problem",
+      "paragraphs": [
+        "Both Korean states claimed to represent the entire peninsula, even though neither exercised effective administration across the dividing line. Withdrawal of occupation forces did not resolve this contradiction; it made competition more dependent on Korean institutions and their external patrons. Each government sought international recognition and denounced the legitimacy of the other. A political claim to national unity did not automatically translate into a lawful or realistic means to obtain it. Diplomatic language and actual military choices must be separated, particularly because later wartime propaganda recast the founding years as inevitable confrontation. In 1949 there remained decisions to be made by individual leaders and governments."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.9:b07",
+      "title": "The United Nations after 1948",
+      "paragraphs": [
+        "The UN continued to address the Korean question through commissions and resolutions, but its personnel could not enforce a comprehensive settlement on both sides. International bodies could observe and report conditions where access was possible, while their conclusions were shaped by the restrictions on movement and cooperation. The language of recognition should be read exactly: diplomatic legitimacy is not identical to territorial control. Some Korean political groups welcomed UN involvement, whereas others saw its procedures as favoring one side. The existence of an international process did not negate the importance of internal Korean politics, and it did not remove the strategic interests of the Soviet Union and United States."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.9:b08",
+      "title": "Foreign advisers and domestic leadership",
+      "paragraphs": [
+        "Military advisers, economic missions and diplomatic representatives continued to influence Korean state capacities after troop withdrawals. Advice could be accepted, resisted or used selectively by Korean politicians pursuing their own agendas. Soviet ties to northern leaders and American relations with Rhee were asymmetrical, but neither Korean government should be stripped of its agency. External officials could misunderstand local political disputes or interpret events through Cold War stereotypes. Equally, Korean leaders might exaggerate external threats in requests for assistance. Historical evaluation requires comparing contemporaneous records and distinguishing expressed preferences from the policies actually adopted. Foreign influence was powerful but not a substitute for domestic political history."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.9:b09",
+      "title": "How withdrawal altered the border",
+      "paragraphs": [
+        "As direct occupation forces departed, border incidents and security fears acquired new significance. Korean military and police organizations carried responsibility for positions that had previously existed under foreign commands. The absence of large foreign ground formations did not guarantee that a crisis would remain local, since both governments sought support from outside powers. Residents near the dividing line could face changing checkpoints, requisitions and pressure to prove allegiance. Such everyday experiences are poorly documented in high-level diplomatic archives. The historian must connect foreign policy decisions to their practical consequences without inventing precise stories for every household affected by military mobilization."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.9:b10",
+      "title": "Withdrawal as an unresolved transition",
+      "paragraphs": [
+        "By 1950 the Soviet and American occupation phases had formally ended, but Korea remained divided and internationalized. The competing governments had built legal and military institutions, received external assistance and advanced irreconcilable sovereignty claims. Troop withdrawal changed the balance of responsibility without producing mutual recognition. It created strategic possibilities and anxieties, but it did not by itself cause the subsequent war. That conflict developed through choices about military preparation, border operations and foreign approval, examined next. The central conclusion is that independence from direct occupation and effective security were distinct political problems, and neither Korean state solved both before June 1950."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

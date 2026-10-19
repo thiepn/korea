@@ -1,0 +1,155 @@
+{
+  "id": "IV.1.6",
+  "title": "Incorporating Conquered Elites and Regional Aristocracies into Silla",
+  "kicker": "SILLA, FORMER KINGDOMS AND BORDERLANDS",
+  "description": "Original evidence-conscious history of incorporating conquered elites and regional aristocracies into silla, distinguishing royal claims, local material conditions and retrospective interpretation.",
+  "release": "AB",
+  "sourceStatus": "Original contextual source-critical synthesis; independent historical specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Silla–Tang War",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101220",
+      "role": "Contextual chronology of the 670–676 conflict and its territorial aftermath"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Unification of the Three Kingdoms",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026483",
+      "role": "Specialist interpretation of Silla expansion, integration and historical memory"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Former Goguryeo communities, resistance and the northern territorial aftermath"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.1.6:b01",
+      "title": "The problem of elite continuity",
+      "paragraphs": [
+        "Military victory supplied Silla with new territory, not with an instant corps of trusted administrators for every conquered district. Officials and landed families who had served Baekje or Goguryeo retained local knowledge that outsiders lacked. The court needed people able to assess fields, assemble provisions, maintain roads and mediate disputes. Yet rewarding a former adversary also provoked suspicion among existing aristocrats whose status depended on recognized rank. Incorporation was therefore a distributional problem: offices and privileges offered to newcomers altered the expectations of those already within the ruling order. Court histories mention prominent actors but offer much less evidence of local families who adapted quietly without receiving a place in dynastic narrative."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.6:b02",
+      "title": "The changing value of lineage",
+      "paragraphs": [
+        "Elite ancestry mattered in Silla's political culture, but social rank cannot be translated directly into a single inherited ladder applying to every conquered household. The bone-rank order structured access to some posts and marriages within the established court, while newcomers might be recognized through different forms of office, patronage or military service. Differences between an honorary title and an effective command are crucial. A former regional chief could be influential locally despite limited standing in the capital. Evidence about particular incorporation decisions is incomplete and often filtered through later institutional assumptions. Treating all aristocrats as a single homogeneous group would conceal the negotiation of relative status within an enlarged, unequal polity."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.6:b03",
+      "title": "A practical need for interpreters",
+      "paragraphs": [
+        "Communities connected by new royal commands did not necessarily use identical administrative habits or cultural vocabularies. Trusted intermediaries were valuable because they understood inherited obligations, kin networks and routes through unfamiliar districts. Such mediation could involve linguistic differences, although the surviving evidence is inadequate for a confident reconstruction of precisely who spoke which language in each locality. Court-centered texts may emphasize formal rank while overlooking the daily work of conveying orders. A local leader who helped provision a garrison or resolve a conflict could become indispensable without appearing in a list of great ministers. The new government's reliance upon people it had defeated is a central paradox of postwar state formation."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.6:b04",
+      "title": "Hostages and alliance maintenance",
+      "paragraphs": [
+        "One means of limiting the independence of powerful local households was to bind them through residence, marriage, service or the movement of relatives to politically important centers. Specific instances have to be evaluated individually; one must not impose a uniform hostage system on every province. A noble's presence at court might indicate honor, compulsion, opportunity or more than one of these at once. Maintaining ties to an old home region could still give that person leverage and create anxiety for royal advisers. Dynastic accounts often sort such actors into categories of loyalty and treason. Those moral labels are evidence for court expectations, not a reliable inventory of all the circumstances underlying a family's decisions."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.6:b05",
+      "title": "Marriage and political proximity",
+      "paragraphs": [
+        "Marriage alliances offered ways to connect regional elites with networks based around Gyeongju. They could transmit wealth, social protection and expectations of mutual service across old political boundaries. But families of different ranks had unequal opportunities, and an alliance useful to one lineage might disadvantage another. The social effects of elite marriage reached dependents and property holders, whose voices are seldom preserved. Later genealogies may claim continuity from prestigious ancient figures to establish modern or medieval status; they require independent chronological checking. Historical analysis should therefore identify the political function of kinship without treating every retrospective pedigree as an accurate record of seventh-century descent."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 1,
+          "locator": "AKS historical unification and territorial synthesis",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.6:b06",
+      "title": "Military expertise and reassignment",
+      "paragraphs": [
+        "Officers familiar with former Baekje or Goguryeo defenses could be useful to Silla in a new frontier situation. Military service might provide a path to integration that differed from civilian office. Yet the court also needed to prevent experienced commanders from consolidating power independently in remote districts. The terms of service, allocation of troops and expectation of attendance could all become instruments of negotiation. Surviving records emphasize celebrated commanders rather than routine supply personnel. They do not permit a complete organizational chart of an army assembled from multiple former polities. The important transformation was the gradual attachment of distinct military networks to a political center that had previously treated them as enemies."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.6:b07",
+      "title": "Land, dependents and the price of inclusion",
+      "paragraphs": [
+        "Recognizing an elite household's rights over estates or dependents could make political settlement easier while imposing costs on cultivators. A ruler might reward service with revenue privileges without immediately altering the routines through which local labor was organized. Consequently the incorporation of former elites was not necessarily emancipation for people who worked their land. Conversely, the removal of an old patron might expose households to new demands from officials unfamiliar with local conditions. Documentary evidence for exact postwar tenures is sparse, and later patterns should not be treated as universal earlier rules. Examining whose labor supported renewed aristocratic privilege helps prevent an exclusively upper-class narrative of inclusion."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.6:b08",
+      "title": "Religious patronage and recognition",
+      "paragraphs": [
+        "Buddhist establishments and regional shrines could connect powerful families to local communities while helping a new regime present its authority as legitimate. A donation or temple rebuilding might be publicly interpreted as pious continuity even where political arrangements had changed. Artistic resemblance among monuments can indicate movement of craftsmen, taste or patronage, but it cannot automatically identify the political loyalty of their sponsors. Elite families may have found religious institutions useful places to remember ancestors and display rank under Silla government. The geography and chronology of individual temple sites require careful testing. Their importance lies in the social networks made visible through material investment, not an assumption that all religious practice followed court policy."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.6:b09",
+      "title": "Competition inside the enlarged court",
+      "paragraphs": [
+        "Incorporation could produce new opportunities for talented former adversaries while also sharpening tensions among established aristocratic families. An expanding court had to allocate offices, revenues, honors and command positions among people with different credentials. Court succession and the distribution of military authority mattered because they could determine whether a newcomer remained protected. The sources rarely expose extended policy debates, and later moralizing explanations may exaggerate intentional harmony or conspiratorial hostility. A regional aristocrat might be accepted for practical reasons even while being excluded from the highest honors. Such unequal access is not a contradiction; it describes one way an expanding hierarchy could operate over heterogeneous territories."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.6:b10",
+      "title": "Integration without complete assimilation",
+      "paragraphs": [
+        "The appearance of former Baekje and Goguryeo elites within Silla's political networks demonstrates new possibilities of cooperation but cannot be used as evidence that social distinctions disappeared. Political inclusion was selective, changing and sometimes reversed. Kinship, specialized expertise, land, military service and religious patronage all influenced who benefited. The experience of non-elite people depended on whether familiar intermediaries protected them or transferred new burdens. Silla's later reforms developed further instruments for territorial management, treated in other Chapters. Here the emphasis is on the initial bargaining that converted conquerors and conquered leaders into participants in a common, although unequal, political system."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

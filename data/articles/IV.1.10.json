@@ -1,0 +1,155 @@
+{
+  "id": "IV.1.10",
+  "title": "From the Postwar Settlement to the Silla–Balhae Order",
+  "kicker": "SILLA, FORMER KINGDOMS AND BORDERLANDS",
+  "description": "Original evidence-conscious history of from the postwar settlement to the silla–balhae order, distinguishing royal claims, local material conditions and retrospective interpretation.",
+  "release": "AB",
+  "sourceStatus": "Original contextual source-critical synthesis; independent historical specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Silla–Tang War",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101220",
+      "role": "Contextual chronology of the 670–676 conflict and its territorial aftermath"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Unification of the Three Kingdoms",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026483",
+      "role": "Specialist interpretation of Silla expansion, integration and historical memory"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Former Goguryeo communities, resistance and the northern territorial aftermath"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.1.10:b01",
+      "title": "A changing regional system",
+      "paragraphs": [
+        "The decade after the final Silla–Tang clashes did not establish a static equilibrium. As military occupation receded in some districts, Silla sought to institutionalize control over its southern realm. Tang maintained northeastern interests, while displaced people and local power networks created new possibilities beyond Silla's territory. The foundation of Balhae in 698 became a major turning point, but it should not be treated as the automatic result of a single battle twenty years earlier. Historians must distinguish immediate postwar settlement from the later emergence of recognizable diplomatic partners. The transition was gradual, and communities were actively involved through movement, local service and changing allegiances."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.10:b02",
+      "title": "Political consolidation in the south",
+      "paragraphs": [
+        "Silla's court had to turn the opportunities of military expansion into routines of taxation, command, public ritual and appointments. Later royal reforms addressed many of these issues, but they occurred over time rather than as one immediate act of unification. Former Baekje and Goguryeo elites may have helped mediate local governance while remaining subject to unequal rank. Administrative categories recorded in later chronicles should be dated rather than retrojected indiscriminately. A larger kingdom could be more capable of mobilizing resources and more vulnerable to coordination failures simultaneously. This tension is fundamental to understanding the growth of central authority after 676."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.10:b03",
+      "title": "Tang's northeastern adjustment",
+      "paragraphs": [
+        "Tang's withdrawal from earlier peninsula positions did not signify disengagement from the wider region. The empire continued to maintain frontier offices, accept migrants and shape the diplomatic horizons of neighboring communities. Its priorities were influenced by other continental conflicts and by the cost of occupying distant, resistant districts. For Silla, accommodation with an influential empire could be practical even after military confrontation. The significance of Tang political language must be judged through the conventions of imperial diplomacy, not taken as literal evidence of total subordination. The new order preserved room for both competition and mutually useful communication across established cultural and commercial networks."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.10:b04",
+      "title": "Former Goguryeo networks",
+      "paragraphs": [
+        "People whose families had been associated with Goguryeo formed part of the human environment from which later northern institutions developed. They resided in scattered settlements and imperial service communities, with different degrees of attachment to old dynastic memory. Some retained military or political influence; others entered new livelihoods. The evidence is selective, with surviving commemorative texts privileging high-ranking migrants. It does not permit every person called Goguryeo to be traced into Balhae, Silla or Tang. The movement of people after conquest nevertheless altered the regional distribution of skills, alliances and status. Such processes create historical continuity without requiring the uninterrupted survival of a royal state."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.10:b05",
+      "title": "Mohe communities and the northeastern region",
+      "paragraphs": [
+        "The societies described in Chinese records as Mohe were central participants in the northern political landscape. These labels covered varied communities that cannot be reduced to a uniform population or a modern identity. Relations with former Goguryeo networks and Tang officials included trade, conflict, incorporation and negotiation. Their decisions shaped the opportunities for a new state, not merely the obstacles encountered by someone else's dynasty. Archaeological cultures and textual ethnic names must be compared with caution because neither provides a one-to-one census. A credible account of Balhae's emergence begins by acknowledging the agency and diversity of northeastern peoples."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 1,
+          "locator": "AKS historical unification and territorial synthesis",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.10:b06",
+      "title": "Balhae appears in the historical record",
+      "paragraphs": [
+        "The foundation conventionally dated to 698 brought a new ruling center into the region and later generated distinctive institutions and diplomatic relationships. The exact sequence of alliances and campaigns is recorded from varying external perspectives and warrants specialized treatment. What matters for this transitional chapter is that Silla's kingdom did not become the sole successor to Goguryeo's historical sphere. Balhae drew on more than one regional tradition and engaged with Tang in its own right. The political picture consequently became plural rather than a simple southern kingdom surrounded by empty wilderness. The detailed history of Balhae's rulers and capitals belongs to its dedicated Chapters."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.10:b07",
+      "title": "Diplomacy as a replacement for permanent war",
+      "paragraphs": [
+        "After prolonged conflict, formal contact between courts could provide prestige, exchange opportunities and a framework for reducing uncertainty. In East Asian diplomatic terminology, the receipt of imperial titles and performance of missions did not always settle the underlying question of effective autonomy. Each participant could interpret the ceremonial relationship differently. Silla's engagement with Tang is one example of how borrowing institutions and maintaining diplomacy did not require renouncing the memory of prior military resistance. Balhae's later diplomatic choices must be studied separately. The transitional period reveals a shift toward negotiating positions within a regional system even while frontier competition continued."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.10:b08",
+      "title": "Households across the new order",
+      "paragraphs": [
+        "Political maps distinguish royal courts, but families participated in wider networks of travel, marriage, trade and religious practice. A migrant's origin might influence status at an imperial office, while children raised elsewhere could form new local attachments. Traders could carry tools, ceramics and textiles across zones whose rulers used different diplomatic formulas. War damage and coerced relocation left lasting consequences, although surviving evidence rarely records household recovery in detail. The emerging Silla–Balhae order should therefore be narrated on a human scale as well as through royal successions. Mobility and settlement were not peripheral to the system; they were among the practices through which it took shape."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.10:b09",
+      "title": "Competing names for the era",
+      "paragraphs": [
+        "Historians have described the centuries after 668 with terms emphasizing Unified Silla, the North–South States or the coexistence of Silla and Balhae. Each designation identifies a real aspect but can obscure others. A purely Silla-centered name may marginalize northern communities; a dual-state formula may understate the many regions where Tang offices and local leaders continued to matter. The vocabulary of unification also risks projecting later ideas of national completeness backward. The purpose of a period label should be analytical clarity, not retrospective political vindication. An account can accept substantial Silla consolidation while maintaining a separate history of Balhae and the northeastern continental world."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.10:b10",
+      "title": "The boundary between aftermath and maturity",
+      "paragraphs": [
+        "Chapter IV.1 has traced the settlement following conquest through its consequences for regions, institutions, migrants, frontier communities and political language. Later Chapters analyze mature Silla administration, religious and cultural civilization, Balhae political formation, maritime trade and eventual fragmentation. Keeping these subjects separate prevents the postwar chapter from becoming a second account of the original wars or an abbreviated history of the next two centuries. The historical conclusion is a new regional order made possible by conquest but built through continuing negotiation and adaptation. Its states would grow and change in ways that the participants in 676 could not have predicted."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "IX.2.7",
+  "title": "Kim Il Sung, Coalition Politics, Party Consolidation, and the Early Northern Regime, 1948–1950",
+  "kicker": "TWO KOREAN STATES · THE NORTH AND THE ROAD TO WAR",
+  "description": "Original source-conscious account of kim il sung, coalition politics, party consolidation, and the early northern regime, 1948–1950, comparing institutional, social and foreign archival perspectives.",
+  "release": "AB",
+  "sourceStatus": "Original critical synthesis with selective contextual citations; independent specialist historical review pending.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "1946 Northern Korea Land Reform Decree",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_157_0010",
+      "role": "Contemporary published legal text and specific provisions for redistribution and local committees"
+    },
+    {
+      "institution": "Wilson Center",
+      "title": "Korean Uprisings in 1946 and Soviet occupation records",
+      "url": "https://www.wilsoncenter.org/blog-post/korean-uprisings-1946-was-us-occupation-responsible-korean-war",
+      "role": "Archival interpretation of Soviet official reports, local committees and limits of retrospective regime narratives"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS: Korea and Soviet–American Troop Withdrawal, 1948",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v06/d894",
+      "role": "Original Soviet communication as transmitted by U.S. diplomats; distinct from independent confirmation of implementation"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS 1949: Korea National Security Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1949v07p2/d209",
+      "role": "U.S. perspective on Korean governments, military withdrawal and defense concerns"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.2.7:b01",
+      "title": "Leadership emerging from several communist currents",
+      "paragraphs": [
+        "Kim Il Sung's rise in northern Korea cannot be explained as the inevitable triumph of one unified communist party. Korean leftist politics had developed through anti-colonial movements, exile, labor activism and armed resistance across several regions. The groups later described as Soviet-Korean, Yan'an, domestic and partisan had differing networks and histories. Such labels can clarify political origins but become misleading when every individual is assumed to have permanent membership in a rigid faction. Soviet authorities were decisive in elevating Kim, yet Korean political actors negotiated, cooperated and competed under those constraints. The early regime's coalition was contingent rather than the completed personal hierarchy known from later decades."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.7:b02",
+      "title": "Anti-Japanese experience and political capital",
+      "paragraphs": [
+        "Kim's guerrilla background in the northeastern anti-Japanese struggle became a significant source of legitimacy. His past offered an accessible narrative of armed resistance and nationalist commitment within a society recently freed from colonial control. At the same time, the reconstruction of particular operations from later biographies is difficult because the DPRK developed an elaborate official mythology around the leader. Chinese and Soviet records can provide independent points of comparison but have their own purposes and limits. The historian should distinguish documented armed experience, postwar political presentation and later claims of exceptional destiny. The political usefulness of an anti-colonial biography does not make every subsequent commemorative detail reliable."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.7:b03",
+      "title": "Soviet patronage and Korean agency",
+      "paragraphs": [
+        "Soviet officers supported and influenced the formation of northern institutions, including leadership selection, security and economic policy. Kim gained opportunities through this relationship, but patronage did not amount to unqualified control of all subsequent Korean decisions. Political leaders sought domestic credibility, recruited organizational allies and managed competing interests. Soviet reports sometimes reveal impatience with the administrative capacity of Korean cadres and concern about local conditions. Their statements are evidence of an occupying power's perceptions, not proof that all Koreans behaved as described. A nuanced account follows the interaction between foreign leverage and the strategic choices made by the northern leadership."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.7:b04",
+      "title": "Party formation and organizational reach",
+      "paragraphs": [
+        "The northern communist movement underwent organizational restructuring as it sought to coordinate local organizations and govern through a growing party apparatus. Recruitment offered activists positions in administration, factories and villages, but party membership did not necessarily produce uniform understanding or commitment. Training, ideological education and discipline could alter the relationship between local committees and central leadership. Written resolutions advertised political unity while concealing some practical disputes. Historians should distinguish party statutes from day-to-day enforcement and be cautious about reconstructing membership motives from official lists. Party building was a process of extending influence over institutions rather than simply declaring an ideological identity shared by every worker."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.7:b05",
+      "title": "Allied parties and the united front",
+      "paragraphs": [
+        "The northern regime included parties and organizations that represented noncommunist or differently organized constituencies, such as the Korean Democratic Party and Chondoist Chongu Party. Their inclusion mattered to the presentation of a broad national coalition, but the extent of independent action varied and narrowed. The presence of several names on a cabinet roster is not adequate evidence of sustained multiparty competition. Nor should their initial membership be dismissed as pure theater without examining the choices of participants. Some activists saw cooperation as a means to secure independence or reform, while others faced constraints on meaningful dissent. The changing balance is fundamental to understanding how the regime moved toward tighter central control."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.7:b06",
+      "title": "Cadres and provincial leadership",
+      "paragraphs": [
+        "Kim's political strength depended on making appointments beyond Pyongyang. Provincial party officials and committee leaders interpreted policy, supervised local recruitment and established political relationships in workplaces. Such people could possess their own networks, and a central leader's instructions were mediated through their skills and interests. Administrative authority was built through meetings, reports and disciplinary structures as well as through public rallies. Later DPRK historical writing centers almost every success upon Kim's personal guidance, obscuring the collective and conflictual work of organizing government. Reconstructing provincial politics from surviving archives can restore some complexity while recognizing that much private debate remains undocumented."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.7:b07",
+      "title": "Security, suspicion and repression",
+      "paragraphs": [
+        "The early northern regime faced security concerns related to division, political opposition and suspected cross-border activity. It responded by expanding coercive institutions that could investigate and punish perceived opponents. Evidence for actual clandestine networks should be separated from broad allegations, and records obtained under pressure warrant particular scrutiny. Arrest and purging could strengthen a ruling coalition in the short term while discouraging independent organization. Such repression cannot be justified merely because the regime claimed a revolutionary mandate. Nor does its existence imply that all northern residents rejected reform. A history of power must analyze both genuine support and the capacity to eliminate dissent."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.7:b08",
+      "title": "Agrarian legitimacy and social change",
+      "paragraphs": [
+        "The redistribution of land in 1946 changed the interests of large segments of the northern countryside and offered a substantial source of support for the new political leadership. Yet the experience of reform differed among former tenants, landlords, landless laborers and local committee members. Some beneficiaries gained tangible property security; others feared being targeted by classification and confiscation. These social relationships affected who would attend political meetings, serve in committees or provide information to officials. Detailed ownership rules and nationalization policies are examined in IX.2.8. Here the concern is how reform altered political legitimacy and strengthened the organizational reach of the emerging governing coalition."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.7:b09",
+      "title": "War plans and personal power",
+      "paragraphs": [
+        "In 1949–1950 Kim increasingly pursued the objective of peninsula-wide unification under northern leadership. Surviving Soviet and other archival material helps historians assess discussions about military options, international support and the timing of decisions. Such sources must be read carefully for what participants requested and what external leaders approved. Aggressive ambitions expressed in private meetings should not be confused with actual command capabilities at every moment. The detailed border incidents and interstate decision to launch war belong to the final article of the Chapter, while the invasion and fighting from June 1950 are assigned to the Korean War Chapter. Kim's leadership cannot be judged solely from later official claims that war simply erupted without northern agency."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.7:b10",
+      "title": "A regime still taking shape",
+      "paragraphs": [
+        "By mid-1950 the northern political order had developed a powerful executive leadership and increasingly disciplined organizations, but it was not yet identical with the institutions that would dominate later decades. The presence of several revolutionary and political networks indicates the coalition's earlier diversity, while repression and centralization marked its narrowing. Later purges should not be retrojected into 1948 as if their outcome had already occurred. Kim's rise depended on wartime biography, Soviet support, party organization and the social consequences of reform. Understanding these processes provides a more precise political history than either a leader-centered legend or the assumption that foreign officers alone directed every act of government."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "IV.1.7",
+  "title": "Frontier Communities and the New Borderlands",
+  "kicker": "SILLA, FORMER KINGDOMS AND BORDERLANDS",
+  "description": "Original evidence-conscious history of frontier communities and the new borderlands, distinguishing royal claims, local material conditions and retrospective interpretation.",
+  "release": "AB",
+  "sourceStatus": "Original contextual source-critical synthesis; independent historical specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Silla–Tang War",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101220",
+      "role": "Contextual chronology of the 670–676 conflict and its territorial aftermath"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Unification of the Three Kingdoms",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026483",
+      "role": "Specialist interpretation of Silla expansion, integration and historical memory"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Former Goguryeo communities, resistance and the northern territorial aftermath"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.1.7:b01",
+      "title": "A border is made through use",
+      "paragraphs": [
+        "The new borderlands after the Silla–Tang struggle were not surveyed national frontiers marked by a continuous line of posts. They consisted of defended approaches, communities with changing patrons and routes that joined peninsular districts to northeastern continental regions. A settlement might pay dues to one authority while keeping marriage and market ties across a disputed corridor. Written sources generally record frontier events when royal officials intervened, leaving ordinary crossing and seasonal movement poorly documented. Historical maps are necessary for orientation but should distinguish attested centers from inferred spheres of influence. The postwar border was produced through repeated interactions among local populations, garrisons and competing governments."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.7:b02",
+      "title": "The northwest after Pyongyang",
+      "paragraphs": [
+        "The removal of Tang's principal protectorate seat from Pyongyang did not guarantee that Silla could govern all lands farther north. Distances, local resistance and continuing continental institutions limited the court's reach. The Daedong and Yalu systems served different political and economic functions, and controlling one approach did not confer effective administration over every tributary valley. Communities living between major centers might encounter several armed groups in a generation. Claims found in later texts should not be transformed into fixed boundaries without site-specific evidence. Northwestern geography must be reconstructed through chronology and transport rather than by copying a later provincial outline backward."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.7:b03",
+      "title": "Northeastern communities",
+      "paragraphs": [
+        "In the northeast, communities later classified under labels such as Mohe participated in a complex network linking former Goguryeo zones, Tang frontier administration and the emergent political conditions of Balhae. Such ethnonyms were often applied by outside writers and could encompass heterogeneous groups. A person might interact with a Goguryeo military community, trade along eastern routes and still be described differently in Chinese records. Projecting modern nationality onto these labels would conceal the variable nature of affiliation. Settlement archaeology provides clues to regional material traditions but cannot furnish a complete linguistic or political census. The frontier was a meeting ground of communities rather than a simple division of populations into enduring national blocks."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.7:b04",
+      "title": "Fortresses as negotiated nodes",
+      "paragraphs": [
+        "A defended site could help maintain a road, warehouse or seasonal refuge while serving as an emblem of a ruler's claim. The effective radius of its command depended on cooperation from nearby farmers and leaders. In times of uncertainty a garrison could become an autonomous political actor, exchange allegiance or be abandoned when supply failed. Material features must be dated carefully, since many fortresses were rebuilt across centuries. A single surviving wall cannot demonstrate uninterrupted Silla or Tang administration over all surrounding land. Frontier governance took shape through people carrying orders, maintaining stores and deciding whether compliance was less dangerous than resistance."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.7:b05",
+      "title": "Markets without permanent peace",
+      "paragraphs": [
+        "Trade could continue across contested boundaries because households required salt, tools, textiles, animals and agricultural produce regardless of diplomatic hostility. Yet transport routes were vulnerable to requisition and seizure. The same passage might carry merchants in one season and armed contingents in another. Imported objects found at a settlement are evidence of circulation but not proof of a formal commercial treaty. Likewise, similarities in pottery may arise from exchange or imitation rather than population replacement. The postwar frontier had economic as well as military significance, and its social networks could survive alterations in which court claimed jurisdiction. These exchanges deserve analysis without attributing precise routes where evidence is insufficient."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 1,
+          "locator": "AKS historical unification and territorial synthesis",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.7:b06",
+      "title": "Maritime alternatives",
+      "paragraphs": [
+        "The western and eastern coasts provided paths around difficult mountain corridors. Coastal navigation depended on weather, knowledge of harbors and the availability of safe landing places. Naval conflict had shaped the final war with Tang, but the departure of war fleets did not extinguish smaller maritime contact. Fishermen, boat builders and traders possessed skills the courts needed but seldom described in official histories. The movement of people through maritime spaces complicates an exclusively inland map of postwar order. Ports could connect distant communities politically or economically while remaining outside the most secure areas of administration. Distinguishing contact from conquest is essential when interpreting imported objects and reported diplomatic voyages."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.7:b07",
+      "title": "Migrants and the changing status of place",
+      "paragraphs": [
+        "Population movement reshaped frontier communities unevenly. People expelled from a fortress, families seeking better prospects and elites relocated by imperial order did not occupy identical social categories. Newcomers might rely on established residents for land access, while receiving military protection or patronage from a different authority. Memories of earlier rule could become resources for negotiating status. Later accounts, however, often use broad labels such as refugee or former subject without documenting individual conditions. Material evidence of changing settlements can register new connections without identifying every migrant's birthplace. The borderland was a place of adaptation, not merely an empty space awaiting occupation."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.7:b08",
+      "title": "Tribute and diplomatic ambiguity",
+      "paragraphs": [
+        "A local leader's delivery of goods to Tang or Silla could be described in court language as submission, friendship or appropriate ritual. The meaning for the community involved may have been a practical attempt to secure trade, peace or recognition. Foreign-facing terminology reflected the hierarchy imagined by the court writing the record; it cannot directly measure autonomy on the ground. Communities might cultivate more than one relationship when neither distant ruler exercised steady supervision. The historian must avoid treating every tribute entry as a permanent territorial annexation. Such diplomatic ambiguity was an ordinary feature of early medieval northeastern borderlands, not a failure of people to understand a supposedly fixed national border."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.7:b09",
+      "title": "Environmental constraints",
+      "paragraphs": [
+        "Harsh winters, steep ridges, wetlands and river floods affected the seasonality of both agriculture and military movement. The effectiveness of a frontier post changed when routes became impassable or fodder was scarce. These environmental conditions influenced where people preferred to live, but they did not determine allegiance mechanically. Human decisions about fortification, boats and storage could expand available options. Paleoenvironmental reconstruction can establish broad patterns while rarely identifying the cause of one particular diplomatic incident. Geographic explanation is strongest when connected to concrete practices of travel, provisioning and settlement. Otherwise mountains and rivers become scenery instead of historical factors."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.7:b10",
+      "title": "An uncertain frontier with long consequences",
+      "paragraphs": [
+        "The new borderlands created after the wars remained sites of opportunity and risk. They enabled mobility, helped sustain military networks and contributed to the conditions in which Balhae would arise, without predetermining its foundation. Silla's southern realm developed institutions increasingly capable of coordinating production and administration, but no frontier policy made all northern routes permanently secure. Later Chapters follow the mature Silla–Balhae relationship and the development of maritime trade. This study has focused on the early period in which multiple communities and institutions tested the limits of authority. Its principal conclusion is that the postwar border was a changing social relationship rather than a fixed achievement of one military victory."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "IV.1.3",
+  "title": "Former Goguryeo Peoples after the Fall of the Kingdom",
+  "kicker": "SILLA AND ITS NEIGHBORS · POSTWAR TRANSFORMATION",
+  "description": "Original source-critical study of former goguryeo peoples after the fall of the kingdom, distinguishing court claims, regional material evidence, and ordinary experience.",
+  "release": "AB",
+  "sourceStatus": "Original historical synthesis with contextual citations; independent specialist peer review pending.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla–Tang War",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101220",
+      "role": "Chronology of war and post-676 settlement, requiring care with retrospectively transmitted campaign figures"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Unification of the Three Kingdoms",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026483",
+      "role": "Historical synthesis of coalition politics, postconquest authority and the territorial settlement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Andong Protectorate",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034607",
+      "role": "Specific discussion of Tang regional government, prospective administrative units, resistance and movement of headquarters"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.1.3:b01",
+      "title": "The fall of a kingdom and its people",
+      "paragraphs": [
+        "The defeat of Goguryeo in 668 ended the authority of its ruling court but left many communities scattered across northern Korea and northeastern Asia. Their subsequent histories were not simply an appendix to a vanished dynasty. Some remained in old agricultural and fortified settlements; others were displaced into Tang territories; still others appeared in resistance movements or moved southward. The labels Goguryeo people and refugees conceal differences of social standing, place of residence and political attachment. A court chronicler might classify a named officer as loyal or surrendered, while his dependents and neighbors were absent from the record. The postwar story must hold together several directions of movement without assuming one collective destination."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang war chronology and postwar territorial settlement",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.3:b02",
+      "title": "Survival of local centers",
+      "paragraphs": [
+        "Cities, fortresses and rural settlements in the former Goguryeo sphere had supplied military defense, ceremonial authority and daily livelihoods long before the royal capitulation. Conquest did not necessarily empty them. Some garrisons were replaced, while others may have accepted new patrons. Tang's attempts to define administrative units reveal an imperial ambition, but the implementation of those plans is a separate question from their enumeration in texts. Archaeological traces of habitation cannot by themselves identify every resident's allegiance. Political change unfolded through the practical problem of persuading or compelling people to deliver food, maintain roads and accept military supervisors. The persistence of local networks explains both possible cooperation and resistance."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.3:b03",
+      "title": "The northern valleys and coastal districts",
+      "paragraphs": [
+        "Former Goguryeo space included diverse ecological zones from the Yalu basin to eastern coastal routes and southwestern plains. The costs of moving troops and grain through these regions differed markedly. A military governor based in one location could not automatically impose the same demands on every remote settlement. Families in fertile valleys might remain attached to old landholding arrangements, while people in upland districts relied on mixed subsistence and regional exchange. Describing the area as a single block inherited by Tang or Silla risks obscuring such differences. The geography of postwar authority was a network of defendable and negotiable sites rather than a modern bounded national territory."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Andong Protectorate: institutional plans and historical geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.3:b04",
+      "title": "Resistance and competing legitimacy",
+      "paragraphs": [
+        "Goguryeo restoration movements emerged after conquest, involving figures known from later chronicles such as Geom Mojam and Anseung. The historical evidence illuminates elite efforts to recover political authority, but not the full range of motives among all supporters. Some participants might have sought a renewed royal court, others more local autonomy, protection against requisition or opportunities within a new alliance. Silla's engagement with restoration leaders was influenced by its own conflict with Tang. What could appear to a later historian as a unified patriotic struggle was a shifting relationship among rival courts, refugees and military communities. The specific campaigns are treated elsewhere; the social consequence was the persistence of alternative political claims."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.3:b05",
+      "title": "Service in the Tang world",
+      "paragraphs": [
+        "Not every Goguryeo elite resisted Tang. Some officials entered imperial service, carried expertise to new appointments or became involved in administering conquered territories. Their biographies appear disproportionately in written and funerary evidence because titled men were more likely to be commemorated. Such cases demonstrate adaptation without making all participation voluntary. Migration, command and patronage were intertwined, and the fate of a household could depend on a leading relative's prospects at court. Tang records framed these men within an imperial hierarchy; their own identities might be more complex. A memorial written in Chinese script does not cancel memories of the communities from which its subject originated."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 1,
+          "locator": "AKS Unification synthesis: contested consolidation and administration",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.3:b06",
+      "title": "Migration beyond the old frontier",
+      "paragraphs": [
+        "Resettlement eastward, southward and westward placed people from the former kingdom within multiple political settings. Some movements were coerced by Tang authorities seeking to weaken organized resistance, while others reflected flight from war or the pursuit of security. The records mention groups and prominent captives more readily than ordinary families, and it is unsafe to turn recorded administrative totals into exact counts of every displaced person. The consequences for language, marriage and property were likely uneven. Descendants could become integrated into different local societies without leaving a documentary declaration of changed identity. Movement did not require that all memories of Goguryeo disappeared."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.3:b07",
+      "title": "The Silla connection",
+      "paragraphs": [
+        "Silla could use the military knowledge and local ties of former Goguryeo people while seeking to keep its own court dominant. Alliances with restoration figures were not equivalent to unconditional incorporation into a common polity. The terms of patronage, residence and rank mattered, as did the risk of renewed confrontation with Tang. Anseung's history illustrates how a recognized northern claimant could be drawn into Silla's political world and eventually become difficult to accommodate. Later retrospective narratives often resolve such tension by emphasizing unity. In the years after conquest, however, loyalties and strategies remained negotiable, and the boundary between protector, ally and subject was not always fixed."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang war chronology and postwar territorial settlement",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.3:b08",
+      "title": "Material memory and cultural continuity",
+      "paragraphs": [
+        "Burial practices, dress ornaments, ceramics and settlement construction may disclose traditions associated with Goguryeo communities, but artifacts do not function as passports. Similar objects traveled through trade, imitation and migration. A region with Goguryeo-style material does not necessarily constitute an autonomous Goguryeo political district, just as the absence of an elite tomb does not establish a population's disappearance. Dating contexts and comparison with textual testimony are essential. Preserved stories of northern origins could be important to later elites who operated within Silla or Tang institutions. Cultural continuity should be investigated as a changing practice rather than assumed to mirror a lost border exactly."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.3:b09",
+      "title": "The emergence of a northern successor",
+      "paragraphs": [
+        "The rise of Balhae at the end of the seventh century involved populations and networks shaped by the dissolution of Goguryeo power, alongside Mohe and other northeastern communities. That relationship is historically important but should not reduce the later state to a simple revival of one dynasty. The political founding and institutions of Balhae belong to Chapters IV.5 and IV.6. Here the concern is the unsettled human geography that made a new northern center possible. Prior migrations, local military traditions and interaction with Tang played roles, but the exact balance of identities cannot be inferred from a later slogan. The end of one court opened a plural political landscape."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Andong Protectorate: institutional plans and historical geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.3:b10",
+      "title": "A history larger than dynastic succession",
+      "paragraphs": [
+        "The aftermath of Goguryeo's fall shows why conquest cannot be narrated only through the conqueror's new offices. The affected people encountered rival authorities, coercive migration, opportunities for service and changing possibilities of remembering their past. Some descendants participated in Silla's enlarged southern world; others entered Tang networks or the developing northern polity. The surviving records preserve fragments of those paths, weighted heavily toward named men and official purposes. Comparing inscriptions, chronicles and archaeological settlements can narrow uncertainty without eliminating it. The next article focuses specifically on Tang's protectorate designs, which must be distinguished from the experience of all populations notionally placed under imperial authority."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
