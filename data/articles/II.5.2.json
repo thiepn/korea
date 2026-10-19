@@ -30,6 +30,42 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "II.5.2:b04",
+      "title": "The importance of Huanren's valleys",
+      "paragraphs": [
+        "The place called Jolbon in foundation traditions is not simply interchangeable with a modern administrative town. Archaeological sites in the Huanren region reveal a landscape of defensible heights and connected valleys, but assigning every material trace to an individual king is unwarranted. A riverine center can sustain multiple communities that share routes without belonging to one unified political authority. Seasonal travel conditions may have shaped movement between lowland fields and upland refuges. The traditional story of a founder locating his court here preserves a political memory of place; its exact topographical correspondence with any particular wall or palace demands independent investigation. The distinction protects archaeology from being made an illustration of a chronicle."
+      ],
+      "sequence": 4,
+      "label": "Batch AA append-only historical deepening"
+    },
+    {
+      "id": "II.5.2:b05",
+      "title": "Routes through the middle Yalu",
+      "paragraphs": [
+        "The Yalu–Amnok basin was not an isolated mountain enclosure. Connections extended along tributaries, over ridges and toward the Liaodong-facing approaches. Rivers assisted exchange and movement, while steep terrain and seasonal ice could alter what was practical. A political community drawing on these routes would need agreements with people occupying different ecological zones, not merely possession of a prominent fort. Imported objects and changing vessel forms may point to contact, but they do not independently prove conquest or sustained tribute. A useful historical map distinguishes known archaeological concentrations from hypothetical areas of influence. The basin's geopolitical value changed as Han frontier institutions and local communities altered their own priorities."
+      ],
+      "sequence": 5,
+      "label": "Batch AA append-only historical deepening"
+    },
+    {
+      "id": "II.5.2:b06",
+      "title": "The political use of a landscape",
+      "paragraphs": [
+        "Royal traditions turned valleys, mountains and river crossings into scenes of ancestry and legitimacy. These landscapes could help rulers claim continuity even when institutions changed markedly. Commemoration should not be mistaken for literal eyewitness documentation of the earliest settlement. People using the same corridors may have differed in livelihood, speech and political attachment; later labels grouped them together for purposes of a royal story. Archaeological burial patterns offer evidence for variation but cannot reveal the opinions of every inhabitant. The geographic core of Goguryeo was therefore made through recurring interaction among communities and competing centers. It was neither a natural kingdom waiting to appear nor a state created fully formed by one migration."
+      ],
+      "sequence": 6,
+      "label": "Batch AA append-only historical deepening"
+    },
+    {
+      "id": "II.5.2:b07",
+      "title": "Continuity toward Gungnaeseong",
+      "paragraphs": [
+        "The later significance of the Ji'an–Gungnaeseong complex shows how a northern center could grow beyond the remembered Jolbon setting without erasing older ritual or geographic claims. Court relocation and expansion are not necessarily evidence that one population abandoned its homes en masse. Officials, soldiers, artisans and households might move in different numbers or not at all. Dating of fortifications, city walls and elite burial areas must be handled independently, and archaeological evidence from different centuries must not be compressed into a foundation moment. The political importance of a central corridor is durable precisely because its functions can change—from a defensible local base to a node in an expanding kingdom's network."
+      ],
+      "sequence": 7,
+      "label": "Batch AA append-only historical deepening"
     }
   ],
   "release": "C"
