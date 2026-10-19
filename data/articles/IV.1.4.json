@@ -1,0 +1,155 @@
+{
+  "id": "IV.1.4",
+  "title": "Tang Protectorates and the Reorganization of the Northern Frontier",
+  "kicker": "SILLA AND ITS NEIGHBORS · POSTWAR TRANSFORMATION",
+  "description": "Original source-critical study of tang protectorates and the reorganization of the northern frontier, distinguishing court claims, regional material evidence, and ordinary experience.",
+  "release": "AB",
+  "sourceStatus": "Original historical synthesis with contextual citations; independent specialist peer review pending.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla–Tang War",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101220",
+      "role": "Chronology of war and post-676 settlement, requiring care with retrospectively transmitted campaign figures"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Unification of the Three Kingdoms",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026483",
+      "role": "Historical synthesis of coalition politics, postconquest authority and the territorial settlement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Andong Protectorate",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034607",
+      "role": "Specific discussion of Tang regional government, prospective administrative units, resistance and movement of headquarters"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.1.4:b01",
+      "title": "An imperial solution to conquest",
+      "paragraphs": [
+        "After Goguryeo's defeat, Tang attempted to transform military success into administrative authority. The Andong Protectorate, initially associated with Pyongyang, was intended to supervise a wide northeastern domain. Tang sources describe commanderies and subordinate offices using the familiar vocabulary of imperial frontier administration. Those designs reveal the goals of the court more clearly than their uniform implementation. Some regional leaders were awarded titles; imperial personnel were expected to supervise military and political affairs. But a list of jurisdictions does not guarantee that officials occupied each named site or collected revenue at regular intervals. The gap between imperial plan and local capacity is central to the history of the protectorate."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang war chronology and postwar territorial settlement",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.4:b02",
+      "title": "Pyongyang and the limits of occupation",
+      "paragraphs": [
+        "Pyongyang's symbolic and strategic significance made it an attractive place from which to claim authority over the fallen kingdom. A garrison could use the former royal center and surrounding communication routes, yet supervision was vulnerable to supply difficulties and local opposition. The movement of officials, mounts, food and messages required corridors that could be contested. Sources preserve reports of administrative headquarters and military dispositions more clearly than the opinions of residents. Archaeological layers at a complex city also span several regimes, making quick identification of individual facilities hazardous. Tang's establishment at Pyongyang was politically consequential without providing proof of continuous effective rule across the whole former Goguryeo realm."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.4:b03",
+      "title": "Using local elites",
+      "paragraphs": [
+        "The imperial government sought to incorporate selected Goguryeo leaders by granting titles and responsibilities. This was a pragmatic method of drawing upon existing influence, not necessarily recognition of full local autonomy. Such appointments could coexist with Tang military supervision, tribute demands and movement of influential households. The advantages were obvious: language skills, knowledge of routes, and familiarity with local communities. The risks were equally apparent: an appointed officer might retain loyalties that the imperial court could not monitor from a distance. Modern readings differ on how systematically the scheme operated. The evidence is best approached as a plan partly realized amid resistance rather than a finished hierarchy reproducing an inland Chinese county system."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Andong Protectorate: institutional plans and historical geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.4:b04",
+      "title": "The scale of listed jurisdictions",
+      "paragraphs": [
+        "Retrospective accounts describe numerous prefectures and counties allocated to the former kingdom. Repeating those numbers without qualification can make a bureaucratic project appear as a complete census of governed settlements. Frontier institutions in the Tang world varied widely in their effective reach, and some named jurisdictions existed principally as ways to classify communities or claim territory. Evaluating actual administration requires finding dated inscriptions, offices, movement of troops and evidence for economic extraction. Where such testimony is missing, historians should say the scale of implementation is uncertain. The distinction is especially important because later political histories often have reasons to dramatize either imperial control or the speed of its failure."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.4:b05",
+      "title": "Resistance as a geographic challenge",
+      "paragraphs": [
+        "Goguryeo restoration groups and Silla interventions threatened Tang's ability to maintain a stable protectorate in the peninsula. Resistance did not occur uniformly or under one central command; its effects depended on local fortresses, allied forces and regional supply. A garrison's vulnerability could be determined by geography as much as by formal political claims. Tang could win engagements while finding occupation increasingly costly. Reports of suppression should not be equated with long-term pacification of every locality. Equally, the movement of a headquarters does not mean all imperial interests were abandoned. The contest illustrates how military force and durable government were different achievements."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 1,
+          "locator": "AKS Unification synthesis: contested consolidation and administration",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.4:b06",
+      "title": "The move toward Liaodong",
+      "paragraphs": [
+        "By the 670s the protectorate's main seat shifted away from Pyongyang toward northeastern continental centers, with histories distinguishing relocations such as Sinseong and later Liaodong. Chronological details and names must be checked against the original sources and their commentaries. This movement indicates a recalibration of military and administrative ambitions under pressure, not an instantaneous evacuation of every individual associated with Tang. Imperial frontier power could retreat, regroup and continue to influence neighboring communities through different installations. A history of territorial change should mark these institutional shifts without drawing an imaginary single border behind each move. The northern approaches remained active despite Silla's consolidation farther south."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.4:b07",
+      "title": "Tibet and Tang's strategic priorities",
+      "paragraphs": [
+        "The Tang court faced simultaneous pressures in other directions, including the Tibetan frontier. Competing demands for commanders, horse supplies and military funds shaped decisions about holding distant positions. This wider setting matters because a strictly peninsula-centered history might attribute all Tang withdrawals to local battlefield outcomes. Silla victories were significant, but imperial reallocation of resources helped define what those victories could secure. There is no need to reduce policy to one decisive cause. The relationship between local setbacks and continental strategy changed over time, and surviving court records naturally emphasize problems that preoccupied their own central government. International context should complicate rather than replace regional history."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang war chronology and postwar territorial settlement",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.4:b08",
+      "title": "A frontier office after retreat",
+      "paragraphs": [
+        "Tang's northeastern institutions continued to matter to Silla, Balhae and other communities after the major peninsula conflict. Diplomatic titles, settlement of migrants and military postings could influence the politics of Liaodong without direct administration of southern Korean districts. Modern historical labels like protectorate risk implying territorial uniformity; in practice they named changing sets of obligations and claims. The imperial government might recognize a leader, accept tribute or provide sanctuary for exiles without controlling every road between its garrisons. Later Balhae relations with Tang reflect a different political stage and have separate chapter ownership. Here the significance is the persistence of an imperial framework beyond the loss of its earlier peninsula foothold."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.4:b09",
+      "title": "Residents under competing claims",
+      "paragraphs": [
+        "For people near strategic centers, competing administrations could mean multiple demands for supplies, service or allegiance. A household might evade one authority while bargaining with another; some persons were moved involuntarily, and others entered new institutions for advantage or security. Few local records document their decisions. Tang official histories tend to classify populations in terms of pacification, submission and rebellion, while Silla narratives highlight successful expulsion. Neither perspective suffices to reconstruct the full social experience. Material change can help identify shifting occupation or exchange but rarely supplies clear evidence of political consent. Describing residents as passive objects of imperial policy would omit their constrained choices."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Andong Protectorate: institutional plans and historical geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.4:b10",
+      "title": "The planned province and the lived borderland",
+      "paragraphs": [
+        "The Andong Protectorate is most informative when read simultaneously as an administrative ambition and a case study in the limits of frontier governance. Offices could be created on paper, staffed partly by local leaders and later relocated as military conditions shifted. Silla established an expanding southern realm, but Tang remained a relevant power across the northeastern borderlands. Neither political outcome required that every district change hands at a single moment. This article owns the protectorate design and institutional reorientation; migration, individual former Goguryeo experiences and later Balhae state history are examined separately. The governing lesson of the postwar decade is that claims became authority only where human and material networks sustained them."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
