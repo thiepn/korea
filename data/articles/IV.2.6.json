@@ -1,0 +1,161 @@
+{
+  "id": "IV.2.6",
+  "title": "Counties, Prefectures, Villages, and Local Administration",
+  "kicker": "UNIFIED SILLA · REGIONS AND GOVERNMENT INFORMATION",
+  "description": "Original critical analysis of counties, prefectures, villages, and local administration, integrating court narrative, provincial scholarship and the fragmentary village register.",
+  "release": "AC",
+  "sourceStatus": "Contextual institutional source anchors and scholarly interpretations; no independent specialist peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Unified Silla institutions and provincial centers",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Nine provinces, five secondary capitals, offices and government chronology"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Local administration after the Three Kingdoms' unification",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002472164",
+      "role": "Peer-reviewed interpretation of continuities and change in provincial organization and class hierarchy"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Military and geographic links of the nine provinces, five capitals and ten garrisons",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003117234",
+      "role": "Geographical analysis of the regional centers and provincial cavalry forces"
+    },
+    {
+      "institution": "Okayama University scholarly repository",
+      "title": "Proposed locations of villages recorded in the Silla Village Register",
+      "url": "https://ousar.lib.okayama-u.ac.jp/ja/70053",
+      "role": "Recent source-based study; village locations and register interpretations remain disputed"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.2.6:b01",
+      "title": "Government below the province",
+      "paragraphs": [
+        "The nine provinces are visible on historical maps, but the practical work of government took place through smaller units. Counties and prefectures connected regional administrators to settlements whose fields, households and roads provided the resources on which the court relied. Names such as gun and hyeon describe levels of territorial organization, yet their relation to specific communities shifted as earlier local polities were reorganized. It would be misleading to assume that every district possessed a complete permanent bureaucracy identical to a modern county office. The surviving evidence is richer for formal hierarchies than for local routine. Reconstructing administration means asking how an order moved from the provincial seat to people required to act."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "NIKH nine provinces and five secondary capitals"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.6:b02",
+      "title": "The persistence of local society",
+      "paragraphs": [
+        "A newly appointed district officer entered landscapes where families, local notables and ritual institutions already shaped behavior. Political incorporation could alter titles without replacing every relationship that governed land and labor. Local leaders might gain recognition for assisting the court, but their influence could also become a source of conflict if demands increased. Historians should distinguish the disappearance of a former state name from the transformation of everyday society. A village's continued occupation through the seventh and eighth centuries can indicate resilience without proving enthusiastic support for the monarchy. Administrative effectiveness rested partly on local cooperation that royal laws could not manufacture instantly."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.6:b03",
+      "title": "County officials and regional chains",
+      "paragraphs": [
+        "A county official might be expected to convey orders, supervise obligations and report disputes, but the surviving texts rarely allow a complete reconstruction of a typical workday. His authority depended on superiors, trained aides and knowledge of the villages under his supervision. District roles often combined military and civil responsibilities in ways that resist modern categories. Research into early Silla arrangements emphasizes continuity in the organization of counties rather than a sudden new system created only after conquest. The ability to recruit and move personnel was a major part of reform. Yet a central office chart could conceal very different capacities among districts with different populations and road connections."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "KCI military and transport geography of provincial centers"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.6:b04",
+      "title": "Villages as administrative subjects",
+      "paragraphs": [
+        "A village was a place of household relationships and productive activity before it became an entry in a government register. Authorities sought information about people, fields, animals and trees partly because these resources could support taxation and labor service. Classifications used by officials reduced complex livelihoods to categories needed for state decisions. The surviving village register demonstrates a capacity for detailed enumeration, but its four villages should not be treated as the statistical average of the kingdom. We do not know that every district was surveyed on the same date or with exactly the same accuracy. Rural life was richer than the categories through which officials attempted to describe it."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.6:b05",
+      "title": "Rank outside the capital",
+      "paragraphs": [
+        "Regional elites might hold local standing while remaining excluded from the highest hereditary positions available in Gyeongju. Scholars of Silla local administration emphasize that reforms could extend some capital-style ranks or posts without incorporating every provincial notable into the court's privileged bone-rank order. A man recognized as important in a county might still face severe barriers to national office. Conversely, an appointed capital elite could depend on local intermediaries to carry out directives. This tension produced a layered hierarchy rather than a simple division between central officials and powerless subjects. The administrative reach of the court often depended on unequal forms of local partnership."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "NIKH nine provinces and five secondary capitals"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.6:b06",
+      "title": "Roads, reports and enforcement",
+      "paragraphs": [
+        "Communication required roads, messengers and places where officials could assemble provisions. Orders could be delayed by weather or conflict, and reporting systems depended on the literacy and reliability of clerks. A decree from Gyeongju might demand an accounting of households, but its accuracy rested upon many people far from the palace. Local power could distort reports, while villagers might negotiate or evade burdens. Historians cannot infer a flawless communications network merely from the existence of written administration. Road geography and regional garrison locations can illuminate how government sought to make compliance possible. Everyday governance was practical coordination, not just formal legal classification."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.6:b07",
+      "title": "Justice, conflict and uncertain records",
+      "paragraphs": [
+        "The existence of local officials raises questions about how disputes over property, personal injury and obligations were addressed. Surviving sources do not furnish a complete archive of village hearings or rules applied uniformly to every status group. Later law codes cannot be retrojected into Silla's local practices without evidence. Powerful families may have influenced decisions, while some disputes were likely settled through local customary mechanisms. It is appropriate to identify these questions but not invent case histories. The silence of the records is especially significant for women, dependents and poor households whose petitions were unlikely to enter dynastic chronicles. Authority on paper and accessible justice were not equivalent."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "KCI military and transport geography of provincial centers"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.6:b08",
+      "title": "Markets and administrative nodes",
+      "paragraphs": [
+        "County seats could also become centers of exchange because officials, garrisons and travelers required food, tools and services. A market in such a location does not prove that all commerce was state-organized. Local craft specialists and rural producers could conduct transactions through networks extending beyond one district. Duties imposed by officials might shape prices or movement, but surviving fiscal evidence is insufficient for a comprehensive tariff schedule. Archaeological concentrations of ceramics and imported goods may suggest economic activity, though individual objects must be dated. The state used existing routes and could stimulate new connections without becoming the sole actor in regional economic life."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.6:b09",
+      "title": "Changes over generations",
+      "paragraphs": [
+        "Provincial and local institutions developed across the Unified Silla period. An office name found in a later source cannot necessarily be projected unchanged into the reign of Sinmun. Administrative boundaries might be renamed, subdivided or reoriented as settlement and military priorities changed. The 757 reforms under King Gyeongdeok, for example, are part of a later naming and institutional context, not the founding moment of every district. Historical maps need date labels and warnings about reconstructed boundaries. The better approach follows gradual adjustment within inherited structures rather than describing one instantaneous act of complete bureaucratic rationalization."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "NIKH nine provinces and five secondary capitals"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.6:b10",
+      "title": "Village life and the reach of the court",
+      "paragraphs": [
+        "Silla's local government was a chain of relationships linking villages to county and provincial authorities and ultimately to the royal center. Its success depended on information, practical transport and alliances with local leaders. The system could coordinate considerable resources while perpetuating inequality and imposing burdens on households. This article has examined the administrative units through which daily interactions occurred. The next studies the village register and the construction of governmental knowledge, asking what officials could count and what their records left out. Understanding that distinction prevents state organization from appearing more complete and impersonal than the evidence permits."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
