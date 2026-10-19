@@ -1,0 +1,161 @@
+{
+  "id": "I.5.8",
+  "title": "Transport, Distribution, and Regional Economic Networks",
+  "kicker": "IRON AGE · ECONOMIC NETWORKS AND REGIONAL DIFFERENCE",
+  "description": "Regional archaeology of transport, distribution, and regional economic networks, distinguishing excavated evidence, economic possibility and historical inference.",
+  "release": "AC",
+  "sourceStatus": "Original interpretive synthesis supported by contextual museum evidence; specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Daegu National Museum",
+      "title": "Ancient Korean kingdoms: materials, exchange and emergence of states",
+      "url": "https://daegu.museum.go.kr/eng/sub02_01_01_03.do",
+      "role": "Regional material culture and early iron distribution"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Daho-ri tomb and objects",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list",
+      "role": "An excavated set of local and imported material and elite display"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Cultural History of Iron",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202010000.do?exhiSpThemId=174666&listType=&menuId=current&schM=view",
+      "role": "Technical and socioeconomic context of iron use"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya and the Nakdong iron exchange",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Later developing exchange corridors; avoid projecting mature Gaya into prehistoric settlements"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.5.8:b01",
+      "title": "Objects move along chains of people",
+      "paragraphs": [
+        "Economic networks do not consist only of a producer and a final consumer. Iron, pottery, timber and food could pass through carriers, local leaders, storage places and artisans who modified goods along the way. An excavated sword tells us little about the number of intermediate exchanges before it reached a household. Objects deposited in graves also conceal the routes followed during their useful lives. A regional analysis must combine the geographical distribution of artifacts with the locations of rivers, mountain passes and settlements. Even then the result is a set of plausible routes rather than a surviving itinerary. Transport is a history of decisions, costs and social relations."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "Daegu early iron material and regional exchanges"
+        }
+      ]
+    },
+    {
+      "id": "I.5.8:b02",
+      "title": "Rivers and portage",
+      "paragraphs": [
+        "Rivers could carry heavy commodities for part of a journey, but rapid sections, seasonal levels and changes in channel depth limited access. Carriers sometimes had to move goods over land between navigable stretches. Portage depended on paths, animals where available and people willing to supply labor. The location of storage or craft sites near tributary junctions may suggest their participation in distribution, though direct evidence is required to establish a specific role. A river basin should not be treated as one integrated economic unit simply because water connects it on a modern map. Different communities could regulate crossings and operate with separate political loyalties."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "I.5.8:b03",
+      "title": "Mountain passes and the cost of distance",
+      "paragraphs": [
+        "The peninsula's ridges made overland movement uneven. A short straight-line distance could conceal long journeys around steep ground or flood-prone valleys. Carrying iron ingots required different planning from moving small ornaments, and food provisions increased the burden of travel. Terrain affected the value of local intermediaries who knew paths and safe rest points. A powerful settlement might profit from a pass without controlling all communities on either side. Archaeological concentrations near routes can suggest traffic but may also reflect favorable locations for farming. Geographic explanation is strongest when the proposed transport chain is checked against dated sites and suitable material evidence."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "NMK early iron use in economy and power"
+        }
+      ]
+    },
+    {
+      "id": "I.5.8:b04",
+      "title": "The role of coastal transfer",
+      "paragraphs": [
+        "Boat transport connected several river systems and bypassed some expensive overland crossings. Goods could be gathered at a port, carried along the coast and redistributed inland at another estuary. Loading and unloading involved labor and risk, and a small cargo might be lost to storms or conflict. The absence of shipping accounts leaves the frequency of voyages uncertain. A grave containing foreign metal does not establish that its owner belonged to an overseas mercantile community. Coastal networks could sustain repeated economic contact even when political institutions remained local. Their importance lay in combining otherwise separate productive landscapes rather than rendering those landscapes economically identical."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "I.5.8:b05",
+      "title": "Distribution through gifts and obligations",
+      "paragraphs": [
+        "Exchange need not involve an impersonal sale at a fixed price. A leader could distribute iron tools to supporters, families might exchange labor and produce, and travelers might secure lodging through gifts. Such transactions could strengthen relationships while also making recipients dependent. The archaeological record rarely identifies the exact terms of a transfer. This uncertainty argues against assuming one system of markets or tribute dominated all regions. A cluster of similar implements may reflect household trade, redistribution after a feast or access to one workshop. Social institutions and material distribution were intertwined, so neither a market-only nor chief-only model can be imposed without supporting evidence."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "Daegu early iron material and regional exchanges"
+        }
+      ]
+    },
+    {
+      "id": "I.5.8:b06",
+      "title": "Standards and the movement of information",
+      "paragraphs": [
+        "The repetition of tool shapes may indicate shared technological conventions across distant settlements. Craftspeople could learn dimensions and techniques through itinerant makers, apprentices or sample objects. Yet similarity of form is not always evidence of repeated direct contact, because different users may independently favor effective designs. Metallurgical analysis can help distinguish technological traditions even where tools look alike. Standardization may make repair or replacement easier, thereby increasing the usefulness of a distribution network. But early communities left no comprehensive catalogues specifying official sizes. The production of recognizable forms should be analyzed as a technological and social development rather than an automatic sign of centralized economic regulation."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "I.5.8:b07",
+      "title": "Storage as a network function",
+      "paragraphs": [
+        "Moving metal or food required places where goods could be accumulated, protected and prepared for the next stage. Storage pits, raised structures and containers offer material clues, although most cannot be linked securely to a particular merchant or leader. A settlement with abundant storage may have organized harvest collection rather than long-distance trade. Context and associated finds matter. Where ironwork and agricultural produce were exchanged, both sides needed arrangements for delivery and trust. Political alliances or kin networks could reduce the risk of loss. Storage made network participation more reliable while also creating opportunities for those controlling warehouses to influence access and allocation."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "NMK early iron use in economy and power"
+        }
+      ]
+    },
+    {
+      "id": "I.5.8:b08",
+      "title": "The problem of reconstructed maps",
+      "paragraphs": [
+        "Dots representing excavated objects can appear to form a clear trade corridor, but site discovery is affected by modern excavation, development and preservation. A region with few finds may have been little investigated rather than historically isolated. Different burial traditions also change how much metal was deposited. Mapping must therefore distinguish observed finds from interpolated paths. A proposed route is stronger when supported by several material types, appropriate chronology and geographical feasibility. Digital maps often tempt viewers to mistake visual precision for evidentiary certainty. A useful atlas should record what was excavated, how it was dated and which connections remain interpretive possibilities."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "I.5.8:b09",
+      "title": "Who benefited from circulation",
+      "paragraphs": [
+        "Transport provided opportunities for producers, carriers, harbor communities and powerful intermediaries, but benefits were not equal. A village supplying charcoal might receive iron equipment while losing woodland, and a farmer obliged to carry ingots might gain little from their later sale. Some households could negotiate favorable exchanges through kin relationships. Others may have faced demands backed by armed force. There are no surviving household ledgers that settle these questions for the entire Early Iron Age. The economic importance of mobility lies partly in the new kinds of dependence and cooperation that linked regions. Networks made distance traversable without making economic power evenly distributed."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "Daegu early iron material and regional exchanges"
+        }
+      ]
+    },
+    {
+      "id": "I.5.8:b10",
+      "title": "Networks before national economies",
+      "paragraphs": [
+        "The emerging iron economy comprised multiple overlapping systems rather than a peninsula-wide unified market. Rivers, coasts, paths, political alliances and craft knowledge connected districts at different tempos. Exchange could flourish in one corridor while another remained oriented toward local production. These differences shaped later opportunities for ambitious chiefs and regional polities. This article has focused on distribution as a practical achievement made by carriers and communities. The next examines wealth and political power; that shift should not convert every route into evidence of centralized taxation. Mobility was consequential precisely because it could be organized by many kinds of social relationship."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

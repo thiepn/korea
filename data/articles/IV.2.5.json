@@ -1,0 +1,161 @@
+{
+  "id": "IV.2.5",
+  "title": "The Nine Provinces and Five Secondary Capitals",
+  "kicker": "UNIFIED SILLA · REGIONS AND GOVERNMENT INFORMATION",
+  "description": "Original critical analysis of the nine provinces and five secondary capitals, integrating court narrative, provincial scholarship and the fragmentary village register.",
+  "release": "AC",
+  "sourceStatus": "Contextual institutional source anchors and scholarly interpretations; no independent specialist peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Unified Silla institutions and provincial centers",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Nine provinces, five secondary capitals, offices and government chronology"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Local administration after the Three Kingdoms' unification",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002472164",
+      "role": "Peer-reviewed interpretation of continuities and change in provincial organization and class hierarchy"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Military and geographic links of the nine provinces, five capitals and ten garrisons",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003117234",
+      "role": "Geographical analysis of the regional centers and provincial cavalry forces"
+    },
+    {
+      "institution": "Okayama University scholarly repository",
+      "title": "Proposed locations of villages recorded in the Silla Village Register",
+      "url": "https://ousar.lib.okayama-u.ac.jp/ja/70053",
+      "role": "Recent source-based study; village locations and register interpretations remain disputed"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.2.5:b01",
+      "title": "A larger realm needed more centers",
+      "paragraphs": [
+        "The reorganization into nine provinces and five secondary capitals was a response to a fundamental geographical problem. Gyeongju lay in the southeast while the kingdom's governing responsibilities had expanded over former Baekje and part of the former Goguryeo sphere. A king could issue orders from the capital, but sustained supervision required officials based nearer to settlements and strategic transport corridors. Provincial seats and secondary capitals helped connect royal authority with these districts. They were not merely miniature replicas of the palace city. Their institutions emerged through reforms with earlier roots and distinct regional purposes. The chronology of implementation matters: the system was not instantaneously created at the final battle of 676."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "NIKH nine provinces and five secondary capitals"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.5:b02",
+      "title": "The nine provinces as an administrative framework",
+      "paragraphs": [
+        "The traditional nine-province arrangement divided an enlarged Silla realm among provinces including Yangju, Gangju, Sangju, Ungju, Jeonju, Muju, Hanju, Sakju and Myeongju, using names that changed in particular periods. A list of provinces gives a conceptual scheme, not an exact map of uniform official reach. Regional capitals served administrative and military functions, and governors coordinated subordinate districts. Historians debate the evolution of the offices, which retained significant continuities from sixth-century institutions. A province's label should not be projected backward into an unchanged territorial boundary. The history of the system lies in changing practices of supervision across different landscapes."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.5:b03",
+      "title": "Five secondary capitals and their geography",
+      "paragraphs": [
+        "The five secondary capitals—Geumgwan-gyeong, Jungwon-gyeong, Bugwon-gyeong, Seowon-gyeong and Namwon-gyeong—served as regional nodes positioned away from Gyeongju. Their locations near important inland or southern routes could help shorten communication and concentrate officials. Several emerged through developments preceding the full later arrangement, while the Sinmun-period reforms expanded and reorganized their role. A secondary capital could host elite residents and display royal culture without possessing identical authority to the principal capital. Urban form, appointments and the movement of families varied by site. The term capital in translation must not be interpreted as evidence that the king ordinarily resided in all five."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "KCI military and transport geography of provincial centers"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.5:b04",
+      "title": "A deliberate integration of former kingdoms",
+      "paragraphs": [
+        "New regional centers could incorporate officials and descendants of Baekje, Goguryeo and Gaya elites alongside those with established Silla status. Such placement served both political supervision and the circulation of court practices. Migration might be rewarded, negotiated or compelled according to circumstance. The surviving sources do not permit a complete census of displaced families or a uniform measure of their satisfaction. Scholarship notes that elites from the old capital could live in regional centers while local people remained excluded from the highest bone-rank system. Consequently administrative integration need not imply equality of political opportunity. The system managed diversity through institutions that also reproduced hierarchy."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.5:b05",
+      "title": "Military geography of provincial centers",
+      "paragraphs": [
+        "Research on the nine provinces, five secondary capitals and regional garrisons emphasizes their connections with transport routes and strategic terrain. An administrative seat could coordinate messages and resources in peacetime, while a nearby military force responded to border threats or internal disorder. These functions did not always reside in the same buildings, nor were their exact relationships constant. Maps should distinguish sites with strong archaeological identification from office locations inferred mainly from texts. A road between garrisons was useful only if people maintained bridges and provisions. The provincial system should be evaluated as a distributed network of personnel and infrastructure, not simply a neat table of jurisdictions."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "NIKH nine provinces and five secondary capitals"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.5:b06",
+      "title": "Urban planning and the language of order",
+      "paragraphs": [
+        "Provincial centers and secondary capitals sometimes displayed layouts resembling planned wards, indicating efforts to express royal authority through urban space. Yet urban plans were adapted to topography and need not have been identical at every location. Archaeological lines of roads and buildings can support hypotheses about planning but may belong to several construction phases. Assigning every visible grid to one royal reform would produce false precision. The relationship between regional centers and surrounding villages also mattered; a ceremonial street was of limited administrative value unless officials could draw supplies and communicate with local communities. Physical planning expressed ambition within environmental and political constraints."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.5:b07",
+      "title": "Governors and local intermediaries",
+      "paragraphs": [
+        "Provincial administrators could supervise counties and oversee defense, but their ability to know local conditions depended on district officers and village leaders. The court might appoint a governor with military prestige while expecting routine reports about food or service obligations. A list of offices alone cannot show whether a particular governor exercised effective control over remote valleys. Provincial power therefore combined formal appointment with negotiation and sometimes coercion. The experience of ordinary residents was mediated through persons nearer at hand. A household might identify its obligations with a district official even though the distant legal authorization came from Gyeongju."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "KCI military and transport geography of provincial centers"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.5:b08",
+      "title": "The shifting frontier of Hanju and Sakju",
+      "paragraphs": [
+        "Northern provinces made Silla's relationship to former Goguryeo lands and developing northeastern states especially complex. Their place names and later boundaries do not establish full control of all areas shown on modern reconstructions. A governor could oversee a secure corridor while nearby uplands remained contested. The chronology of changing frontier posts must be compared against Silla–Balhae relations and Tang interests, which receive dedicated treatment elsewhere. Provincial division was an assertion of institutional reach, not proof of permanent sovereignty at every point. Maintaining these distinctions prevents the administrative map from concealing political plurality beyond the royal heartland."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.5:b09",
+      "title": "Secondary capitals as instruments of culture",
+      "paragraphs": [
+        "Regional centers were sites where officials, religious institutions, craft specialists and elite households could disseminate practices associated with the Silla court. Architectural and artistic similarities may reflect those contacts, but they do not automatically establish identical identities or political loyalties among all residents. Local communities could adopt selected forms while retaining their own ritual and economic customs. A secondary capital's role was therefore social as well as bureaucratic. Its cultural influence depended on continued movement of people and material. The geography of elite presence mattered because the state needed recognized intermediaries, not simply formal place names, to make its claims believable."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "NIKH nine provinces and five secondary capitals"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.5:b10",
+      "title": "A network, not an administrative miracle",
+      "paragraphs": [
+        "The nine provinces and five secondary capitals provided a framework for integrating diverse lands under Silla authority. They also revealed the difficulties of governing from a southeastern royal center across mountainous territory. The arrangement developed through accumulated reforms, partly continuing older structures. Actual supervision varied by district, and the highest political opportunities remained unequally distributed. This article has concentrated on large territorial units and regional nodes; the following examines counties, prefectures and villages where most people encountered administration directly. The most important lesson is that governing reach was created through situated institutions that required people, roads and resources to operate."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

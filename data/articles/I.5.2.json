@@ -1,0 +1,161 @@
+{
+  "id": "I.5.2",
+  "title": "Iron Production Centers and Regional Economic Specialization",
+  "kicker": "EARLY IRON AGE · REGIONAL ECONOMIES",
+  "description": "Source-critical examination of iron production centers and regional economic specialization, with distinctions among archaeological observation, museum interpretation and economic inference.",
+  "release": "AC",
+  "sourceStatus": "Original historical synthesis with contextual museum references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Daho-ri Tomb No. 1: trade goods, metal tools and early elites",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list",
+      "role": "Excavated assemblage and curatorial interpretation of iron, exchange and status in the southern peninsula"
+    },
+    {
+      "institution": "Daegu National Museum",
+      "title": "Ancient Korean kingdoms: early iron and regional manufacture",
+      "url": "https://daegu.museum.go.kr/eng/sub02_01_01_03.do",
+      "role": "Museum synthesis of early iron diffusion, regional material change and southern economic centers"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Metal, Iron and Steel: the Cultural History of Iron",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202010000.do?exhiSpThemId=174666&listType=&menuId=current&schM=view",
+      "role": "Curatorial history of productive technologies and social uses, not a firsthand metallurgical census"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Korean-type Bronze Dagger: Emblem of a Ruler",
+      "url": "https://www.museum.go.kr/ENG/contents/E0401000000.do?relicRecommendId=519718&schM=view",
+      "role": "Late bronze and early iron coexistence, authority objects and regional distinctions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.5.2:b01",
+      "title": "Production is not the same as possession",
+      "paragraphs": [
+        "A blade found in a grave demonstrates that somebody obtained a blade; it does not reveal the workshop in which the iron was smelted. The distinction is essential to tracing productive specialization in the Korean Early Iron Age. Archaeologists look for slag, furnace walls, tuyères, smithing debris, ore residues, and patterns of unfinished objects before proposing local manufacture. Even these remains require careful dating and metallurgical analysis. A community might import bars and forge its own tools without smelting ore, or exchange finished implements made in a distant center. Treating every iron-rich cemetery as an industrial complex would confuse consumption, social display and production in a period when those activities could occur at different locations."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK Daho-ri wood-coffin burial assemblage"
+        }
+      ]
+    },
+    {
+      "id": "I.5.2:b02",
+      "title": "The Nakdong river corridor",
+      "paragraphs": [
+        "The middle and lower Nakdong basin became important in the circulation and eventual production of iron associated with Byeonhan and the developing Gaya region. River connections joined inland resource districts to coastal routes near Gimhae, but the political structure of the basin changed over centuries. Later records describing iron supplied to neighboring communities illuminate the region's reputation; they cannot provide an inventory of mines operated during every earlier century. Workshop location depended on access to ore, charcoal fuel, experienced labor and provisions. Neither an ore deposit nor a navigable river created a trading state by itself. It was the coordination of these resources that could turn metal into a durable regional advantage."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "I.5.2:b03",
+      "title": "Recognizing a smelting operation",
+      "paragraphs": [
+        "Smelting produced characteristic waste as well as usable metal. Slag composition, furnace design and associated pottery can help identify technological routines, while microscopic examination of surviving iron distinguishes some forging and heat-treatment practices. The chronology of debris is crucial: waste recovered in the same field as an early settlement may actually derive from a later occupation. Excavators also face uneven survival because iron corrodes readily and abandoned furnaces may have been dismantled. Evidence for large quantities of iron in tombs should prompt, rather than replace, investigation of industrial remains. Quantifying output from a small excavated sample is particularly hazardous when the full area of production has not been explored."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK iron-production curatorial exhibition"
+        }
+      ]
+    },
+    {
+      "id": "I.5.2:b04",
+      "title": "Fuel and the hidden labor chain",
+      "paragraphs": [
+        "Turning ore into workable iron required a substantial supply of charcoal, and charcoal production relied on woodland management and labor. Miners, charcoal burners, carriers, furnace operators and smiths therefore formed a productive chain longer than the figure of a single specialist working beside an anvil. Villages that fed these workers could be as important to industrial capacity as an ore-bearing hill. Archaeological charcoal allows botanical and radiocarbon analysis in favorable contexts, but a single fuel sample cannot identify the property arrangements or obligations that supplied it. Specialists may have worked seasonally alongside agriculture. Production networks should not be imagined as factories employing a permanently separate industrial class."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "I.5.2:b05",
+      "title": "Daho-ri and the evidence of demand",
+      "paragraphs": [
+        "The rich late first-century BCE assemblage at Daho-ri in Changwon includes iron implements, imported mirrors, coins, lacquerware and other objects associated with high-status connections. Its importance lies partly in demonstrating that exchange and metal use were connected to social differentiation. A burial cache, however, selectively records what mourners chose to place with a particular person. It does not show how many households owned iron hoes or identify the mine that supplied each spearhead. The presence of diverse objects is consistent with far-reaching contacts and elite access to goods. It is not a complete picture of an industrial district or a direct measure of the volume traded each year."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK Daho-ri wood-coffin burial assemblage"
+        }
+      ]
+    },
+    {
+      "id": "I.5.2:b06",
+      "title": "Different specializations within one region",
+      "paragraphs": [
+        "A coastal settlement might organize shipping, an inland community procure charcoal, and a riverside workshop turn imported iron into standardized forms. These roles could overlap and change with demand. Archaeological distributions of tools, production debris and storage installations can test some aspects of specialization, while the evidence for contractual relationships is largely missing. A sharp contrast between producer and consumer regions therefore risks becoming too rigid. Communities acquired skills through apprenticeship, marriage movement and the arrival of craftspeople, not solely through formal orders from chiefs. The importance of specialization is that some households depended increasingly on connections extending beyond their immediate fields and kin networks."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "I.5.2:b07",
+      "title": "Recycling and repair obscure origins",
+      "paragraphs": [
+        "Iron objects could be reforged, repaired or melted into new shapes, making the path between original smelting and archaeological deposition complicated. A broken tool recovered from a workshop may represent years of use after its first exchange. Reused metal also complicates chemical provenance studies, especially when iron from different sources was combined. Technological knowledge included maintenance and adaptation, so the ability to keep tools working may have mattered as much as the prestige of producing new ones. A community with few surviving furnaces could still possess skilled smiths. Assessing regional production requires a broader view of the metal's life cycle than a catalogue of spectacular finished weapons."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK iron-production curatorial exhibition"
+        }
+      ]
+    },
+    {
+      "id": "I.5.2:b08",
+      "title": "Control, patronage and bargaining",
+      "paragraphs": [
+        "Regional leaders could strengthen their position by protecting access to furnaces, regulating transport or distributing scarce weapons. Such arrangements are plausible but not directly documented in the detail of a later medieval tax register. A concentration of metal goods in rich burials suggests unequal access, though funerary wealth need not perfectly match daily control over production. Traders and smiths may also have negotiated considerable autonomy when their expertise was scarce. Archaeologists should distinguish evidence of elite demand from proof that a ruler personally owned all workshops. Political power could grow around iron without arising from a single monopoly. The institutional arrangements likely differed among communities and over time."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "I.5.2:b09",
+      "title": "Long-distance distribution and local pricing",
+      "paragraphs": [
+        "An iron ingot or standardized implement could circulate across rivers and coastal inlets, acquiring different value where metal was rare or labor costs differed. The archaeological record usually lacks explicit prices, and it would be misleading to assign modern market equations to every exchange. Goods could be gifted, supplied through tribute, bartered or allocated through kin obligations. The same transaction might carry economic and political meanings. Imported coins in graves show awareness of wider monetary systems but do not prove that all local trade was conducted in cash. Reconstructing distribution requires treating transport, social relationships and material evidence together, with the terms of exchange kept appropriately uncertain."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK Daho-ri wood-coffin burial assemblage"
+        }
+      ]
+    },
+    {
+      "id": "I.5.2:b10",
+      "title": "Specialization without a predetermined kingdom",
+      "paragraphs": [
+        "Intensified iron production provided resources that later political leaders could use for warfare, agriculture and diplomacy, but technology did not compel every productive district to form a state. Regions differed in environmental resources, exchange partners, social hierarchy and the ability of rulers to coordinate labor. The eventual prominence of Gaya must not be projected backward onto all Byeonhan communities as though one unified industrial policy had existed from the first appearance of iron. This article owns production systems and their regional conditions; subsequent studies examine agriculture, craft organization and exchange corridors separately. The essential historical problem is how dispersed tasks became connected, not a triumphal sequence from furnace to kingdom."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

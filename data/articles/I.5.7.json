@@ -1,0 +1,161 @@
+{
+  "id": "I.5.7",
+  "title": "Material Exchange with the Japanese Archipelago",
+  "kicker": "IRON AGE · CONTINENTAL AND MARITIME CONTACT",
+  "description": "Original archaeological and historical synthesis of material exchange with the japanese archipelago, with distinctions among object movement, imitation, status and state authority.",
+  "release": "AC",
+  "sourceStatus": "Contextual institutional provenance, not peer-reviewed or fully source-audited.",
+  "sources": [
+    {
+      "institution": "Daegu National Museum",
+      "title": "Ancient Korean Kingdoms and Early Iron Age",
+      "url": "https://daegu.museum.go.kr/eng/sub02_01_01_03.do",
+      "role": "Period and regional contacts, early iron diffusion and commerce"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Daho-ri Tomb No.1: trade and burial goods",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list",
+      "role": "Specific mixed imported and local burial assemblage of late first century BCE"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy and iron exchange",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Later developments from Byeonhan, Nakdong iron resources, maritime ties; must not retroject Gaya state onto early period"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Korean-type Bronze Dagger: Emblem of a Ruler",
+      "url": "https://www.museum.go.kr/ENG/contents/E0401000000.do?relicRecommendId=519718&schM=view",
+      "role": "Northeastern exchange comparisons and late bronze early iron coexistence"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.5.7:b01",
+      "title": "The strait as a lived route",
+      "paragraphs": [
+        "The Korea Strait connected southern peninsular communities with northern Kyushu through island stepping stones and navigable channels. Maritime movement required attention to currents, wind, seasonal visibility and food supplies. Journeys could be routine for experienced crews and dangerous for newcomers. The archaeological appearance of iron objects, ceramics and ornaments on both sides provides evidence of contact, but not a complete list of vessels or passengers. Later national narratives often read early exchange backward from conflicts among historic kingdoms and Japanese polities. The earlier setting was more fluid, with multiple local communities adapting goods and practices through repeated encounters rather than operating as two unified nations."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "Daegu ancient states and early iron networks"
+        }
+      ]
+    },
+    {
+      "id": "I.5.7:b02",
+      "title": "Iron as a commodity and resource",
+      "paragraphs": [
+        "Iron circulating from southern Korea toward the archipelago is a major theme in museum interpretations of Byeonhan and later Gaya networks. The metal might move as finished implements, bars or other forms suitable for local smiths. Archaeological identification of a likely peninsular source depends on technological comparison and sometimes chemical analysis; typological resemblance alone may reflect imitation. Demand could be shaped by farming, craft production and the status of armed elites. This exchange should not be represented as a single monopoly managed by one proto-state. Coastal communities and workshops could have overlapping interests in production, carriage and redistribution as regional political centers emerged."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "I.5.7:b03",
+      "title": "Objects and their transformations",
+      "paragraphs": [
+        "A peninsular-style object deposited in a Kyushu context may have been manufactured abroad, locally copied or carried by a person who moved residence. Each interpretation implies a different social process. Contextual dating and studies of materials can narrow possibilities, but some ambiguity remains. Objects often acquired new meanings after arriving. A blade might serve an ordinary tool function, become a family possession or be placed in a grave as a sign of prestige. A historian should not assume that the meaning assigned at the place of manufacture remained unchanged among users overseas. Exchange generated innovation through appropriation and reinterpretation, not only replication of an original form."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "NMK Gaya overview of later iron maritime system"
+        }
+      ]
+    },
+    {
+      "id": "I.5.7:b04",
+      "title": "Island intermediaries",
+      "paragraphs": [
+        "Tsushima and Iki offered important intermediate environments where maritime travelers might find food, shelter and further contacts. Their inhabitants were participants in exchange rather than passive stops on a route. Some could broker relationships between producers and customers, although the documentary record for specific early intermediaries is slight. The geography makes staged crossings plausible; it does not demonstrate that all journeys followed the same itinerary. A direct crossing under favorable conditions may also have been possible. Archaeological distributions and harbor topography should be used to model likely routes, with uncertainty preserved about the number of boats and the frequency of visits."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "I.5.7:b05",
+      "title": "Burials as evidence of contact",
+      "paragraphs": [
+        "Graves containing imported or imitated goods can illuminate who displayed access to distant connections. But burial customs differ between regions, affecting which artifacts were deposited and preserved. A richly furnished tomb may reflect competition among local elites rather than the everyday balance of all trade. Comparisons need attention to chronological alignment: objects made generations apart cannot be assumed to have circulated together. The Daho-ri assemblage on the peninsula demonstrates an elite world in which imported items joined locally used implements. It is one node of a larger network, not a universal model for every southern settlement or Japanese community."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "Daegu ancient states and early iron networks"
+        }
+      ]
+    },
+    {
+      "id": "I.5.7:b06",
+      "title": "Skills move through people",
+      "paragraphs": [
+        "The spread of metalworking practices between the peninsula and archipelago depended on people able to teach, demonstrate or modify techniques. Craftspeople might migrate, visit patrons or participate in kin-linked networks. Similar forging methods could provide indications of shared technological knowledge, but the identity and motives of individual migrants are usually inaccessible. A change in pottery or metallurgy does not independently prove conquest or an officially directed colonial enterprise. Local learners could reproduce and improve a technique using available resources. A history attentive to the movement of skills gives agency to artisans and communities that formal royal chronicles rarely record."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "I.5.7:b07",
+      "title": "The problem of later textual categories",
+      "paragraphs": [
+        "Much written information about the peoples of the archipelago was compiled after the earliest phases of iron exchange and within states pursuing their own political legitimacy. Chinese dynastic accounts and later Japanese chronicles use names and hierarchies that cannot be mapped uncritically onto every archaeological culture. A reference to Wa or to a later Yamato court should not automatically define the ethnic and political identities of all earlier coastal traders. The distinction is especially important because modern debates sometimes transform vague ancient descriptions into territorial claims. Archaeology and philology should inform one another without either being forced to validate a modern national narrative."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "NMK Gaya overview of later iron maritime system"
+        }
+      ]
+    },
+    {
+      "id": "I.5.7:b08",
+      "title": "Food exchange and daily encounters",
+      "paragraphs": [
+        "A visiting crew needed food and water, and interactions along the coast likely involved commodities less visible archaeologically than iron or prestige gifts. Fish products, grains, timber and repair materials may have been involved, but their exact quantities are unrecorded. Such practical exchange could foster recurring relations across the strait. It might also generate conflict over access and obligations. Neither friendship nor hostility can be inferred uniformly from the presence of traded objects. The material record can establish contact while leaving the emotional and political meaning of individual encounters open. Everyday maritime labor deserves attention even when it has not produced an identifiable monumental inscription."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "I.5.7:b09",
+      "title": "Changing centrality of coastal settlements",
+      "paragraphs": [
+        "A harbor that mediated valuable iron traffic might attract craft specialists and powerful households, but its importance could shift as rival ports developed. Geography made certain routes convenient, yet political protection, production changes and trust also influenced participation. Coastal elites could use foreign goods to strengthen local standing, though burials provide only indirect evidence for their economic authority. Later development of Gaya and Japanese regional polities altered the balance of power. The existence of those later states must not be presumed for earlier periods. The archaeological question is how networks changed across stages of increasingly differentiated communities rather than which modern country controlled the strait."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "Daegu ancient states and early iron networks"
+        }
+      ]
+    },
+    {
+      "id": "I.5.7:b10",
+      "title": "An exchange system, not a civilizational ladder",
+      "paragraphs": [
+        "Relations with the Japanese archipelago formed part of a multidirectional northeast Asian system. Southern Korean communities were not merely channels carrying Chinese technology eastward, and archipelago communities were not passive recipients. Materials, skills and cultural forms were selected and adapted at several points. The evidence supports recurring connection and the importance of iron without authorizing a single totalizing direction of influence. This chapter's next article examines distribution networks inside the peninsula, where overland transport and regional intermediaries also shaped availability. The strait was a social route whose historical significance lies in interaction among many local actors."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

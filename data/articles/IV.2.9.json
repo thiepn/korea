@@ -1,0 +1,161 @@
+{
+  "id": "IV.2.9",
+  "title": "Military Administration and Provincial Defense",
+  "kicker": "UNIFIED SILLA · REVENUE, DEFENSE AND CAPITAL",
+  "description": "Evidence-conscious historical account of military administration and provincial defense, separating surviving documents and sites from institutional inference.",
+  "release": "AC",
+  "sourceStatus": "Original contextual synthesis, independent specialist review not performed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Unified Silla institutions and economic administration",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Government structure, land-related rights, religious patronage and regional institutions"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Nine provinces, five secondary capitals and ten military commands: military geography",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003117234",
+      "role": "Scholarly discussion of military garrisons and strategic center distribution"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gyeongju Historic Areas",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "role": "Wolseong, Hwangnyongsa, Namsan, tumuli and fortification belts as archaeologically preserved capital environment"
+    },
+    {
+      "institution": "Okayama University",
+      "title": "The Silla Village Register and its disputed village locations",
+      "url": "https://ousar.lib.okayama-u.ac.jp/ja/70053",
+      "role": "Specific surviving register and methodological constraints of extrapolating economic and population categories"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.2.9:b01",
+      "title": "Defense after expansion",
+      "paragraphs": [
+        "Silla's expanded realm required military organization for regional defense, protection of routes and enforcement of royal authority. Forces used during the wars against Baekje, Goguryeo and Tang were not simply retained unchanged as a permanent national army. Command structures, garrison positions and obligations developed over time. Later descriptions of units need chronological care because titles could persist while their practical functions shifted. The military system also depended on food, iron equipment, horses, transport and local labor. Treating the establishment of a legion as evidence of complete readiness would ignore the practical difficulties of keeping people supplied in distant districts. Defense was an institution embedded in society."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "NIKH Unified Silla institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.9:b02",
+      "title": "Ten garrisons and provincial geography",
+      "paragraphs": [
+        "Scholarly studies connect the ten jeong military units with the provincial system and regional strategic nodes. Their distribution suggests efforts to respond to threats and to maintain authority along important corridors. Yet the relationship between a named unit, its place of stationing and the area from which personnel were recruited may be more complex than a modern regiment's official address. Military maps based solely on later lists can exaggerate precision. A garrison required forage, training areas and access to roads, not merely a fortress wall. Its location served both defense and the broader political aim of making provincial rule effective."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.9:b03",
+      "title": "Local recruitment and service",
+      "paragraphs": [
+        "Men could be drawn into armed service through arrangements mediated by local officials and elite networks. Exact recruitment rules, periods of service and exemptions remain incompletely known and should not be reconstructed from much later military codes. Families who supplied personnel bore costs beyond equipment, including lost labor during farming seasons. Some military specialists may have served regularly while others were mobilized for particular tasks. Distinguishing these possibilities matters to estimates of state capacity. A royal order to assemble an army depended on villages, officers and routes capable of delivering the requested manpower. Numbers reported in later chronicles require evaluation as political and literary claims as well as potential historical evidence."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "UNESCO preserved Gyeongju palace and fortification landscapes"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.9:b04",
+      "title": "Fortresses as working infrastructure",
+      "paragraphs": [
+        "Defended sites offered refuges and command positions, but their usefulness depended on water, storage, maintenance and reliable communication. Stone or earth walls can survive for centuries while the garrison's personnel and political affiliation change. Archaeologists must date construction and repair phases before connecting a wall to a particular military reform. Fortifications might protect roads, agricultural centers or approaches to Gyeongju, and their roles changed as frontier lines shifted. A fortress without supplies could become a liability in a siege. The physical network of defense was therefore sustained through the labor of surrounding communities as well as through the decisions of commanders."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.9:b05",
+      "title": "Horse supply and mobile forces",
+      "paragraphs": [
+        "Mounted personnel could be useful for reconnaissance and rapid movement between strategic centers, but keeping horses required fodder, breeding arrangements and trained handlers. Scholarship on provincial geography describes links between garrisons and cavalry formations. That does not justify assigning identical troop composition to every named unit. The balance of mounted and infantry forces varied with geography and purpose. Archaeological horse gear can demonstrate access to particular equipment but does not directly measure the size of active mounted forces. Even experienced riders needed secure paths and provisioning. Military mobility was a complex economic achievement, not simply the possession of animals and weapons."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "NIKH Unified Silla institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.9:b06",
+      "title": "Weapons and maintenance",
+      "paragraphs": [
+        "Iron arms, armor and other equipment required skilled workshops and recurring repair. A store of arrowheads could be depleted rapidly; damaged blades needed replacement or refitting. Production depended on charcoal, iron supply and the organization of artisans, which connected defense to regional economic specialization. Finds of weapons at military sites are important evidence but may include items accumulated over multiple occupations. A technological comparison across sites does not establish that all soldiers carried the same equipment. Government military capability depended on distribution and upkeep as much as on the prestige of possessing superior designs. The costs were ultimately borne through fiscal and labor relations."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.9:b07",
+      "title": "The northern frontier as a changing problem",
+      "paragraphs": [
+        "The northern provinces faced complex relationships with Balhae, Tang-associated communities and local populations whose affiliations changed over time. A garrison's placement could reflect concerns about movement or strategic approaches rather than a permanent modern international border. The detailed diplomacy and conflict of Silla and Balhae belong to neighboring Chapters. Here the issue is how the royal government organized military administration under uncertain geopolitical conditions. Border defense could draw resources away from other regions, and provincial commanders might develop influence through their control of personnel. Strong military institutions could support royal authority while also making particular officeholders powerful."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "UNESCO preserved Gyeongju palace and fortification landscapes"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.9:b08",
+      "title": "Military authority inside the kingdom",
+      "paragraphs": [
+        "Garrisons were not useful only against external enemies. Regional forces could support officials, deter local uprisings and influence elite power struggles. Scholarship identifies military and administrative functions in the positioning of provincial centers. The court had reason to monitor commanders who controlled trained personnel away from Gyeongju. Political allegiance could become especially uncertain during succession crises. This tension should not be treated as an uninterrupted history of mutiny; individual events require their own evidence. Nonetheless the dual role of a military force—defense and internal political leverage—was an enduring challenge for a kingdom governed through regional elites."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.9:b09",
+      "title": "Civilians and the military landscape",
+      "paragraphs": [
+        "For residents near a garrison, the army could offer protection and demand grain, labor, housing or equipment. These experiences were not identical across households or periods. Military roads might stimulate trade while exposing communities to requisition. The sources seldom preserve individual accounts of ordinary service personnel or the families feeding them. Archaeological remains of barracks and storage can reveal organization but not a complete social history of consent. Recognizing civilians is important because military administration was not separate from daily production. A commander who maintained security by exhausting a district's harvest could damage the capacity on which that security relied."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "NIKH Unified Silla institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.9:b10",
+      "title": "Regional defense and central control",
+      "paragraphs": [
+        "Unified Silla's military organization provided instruments for defending an enlarged realm and for supervising its provinces. The ten garrisons, strategic centers and local service arrangements should be studied as parts of an evolving system rather than a static diagram. Their power depended on recruitment, supplies, transport and the political relationship between commanders and the monarchy. This article has focused on administration and logistics, leaving individual battle narratives to their appropriate Chapters. The final study turns to Gyeongju, the center from which royal and aristocratic leaders sought to coordinate this complex state. Military reach and capital power were inseparable but not identical."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

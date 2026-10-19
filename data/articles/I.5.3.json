@@ -1,0 +1,161 @@
+{
+  "id": "I.5.3",
+  "title": "Iron Tools and the Transformation of Agriculture",
+  "kicker": "EARLY IRON AGE · REGIONAL ECONOMIES",
+  "description": "Source-critical examination of iron tools and the transformation of agriculture, with distinctions among archaeological observation, museum interpretation and economic inference.",
+  "release": "AC",
+  "sourceStatus": "Original historical synthesis with contextual museum references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Daho-ri Tomb No. 1: trade goods, metal tools and early elites",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list",
+      "role": "Excavated assemblage and curatorial interpretation of iron, exchange and status in the southern peninsula"
+    },
+    {
+      "institution": "Daegu National Museum",
+      "title": "Ancient Korean kingdoms: early iron and regional manufacture",
+      "url": "https://daegu.museum.go.kr/eng/sub02_01_01_03.do",
+      "role": "Museum synthesis of early iron diffusion, regional material change and southern economic centers"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Metal, Iron and Steel: the Cultural History of Iron",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202010000.do?exhiSpThemId=174666&listType=&menuId=current&schM=view",
+      "role": "Curatorial history of productive technologies and social uses, not a firsthand metallurgical census"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Korean-type Bronze Dagger: Emblem of a Ruler",
+      "url": "https://www.museum.go.kr/ENG/contents/E0401000000.do?relicRecommendId=519718&schM=view",
+      "role": "Late bronze and early iron coexistence, authority objects and regional distinctions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.5.3:b01",
+      "title": "Tools within an existing farming world",
+      "paragraphs": [
+        "Iron became useful to cultivators in a landscape where farming, storage and land management already had long histories. Stone and wooden implements had not prevented Bronze Age and Mumun communities from cultivating substantial fields. The adoption of an iron edge could change the work needed for some tasks, but it did not introduce agriculture for the first time. The historical question is which operations benefited, who obtained the tools and whether repair was dependable. Axes, sickles, hoes and blades served different purposes and should not be grouped into one anonymous category of better equipment. A tool's contribution depended on soils, crop choices, rainfall and the skill of the person using it."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK Daho-ri wood-coffin burial assemblage"
+        }
+      ]
+    },
+    {
+      "id": "I.5.3:b02",
+      "title": "Digging and soil preparation",
+      "paragraphs": [
+        "Iron hoes or blades could assist with disturbing compact ground, clearing roots and preparing plots, particularly where earlier tools wore out quickly. Yet a metal edge alone says little about how the handle was fitted or how a farmer used body weight and animal power. Wooden components are rarely preserved, so reconstructed implements may rely on comparisons with exceptional waterlogged finds and later practices. A recovered iron hoe cannot prove a sudden expansion of farmland around the tomb that contained it. To test claims of larger fields, historians need settlement distribution, pollen records, charred seeds and evidence of cultivation surfaces. Technological affordance and observed agricultural change must remain distinct."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "I.5.3:b03",
+      "title": "Harvesting and the value of time",
+      "paragraphs": [
+        "A durable sickle might speed parts of harvesting or reduce the need to replace blades during a short seasonal window. But gains depended on the crop, field organization and availability of hands. For a household with a small plot, a carefully maintained older tool could remain adequate, whereas one responsible for more land could value reliable iron more highly. The archaeological presence of a sickle tells us about the available technology but not the number of hours saved by its owner. Experimental reconstruction may illuminate cutting properties, though it must not be presented as a direct measurement of ancient productivity. Seasonal labor pressure deserves as much attention as metal hardness."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK iron-production curatorial exhibition"
+        }
+      ]
+    },
+    {
+      "id": "I.5.3:b04",
+      "title": "Clearing woodland and extending fields",
+      "paragraphs": [
+        "Iron axes could make some forms of woodcutting easier, affecting construction, fuel supply and perhaps the preparation of new plots. That possibility does not demonstrate that iron automatically caused extensive deforestation. Woodland use was shaped by settlement density, charcoal demand, grazing and repeated cultivation. Soil erosion or a pollen shift can have several causes and may not be attributable to one tool form. Communities also needed sustainable wood supplies for dwellings and metallurgy. Evaluating environmental change requires independent dating of sediment cores, charcoal deposits and archaeological settlement phases. Technological change acted within a landscape of competing needs rather than freeing farmers from ecological constraints."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "I.5.3:b05",
+      "title": "Rice, dry crops and regional variation",
+      "paragraphs": [
+        "The peninsula's varied environments supported different combinations of rice, millet and other crops. Lowland irrigation systems, rain-fed slopes and upland plots imposed distinctive demands on tools. A blade effective in dry-field work would not necessarily solve the collective maintenance of a paddy's embankments or water channels. Agricultural intensification required cooperation, and that cooperation could exist without intensive iron use. Differences in archaeobotanical evidence must be evaluated by excavation methods because flotation and preservation vary. A region with more excavated iron implements may simply have been investigated more thoroughly. It is safer to ask how tools interacted with existing farming regimes than to assert one nationwide iron revolution."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK Daho-ri wood-coffin burial assemblage"
+        }
+      ]
+    },
+    {
+      "id": "I.5.3:b06",
+      "title": "Storage and the risks of surplus",
+      "paragraphs": [
+        "If households cultivated more land or harvested more effectively, preserving grain became an immediate concern. Storage jars, pits, buildings and practices of drying crops all mattered to food security. Archaeological installations can indicate storage capacity but rarely identify who controlled the harvest. A chief could draw on surplus for feasts or retainers, while a family might keep reserves against bad weather. The same productive expansion could improve subsistence for some and intensify compulsory deliveries for others. We should not infer exact annual yields from grave goods or modern experimental farms. The political significance of better tools lay partly in relationships governing the product of agricultural labor."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "I.5.3:b07",
+      "title": "Keeping a blade usable",
+      "paragraphs": [
+        "Iron tools required sharpening, repair and occasionally reforging. Their practical value depended on a smith's availability, suitable fuel and the household's capacity to exchange goods for maintenance. An imported sickle might become less useful when its edge failed and no one nearby could restore it. The chronology of wear, repair marks and discarded fragments can illuminate this often overlooked economic infrastructure. Better access to iron did not remove the need for wooden handles, cordage or expertise in tool design. A village may have adopted metal selectively, preserving stone or wood where they remained efficient. Histories that count only first purchases miss the recurrent work sustaining productive technology."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK iron-production curatorial exhibition"
+        }
+      ]
+    },
+    {
+      "id": "I.5.3:b08",
+      "title": "Labor differences inside households",
+      "paragraphs": [
+        "Agricultural work was divided by age, physical capacity, household role and season, though the precise organization of tasks varies and is sparsely recorded for the Early Iron Age. Iron implements may have affected different people unequally: some tasks became easier, others expanded as land demands increased. Burial assemblages cannot reveal every worker's experience because deposited objects were chosen through status and ritual conventions. The archaeological challenge is to connect tools with houses, food remains and activity areas rather than deducing gendered routines directly from one grave. The wider point is that technology changes distributions of work, not merely abstract productivity at the scale of a community."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "I.5.3:b09",
+      "title": "Land and political obligation",
+      "paragraphs": [
+        "More reliable agricultural production could support specialists, ceremonial gatherings and armed followers, potentially increasing the leverage of leaders over villages. That relationship was neither automatic nor necessarily beneficial to cultivators. A chief might demand a share of grain in return for security, while independent households could bargain through kin alliances and alternative markets. There are no surviving comprehensive iron-age tax registers establishing one standard levy. Thus the link from iron tools to political centralization must be argued through converging patterns of settlement, hierarchy and production. Agricultural change made new forms of extraction possible while also giving communities choices about where and how they invested labor."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK Daho-ri wood-coffin burial assemblage"
+        }
+      ]
+    },
+    {
+      "id": "I.5.3:b10",
+      "title": "The limits of a technological explanation",
+      "paragraphs": [
+        "Iron had genuine practical consequences, but a defensible history resists a mechanical story in which stronger tools created larger harvests, larger populations and inevitable kingdoms. Communities could expand fields without iron, and some may have acquired weapons before agricultural blades. Costs, repairs, social access and local ecologies shaped outcomes. Museum assemblages such as Daho-ri demonstrate the coexistence of farm equipment with ornaments and imported luxury goods rather than a simple progression through separate economic stages. This article has examined the possible transformation of farm work. The next study focuses on craft specialists who produced, modified and circulated tools within wider economies."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

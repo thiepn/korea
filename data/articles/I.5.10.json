@@ -1,0 +1,161 @@
+{
+  "id": "I.5.10",
+  "title": "Regional Divergence in the Korean Iron Age",
+  "kicker": "IRON AGE · ECONOMIC NETWORKS AND REGIONAL DIFFERENCE",
+  "description": "Regional archaeology of regional divergence in the korean iron age, distinguishing excavated evidence, economic possibility and historical inference.",
+  "release": "AC",
+  "sourceStatus": "Original interpretive synthesis supported by contextual museum evidence; specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Daegu National Museum",
+      "title": "Ancient Korean kingdoms: materials, exchange and emergence of states",
+      "url": "https://daegu.museum.go.kr/eng/sub02_01_01_03.do",
+      "role": "Regional material culture and early iron distribution"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Daho-ri tomb and objects",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list",
+      "role": "An excavated set of local and imported material and elite display"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Cultural History of Iron",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202010000.do?exhiSpThemId=174666&listType=&menuId=current&schM=view",
+      "role": "Technical and socioeconomic context of iron use"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya and the Nakdong iron exchange",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Later developing exchange corridors; avoid projecting mature Gaya into prehistoric settlements"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.5.10:b01",
+      "title": "An uneven archaeological period",
+      "paragraphs": [
+        "Early Iron Age is a useful label for a broad shift in material technology, not a date on which all peninsular communities adopted identical equipment. Iron appeared and became common at different tempos, while bronze, stone, wood and ceramic technologies persisted. Museums distinguish the early arrival of objects from subsequent production and diffusion. Regional variation followed differences in ecology, existing exchange relations and social organization. It also reflects the uneven survival and excavation of sites. Comparing assemblages requires aligning their chronologies carefully rather than arranging regions from backward to advanced. Divergence is evidence that communities made choices within different constraints, not an obstacle to a predetermined account of national technological progress."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "Daegu early iron material and regional exchanges"
+        }
+      ]
+    },
+    {
+      "id": "I.5.10:b02",
+      "title": "The northwest and continental interfaces",
+      "paragraphs": [
+        "Northwestern districts connected closely with Liaodong and, in later phases, institutions associated with Han frontier rule. Certain foreign-style goods and manufacturing techniques appear in archaeological contexts reflecting those relationships. That does not mean every community possessed identical political ties or that all material innovation came from administrative centers. Local groups could adopt technologies selectively and mediate subsequent diffusion southward. The prominence of historically documented commanderies can distort the archaeological picture by drawing researchers toward sites with recognized place names. A comparison needs independent attention to rural settlements and workshops. Continental contact was one influence among several in the changing material culture of the northwest."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "I.5.10:b03",
+      "title": "The central inland corridors",
+      "paragraphs": [
+        "The central peninsula contained river valleys and upland routes through which materials might move between northern and southern communities. The rate of iron adoption could differ by landscape and local demand, and imported objects might circulate well beyond areas with demonstrated smelting. Similar pottery styles do not prove unified political control, just as a gap in finds need not demonstrate economic isolation. Settlement evidence can reveal continuity across phases when elite graves change in form. The historical aim is to understand which ecological and social conditions supported productive networks in particular districts. Centrality on a modern map was not necessarily centrality in ancient exchange routes."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "NMK early iron use in economy and power"
+        }
+      ]
+    },
+    {
+      "id": "I.5.10:b04",
+      "title": "The southwestern mosaic",
+      "paragraphs": [
+        "Southwestern regions retained distinctive pottery and burial traditions while engaging with continental and peninsular exchange. Access to coastal routes offered opportunities for long-distance contact, but inland communities could develop different priorities. Agricultural settings, metal availability and elite display did not change simultaneously. Chronological comparisons must avoid assuming that every artifact classified within a broad Mahan-associated horizon belonged to one polity. Written confederation names are later labels over heterogeneous communities. Archaeological diversity suggests overlapping social networks rather than a unitary southwestern economic system. A region's material identity may persist through exchange because residents adapt imported objects to local customs instead of copying them exactly."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "I.5.10:b05",
+      "title": "Nakdong and southeastern trajectories",
+      "paragraphs": [
+        "The Nakdong basin's iron resources and trading connections became prominent in the histories of Byeonhan and later Gaya, while nearby communities followed their own paths toward political concentration. Metal production could support specialists, armed followers and trade relationships, but sites differed in the evidence for each element. Later Gaya state institutions and military equipment should not be assigned without qualification to the first centuries of iron adoption. A local cemetery may demonstrate prestige exchange and still leave its associated workshop undiscovered. The southeast is therefore a case study in how favorable resources interact with political organization, not proof that iron alone created a kingdom."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "Daegu early iron material and regional exchanges"
+        }
+      ]
+    },
+    {
+      "id": "I.5.10:b06",
+      "title": "Coastal and island timing",
+      "paragraphs": [
+        "Islands and coastal settlements may have acquired particular technologies through maritime links before nearby inland valleys did, or they may have retained familiar methods despite regular contact. Geography made exchange possible without guaranteeing adoption. Traveling craft specialists and shifting harbors could alter regional patterns across generations. Imported goods in graves highlight certain connections while leaving routine cargoes largely invisible. The relationship between southern Korea and the Japanese archipelago thus contributed to uneven material trajectories rather than erasing difference. A cross-strait comparison must use aligned archaeological dates; otherwise the apparent precedence of one region may be an artifact of combining finds separated by several centuries."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "I.5.10:b07",
+      "title": "Environmental variation and productive choice",
+      "paragraphs": [
+        "Soil, rainfall, mineral deposits, fuel woodland and terrain shaped the practical value of iron implements. Where farming required particular tools, households could invest in new blades; elsewhere existing equipment might remain effective. Metallurgy itself needed abundant charcoal and reliable provisioning, which could favor some landscapes over others. Environmental factors should not be described as mechanical causes because people modified land, redirected exchange and learned new techniques. Archaeobotanical and geomorphological evidence can help reconstruct these opportunities, but individual dates and causal connections require testing. The economic significance of an invention emerges from its fit with local needs rather than an intrinsic guarantee of progress."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "NMK early iron use in economy and power"
+        }
+      ]
+    },
+    {
+      "id": "I.5.10:b08",
+      "title": "Different scales of power",
+      "paragraphs": [
+        "Some communities concentrated resources in rich graves or major settlements while others showed more dispersed material investment. Such contrasts may reflect social inequality, but burial practice can exaggerate or conceal it. A chief might use access to trade to support political ambition without commanding distant producers. Conversely, several settlements might share production without merging into a single authority. Historical labels for early confederations should not flatten this range of arrangements. The rise of later states belongs to subsequent Parts and Chapters, whose records can more directly illuminate institutions. The Early Iron Age provides the economic conditions and diverse experiments out of which multiple political futures emerged."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "I.5.10:b09",
+      "title": "The archaeological limits of comparison",
+      "paragraphs": [
+        "Excavation intensity, preservation, artifact classification and dating methods vary by region. Museum collections often showcase exceptional sites, especially richly furnished tombs, while settlement archaeology is less visually impressive. A fair comparison should account for the kinds of contexts being sampled. A small assemblage does not establish scarcity if much of the surrounding landscape remains unexplored. Radiocarbon ranges, typology and stratigraphy may produce different chronological estimates, and apparent contradictions require explanation rather than silent averaging. Maps of iron diffusion are necessarily interpretations based on incomplete datasets. Their usefulness depends on communicating uncertainty instead of pretending that every absence is meaningful."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "Daegu early iron material and regional exchanges"
+        }
+      ]
+    },
+    {
+      "id": "I.5.10:b10",
+      "title": "From regional economies to political societies",
+      "paragraphs": [
+        "By the centuries surrounding the turn of the era, iron technology, craft specialization and regional exchange had created possibilities for increasingly complex social and political organization. Yet no single economic pathway described all peninsular communities. The next chapter addresses populations, settlement and social formation with different evidentiary questions, while later histories trace distinct early states. This division of ownership matters: an archaeological discussion of iron should not fill gaps in dynastic chronologies by assigning artifacts to unverified kings. The historical conclusion is that diversity of production and connection was itself fundamental. It made the peninsula's early political landscape plural, adaptive and historically contingent."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

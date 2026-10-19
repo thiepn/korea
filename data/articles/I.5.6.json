@@ -1,0 +1,161 @@
+{
+  "id": "I.5.6",
+  "title": "The Yellow Sea, Southern Korea, and Maritime Exchange",
+  "kicker": "IRON AGE · CONTINENTAL AND MARITIME CONTACT",
+  "description": "Original archaeological and historical synthesis of the yellow sea, southern korea, and maritime exchange, with distinctions among object movement, imitation, status and state authority.",
+  "release": "AC",
+  "sourceStatus": "Contextual institutional provenance, not peer-reviewed or fully source-audited.",
+  "sources": [
+    {
+      "institution": "Daegu National Museum",
+      "title": "Ancient Korean Kingdoms and Early Iron Age",
+      "url": "https://daegu.museum.go.kr/eng/sub02_01_01_03.do",
+      "role": "Period and regional contacts, early iron diffusion and commerce"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Daho-ri Tomb No.1: trade and burial goods",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list",
+      "role": "Specific mixed imported and local burial assemblage of late first century BCE"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy and iron exchange",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Later developments from Byeonhan, Nakdong iron resources, maritime ties; must not retroject Gaya state onto early period"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Korean-type Bronze Dagger: Emblem of a Ruler",
+      "url": "https://www.museum.go.kr/ENG/contents/E0401000000.do?relicRecommendId=519718&schM=view",
+      "role": "Northeastern exchange comparisons and late bronze early iron coexistence"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.5.6:b01",
+      "title": "Water as connection and obstacle",
+      "paragraphs": [
+        "The Yellow Sea was not merely an empty boundary separating the peninsula from surrounding regions. Its bays, estuaries and coastal islands formed a landscape of possible journeys, especially for people accustomed to short voyages and seasonal weather. Direct routes and coastal hopping demanded different skills and risks. A calm passage could still be dangerous to boats carrying heavy iron or pottery. Archaeological evidence suggests connections across the western and southern shores, yet it rarely provides a complete itinerary. Trading communities operated within changing political conditions and had to decide when travel was worthwhile. A maritime history begins with boats, harbors and navigational choices rather than with arrows painted across a modern map."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "Daegu ancient states and early iron networks"
+        }
+      ]
+    },
+    {
+      "id": "I.5.6:b02",
+      "title": "Estuaries and interior exchange",
+      "paragraphs": [
+        "A coastal harbor could connect sea transport with inland river systems, allowing produce, tools and prestigious goods to move between ecological zones. River depth, seasonal flooding and the availability of landing places determined how far a boat could travel. Goods might change hands repeatedly between inland carriers and maritime traders. That chain may explain why foreign-style objects appear far from a shoreline without requiring a foreign merchant to have traveled to each village. Estuaries also concentrated opportunities for local elites who could mediate access to landing grounds or food supplies. The commercial value of a port depended on its hinterland as much as on its access to the open sea."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "I.5.6:b03",
+      "title": "The southern coasts and the Nakdong network",
+      "paragraphs": [
+        "Southern settlements connected the Nakdong basin with maritime exchange extending toward the northern Kyushu region and western peninsular approaches. Iron and crafted goods could circulate through this interface, which later became important in the histories of Byeonhan and Gaya. The later Gaya maritime network should not be projected intact into the earliest iron contexts, however. Different settlements may have had distinct relationships with inland producers and outside visitors. An imported item at a burial site establishes contact but not the identity of the ship's owner. Reconstructing early maritime activity requires the convergence of artifacts, dated contexts, and the geography of safe anchorages."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "NMK Gaya overview of later iron maritime system"
+        }
+      ]
+    },
+    {
+      "id": "I.5.6:b04",
+      "title": "What survived from boats",
+      "paragraphs": [
+        "Wooden vessels and cordage rarely survive except in favorable wet environments, so the history of maritime capacity depends heavily on indirect evidence. Anchoring equipment, waterfront structures, exotic goods and geographical feasibility can support arguments about travel, but each type has limitations. Later illustrations of ships are not reliable plans for earlier centuries. Nor is it safe to infer large fleets from evidence of a few imported mirrors. Coastal craft likely varied by purpose, and routes suitable for light passengers differed from those carrying metal or grain. A reasoned reconstruction expresses the range of possible transport rather than claiming precise dimensions for boats that have left no direct trace."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "I.5.6:b05",
+      "title": "Salt, food and indispensable cargo",
+      "paragraphs": [
+        "Exchange was not limited to the impressive objects placed in elite graves. Salt, dried fish, sea products, timber and agricultural grain could support the practical economics of coastal travel, even though many leave weak or ambiguous archaeological traces. Such staples might make repeated journeys worthwhile when luxury goods alone would not. A traveler also needed fresh water, food and places to repair equipment. The absence of surviving cargo manifests makes the relative volume of different products uncertain. Examining what communities needed is useful, but conjecture about likely cargo must be clearly separated from excavated evidence. Everyday exchange may have been more extensive than the prestigious objects through which archaeology first reveals it."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "Daegu ancient states and early iron networks"
+        }
+      ]
+    },
+    {
+      "id": "I.5.6:b06",
+      "title": "Political authority along the coast",
+      "paragraphs": [
+        "Control of a harbor offered opportunities to provision vessels, demand gifts or regulate access to inland routes. But a powerful coastal family did not necessarily rule the entire sea lane visible from its settlement. Maritime authority depended on alliances with boat crews, producers and communities at intermediate stops. Competition among such groups might redirect trade without producing a decisive battlefield event recorded by later chronicles. The same landing ground could serve fishing households and long-distance visitors. Coastal centers therefore require analysis at several scales: the local settlement, its productive hinterland and the wider network. A centralized kingdom was only one possible way of organizing those relations."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "I.5.6:b07",
+      "title": "Foreign goods and unequal visibility",
+      "paragraphs": [
+        "Mirrors, glass beads and unusual ornaments found in rich graves often dominate discussions of maritime trade because they are identifiable and carefully preserved. Their deposition reflects funerary decisions and social aspiration. Most goods traded in bulk or used until worn out are less likely to survive as recognizable imports. A grave containing distant products should not be equated with a customs inventory. Conversely, a poor household without imported ornaments may still have relied on tools or food arriving through coastal exchange. Economic participation and display of prestige are different phenomena. Archaeology reveals both, but through material patterns with very unequal visibility."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "NMK Gaya overview of later iron maritime system"
+        }
+      ]
+    },
+    {
+      "id": "I.5.6:b08",
+      "title": "Coasts did not share one chronology",
+      "paragraphs": [
+        "The southwest, south and southeast coasts differed in settlement histories, river access and proximity to outside trading partners. A form introduced early in one port might appear much later elsewhere. Changes in production or political control could shift the balance between alternative harbors over generations. Period labels such as Early Iron Age or Proto-Three Kingdoms cover overlapping transformations, not a single synchronous maritime revolution. Site-level dating should guide claims about when specific trade relationships existed. Differences among archaeological assemblages may also reflect excavation intensity and burial customs. The peninsula's coastal networks were dynamic, and their map changed through cumulative decisions by many communities."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "I.5.6:b09",
+      "title": "Exchange without modern borders",
+      "paragraphs": [
+        "A sea crossing between the peninsula and adjacent islands did not necessarily register as foreign trade in the modern sense. Communities may have shared kin relations, production techniques and recurring visiting practices while later states developed competing territorial claims. We must avoid mapping modern national citizenship onto travelers whose identities were expressed through local leadership, family and place. Written names supplied by outside observers could group unlike communities together. Material objects likewise cannot announce the language or political affiliation of their carriers. The historical purpose of studying maritime exchange is to recover connection while respecting uncertainty about the people who enabled it."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "Daegu ancient states and early iron networks"
+        }
+      ]
+    },
+    {
+      "id": "I.5.6:b10",
+      "title": "A maritime economic geography",
+      "paragraphs": [
+        "Yellow Sea and southern coastal exchange linked resource districts, agricultural communities and centers of elite consumption. Boats offered alternatives to difficult overland corridors, but they required specialist knowledge and access to safe stopping places. The resulting networks could enrich particular ports without establishing a uniformly integrated market. Maritime movement is therefore a key part of iron's history, not a decorative addition to land-based production. This article has examined coastal structures and trade mechanisms; the next focuses specifically on the archaeological evidence for exchange with the Japanese archipelago. That contact belongs to a shared northeast Asian context without implying direct political domination in either direction."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

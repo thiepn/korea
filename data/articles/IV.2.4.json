@@ -1,0 +1,161 @@
+{
+  "id": "IV.2.4",
+  "title": "Hwabaek, Aristocratic Councils, and Court Politics",
+  "kicker": "UNIFIED SILLA · ROYAL AND ARISTOCRATIC GOVERNMENT",
+  "description": "Original historical analysis of hwabaek, aristocratic councils, and court politics, differentiating royal chronology, transmitted administrative descriptions and archaeological testimony.",
+  "release": "AC",
+  "sourceStatus": "Original source-critical synthesis with contextual institutional references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Unified Silla government",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional synthesis of Jipsabu, ministries, Confucian education and administrative structures"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Local Administration Reorganization after the Unification of the Three Kingdoms",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002472164",
+      "role": "Scholarly alternative to treating the province system as invented from nothing after 668"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gyeongju Historic Areas",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "role": "Capital sites, palace complexes, religious and funerary material; not direct evidence for every specific royal decree"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period: collections and historical overview",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Material context for royal capital, Buddhist institutions and the extended political realm"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.2.4:b01",
+      "title": "Counsel and the distribution of power",
+      "paragraphs": [
+        "Silla political tradition included assemblies of high aristocrats associated with the Hwabaek institution. Histories frequently present such councils as arenas in which major decisions and elite consensus mattered, but the details of membership and procedure shifted or remain uncertain. Describing Hwabaek as a parliament would import assumptions about representation and lawmaking that do not fit an aristocratic council. Nor should the existence of collective deliberation imply that kings lacked initiative. Council politics took place in a court where kinship, office, ceremonial prestige and control over military followers shaped influence. Its historical significance lies in the negotiation of power among the leading families and the monarch."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "NIKH government departments and Confucian academy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.4:b02",
+      "title": "The transmitted rule of unanimity",
+      "paragraphs": [
+        "Accounts often associate Hwabaek deliberation with unanimous decision making on matters of high importance. That claim must be examined according to the source and period in which it appears. An ideal of unanimity can express expectations about aristocratic legitimacy without describing the full mechanics of every court meeting. Powerful figures could shape outcomes before a formal gathering; absence or coercion might also affect the appearance of agreement. The historian cannot reconstruct votes or spoken interventions where no minutes survive. The value of the unanimity tradition is that it reveals an important political norm, not that it supplies a complete constitution for centuries of Silla government."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.4:b03",
+      "title": "Sangdaedeung and the senior aristocracy",
+      "paragraphs": [
+        "The senior aristocratic office known as sangdaedeung is closely associated with high court status and elite leadership. Its relationship to the monarchy and other executive offices changed with political circumstances. Office titles alone do not tell us whether the incumbent successfully controlled policy; personal networks and royal backing also mattered. An aristocrat with extensive kin ties might influence appointments without openly opposing the king, while another could become the focus of resistance during succession disputes. The office's prestige indicates that collective elite power had an institutional expression within the court. It should not be reduced either to ceremonial honor or to an always-effective veto."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "UNESCO Gyeongju capital heritage sites"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.4:b04",
+      "title": "Succession as a test of council politics",
+      "paragraphs": [
+        "Transitions in kingship exposed the importance of agreement among powerful families. A claimant's descent and marriage ties mattered, but military support, patronage and institutional precedent could alter what was feasible. Later chronicles often frame outcomes as confirmations of rightful lineage, smoothing over political bargaining. Disagreement could persist even when a succession was recorded as orderly. A council's influence is therefore best inferred through the broader political context rather than imagined debates for which no firsthand transcript survives. The need for elite recognition constrained royal authority while also providing a means of continuity when leading households could accept a common ruler."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.4:b05",
+      "title": "Council and ministry were not opposites",
+      "paragraphs": [
+        "It is tempting to tell Silla history as a simple rivalry between an old aristocratic council and a new royal bureaucracy. The same elite families could participate in both institutions. Officeholders might use their administrative position to advance a factional interest, while a monarch could bargain through council members to secure implementation. The relationship changed under different rulers and should not be forced into a one-directional decline of aristocracy. Executive offices offered mechanisms of coordination, whereas high-level councils provided a language of shared decision and aristocratic privilege. Their interaction reveals the hybrid structure of an expanding dynastic state."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "NIKH government departments and Confucian academy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.4:b06",
+      "title": "The political weight of households",
+      "paragraphs": [
+        "Aristocratic politics drew strength from families, marriages and access to rank-defined networks of service. A council participant represented not an electorate but a social location within the ruling elite. His bargaining capacity could depend on followers, estate resources and relationships with other officeholders. Women in elite households may have influenced alliance formation through kinship, although their political activities are much less frequently recorded. The surviving lists of named male councillors should not be treated as a complete picture of family power. Institutions were populated by people with overlapping loyalties, and the practical boundary between public duty and lineage advantage was often contested."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.4:b07",
+      "title": "Sinmun and the contest over aristocracy",
+      "paragraphs": [
+        "King Sinmun's consolidation after the unification wars is often described through the suppression of the Kim Heumdol affair and related efforts to strengthen royal command. The episode illustrates that leading families could become targets of coercive action by the crown, but the reported intentions of implicated individuals must be evaluated carefully. A purge could change the balance of offices without eliminating the aristocratic basis of government. Royal reforms created new channels for administration, while powerful households continued to seek high appointments. The result was neither permanent absolute monarchy nor a restoration of an unchanged council regime. Political institutions operated through ongoing competition."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "UNESCO Gyeongju capital heritage sites"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.4:b08",
+      "title": "The problem of later sources",
+      "paragraphs": [
+        "Much of the evidence for Silla high politics survives through compilations written centuries afterward, notably in Goryeo. These works incorporated earlier records but also organized historical explanation around ideals of good kingship, loyalty and disorder. A statement that nobles agreed to a decision is not necessarily a verbatim report of procedure. Inscriptions and material evidence sometimes provide independent dates or expressions of prestige, yet cannot reconstruct private deliberations. The historian should compare source genres rather than combine them into an imaginary continuous record. This restraint is especially important where modern debates turn the council into proof of an ancient democratic or constitutional tradition."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.4:b09",
+      "title": "Consent at the top and silence below",
+      "paragraphs": [
+        "A council of high aristocrats may have provided a political mechanism for securing consent among those who controlled resources, without consulting ordinary cultivators or craftworkers. Agreement at court did not mean that taxes, corvée or garrison demands were welcomed throughout the provinces. People outside the elite might experience a policy only when a local officer arrived with an order. Surviving documents are not extensive enough to reconstruct the reactions of every village. The distinction between aristocratic consensus and population-wide participation prevents anachronistic comparisons with representative government. Council history belongs within the unequal social order in which its members operated."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "NIKH government departments and Confucian academy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.4:b10",
+      "title": "A political institution across changing centuries",
+      "paragraphs": [
+        "Hwabaek and related aristocratic offices express a continuing tension in Silla kingship: monarchs sought the authority to direct government while leading families expected a recognized role in decisions. Neither side possessed constant power, and the balance was repeatedly renegotiated. The council's meaning must be examined across different periods rather than frozen at its earliest description. This article has focused on deliberation and elite political mechanisms, not the entire development of royal authority or the details of executive administration. Subsequent studies move beyond Gyeongju to provincial centers where decisions formed at court encountered distinct communities and local realities."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

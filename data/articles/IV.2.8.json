@@ -1,0 +1,161 @@
+{
+  "id": "IV.2.8",
+  "title": "Taxation, Corvée, Tribute, and State Revenue",
+  "kicker": "UNIFIED SILLA · REVENUE, DEFENSE AND CAPITAL",
+  "description": "Evidence-conscious historical account of taxation, corvée, tribute, and state revenue, separating surviving documents and sites from institutional inference.",
+  "release": "AC",
+  "sourceStatus": "Original contextual synthesis, independent specialist review not performed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Unified Silla institutions and economic administration",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Government structure, land-related rights, religious patronage and regional institutions"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Nine provinces, five secondary capitals and ten military commands: military geography",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003117234",
+      "role": "Scholarly discussion of military garrisons and strategic center distribution"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gyeongju Historic Areas",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "role": "Wolseong, Hwangnyongsa, Namsan, tumuli and fortification belts as archaeologically preserved capital environment"
+    },
+    {
+      "institution": "Okayama University",
+      "title": "The Silla Village Register and its disputed village locations",
+      "url": "https://ousar.lib.okayama-u.ac.jp/ja/70053",
+      "role": "Specific surviving register and methodological constraints of extrapolating economic and population categories"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.2.8:b01",
+      "title": "The fiscal question behind royal power",
+      "paragraphs": [
+        "Kings, officials, soldiers and religious establishments needed resources, and the ability to command them was a central condition of Unified Silla government. Revenue could come from agricultural produce, labor obligations, and the delivery of particular goods, although the surviving record does not permit one complete schedule applying uniformly to every household. Terms such as taxation, tribute and corvée identify different forms of obligation that may overlap in practice. They should not be collapsed into a modern monetary budget. The historian must distinguish royal intentions, provincial assessment and actual household delivery. A government able to order taxes was not necessarily able to collect everything demanded across a wide and uneven territory."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "NIKH Unified Silla institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.8:b02",
+      "title": "Farming and the material base of revenue",
+      "paragraphs": [
+        "Agricultural households supported political institutions through their productive labor. Harvests depended on season, irrigation, soil and the organization of family and communal work, so available surplus varied geographically. A state's claim to a portion of output might be mediated by local officers, powerful families or temple establishments. The economic relationship cannot be reconstructed solely by reading the name of a royal land reform. Cultivators had to retain enough grain for food and seed, and burdens imposed without regard for bad harvests could threaten stability. Fiscal policy was therefore an issue of subsistence and political legitimacy, not simply an accounting exercise recorded at court."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.8:b03",
+      "title": "The meaning of land grants",
+      "paragraphs": [
+        "Silla chronicles mention forms of land-related reward and arrangements for providing income to officials, but the precise relationship between ownership, usufruct and rights to levy produce is contested. A grant should not automatically be read as transfer of absolute modern freehold title. Administrative claims might attach to households or revenue streams rather than the physical ownership of every plot. Some reforms sought to reshape elite entitlements, creating both opportunities and resistance. Their implementation likely varied with preexisting local relationships. Careful terminology matters because a mistaken translation could make a change of tax rights appear as a wholesale redistribution of agricultural land."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "UNESCO preserved Gyeongju palace and fortification landscapes"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.8:b04",
+      "title": "The village register's limited fiscal window",
+      "paragraphs": [
+        "The Silla village register provides a rare record of households, fields and productive resources that might inform state assessment. Yet it does not contain a complete annual ledger of actual tax payments for the entire kingdom. Its four villages, uncertain geographical identification and unusual survival limit straightforward generalization. Counts can illuminate official interests while leaving collection practices obscure. The distinction between what a clerk recorded and what an official successfully collected is fundamental. We should not generate precise national revenue estimates by multiplying entries from the surviving fragments without independent evidence for representativeness. Detailed evidence is valuable only when its scope is respected."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.8:b05",
+      "title": "Corvée and the demands of infrastructure",
+      "paragraphs": [
+        "Roads, fortifications, public buildings and royal works required labor as well as materials. Compulsory service could place a heavy burden on households during agricultural seasons, especially when distances and provisioning were considerable. But no surviving comprehensive roster tells us exactly how many days every category of Silla subject owed. A building inscription might identify a sponsor or official without enumerating the unnamed laborers who transported stone. Corvée was a form of fiscal extraction because time spent working for public or elite projects could not be used elsewhere. Understanding this opportunity cost helps recover the experience of rural workers behind the visible monuments of political power."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "NIKH Unified Silla institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.8:b06",
+      "title": "Tribute as goods and relationships",
+      "paragraphs": [
+        "Some goods were supplied to the court or provincial institutions in forms interpreted as tribute, presentation or regular dues. The distinction between an extraordinary diplomatic gift and a recurring local obligation is important; the two should not be combined into a single undifferentiated revenue category. Textiles, crafted items and regional products required networks of collection, storage and carriage. The official value attached to such goods might not equal the labor required to produce them. A successful court ceremony could celebrate the submission of a region while concealing the unequal burdens behind the displayed items. Fiscal interpretation must consider purpose, frequency and social setting."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.8:b07",
+      "title": "The administrative cost of collection",
+      "paragraphs": [
+        "Assessment and collection demanded officials, clerks, messengers, storehouses and trusted local intermediaries. These personnel consumed resources even as they organized transfers to government centers. The physical movement of grain over mountainous terrain could make distant levies expensive or irregular. Regional settlements may have retained supplies for garrisons and offices rather than sending everything directly to Gyeongju. A centralized entitlement did not necessarily imply centralized storage. Evidence for provincial roads and administrative centers helps reconstruct possible fiscal circuits, but the accounts of exact deliveries remain fragmentary. The costs of running a revenue system were part of its political economy."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "UNESCO preserved Gyeongju palace and fortification landscapes"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.8:b08",
+      "title": "Status and unequal burdens",
+      "paragraphs": [
+        "People did not encounter fiscal demands from identical social positions. Hereditary privilege and official rank could influence rights and exemptions, while dependent households might face claims from patrons as well as from state representatives. The exact distribution of obligations varied by time and locality, and historians should not invent a uniform hierarchy of rates. A cultivator's surplus might be claimed through more than one channel, complicating the division between public tax and private rent. Such relationships help explain how state strengthening could coexist with entrenched aristocratic inequality. Fiscal reform was also a struggle over who possessed legitimate authority to demand labor and produce."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.8:b09",
+      "title": "Revenue crises and political change",
+      "paragraphs": [
+        "Failure to deliver expected supplies could weaken military organization and damage relations between the court and provincial authorities. Conversely, aggressive collection could provoke flight or resistance, reducing the resources available in the longer term. Later periods of Silla instability contain evidence of fiscal tensions, but those outcomes must not be automatically projected backward as inevitable from the seventh-century reforms. Regional ecology, political rivalry and temporary disasters all mattered. A historian must examine individual crises in their own chronology. The broader fiscal problem was constant: government capacity depended on maintaining productive communities rather than merely announcing rights over their labor."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "NIKH Unified Silla institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.8:b10",
+      "title": "A system known only in fragments",
+      "paragraphs": [
+        "Unified Silla possessed instruments for mobilizing agricultural produce, labor and specialized goods, but the sources do not support a fully reconstructed annual budget or complete register of payers. The village manuscript, office titles and transmitted reform notices provide different kinds of evidence that should be compared without erasing their gaps. This article has focused on the material foundations of government. The next examines military organization, which relied heavily on the same resources while confronting separate command and defense problems. The fiscal significance of the kingdom was its ability to coordinate demands across regions, not the existence of a perfectly uniform system."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
