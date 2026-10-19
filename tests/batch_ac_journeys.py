@@ -31,7 +31,7 @@ with sync_playwright() as pw:
         page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("IV.2.7")',timeout=20000)
         page.keyboard.press('Escape')
         page.evaluate('location.hash="#/history/IV.2.10"')
-        page.wait_for_function('document.body.textContent.includes("Gyeongju remained Silla's principal royal center")',timeout=20000)
+        page.wait_for_function('document.body.textContent.includes("The capital was not simply a ceremonial backdrop")',timeout=20000)
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),('horizontal overflow',w)
         assert not errors,(w,errors)
         page.close()
