@@ -1,0 +1,161 @@
+{
+  "id": "IX.2.6",
+  "title": "Northern People's Committees, Constitutional Formation, and the Establishment of the DPRK",
+  "kicker": "TWO KOREAN STATES · THE NORTH AND THE ROAD TO WAR",
+  "description": "Original source-conscious account of northern people's committees, constitutional formation, and the establishment of the dprk, comparing institutional, social and foreign archival perspectives.",
+  "release": "AB",
+  "sourceStatus": "Original critical synthesis with selective contextual citations; independent specialist historical review pending.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "1946 Northern Korea Land Reform Decree",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_157_0010",
+      "role": "Contemporary published legal text and specific provisions for redistribution and local committees"
+    },
+    {
+      "institution": "Wilson Center",
+      "title": "Korean Uprisings in 1946 and Soviet occupation records",
+      "url": "https://www.wilsoncenter.org/blog-post/korean-uprisings-1946-was-us-occupation-responsible-korean-war",
+      "role": "Archival interpretation of Soviet official reports, local committees and limits of retrospective regime narratives"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS: Korea and Soviet–American Troop Withdrawal, 1948",
+      "url": "https://history.state.gov/historicaldocuments/frus1948v06/d894",
+      "role": "Original Soviet communication as transmitted by U.S. diplomats; distinct from independent confirmation of implementation"
+    },
+    {
+      "institution": "U.S. Department of State, Office of the Historian",
+      "title": "FRUS 1949: Korea National Security Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1949v07p2/d209",
+      "role": "U.S. perspective on Korean governments, military withdrawal and defense concerns"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IX.2.6:b01",
+      "title": "Northern state formation had a prehistory",
+      "paragraphs": [
+        "The Democratic People's Republic of Korea was proclaimed on 9 September 1948, but its political and administrative foundations had been developing for years. Soviet military occupation after the defeat of Japan reconfigured authority in northern Korea while Korean committees and parties struggled over local institutions. Describing the DPRK as established in a single ceremony would conceal the prior creation of security organizations, land policies and channels for distributing appointments. Conversely, assuming the 1948 state had already existed unchanged since liberation would erase real transformations. The early northern government should be studied through both Korean political participation and the decisive constraints imposed by Soviet occupation power."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.6:b02",
+      "title": "People's committees and contested representation",
+      "paragraphs": [
+        "People's committees emerged in diverse local contexts after liberation, sometimes drawing on established community leaders and sometimes becoming instruments of radical political change. Soviet officers assessed those committees through security and ideological priorities; their reports offer valuable evidence precisely because they also reveal uncertainty and disagreement. A village committee's membership did not automatically prove that all residents supported its program. The process of turning local organizations into a hierarchically governed political system involved recruitment, exclusion, training and intervention from above. Later official narratives of spontaneous popular unanimity need to be tested against archives describing uneven support and administrative difficulties."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.6:b03",
+      "title": "The Provisional People's Committee",
+      "paragraphs": [
+        "The North Korean Provisional People's Committee established in February 1946 became an important vehicle for policy-making under Kim Il Sung's chairmanship. Its existence helped give Korean names and offices to a transformation conducted under Soviet occupation. The committee's powers should neither be dismissed as wholly fictitious nor treated as independent of occupying authorities. Land reform and other decrees were implemented through regional organs that had to interpret instructions and mobilize local workers. Such implementation changed the balance between owners, tenants and political cadres. The politics of governing became material long before the formal establishment of the DPRK."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.6:b04",
+      "title": "The constitutional process of 1948",
+      "paragraphs": [
+        "In 1948 northern authorities created a constitutional framework for a new Korean state. The process drew upon earlier provisional institutions and electoral arrangements, and its claim to represent Korea as a whole competed directly with the southern constitutional project. Documents produced by the northern government presented a coherent popular mandate, but the actual degree of political competition was constrained by the emerging party hierarchy and security environment. A constitution expresses what leaders wanted their system to be recognized as; it does not independently reveal the conditions under which every candidate was chosen or every citizen consented. Distinguishing formal rights from political practice is as necessary in the north as in the south."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.6:b05",
+      "title": "The Supreme People's Assembly",
+      "paragraphs": [
+        "The Supreme People's Assembly supplied an institutional foundation for the proclaimed northern government. Official lists of deputies, titles and legislative acts are important sources for the state's intended structure. Yet assemblies can operate under very different degrees of independence, and formal procedures should not be equated automatically with open contestation of policy. The participation of allied parties and social organizations must be examined through their relationship to the dominant political leadership. Even the terminology of the legislature carried a claim that sovereignty flowed from the people rather than from the previous colonial regime. That rhetoric helped define the new state but could not by itself establish the extent of effective political pluralism."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.6:b06",
+      "title": "The declaration of 9 September",
+      "paragraphs": [
+        "The formal proclamation of the DPRK followed the Republic of Korea's inauguration in August and created two rival governments asserting authority over the same peninsula. The order of dates matters, but it does not establish that one state alone caused division. Both emerged within an international environment shaped by failed negotiations, military occupation and domestic political competition. Official northern celebrations emphasized national independence and popular institutions; external opponents questioned the government's freedom from Soviet influence. The historian should evaluate both claims through the distribution of coercive power, the evidence for Korean agency and contemporary diplomatic records. A state can be institutionally consequential even when its representative legitimacy is contested."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.6:b07",
+      "title": "Korean leadership within Soviet constraints",
+      "paragraphs": [
+        "Soviet involvement determined important security and organizational conditions, but a purely foreign-imposition account risks ignoring conflicts among Korean communists, nationalists and other political actors. Kim Il Sung and his associates developed influence through their relationship with Soviet authorities while also competing with cadres whose revolutionary experience came from other backgrounds. The specific balance changed through appointments and political struggles. Surviving Soviet records are invaluable but not omniscient: officials could misunderstand local loyalties or frame disagreement in ideological terms. DPRK publications likewise cannot be accepted without criticism. Political agency existed within unequal power relationships rather than exclusively on one side of a foreign-versus-domestic divide."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 2,
+          "locator": "FRUS contemporary Soviet withdrawal communication as transmitted diplomatically",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.6:b08",
+      "title": "Institutions outside Pyongyang",
+      "paragraphs": [
+        "Provincial and village government connected the founding state to ordinary residents. Local committees supervised production, property transfers, schooling and security matters, but their composition and enforcement practices differed. A directive issued from Pyongyang or an occupation headquarters did not necessarily reach every farm promptly or in the same form. Administrative expansion required literacy, transport, supplies and people willing to carry out instructions. Some gained authority through reform, while others lost established status. Rural experiences cannot be reconstructed solely from speeches at the capital. Material records, memoirs and surviving decrees offer partial views that should be assessed according to their origin and possible coercive setting."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IX.2.6:b09",
+      "title": "Plural symbols, narrowing politics",
+      "paragraphs": [
+        "The DPRK's founding constitution and government included institutional forms suggestive of a broad popular front. These arrangements existed alongside the consolidation of communist leadership and the marginalization of organized alternatives. The exact process did not happen instantaneously and should be periodized carefully. Some allies supported social reform or independence but disagreed over the distribution of state power. Official accounts later tended to smooth such disagreements into a narrative of unified revolutionary purpose. Treating those texts as political constructions makes it possible to study real institutions without accepting their preferred interpretation. The relationship between coalition and party consolidation is developed more fully in the succeeding unit."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "A contextual archival or institutional anchor; interpretation requires additional source triangulation.",
+          "sourceIndex": 0,
+          "locator": "NIKH published North Korean land reform law and implementation notes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IX.2.6:b10",
+      "title": "The meaning of a second Korean republic",
+      "paragraphs": [
+        "By September 1948 two political centers had adopted constitutions and created governments claiming authority over all Korea. The northern state possessed functioning institutions and mobilization capacity, but the legitimacy of its representative practices remained contested and access to independent evidence was restricted. The formation of the DPRK matters as a history of state creation, not merely the prelude to invasion. Later narratives often work backward from the Korean War or the much later dynastic regime, projecting familiar institutions into this earlier period. This article instead emphasizes a provisional and contested process: Soviet occupation, Korean committees, constitutional formation and the creation of a state whose future was not yet fixed."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
