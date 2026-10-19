@@ -1,0 +1,155 @@
+{
+  "id": "IV.1.9",
+  "title": "Silla's Southern Realm and the Emerging Northern Power Vacuum",
+  "kicker": "SILLA, FORMER KINGDOMS AND BORDERLANDS",
+  "description": "Original evidence-conscious history of silla's southern realm and the emerging northern power vacuum, distinguishing royal claims, local material conditions and retrospective interpretation.",
+  "release": "AB",
+  "sourceStatus": "Original contextual source-critical synthesis; independent historical specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Silla–Tang War",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101220",
+      "role": "Contextual chronology of the 670–676 conflict and its territorial aftermath"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Unification of the Three Kingdoms",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026483",
+      "role": "Specialist interpretation of Silla expansion, integration and historical memory"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Former Goguryeo communities, resistance and the northern territorial aftermath"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.1.9:b01",
+      "title": "The shape of Silla's new realm",
+      "paragraphs": [
+        "After the war with Tang, Silla possessed a larger southern peninsular realm but did not control every region once associated with Goguryeo. This asymmetry is essential to interpreting the new order. The old Baekje heartlands were more fully incorporated into Silla's political reach, while northern positions were connected to Tang institutions, displaced populations and emerging independent networks. Maps using a bright single color often conceal uncertainty around frontier zones and seasonal military command. The boundary between effective local supervision and ideological territorial claim changed with time. Territorial expansion had practical implications for managing roads and agricultural districts even where the court's authority was contested."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.9:b02",
+      "title": "Gyeongju and the problem of distance",
+      "paragraphs": [
+        "The Silla capital remained a powerful ceremonial and political center in the southeastern peninsula. Enlarged territory made travel times, supplies and access to administrators more consequential. A decision taken at court had to be transmitted through people familiar with long routes, river crossings and local leadership. Regional elites could use distance to negotiate obligations or resist unwelcome supervision. The eventual development of more elaborate provincial and secondary capital institutions addressed parts of this problem, but those mature arrangements should not be credited to the postwar settlement automatically. The key fact is the mismatch between expanded ambition and the logistical constraints of a court built in an earlier geographic setting."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.9:b03",
+      "title": "Western grain and eastern corridors",
+      "paragraphs": [
+        "The western plains brought important agricultural potential into Silla's sphere. Transporting their produce toward central institutions was not costless, especially where mountain systems interrupted overland movement. River and maritime routes offered alternatives but depended on safe ports, boats and weather. Rural producers could bear the burden of redistribution without enjoying the prestige of royal expansion. Evidence for land management in the immediate aftermath is incomplete, so the historian should not calculate imaginary yields or infer uniform surplus extraction. Nevertheless the physical geography of agriculture helps explain why Silla's political consolidation required institutions capable of coordinating dispersed resources."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.9:b04",
+      "title": "Northern limits and competing networks",
+      "paragraphs": [
+        "North of Silla's strongest peninsular corridors, former Goguryeo communities and Tang frontier agencies continued to interact. Some settlements could become attached to a southern court through alliances, while others remained outside its dependable military reach. The eventual rise of Balhae should not be read backward as if the entire north had been vacant before 698. There were communities, routes and political contenders whose histories are only partially visible. The absence of continuous local archives makes it difficult to map each change. A qualified description must speak of zones of influence and contested approaches, not a single permanent border drawn from later diplomatic conventions."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.9:b05",
+      "title": "Tang after the confrontation",
+      "paragraphs": [
+        "Tang did not cease to exist as an important participant in northeastern political affairs when its peninsula operations failed to produce permanent dominance. The empire maintained resources and ambitions across Liaodong and continued to set conditions for regional diplomacy. A coastal trader or migrant might remain connected to Tang institutions even if his home settlement accepted Silla authority. Diplomatic competition and cultural borrowing were compatible. Later Silla's engagement with Tang learning and Buddhism therefore does not contradict the memory of armed conflict. The postwar order required new terms of interaction, and hostile campaign rhetoric was only one part of its continuing diplomatic history."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 1,
+          "locator": "AKS historical unification and territorial synthesis",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.9:b06",
+      "title": "The significance of 698",
+      "paragraphs": [
+        "The appearance of Balhae at the end of the seventh century altered the northern political balance. Its founding belongs specifically to the Balhae Chapters; here its importance is to show that the northern space was not simply absorbed into Silla after the old kingdoms fell. Former Goguryeo networks, Mohe populations and Tang pressure formed a distinct setting for political consolidation. The precise connections between particular migrants and the new ruling group are matters for source criticism. Describing Balhae only as a restored Goguryeo or a purely separate population would flatten evidence about a mixed and changing frontier. The southern and northern trajectories became intertwined without merging into one state."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.9:b07",
+      "title": "The development of a dual political geography",
+      "paragraphs": [
+        "By the early eighth century the peninsula and adjacent northeast were moving toward a landscape often described through Silla and Balhae. The division was not equivalent to a modern two-state national border, and different regions continued to be shaped by local power. Yet it signaled the limits of the Silla-centered unification story. Governments could exchange envoys, compete over frontier claims and participate in Tang-related systems while organizing different royal institutions. Later historians have debated how to name this period precisely because the categories chosen affect which populations appear central to Korean history. A geographic account must recognize the duality without prematurely narrating the mature relationship."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.9:b08",
+      "title": "Island and coastal perspectives",
+      "paragraphs": [
+        "The southern islands and coastal districts were never merely marginal edges of a land-based polity. Fishing, navigation, shipbuilding and trade connected regions whose overland routes were more difficult. Royal campaigns demonstrate some capacity to mobilize naval resources, but peacetime economic activity cannot be inferred solely from war records. Different coastal groups may have benefited from safer travel while others faced new dues or restrictions. Archaeological evidence of imported wares requires precise dating and cannot on its own identify state sponsorship. Including maritime regions broadens the picture of how the enlarged Silla realm functioned and how it connected with neighboring political worlds."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.9:b09",
+      "title": "Unequal inclusion and provincial futures",
+      "paragraphs": [
+        "The development of more regular provincial arrangements was made necessary by territorial enlargement, but its effects varied among aristocrats, clerks, artisans and farmers. An elite family might view appointment as upward mobility while cultivators saw increased obligations. Different local traditions continued to shape property, burial and ritual practice. Later records of reformed administration do not demonstrate that all districts adopted those systems simultaneously. A careful periodization separates immediate postwar adjustments from subsequent institutional maturation. This prevents the history of Silla's southern realm from becoming an endless foreshadowing of later reforms, and it keeps the human costs of incorporation within view."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.9:b10",
+      "title": "A settlement that remained open",
+      "paragraphs": [
+        "Silla emerged from the seventh-century wars with an enlarged governing sphere, stronger claims to legitimacy and difficult new administrative responsibilities. The northern power vacuum, however, was filled through developments that did not simply extend the Silla state. Tang's remaining influence and the formation of Balhae ensured a continuing plurality of political centers. The new territorial order was significant without being total or final. Its historical importance lies in its effects on settlement, transport, regional elites and the language of political belonging. Chapter IV.1 closes by examining how the immediate aftermath gave way to a more durable but still contested Silla–Balhae relationship."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
