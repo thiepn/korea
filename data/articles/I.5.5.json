@@ -1,0 +1,161 @@
+{
+  "id": "I.5.5",
+  "title": "Liaodong, China, and Continental Exchange",
+  "kicker": "IRON AGE · CONTINENTAL AND MARITIME CONTACT",
+  "description": "Original archaeological and historical synthesis of liaodong, china, and continental exchange, with distinctions among object movement, imitation, status and state authority.",
+  "release": "AC",
+  "sourceStatus": "Contextual institutional provenance, not peer-reviewed or fully source-audited.",
+  "sources": [
+    {
+      "institution": "Daegu National Museum",
+      "title": "Ancient Korean Kingdoms and Early Iron Age",
+      "url": "https://daegu.museum.go.kr/eng/sub02_01_01_03.do",
+      "role": "Period and regional contacts, early iron diffusion and commerce"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Daho-ri Tomb No.1: trade and burial goods",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list",
+      "role": "Specific mixed imported and local burial assemblage of late first century BCE"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya Confederacy and iron exchange",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Later developments from Byeonhan, Nakdong iron resources, maritime ties; must not retroject Gaya state onto early period"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Korean-type Bronze Dagger: Emblem of a Ruler",
+      "url": "https://www.museum.go.kr/ENG/contents/E0401000000.do?relicRecommendId=519718&schM=view",
+      "role": "Northeastern exchange comparisons and late bronze early iron coexistence"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.5.5:b01",
+      "title": "A corridor, not an outside influence",
+      "paragraphs": [
+        "Liaodong linked communities across the continental northeast through river valleys, coastlines and movement between fortified settlements. Iron technology, distinctive bronze forms, ornaments and ideas about political prestige circulated within that world before the establishment of mature Korean kingdoms. It is misleading to describe every shared object as a passive import from an already unified China into an unchanging Korea. People on both sides of later national boundaries participated in exchange, and several political regimes competed to regulate routes. The excavation of a continental-style item in a peninsula grave proves connection or imitation, not that its owner obeyed a distant court. Geography enabled repeated encounters without determining the terms under which they occurred."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "Daegu ancient states and early iron networks"
+        }
+      ]
+    },
+    {
+      "id": "I.5.5:b02",
+      "title": "Before and after the Han commanderies",
+      "paragraphs": [
+        "The late second-century BCE expansion of Han authority into the northeastern frontier altered the institutions through which trade and diplomacy could be managed. The conquest of Wiman Joseon in 108 BCE and subsequent commandery development are treated fully in Chapter II.2 and II.3; their relevance here is economic. Officials, merchants, soldiers and households operated through overlapping supply and exchange networks that could bring manufactured objects into different parts of the peninsula. A coin or bronze mirror may reflect these connections, but individual acquisitions were not necessarily government gifts. Dates of state policy must be kept separate from dates of artifact deposition, which can lag behind manufacture."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "I.5.5:b03",
+      "title": "Mirrors as circulating valuables",
+      "paragraphs": [
+        "Chinese mirrors appear in selected rich burials, including the Daho-ri assemblage. Their material and inscriptions sometimes permit more precise typological study than anonymous fragments of iron, but a mirror's age is not always the burial's age. An heirloom could be retained for generations, or an imported object might inspire a locally adapted copy. The find reveals access to distinctive goods and perhaps prestige associated with faraway contacts. It does not prove that all residents participated in coin-mediated international commerce. A historian must analyze the object, the grave context and the range of possible movements rather than treating the label imported as a complete account of economic exchange."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "NMK Gaya overview of later iron maritime system"
+        }
+      ]
+    },
+    {
+      "id": "I.5.5:b04",
+      "title": "Coins and the limits of monetization",
+      "paragraphs": [
+        "The appearance of Han-period coins in early archaeological contexts is significant because coins circulated within expansive continental systems of accounting and payment. Outside those systems, however, they could be valued as metal, ornaments or prestigious foreign objects. Their presence does not demonstrate that farmers settled everyday purchases in official currency. A small number of burial coins especially cannot establish price levels or wages. Monetary practices require evidence for repeated transactions, hoards, commercial settings and institutional enforcement. Continental contact offered possibilities for new forms of valuation while many local exchanges remained structured by goods, obligations and relationships. The economic histories of contact and monetization should not be collapsed."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "I.5.5:b05",
+      "title": "Travel carried technologies as well as objects",
+      "paragraphs": [
+        "Craftspeople, traders and migrants could transmit techniques without transporting finished goods in every case. A local smith might copy a form seen on a visiting merchant, or a workshop could adapt heat treatment learned through contact with a new worker. Such movement leaves a subtler archaeological record than an imported mirror. Similarity of design alone cannot determine the direction of transmission, particularly when communities shared practical challenges. Metallurgical analysis, stratigraphy and dated production debris are better checks on assertions of direct technological borrowing. The spread of iron illustrates this complexity: obtaining an object is one step; establishing reliable local production requires skills, fuel and social support."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "Daegu ancient states and early iron networks"
+        }
+      ]
+    },
+    {
+      "id": "I.5.5:b06",
+      "title": "Political borders changed the costs of exchange",
+      "paragraphs": [
+        "Periods of warfare or political reorganization could increase tolls, reroute traffic or create demand for equipment. Even a fortified frontier did not necessarily close all movement. Officials might seek supplies from local communities, while smugglers or kin networks moved goods outside authorized routes. Contemporary written notices are uneven and often interpret commerce through concerns about security or tribute. It would be unsound to draw a single continuous caravan road from all continental-style objects found at distant sites. Archaeological distributions show contact zones and possible pathways, not always a direct sequence of journeys. Political power shaped exchange without completely containing it."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "I.5.5:b07",
+      "title": "The western shore and inland approaches",
+      "paragraphs": [
+        "Liaodong connections could reach peninsular communities through coastlines as well as overland passages. River mouths, protected bays and seasonal shipping conditions affected the practical costs of movement. A small coastal vessel might link locations that were difficult to connect across mountain ranges. The intersection of maritime and inland networks makes linear east-to-west diffusion models too simple. Objects produced in one place might travel through several intermediaries before arriving in another. Without cargo manifests, the number and organization of these journeys remain uncertain. Combining topography with dated finds yields a more cautious reconstruction than assuming every foreign artifact arrived as part of official diplomacy."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "NMK Gaya overview of later iron maritime system"
+        }
+      ]
+    },
+    {
+      "id": "I.5.5:b08",
+      "title": "Social hierarchy and access to distant goods",
+      "paragraphs": [
+        "Prestige objects from continental networks often occur in conspicuous burials, suggesting that high-status households used access to rare materials to distinguish themselves. A leader might reward allies or display relationships beyond the local region through imported equipment. But burial expenditure is a performed social statement, not a transparent bank account. Some objects were interred after long use, while most ordinary transactions left no durable evidence. The circulation of valuables could strengthen inequality without telling us precisely who controlled ships or mines. A study of exchange must combine the material signs of privilege with questions about the agricultural and craft labor that supported it."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "I.5.5:b09",
+      "title": "Local choices in a connected world",
+      "paragraphs": [
+        "Not every community adopted the same foreign forms. Some maintained local bronze styles alongside iron, while others changed pottery or funerary practice. Selective adoption could reflect prestige, tool function, religious meaning or resistance to particular patterns of elite display. It cannot always be explained by physical distance from the mainland. Communities were able to reinterpret imported objects, and local imitation does not make an artifact historically less significant. The process was active cultural and technical choice within shifting relationships. Reconstructing it requires resisting the habit of labeling materials advanced or backward according to their similarity to a continental model."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Selected institutional source documents the material exchange setting; route reconstruction remains conditional.",
+          "locator": "Daegu ancient states and early iron networks"
+        }
+      ]
+    },
+    {
+      "id": "I.5.5:b10",
+      "title": "The scope of continental connections",
+      "paragraphs": [
+        "Continental exchange contributed to changing iron use and political resources, but it neither created a uniform peninsula economy nor made local states an inevitable consequence of Han contact. Regions differed in access, skills and willingness to reorganize production. Later histories of commandery government, Goguryeo diplomacy and interstate rivalry own their institutional narratives. This article has focused on material pathways and the ambiguous meanings of imported objects. The following studies examine how the Yellow Sea and the Japanese archipelago made the south part of wider maritime systems. Continental routes were one component of an interconnected northeast Asian world rather than its sole organizing axis."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
