@@ -1,0 +1,161 @@
+{
+  "id": "IV.2.10",
+  "title": "Gyeongju, the Court, and the Geography of Central Power",
+  "kicker": "UNIFIED SILLA · REVENUE, DEFENSE AND CAPITAL",
+  "description": "Evidence-conscious historical account of gyeongju, the court, and the geography of central power, separating surviving documents and sites from institutional inference.",
+  "release": "AC",
+  "sourceStatus": "Original contextual synthesis, independent specialist review not performed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Unified Silla institutions and economic administration",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Government structure, land-related rights, religious patronage and regional institutions"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Nine provinces, five secondary capitals and ten military commands: military geography",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003117234",
+      "role": "Scholarly discussion of military garrisons and strategic center distribution"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gyeongju Historic Areas",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "role": "Wolseong, Hwangnyongsa, Namsan, tumuli and fortification belts as archaeologically preserved capital environment"
+    },
+    {
+      "institution": "Okayama University",
+      "title": "The Silla Village Register and its disputed village locations",
+      "url": "https://ousar.lib.okayama-u.ac.jp/ja/70053",
+      "role": "Specific surviving register and methodological constraints of extrapolating economic and population categories"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.2.10:b01",
+      "title": "An old capital of a larger kingdom",
+      "paragraphs": [
+        "Gyeongju remained Silla's principal royal center after territorial expansion, even as the enlarged realm extended far to the west and north. The city's location in the southeastern peninsula was historically meaningful: it tied the monarchy to inherited sacred and aristocratic landscapes while making communication with distant provinces more demanding. Palaces, administrative sites, temples and elite residential areas concentrated people and resources. The capital was not simply a ceremonial backdrop for royal decrees. Its institutions depended upon supplies arriving from wider regions and upon the skilled labor of residents whose names rarely enter court histories. Urban history is therefore a history of governance and unequal economic connections."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "NIKH Unified Silla institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.10:b02",
+      "title": "Wolseong and political proximity",
+      "paragraphs": [
+        "The Wolseong palace area formed a central setting of royal activity, with fortifications and structures whose archaeological phases span long periods. Proximity to the palace could offer influential families access to the king and information about appointments. Yet a surviving building foundation does not disclose the exact conversation or decision made there. Court organization also involved officials working in specialized departments outside the ceremonial center. The geography of proximity mattered because personal audiences, document delivery and movement among elite households were part of political practice. Gyeongju's built form embodied authority while requiring cautious interpretation of its changing architectural phases."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.10:b03",
+      "title": "Hwangnyongsa and the royal order",
+      "paragraphs": [
+        "The monumental Hwangnyongsa complex, founded before unification and developed through subsequent phases, exemplifies the intersection of Buddhism, royal patronage and public authority. Its large structures required coordinated material supply and expert artisanship. In historical interpretation a temple could express hopes for protection or dynastic legitimacy without reducing all worship to state propaganda. Archaeological evidence confirms built investment, but patrons' motives are known only through selective texts. Religious specialists and lay communities interacted within this environment in ways not fully captured by royal commemorations. The capital's sacred geography was a political resource whose meanings extended beyond the crown's immediate aims."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "UNESCO preserved Gyeongju palace and fortification landscapes"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.10:b04",
+      "title": "Donggung and the ceremonial city",
+      "paragraphs": [
+        "The palace landscape around Donggung and Wolji reveals an elite environment of constructed water, buildings and ceremonial movement. Excavations provide evidence of construction, consumption and material styles, but artifacts recovered in water or occupation deposits must be dated carefully. Objects associated with the royal residence do not describe every inhabitant of the city. Maintaining landscaped spaces required regular labor and resources, so their magnificence also speaks to the economic capacity of the court. The city was an arena in which authority could be displayed and experienced through places. Its archaeological record complements, rather than replaces, the political narratives of the royal chronicles."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.10:b05",
+      "title": "Elite tombs and an unequal urban society",
+      "paragraphs": [
+        "The celebrated burial mounds of Gyeongju preserve material evidence of high-status households and their efforts to commemorate social position. Many important tombs belong to periods before full unification, so they should not be used carelessly as direct evidence for an eighth-century administrative office. Their presence nonetheless shows the deep local roots of aristocratic prestige. Later funerary practices changed, influenced in part by Buddhist beliefs. Archaeological sites document shifting forms of elite display across centuries. The capital's social hierarchy was not limited to visible royal tombs: workers, merchants, servants and ordinary households sustained urban life with much weaker archaeological representation."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "NIKH Unified Silla institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.10:b06",
+      "title": "Markets, specialists and court consumption",
+      "paragraphs": [
+        "Large concentrations of officials, clergy and elite households created demand for food, cloth, furniture, ceramics and imported luxuries. Rural districts and coastal traders supplied some of these needs, while urban artisans produced and repaired goods. A palace object might reveal technical sophistication but not the wage or social status of its maker. Long-distance exchange with Tang and other regions contributed to material variety, though imported goods alone do not establish the volume of everyday commerce. Gyeongju's economy combined government redistribution, family resources and transactions difficult to reconstruct precisely. Capital centrality was an economic as well as a symbolic relationship with the countryside."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.10:b07",
+      "title": "Roads connecting the center",
+      "paragraphs": [
+        "Orders and supplies traveled between Gyeongju, provincial seats, secondary capitals and local settlements. Routes through mountains and river systems imposed costs, and their reliability depended on maintenance and political security. The placement of regional administrative and military centers partly addressed these logistical difficulties. A courier's journey is rarely narrated in court histories, yet communication could fail without such work. The royal center relied on numerous intermediaries whose local knowledge and cooperation were essential. A map connecting Gyeongju to every province must therefore be interpreted as a representation of possible official networks, not a guarantee of constant contact with every village."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "UNESCO preserved Gyeongju palace and fortification landscapes"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.10:b08",
+      "title": "Rank spatially organized",
+      "paragraphs": [
+        "Bone-rank privilege shaped access to offices and marriage networks among elite households, influencing who could occupy positions close to the court. The capital's residential and ceremonial geography likely reflected these social differences, although material features cannot be translated directly into named status ranks without supporting records. Aristocrats could use urban proximity to maintain alliances and compete over royal appointments. Provincial elites visiting Gyeongju faced a hierarchy whose rules were not equal to those governing regional leadership. The spatial concentration of prestige helped the court coordinate governance while reinforcing social exclusion. Capital power operated through lived relationships as much as through formal decrees."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.10:b09",
+      "title": "Urban archaeology and incomplete reconstruction",
+      "paragraphs": [
+        "The UNESCO-listed Gyeongju historic areas include the palace, temple, tumuli, mountain and fortress landscapes. Together they demonstrate the scale of Silla's preserved material heritage, but each archaeological site contains phases that must be distinguished chronologically. Modern reconstructions should not present a complete eighth-century street plan where evidence supports only fragments. Conservation decisions also affect what visitors see today. The historian's responsibility is to explain both the significance and the limits of these remains. The beauty of a surviving monument can make the labor, inequality and missing voices behind its construction less visible unless analysis deliberately reconnects them."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source contextualizes fiscal, military or capital archaeology, not every individual narrative inference.",
+          "locator": "NIKH Unified Silla institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.10:b10",
+      "title": "Centrality and dependence",
+      "paragraphs": [
+        "Gyeongju anchored the Silla monarchy, high aristocracy, executive offices, learning and ritual institutions. Yet its authority was sustained through regional resources, movement of people and local cooperation. A powerful capital could not simply command a map; it needed governors, clerks, soldiers, transport workers, cultivators and specialists to make government operate. This concluding article joins the Chapter's themes of monarchy, bone rank, bureaucracy, territorial administration, registration, finance and defense. The result was an institutionalized but unequal state whose capabilities changed across centuries. The next studies of society and culture follow inhabitants beyond the administrative perspective, without assuming that court institutions determined every aspect of their lives."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
