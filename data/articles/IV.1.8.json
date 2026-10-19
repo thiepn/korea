@@ -1,0 +1,155 @@
+{
+  "id": "IV.1.8",
+  "title": "Integration Ideology and the Idea of the Three Han under One Rule",
+  "kicker": "SILLA, FORMER KINGDOMS AND BORDERLANDS",
+  "description": "Original evidence-conscious history of integration ideology and the idea of the three han under one rule, distinguishing royal claims, local material conditions and retrospective interpretation.",
+  "release": "AB",
+  "sourceStatus": "Original contextual source-critical synthesis; independent historical specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Silla–Tang War",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101220",
+      "role": "Contextual chronology of the 670–676 conflict and its territorial aftermath"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Unification of the Three Kingdoms",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026483",
+      "role": "Specialist interpretation of Silla expansion, integration and historical memory"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Former Goguryeo communities, resistance and the northern territorial aftermath"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.1.8:b01",
+      "title": "The language of Three Han unity",
+      "paragraphs": [
+        "Political unification was not only an arrangement of military positions; it required a language through which rulers and subjects could understand new authority. Silla traditions of the Three Han under one rule offered a way to present the integration of former kingdoms as a legitimate accomplishment. The phrase had a complex historical genealogy and should not be mistaken for an exact description of the older Mahan, Jinhan and Byeonhan confederacies at a single date. By the later seventh century it could serve a political purpose wider than those early ethnonyms. The historical question is how a court used the language of shared space to strengthen obedience within a realm whose communities retained different memories."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.8:b02",
+      "title": "A court's claim and a population's experience",
+      "paragraphs": [
+        "Royal proclamations and historical narratives can establish what a governing elite wished to assert, not what every inhabitant believed. A former Baekje agricultural village might experience new officials and taxes more concretely than a slogan of unity. A former Goguryeo aristocrat in the Silla court might emphasize both earlier descent and current service. The phrase Three Han could make such differences politically manageable by subsuming them within a larger history. Yet its existence is not evidence of uniform popular consent, a standardized language or a modern national identity. The contrast between official representation and lived obligation should guide any account of postwar political culture."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.8:b03",
+      "title": "Retrospective historical architecture",
+      "paragraphs": [
+        "Much of the written material that shapes modern accounts of Silla's unification was preserved or reorganized by later Korean historians. Those authors lived in political worlds with different institutions and questions of legitimacy. Their arrangement of earlier events could make Silla's success appear as the resolution of a long natural sequence of states. Source criticism asks when terminology appears, whose authority it supports and what alternative memories it excludes. This does not render all later accounts unreliable. It requires treating their factual reports and interpretive patterns as different forms of testimony. Unification was an event-filled process and also a historical explanation constructed over centuries."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.8:b04",
+      "title": "The limits of a modern analogy",
+      "paragraphs": [
+        "Calling Silla's achievement the founding of a Korean nation-state would import concepts of citizenship, territorial sovereignty and representative identity that do not fit seventh-century institutions. Conversely, denying any unifying significance because the polity differed from a modern nation can obscure genuine social and administrative transformation. The appropriate scale is a dynastic order that incorporated large portions of former Baekje and Goguryeo communities under Silla kingship. Its reach was unequal, and northern territories were not included. The question is not whether ancient people anticipated a modern state but how their rulers justified hierarchy and integration within the political languages available to them."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.8:b05",
+      "title": "Genealogy and royal legitimacy",
+      "paragraphs": [
+        "Genealogical claims linked kingship to inherited prestige and could help organize a hierarchy that included new elite families. The political use of descent was particularly important when conquered officers sought office or protection. However, later noble lineages sometimes expanded or rearranged their pedigrees to justify status. Such documents need chronological scrutiny rather than automatic acceptance as accurate seventh-century records. A marriage alliance might be represented by its beneficiaries as evidence of natural affinity after the fact. Understanding these claims helps explain why the integration of aristocracies was also a struggle over memory. The official idea of unity could mask competition within the court rather than eliminating it."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 1,
+          "locator": "AKS historical unification and territorial synthesis",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.8:b06",
+      "title": "Public ritual and religious patronage",
+      "paragraphs": [
+        "Ceremonies, royal Buddhist foundations and commemorative offerings could express a larger political order through visible acts. Such rituals involved specialists, gifts and communities, making political ideology a material practice rather than merely a statement. Yet not every temple or image should be interpreted as propaganda for unification; patrons might seek merit, local prestige or support for family memory. Dating and regional context are decisive. Court-sponsored religious action could establish a shared idiom while accommodating existing local customs. The historian should distinguish what an inscription declares from what archaeology demonstrates and from what remains unknown about ordinary worshippers."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.8:b07",
+      "title": "Material exchange and shared practice",
+      "paragraphs": [
+        "The spread of some elite styles and administrative practices across the enlarged realm may reflect political integration, but objects alone cannot establish uniform identity. Artisans could migrate, merchants could carry fashions and local workshops could adapt imported motifs selectively. The disappearance of a particular ceramic type might result from production changes rather than coercive suppression of a conquered culture. Inscriptions and burial evidence provide additional but unequal perspectives. A careful account uses patterns of exchange as evidence of connection without equating cultural similarity with political unity. The formation of a wider cultural world was gradual, uneven and shaped by the active choices of many communities."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang postwar chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.8:b08",
+      "title": "Who could belong",
+      "paragraphs": [
+        "Official categories of inclusion may have had different consequences for ranked men, common cultivators, people held in dependent status, women and children. Elite service could be rewarded with titles, while most residents experienced the new realm through military levies, taxes and local supervision. Access to the highest court offices remained unequal. Later narratives of harmonious unification rarely specify how those inequalities were negotiated. Asking who benefited from incorporation does not require assuming that everyone resisted. It reveals that a shared political name could encompass divergent social positions. The human scale of unity must be tested through material conditions and institutions rather than inferred from a celebratory chronicle."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.8:b09",
+      "title": "The north omitted from triumph",
+      "paragraphs": [
+        "The political language of Three Han unity risk treating northern populations beyond Silla's effective jurisdiction as historical absences. Former Goguryeo people resided across the Tang frontier and in northeastern regions where a new polity eventually appeared. Their existence complicates an account in which the history of the peninsula moves exclusively through Silla's court. Balhae's own identity and institutions require distinct treatment, but the postwar problem was already visible: Silla could claim a broad historical synthesis without governing the whole former Goguryeo world. An honest territorial history must separate political rhetoric from the distribution of surviving populations and new states."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "This institution contextualizes the subject but does not independently prove every inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Goguryeo population and frontier history",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.8:b10",
+      "title": "The work of an unfinished idea",
+      "paragraphs": [
+        "The unification formula gave Silla's government a language of legitimacy at a time when incorporation still required coercion, bargaining and institutional reform. It outlasted the immediate generation and influenced the later ordering of Korean history. Its endurance makes it an important subject of intellectual and political history, but not a description to be adopted uncritically as the historian's own framework. The phrase reveals how rulers narrated a changed world and how later chroniclers reinterpreted that narration. The next study examines the actual geography of Silla's southern realm and the unsettled north that such an ideology could neither fully encompass nor erase."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
