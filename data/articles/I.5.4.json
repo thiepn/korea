@@ -1,0 +1,161 @@
+{
+  "id": "I.5.4",
+  "title": "Craft Specialization and Expanding Production",
+  "kicker": "EARLY IRON AGE · REGIONAL ECONOMIES",
+  "description": "Source-critical examination of craft specialization and expanding production, with distinctions among archaeological observation, museum interpretation and economic inference.",
+  "release": "AC",
+  "sourceStatus": "Original historical synthesis with contextual museum references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Museum of Korea",
+      "title": "Daho-ri Tomb No. 1: trade goods, metal tools and early elites",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list",
+      "role": "Excavated assemblage and curatorial interpretation of iron, exchange and status in the southern peninsula"
+    },
+    {
+      "institution": "Daegu National Museum",
+      "title": "Ancient Korean kingdoms: early iron and regional manufacture",
+      "url": "https://daegu.museum.go.kr/eng/sub02_01_01_03.do",
+      "role": "Museum synthesis of early iron diffusion, regional material change and southern economic centers"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Metal, Iron and Steel: the Cultural History of Iron",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202010000.do?exhiSpThemId=174666&listType=&menuId=current&schM=view",
+      "role": "Curatorial history of productive technologies and social uses, not a firsthand metallurgical census"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Korean-type Bronze Dagger: Emblem of a Ruler",
+      "url": "https://www.museum.go.kr/ENG/contents/E0401000000.do?relicRecommendId=519718&schM=view",
+      "role": "Late bronze and early iron coexistence, authority objects and regional distinctions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.5.4:b01",
+      "title": "The workshop as a social place",
+      "paragraphs": [
+        "Craft production involves more than the object that survives. A workshop is a setting in which people learn techniques, manage heat, prepare materials, and make decisions about quality. In the Korean Early Iron Age, some artisans worked with iron while others manufactured pottery, lacquered wood, textiles, bone implements or bronze ornaments. Archaeology preserves these materials unequally, so metal-rich finds should not eclipse crafts whose organic residues rarely survive. A community able to support full-time or seasonal specialists depended upon food producers and transport networks. The number of finished artifacts can suggest demand but does not establish how many artisans were employed or whether they operated independently of chiefs."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK Daho-ri wood-coffin burial assemblage"
+        }
+      ]
+    },
+    {
+      "id": "I.5.4:b02",
+      "title": "Learning skilled routines",
+      "paragraphs": [
+        "A smith had to judge temperature, carbon content, striking technique and cooling conditions without the instruments of a modern laboratory. Such knowledge was learned through repetition, observation and controlled experimentation within particular material traditions. Apprenticeship may have involved family relations or movement between settlements, though direct records are absent. Differences in metal composition and forging methods can identify technological variation, but they do not necessarily reveal separate ethnic groups. A skilled craftsperson might adapt imported forms to local customer needs. The transmission of know-how was therefore a social history of trust, teaching and access to material resources, not simply the diffusion of an isolated invention."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "I.5.4:b03",
+      "title": "Bronze does not disappear",
+      "paragraphs": [
+        "Iron did not end the production or prestige of bronze. Korean-type bronze daggers and ritual implements persisted within settings that also contained iron weapons and utilitarian tools. Different materials satisfied different demands: an ornate bronze object could signal authority while iron served in equipment expected to absorb wear. The National Museum's early iron collections demonstrate this overlap clearly. Sorting artifacts into successive ages is useful as broad archaeological periodization, but it can conceal the actual coexistence of older and newer techniques. Workshops might specialize in both materials or rely on different artisans linked by the same patrons. Change in the dominant metal was a gradual and regionally uneven adjustment."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK iron-production curatorial exhibition"
+        }
+      ]
+    },
+    {
+      "id": "I.5.4:b04",
+      "title": "Pottery, kiln work and storage",
+      "paragraphs": [
+        "Specialized potters shaped containers necessary for storing food, transporting goods and serving ritual or domestic meals. Changing firing methods and forms reveal technical choices that do not necessarily track political borders. A new pottery style could spread through exchange, imitation, relocation or shared practices; it is not proof of direct conquest. Kiln remains, misfired vessels and standardized dimensions can offer stronger evidence for local production than isolated pots in graves. Pottery also supported iron economies by carrying water, food and some processing materials. Treating metalworking in isolation would obscure the crafts that made productive specialization viable and visible in everyday settings."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "I.5.4:b05",
+      "title": "Wood, lacquer and the preservation problem",
+      "paragraphs": [
+        "Organic crafts played significant roles despite their limited survival. At Daho-ri, exceptional preservation reveals lacquered objects, wooden items and equipment alongside metal goods. Such assemblages make clear how much of an ordinary artifact economy can disappear in dry or disturbed soils. A wooden handle may have determined an iron tool's balance, yet only the blade is found. Fine lacquerware also required coordinated work on materials, surface preparation and finishing, implying specialized knowledge beyond metal production. The preservation of such objects should prompt caution about regions where none survive. Absence of recovered lacquer is not evidence that a community lacked every form of sophisticated woodcraft."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK Daho-ri wood-coffin burial assemblage"
+        }
+      ]
+    },
+    {
+      "id": "I.5.4:b06",
+      "title": "Household producers and elite commissions",
+      "paragraphs": [
+        "Some crafts could be made within households for family use, while other objects required specialist facilities or were commissioned by wealthier patrons. These categories were not mutually exclusive: a potter might make routine containers alongside ceremonial wares. Elite graves disproportionately preserve exceptional objects, encouraging the illusion that all production served rulers. Recoveries from dwelling areas and discard pits help correct that distortion. The relationship between patrons and makers could involve gifts, food support, coercive labor or exchange, and surviving artifacts rarely disclose the exact contract. Asking who controlled the product is as important as identifying who had the technical capacity to make it."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "I.5.4:b07",
+      "title": "Standardization and its ambiguities",
+      "paragraphs": [
+        "Repeated dimensions and forms among implements may indicate patterns of teaching, shared molds or production for broader distribution. But a similar tool might also arise because it solved a common practical problem. Standardization is not proof of a centralized state ordering every workshop. Metallurgical comparison, production debris and spatial distribution must be assessed together. Even where a region became known for abundant iron, individual centers may have maintained distinct methods and trading partners. Historical reconstruction should separate observable resemblance from proposed organization. This distinction prevents the language of industry from obscuring the smaller-scale and flexible productive arrangements typical of early complex communities."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK iron-production curatorial exhibition"
+        }
+      ]
+    },
+    {
+      "id": "I.5.4:b08",
+      "title": "Repairers, traders and the secondary economy",
+      "paragraphs": [
+        "Workshops did not create value only by producing new goods. Repairing broken blades, replacing fittings, recycling scrap and refashioning imported materials sustained households through ordinary use. Traders could collect damaged objects for reworking or convey replacement equipment along regional routes. Archaeological deposits containing cut fragments or incomplete tools can reveal this secondary activity, though dating and interpretation remain challenging. A repaired implement may combine metal from several original sources, undermining simple provenance claims. The economy of maintenance also distributed expertise beyond the principal production center. A community could participate intensely in iron technology without possessing ore or a smelting furnace."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "I.5.4:b09",
+      "title": "Power and skilled labor",
+      "paragraphs": [
+        "Chiefs and wealthy families might protect or attempt to control specialists whose products enabled warfare, farming or prestige exchange. Skilled workers could receive resources in return, but their dependence was shaped by alternatives and political competition. There is insufficient direct evidence to claim that every ironworker belonged to a hereditary state-run guild. Craft households may have moved between patrons or supplied local markets under negotiated terms. Burial wealth indicates status differentiation, not a complete list of ownership rights over labor. The political role of craft production must therefore be approached through questions about resources, demand, organization and mobility rather than an imagined early industrial bureaucracy."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Museum evidence contextualizes the archaeological setting, not every asserted social mechanism.",
+          "locator": "NMK Daho-ri wood-coffin burial assemblage"
+        }
+      ]
+    },
+    {
+      "id": "I.5.4:b10",
+      "title": "Many crafts, many regional trajectories",
+      "paragraphs": [
+        "Expanding craft production contributed to early regional economic specialization, but it did not erase older material traditions or create uniform workshops across the peninsula. Coastal networks, upland settlements and river valleys supplied different combinations of raw materials, labor and customers. A productive center might flourish when routes were secure and decline when political control or demand changed. The archaeological record captures only fragments of those histories, weighted toward durable goods and exceptional deposits. This article has examined how knowledge and work connected people to goods; subsequent studies consider the land and maritime routes through which they encountered neighboring economies. Material complexity is not identical with political unity."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
