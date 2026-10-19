@@ -1,0 +1,161 @@
+{
+  "id": "I.5.9",
+  "title": "Wealth, Exchange, and Economic Power",
+  "kicker": "IRON AGE · ECONOMIC NETWORKS AND REGIONAL DIFFERENCE",
+  "description": "Regional archaeology of wealth, exchange, and economic power, distinguishing excavated evidence, economic possibility and historical inference.",
+  "release": "AC",
+  "sourceStatus": "Original interpretive synthesis supported by contextual museum evidence; specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Daegu National Museum",
+      "title": "Ancient Korean kingdoms: materials, exchange and emergence of states",
+      "url": "https://daegu.museum.go.kr/eng/sub02_01_01_03.do",
+      "role": "Regional material culture and early iron distribution"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Daho-ri tomb and objects",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list",
+      "role": "An excavated set of local and imported material and elite display"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Cultural History of Iron",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202010000.do?exhiSpThemId=174666&listType=&menuId=current&schM=view",
+      "role": "Technical and socioeconomic context of iron use"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Gaya and the Nakdong iron exchange",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030700.do?showHallId=760&showroomCode=DM0007",
+      "role": "Later developing exchange corridors; avoid projecting mature Gaya into prehistoric settlements"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "I.5.9:b01",
+      "title": "Wealth is visible selectively",
+      "paragraphs": [
+        "The archaeology of early Korean societies makes inequality conspicuous in selected richly furnished graves, yet these are not a neutral sample of all households. Funeral expenditure reflects rituals, social claims and decisions by surviving kin. Valuable bronze ornaments, iron weapons and imported mirrors can signal prestigious connections without documenting annual income or the number of dependents controlled by the deceased. Most people left fewer durable objects. An explanation of economic power must therefore compare burial evidence with settlements, production areas and resource geography. Rich tombs reveal social differentiation while leaving open whether a chief drew authority from land, military followers, ritual prestige or access to exchange."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "Daegu early iron material and regional exchanges"
+        }
+      ]
+    },
+    {
+      "id": "I.5.9:b02",
+      "title": "Daho-ri and competing forms of prestige",
+      "paragraphs": [
+        "The Daho-ri tomb assemblage is especially informative because it joins iron farm and military tools with mirrors, coins, lacquered goods and other imported valuables. These items suggest that access to long-distance connections could contribute to the standing of particular individuals. Their combination does not prove that the person interred controlled every source of production. A single exceptional grave may reflect a local lineage using an unusually elaborate funeral to emphasize its political claims. Imported goods also acquired meanings within local ceremonies different from those attached to them elsewhere. The find encourages analysis of multiple sources of prestige rather than a simple equation between iron ownership and kingship."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "I.5.9:b03",
+      "title": "Command over productive resources",
+      "paragraphs": [
+        "A powerful family might influence land, woodland, access to ore or the labor of specialists. Such control could support the provisioning of retainers and competitive display, but there is limited direct evidence for the precise rights involved. Ownership should not be assumed to resemble later codified estates or modern corporate holdings. Some resources were likely managed through kin agreements, shared use or negotiated claims. If a settlement appears to specialize in metalwork, that observation still does not identify the political owner of its furnace. The historian must keep control of labor and access to finished products distinct, even when both contributed to the accumulation of prestige."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "NMK early iron use in economy and power"
+        }
+      ]
+    },
+    {
+      "id": "I.5.9:b04",
+      "title": "Gifts, feasts and political relationships",
+      "paragraphs": [
+        "Prestigious goods may have been distributed at gatherings where leaders sought loyalty, arranged marriages or mediated disputes. Anthropological comparison suggests plausible mechanisms, but analogies are not direct records of ancient Korean rituals. The presence of elaborate serving vessels or imported ornaments is consistent with ceremonial consumption, not proof of an exact feast or speech. A successful leader might build relationships through generosity while expecting future service. Recipients could evaluate competing patrons according to protection and access to resources. Economic power here consisted partly in the ability to assemble and redistribute goods under socially recognized expectations. It cannot be reduced to the storage of metal alone."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "I.5.9:b05",
+      "title": "The political consequences of iron weapons",
+      "paragraphs": [
+        "Iron weapons altered the equipment available for conflict, though effectiveness depended on training, tactics, repair and the organization of fighters. A leader who could supply blades might acquire military advantage, but a weapon-rich burial does not reveal how many soldiers followed that person in life. Fortifications, settlement defensibility and evidence of burning must be dated before linking them to armed competition. Widespread access to iron could also limit the exclusivity of elite armaments. Military advantage was therefore contingent on controlling people and provisions, not on metal technology in isolation. Political centralization requires further explanation beyond the archaeological appearance of swords and spearheads."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "Daegu early iron material and regional exchanges"
+        }
+      ]
+    },
+    {
+      "id": "I.5.9:b06",
+      "title": "The cost of extracting surplus",
+      "paragraphs": [
+        "Elite projects depend on the work of others. Supporting craft specialists, exchange visitors or armed retainers required food, housing and labor that agricultural households produced. Such obligations may have been justified through protection, ritual and kinship, but written tax schedules from this early period do not survive. The material remains of larger settlements can suggest capacities for storage and coordinated construction without identifying whether participation was voluntary. If hierarchy deepened, some households probably bore disproportionate burdens. A history limited to prestige goods would celebrate the visible result while ignoring these inputs. Economic power must be analyzed from the standpoint of both collectors and providers of resources."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "I.5.9:b07",
+      "title": "Trade partners and bargaining power",
+      "paragraphs": [
+        "Connections to continental and archipelago networks may have made some settlements valuable intermediaries. A coastal group could regulate landing sites, while an inland producer might control access to ore or skilled smiths. Their relative power depended on alternatives: a trader could seek another harbor, and a village might patronize a competing leader. There is insufficient evidence to quantify profits or to reconstruct fixed prices. Exchange therefore offers a model of negotiated influence, not proof of a monopoly established by one emerging state. Regional political competition likely changed the terms of access. The relationship between trade and power operated through concrete bottlenecks and alliances rather than an inevitable economic law."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "NMK early iron use in economy and power"
+        }
+      ]
+    },
+    {
+      "id": "I.5.9:b08",
+      "title": "Burial competition and imitation",
+      "paragraphs": [
+        "Wealthy graves may have stimulated imitation as nearby families sought similar forms of recognition. The spread of an ornament style could reveal shared prestige conventions rather than direct control of all participating communities. Changes in funeral practice also complicate comparisons: a region with modest burial goods might have substantial productive resources invested elsewhere. Status could be demonstrated through feasting, architecture or alliances not preserved archaeologically. The historian should therefore avoid treating a map of lavish graves as an exhaustive hierarchy of rulers. Burial assemblages are evidence of choices about memory and display, while the economic relationships sustaining those choices require separate investigation."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "I.5.9:b09",
+      "title": "Households outside elite exchange",
+      "paragraphs": [
+        "Farmers, fishers and craft laborers participated in economic networks even when they never possessed imported mirrors. Their work produced the food and materials that enabled exchange. Some might benefit from improved tools or access to distant goods, whereas others experienced requisition or restricted mobility. The record seldom permits reconstruction of specific household incomes. Domestic pottery, settlement layout and tool use can offer alternative perspectives to the grave assemblages of leading families. Economic inequality should be studied through differences in opportunity and obligation rather than solely by contrasting gold with plain clay. Such an approach places everyday labor within the explanation of political power."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Material comparison is institutionally grounded, but precise exchange mechanisms remain inferential.",
+          "locator": "Daegu early iron material and regional exchanges"
+        }
+      ]
+    },
+    {
+      "id": "I.5.9:b10",
+      "title": "Economic influence without predetermined states",
+      "paragraphs": [
+        "Metal production and long-distance exchange expanded the resources available to regional leaders, but economic importance did not guarantee durable dynastic rule. Political outcomes depended on alliances, warfare, kin succession, geography and the capacity to resolve conflict among local communities. Some influential networks eventually formed part of developing polities; others may have been absorbed, redirected or abandoned. The next article examines why the Early Iron Age did not unfold uniformly across the peninsula. Treating divergence as a historical problem prevents the material record from being forced into a single ladder of political evolution. Wealth created opportunities and tensions, not an automatically unified economic order."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
