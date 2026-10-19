@@ -1,0 +1,161 @@
+{
+  "id": "IV.2.1",
+  "title": "Royal Authority after Unification",
+  "kicker": "UNIFIED SILLA · ROYAL AND ARISTOCRATIC GOVERNMENT",
+  "description": "Original historical analysis of royal authority after unification, differentiating royal chronology, transmitted administrative descriptions and archaeological testimony.",
+  "release": "AC",
+  "sourceStatus": "Original source-critical synthesis with contextual institutional references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Unified Silla government",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional synthesis of Jipsabu, ministries, Confucian education and administrative structures"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Local Administration Reorganization after the Unification of the Three Kingdoms",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002472164",
+      "role": "Scholarly alternative to treating the province system as invented from nothing after 668"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gyeongju Historic Areas",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "role": "Capital sites, palace complexes, religious and funerary material; not direct evidence for every specific royal decree"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period: collections and historical overview",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Material context for royal capital, Buddhist institutions and the extended political realm"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.2.1:b01",
+      "title": "Victory changed the work of kingship",
+      "paragraphs": [
+        "Silla's monarchy emerged from the seventh-century wars with an enlarged territory and expectations different from those of its earlier southeastern power base. Winning campaigns could strengthen royal prestige, but they could not by themselves arrange appointments, collect grain or manage rival elite households in newly incorporated districts. Royal authority depended on institutions that connected the court to administrators, military officers and local leaders. The history of the settlement belongs to IV.1; here the question is how kings attempted to convert the new situation into durable governing capacity. Later dynastic narratives praise wise sovereigns, while the practical work of maintaining roads and delivering orders is far less visible."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "NIKH government departments and Confucian academy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.1:b02",
+      "title": "Munmu's continuing problems",
+      "paragraphs": [
+        "King Munmu's reign bridged the alliance against Baekje and Goguryeo and the subsequent confrontation with Tang. His later years required managing former rivals as well as defending the territory Silla claimed. Court initiatives must be placed within this shifting situation rather than regarded as the work of a ruler who already controlled a fully integrated state. The legacy of conflict shaped demands for military organization and regional supervision. Royal inscriptions and later chronicles give priority to strategic and ceremonial achievements, not an annual accounting of provincial compliance. It is possible to acknowledge Munmu's political significance while treating the unification process as ongoing rather than complete."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.1:b03",
+      "title": "Sinmun and the reordering of power",
+      "paragraphs": [
+        "Under King Sinmun, conventionally reigning from 681 to 692, the court took important steps toward consolidating royal authority. Accounts of aristocratic opposition and changes in appointments belong to this context, although motives in chronicles can be shaped by later moral interpretation. A monarch seeking to reduce the independence of powerful families needed offices, military commands and predictable revenue channels through which service could be directed. Such reforms did not abolish elite influence. They altered the conditions under which aristocrats sought advancement and regional leaders communicated with the capital. Interpreting the reign as a contest over institutions is more illuminating than simply praising a strong king."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "UNESCO Gyeongju capital heritage sites"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.1:b04",
+      "title": "The shadow of the Kim Heumdol affair",
+      "paragraphs": [
+        "The reported rebellion involving Kim Heumdol in 681 has been interpreted as an opportunity for Sinmun to discipline elements of the aristocracy. The precise scope of the plot and the intentions of every implicated figure cannot be reconstructed with certainty from the transmitted accounts. Political accusations can reveal genuine opposition while also serving the interests of victors who record them. The significance of the episode lies in the monarchy's ability to punish elite challengers and renegotiate relations among households. It should not be extended into a claim that the entire aristocratic order was permanently subordinated. Subsequent court competition shows that royal control remained contingent on coalition management."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.1:b05",
+      "title": "Monarchy and administrative expertise",
+      "paragraphs": [
+        "An enlarged court required officials skilled in correspondence, accounting, command and the interpretation of royal orders. The growth of ministries and the roles associated with Jipsabu created channels for governance that did not depend solely on a king's personal audiences. These structures could strengthen rulers by regularizing business, but they also offered powerful officers access to information and patronage. A ministry's presence in a record does not establish the existence of a modern impartial civil service. Appointment remained shaped by status, family and political relationships. Royal authority became more institutionalized while continuing to operate through elite networks rather than standing outside them."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "NIKH government departments and Confucian academy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.1:b06",
+      "title": "Land and the political economy of reward",
+      "paragraphs": [
+        "The ability to reward supporters was central to royal strategy. Changes in land-related grants or income rights mattered because office, status and material support were linked. Traditional accounts distinguish arrangements such as tax villages and other grants, but the surviving record does not permit a complete budget or a universal map of properties controlled directly by the crown. Reforming entitlements could increase central leverage while provoking resistance from beneficiaries of earlier arrangements. The effects on farmers depended on who demanded produce and how obligations were enforced locally. Understanding kingship through fiscal relationships gives substance to the otherwise vague idea of centralization."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.1:b07",
+      "title": "Religious and educational legitimacy",
+      "paragraphs": [
+        "Buddhist patronage and Confucian education offered different but compatible languages of rulership. Royal support for temples could commemorate victories, honor ancestors and organize prestigious institutions; the National Confucian Academy could prepare a limited number of men for official service. Neither initiative means all subjects adopted identical beliefs or gained access to schooling. Religious architecture at Gyeongju provides material evidence of political investment, while the intentions ascribed to patrons must be evaluated through texts. Ideological projects helped express a shared order, but their social effect depended on resources, teachers, clerics and relationships with regional communities."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "UNESCO Gyeongju capital heritage sites"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.1:b08",
+      "title": "Authority beyond Gyeongju",
+      "paragraphs": [
+        "A king's decisions mattered only where they could be communicated and carried out. Provincial centers, local officers and transport networks formed an essential infrastructure of royal rule. The creation of secondary capitals and reorganized provinces sought to address distance, but governors still depended on local cooperation. Strong central claims could coexist with autonomy at the margins. The presence of an official title does not prove constant supervision of every village. Administrative change should therefore be evaluated through evidence of regional residence, garrison support and fiscal records where available. Royal policy was a process of extending reach through other people, not an instantaneous projection from the palace."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.1:b09",
+      "title": "The unequal shape of centralization",
+      "paragraphs": [
+        "Centralization offered advantages to rulers and selected officials while placing demands on households providing labor, grain and transport. Some regional elites could obtain new posts; others lost independence or access to honors. The social distribution of benefit complicates a celebratory account of royal efficiency. Court chronicles rarely report how ordinary cultivators interpreted new appointments or how much work a road repair required. Archaeological settlement evidence and the surviving village register provide partial approaches to those questions, but they do not measure all local hardship. A polity could become more capable of governing and simultaneously increase pressures on vulnerable populations."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "NIKH government departments and Confucian academy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.1:b10",
+      "title": "A monarchy inside a durable aristocratic order",
+      "paragraphs": [
+        "Royal power after unification was neither fully absolute nor merely ceremonial. Kings could mobilize new offices, negotiate with aristocratic households and redirect resources, yet succession, status and regional conditions continually constrained them. The political significance of Munmu and Sinmun lies in their efforts to reshape institutions within those limitations. This article has emphasized monarchy's governing capacity, not the entire career of individual rulers. The next study in the Chapter examines bone-rank hierarchy as a separate structuring force, while subsequent articles turn to central offices, councils and local administration. Their interaction explains how an enlarged Silla realm was actually ruled."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
