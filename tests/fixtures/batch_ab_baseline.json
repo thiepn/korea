@@ -419,5 +419,6 @@
   },
   "authored_snapshot": "91d4316b7b18d7538e398dc50f08996d51c16cfc",
   "expected_new_words": 20878,
-  "expected_new_passages": 196
+  "expected_new_passages": 196,
+  "expected_source_anchors": 90
 }
