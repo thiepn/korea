@@ -417,7 +417,7 @@
     "IV.1.5": 3,
     "IX.2.4": 3
   },
-  "authored_snapshot": null,
-  "expected_new_words": null,
-  "expected_new_passages": null
+  "authored_snapshot": "91d4316b7b18d7538e398dc50f08996d51c16cfc",
+  "expected_new_words": 20878,
+  "expected_new_passages": 196
 }
