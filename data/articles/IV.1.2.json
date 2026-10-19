@@ -1,0 +1,155 @@
+{
+  "id": "IV.1.2",
+  "title": "Former Baekje Lands after Conquest",
+  "kicker": "SILLA AND ITS NEIGHBORS · POSTWAR TRANSFORMATION",
+  "description": "Original source-critical study of former baekje lands after conquest, distinguishing court claims, regional material evidence, and ordinary experience.",
+  "release": "AB",
+  "sourceStatus": "Original historical synthesis with contextual citations; independent specialist peer review pending.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla–Tang War",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101220",
+      "role": "Chronology of war and post-676 settlement, requiring care with retrospectively transmitted campaign figures"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Unification of the Three Kingdoms",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026483",
+      "role": "Historical synthesis of coalition politics, postconquest authority and the territorial settlement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Andong Protectorate",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034607",
+      "role": "Specific discussion of Tang regional government, prospective administrative units, resistance and movement of headquarters"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.1.2:b01",
+      "title": "Baekje after the royal court",
+      "paragraphs": [
+        "The conquest of Baekje in 660 had removed its dynasty without bringing every district into the same political relationship with a new ruler. Years of restoration attempts, Tang occupation and Silla operations followed. By the post-676 settlement the western and southwestern lands had experienced repeated changes of authority. Former Baekje communities nevertheless retained agricultural fields, lineages, local shrine practices and memories of provincial government. A history restricted to the fate of Sabi's royal house would therefore mistake the collapse of one institution for the end of society. The relevant question is how existing settlements were drawn into a new political network and which relationships survived changes in allegiance."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang war chronology and postwar territorial settlement",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.2:b02",
+      "title": "Old centers and new circuits",
+      "paragraphs": [
+        "Sabi, Ungjin and other former administrative centers had practical value as nodes in transport and land management. Tang's Ungjin command had attempted to use existing political infrastructure after conquest, and Silla's subsequent control relied on securing routes into the old Baekje heartlands. Where walls or public buildings changed use, archaeologists must distinguish repair, abandonment and continued occupation from simple dynastic labels. The identification of a site with an official name in a chronicle does not necessarily reveal how its residents earned their living. Local roads and boat crossings could remain useful regardless of the emblem carried by a garrison. Such continuity complicates neat pictures of sudden institutional replacement."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.2:b03",
+      "title": "Rice lands and the problem of surplus",
+      "paragraphs": [
+        "The southwest's lowlands and river valleys made agricultural production politically consequential. Governments sought to secure grain, but cultivated fields required seasonal labor, irrigation maintenance and protection from seizure. A harvest could be damaged by an army's movement even when no settlement was permanently destroyed. Officials had to decide how old obligations would be recognized, whether displaced owners could return and how competing claims were assessed. Few surviving sources describe a specific peasant household's dispute, so historians must not invent uniform taxation schedules for the first postwar decades. Attention to the ecology of rice and dry-field farming helps explain why new authority had to be negotiated through village communities."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Andong Protectorate: institutional plans and historical geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.2:b04",
+      "title": "Regional elites as intermediaries",
+      "paragraphs": [
+        "Former Baekje aristocrats faced varied possibilities. Some died or were relocated in the wars; others survived with networks that the Silla court might use. Service under new rulers could offer rank, safety and a means of protecting dependents, but the distribution of rewards remained unequal. We cannot assume every family shared a single Baekje political identity or welcomed the same terms of incorporation. Court-centered texts preferentially preserve the names of prominent men who defected or resisted. Those biographies illuminate particular bargains rather than the choices of entire regions. The rebuilding of administration was likely dependent on people competent in local landholding, customary authority and transport."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.2:b05",
+      "title": "The meaning of resistance",
+      "paragraphs": [
+        "Military resistance to conquest and later local dissent are not one continuous movement by an unchanged constituency. Armed leaders could pursue restoration, protection of a community or preservation of their own status. The motives recorded by victorious chronicles often sort actors into loyalists and rebels, overlooking disagreements within each side. After the final wartime campaigns, discontent might express itself in disputes over land, compulsory service or access to appointments rather than in attempts to revive a royal house. There is inadequate evidence to name every such dispute, and the historian should distinguish the possible logic of contention from documented uprisings. The western provinces acquired new political ties without losing the potential for conflict."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 1,
+          "locator": "AKS Unification synthesis: contested consolidation and administration",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.2:b06",
+      "title": "Artisans and Buddhist communities",
+      "paragraphs": [
+        "Craft specialists and Buddhist institutions connected the old Baekje world with the wider peninsula and maritime East Asia. The conquest may have disrupted patronage networks, but it did not automatically erase technical knowledge or devotional practices. Surviving sculptures, temple sites and ceramics illustrate both continuity and adaptation, although their dating and attribution must be tested independently. A style associated by modern scholars with Baekje does not identify every artisan's ancestry. Buddhist establishments could become local economic actors and repositories of memory under changing rulers. Later Silla art drew upon diverse traditions, but this cultural history should not be used retrospectively to imply that conquest was painless or uncontested."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.2:b07",
+      "title": "Women, dependents and household continuity",
+      "paragraphs": [
+        "Marriages, inherited property and kin obligations linked individuals across political boundaries in ways seldom recorded by royal annals. The fate of an elite house might become visible through a later official genealogy, but children, widows and servants usually appear only indirectly. People dependent upon an aristocratic patron could face uncertainty after his relocation or execution. Some households may have rebuilt ties to a different regional authority while continuing familiar ritual and farming routines. Material evidence provides a partial view of housing, burials and consumption. It cannot be converted into detailed individual biographies. Incorporation into Silla affected social opportunities unequally, and its human meaning should be sought beyond the royal court."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang war chronology and postwar territorial settlement",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.2:b08",
+      "title": "Provincial names and administrative time",
+      "paragraphs": [
+        "Silla's later organization into provinces and secondary capitals is often projected back onto the moment Baekje fell. Such a retrospective shortcut obscures experimentation and regional difference. Office titles could be adapted from earlier arrangements or issued to locally powerful people before regular supervision became possible. The existence of a new name on a document need not establish immediate effective governance of surrounding villages. Chronologies for later administrative reforms must be respected; not everything associated with mature Unified Silla belongs in the post-676 settlement. The important transition is from contested garrisons and alliances toward increasingly routinized oversight, with uncertain tempos across different districts."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.2:b09",
+      "title": "Baekje memory within Silla's realm",
+      "paragraphs": [
+        "Royal histories could present former Baekje people as subjects brought into a larger order, but remembered loyalties did not disappear at the same pace as independent political institutions. Tombs, local traditions and family names could preserve attachment to earlier centers while their users participated in Silla's administration. Later literary narratives might sharpen the contrast between noble loss and triumphant integration. Their emotional force should be studied without treating the scenes as contemporary witness testimony. The historiography of Baekje matters because regional pasts influenced how subsequent governments represented inclusion. A complex memory of defeat could coexist with participation in trade, learning and religious exchange across the enlarged southern realm."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Andong Protectorate: institutional plans and historical geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.2:b10",
+      "title": "An enlarged but differentiated south",
+      "paragraphs": [
+        "Former Baekje lands contributed agricultural resources, routes, specialists and local elites to a wider Silla polity. Such incorporation changed opportunities and obligations without producing immediate homogeneity. Political integration must be examined by district and institution rather than inferred from a final campaign date. This article has focused on the former Baekje western and southwestern communities; the distinct displacement of former Goguryeo people, Tang's northeastern protectorates and the ideology of Three Han unity belong to neighboring studies. The separation is necessary because the same conquest created contrasting outcomes across regions. A responsible account recognizes political expansion while preserving the agency and sometimes the vulnerability of those living under it."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
