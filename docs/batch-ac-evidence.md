@@ -5,8 +5,8 @@
 - Base: `2f235869669ac2405e0c0ffd05ed23447452edac`, 405 original source articles, 3,041 immutable passage blocks, 407,382 original narrative words, and 15 protected v1.1 canonical architecture and governance source files.
 - Chapters: **I.5 — Iron, Regional Networks, and Economic Transformation**; **IV.2 — Silla Monarchy, Aristocracy, and Government**. These are separate non-overlapping topic and chronological domains.
 - 18 genuinely original new canonical articles, plus exactly two strict append-only expansions: `I.5.1` (original 3 blocks remain identical) and `IV.2.2` (original 4 blocks remain identical). Their preexisting metadata remains unchanged, including `release` and original source fields, even when no sources were originally attached.
-- Authored manuscript frozen at `8d82a0e1c00a1c6d07e3ebae19bc60025a8741fd`. The 20 new article windows contain **20,362 originally authored narrative words, 196 new sequential immutable passage IDs and 90 contextual evidence anchors**. Final Python word counts govern the gate. New passages on legacy articles do not retroactively change the status of old unsourced passages.
-- Corpus build target: 423 articles, 3,237 passages, at least 427,744 cumulative narrative words; twenty independent Korean alias sets; two source-complete ten-stop routes registered in `scripts/build_exploration.py`.
+- Authored manuscript frozen at `8d82a0e1c00a1c6d07e3ebae19bc60025a8741fd`. The 20 new article windows contain **20,355 originally authored narrative words, 196 new sequential immutable passage IDs and 90 contextual evidence anchors**. Final Python word counts govern the gate. New passages on legacy articles do not retroactively change the status of old unsourced passages.
+- Corpus build target: 423 articles, 3,237 passages, at least 427,737 cumulative narrative words; twenty independent Korean alias sets; two source-complete ten-stop routes registered in `scripts/build_exploration.py`.
 - Existing runtime/editorial IDs, interactive reader, persistence, local state, pack loader and production URLs are not replaced.
 
 ## Chapter I.5: material and chronological evidence
