@@ -388,6 +388,42 @@
         "VIII.1.5",
         "X.5.10"
       ]
+    },
+    {
+      "slug": "goguryeo-formation-complete",
+      "title": "The formation of Goguryeo: tradition, landscape and early institutions",
+      "description": "Ten source-conscious readings tracing Jumong traditions, the Yalu landscape, kingship, early expansion, household economies and the uncertain transition to fourth-century power.",
+      "kicker": "Ten connected readings",
+      "ids": [
+        "II.5.1",
+        "II.5.2",
+        "II.5.3",
+        "II.5.4",
+        "II.5.5",
+        "II.5.6",
+        "II.5.7",
+        "II.5.8",
+        "II.5.9",
+        "II.5.10"
+      ]
+    },
+    {
+      "slug": "goguryeo-northern-kingdom-complete",
+      "title": "Goguryeo: crisis, expansion, government and the northern kingdom",
+      "description": "Ten linked histories from the fourth-century commandery transition and Gogukwon's reversals to Jangsu's capital strategy, sixth-century political change and Yeon Gaesomun's coup.",
+      "kicker": "Ten connected readings",
+      "ids": [
+        "III.1.1",
+        "III.1.2",
+        "III.1.3",
+        "III.1.4",
+        "III.1.5",
+        "III.1.6",
+        "III.1.7",
+        "III.1.8",
+        "III.1.9",
+        "III.1.10"
+      ]
     }
   ]
 }

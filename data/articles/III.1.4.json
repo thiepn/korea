@@ -30,6 +30,42 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "III.1.4:b04",
+      "title": "Buddhist sponsorship and evidence",
+      "paragraphs": [
+        "The arrival of Buddhism through diplomatic connections is conventionally associated with Sosurim's court and the monk Sundo in 372. A royal reception and the foundation of worship do not establish the date at which every subject adopted Buddhist practices. Court sponsorship can be interpreted as an attempt to enter wider intellectual and ceremonial networks, but the motives attributed to individual officials often come through later Buddhist and dynastic narratives. Monastic resources, imported objects and subsequent religious art provide separate kinds of evidence. A precise institutional history therefore asks which initiatives are textually attested, which material settings can be dated, and where a later image of immediate conversion outruns what can be known."
+      ],
+      "sequence": 4,
+      "label": "Batch AA append-only historical deepening"
+    },
+    {
+      "id": "III.1.4:b05",
+      "title": "Learning and royal administration",
+      "paragraphs": [
+        "Accounts connect Sosurim with the creation of the Taehak educational institution, conventionally dated to 372. Its establishment suggests that elite learning could help make royal service more regular and communicate administrative values. It would be wrong, however, to imagine a school system identical to later state academies or to infer universal literacy from the creation of one court institution. Instruction likely benefited selected groups, and the extent of their subsequent administrative roles is not fully documented. Educational patronage sits beside legal and religious change because all three could provide vocabularies through which political authority was expressed, but the institution's internal curriculum cannot be reconstructed in exhaustive detail."
+      ],
+      "sequence": 5,
+      "label": "Batch AA append-only historical deepening"
+    },
+    {
+      "id": "III.1.4:b06",
+      "title": "The legal turn of 373",
+      "paragraphs": [
+        "The promulgation of a law code is conventionally attached to the year 373. A chronicle's notice of laws does not preserve a complete statute book or prove that enforcement immediately became equal across the kingdom. Judges, local leaders and officers would still have had to interpret the royal program within established relations of rank and obligation. The evidence makes stronger claims possible about an intention to organize authority than about the precise penalties faced by ordinary households. Comparing later accounts of Goguryeo custom can suggest questions but not supply missing clauses. The significance of this legal initiative lies in its political purpose and its uncertain reach, not an imaginary finished bureaucracy."
+      ],
+      "sequence": 6,
+      "label": "Batch AA append-only historical deepening"
+    },
+    {
+      "id": "III.1.4:b07",
+      "title": "Reform beyond a single ruler",
+      "paragraphs": [
+        "Later historians often assemble Buddhism, education and law into a compact story of royal reconstruction after defeat. The clustering of dated initiatives is important, yet institutions acquire meaning through repeated use. Religious patronage requires specialists and material support; education requires teachers and students; law requires people who recognize or enforce its authority. Such processes unfold unevenly across centers and local districts. Evidence of continuity under later kings does not permit all subsequent achievements to be credited to Sosurim personally. His reign is best understood as a turning point in a larger state-building process, with clear distinctions between recorded royal decisions, probable institutional consequences and claims that remain inaccessible because local sources have not survived."
+      ],
+      "sequence": 7,
+      "label": "Batch AA append-only historical deepening"
     }
   ],
   "release": "C"

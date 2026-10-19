@@ -1,0 +1,165 @@
+{
+  "id": "III.1.3",
+  "title": "Crisis under Gogukwon: Former Yan and Baekje",
+  "kicker": "GOGURYEO · FOURTH-CENTURY CRISIS",
+  "description": "Source-critical narrative of crisis under gogukwon: former yan and baekje, with distinct court, regional, archaeological and social evidence.",
+  "release": "AA",
+  "sourceStatus": "Original interpretive synthesis with contextual institutional sources; no specialist peer review yet.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Historical chronology, northern regimes, royal politics and territorial changes; broad contextual synthesis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sources for Korean History: Goguryeo and southern expansion",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_009_0050",
+      "role": "Translated Samguk Sagi selections and explicit limitations of retrospective royal narration"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Context for capital sites, fortifications and elite mortuary material; not direct evidence for every campaign"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.1.3:b01",
+      "title": "The dangerous inheritance",
+      "paragraphs": [
+        "The removal of the Han commanderies did not leave Goguryeo master of a peaceful northern frontier. Power across Liaodong and Manchuria was being rearranged as regimes associated with the Murong lineage expanded, while peninsular rivals sought room for their own consolidation. Under Gogukwon, royal authority was tested by simultaneous demands for defense, provisioning, and diplomacy. A map drawn after the fact makes these states appear as colored blocks with sharp boundaries; contemporary influence was more discontinuous, clustering around settlements, strategic passes, fortifications, tributary relations, and recognized allies. An account that treats military reversals as a single king's personal failure misses these structural limits, just as a celebratory history of eventual recovery would conceal their immediate costs."
+      ],
+      "sequence": 1,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo chronology and contested royal narrative",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.3:b02",
+      "title": "Former Yan and the Liaodong corridor",
+      "paragraphs": [
+        "The Murong regime conventionally called Former Yan possessed resources and ambitions rooted in the northeastern continental world. Its pressure could reach Goguryeo through routes that also linked markets, farming districts, and families who lived under shifting political claims. In 342 its forces struck Goguryeo, an episode associated in later sources with the seizure of the royal capital and severe damage to the royal household. The familiar account of captives and the removal of Gogukwon's father's remains describes political humiliation as well as warfare. Exact operational sequences are transmitted through chronicles composed after these events and require source comparison. They should not be projected into a modern military campaign map whose detailed troop movements the evidence cannot sustain."
+      ],
+      "sequence": 2,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.3:b03",
+      "title": "A capital under attack",
+      "paragraphs": [
+        "An assault on a central royal site was more than a symbolic blow. Such places connected court personnel, food stores, diplomatic reception, armed retainers, ritual observances, and the work of craftsmen. Their disruption could interrupt the practical mechanisms through which a king rewarded allegiance and coordinated neighboring commanders. Archaeology of Ji'an and related capital landscapes shows the scale and longevity of defended political centers, but particular walls or burned deposits cannot automatically be assigned to the 342 incursion. The historical problem is to distinguish the secure tradition of a major crisis from speculative local attribution. Communities beyond the court might have experienced requisition, flight, loss of livestock or interrupted exchange even when their names are absent from narrative accounts."
+      ],
+      "sequence": 3,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 2,
+          "locator": "UNESCO capital-city archaeology; contextual scope only",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.3:b04",
+      "title": "Hostages, negotiations and unequal power",
+      "paragraphs": [
+        "Later narratives attach great importance to the capture of royal kin and to negotiations over their return. These events illustrate a regional political vocabulary in which submission, the exchange of envoys, the treatment of relatives, and the return of bodies could be used to order hierarchy. Such negotiations were neither evidence of permanent incorporation nor a transparent measure of how ordinary inhabitants understood their loyalties. A monarch could accept humiliating demands to gain time while attempting to preserve enough authority for recovery. Continental courts likewise faced constraints that prevented military victory from becoming uniform administration everywhere. The outcome was a contested relationship, not an uncomplicated transition from independence to foreign rule or the final subordination of the northern kingdom."
+      ],
+      "sequence": 4,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.3:b05",
+      "title": "The southern problem deepens",
+      "paragraphs": [
+        "Goguryeo's struggle in the north coincided with the increasing strength of Baekje around the Han River. The two courts confronted one another through border districts where local strongholds mattered more immediately than formal royal proclamations. A security problem that began as pressure from the continent could not be solved by looking north alone. Garrison commanders required intelligence and supplies along multiple approaches. Farming communities might provide transport animals and grain to whichever authority could secure their fields, but the available sources seldom permit reconstruction of specific households. Recognizing these limits makes it possible to analyze Goguryeo as one competitor in a developing interstate system rather than a later imperial power whose expansion was somehow inevitable."
+      ],
+      "sequence": 5,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 1,
+          "locator": "NIKH translated retrospective chronicle and contextual interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.3:b06",
+      "title": "The encounter with Geunchogo",
+      "paragraphs": [
+        "Baekje under Geunchogo became a formidable rival in the fourth century, and chronicles associate his reign with attacks into Goguryeo's southern sphere. Such reports present victorious kings through campaign narratives and court-centered chronology. They nevertheless indicate genuine strategic competition for connections between the Han basin and the northern approaches. The military ability to reach an enemy capital or defeat a royal army should not be mistaken for control of all intervening territory. Routes remained dependent on local fortifications and seasonal movement. Baekje's own reconstruction from archaeology and later written records belongs primarily in the neighboring Baekje Chapter; here the question is what the emerging southern challenger meant for Goguryeo's capacity to defend and govern."
+      ],
+      "sequence": 6,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.3:b07",
+      "title": "Gogukwon's death in 371",
+      "paragraphs": [
+        "In 371 Gogukwon was killed during the conflict with Baekje, conventionally associated with fighting near Pyongyang. For subsequent dynastic memory his death provided a sharp narrative turning point: a vulnerable kingdom had suffered injuries from both north and south. It would be tempting to read the event merely as a prelude to successful reforms under Sosurim, but people at the time could not know the future course of recovery. Succession, retaining the loyalty of armed followers, and keeping revenue channels open were immediate problems. The precise identification of early Pyongyang locations also raises topographical and chronological questions; one must not transfer features of Jangsu's later capital wholesale into the fourth-century setting."
+      ],
+      "sequence": 7,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 2,
+          "locator": "UNESCO capital-city archaeology; contextual scope only",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.3:b08",
+      "title": "Women and captives in a court history",
+      "paragraphs": [
+        "Royal women and relatives often become visible in the crisis only when capture or marriage affected negotiations. This selective attention is evidence about the priorities of chroniclers, not proof that women's political, economic, or ritual work was unimportant. A household displaced by military activity may have lost tools, stores, legal standing, or access to kin networks. Yet the sources do not provide personal biographies for most such families. Tombs can reveal differences of status and practice over wider periods, while neither elite grave goods nor mural imagery can be read as direct diaries of people harmed in a specified raid. Responsible social history marks what remains inaccessible while still asking who paid for wartime leadership decisions."
+      ],
+      "sequence": 8,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.3:b09",
+      "title": "The making of a cautionary reign",
+      "paragraphs": [
+        "Gogukwon's reign appears in later accounts as a succession of reversals. The arrangement of episodes can imply that a king's virtue or incompetence alone determined fortunes. Such moral causation was familiar to histories written for courts, and it must be separated from the evidence for external pressure and institutional vulnerability. The remembered humiliation at Former Yan's hands and the king's death in southern warfare became useful contrasts to later royal claims of regeneration and greatness. Historiography should therefore examine both the sequence reported and the work the sequence performed for subsequent readers. It is possible to accept a broad chronology of crisis while questioning detailed motives, exact troop numbers, and retrospective judgments about a ruler's character."
+      ],
+      "sequence": 9,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 2,
+          "locator": "UNESCO capital-city archaeology; contextual scope only",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.3:b10",
+      "title": "Crisis without inevitable collapse",
+      "paragraphs": [
+        "The kingdom survived the reign that had exposed its military and diplomatic weaknesses. Its survival depended on more than dynastic luck: a constellation of settlements, strongholds, officers, local leaders, agricultural districts and alliances could persist despite severe attacks on the court. Reorganization required choices about education, legal ordering, religion, and diplomatic relationships, but their primary ownership belongs to the next study of Sosurim. Gogukwon's historical significance lies here in the mismatch between territorial ambition and available state capacity, in simultaneous continental and southern competition, and in the distinction between sources that celebrate royal fortunes and the wider society left mostly unrecorded. The crisis was real; its later interpretation as a necessary stage of progress was not predetermined."
+      ],
+      "sequence": 10,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    }
+  ]
+}

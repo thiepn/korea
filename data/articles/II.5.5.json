@@ -1,0 +1,165 @@
+{
+  "id": "II.5.5",
+  "title": "Fortresses, Cavalry, Raiding, and Early Military Expansion",
+  "kicker": "EARLY GOGURYEO · POWER, LANDSCAPE AND FRONTIER",
+  "description": "Evidence-conscious history of fortresses, cavalry, raiding, and early military expansion in the kingdom's formative centuries.",
+  "release": "AA",
+  "sourceStatus": "Original editorial synthesis anchored in selected institutional sources; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Scholarly account of political consolidation, military frontier, and changing royal authority"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Archaeological remains of mountain and plain cities, fortifications, and commemorative landscapes"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Safeguarding Koguryo Tombs and Mural Paintings",
+      "url": "https://whc.unesco.org/en/koguryotombs",
+      "role": "Material chronology of funerary traditions; later evidence must not be projected into early centuries"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.5.5:b01",
+      "title": "A landscape suited to fortified defence",
+      "paragraphs": [
+        "The valleys of early Goguryeo contained narrow approaches, ridges, river crossings, and places where walls could exploit natural slopes. Such geography favored fortified settlements and complicated the movement of larger invading armies. Defensive advantage did not make the population invulnerable: farmland outside walls could be burned, supply lines interrupted, and households displaced. UNESCO documentation of the mountain and plain city systems in the Huanren and Ji'an region records substantial built environments and adaptation to terrain. Specific walls belong to different construction phases, so the most impressive surviving fortifications should not all be assigned to the earliest rulers. The pattern nevertheless illustrates how geography and organized labor became integral to political survival."
+      ],
+      "sequence": 1,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": [
+        {
+          "claim": "Material and historical reference situates the discussed political or military pattern but does not independently prove each interpretation.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo: formation of kingship, frontier and consolidated rulership",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.5:b02",
+      "title": "What cavalry could and could not do",
+      "paragraphs": [
+        "Mounted warriors were useful for speed, reconnaissance, raiding, and exploiting a retreating opponent. Their effectiveness depended upon access to horses, fodder, trained riders, and terrain that allowed movement. In steep or wooded districts, the tactical advantages of cavalry could be limited; sieges and river crossings demanded other skills. Later depictions of armored horsemen should not be treated as exact portraits of first-century armies. The material and textual evidence for horse equipment changes over time. Discussion of early mounted warfare must therefore remain conditional rather than assuming an unbroken military system. Military innovation was a process of adapting equipment and recruiting people, not merely the possession of a famous warrior tradition."
+      ],
+      "sequence": 2,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "II.5.5:b03",
+      "title": "Raiding and the frontier economy",
+      "paragraphs": [
+        "Raids could seize goods, animals, captives, or strategic positions and demonstrate that a ruler could reward followers. They were also disruptive to trade, agriculture, and settlement. Outside records sometimes cast Goguryeo activity as disorder along an imperial frontier; a court-centered account might praise similar expeditions as expansion or the enforcement of rightful authority. Both frames obscure the household costs of violence. A raid seldom established permanent jurisdiction unless it was followed by occupation or durable political agreements. The difference between a successful incursion and stable control is critical when interpreting early campaigns. Economic motives, status competition, and strategic pressure could operate together without every expedition forming part of a single master plan."
+      ],
+      "sequence": 3,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": [
+        {
+          "claim": "Material and historical reference situates the discussed political or military pattern but does not independently prove each interpretation.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Koguryo tomb programme: archaeological dating and elite material contexts",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.5:b04",
+      "title": "Supplying a campaign",
+      "paragraphs": [
+        "Even a small army required grain, water, clothing, weapons, pack animals, and labor to carry or repair equipment. These demands became especially severe when forces moved beyond familiar valleys. A successful leader needed cooperation from cultivators and transport workers as much as courage from fighters. The sources preserve some battles but almost no comprehensive accounts of early requisitions, wages, or medical treatment. It would be inappropriate to reconstruct a precise campaign budget from later practices. Yet logistical inference is legitimate when its limits are acknowledged. Mountains and long distances imposed costs; fortresses offered storage and refuge; raiding could compensate for limited supplies while also creating resentment among the communities on which future operations depended."
+      ],
+      "sequence": 4,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "II.5.5:b05",
+      "title": "Local commanders and larger coalitions",
+      "paragraphs": [
+        "The early kingdom's armed strength depended partly on chiefs and powerful households capable of leading their own men. Coordinating several groups could yield a larger force, but it also required agreement on objectives and expectations of reward. A king might direct a campaign while his allies retained influence over tactics and the disposition of spoils. Later texts often credit victories to one ruler and gloss over those arrangements. Defeat could expose tensions, especially when certain communities bore more casualties than others. Military organization was therefore connected to the politics of kingship. The development of centralized command can be traced only imperfectly, and one must avoid inferring that later elaborate officer hierarchies existed unchanged in the founding centuries."
+      ],
+      "sequence": 5,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": [
+        {
+          "claim": "Material and historical reference situates the discussed political or military pattern but does not independently prove each interpretation.",
+          "sourceIndex": 1,
+          "locator": "UNESCO capital cities: Huanren and Ji'an fortification and settlement typology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.5:b06",
+      "title": "Fortresses as places of everyday life",
+      "paragraphs": [
+        "A fortress was not solely a battlefield. Depending on its size and period it might hold residences, workshops, storage areas, sacred spaces, and administrative activity. People maintained its walls, carried water, cooked, prepared tools, and cared for the sick. Its strategic purpose depended on these activities, many of which are rarely narrated in dynastic histories. Excavated buildings and environmental evidence can help reconstruct settlement functions, though only where archaeological recording is sufficiently detailed. UNESCO's protected sites preserve monumental remains but not an exhaustive inventory of ordinary labor. Recognizing domestic life within defensive landscapes prevents warfare from appearing as a series of disembodied movements on a map."
+      ],
+      "sequence": 6,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "II.5.5:b07",
+      "title": "War and relationships with Han institutions",
+      "paragraphs": [
+        "Imperial frontier posts were military targets but also sources of goods, information, and diplomatic contact. Rulers might negotiate with Chinese officials in one period and challenge a neighboring commandery in another. External texts frequently describe these relationships using the language of imperial submission or rebellion. Those categories disclose what an imperial administration claimed, not necessarily the extent of its routine local control. Equally, later patriotic presentations of continuous resistance can disguise practical bargaining. War and diplomacy formed a single changing field of frontier politics. A fortress's significance depended on whether it controlled a route, sheltered a population, or projected authority toward settlements that might have several potential patrons."
+      ],
+      "sequence": 7,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": [
+        {
+          "claim": "Material and historical reference situates the discussed political or military pattern but does not independently prove each interpretation.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo: formation of kingship, frontier and consolidated rulership",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.5:b08",
+      "title": "Captivity, displacement, and recruitment",
+      "paragraphs": [
+        "Victorious campaigns could carry people away from their home communities as captives, servants, or relocated dependents. Such movements could alter production and social structure, not just army strength. Because records focus on rulers and military incidents, the scale and conditions of early displacement are difficult to establish. Numbers reported for later wars should not be transported backward to fill the gap. Still, coercive mobility is a recurrent feature of ancient conflict and an important question for interpretation. Families might flee ahead of invading forces, seek refuge near walls, or cultivate fields under a different political authority after a frontier shifted. Their perspectives remain much less visible than royal success narratives."
+      ],
+      "sequence": 8,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": []
+    },
+    {
+      "id": "II.5.5:b09",
+      "title": "The danger of reading backward",
+      "paragraphs": [
+        "The formidable armies of fifth- and seventh-century Goguryeo create a temptation to imagine an equally organized military at the kingdom's beginning. That would collapse centuries of political, technological, and demographic change. Later tomb murals, armor finds, and court descriptions are evidence for their own contexts. The earliest campaigns may have relied on smaller, more flexible units, but their exact composition is not securely enumerated. Historians should test military claims against settlement capacity, distances, archaeological dating, and the agendas of textual sources. A heroic account may preserve that conflict occurred while distorting its scale or chronology. Critical history does not discard heroism; it resists treating praise as a substitute for evidence."
+      ],
+      "sequence": 9,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": [
+        {
+          "claim": "Material and historical reference situates the discussed political or military pattern but does not independently prove each interpretation.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Koguryo tomb programme: archaeological dating and elite material contexts",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.5:b10",
+      "title": "Military power as a political institution",
+      "paragraphs": [
+        "Fortification, mobile armed force, and local supply networks helped transform Goguryeo from a coalition into a state capable of sustaining conflict over generations. None worked independently. A mountain wall without food was vulnerable; cavalry without horses or allies was useless; a victorious king without cooperation could not keep gains. The enduring historical development lay in the integration of these capacities with rulership and regional alliances. The evidence is incomplete and varies by century, but it supports a more illuminating question than who won each reported raid: how did repeated mobilization change the distribution of labor, prestige, and authority? Later expansion built upon answers forged unevenly in the early frontier world."
+      ],
+      "sequence": 10,
+      "label": "Batch AA · original source-critical synthesis",
+      "evidence": []
+    }
+  ]
+}

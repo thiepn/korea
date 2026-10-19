@@ -1,0 +1,165 @@
+{
+  "id": "III.1.6",
+  "title": "Jangsu, Pyongyang, and the Southward Reorientation",
+  "kicker": "GOGURYEO · CAPITAL AND SOUTHERN STRATEGY",
+  "description": "Source-critical narrative of jangsu, pyongyang, and the southward reorientation, with distinct court, regional, archaeological and social evidence.",
+  "release": "AA",
+  "sourceStatus": "Original interpretive synthesis with contextual institutional sources; no specialist peer review yet.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Historical chronology, northern regimes, royal politics and territorial changes; broad contextual synthesis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sources for Korean History: Goguryeo and southern expansion",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_009_0050",
+      "role": "Translated Samguk Sagi selections and explicit limitations of retrospective royal narration"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Context for capital sites, fortifications and elite mortuary material; not direct evidence for every campaign"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.1.6:b01",
+      "title": "A successor with a different strategic problem",
+      "paragraphs": [
+        "Jangsu inherited an enlarged and prestigious kingdom from Gwanggaeto, but continuity of royal ambition did not mean simple repetition of campaigns. Holding influence over distant communities demanded redistribution of forces, managed alliances and more durable connections between northern and southern territories. The fifth century brought new opportunities in the peninsular interior while northern diplomacy remained essential. Later texts may compress a long reign into a sequence of royal decisions, making state capacity appear effortless. Yet the material conditions of river transport, agriculture, garrison supply and delegated local command constrained each policy. Jangsu's achievement must be assessed not only through the geography of victories but through the reorientation of the machinery that kept a dispersed realm connected."
+      ],
+      "sequence": 1,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo chronology and contested royal narrative",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.6:b02",
+      "title": "The capital transfer of 427",
+      "paragraphs": [
+        "In 427, according to the transmitted dynastic chronology, Jangsu moved the royal capital to Pyongyang. The decision is often summarized as a southward pivot, but the political and administrative implications were wider. A court move gathered palace officials, military escorts, ceremonial personnel, suppliers and skilled workers into a revised network of residence and distribution. It did not empty the older northern centers or erase their strategic importance. Questions about which Pyongyang installations belong to which phase demand archaeological and textual scrutiny, particularly because the later city's monumental remains span multiple periods. A date from a written chronicle identifies an act of royal government; excavation must independently establish where particular buildings, walls and burials fit."
+      ],
+      "sequence": 2,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.6:b03",
+      "title": "Rivers and routes to the south",
+      "paragraphs": [
+        "Pyongyang's setting gave the court access to the Daedong basin and routes toward western peninsular corridors. Water transport could complement overland movement, especially for bulky stores, but river networks did not eliminate mountain passes or the need for defended stations. The movement of armed forces was shaped by seasons, food supply and the loyalty of intermediaries, while travelers and merchants traversed many of the same routes. Modern claims of a single fixed southward highway conceal the diversity of possible corridors. Recent analysis of fortresses, tombs and place names has emphasized several routes toward the Han River, while interpretations of particular sites and military occupations remain open to review rather than being reducible to one cartographic line."
+      ],
+      "sequence": 3,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 2,
+          "locator": "UNESCO capital-city archaeology; contextual scope only",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.6:b04",
+      "title": "The former northern heartland",
+      "paragraphs": [
+        "Gungnaeseong and the northeastern capital landscape retained memory, burial associations and strategic functions after the southward court move. A territorial kingdom could maintain several centers whose importance varied by season, ceremony, frontier threat or military campaign. The old core faced continental neighbors and controlled approaches essential for long-distance diplomacy; it was not suddenly peripheral because a new palace lay farther south. Elite tombs in the Ji'an region are visible evidence of long-term investment in that landscape, not proof that every royal family member resided there simultaneously. Treating the capital move as an institutional redistribution rather than an instantaneous population migration produces a more defensible account of regional continuity."
+      ],
+      "sequence": 4,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.6:b05",
+      "title": "Diplomatic balancing in northern China",
+      "paragraphs": [
+        "Jangsu governed amid a changing northern Chinese political world, notably the Northern Wei and competing southern courts. Embassies could secure recognition, markets and a language of interstate standing without implying unqualified submission. Diplomatic titles in foreign dynastic records must be read through the political grammar of the issuing courts rather than mechanically translated into a modern sovereignty hierarchy. Exchange could also increase Goguryeo's room to maneuver against peninsular rivals. The court's reported diplomatic actions did not necessarily determine private trade or migration, and their chronological sequencing has to be tested across Korean and Chinese traditions. The king's southern policy and continental relations formed interconnected choices, not two unrelated stories."
+      ],
+      "sequence": 5,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 1,
+          "locator": "NIKH translated retrospective chronicle and contextual interpretation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.6:b06",
+      "title": "Baekje's Hanseong and the war of 475",
+      "paragraphs": [
+        "The capture of Baekje's Hanseong in 475 marked a major alteration of the southern political balance. Contemporary reconstruction draws on later dynastic narrative, geography and material evidence. Reports associate the fighting with the death of King Gaero and the rupture of Baekje's established royal center; Baekje later reorganized around Ungjin. The event is not evidence that every locality beyond Hanseong was immediately administered from Pyongyang. Settlement patterns, fortresses and archaeological distributions suggest a complicated and uneven southern presence. In this Chapter, the question is how Goguryeo's internal royal strategy changed after the victory; Baekje's institutional response and the detailed sequence of interstate warfare belong to their separately designated owners."
+      ],
+      "sequence": 6,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.6:b07",
+      "title": "Silla and fluctuating alliances",
+      "paragraphs": [
+        "Silla's leaders could seek Goguryeo support at one moment and fear northern intervention at another. The consequences of Goguryeo's expansion were thus measured as much in reworked diplomatic expectations as in boundaries. The Baekje–Silla alliance conventionally dated to 433 belongs to this background of common concern. Yet alliances announced by kings did not remove local rivalries, nor did they permanently bind subsequent generations. Royal inscriptions and chronicles preserve selective versions of these relationships, with tribute, protection and subordinate-language claims often colored by the ideology of the writer. A southern village might encounter competing demands for supplies without possessing any durable attachment to the court that temporarily controlled the nearest fortress."
+      ],
+      "sequence": 7,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 2,
+          "locator": "UNESCO capital-city archaeology; contextual scope only",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.6:b08",
+      "title": "Defended settlements and governing reach",
+      "paragraphs": [
+        "Control of the Han basin depended on fortifications, defended heights, river crossings and the ability to support garrisons. An inscription or mural may reveal elite claims, but not by itself the boundaries of tax collection or the frequency of visits by Goguryeo officials. Archaeological distinctions between permanent occupation, temporary encampment and imitated elite material are especially difficult where multiple groups interacted. A stone monument found away from the northern heartland can illuminate political contact without converting the surrounding landscape into an administratively uniform province. The ambition to govern widely and the capacity to do so must therefore remain separate analytical questions, explored in greater detail in the next article on the kingdom's diverse realm."
+      ],
+      "sequence": 8,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.6:b09",
+      "title": "New settlements, old livelihoods",
+      "paragraphs": [
+        "A capital shift and a widened southern sphere affected the lives of those who carried food, maintained roads, cultivated fields or manufactured equipment. Specialists might find employment around new court institutions, while requisitions exposed poorer households to hardship. The texture of these changes cannot be recovered from royal victory notices alone. Regional archaeology sometimes registers expanded exchange or altered burial customs, but attributing all such changes to state command is unsafe. Some people adapted to new opportunities; others experienced displacement or changed obligations. The evidence permits questions about different social positions without proving a single story of improvement or decline. Recognizing these differentiated experiences is integral to the political history of Jangsu's reign."
+      ],
+      "sequence": 9,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Institutional reference supports contextual chronology and material setting, not every interpretive statement.",
+          "sourceIndex": 2,
+          "locator": "UNESCO capital-city archaeology; contextual scope only",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.6:b10",
+      "title": "Interpreting a long reign",
+      "paragraphs": [
+        "Jangsu's long reign is often portrayed as the natural fulfillment of Gwanggaeto's conquests. That retrospect is powerful but incomplete. The royal move of 427, complex diplomatic relationships, the 475 victory and the maintenance of multiple administrative corridors required different kinds of political work. Some of those policies strengthened Goguryeo's position; others created liabilities that would become evident in later frontier reversals. Historical maps should be dated and explicitly qualified, not made to portray a permanent maximum extent. The next generation inherited a realm with rich regional variation rather than a seamless imperial territory. Jangsu's reorientation is best understood as a continuing negotiation among court ambition, local resources, contested geography and shifting competitors."
+      ],
+      "sequence": 10,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    }
+  ]
+}

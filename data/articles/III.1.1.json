@@ -1,0 +1,165 @@
+{
+  "id": "III.1.1",
+  "title": "Goguryeo at the Beginning of the Fourth Century",
+  "kicker": "GOGURYEO · FOURTH-CENTURY TRANSFORMATION",
+  "description": "Original source-conscious account of goguryeo at the beginning of the fourth century, including chronological and evidentiary uncertainty.",
+  "release": "AA",
+  "sourceStatus": "Original source-critical historical synthesis, anchored selectively in institutional references; specialist review not completed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Fourth-century changes, Micheon, commandery removal and regional rivalry"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Archaeological capital-city geography and landscape of royal authority"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Complex of Koguryo Tombs",
+      "url": "https://whc.unesco.org/en/list/1091/",
+      "role": "Tomb material and differentiated representations; contextual later evidence only"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.1.1:b01",
+      "title": "The fourth-century kingdom",
+      "paragraphs": [
+        "The fourth century opened with Goguryeo facing opportunities and dangers greater than those of its earliest formative centuries. The decline of long-standing commandery institutions on the northwestern peninsula changed the distribution of political power, while continental regimes still contested approaches through Liaodong. Goguryeo possessed a ruling tradition and networks of fortresses, but that did not make its position secure. Court histories emphasize named kings and campaigns because such events served dynastic memory. The lives of people cultivating land, trading, or carrying supplies become visible only intermittently. A history of the northern kingdom should hold these two scales together: emerging regional power and the households whose labor and vulnerability made military capacity possible."
+      ],
+      "sequence": 1,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo: Micheon, Lelang and Daifang, fourth-century relations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.1:b02",
+      "title": "Micheon's reign as a transition",
+      "paragraphs": [
+        "Micheon is conventionally placed on the throne from 300 to 331. Later narratives recount earlier hardships and his eventual accession, presenting royal legitimacy through adversity and restoration. These stories should be approached as transmitted political biography rather than a set of verifiable private scenes. His reign coincided with shifts in regional competition and the weakening of commandery power. It would be excessive to ascribe every change to one ruler's personal decisions. Important effects depended on longer processes, including the ability of local communities to support warfare and the changing relationship between Chinese frontier centers and neighboring states. The reign nevertheless offers a useful chronological pivot from formative politics toward a more complex regional order."
+      ],
+      "sequence": 2,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    },
+    {
+      "id": "III.1.1:b03",
+      "title": "The end of commandery administration",
+      "paragraphs": [
+        "The collapse of the Lelang and Daifang commandery order in the early fourth century is commonly associated with Goguryeo's advance. The political change was consequential, but the word collapse can hide the survival of people, skills, settlement networks, and cultural practices beyond the offices themselves. A district center may cease to function under one distant authority while its residents continue to exchange goods and maintain familiar institutions. Textual reports provide a court-centered view of the military transition; archaeology illuminates sites without supplying every inhabitant's political preference. Historians should avoid turning the ending of an administration into a universal statement about the experience of conquest, migration, or identity."
+      ],
+      "sequence": 3,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tombs: later painted tomb chronology and preservation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.1:b04",
+      "title": "Liaodong remained dangerous",
+      "paragraphs": [
+        "The elimination of certain commandery positions did not create uncontested Goguryeo supremacy in the northwest. Regimes centered beyond the peninsula controlled armies, routes, and alliances that could threaten Goguryeo's eastern positions. Military commanders had to assess passes, river corridors, fortresses, and the provisioning of frontier posts. Control over one valley did not automatically guarantee access to the next. Texts describing frontier wars frequently use the vocabulary of submission or rebellion, reflecting the political interests of their authors. The more useful reconstruction follows the changing practical capacity of rivals to send armies, occupy positions, and sustain relationships with local leaders rather than assuming a stable modern-style boundary."
+      ],
+      "sequence": 4,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    },
+    {
+      "id": "III.1.1:b05",
+      "title": "A capital among several kinds of center",
+      "paragraphs": [
+        "Goguryeo's historical geography involved fortified mountain sites, settlements on more accessible ground, and later capitals with different functions. Archaeological documentation of the Ji'an and Huanren region shows why a purely literary map of a single royal residence is inadequate. The UNESCO-listed complexes include fortifications and burial monuments from multiple phases, not one uniform city built in a single reign. A defensible capital could protect a ruler while depending on nearby fields and external routes for supplies. Residence, ritual representation, storage, and military refuge could occur in different spaces. Recognizing this geography helps explain both the monarchy's resilience and the vulnerability of individual centers to attack."
+      ],
+      "sequence": 5,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 1,
+          "locator": "UNESCO capitals: Huanren Ji'an and mountain/plain city complexes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.1:b06",
+      "title": "The material scale of regional power",
+      "paragraphs": [
+        "Larger armies and fortified networks required an economy capable of collecting and redistributing labor and produce. The fourth-century record rarely specifies the legal mechanism through which every community contributed. A modern reconstruction must therefore distinguish the general necessity of provisions from undocumented claims about a comprehensive tax code. Grain, livestock, transport, craft production, and local leadership all mattered. Some people benefited from expanded protection or trade; others probably endured greater demands. The sources do not justify a single welfare judgment about the entire population. Political growth was simultaneously the enlargement of capacity and the creation of new pressures that could be resisted or unevenly enforced."
+      ],
+      "sequence": 6,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    },
+    {
+      "id": "III.1.1:b07",
+      "title": "Diplomacy beyond the nearest opponent",
+      "paragraphs": [
+        "Goguryeo's rulers were involved in a regional diplomatic field, not merely a permanent two-sided conflict with one Chinese dynasty. Changes among continental courts could open alliances or produce new threats, while Baekje and other peninsular powers shaped southern priorities. Diplomatic titles, missions, and letters should be read as political performances whose significance varied with their audience. A status recognized by one court did not necessarily settle what neighboring rulers believed. Later historical narratives impose clear national subjects on a more intricate world of courts, local authorities, and shifting strategic interests. The fourth-century monarchy learned to operate in this system under conditions of considerable uncertainty."
+      ],
+      "sequence": 7,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo: Micheon, Lelang and Daifang, fourth-century relations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.1:b08",
+      "title": "Conflict and local agency",
+      "paragraphs": [
+        "Campaign narratives make rulers and generals easy to see. They rarely record the decisions of farmers seeking refuge, chiefs mediating between opponents, traders repairing relationships, or captives changing residence. Archaeological settlement shifts can suggest such changes without providing individual voices. The invisibility of most people must not be filled with imagined quotations or exact casualty figures. Yet it is historically important to recognize that the ability to hold territory depended on their actions. Local groups could supply food, obstruct movement, or negotiate new obligations. The kingdom's expansion was not a simple imposition of royal intention on inert land; it was a process that rearranged human relationships across contested regions."
+      ],
+      "sequence": 8,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    },
+    {
+      "id": "III.1.1:b09",
+      "title": "Sources that tell different histories",
+      "paragraphs": [
+        "The primary narrative for the period survives through layered royal chronicles, Chinese dynastic works, and later compilations. An official inscription from the next century helps show how Goguryeo understood royal legitimacy at its height, while archaeological sites offer material evidence for settlement and elite expression. None is a transparent record of every fourth-century event. The names of places may change, written dates may derive from older chronologies, and modern national interpretations can shape questions asked of ruins. A critical account allows these sources to disagree. It treats securely documented material features, transmitted military episodes, and historical inferences as distinct kinds of knowledge."
+      ],
+      "sequence": 9,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tombs: later painted tomb chronology and preservation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.1:b10",
+      "title": "A century of contingent expansion",
+      "paragraphs": [
+        "At the opening of the fourth century Goguryeo had the potential to become a leading northeast Asian power, but the outcome was not assured. Later victories can obscure the disasters that intervened and the competing courts that threatened its survival. The century is better approached through successive adjustments to war, diplomacy, royal succession, and administration. The decisive story is not a smooth rise along a predetermined map but a sequence of crises and recoveries that altered what the monarchy could command. This chapter follows those changes into the more directly documented fifth-century kingdom while continuing to ask how each development affected the diverse communities incorporated into its realm."
+      ],
+      "sequence": 10,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    }
+  ]
+}

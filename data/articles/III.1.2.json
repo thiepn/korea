@@ -1,0 +1,165 @@
+{
+  "id": "III.1.2",
+  "title": "Southern Expansion and the End of the Commandery Order",
+  "kicker": "GOGURYEO · FOURTH-CENTURY TRANSFORMATION",
+  "description": "Original source-conscious account of southern expansion and the end of the commandery order, including chronological and evidentiary uncertainty.",
+  "release": "AA",
+  "sourceStatus": "Original source-critical historical synthesis, anchored selectively in institutional references; specialist review not completed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Fourth-century changes, Micheon, commandery removal and regional rivalry"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Archaeological capital-city geography and landscape of royal authority"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Complex of Koguryo Tombs",
+      "url": "https://whc.unesco.org/en/list/1091/",
+      "role": "Tomb material and differentiated representations; contextual later evidence only"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.1.2:b01",
+      "title": "The political meaning of the south",
+      "paragraphs": [
+        "Goguryeo's southward advance changed the balance of power on the peninsula, but south is an imprecise description of complex terrain. Strategic river routes, former commandery centers, populations of varied background, and connections to Baekje all shaped the region. Control of an administrative headquarters could offer resources and prestige without immediately absorbing every neighboring community. Later royal narratives praise victories in a way that can make political transformation look instantaneous. In practice the end of one jurisdiction and the growth of another could proceed through negotiation, military occupation, intermarriage, or migration. Understanding southern expansion requires separating the collapse of distant imperial authority from the creation of effective Goguryeo institutions at the local level."
+      ],
+      "sequence": 1,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo: Micheon, Lelang and Daifang, fourth-century relations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.2:b02",
+      "title": "Lelang and the late commandery landscape",
+      "paragraphs": [
+        "Lelang had connected parts of the northwest peninsula with continental political and commercial networks for centuries. Its later history included changing territorial reach, local elites, imported goods, and settlements whose inhabitants could not all be classified by one uniform identity. The end of commandery administration around 313 is a conventional marker of Goguryeo's rise. It should not be treated as proof that every institution, market route, or household immediately vanished. Archaeological evidence of continued occupation and material contacts must be evaluated on its own terms. The administration ended as a political structure; the social world it had shaped could persist in altered forms and contribute to the kingdom that followed."
+      ],
+      "sequence": 2,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    },
+    {
+      "id": "III.1.2:b03",
+      "title": "Daifang and competing peninsular routes",
+      "paragraphs": [
+        "Daifang's place in late commandery politics illustrates the difficulty of equating headquarters with complete control over surrounding districts. The region was connected with southern routes and diplomatic contact among emerging peninsular polities. As frontier authority fragmented, Goguryeo and other actors could seek access to its networks. Reports of conquest may privilege the royal army over bargaining by local communities and elites. The surviving texts contain uncertainties in geography and chronology, and exact boundaries remain contested. A source-conscious account therefore distinguishes the fall of a named administrative center from the changing allegiances of a wider population. It also avoids assuming that every cultural artifact found later demonstrates direct political descent from commandery officials."
+      ],
+      "sequence": 3,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tombs: later painted tomb chronology and preservation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.2:b04",
+      "title": "Military campaigns and their aftermath",
+      "paragraphs": [
+        "A successful campaign could seize fortifications, disrupt rivals, and create opportunities for taxation or recruitment. But holding a newly acquired district required provisions, local intermediaries, and sometimes repairs to administrative infrastructure. A chronicle may record the date of an assault without the negotiations that followed. These gaps matter because the political effect of a campaign could be unstable. Local leaders might submit while the army remained nearby and alter their conduct after it departed. A more durable transformation would be visible in repeated relations, settlement choices, and resource flows, though the evidence rarely measures them precisely. Expansion was not completed merely by announcing a royal victory."
+      ],
+      "sequence": 4,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    },
+    {
+      "id": "III.1.2:b05",
+      "title": "Goguryeo and the legacy of Chinese learning",
+      "paragraphs": [
+        "Former commandery territories had been connected with writing practices, goods, and institutional customs associated with Chinese administration. Their incorporation could expand Goguryeo's exposure to new forms of record keeping and diplomacy. Yet the appearance of a technique or prestige item does not prove that a whole bureaucracy was imported intact. Knowledge could move through captured personnel, voluntary migration, trade, or sustained contact. Later state institutions were products of adaptation across generations. This interpretation avoids two misleading extremes: depicting the kingdom as culturally isolated until conquest or reducing its growth to the passive borrowing of a finished foreign model. Political agency and interregional exchange operated together."
+      ],
+      "sequence": 5,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 1,
+          "locator": "UNESCO capitals: Huanren Ji'an and mountain/plain city complexes",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.2:b06",
+      "title": "Local communities were not abstractions",
+      "paragraphs": [
+        "People living between former commandery centers and Goguryeo strongholds faced risks of violence, requisition, relocation, and changing obligations. Some may have pursued opportunities opened by new rulers. Others may have experienced the end of familiar administrative protections or commercial links. Neither group can be quantified confidently from the surviving court records. Their household experiences cannot be represented by a single patriotic narrative of liberation or a single imperial narrative of rebellion. Archaeological evidence may reveal continuity where written sources stress rupture. This contrast is not a problem to be erased but an important clue to the different speeds at which institutions and daily life changed."
+      ],
+      "sequence": 6,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    },
+    {
+      "id": "III.1.2:b07",
+      "title": "Baekje as a growing southern rival",
+      "paragraphs": [
+        "The decline of commandery administration created a changed environment for Baekje as well as Goguryeo. Two expanding kingdoms could contest access to strategic corridors and populations, with the balance varying across the fourth century. Treating the contest as inevitable ignores periods when each court faced competing concerns elsewhere. Military confrontation reflected the changing capacity of states, not an ancient ethnic hostility written into the landscape. The histories preserved for either kingdom tend to explain events from dynastic viewpoints. Reading them together can reveal the value of frontier routes while reminding readers that a court's territorial claims were often more precise in rhetoric than in everyday administration."
+      ],
+      "sequence": 7,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo: Micheon, Lelang and Daifang, fourth-century relations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.2:b08",
+      "title": "The reach of fortresses and roads",
+      "paragraphs": [
+        "Holding a region depended on the location of defensible sites and the ability to move between them. Routes served diplomacy, trade, and military expeditions simultaneously. A fortress could secure one passage while leaving neighboring hills and villages effectively autonomous. Transporting grain over difficult ground limited how long distant forces could remain in place. Modern maps simplify this logistical geography. UNESCO documentation of Goguryeo's city and tomb complexes offers physical context for royal and military settlement, although it does not identify every fourth-century route. The historian must combine topography with cautiously dated material evidence and avoid giving archaeological sites a political affiliation solely because of proximity to a reconstructed frontier."
+      ],
+      "sequence": 8,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    },
+    {
+      "id": "III.1.2:b09",
+      "title": "Remembering a decisive change",
+      "paragraphs": [
+        "The end of the commandery order became an attractive marker in later narratives about Goguryeo's power. Such periodization is helpful for teaching but can conceal gradual transitions, local variation, and the survival of communities beyond an official institution's demise. A victorious royal court could claim a new order even as older economic and cultural practices persisted. The task is to explain the interaction of these timescales. Politically, the collapse of commandery authority created room for regional kingdoms; socially, inhabitants continued to negotiate identity and livelihood. A source-critical chapter must tell both histories and resist treating the conquest of offices as a complete demographic or cultural replacement."
+      ],
+      "sequence": 9,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": [
+        {
+          "claim": "This institutional reference grounds the chronological or archaeological discussion but not all explanatory inferences.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tombs: later painted tomb chronology and preservation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.2:b10",
+      "title": "The new strategic problem",
+      "paragraphs": [
+        "Southern expansion enlarged Goguryeo's options but also exposed it to new competitors. A kingdom governing more routes and populations required greater military and administrative coordination. The successes of the early fourth century did not protect its western approaches against all future invasions or settle its rivalry with Baekje. Indeed, the subsequent reign of Gogukwon would show how vulnerable royal centers remained. The end of commandery power was therefore a transformation, not a final victory. Its importance lies in the new strategic geography and political possibilities that followed, setting the scene for both the disasters and the reforms of the later fourth century."
+      ],
+      "sequence": 10,
+      "label": "Batch AA source-critical original historical narrative",
+      "evidence": []
+    }
+  ]
+}

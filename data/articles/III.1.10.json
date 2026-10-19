@@ -1,0 +1,165 @@
+{
+  "id": "III.1.10",
+  "title": "Yeon Gaesomun, Royal Crisis, and the Militarization of Late Goguryeo",
+  "kicker": "GOGURYEO · ROYAL CRISIS AND COMMAND",
+  "description": "Source-conscious historical account of yeon gaesomun, royal crisis, and the militarization of late goguryeo, differentiating chronology, court rhetoric, material contexts and justified inference.",
+  "release": "AA",
+  "sourceStatus": "Original research synthesis with selected institutional contextual sources; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Broad reign chronology and political setting for late sixth- and seventh-century Goguryeo"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Korean historical sources database: Samguk Sagi",
+      "url": "https://db.history.go.kr/ancient/level.do?levelId=sg_037r_0020_0030",
+      "role": "Critical example of retrospective territorial and royal chronology, not a firsthand record of every diplomatic action"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Complex of Koguryo Tombs",
+      "url": "https://whc.unesco.org/en/list/1091/",
+      "role": "Mortuary and visual evidence for elite representations, not a direct narrative of individual court coups"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.1.10:b01",
+      "title": "A powerful kingdom with divided authority",
+      "paragraphs": [
+        "In the early seventh century Goguryeo retained formidable defenses and a court whose leaders had experience of continental confrontation. Surviving accounts nevertheless suggest tensions over who could direct its military resources and speak for the ruling order. Yeon Gaesomun appears within this context, but his biography comes through sources with strong political interests. Later Korean and Chinese narratives describe forceful actions and often attach moral judgments to ambition, disobedience or loyalty. The historian's task is to identify the institutional problem underneath these portrayals: military command could become a lever for reshaping the monarchy itself. This article concerns that transformation, not the chronological retelling of the final Goguryeo–Tang war assigned elsewhere."
+      ],
+      "sequence": 1,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Reference provides context for broad royal chronology or archaeology, not automatic confirmation of interpretation.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo royal reign and international context",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.10:b02",
+      "title": "Royal government before the coup",
+      "paragraphs": [
+        "The reign of Yeongnyu, beginning in 618, coincided with Tang China's consolidation after Sui's fall. Diplomatic relations, military preparation and internal court negotiations were intertwined. The survival of the Goguryeo state after the Sui campaigns did not mean unanimity at the center. Powerful commanders and aristocratic factions could reasonably differ about how to respond to a new Chinese dynasty. Yet the surviving narratives are not neutral reports of parliamentary factions, and names may be preserved precisely because they entered later accusations. A reconstruction must resist projecting modern ideological camps backward. What can be examined is the distribution of power among the king, senior nobles, officers and local military networks."
+      ],
+      "sequence": 2,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.10:b03",
+      "title": "Yeon Gaesomun's position and resources",
+      "paragraphs": [
+        "Yeon Gaesomun's rise is frequently explained through an office rendered as high minister or military leader, although the precise responsibilities attached to titles deserve contextual translation. His influence did not arise from personality alone. A commander operating within fortress and mobilization systems had access to followers, supplies and political information. Such networks could create leverage at court when external danger raised the value of military expertise. The sources do not allow us to list every officer, patron or household aligned with him. Nor should later accounts of his strength be used to infer a completely professional standing army under his private control. The crucial issue is the concentration of coercive and administrative capacities in competing hands."
+      ],
+      "sequence": 3,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Reference provides context for broad royal chronology or archaeology, not automatic confirmation of interpretation.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tomb evidence for elite visual culture and chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.10:b04",
+      "title": "The coup of 642",
+      "paragraphs": [
+        "Accounts date Yeon Gaesomun's violent seizure of power to 642 and associate it with the killing of King Yeongnyu and numerous officials. The event was a profound breach in royal succession and elite security. Details of the alleged plots and the exact number of victims vary in reliability because the major narratives were shaped by subsequent enemies and dynastic moral frameworks. Even with that caution, the broad transformation is not merely legend. A king was eliminated, leading political figures were purged, and a different relationship between monarchy and military authority followed. A narrative that focuses only on spectacular violence would miss the institutional question: how was continued obedience secured after coercion replaced ordinary court succession?"
+      ],
+      "sequence": 4,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.10:b05",
+      "title": "Bojang and the remaking of monarchy",
+      "paragraphs": [
+        "Bojang became king after the coup, while Yeon Gaesomun exercised dominant political authority. This relationship complicates the assumption that kingship was either wholly abolished or wholly unchanged. Royal ceremony and legitimacy remained useful, yet strategic decisions could be controlled through an overmighty court figure. Surviving Chinese sources may portray the arrangement as a warning about unruly subjects, while Korean traditions also carry retrospective judgments. Rather than declare Bojang a powerless figure without qualification, it is more accurate to analyze the asymmetry of authority documented by subsequent actions. The monarchy persisted as an institution even when decisive initiative had moved into the hands of a militarized political leadership."
+      ],
+      "sequence": 5,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Reference provides context for broad royal chronology or archaeology, not automatic confirmation of interpretation.",
+          "sourceIndex": 1,
+          "locator": "NIKH retrospective chronicles: source limitations",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.10:b06",
+      "title": "Purges and elite redistribution",
+      "paragraphs": [
+        "A successful violent seizure of power changes the social distribution of risk. Families associated with displaced officers may lose patronage; new adherents may gain appointments and access to resources. Direct records of these processes in Goguryeo are inadequate for a precise list of confiscations or household movements. Nonetheless the general mechanics of elite reorganization help frame questions for material and textual research. The coup may have reduced opportunities for compromise within the court while strengthening the commander's ability to require coordinated action. It would be misleading to label every later act as a consequence of the initial purge, however. Local loyalties, geography and the continuing external crisis had their own effects."
+      ],
+      "sequence": 6,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.10:b07",
+      "title": "Defense as an organizing principle",
+      "paragraphs": [
+        "The concentration of military direction could support swift mobilization, especially when leaders expected attacks across a long frontier. It could also make political authority dependent on maintaining cohesion among commanders and garrison communities. Roads, stores, fortresses and the movement of information were not abstract components of a grand strategy. They were maintained by labor and by officers who interpreted orders under pressure. A decree from the capital could not ensure a remote stronghold had food. Distinguishing the political leadership of defense from specific battle tactics allows the reader to understand the institutional stakes without consuming the separate Chapter that owns the wars against Tang and the final destruction of Goguryeo."
+      ],
+      "sequence": 7,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Reference provides context for broad royal chronology or archaeology, not automatic confirmation of interpretation.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tomb evidence for elite visual culture and chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.10:b08",
+      "title": "Diplomacy, ideology and historical blame",
+      "paragraphs": [
+        "Chinese dynastic histories had reasons to depict a ruler killed by his powerful subject as evidence of disorder in a neighboring state. Such accounts could help justify intervention and explain campaigns within a framework of restoring proper hierarchy. Goguryeo's court may have framed its autonomy differently, but its own complete official archive has not survived. The historian therefore cannot simply choose either side's self-description. Buddhist patronage, ritual memory and court rhetoric also formed part of political legitimacy; none supplies a direct record of private loyalties. Source comparison must ask what a narrative's audience was expected to learn from Yeon Gaesomun's conduct as well as what its event sequence can corroborate."
+      ],
+      "sequence": 8,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.10:b09",
+      "title": "Families and populations beneath command",
+      "paragraphs": [
+        "The rise of a military strongman was experienced most directly by those placed under new demands for service. Households could supply grain and cloth, maintain transport and accommodate soldiers without having any say in the arguments among the highest officers. Yet the direct evidence does not permit a detailed reconstruction of daily life under Yeon Gaesomun across all regions. A tomb painting, an imported object or a later biography may illuminate cultural setting, but it does not identify a specific family harmed by the coup. This limitation should invite targeted research on fortification, settlement, subsistence and social rank rather than the invention of ordinary voices to make the account appear complete."
+      ],
+      "sequence": 9,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Reference provides context for broad royal chronology or archaeology, not automatic confirmation of interpretation.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tomb evidence for elite visual culture and chronology",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.10:b10",
+      "title": "Succession and the fragility of personal rule",
+      "paragraphs": [
+        "A regime organized around an exceptional leader can coordinate policies while he lives, but its continuity also depends on relationships among heirs and commanders. Later Goguryeo politics reveal how valuable cohesion among elite lineages and garrisons remained. The precise later sequence of succession struggles and their role in the kingdom's final defeat belongs to the final-war Chapter, where chronology can be examined alongside competing reports. Here the relevant point is structural: concentrating the functions of minister, commander and kingmaker posed a problem of institutional succession. The coup transformed power within Goguryeo without resolving its external dangers. The survival and later fate of the kingdom were not predetermined at the moment Yeon Gaesomun seized authority."
+      ],
+      "sequence": 10,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    }
+  ]
+}

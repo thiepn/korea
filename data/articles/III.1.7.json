@@ -1,0 +1,165 @@
+{
+  "id": "III.1.7",
+  "title": "Governing a Vast and Diverse Realm",
+  "kicker": "GOGURYEO · GOVERNMENT ACROSS REGIONS",
+  "description": "Original historical analysis of governing a vast and diverse realm, grounded in differentiated source traditions and material evidence.",
+  "release": "AA",
+  "sourceStatus": "Original source-critical synthesis with selected contextual references; not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Political and institutional framework; secondary overview, not a complete administrative archive"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Material evidence of capital and mortuary contexts; chronology and attribution must be verified case by case"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical source passages on Goguryeo's move south",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_009_0050",
+      "role": "Contextual translations and presentation of the later Samguk Sagi historical traditions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.1.7:b01",
+      "title": "The distance between command and control",
+      "paragraphs": [
+        "At the height of its influence Goguryeo could claim authority across landscapes ranging from northern mountain basins to southern river corridors. Claims of a large realm, however, should not be confused with a single administrative system identical at every point. Court decrees needed intermediaries to become effective. Strongholds controlled routes, regional elites organized people, and local production determined what soldiers and officials could obtain. Written testimony usually privileges the court because dynastic historians assembled their accounts around kings and major crises. The practical history of governing is more elusive. Archaeology, inscriptions and comparison with contemporaneous polities can indicate mechanisms of control, but none licenses an invented map of village-level bureaucratic offices. Goguryeo's diversity is a historical fact to explain rather than an embarrassment to erase."
+      ],
+      "sequence": 1,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Contextual institutional anchor for historical setting; individual inferences remain qualified.",
+          "sourceIndex": 0,
+          "locator": "Academy of Korean Studies: Goguryeo institutional and political summary",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.7:b02",
+      "title": "Royal titles and offices",
+      "paragraphs": [
+        "Sources preserve titles for officials and ranks, yet their meanings may have shifted over centuries. Translating each title as the equivalent of a later Chinese bureaucratic office may create precision that the original institutions did not possess. Some designations signaled court honor, others military responsibility, provincial ties or relative standing within the elite. The relation between hereditary leaders and appointment by the king could be renegotiated as conquests changed the balance of resources. Records produced after Goguryeo's fall must be checked for retrojection of later terminology. A named official in one century cannot automatically establish an identical hierarchy a century earlier. What matters is how statuses and obligations were assigned and how personal bonds became more predictable forms of service."
+      ],
+      "sequence": 2,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.7:b03",
+      "title": "Fortress districts and regional command",
+      "paragraphs": [
+        "Fortresses were prominent in Goguryeo's political geography because they offered defense, visibility and potential sites of storage. They were not interchangeable miniature capitals. A defended site could be a royal residence, a local elite center, a refuge, a frontier post or a base for controlling transport. Excavations can illuminate construction phases and settlement around walls; they rarely reveal the complete list of surrounding villages that supplied a commander. A fortress network could make authority resilient in a crisis but also grant powerful local officers substantial independence. Movement among sites was shaped by the season and by their distance from cultivated land. Thus governance through forts was as much a social and economic arrangement as a military design."
+      ],
+      "sequence": 3,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Contextual institutional anchor for historical setting; individual inferences remain qualified.",
+          "sourceIndex": 1,
+          "locator": "UNESCO WHC: monument and royal capital archaeology as contextual evidence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.7:b04",
+      "title": "Local chiefs and incorporation",
+      "paragraphs": [
+        "A court expanding into other communities had to decide whether to displace local authorities, reward them, take hostages, demand tribute or negotiate obligations. None of these methods need have operated uniformly. In some districts an elite family may have retained its position after accepting a new overlord; elsewhere competition or relocation altered leadership. Interpretations of changing burial practices must distinguish elite emulation from direct political annexation. Names preserved in chronicles offer only a small sample of the people who mediated power across cultural and linguistic boundaries. The kingdom's political breadth likely rested on repeated local bargaining. Treating incorporation as a single conquest decree would obscure the continued need to persuade, discipline and supply those whose cooperation gave authority a daily form."
+      ],
+      "sequence": 4,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.7:b05",
+      "title": "Taxes, deliveries and coerced service",
+      "paragraphs": [
+        "Royal courts and garrisons required food, textiles, tools, metals and labor. Their acquisition could take the form of tribute, household obligations, redistribution by regional elites or direct requisition, although detailed schedules for each practice are not recoverable for all periods. Later administrative models should not be projected backward as fully documented Goguryeo tax codes. Where storage features, agricultural installations and material workshops appear, they provide clues about local production, not an automatic measure of how much the state extracted. The distribution of obligations also mattered: a soldier's equipment might represent the labor of multiple noncombatant households. Such questions make economic history central to evaluating how the political realm actually worked."
+      ],
+      "sequence": 5,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Contextual institutional anchor for historical setting; individual inferences remain qualified.",
+          "sourceIndex": 2,
+          "locator": "NIKH history source display: royal chronicles and geopolitics",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.7:b06",
+      "title": "Soldiers and the civilian infrastructure",
+      "paragraphs": [
+        "Campaigns that appeared in chronicles as royal acts depended upon porters, smiths, livestock, fodder and paths that remained usable during seasonal rains or cold. The responsibility for mobilizing these resources may have fallen on fortress commanders and regional leaders, connecting military service to personal and local political relations. Archaeological weapons cannot tell us whether the people bearing them were conscripts, retainers, or professional troops without supporting evidence. Children, older residents and people not serving in the army could nonetheless face shortages caused by mobilization. A strong frontier may have protected some farms while placing others on contested ground. The kingdom's military capacity was consequently a distributive problem within society, not merely the achievement of celebrated generals."
+      ],
+      "sequence": 6,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.7:b07",
+      "title": "Law, order and limited testimony",
+      "paragraphs": [
+        "Later sources associate Goguryeo with punishment, rank and legal rules, but fragments of reported custom should not be turned into a complete reconstruction of criminal procedure. The absence of preserved local case files makes it especially difficult to assess ordinary disputes, property relations or the degree of protection available to persons of different status. Norms at court and practice in peripheral settlements need not have matched. Comparative history can identify likely questions—who could demand compensation, appeal a commander, recover debts or claim inherited land—without pretending to know every answer. This restraint is not a failure of social history. It exposes where chronicles tell us what rulers wanted to display rather than how justice was actually experienced."
+      ],
+      "sequence": 7,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Contextual institutional anchor for historical setting; individual inferences remain qualified.",
+          "sourceIndex": 1,
+          "locator": "UNESCO WHC: monument and royal capital archaeology as contextual evidence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.7:b08",
+      "title": "Religious and ceremonial plurality",
+      "paragraphs": [
+        "Rulers used ancestral memory, funerary monuments and, increasingly, Buddhist patronage as ways to express political legitimacy. These forms could give distant elites a ceremonial language shared with the court. Yet recognition of Buddhism did not instantly homogenize regional religious practice, nor does a lavish elite tomb describe the beliefs of every village. Depictions in mural tombs can reveal idealized spaces, dress, processions and cosmological symbols, but their dating, intended audiences and selective social viewpoint all matter. Ritual may have helped draw the kingdom together precisely because its inhabitants did not share a single unchanged set of customs. Government and religion intersected without becoming identical categories."
+      ],
+      "sequence": 8,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    },
+    {
+      "id": "III.1.7:b09",
+      "title": "Languages and cultural negotiation",
+      "paragraphs": [
+        "The multilingual and multiethnic character of northeastern Asia complicates any attempt to equate political territory, a ceramic style and a stable language community. Surviving names and foreign ethnonyms offer scattered evidence, often filtered through the script and conventions of Chinese court writing. An inscription commissioned by Goguryeo's rulers tells us about an authoritative register; it cannot prove uniform speech among all subjects. Trade, service, marriage and migration would have created settings for cultural translation. These interactions can be studied through material patterns and comparative sources while acknowledging that ordinary conversations have not survived. The historical achievement of a broad polity was the coordination of difference, not its disappearance."
+      ],
+      "sequence": 9,
+      "label": "Batch AA original historical analysis",
+      "evidence": [
+        {
+          "claim": "Contextual institutional anchor for historical setting; individual inferences remain qualified.",
+          "sourceIndex": 1,
+          "locator": "UNESCO WHC: monument and royal capital archaeology as contextual evidence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "III.1.7:b10",
+      "title": "Limits of an imperial outline",
+      "paragraphs": [
+        "A political map with one strong color is an efficient teaching device but an unreliable substitute for evidence. Influence might be episodic in an outlying valley, negotiated in a coastal community, and enforced more continuously around a royal capital. Claims of total submission in commemorative inscriptions can register a political aspiration as well as an event. Conversely, a sudden retreat from one district need not signify collapse of every other mechanism of rule. Studying the variety of command, exchange, language, ritual, and local obligation allows the size of Goguryeo to be explained rather than merely repeated. The next article asks how such a differentiated system responded when its western and southern frontiers became less secure."
+      ],
+      "sequence": 10,
+      "label": "Batch AA original historical analysis",
+      "evidence": []
+    }
+  ]
+}

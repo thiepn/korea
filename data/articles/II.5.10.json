@@ -1,0 +1,165 @@
+{
+  "id": "II.5.10",
+  "title": "Goguryeo at the Threshold of the Fourth Century",
+  "kicker": "GOGURYEO · EARLY SOCIETY AND FOURTH-CENTURY THRESHOLD",
+  "description": "A source-critical history of goguryeo at the threshold of the fourth century, explicitly separating textual representation, archaeological evidence and interpretation.",
+  "release": "AA",
+  "sourceStatus": "Original synthesis with selective contextual sources; independent specialist review pending.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Chronology, social integration, geopolitical relationships and transformation through early fourth century"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Capital-city archaeological setting and elite commemorative landscapes"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Safeguarding Koguryo Tombs and Mural Paintings",
+      "url": "https://whc.unesco.org/en/koguryotombs",
+      "role": "Chronology of tomb construction and the limits of funerary evidence"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.5.10:b01",
+      "title": "A kingdom before its fourth-century transformation",
+      "paragraphs": [
+        "At the beginning of the fourth century Goguryeo was no longer simply a collection of adjacent valley communities, yet it remained different from the later kingdom remembered through expansive inscriptions and richly painted tombs. Political authority had survived generations of competition, contact with commandery centers, and changing regional alliances. Fortified positions, royal lineages, and networks of obligation provided a durable foundation for further growth. Their precise reach was uneven, and the written narrative is disproportionately concerned with court decisions. The historian's task is to reconstruct a kingdom with emerging capacities rather than to assume it already possessed the territorial administration or military organization associated with its fifth-century high point."
+      ],
+      "sequence": 1,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo specialist history: social and political formation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.10:b02",
+      "title": "The long shadow of third-century conflict",
+      "paragraphs": [
+        "A major turning point occurred in the third century when campaigns associated with the Cao Wei frontier severely damaged Goguryeo's political center. Later accounts of these operations describe royal flight, destruction, and efforts to restore power. The event cautions against a smooth story of uninterrupted expansion. A kingdom could win local victories while suffering grave defeats from a larger imperial force. The immediate aftermath is difficult to reconstruct in detail, especially where locations and population figures are uncertain. What matters for institutional history is that political organization survived even after a costly assault on its center. Its resilience should not be romanticized: households bore losses and rulers had to rebuild relationships as well as walls."
+      ],
+      "sequence": 2,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    },
+    {
+      "id": "II.5.10:b03",
+      "title": "Recovery through political recalibration",
+      "paragraphs": [
+        "The recovery of authority after military crisis required more than repairing fortifications. Rulers needed renewed cooperation from influential families, access to food, and the ability to position themselves among rival powers. External political fragmentation might create openings, but it did not guarantee military success. Diplomatic contacts and strategic retreats could be as important as conspicuous victories. Official narratives tend to compress recovery into the reign of a successful king; ordinary life and negotiations outside the court remain obscure. Historians can nevertheless identify a pattern of continued institutional adaptation. The political system that emerged from repeated pressure was likely more practiced in mobilization and frontier diplomacy than the early coalition described in foundation stories."
+      ],
+      "sequence": 3,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tomb conservation: chronology of material and ritual evidence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.10:b04",
+      "title": "Micheon and the changing northwestern balance",
+      "paragraphs": [
+        "The reign of Micheon, conventionally dated 300–331, belongs to the transition into a new phase of competition over the northwestern peninsula. His rise and campaigns are preserved in later royal history, with details filtered through chronology and moral narrative. The eventual defeat of the Lelang and Daifang commandery order is usually associated with the early fourth century and represented a major realignment of regional authority. One should not imagine these institutions disappearing overnight from the habits, settlements, or networks of the people who had lived under them. Their political structures weakened while populations, skills, and exchange practices continued to shape the landscape. This continuity complicates claims of a wholly new beginning."
+      ],
+      "sequence": 4,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    },
+    {
+      "id": "II.5.10:b05",
+      "title": "The meaning of the commanderies' end",
+      "paragraphs": [
+        "When commandery centers ceased to function as instruments of a continental dynasty, the implications extended beyond one court's victory. Administrators, military personnel, merchants, and local elites faced decisions about allegiance, movement, or accommodation. Material culture did not switch immediately to a single identifiable Goguryeo pattern. Some households may have continued commercial or cultural relationships regardless of the change in political control. The surviving sources illuminate high-level campaigns more readily than the status of ordinary residents. A source-critical account avoids claiming that every person experienced the transformation as liberation or conquest in the same way. Political sovereignty and social continuity could change at different speeds."
+      ],
+      "sequence": 5,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 1,
+          "locator": "UNESCO Koguryo capital cities: settlement archaeology and elite architecture",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.10:b06",
+      "title": "The mainland frontier remains contested",
+      "paragraphs": [
+        "The end of certain commandery administrations did not remove formidable rivals from northeastern Asia. Regional regimes in Liaodong and beyond continued to possess military resources and ambitions. Goguryeo faced competing claims over strategic routes, settlements, and allies, and could still suffer invasion. A capital protected by mountainous terrain was not secure if an opponent could disrupt food supply or exploit an unexpected approach. The fourth century's subsequent crises cannot be explained as sudden accidents; they arose from a landscape in which several states sought command of the same corridors. The threshold year is therefore less meaningful than the continuing contest over practical frontier power."
+      ],
+      "sequence": 6,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    },
+    {
+      "id": "II.5.10:b07",
+      "title": "Institutions under pressure",
+      "paragraphs": [
+        "Repeated warfare made stable recruitment, provisions, strategic communication, and royal cooperation with leading families increasingly important. Institutions evolve when people respond to recurrent problems, not necessarily because a monarch announces a completed constitutional reform. Some practices may have been improvised first and standardized later. The record offers only selected glimpses of their development. Interpreting the earlier state solely through formal ranks documented in later reigns would exaggerate coherence. Yet denying any institutional continuity because early evidence is poor would be equally misleading. The ability to reorganize after third-century defeat is itself an indication that the kingdom possessed relationships capable of lasting beyond one disastrous campaign."
+      ],
+      "sequence": 7,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo specialist history: social and political formation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.10:b08",
+      "title": "A changing social composition",
+      "paragraphs": [
+        "Political growth incorporated people whose forebears had belonged to different communities or whose livelihoods connected them with former commandery territories. Their status was neither identical nor permanently fixed. Some households may have supplied specialists valued by rulers; others may have experienced harsher extraction or movement after warfare. The textual sources are insufficient for a demographic census, and burial evidence cannot identify every individual's ancestry. It is therefore better to describe changing affiliations and social opportunities than a single homogeneous population suddenly replacing another. This process helps explain how later Goguryeo became culturally varied despite dynastic narratives that foreground continuity from one founder."
+      ],
+      "sequence": 8,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    },
+    {
+      "id": "II.5.10:b09",
+      "title": "Remembering beginnings from a stronger position",
+      "paragraphs": [
+        "When later kings presided over a much larger realm, foundation stories and earlier victories became instruments for explaining their authority. The opening genealogy of the Gwanggaeto stele demonstrates how a fifth-century court used a centuries-old origin tradition to legitimate contemporary success. Its inscription is invaluable evidence of that later political memory but cannot turn every legendary first-century episode into verified fact. Likewise, medieval chronicles could arrange irregular early developments into an orderly royal succession. Such texts should be studied for both their historical notices and their acts of remembrance. The fourth-century threshold is a useful place to notice the distance between what the kingdom had become and how it later narrated its beginnings."
+      ],
+      "sequence": 9,
+      "label": "Batch AA · original critical history",
+      "evidence": [
+        {
+          "claim": "The cited institutional context informs interpretation without individually certifying each historical inference.",
+          "sourceIndex": 2,
+          "locator": "UNESCO tomb conservation: chronology of material and ritual evidence",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.10:b10",
+      "title": "A hinge between two historical Chapters",
+      "paragraphs": [
+        "The formation of Goguryeo and the rise of the northern kingdom are connected but distinct histories. The former concerns the emergence of durable rule, regional incorporation, and relations with frontier institutions. The latter examines the fourth-century crises, institutional changes, territorial expansion, and diplomatic power that created a major regional kingdom. Between them lies uncertainty over dates, geography, and the varied experiences of those who lived outside royal circles. Keeping this hinge visible prevents a narrative of destiny in which the early polity must inevitably become the fifth-century power. Subsequent victories were contingent achievements built on an inherited but imperfect political foundation."
+      ],
+      "sequence": 10,
+      "label": "Batch AA · original critical history",
+      "evidence": []
+    }
+  ]
+}

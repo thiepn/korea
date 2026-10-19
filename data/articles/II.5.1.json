@@ -1,0 +1,165 @@
+{
+  "id": "II.5.1",
+  "title": "Jumong, Buyeo Origins, and Goguryeo Foundation Traditions",
+  "kicker": "EARLY GOGURYEO · FORMATION AND SOURCE CRITICISM",
+  "description": "An original historical study of jumong, buyeo origins, and goguryeo foundation traditions, separating political traditions, documentary testimony and archaeological interpretation.",
+  "release": "AA",
+  "sourceStatus": "Original source-critical synthesis with selective contextual institutional anchors; independent specialist review pending.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Goguryeo (고구려)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003323",
+      "role": "Specialist synthesis: early history, Han frontier, kingdom expansion and the limits of retrospective chronology"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Dongmyeongseongwang (동명성왕)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0016431",
+      "role": "Foundation traditions, Chumo/Jumong, variant name forms and transmission through later chronicles and inscriptions"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "role": "Site-specific archaeological reference for Huanren, Ji'an, fortifications, tombs and the Gwanggaeto stele"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.5.1:b01",
+      "title": "A foundation remembered in several voices",
+      "paragraphs": [
+        "Goguryeo's founding was remembered through stories of Jumong, also known in inscriptions as Chumo. The account places a gifted archer within a northern world associated with Buyeo and portrays his journey to the Jolbon region as the beginning of a new kingship. A date of 37 BCE became the conventional opening of his reign, but it should not be confused with the date when every institution later called Goguryeo came into being. The transmitted narratives were written and recopied by people who already knew the kingdom's subsequent history. They explained legitimate rule, ancestral rank, and regional belonging. Their value is therefore substantial even where episodes of miraculous birth or instantaneous conquest cannot be checked against contemporary administrative records."
+      ],
+      "sequence": 1,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo synthesis: early political and frontier formation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.1:b02",
+      "title": "Buyeo as a political language",
+      "paragraphs": [
+        "Connection with Buyeo mattered because rulers used kinship, migration, and shared ceremonial memory to describe their authority. A hero might claim descent from heavenly and aquatic powers; the claim expressed a kind of sovereignty whose language was recognizable across northeastern polities. A literal genealogy from a single man to every later inhabitant would be misleading. Communities around the upper and middle Yalu basin were multiple and their identities changed through alliance, incorporation, intermarriage, and political pressure. Buyeo itself appears in Chinese and Korean traditions with different emphases. Rather than treating these narratives as a modern ethnic family tree, one can ask why the Goguryeo court found a northern ancestry persuasive and how memories of movement helped connect a heterogeneous population to a ruling house."
+      ],
+      "sequence": 2,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    },
+    {
+      "id": "II.5.1:b03",
+      "title": "The river-crossing episode",
+      "paragraphs": [
+        "One durable motif is the founder's escape across a river while pursued by enemies. In some versions animals or waters themselves assist the passage. This is not usable as a report of a witnessed military operation, yet it organizes several politically meaningful contrasts: danger and deliverance, an old lordship and a new realm, exclusion and divinely sanctioned leadership. Rivers also mattered concretely. They carried goods and people, constrained campaigns, linked valleys, and could become seasonally dangerous frontiers. The story's imaginative geography and the peninsula's physical geography belong to different kinds of evidence. It is possible to examine both without using an archaeological map to prove a miracle or dismissing the story merely because it is not an excavation report."
+      ],
+      "sequence": 3,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Koguryo capital cities: fortifications and Gwanggaeto stele",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.1:b04",
+      "title": "Jolbon and the problem of location",
+      "paragraphs": [
+        "Foundation accounts name Jolbon, but equating every literary place-name with one excavated settlement remains difficult. The Huanren and middle Yalu zones offer defensible settings for early fortified communities, although specific identifications depend on readings of place-names, topography, and excavation sequences. The UNESCO-listed Wunu Mountain City demonstrates how a mountain position could combine settlement, defence, and courtly representation. Its protected remains are material evidence, not an independently dated eyewitness account of Jumong's arrival. A reader should resist a tidy picture of a single capital founded overnight. Fortifications were built, rebuilt, abandoned, and reused. The political meaning of a location could persist through those changes and be sharpened when a later dynasty composed its foundation genealogy."
+      ],
+      "sequence": 4,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    },
+    {
+      "id": "II.5.1:b05",
+      "title": "Marriage, descent, and royal succession",
+      "paragraphs": [
+        "The founder's household is central to the transmitted story. Royal marriage could connect a newcomer with local leadership, while accounts of children arriving from elsewhere provided ways to explain succession and rival claims. Such episodes reflect a problem recognizable in many early states: a leader's personal prestige does not automatically determine who commands after his death. Later authors organized uncertain early relationships into sequences of kings and heirs. The resulting names and reign years are useful chronological guides, but their apparent precision can exceed what independent inscriptions and securely dated archaeological layers establish. A responsible reconstruction separates the existence of succession tradition from proof of a particular private conversation, exact birth order, or decisive meeting."
+      ],
+      "sequence": 5,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 1,
+          "locator": "AKS Dongmyeongseongwang: transmitted Chumo foundation narratives",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.1:b06",
+      "title": "Neighbors incorporated into memory",
+      "paragraphs": [
+        "Early conquest lists mention nearby peoples and places, including communities usually rendered in later histories as Biryu and northern Okjeo. These notices should not be read as evidence that a clearly bounded kingdom conquered every district in a single campaign. They may preserve memories of gradually changing tributary obligations, negotiated allegiance, seasonal movement, local rivalry, or victories subsequently assigned to a famous ancestor. The terms used by chroniclers often compress varied political relationships into the language of submission. Archaeology instead registers changes in settlement, burial custom, exchange, and fortification at uneven rates. Neither body of evidence can be mechanically translated into the other. The question is how the basin's local networks became able to support a more persistent claim of central command."
+      ],
+      "sequence": 6,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    },
+    {
+      "id": "II.5.1:b07",
+      "title": "Later inscriptions and earlier events",
+      "paragraphs": [
+        "A major complication is chronological distance. The great Gwanggaeto stele, erected in 414 CE, commemorates a king whose achievements lay centuries after the conventionally dated foundation. Its opening genealogy still matters: it shows how a powerful Goguryeo court publicly presented its founder when its territorial influence had grown. That inscription is nearer in time to the kingdom than medieval Korean compilations, yet it remains an official monument with a political audience. Its statements cannot simply be transferred backward as neutral evidence about every event in the first century BCE. Reading the monument alongside later narratives reveals both continuity and deliberate shaping in the language of origin."
+      ],
+      "sequence": 7,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 0,
+          "locator": "AKS Goguryeo synthesis: early political and frontier formation",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.1:b08",
+      "title": "What early archaeology can establish",
+      "paragraphs": [
+        "Excavated walls, burials, pottery, metal objects, and settlement patterns establish that people occupied and organized the region long before the surviving chronicles were assembled. They illuminate access to resources, regional distinctions, elite display, and the practical possibilities of defence. They rarely carry labels giving the name of a founder or the exact date of political annexation. Burial forms especially require care: a stone mound is not an automatic ethnic badge, and a concentration of rich graves does not by itself prove a named office existed. Repeated landscape use suggests durable communities from which rulers could recruit. Changes within those communities, however, are better understood as historical processes than as the physical imprint of a single legendary event."
+      ],
+      "sequence": 8,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    },
+    {
+      "id": "II.5.1:b09",
+      "title": "The politics of remembering Chumo",
+      "paragraphs": [
+        "Chumo's narrative survived because later rulers, writers, and communities kept finding use for it. A royal founding story could justify hierarchy while also offering a vocabulary of shared past for groups who entered the state by very different paths. It could link distinctive local cults and a wider celestial order. The story has subsequently become part of the historical memory of multiple modern societies, which makes interpretation especially susceptible to national ownership disputes. Ancient inhabitants did not operate with today's borders or citizenship categories. The task is not to strip meaning from their traditions, but to distinguish ancient claims of legitimacy, later textual transmission, and modern interpretation as separate layers of historical evidence."
+      ],
+      "sequence": 9,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": [
+        {
+          "claim": "The named institutional source supports this article's chronological or material context, not every interpretive inference in its prose.",
+          "sourceIndex": 2,
+          "locator": "UNESCO Koguryo capital cities: fortifications and Gwanggaeto stele",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "II.5.1:b10",
+      "title": "From founder to institutions",
+      "paragraphs": [
+        "The next historical question is not whether the founder was remembered but how an enduring polity emerged. Royal title, household alliances, defensible sites, collection of surplus, and armed coordination all had to become more stable than the career of one celebrated leader. The foundation tradition offers a language for why legitimate rule began; material and comparative evidence help explain conditions under which it could continue. A convincing account therefore leaves room for uncertain timings, changing geography, and the agency of communities outside the royal genealogy. It also connects the foundation to subsequent transformations rather than treating the year 37 BCE as a magical boundary between prehistoric settlement and a fully organized kingdom."
+      ],
+      "sequence": 10,
+      "label": "Batch AA original narrative · critically contextualized",
+      "evidence": []
+    }
+  ]
+}
