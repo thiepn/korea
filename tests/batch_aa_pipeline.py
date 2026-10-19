@@ -23,7 +23,7 @@ def git_show(ref: str, path: str) -> bytes:
 
 def git_blob(path: Path) -> str:
     raw = path.read_bytes()
-    return hashlib.sha1(b"blob " + str(len(raw)).encode() + b"\\0" + raw).hexdigest()
+    return hashlib.sha1(b"blob " + str(len(raw)).encode() + b"\0" + raw).hexdigest()
 
 titles = canonical()
 baseline = fixture["article_blobs"]
@@ -89,7 +89,7 @@ for id in sorted(targets):
         for paragraph in b["paragraphs"]:
             assert isinstance(paragraph,str) and len(paragraph) >= 150, ("short paragraph",id)
             article_words += len(WORD_RE.findall(paragraph))
-            normalized_paragraphs.append(" ".join(re.findall(r"\\w+",paragraph.casefold())))
+            normalized_paragraphs.append(" ".join(re.findall(r"\w+",paragraph.casefold())))
         for e in b.get("evidence", []):
             assert e.get("type") in ("context","direct"), id
             assert len(e.get("locator", "")) >= 12 and len(e.get("claim", "")) >= 24, id
