@@ -27,7 +27,7 @@ with sync_playwright() as pw:
         page.keyboard.press('/');page.locator('#searchInput').fill('연개소문')
         page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("II.5.1")',timeout=20000)
         page.keyboard.press('Escape')
-        page.evaluate('location.hash="#/history/III.1.8"')
+        page.evaluate('location.hash="#/history/III.1.10"')
         page.wait_for_function('document.body.textContent.includes("A powerful kingdom with divided authority")',timeout=20000)
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),('horizontal overflow',w)
         assert not errors,(w,errors)
