@@ -435,8 +435,8 @@
     "I.5.1": 3,
     "IV.2.2": 4
   },
-  "authored_snapshot": null,
-  "expected_new_words": null,
-  "expected_new_passages": null,
-  "expected_source_anchors": null
+  "authored_snapshot": "8d82a0e1c00a1c6d07e3ebae19bc60025a8741fd",
+  "expected_new_words": 20362,
+  "expected_new_passages": 196,
+  "expected_source_anchors": 90
 }
