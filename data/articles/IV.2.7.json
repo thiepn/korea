@@ -1,0 +1,161 @@
+{
+  "id": "IV.2.7",
+  "title": "Census, Household Registration, and Administrative Knowledge",
+  "kicker": "UNIFIED SILLA · REGIONS AND GOVERNMENT INFORMATION",
+  "description": "Original critical analysis of census, household registration, and administrative knowledge, integrating court narrative, provincial scholarship and the fragmentary village register.",
+  "release": "AC",
+  "sourceStatus": "Contextual institutional source anchors and scholarly interpretations; no independent specialist peer review.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Unified Silla institutions and provincial centers",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Nine provinces, five secondary capitals, offices and government chronology"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Local administration after the Three Kingdoms' unification",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002472164",
+      "role": "Peer-reviewed interpretation of continuities and change in provincial organization and class hierarchy"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Military and geographic links of the nine provinces, five capitals and ten garrisons",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003117234",
+      "role": "Geographical analysis of the regional centers and provincial cavalry forces"
+    },
+    {
+      "institution": "Okayama University scholarly repository",
+      "title": "Proposed locations of villages recorded in the Silla Village Register",
+      "url": "https://ousar.lib.okayama-u.ac.jp/ja/70053",
+      "role": "Recent source-based study; village locations and register interpretations remain disputed"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.2.7:b01",
+      "title": "A surviving window into rural administration",
+      "paragraphs": [
+        "The Silla village register, preserved in the Shōsōin collection in Japan, offers an unusually concrete glimpse of official knowledge about selected villages in the Unified Silla era. The surviving fragments concern four communities and record several categories relevant to population, fields, livestock and trees. Its dating and the precise identification of the villages have been debated, so it should not be introduced as a census for the entire kingdom on one uncontroversial year. The document's significance lies in its specificity: it shows what some officials attempted to know, in a way that celebratory court chronicles rarely disclose. It is equally important to understand why its exceptional survival cannot make it universal."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "NIKH nine provinces and five secondary capitals"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.7:b02",
+      "title": "Enumerating households",
+      "paragraphs": [
+        "Household entries were an administrative way of grouping people according to categories useful for obligations. Such categories may not map exactly onto modern family structure or residence. A dependent relative, servant or temporarily absent worker could be represented according to rules that are only partly understood. Translating the terminology requires comparison with historical usage rather than substituting a present-day population census template. The appearance of precise numbers conveys official ambition but not perfect accuracy. Clerks relied on information from local intermediaries, whose incentives might affect reporting. A document counts what its makers were instructed to count, not all the dimensions of rural social life."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.7:b03",
+      "title": "Age and labor classifications",
+      "paragraphs": [
+        "Records of people by age or sex, where preserved and interpreted, suggest that officials were concerned with productive and service capacities. Yet modern categories such as working-age population cannot be imposed without examining the original terminology. Administrative age thresholds could relate to corvée or status obligations rather than biological concepts of adulthood. Some people may have been excluded or classified differently because of status or mobility. The presence of a category therefore raises questions about what the state expected to demand, not merely how many people lived in a village. Historical analysis must treat the table's classification system as an artifact of government."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "KCI military and transport geography of provincial centers"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.7:b04",
+      "title": "Fields as measured resources",
+      "paragraphs": [
+        "The register includes land-related information that can illuminate the state's interest in cultivation and revenue. Measures of area, distinctions among types of fields and references to landholding require philological care. A recorded plot might not correspond neatly to modern individual ownership, and the relationship between cultivated land and taxable rights could vary. Archaeological evidence for paddies or dry fields can supply separate environmental context, but cannot identify every parcel listed in a manuscript. Precise numerical entries should not be converted into modern hectares without transparent conversion assumptions. What matters is that land had become an object of official knowledge, even while the actual use of fields remained locally managed."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.7:b05",
+      "title": "Livestock and trees",
+      "paragraphs": [
+        "The enumeration of animals and particular trees suggests a governmental interest extending beyond the number of houses or the area of cultivated fields. Such entries may have helped assess resources or obligations, but the specific administrative purpose is debated. Counting productive trees is not proof that officials confiscated their produce every year. Livestock ownership could vary considerably within and between households, and an aggregate figure cannot reveal each person's economic security. These categories demonstrate the breadth of possible state information while showing how rural environments were classified for recordkeeping. Trees and animals belonged to everyday livelihoods before appearing in a register."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "NIKH nine provinces and five secondary capitals"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.7:b06",
+      "title": "The writing and transmission of the document",
+      "paragraphs": [
+        "A document had to be compiled, checked, copied and eventually stored for it to become part of a governing archive. The Silla register's exceptional survival outside Korea complicates reconstruction of its original administrative context. We do not know every stage of its movement into the collection where it was preserved. Paleography, paper studies and comparison of terminology can help assess its date and purpose. The manuscript should not be treated as an effortless window directly onto a village. Its entries are the outcome of clerical choices and institutional procedures, and its later archival path is part of the source's history."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.7:b07",
+      "title": "Where were these villages?",
+      "paragraphs": [
+        "The precise geographical identification of the four villages has generated continued scholarly debate. Research in the Okayama University repository examines proposed locations using later geographical records, historic maps and topography. The problem matters because the economic meaning of a field total or settlement pattern changes with environment and distance from regional centers. An identification based only on a similar name may be unreliable if place names shifted over centuries. Historians should distinguish proposed reconstructions from established provenances. A map that plots all four as exact modern locations risks communicating more certainty than the surviving manuscript supports."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "KCI military and transport geography of provincial centers"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.7:b08",
+      "title": "The relationship between census and taxation",
+      "paragraphs": [
+        "Enumerating households, fields and animals provided information that could help authorities allocate revenue and labor obligations. But the document does not by itself preserve an entire tax code or demonstrate exactly what each village delivered in every season. Classification, assessment and collection are separate stages. Villagers might have disputed entries or adjusted behavior in response to demands, although their responses are largely absent from the text. The next article considers fiscal instruments more directly. Here the register illustrates the knowledge upon which a revenue system might depend while leaving open the extent to which official numbers matched economic reality."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.7:b09",
+      "title": "A local archive against a court narrative",
+      "paragraphs": [
+        "Court histories foreground named kings and ministers; this manuscript places ordinary rural resources at the center of the record. That contrast does not make the register politically neutral. Officials recorded villages because the state had reasons to know and manage them, not because villagers chose the categories. A person appears as a countable subject rather than an author with an individual voice. The source thus broadens social history while revealing another form of power: the capacity to classify. Historians can use it to question assumptions about royal administration without claiming to hear the unmediated testimony of every farmer or child."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical reference grounds institutions or records; specific territorial reconstructions remain contested.",
+          "locator": "NIKH nine provinces and five secondary capitals"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.7:b10",
+      "title": "Knowing, governing and not knowing",
+      "paragraphs": [
+        "The Silla village register demonstrates remarkable administrative detail for its period, but the reach of those practices across the full kingdom remains uncertain. One exceptional document cannot establish the accuracy of all official reports, nor can it tell us how households interpreted the obligations inferred from their recorded resources. Its value is greatest when read alongside provincial geography, social hierarchy and material evidence. The broader lesson is methodological: state knowledge made some features of rural life legible to the court while leaving experiences, negotiations and informal work outside the table. Understanding that selective visibility is indispensable to studying Silla government."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
