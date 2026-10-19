@@ -1,0 +1,155 @@
+{
+  "id": "IV.1.1",
+  "title": "The Postwar Landscape after the Silla–Tang Conflict",
+  "kicker": "SILLA AND ITS NEIGHBORS · POSTWAR TRANSFORMATION",
+  "description": "Original source-critical study of the postwar landscape after the silla–tang conflict, distinguishing court claims, regional material evidence, and ordinary experience.",
+  "release": "AB",
+  "sourceStatus": "Original historical synthesis with contextual citations; independent specialist peer review pending.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla–Tang War",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101220",
+      "role": "Chronology of war and post-676 settlement, requiring care with retrospectively transmitted campaign figures"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Unification of the Three Kingdoms",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026483",
+      "role": "Historical synthesis of coalition politics, postconquest authority and the territorial settlement"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Andong Protectorate",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034607",
+      "role": "Specific discussion of Tang regional government, prospective administrative units, resistance and movement of headquarters"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.1.1:b01",
+      "title": "What 676 did and did not settle",
+      "paragraphs": [
+        "The settlement following Silla's struggle with Tang changed the distribution of armed power on the Korean peninsula, but it did not make the physical and social consequences of conquest disappear. By 676 Silla had secured control over much of the former Baekje territory and southern portions of the former Goguryeo sphere, while Tang's priorities increasingly shifted toward its continental frontiers. The resulting landscape was not an unbroken territory administered immediately from Gyeongju. Some districts had experienced multiple occupations; local chiefs retained armed followers; households had to restore cultivation after disruption. Later narratives often give the impression that an enduring political order emerged on the day a final fleet retreated. The administrative and human transition was longer, uneven, and difficult to date precisely from court records."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang war chronology and postwar territorial settlement",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.1:b02",
+      "title": "Victories recorded for courts",
+      "paragraphs": [
+        "Accounts of Maeso and Gibeolpo give the Silla–Tang struggle a familiar conclusion in royal military history. These episodes matter, but chronicles were composed and transmitted through institutions that privileged rulers, commanders and exemplary outcomes. Reported army totals and casualty numbers are not independent measurements of population. The underlying diplomatic conflict, Tang demands for authority, Silla's claims to territories occupied alongside its former ally, and changing frontier conditions must remain distinct from celebratory phrasing. A court victory notice could express both a concrete strategic change and an aspiration to permanent superiority. Archaeological evidence of continuing settlement, abandoned sites or rebuilt fortresses may help test long consequences, although material change seldom identifies the exact commander responsible for it."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.1:b03",
+      "title": "A province is not a map color",
+      "paragraphs": [
+        "The practical meaning of new sovereignty depended on what happened in the fields and market routes around defended centers. A local official might pledge allegiance without being replaced, and a garrison could remain isolated even after a nominal frontier had moved. Land assessments, tribute demands and family registration were tasks requiring recordkeeping, messengers and cooperation. We should not imagine that the later mature Silla provincial arrangement existed in full by the end of the war. Some new responsibilities may have been negotiated through older regional hierarchies. In districts recently governed by Baekje or Goguryeo, the transition could involve changes of names, military patrons and obligations without any complete transformation in the language spoken at home."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Andong Protectorate: institutional plans and historical geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.1:b04",
+      "title": "The geography of uncertainty",
+      "paragraphs": [
+        "Postwar reordering was strongest in corridors through which the Silla court could send troops and receive grain. Mountain divides, rivers and western coastal crossings affected travel cost and the direction of communication. The old Baekje heartlands on the southwest plains could support dense agriculture, but controlling their produce required institutional reach beyond fortresses. The former Goguryeo northwestern zone was connected to continental routes and Tang military settlements; its political situation cannot be reduced to a simple extension of southern rule. Historical maps need ranges and labels for disputed control rather than a single timeless line. The geography of the settlement was a changing practice of governing as much as a claim of possession."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.1:b05",
+      "title": "The western maritime approaches",
+      "paragraphs": [
+        "Military campaigning made the Yellow Sea and western estuaries central to supply and withdrawal. Once open confrontation receded, these same waters supported merchants, diplomatic contacts and the mobility of coastal families. A coast could be a defensive edge and a conduit linking rivals. Whether a port flourished or declined depended on security, taxation, shipping knowledge and demand, not simply on the victor's identity. Contemporary sources give comparatively little information about fishermen and small traders, although their skills made maritime movement possible. A responsible narrative recognizes such groups without inventing personal testimonies. Later evidence for active ports can suggest economic capacities, but it cannot establish that every later network operated identically in the 670s."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 1,
+          "locator": "AKS Unification synthesis: contested consolidation and administration",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.1:b06",
+      "title": "Civilians after armies departed",
+      "paragraphs": [
+        "The end of a campaign did not return missing relatives or restore destroyed harvests. Families that had fled to protected settlements might face disputed fields and obligations to new officials. Residents accused of supporting an earlier regime could lose standing, while practical skills in farming, transport or craft work made other newcomers valuable. Sources concentrate on high-status captives and resettled elites, rendering most domestic decisions invisible. It is reasonable to identify pressure on food supplies and housing as common postwar risks, but exact loss totals must not be invented from silence. The challenge of re-establishing ordinary life belonged to multiple generations of people who had not chosen a royal coalition."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.1:b07",
+      "title": "The problem of defeated polities",
+      "paragraphs": [
+        "Baekje and Goguryeo did not vanish as memories or social networks when their royal institutions fell. Former officials could negotiate service, lead local resistance, or relocate; communities kept ancestral practices and connections. For Silla, accepting such people was necessary to turn conquest into durable government. For Tang, displaced elites could also become military intermediaries or symbols of legitimate claims. Neither empire nor kingdom could fully determine how individuals understood their past. Later national histories may praise the incorporation as unification and dismiss alternative loyalties as remnants, but those labels reflect later political aims. The historical process was a contested reallocation of authority among survivors of several dynastic worlds."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 0,
+          "locator": "NIKH Silla–Tang war chronology and postwar territorial settlement",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.1:b08",
+      "title": "The continental calculation",
+      "paragraphs": [
+        "Tang's strategic problems reached far beyond the peninsula. Campaigns in the western regions and pressure from Tibet affected priorities and available forces, so retreat from some Korean positions cannot be explained only by Silla's battlefield performance. Conversely, the empire continued to influence northeastern affairs through diplomacy, military institutions and communities across Liaodong. A postwar account should not assume total Tang withdrawal from all neighboring space or permanent hostility between the courts. Recognition, tribute missions and commercial interests could resume on altered terms. The outcome established limits to direct interference in some areas while preserving Tang as a major political and cultural power relevant to Silla's future."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.1.1:b09",
+      "title": "The difficult word unification",
+      "paragraphs": [
+        "The word unification can describe the establishment of a wider Silla realm; it can also conceal the northern territories excluded from its rule and the divergent experiences of conquered populations. A historical analysis must identify the territorial and political scale being discussed. The later phrase Three Han under one rule was a way of representing sovereign achievement, not evidence that all communities regarded themselves as a single modern nation. Treating the 670s through this distinction avoids both an uncritical victory story and the equally simplistic denial that a substantial new governing order appeared. Territorial limits, coercion and cultural incorporation must be examined together rather than substituted for one another."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "claim": "The reference supports the regional or institutional context, not every historical inference.",
+          "sourceIndex": 2,
+          "locator": "AKS Andong Protectorate: institutional plans and historical geography",
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "IV.1.1:b10",
+      "title": "A beginning rather than a conclusion",
+      "paragraphs": [
+        "The postwar landscape made new histories possible: a reorganized Silla administration in the south, Tang efforts to manage former Goguryeo territory, the relocation of people across imperial routes, and eventually the rise of a northern state. These developments were connected but not reducible to one coherent plan. Chapter IV.1 examines the consequences for former Baekje communities, former Goguryeo subjects and frontier districts before turning to the political language of integration. Later Chapters own the institutions of mature Unified Silla and the development of Balhae. The essential starting point is that victory produced new questions about residence, authority and memory that armies alone could not answer."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
