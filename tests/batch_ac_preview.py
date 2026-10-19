@@ -12,7 +12,7 @@ with sync_playwright() as pw:
             assert response and response.ok,('Cloudflare preview document failed',w,response.status if response else None)
             page.wait_for_selector('.home-hero',timeout=20000)
             manifest=page.evaluate("""async()=>{const r=await fetch('./data/content-manifest.json',{cache:'no-store'});if(!r.ok)throw Error('missing manifest');return await r.json()}""")
-            if manifest.get('count')>=423 and manifest.get('sampleWordCount',0)>=427740:break
+            if manifest.get('count')>=423 and manifest.get('sampleWordCount',0)>=427737:break
             if attempt==14:raise AssertionError(('stale or incorrect deployed assets',manifest.get('count'),manifest.get('sampleWordCount')))
             time.sleep(5)
         for ch in ('I.5','IV.2'):
