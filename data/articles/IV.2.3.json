@@ -1,0 +1,161 @@
+{
+  "id": "IV.2.3",
+  "title": "The Central Bureaucracy and the Jipsabu Government",
+  "kicker": "UNIFIED SILLA · ROYAL AND ARISTOCRATIC GOVERNMENT",
+  "description": "Original historical analysis of the central bureaucracy and the jipsabu government, differentiating royal chronology, transmitted administrative descriptions and archaeological testimony.",
+  "release": "AC",
+  "sourceStatus": "Original source-critical synthesis with contextual institutional references; independent specialist review outstanding.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Unified Silla government",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional synthesis of Jipsabu, ministries, Confucian education and administrative structures"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Local Administration Reorganization after the Unification of the Three Kingdoms",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002472164",
+      "role": "Scholarly alternative to treating the province system as invented from nothing after 668"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Gyeongju Historic Areas",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "role": "Capital sites, palace complexes, religious and funerary material; not direct evidence for every specific royal decree"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Unified Silla Period: collections and historical overview",
+      "url": "https://www.museum.go.kr/ENG/contents/E0201030900.do?showHallId=760&showroomCode=DM0034",
+      "role": "Material context for royal capital, Buddhist institutions and the extended political realm"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.2.3:b01",
+      "title": "An office is a relationship of authority",
+      "paragraphs": [
+        "The central bureaucracy of Unified Silla was a network of offices through which the court arranged appointments, processed orders, coordinated resources and supervised specialized activities. Jipsabu occupied a prominent position in this system, but it would be misleading to equate it without qualification with a modern cabinet or prime minister's department. Historical titles underwent changes, and sources preserve administrative schemes more clearly than day-to-day conversations inside offices. A functional history asks who could authorize action, which official transmitted instructions and what resources made compliance possible. Bureaucratic design helped sustain royal government across an enlarged realm while reflecting the unequal social order that supplied its officers."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "NIKH government departments and Confucian academy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.3:b02",
+      "title": "The Jipsabu and the chancellor figure",
+      "paragraphs": [
+        "Jipsabu developed from earlier court arrangements and came to be associated with the senior executive official often rendered as jungsi or related titles depending on period. Titles require careful chronological translation; an office bearer in one century did not necessarily exercise precisely the same duties in another. The prominence of the post indicates that monarchs needed high-ranking intermediaries to organize court business. Such figures could become channels of royal influence or independent aristocratic power. Surviving lists of incumbents give clues about elite careers but not a complete record of every decision. It is more accurate to analyze Jipsabu as an evolving institution than a fixed constitutional office."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.3:b03",
+      "title": "Specialized departments and practical work",
+      "paragraphs": [
+        "The enlargement of Silla government involved offices responsible for personnel, construction, crafts and other forms of administrative business. The National Institute of Korean History identifies departments such as Wihwabu and Gongjangbu within the wider institutional structure. Administrative names suggest assigned functions, but they do not prove that each department possessed an extensive permanent staff from the moment it was named. Managing resources required clerks, records, messengers and skilled supervisors, some of whom occupied lower ranks rarely celebrated in histories. The growth of specialized offices reflects an effort to separate tasks while keeping them coordinated through royal and aristocratic authority. Functional differentiation did not create political neutrality."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "UNESCO Gyeongju capital heritage sites"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.3:b04",
+      "title": "Documents, seals and communication",
+      "paragraphs": [
+        "Written orders made it possible for a court to address districts beyond the range of personal attendance. Producing, copying and conveying documents demanded literate personnel and reliable routes. A decree could establish an intended hierarchy but not guarantee that village officers complied on time. Evidence from later surviving records helps illuminate administrative possibilities without providing direct access to every earlier file. The selection of what was written down was itself political: rulers were more likely to preserve appointments and allocations than individual complaints. A history of bureaucracy should therefore attend to missing archives as well as to the titles that survived. Written governance was powerful but materially expensive."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.3:b05",
+      "title": "Recruitment within inherited rank",
+      "paragraphs": [
+        "The bureaucracy drew heavily on families whose standing determined eligibility for office. Bone rank constrained the careers available to many capable men, even when education and practical expertise were increasingly valued. Lower-ranked elites could contribute essential clerical and technical labor without gaining access to the highest political honors. It would be anachronistic to describe officeholding as an open competitive meritocracy. Training could improve administrative capacity within the framework of inherited privilege. The resulting tension between expertise and status was not merely ideological: it affected who could supervise tax collection, speak before the king or obtain a governorship. Administrative growth relied on a social hierarchy it could not simply dissolve."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "NIKH government departments and Confucian academy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.3:b06",
+      "title": "Confucian learning and Gukhak",
+      "paragraphs": [
+        "The National Confucian Academy, conventionally associated with royal reforms of the late seventh century, offered an institutional setting for learning relevant to government. Its curriculum and personnel provisions evolved over time, and the surviving evidence should not be extended into an account of universal education. Confucian texts supplied languages of ethical governance, precedent and ordered hierarchy, but their presence did not displace Buddhist patronage at court. Graduates and educated officers remained shaped by rank expectations. Schooling was therefore one element of bureaucratic professionalization within an aristocratic state. The ability to read state documents was valuable without guaranteeing advancement independent of ancestry."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.3:b07",
+      "title": "Archives and fiscal supervision",
+      "paragraphs": [
+        "Administrative offices depended on information about households, land, obligations and available supplies. Fiscal specialists could advise on distribution and revenues, but sources seldom preserve a continuous sequence of decisions or a detailed national budget. The surviving Silla village documents from a later period show that administrators could enumerate local resources in considerable detail. They should not be used as proof that the same forms operated everywhere in the reign of Sinmun. Bureaucratic knowledge emerged in records designed for particular purposes. Assessing their scope and limits is necessary before presenting central offices as if they possessed a complete statistical picture of the population."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "UNESCO Gyeongju capital heritage sites"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.3:b08",
+      "title": "Court offices and provincial officials",
+      "paragraphs": [
+        "A government office in Gyeongju could only influence regional affairs through appointed personnel and local intermediaries. Governors reported information and supervised tasks, while village leaders often remained important for identifying households and organizing labor. Political conflict could arise when capital officials sought to impose expectations that clashed with local interests. Administrative diagrams conceal this bargaining. The same institution might operate efficiently near a major route and unevenly in a distant district. Studying center–province relations requires attention to travel times and the survival of local elites, not just organizational hierarchy. Silla's administrative reach was real but geographically and socially differentiated."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.2.3:b09",
+      "title": "Corruption, office and personal ties",
+      "paragraphs": [
+        "The growth of offices created opportunities for orderly procedures as well as for the use of public responsibilities to reward allies. Families might seek appointments because they conferred prestige and access to resources, while kings needed dependable supporters. Accusations of improper conduct in later chronicles must be read critically because they may serve a moral explanation of political failure. Nevertheless patronage was inseparable from an aristocratic political order. A centralized office could be captured by a faction or used to discipline one. Institutional analysis should therefore compare stated responsibilities with the changing coalitions that exercised them. Neither romanticized public service nor universal corruption is an adequate model."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports overall Silla government context, while precise office relationships require source criticism.",
+          "locator": "NIKH government departments and Confucian academy"
+        }
+      ]
+    },
+    {
+      "id": "IV.2.3:b10",
+      "title": "An evolving administration",
+      "paragraphs": [
+        "The central bureaucracy gave Unified Silla a means of coordinating increasingly complex tasks, but it remained embedded in court politics and hereditary distinctions. Jipsabu, specialized departments, clerical ranks and educational institutions belonged to a developing system rather than one invention after 668. Later governmental histories may describe the mature arrangement as a complete diagram, and historians must resist transferring every element to earlier decades. This article has focused on central executive work. The adjacent study addresses aristocratic councils, while later ones examine provincial government, enumeration and the fiscal obligations of inhabitants. The administrative state was built through relationships among offices, people and material constraints."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
