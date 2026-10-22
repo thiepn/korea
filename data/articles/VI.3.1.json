@@ -1,0 +1,161 @@
+{
+  "id": "VI.3.1",
+  "title": "Zhu Xi Learning and the Neo-Confucian Reconstruction of Political Order",
+  "kicker": "EARLY JOSEON · MORAL PHILOSOPHY AND GOVERNMENT",
+  "description": "Original source-aware analysis of zhu xi learning and the neo-confucian reconstruction of political order.",
+  "release": "AD",
+  "sourceStatus": "Original interpretation with contextual Korean institutional sources; expert peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Neo-Confucianism (성리학)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0029308",
+      "role": "Intellectual chronology, Zhu Xi and early Joseon ideological foundations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Learning of the Way (도학)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0015909",
+      "role": "Jeong Do-jeon, Gwon Geun, late Goryeo factions and Sarim succession"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Joseon ideological currents",
+      "url": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h41_0050_0020_0010",
+      "role": "Differentiating scholarly positions concerning dynastic foundation and reform"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jo Gwangjo and moral government reforms",
+      "url": "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i301600",
+      "role": "Sixteenth-century remonstrance and political consequences, not early foundation itself"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.3.1:b01",
+      "title": "From Goryeo study to Joseon statecraft",
+      "paragraphs": [
+        "Zhu Xi's learning reached Goryeo before the founding of Joseon, but its use as an organizing language of the new dynasty did not follow automatically from intellectual reception. Educated officials disagreed about loyalty to an existing ruler, the authority of moral principles, and the remedies for political disorder. The transfer of texts was one process; the rebuilding of government after 1392 was another. Neo-Confucian arguments supplied an account of moral cultivation and public order that reformers could employ, but policy still required institutions, alliances, and resources. Presenting the transition as the inevitable triumph of a doctrine would erase the different possibilities available to late-Goryeo scholars."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "AKS Neo-Confucian intellectual chronology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.1:b02",
+      "title": "Li and qi as interpretive categories",
+      "paragraphs": [
+        "The vocabulary of principle, li, and material force, qi, allowed scholars to discuss the constitution of nature, human dispositions, and ethical action. These terms should not be replaced mechanically by modern equivalents such as law of physics or matter. They belonged to a system in which cosmological explanations interacted with moral practice. An official could regard self-cultivation as relevant to governance because ordered conduct was understood to begin with disciplined judgment. Yet general philosophical commitments did not prescribe an identical response to every land dispute or succession crisis. The conceptual history needs close textual reading rather than the assumption that one abstract maxim explains centuries of Joseon administration."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.1:b03",
+      "title": "Self-cultivation and responsibility",
+      "paragraphs": [
+        "Neo-Confucian learning emphasized the cultivation of moral capacities through study, reflection, and correct practice. For officials, this ideal could justify criticism of favoritism and demands for conduct appropriate to office. But an ideal does not prove that officeholders behaved accordingly. Court records preserve disputes about virtue precisely because people disagreed about what it required or accused rivals of falling short. The language of personal cultivation also operated within an unequal social order where time for study depended on family resources. Historians should distinguish the program promoted by scholars from the circumstances in which it was pursued. Learning was both a claim to moral authority and a social privilege."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "NIKH early Joseon political thought"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.1:b04",
+      "title": "Family, ruler, and ordered relationships",
+      "paragraphs": [
+        "The Zhu Xi tradition developed accounts of human relationships that made filial obligation, hierarchy, and ritual conduct central to social ethics. In early Joseon, reformers could use these ideas to criticize some established practices and encourage new ceremonies. Yet normative texts do not reveal how quickly families changed their habits. Marriage, inheritance, and household rituals varied across regions and status groups, and earlier Buddhist or local practices could continue. A manual's rule should not be treated as an eyewitness description of a typical village. The historical importance of the ethical program lies partly in its gradual and contested encounter with social arrangements that could not be transformed by decree alone."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.1:b05",
+      "title": "Classical texts in the hands of officials",
+      "paragraphs": [
+        "The Four Books and commentarial learning became increasingly important to the formation of literate officials. Mastery of these texts enabled examination performance and the use of shared moral arguments in court debate. That influence was not limited to rote copying; readers questioned interpretation, compared examples, and developed competing policy proposals. However, access to libraries, teaching, and leisure was uneven. The surviving corpus overrepresents men whose families could sustain long study. Neo-Confucian authority was strengthened by institutions that privileged certain forms of literacy. Understanding those institutions helps explain why a moral philosophy could become a language of state power without being equally accessible to all subjects."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "AKS Neo-Confucian intellectual chronology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.1:b06",
+      "title": "A dispute about Buddhism",
+      "paragraphs": [
+        "Early Joseon reformers often criticized Buddhist institutional privilege and articulated doctrinal objections to Buddhist ideas. Jeong Do-jeon's writings are prominent examples, but they should not be turned into a complete description of popular attitudes. Buddhist practice remained meaningful to many people, including members of elite families, while monasteries continued to operate under changing restrictions. Polemical writings disclose what opponents wished to discredit, not necessarily the actual behavior of every monk. The state's varying policies toward temples must be examined through reign-specific decisions. Religious history is more complex than a sudden replacement of Buddhism by Neo-Confucianism on the day of dynastic foundation."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.1:b07",
+      "title": "Ritual as public pedagogy",
+      "paragraphs": [
+        "Ceremonies at royal courts, schools, and ancestral sites offered visible ways to express the new state's ethical and political ideals. Ritual prescriptions defined proper roles and sequences, but performing a ceremony required trained specialists, objects, buildings, and participants. The authority of a written pattern depended on repeated enactment. Different communities could adapt or resist reforms, and official descriptions are not reliable measures of universal practice. Scholars invested in ritual because it connected cosmological and moral ideas to collective conduct. From a historical perspective, its significance lies in the effort to create recognized forms of order, not in evidence that a society became perfectly harmonious."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "NIKH early Joseon political thought"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.1:b08",
+      "title": "The role of historical precedent",
+      "paragraphs": [
+        "Classical learning encouraged officials to cite ancient rulers, ministers, and recorded failures as precedents. This could constrain royal decisions by making criticism appear grounded in a respected tradition. The same textual precedent might be interpreted differently by rival factions, however. A memorial invoking good government cannot be assumed to represent the views of ordinary taxpayers. It is an argument directed to a particular audience within institutional constraints. The art of historical analogy also had political risks: criticism of a current king through an ancient story could be regarded as disloyal. Neo-Confucian historical reasoning belonged within the dynamics of court power as well as intellectual scholarship."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.1:b09",
+      "title": "Regional unevenness of intellectual change",
+      "paragraphs": [
+        "The early Joseon court promoted a learned order whose institutions extended from the capital to local schools, but regional teaching resources and elite networks developed at different tempos. A school building does not establish the presence of competent instructors or universal attendance. Provincial families might interpret the same classical texts through different traditions. Existing patterns of lineage and economic influence affected the spread of new practices. Historical comparisons need careful chronology because reforms associated with sixteenth-century Sarim movements should not be projected unchanged into the 1390s. Intellectual reconstruction was cumulative, and it encountered local societies already possessing long histories of ritual and authority."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "AKS Neo-Confucian intellectual chronology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.1:b10",
+      "title": "A political order never simply derived from books",
+      "paragraphs": [
+        "Zhu Xi learning helped provide Joseon's rulers and scholars with an influential language of cosmology, ethics, and government. Its prominence was sustained through education, ritual, examinations, and royal patronage. Yet the reality of rule was also shaped by land, military forces, law, and family conflict. An account limited to philosophy would mistake the values professed by elites for the total workings of the state. This article has outlined the intellectual framework; the next turns to Jeong Do-jeon and Gwon Geun as historically situated interpreters. The key distinction is between the persuasive power of ideas and the contingent institutional work through which they became authoritative."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
