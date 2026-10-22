@@ -1,0 +1,161 @@
+{
+  "id": "VI.3.5",
+  "title": "Examination Learning, Classical Literacy, and Scholar-Official Formation",
+  "kicker": "JOSEON · EDUCATION, FAMILY ETHICS AND SARIM",
+  "description": "Source-critical analysis of examination learning, classical literacy, and scholar-official formation in early and sixteenth-century Joseon.",
+  "release": "AD",
+  "sourceStatus": "Institutionally grounded contextual synthesis, without independent peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Neo-Confucianism",
+      "url": "https://encykorea.aks.ac.kr/Article/E0029308",
+      "role": "Ritual, study, royal ideology and later Sarim intellectual developments"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Learning of the Way",
+      "url": "https://encykorea.aks.ac.kr/Article/E0015909",
+      "role": "Scholar lineages including Kim Jong-jik and Jo Gwangjo"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sarim (사림)",
+      "url": "https://contents.history.go.kr/front/tg/view.do?levelId=tg_003_1140&treeId=0100",
+      "role": "Sarim as a politically distinctive group under Seongjong and their relationship with Hungu"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Joseon Neo-Confucian scholarship and Sarim",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_024_0040_0010_0070",
+      "role": "Sixteenth-century cultivation, ritual, intellectual exchange and political aspirations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.3.5:b01",
+      "title": "An examination was not the whole education",
+      "paragraphs": [
+        "Joseon's civil-service examination system helped define the aspirations of educated families, yet learning extended beyond the moment when a candidate wrote an answer. Students spent years acquiring classical vocabulary, practicing composition, and interpreting authoritative commentaries. Preparation depended on teachers, books, writing supplies, and time freed from agricultural or craft labor. Formal examination success therefore reflected resources and networks as well as ability under test conditions. The selection system could bring capable officials into government without creating equal access for every subject. Its historical significance lies in the relationship between a demanding literary culture and institutions that distributed rank and responsibility among a privileged minority."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "AKS Korean Neo-Confucian family ideology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.5:b02",
+      "title": "Classical Chinese and the language of office",
+      "paragraphs": [
+        "Official texts were largely written in literary Chinese, a transregional written register rather than the ordinary spoken language of Joseon households. Learning to read and compose it opened access to memoranda, histories, state regulations, and examinations. The ability to handle classical allusions could signal membership in a cultivated community, but it did not guarantee administrative competence or ethical conduct. Korean linguistic practice remained diverse across everyday settings even where elite records shared the same script. Historians should distinguish writing systems, spoken language, and genre rather than describing the expansion of examination education as universal Chinese-language assimilation. Literacy was simultaneously practical skill and social distinction."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.5:b03",
+      "title": "The Four Books and contested interpretation",
+      "paragraphs": [
+        "Study of the Analects, Mencius, Great Learning, and Doctrine of the Mean through established commentarial traditions formed an important part of Neo-Confucian examination culture. Candidates had to demonstrate recognized interpretive competence, but commentary did not eliminate disagreement among teachers or political factions. A passage on ruler–minister relations could invite contrasting policy implications. Examiners themselves possessed intellectual preferences, complicating claims that tests measured purely objective talent. The learned tradition gave officials shared terms in which to debate, while its institutional rewards could favor those trained in particular lineages. Intellectual conformity and argumentative skill coexisted rather than excluding one another."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "NIKH Sarim institutional definition"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.5:b04",
+      "title": "Composition and the craft of an answer",
+      "paragraphs": [
+        "Examination candidates practiced literary forms that required precision, structure, and sensitivity to classical precedent. Successful writing was not simply the reproduction of memorized lines. It involved judgment about how to arrange an argument under the rules of a particular question. At the same time, conventional forms could reward stylistic imitation and encourage families to hire specialized tutors. Surviving model essays are products of selection and copying, not a representative archive of every unsuccessful candidate's work. A history of examinations should therefore address both creativity within constraints and the social advantages that determined who could sustain repeated attempts at success."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.5:b05",
+      "title": "Household investments and delayed careers",
+      "paragraphs": [
+        "A family supporting an examination candidate accepted opportunity costs over many years. Paper, food, travel, lodging, and private tuition competed with other household needs. Some candidates succeeded quickly, while others attempted examinations repeatedly or pursued learned reputations without official posts. Such differences shaped marriage prospects and kin strategies. A list of successful men gives little information about those who never advanced and whose educational labor is largely invisible. Historians should also be cautious when interpreting a lineage's later genealogy as a complete account of its earlier resources. Examination culture linked scholarship to family economy even as its public language celebrated individual moral attainment."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "AKS Korean Neo-Confucian family ideology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.5:b06",
+      "title": "Local teachers and pathways to the capital",
+      "paragraphs": [
+        "Hyanggyo, family instruction, and eventually private academies connected provincial students to the central world of examinations. Geographic distance affected access to prestigious tutors and examination sites. A school building did not ensure sustained instruction, and local administrators differed in how they supported learning. Some regional families built reputations through teachers whose influence extended beyond formal enrollment. Moving to the capital could open networks unavailable at home, but also required finance and social support. Educational opportunity was shaped by the geography of institutions, not only by examination rules. This unequal landscape helps explain why scholarly regional identities became politically meaningful."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.5:b07",
+      "title": "Moral cultivation and career ambition",
+      "paragraphs": [
+        "Neo-Confucian educators could insist that reading the classics was valuable because it shaped character, even while students sought rank and livelihood through examination success. These motives did not necessarily cancel one another, but tension arose when learning was reduced to polished composition. Some scholars criticized examination-focused habits and argued for deeper engagement with ethical practice. Such criticism is evidence for a debate within learned society, not proof that every successful candidate lacked conviction. The state's reliance on literary examination made the problem enduring: political offices required trained writers while the ideal official was expected to be morally cultivated. Formal achievement and ethical authority were never perfectly aligned."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "NIKH Sarim institutional definition"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.5:b08",
+      "title": "The limits of recruitment",
+      "paragraphs": [
+        "Eligibility was shaped by status, gender, family resources, and evolving legal classifications. Some paths of advancement remained effectively closed to large parts of the population. It would be historically false to present the civil examination as a universal democratic competition, while also misleading to assume that all holders of high office were appointed without consideration of learning. The specific balance changed over centuries and between types of examination. Social historians must compare legal categories with actual careers and local records. Even if an individual overcame obstacles, one notable biography cannot establish equal opportunity for everyone in his social position."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.5:b09",
+      "title": "Networks after the results",
+      "paragraphs": [
+        "A successful examination could create long-lasting ties among candidates, examiners, and fellow graduates. Such relationships helped determine appointments, intellectual reputations, and political coalitions. The public ideal of merit did not prevent the circulation of patronage through these networks. Officials might interpret a colleague's views favorably because of shared teachers or textual commitments. These ties could be productive, allowing learning to spread, or exclusionary, reducing opportunities for outsiders. The historian should avoid assuming that every connection was corrupt, yet also resist the idea that tests dissolved aristocratic advantages. Scholar-official formation continued through careers and relationships after the examination itself had ended."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "AKS Korean Neo-Confucian family ideology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.5:b10",
+      "title": "Education and the reproduction of government",
+      "paragraphs": [
+        "Examination learning gave Joseon officials a common textual vocabulary and encouraged institutions to support years of study. It also reinforced the importance of property, family standing, and regional networks in determining who entered government. The most important historical effect was not a simple replacement of birth with talent but an evolving relationship between learned competence and inherited privilege. This article has focused on the practices and social costs of preparing officials. School organization receives separate treatment in the existing VI.3.4, while later studies examine ritual, scholarly networks, and the politics of interpretation. The selection of officials was inseparable from the making of a literate elite."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
