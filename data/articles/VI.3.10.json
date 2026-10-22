@@ -1,0 +1,161 @@
+{
+  "id": "VI.3.10",
+  "title": "Toegye, Yulgok, and Sixteenth-Century Neo-Confucian Debate",
+  "kicker": "JOSEON · SCHOLARLY INSTITUTIONS, POLITICAL CRISES AND PHILOSOPHY",
+  "description": "Original source-critical history of toegye, yulgok, and sixteenth-century neo-confucian debate.",
+  "release": "AD",
+  "sourceStatus": "Original interpretive synthesis with institutional contextual references; specialist peer review outstanding.",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Seowon, Korean Neo-Confucian Academies",
+      "url": "https://whc.unesco.org/en/list/1498/",
+      "role": "Nine late-Joseon heritage academies and their historical intellectual functions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sarim (사림)",
+      "url": "https://contents.history.go.kr/front/tg/view.do?levelId=tg_003_1140&treeId=0100",
+      "role": "Sarim chronology, Hungu disputes, court remonstrance"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jo Gwangjo political reforms and persecution",
+      "url": "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i301600",
+      "role": "Specific sixteenth-century reform projects and 1519 crisis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sixteenth-century Joseon Neo-Confucian debates",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_024_0040_0010_0070",
+      "role": "Toegye and Yulgok, metaphysics, ethical practice and political reform"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.3.10:b01",
+      "title": "Philosophy beyond inherited repetition",
+      "paragraphs": [
+        "The sixteenth century saw major developments in Korean interpretations of Neo-Confucian philosophy, especially through the work of Yi Hwang, known as Toegye, and Yi I, known as Yulgok. Their scholarship engaged the Zhu Xi tradition without merely reproducing it. Debate centered on how moral qualities emerge within human experience and how learning should guide practice. Later summaries often place them into opposing schools with rigidly separated doctrines, but their writings reveal complex positions developed through correspondence and commentary. Their intellectual importance should be approached through the questions they asked and the arguments they made, not through a simplified contest in which one thinker must defeat the other."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "UNESCO Seowon location and institutional typology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.10:b02",
+      "title": "Li, qi, and the character of action",
+      "paragraphs": [
+        "The relation of principle and material force remained central to discussions of human nature, emotions, and ethical responsibility. The philosophical terms are difficult to translate without importing modern distinctions that their users did not assume. Debates concerned explanation and cultivation together: how an individual recognizes moral demands, why feelings may diverge, and what disciplined learning can accomplish. Neither concept should be described simply as soul or matter. Scholars often accepted much of the same textual inheritance while disagreeing about emphasis and formulation. Intellectual diversity thus emerged within a common language rather than through rejection of classical authority."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.10:b03",
+      "title": "The Four–Seven debate",
+      "paragraphs": [
+        "Toegye's exchanges with Gi Daeseung over the Four Beginnings and Seven Emotions became influential in later interpretations of the relation between moral sentiment and broader affective experience. The correspondence developed over time, and summarizing it through a single slogan risks removing important qualifications. The terms referred to classical categories whose meanings the participants examined in relation to moral cultivation. The letters were not a private academic exercise entirely separate from social life; they informed debates about how a virtuous person should respond to experience. Modern study should identify the textual stages and participants rather than impose a timeless diagram purporting to settle every nuance."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "NIKH Jo Gwangjo and purges"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.10:b04",
+      "title": "Yulgok and the problem of cultivation",
+      "paragraphs": [
+        "Yulgok's work developed a sophisticated account of the interaction of li and qi and the practical work of cultivating a capable moral agent. His differences from Toegye should not be reduced to an opposition of reason and emotion or of philosophy and politics. Both engaged ethical education, and both worked within a shared Neo-Confucian cosmological vocabulary. Yulgok also participated in government debates about institutions and social welfare. His official career gives important context, but no single reform proposal can stand for his whole philosophical system. Scholarship should consider the relationship between conceptual arguments and their changing applications across different writings."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.10:b05",
+      "title": "Correspondence as intellectual evidence",
+      "paragraphs": [
+        "Letters exchanged among scholars are especially valuable because they reveal questions, corrections, and the slow formation of ideas. Yet collections preserved by pupils or later editors can privilege selected texts and impose organizational schemes on a developing conversation. Dates and manuscript variants therefore matter. A famous exchange should not be treated as a verbatim classroom debate available without mediation. Respondents often wrote with a particular correspondent's prior view in mind, which shapes argument. Reading these documents closely can show disagreement without requiring every participant to become the representative of a later political faction. Intellectual history is a history of textual interaction as well as abstract doctrines."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "UNESCO Seowon location and institutional typology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.10:b06",
+      "title": "Academies and the formation of legacies",
+      "paragraphs": [
+        "Regional schools and scholarly communities played important roles in preserving and teaching the writings of Toegye and Yulgok. Their students developed interpretations that later became associated with intellectual lineages. Such institutional memory did not mean each master established a fixed political party. Later factional alignments could draw upon philosophical ancestry while adapting arguments to circumstances the original thinkers had never encountered. A seowon's decision to honor a figure records both admiration and subsequent choices about orthodoxy. Historians need to separate sixteenth-century teaching from the later use of its prestige. The reception of an idea can be politically consequential without being identical to its original formulation."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.10:b07",
+      "title": "Study of the mind and daily discipline",
+      "paragraphs": [
+        "Debates about the moral character of emotions were relevant to practices of reflection, reading, ritual conduct, and self-correction. Scholars did not regard philosophical inquiry as valuable only when it produced a metaphysical diagram. Yet normative writings do not establish how consistently officials practiced the discipline they advocated. Households had unequal opportunities for sustained study, and learned men might disagree about balancing solitude with public service. The relationship between inward cultivation and effective governance remained open to criticism. Exploring these tensions gives historical substance to philosophical vocabulary without turning every private moral problem into a direct explanation of court policy."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "NIKH Jo Gwangjo and purges"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.10:b08",
+      "title": "Governing concerns and intellectual difference",
+      "paragraphs": [
+        "Yulgok's attention to institutions and reform and Toegye's reputation for rigorous study are often contrasted in simplified accounts, but both participated in learned discussions with social and political implications. A scholar's choice to withdraw from office could reflect health, ethical judgment, or shifting circumstances rather than indifference to government. Likewise, a proposal about state finance might rely on a deep commitment to moral self-cultivation. Their writings need to be situated within biographies without allowing biography to replace argument. The diversity of their concerns shows that Neo-Confucianism was a field of inquiry and practice, not a set of mutually exclusive career types."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.10:b09",
+      "title": "Historiography and school labels",
+      "paragraphs": [
+        "Later narratives have attached Toegye and Yulgok to broader intellectual and political schools, sometimes interpreting them through conflicts that developed well after their deaths. Such classifications can help trace traditions of reception, but they may obscure the original complexity of correspondence and commentary. A manuscript written in the 1550s should not be read as though it answered a factional question from a later reign. Historians should compare early textual witnesses, pupils' interpretations, and subsequent canonization. The philosophical record is rich enough to sustain disagreement without relying on modern caricatures of one scholar as wholly idealist and the other as exclusively materialist."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "UNESCO Seowon location and institutional typology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.10:b10",
+      "title": "The changing architecture of Joseon learning",
+      "paragraphs": [
+        "Toegye and Yulgok represent a mature stage of Joseon's intellectual order in which the learning introduced through Goryeo and promoted by the founding dynasty had become the subject of sustained original debate. Their writings influenced ethical education, local academies, court discourse, and later scholarly identities. Yet their influence was mediated by editors, teachers, and political communities, and it cannot be reconstructed as one seamless doctrinal victory. This final chapter study links the transformation of ideas to institutions, families, and power while leaving later factional controversies to their separate historical owners. Neo-Confucianism remained influential precisely because scholars continued to argue about its meaning."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
