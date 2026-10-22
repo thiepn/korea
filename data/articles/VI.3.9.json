@@ -1,0 +1,161 @@
+{
+  "id": "VI.3.9",
+  "title": "The Literati Purges and the Conflict between Hungu and Sarim",
+  "kicker": "JOSEON · SCHOLARLY INSTITUTIONS, POLITICAL CRISES AND PHILOSOPHY",
+  "description": "Original source-critical history of the literati purges and the conflict between hungu and sarim.",
+  "release": "AD",
+  "sourceStatus": "Original interpretive synthesis with institutional contextual references; specialist peer review outstanding.",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Seowon, Korean Neo-Confucian Academies",
+      "url": "https://whc.unesco.org/en/list/1498/",
+      "role": "Nine late-Joseon heritage academies and their historical intellectual functions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sarim (사림)",
+      "url": "https://contents.history.go.kr/front/tg/view.do?levelId=tg_003_1140&treeId=0100",
+      "role": "Sarim chronology, Hungu disputes, court remonstrance"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jo Gwangjo political reforms and persecution",
+      "url": "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i301600",
+      "role": "Specific sixteenth-century reform projects and 1519 crisis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sixteenth-century Joseon Neo-Confucian debates",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_024_0040_0010_0070",
+      "role": "Toegye and Yulgok, metaphysics, ethical practice and political reform"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.3.9:b01",
+      "title": "Purges were events, not one continuous plot",
+      "paragraphs": [
+        "The term sahwa groups several major crises in which learned officials were dismissed, exiled, or killed, but each event had its own royal and factional context. The late fifteenth- and early sixteenth-century purges should not be narrated as a single conspiracy conducted by an unchanging party against a unified body of saints. Competing elites had different reasons to support or resist appointments and criticism. Royal succession, the influence of kin groups, and the interpretation of historical writings all mattered. The category of literati purge helps identify recurring dangers while risking the concealment of specific causation. A source-conscious narrative must restore the distinct sequence and political logic of each crisis."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "UNESCO Seowon location and institutional typology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.9:b02",
+      "title": "1498 and the written historical past",
+      "paragraphs": [
+        "The Muo purge of 1498 involved accusations connected with Kim Jong-jik's writing and the political significance attached to its interpretation. A literary text composed earlier could be read as a statement about a later or earlier royal legitimacy dispute, making historical allusion dangerous. The proceedings must be evaluated through transmitted accounts produced within highly unequal conditions. Confessions or accusations made under coercion require particular caution. Kim's posthumous treatment reveals how the court could use texts to punish a network of associated scholars. The event is important precisely because history writing and political authority became inseparable under conditions of suspicion."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.9:b03",
+      "title": "1504 and the politics of royal anger",
+      "paragraphs": [
+        "The Gapja purge under Yeonsangun in 1504 followed a different constellation of personal and political concerns from the events of 1498. Court grievances involving the king's family, officials, and the treatment of past decisions became grounds for severe repression. It would be too simple to attribute the crisis solely to the psychology of one ruler without considering institutional opportunities and the behavior of participants. Yet the king's coercive authority was central to the scale of punishment. Later moralizing histories emphasize tyranny, and their judgments should be compared with the available sequence of actions. The event illustrates how quickly ordinary restraints on ministerial speech could fail."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "NIKH Jo Gwangjo and purges"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.9:b04",
+      "title": "The restoration of 1506 and its limits",
+      "paragraphs": [
+        "The overthrow of Yeonsangun in 1506 altered the composition of the court and produced new legitimating claims for those who carried out the change. The removal of a ruler did not establish a politics free of conflict. Meritorious elites gained influence, and newer scholars faced decisions about whether to cooperate or criticize their claims. Retrospective accounts sometimes transform the coup into an uncomplicated rescue of proper government. The actual distribution of honors and appointments mattered for later disagreements. A historian should distinguish the political language used to justify a change of king from its institutional consequences, including the creation of new privileged networks."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.9:b05",
+      "title": "Jo Gwangjo and reform under Jungjong",
+      "paragraphs": [
+        "Jo Gwangjo became associated with a program of moral government under Jungjong, including criticism of improperly held merit honors and attempts to strengthen the influence of principled scholars. The court initially provided opportunities for reform, but support depended on changing royal calculations and relationships among high officials. A reform proposal could threaten established families even when framed in ethical terms. The surviving records allow investigation of particular measures and arguments but do not reveal every private motive. Presenting the episode as a pure battle of righteousness against corruption would conceal the competing interpretations of legitimate authority within a shared Neo-Confucian political vocabulary."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "UNESCO Seowon location and institutional typology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.9:b06",
+      "title": "1519 and the Gimyo crisis",
+      "paragraphs": [
+        "The purge of 1519 ended Jo Gwangjo's court ascendancy and exposed how vulnerable scholars remained when royal support shifted. His associates experienced varying forms of punishment, exclusion, and loss of standing. Historical accounts differ in emphasis, including the extent to which royal fears or elite opposition drove the decision. It is appropriate to identify both without inventing a complete record of confidential deliberation. The crisis also influenced the later memory of Sarim orthodoxy, as expelled figures came to be honored by subsequent scholarly networks. A political defeat could be transformed into a marker of moral authority, changing how later generations interpreted the initial reform program."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.9:b07",
+      "title": "1545 and the succession environment",
+      "paragraphs": [
+        "The Eulsa purge of 1545 unfolded amid disputes involving royal relatives, regency, and groups competing for influence after changes in the throne. Its circumstances differed from the earlier conflicts centered on historical writing or Jo Gwangjo's reform program. The labels applied to rival factions cannot substitute for reconstruction of family relationships and institutional stakes. The impact on scholars and offices was severe, yet the event should not be treated as proof that every political faction possessed a fixed philosophical doctrine. The specific context of succession helps explain why allegations of disloyalty could become especially dangerous. Court politics and intellectual reputations were repeatedly entangled."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "NIKH Jo Gwangjo and purges"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.9:b08",
+      "title": "The role of confessions and court histories",
+      "paragraphs": [
+        "Sources for the purges often derive from institutions involved in recording accusations, interrogations, royal decisions, and later retrospective judgments. Such records are indispensable, but their evidentiary character varies. A confessed plot may have been extracted under coercion; a later biography may emphasize martyrdom to strengthen scholarly lineage; an official chronicle may rationalize a victor's judgment. Historians should not place these kinds of testimony on the same footing. Comparing dates, actions, and subsequent reinterpretations can identify secure patterns while retaining uncertainty about unrecorded motives. The history of repression requires both accountability and disciplined attention to source production."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.9:b09",
+      "title": "Families and provincial repercussions",
+      "paragraphs": [
+        "A purge could affect relatives, pupils, and associates of an accused official long after the court's initial decision. Careers stalled, patronage networks changed, and some scholars withdrew toward provincial teaching. These effects differed by household and cannot be reconstructed completely from the biographies of leading men. Local networks could preserve memories that later contributed to rehabilitation and commemoration. Yet a history of provincial Sarim should not reduce all educational activity to exile from the capital. Schools and family teaching served purposes independent of political punishment. The crises altered possibilities for participation while leaving scholars and communities with choices about how to continue intellectual life."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "UNESCO Seowon location and institutional typology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.9:b10",
+      "title": "Repression and the making of orthodoxy",
+      "paragraphs": [
+        "The purges were consequential for the evolving political identity of Sarim because later generations interpreted suffering as evidence of exemplary moral principle. That memory could support criticism of rulers and strengthen scholarly genealogies, but it also made selective claims about who belonged to the legitimate tradition. A source-conscious account distinguishes the events themselves from subsequent commemoration. Hungu and Sarim were historically changing alignments, not timeless moral categories with fixed membership. This article has analyzed political persecution in its intellectual setting; specific reign histories belong elsewhere. The recurring problem was the unstable relationship between ethical remonstrance, elite competition, and royal capacity to coerce."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
