@@ -1,0 +1,161 @@
+{
+  "id": "V.6.4",
+  "title": "Poetry, Prose, Language, Music, and Performance",
+  "kicker": "GORYEO · LITERARY AND MATERIAL ARTS",
+  "description": "Original source-critical history of poetry, prose, language, music, and performance.",
+  "release": "AD",
+  "sourceStatus": "Original contextual synthesis; independent specialist assessment outstanding.",
+  "sources": [
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Goryeo Celadon",
+      "url": "https://www.metmuseum.org/it/essays/goryeo-celadon",
+      "role": "Material chemistry, Song contacts, inlay and regional centers"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Samguk Yusa and its textual tradition",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_r200345",
+      "role": "Goryeo compilation of ancient traditions and literary genre"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Inlaid Celadon",
+      "url": "https://contents.history.go.kr/mobile/tz/view.do?levelId=tz_b69",
+      "role": "Stepwise carving and colored-slip inlay method as explained by NIKH"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana printing blocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Thirteenth-century production, textual collation and heritage survival"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.6.4:b01",
+      "title": "A multilingual literary landscape",
+      "paragraphs": [
+        "Literary Chinese was central to official writing in Goryeo, but it should not be confused with the daily speech of all subjects. Court poems, memorials, and learned correspondence were composed within transregional literary conventions familiar to educated people elsewhere in East Asia. Local spoken languages and songs existed beside that written register, though their documentary survival is uneven. A poem therefore reveals an author's position within a learned community more clearly than the vocabulary of every household. Historians must distinguish script, language of composition, performance, and later transcription. These differences shaped the kinds of Goryeo voices that became available for later readers."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "Met Goryeo celadon technical essay"
+        }
+      ]
+    },
+    {
+      "id": "V.6.4:b02",
+      "title": "Court poems and social obligations",
+      "paragraphs": [
+        "Poetry might accompany diplomacy, farewell gatherings, ceremonial occasions, and the cultivation of friendships among officials. The ability to respond to an allusion demonstrated learning and situated a writer within networks of mutual recognition. Yet an elegant text may be a carefully crafted public performance rather than a transparent diary of private feelings. A court poem's setting and audience are essential to interpreting it. The same official who wrote about landscapes could be involved in decisions over taxes or appointments. The literary and administrative identities of such men were not separate professions but complementary roles within an elite culture that prized textual fluency."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.6.4:b03",
+      "title": "Yi Gyubo and expressive range",
+      "paragraphs": [
+        "Yi Gyubo's writings offer unusually rich evidence for late twelfth- and early thirteenth-century literary ambitions. His poems and prose demonstrate engagement with classical models while expressing the pleasures, frustrations, and political problems of his own times. Selected works circulated through anthologies and later editions, so their preservation reflects editorial decisions as well as initial authorship. It is tempting to make a single famous piece stand for an entire literary period, but genres varied and writers addressed different audiences. Biographical interpretations should compare the dates of composition with the poet's career rather than automatically treating every expression of anxiety as commentary on one public crisis."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "NIKH celadon inlay technique"
+        }
+      ]
+    },
+    {
+      "id": "V.6.4:b04",
+      "title": "Hyangga and the difficulty of transcription",
+      "paragraphs": [
+        "Earlier Korean songs preserved in the Samguk Yusa are important to Goryeo literary history because the thirteenth-century compiler transmitted traditions and writing practices from older periods. The texts' hyangchal notation presents formidable philological problems, and competing interpretations affect the reconstruction of sound and meaning. These songs should not be labeled ordinary Goryeo vernacular poems merely because they survive in a Goryeo compilation. Their performance contexts may also be reconstructed only partially. The surviving literary record joins layers of ancient transmission, later compilation, and modern analysis. Respecting these layers preserves the evidence for Korean-language expression without asserting more certainty than the notation allows."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.6.4:b05",
+      "title": "Song and music at the royal center",
+      "paragraphs": [
+        "Court music could accompany state ceremonies, banquets, and diplomatic receptions, requiring ensembles, instruments, and trained performers. Different traditions were associated with indigenous repertoires and music transmitted from Chinese courts, but labels such as native and foreign conceal adaptation over time. Instrument depictions, written lists, and later musical manuals provide different kinds of evidence. A repertory preserved in a Joseon source cannot automatically be performed back into a Goryeo hall with identical instrumentation. Royal patronage made some forms conspicuous, while popular singing survived less securely in archives. The social history of music must attend both to elite ceremony and to the labor of performers."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "Met Goryeo celadon technical essay"
+        }
+      ]
+    },
+    {
+      "id": "V.6.4:b06",
+      "title": "Buddhist recitation and narrative",
+      "paragraphs": [
+        "Monasteries sustained practices of chanting, storytelling, and the interpretation of scriptures that connected textual learning with sound and bodily performance. Religious gatherings could bring audiences together across status differences without erasing the hierarchy of access to temples or patronage. A written liturgical text identifies possible words of performance but rarely the exact voices, melody, or participation of ordinary listeners. Buddhist imagery and ritual objects offer additional context, though they cannot serve as recordings. Such limits are important because the cultural record tends to preserve institutional texts more readily than the fleeting social exchange of performance. Religious literature belongs within a broader sonic and oral world."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.6.4:b07",
+      "title": "Women as writers and performers",
+      "paragraphs": [
+        "Elite women's voices are only selectively preserved in Goryeo written collections, and narratives about entertainers often appear through male observers whose expectations shaped their description. Absence from official poetry anthologies does not demonstrate absence of literary activity, singing, or storytelling among women. Some could participate through household literacy, ritual settings, and patronage, while others performed under unequal social conditions. Historians should avoid fabricating representative biographies from isolated court anecdotes. The point is not to assert a uniform level of access but to identify how genre and archival selection determined whose creative labor became visible. Performance history needs a wider social lens than official careers alone."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "NIKH celadon inlay technique"
+        }
+      ]
+    },
+    {
+      "id": "V.6.4:b08",
+      "title": "Diplomacy and the circulation of forms",
+      "paragraphs": [
+        "Envoys traveling between Goryeo and neighboring courts could exchange verse, books, instruments, and accounts of ceremonial practice. These encounters made learned culture transregional without rendering it culturally identical. A Goryeo author could adopt a Song poetic form while applying it to local political circumstances or recognizable Korean landscapes. The direction of influence was not necessarily one way; visitors described the Goryeo court through their own categories and interests. Imported objects demonstrate contact but not precisely how a particular performance sounded. Cross-border comparison is strongest when textual dating, biographies, and material evidence converge, while the limits of such convergence should remain explicit."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.6.4:b09",
+      "title": "Manuscripts, compilations, and survival",
+      "paragraphs": [
+        "Most creative performances disappeared without being written down, and manuscripts were vulnerable to fire, war, reuse, and changing tastes. The works that survive were preserved by families, monasteries, or later compilers who selected what they considered valuable. Official poetic anthologies may privilege the stylistic accomplishment of high-status men, narrowing modern understanding of oral traditions. A transmitted song may have been adapted before transcription. The historian should study this path of survival instead of treating a printed edition as a complete collection of Goryeo cultural life. Differences between written and performed expression are substantive questions, not merely imperfections of an otherwise transparent archive."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "Met Goryeo celadon technical essay"
+        }
+      ]
+    },
+    {
+      "id": "V.6.4:b10",
+      "title": "Beyond a single high culture",
+      "paragraphs": [
+        "Goryeo literary and performance culture included learned verse, ritual recitation, music for courts and temples, and local spoken traditions that are difficult to recover. These practices interacted through people who served multiple communities, but they did not share identical purposes or audiences. A narrative limited to famous poets would obscure musicians, singers, translators, scribes, and the households sustaining them. Conversely, it would be unsafe to reconstruct exact popular repertoires without appropriate testimony. This chapter's cultural task is to explain several modes of expression within one political world. The next topic turns to printing and books, whose durable material remains partly explain why written voices dominate what we can know."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
