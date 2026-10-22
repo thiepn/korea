@@ -1,0 +1,161 @@
+{
+  "id": "VI.3.3",
+  "title": "Confucian Kingship, Remonstrance, Public Rule, and Moral Government",
+  "kicker": "EARLY JOSEON · MORAL PHILOSOPHY AND GOVERNMENT",
+  "description": "Original source-aware analysis of confucian kingship, remonstrance, public rule, and moral government.",
+  "release": "AD",
+  "sourceStatus": "Original interpretation with contextual Korean institutional sources; expert peer review outstanding.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Neo-Confucianism (성리학)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0029308",
+      "role": "Intellectual chronology, Zhu Xi and early Joseon ideological foundations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Learning of the Way (도학)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0015909",
+      "role": "Jeong Do-jeon, Gwon Geun, late Goryeo factions and Sarim succession"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Joseon ideological currents",
+      "url": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h41_0050_0020_0010",
+      "role": "Differentiating scholarly positions concerning dynastic foundation and reform"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jo Gwangjo and moral government reforms",
+      "url": "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i301600",
+      "role": "Sixteenth-century remonstrance and political consequences, not early foundation itself"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.3.3:b01",
+      "title": "The king as a moral officeholder",
+      "paragraphs": [
+        "Joseon's political language presented kingship as an office carrying ethical responsibilities, not simply the private possession of a powerful family. Rulers were expected to cultivate judgment, protect livelihoods, honor proper ritual, and heed principled counsel. These expectations offered officials criteria by which royal conduct could be praised or criticized. Yet the court's statements of ideals are not evidence that every king governed according to them. Moral vocabulary could make decisions more accountable while also providing rhetoric that justified factional interests. The historian must compare declarations, institutional procedures, and outcomes. The form of kingship was deeply moralized without ceasing to depend on dynastic succession and coercive capacity."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "AKS Neo-Confucian intellectual chronology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.3:b02",
+      "title": "Remonstrance as an institutional practice",
+      "paragraphs": [
+        "Officials associated with censorial and remonstrance functions could submit criticisms of royal proposals, appointments, and perceived wrongdoing. Their authority depended on established offices and expectations about how a learned ruler should respond. Such arguments could be courageous, but the record also shows conflicts over what constituted appropriate speech. Criticism delivered in public language remained entangled with factional competition and family relationships. A memorial should be read as an intervention aimed at a specific decision, not an objective survey of popular sentiment. The existence of remonstrance institutions does not establish that officials always spoke freely or that kings complied. It does demonstrate a recognized mechanism for articulating limits to royal discretion."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.3:b03",
+      "title": "Public interest and its possible meanings",
+      "paragraphs": [
+        "The Neo-Confucian idea of governing for the common good could be invoked against self-serving ministers or extravagant projects. But the term public did not denote a modern electorate with equal political standing. Scholar-officials could claim to represent an ethical order without consulting the majority of cultivators, servants, or women affected by policy. Historical interpretation should examine whether proposed measures addressed identifiable economic and social problems rather than accepting the speaker's own moral label. Publicness was an argument about proper authority and acceptable conduct within a status hierarchy. Its power and exclusions must be discussed together to avoid both anachronistic praise and automatic dismissal."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "NIKH early Joseon political thought"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.3:b04",
+      "title": "Royal lectures and the work of persuasion",
+      "paragraphs": [
+        "Lectures for the king provided settings where scholars explained classical passages and applied them to contemporary decisions. The practice could encourage repeated engagement between monarch and officials, but attendance and the willingness to hear criticism varied. A preserved discussion may present polished arguments rather than a verbatim account of spontaneous exchange. The selection of a passage could be politically consequential when current disputes concerned appointments or taxes. Lectures therefore joined pedagogy with governance. They demonstrate how written traditions entered court decision-making while leaving uncertain whether a particular exchange changed policy or simply recorded opposing positions already established among leading officials."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.3:b05",
+      "title": "Justice and the moral limits of punishment",
+      "paragraphs": [
+        "An ethical king was expected to consider the suffering of subjects and the proper use of punishment. Scholars could criticize harsh sentences or unjust investigations through classical precedent. However, moral concern did not mean abolition of severe penalties or universal equality before the law. Status distinctions and political crimes remained central to legal practice. The history of punishment should compare normative calls for restraint with records of actual proceedings where available. A moral argument might prevent an individual abuse yet coexist with coercive institutions across the realm. Neo-Confucian rulership should be evaluated through this tension between ethical aspiration and state power."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "AKS Neo-Confucian intellectual chronology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.3:b06",
+      "title": "Fiscal restraint and responsibility",
+      "paragraphs": [
+        "Court advisers often linked moral government to protection of the agricultural population from excessive demands. They could argue that lavish construction, military ventures, or improvident appointments endangered the livelihood of taxpayers. Such reasoning understood fiscal policy as an ethical issue, but it did not produce a single agreed schedule of just taxation. Officials also disagreed about the necessary costs of defense and ritual. The historian should distinguish the principle of compassion for cultivators from the outcome of a particular land assessment or corvée order. A royal edict proclaiming relief provides evidence of intention; its implementation requires information from provinces and households."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.3:b07",
+      "title": "The difficulty of holding power accountable",
+      "paragraphs": [
+        "Criticizing a sovereign carried risk because the same court that valued remonstrance could punish statements construed as insulting or politically dangerous. Institutional precedents did not remove a ruler's capacity to dismiss or silence opponents. Conversely, repeated criticism could delay decisions or become a way for a faction to obstruct rival officials. The tension was structural: a moralized office presupposed counsel, while dynastic power remained unequal. An account of ethical kingship must include the political risks and practical incentives shaping speech. It would be misleading to present remonstrance as an always-protected constitutional right or as nothing more than ceremonial theater."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "NIKH early Joseon political thought"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.3:b08",
+      "title": "Historical exemplars and selective precedent",
+      "paragraphs": [
+        "Officials turned to accounts of ancient rulers and Chinese dynastic histories for models of conduct. Such analogies gave arguments a recognized authority, but selection and interpretation were contestable. A story about an ideal minister might be used to defend one official and condemn another, depending on the contemporary dispute. Historical scholarship therefore became a political resource. The literary form of a memorial can conceal the uncertainty of its chosen analogy, and a rhetorical comparison is not independent evidence about the event being debated. Studying the use of precedent helps reconstruct the ethical reasoning of the court without assuming that famous examples directly determined practical outcomes."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.3:b09",
+      "title": "The king and the learned bureaucracy",
+      "paragraphs": [
+        "Joseon kings depended on officials for information, records, ritual expertise, and implementation, yet could challenge or reorganize the networks through which advice reached them. A ruler who fostered scholarship might still act decisively against a political rival. The ideals of public government emerged within this division of authority, not outside it. Local officials mediated policy, so even well-reasoned decrees could be resisted or distorted beyond the capital. Moral debate at the court was consequential but not a full social history of the state. Its effect depended on administrative capacity, local relations, and the ability to reconcile competing claims on limited resources."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Korean historical source provides philosophical or political context; specific motive remains interpretive.",
+          "locator": "AKS Neo-Confucian intellectual chronology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.3:b10",
+      "title": "An enduring field of contention",
+      "paragraphs": [
+        "The language of ethical kingship remained central to Joseon political life because it provided tools for both royal justification and ministerial critique. It could support efforts at restraint and reform, while also intensifying conflict over who possessed legitimate moral judgment. This article has examined the ideals and practices of counsel, not the complete history of censorship offices or particular royal reigns. Education, family ritual, and regional scholarly networks provided other contexts in which the same philosophy was interpreted. Neo-Confucian government was thus an unfinished practice of persuasion and power, rather than a constitutional formula that reliably resolved disagreement."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
