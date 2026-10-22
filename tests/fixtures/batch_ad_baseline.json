@@ -453,8 +453,8 @@
     "V.6.5": 3,
     "VI.3.4": 3
   },
-  "authored_snapshot": null,
-  "expected_new_words": null,
+  "authored_snapshot": "f9eb6a6b9af4a9275ef03a52ebe919dd94d200cc",
+  "expected_new_words": 20139,
   "expected_new_passages": 196,
   "expected_source_anchors": 90
 }
