@@ -1,0 +1,161 @@
+{
+  "id": "V.6.2",
+  "title": "Confucian Scholarship, Intellectual Networks, and Learned Officials",
+  "kicker": "GORYEO · EDUCATION, SCHOLARSHIP AND HISTORICAL MEMORY",
+  "description": "Original source-critical history of confucian scholarship, intellectual networks, and learned officials in the Goryeo cultural world.",
+  "release": "AD",
+  "sourceStatus": "Original interpretive synthesis with contextual institutional sources; not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gukjagam: elite education in Goryeo",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o200200",
+      "role": "Institutional history, 992 reforms, curricular and eligibility disputes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Twelve Private Academies of Goryeo",
+      "url": "https://contents.history.go.kr/mobile/tg/view.do?ganada=&levelId=tg_002_0670&pageUnit=10&subjectCode=tg_ty_090&tabId=02",
+      "role": "Choe Chung's nine halls and private academic networks"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Goryeo state academy and Seven Halls",
+      "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_002_0030_0020_0010_0020&whereStr=",
+      "role": "1109 seven specialized courses and restrictions on interpreting rules as universal practice"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo educational admission and institutional changes",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_017_0020_0010_0010_0040_0020",
+      "role": "Detailed historiography of access, local students, and early royal encouragement"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.6.2:b01",
+      "title": "Confucian learning under Buddhist kings",
+      "paragraphs": [
+        "Goryeo rulers could support Buddhist temples while employing officials trained in Confucian texts and administrative language. These commitments were not necessarily experienced as mutually exclusive. Classical learning helped construct official memorials, evaluate conduct, and justify relations between ruler and ministers. It did not automatically determine every royal policy, and a court's celebration of moral virtue could coexist with patronage and factional competition. A history of Confucian scholarship in Goryeo must avoid assigning the sharper ideological boundaries of later Joseon to earlier centuries. The relevant problem is how educated men used shared texts and arguments within an environment where Buddhist institutions remained prominent participants in public culture."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Gukjagam chronology and schools"
+        }
+      ]
+    },
+    {
+      "id": "V.6.2:b02",
+      "title": "Classics as a political vocabulary",
+      "paragraphs": [
+        "The Analects, historical narratives, and other classics supplied exemplary stories through which officials could criticize excessive punishment, discuss succession, or advise a king to attend to agriculture. Such arguments could reflect genuine convictions and also serve the practical aims of a political faction. A minister's quotation from antiquity is not independent proof that policy followed his recommendation. The ability to deploy classical allusion nevertheless gave learned officeholders a recognized language for contesting decisions. Its force depended on audience and precedent. Confucian learning was thus part of the work of government, not simply an intellectual pastime separated from the administration of revenue, justice, or diplomacy."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.6.2:b03",
+      "title": "Scholarly families and networks of recommendation",
+      "paragraphs": [
+        "Families that produced successful candidates gained advantages through instructors, correspondence, and the careers of relatives. Recommendations could carry as much practical weight as formal examination achievement. It would be misleading to present every scholar-official as a self-made student advancing through merit alone. The capital offered opportunities for encounters, but provincial relationships continued to shape careers. Learned status functioned through social recognition, and a man might cultivate patrons by displaying textual command. None of this makes scholarship insincere; it shows that literary and ethical achievement belonged to a world of unequal access to books, leisure, and official appointments. Intellectual networks were social institutions as well as communities of ideas."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Seven Halls program and limitations"
+        }
+      ]
+    },
+    {
+      "id": "V.6.2:b04",
+      "title": "Examinations and independent reasoning",
+      "paragraphs": [
+        "Preparation for the civil examinations rewarded the ability to write in approved genres and respond to questions framed by state expectations. Repeated practice could foster technical fluency while encouraging conformity in style. Yet examination learning did not prevent scholars from criticizing current policy or developing independent historical judgments. Surviving essays offer fragments of these negotiations between convention and initiative. We cannot reconstruct a complete national ranking of intellectual talent from lists of successful candidates. The examination recorded performance under particular rules, and those rules changed over time. Scholarly distinction had institutional consequences, but it was not reducible to a single score or a guaranteed route to high office."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.6.2:b05",
+      "title": "Choe Seungno and the argument for civil order",
+      "paragraphs": [
+        "Choe Seungno's memorials under Seongjong are often read as evidence of efforts to make government more accountable to established classical ideals and orderly administration. His proposals also emerge from a particular political moment in which the monarchy negotiated with regional powers and religious institutions. Treating the memorial as a completed blueprint for the dynasty would mistake advice for legislation. Its significance lies in the vocabulary of ethical rulership and practical reform, and in the court's willingness to preserve and debate such claims. The memorial's survival provides a clear example of scholarly agency without proving that all recommended policies were immediately enacted."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Gukjagam chronology and schools"
+        }
+      ]
+    },
+    {
+      "id": "V.6.2:b06",
+      "title": "Song China and transregional scholarship",
+      "paragraphs": [
+        "Envoys, books, and learned visitors linked Goryeo officials to developments in the Song cultural world. Foreign texts could be copied, debated, and adapted rather than passively accepted. Diplomatic exchange also carried political implications because the courts navigated relations with Liao, Song, and later Jin in a changing northeast Asian order. A Chinese book in an elite library is evidence of intellectual access, not that every official adopted its arguments. The forms of scholarship circulating internationally included history, ritual, governance, and practical knowledge. Local debates should be understood within these connections while recognizing the distinct circumstances that shaped their interpretation at Gaegyeong."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.6.2:b07",
+      "title": "The late Goryeo Neo-Confucian turn",
+      "paragraphs": [
+        "By the later dynasty, forms of learning associated with Zhu Xi became increasingly influential among some scholar-officials. Such study was introduced through networks of texts and overseas contacts, but adoption was neither immediate nor uniform. Critics of monastic wealth could advance arguments for reform while retaining personal relationships with Buddhist practices. Later Joseon histories often portray Neo-Confucian ascendance as an obvious victory of a superior doctrine, obscuring contingencies and alternative intellectual choices. A historian should distinguish the reception of a philosophical vocabulary from the political founding of a dynasty in 1392. The transfer between intellectual movements and institutional reconstruction requires separate explanation."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Seven Halls program and limitations"
+        }
+      ]
+    },
+    {
+      "id": "V.6.2:b08",
+      "title": "Yi Saek and scholarly continuity",
+      "paragraphs": [
+        "Yi Saek's intellectual career illustrates how education, government service, and loyalty could become difficult to reconcile as the Goryeo order faced political crisis. His learning influenced younger thinkers whose views of dynastic succession diverged sharply. The existence of a common teacher did not prescribe identical conclusions about legitimate political authority. Later narratives sometimes arrange these figures as ancestors of opposing factions, but such genealogies are retrospective constructions. Their value lies in showing the circulation of texts and moral arguments across shifting political alignments. Intellectual history becomes misleading when a school is treated as a single political party acting with permanent agreement."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.6.2:b09",
+      "title": "The material conditions of learned work",
+      "paragraphs": [
+        "Scholars relied on scribes, paper, books, time away from physical labor, and institutions able to preserve manuscripts. A text's survival is affected by later copying decisions, disasters, and the preferences of powerful patrons. What appears to be the central intellectual debate may partly reflect which writings remained available for compilation. Elite male authors dominate the record, while local teachers and household transmitters of knowledge are difficult to reconstruct. Source criticism must therefore ask who could write, whose opinions were worth copying, and who was excluded from archives. Learned culture was substantial but not a complete record of how all people reasoned about authority."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Gukjagam chronology and schools"
+        }
+      ]
+    },
+    {
+      "id": "V.6.2:b10",
+      "title": "An inheritance open to different futures",
+      "paragraphs": [
+        "Goryeo Confucian scholarship provided officials with tools of statecraft, literary expression, and criticism, while the dynasty continued to sustain Buddhist and other intellectual institutions. The later Neo-Confucian reconstruction of Joseon drew on aspects of this inheritance without revealing its inevitable destiny. Understanding the development requires attention to institutional careers, social networks, translation and commentary, and the politics of text preservation. This article owns the culture of scholarship within Goryeo; the distinctive foundation of Joseon's moral-political order is treated in the succeeding Part. Intellectual continuity and political rupture must be explained together rather than assumed to cancel one another."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
