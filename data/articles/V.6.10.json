@@ -1,0 +1,161 @@
+{
+  "id": "V.6.10",
+  "title": "Engineering, Shipbuilding, Water Management, and Technical Knowledge",
+  "kicker": "GORYEO · MATERIAL KNOWLEDGE AND TECHNICAL SYSTEMS",
+  "description": "Original critical study of engineering, shipbuilding, water management, and technical knowledge.",
+  "release": "AD",
+  "sourceStatus": "Original scholarly synthesis with contextual sources; no external peer review.",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Haeinsa Janggyeong Panjeon",
+      "url": "https://whc.unesco.org/en/list/737",
+      "role": "Architectural preservation context, fifteenth-century storage versus thirteenth-century Goryeo woodblocks"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Goryeo Tripitaka and miscellaneous woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Goryeo editorial, carving, and manuscript culture"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gukjagam historical institution",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o200200",
+      "role": "Goryeo education, technical studies and archival limits"
+    },
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Goryeo Celadon",
+      "url": "https://www.metmuseum.org/it/essays/goryeo-celadon",
+      "role": "Goryeo regional technical production and transregional materials"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.6.10:b01",
+      "title": "Engineering as coordinated work",
+      "paragraphs": [
+        "Goryeo's technical history includes construction, transport, defensive works, ships, irrigation, and the specialized crafts that made institutions function. Much of this expertise survives through objects and built remains rather than treatises describing every procedure. A bridge's foundations can reveal engineering choices without preserving the names of all laborers. Royal records often report commissioning and completion, yet say little about procurement, accidents, or maintenance. The historian should examine practical tasks and social organization together. A grand project depended on skilled supervisors, material supply, and people compelled or encouraged to provide labor. Innovation cannot be measured only by the visibility of the finished monument."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "UNESCO Haeinsa building and conservation chronology"
+        }
+      ]
+    },
+    {
+      "id": "V.6.10:b02",
+      "title": "Timber construction and the knowledge of joints",
+      "paragraphs": [
+        "Building in wood required the selection, seasoning, and shaping of timber, along with knowledge of joints, roof loads, and resistance to weather. Structures were vulnerable to fire and decay, and many underwent later repairs or complete reconstruction. Thus the age of a temple institution differs from the age of its surviving architectural fabric. Technical histories must identify secure construction phases before assigning a roof bracket or beam to Goryeo. Craft traditions could be transmitted through long apprenticeship without producing explanatory texts that survive in libraries. The built environment testifies to skilled practice even when documentary sources do not describe its full theoretical language."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.6.10:b03",
+      "title": "Ships and the coastal environment",
+      "paragraphs": [
+        "The peninsula's extensive coastline and river systems created demand for transport vessels, fishing craft, and military ships. Hull forms and construction methods varied according to cargo, water depth, and the risks of sea travel. Surviving underwater finds provide important archaeological evidence, while literary descriptions can preserve names without the details necessary to reconstruct a complete vessel. It would be unsound to apply the dimensions of a later Joseon ship to a Goryeo craft solely because both traveled coastal waters. Shipbuilding depended on timber, rope, metal fittings, trained crews, and access to sheltered harbors. Maritime engineering was embedded in a wider economy of maintenance."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "NIKH Gukjagam technical schooling"
+        }
+      ]
+    },
+    {
+      "id": "V.6.10:b04",
+      "title": "The transportation of heavy cargo",
+      "paragraphs": [
+        "Moving grain, tiles, stone, or ceramic loads required more than a road drawn between a workshop and the capital. Carters, porters, boats, warehouses, and staging stations made the movement possible. Rivers could reduce transport costs, but seasonal conditions and changes in depth shaped routes. A successful state redistribution system relied on local people who knew crossings and could repair infrastructure. Texts describing deliveries often prioritize the authority that ordered them rather than the practical details of execution. Archaeological concentrations of goods can suggest transport patterns without establishing exact itineraries. The engineering of logistics should be treated as technical knowledge in its own right."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.6.10:b05",
+      "title": "Irrigation and the agricultural landscape",
+      "paragraphs": [
+        "Agricultural production depended on water management, including fields, embankments, drainage channels, and local decisions about seasonal maintenance. Technical solutions varied with rainfall, soils, and geography. A royal proclamation encouraging repair does not prove every community possessed the same infrastructure. Nor should later large-scale reservoirs be assigned to Goryeo solely because farmers in the area had cultivated rice earlier. Archaeological dating, sediments, and historic land records can clarify individual projects. Water works required collective labor and arrangements for allocating scarce resources. Engineering choices therefore had social consequences, potentially benefiting some households while making others responsible for demanding repairs."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "UNESCO Haeinsa building and conservation chronology"
+        }
+      ]
+    },
+    {
+      "id": "V.6.10:b06",
+      "title": "Floods, erosion, and maintenance",
+      "paragraphs": [
+        "The repeated work of maintaining channels, roads, and fortifications rarely receives the attention given to a spectacular inauguration. Seasonal floods could damage banks, wash out crossings, and shift the location of useful fields. Repairing such losses required materials and the ability to coordinate labor quickly. Climate records and chronicles provide limited evidence for exceptional conditions but rarely quantify the full cost to every affected village. A technical system's success depended on whether people could sustain upkeep over years, not just whether a ruler ordered its construction. The social distribution of maintenance obligations is central to understanding infrastructural capacity."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.6.10:b07",
+      "title": "Metallurgical equipment and the craft infrastructure",
+      "paragraphs": [
+        "Metalworking supported not only weapons and tools but the fittings, bells, and instruments needed for construction and ritual life. Furnaces, charcoal supplies, molds, and skilled smiths formed a technical infrastructure whose organization varied across regions. A high-quality cast object demonstrates successful operations but not the full annual output of its workshop. The archaeological absence of industrial debris may reflect later disturbance rather than lack of production. Craftspeople learned through repeated practice and the movement of techniques between workshops. Technical history should connect visible objects to the networks of miners, carriers, fuel producers, and patrons who enabled their manufacture."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "NIKH Gukjagam technical schooling"
+        }
+      ]
+    },
+    {
+      "id": "V.6.10:b08",
+      "title": "Warfare and technological pressure",
+      "paragraphs": [
+        "Fortification, transport, and maritime defense acquired greater urgency during prolonged conflict, including the Mongol invasions. Yet a history of military engineering should not portray every innovation as a direct response to one campaign. Existing craft skills could be repurposed under pressure, while resource shortages limited the effectiveness of ambitious plans. Chronicles sometimes celebrate a clever device or defensive success without documenting how widely a method was used. The chronology of campaigns belongs to its own historical chapters; here the issue is the technical and organizational capacity necessary to support defense. Innovation could coexist with damage and displacement, with sharply unequal consequences for communities."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.6.10:b09",
+      "title": "The limits of technological firsts",
+      "paragraphs": [
+        "Public histories often seek a single ancient inventor or the world's earliest example of a device. Such questions are sometimes worthwhile, as with the surviving evidence of Goryeo printing, but they can obscure the long chain of skills behind an artifact. A technique documented in one surviving object may have antecedents that no longer exist. Conversely, an earlier textual claim is not equivalent to a surviving working specimen. Technical comparisons must specify what exactly is being dated and measured. The achievement of engineers and artisans lies in practical adaptation and durable skill as much as in competitive priority over other civilizations."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "UNESCO Haeinsa building and conservation chronology"
+        }
+      ]
+    },
+    {
+      "id": "V.6.10:b10",
+      "title": "The many makers of Goryeo's infrastructure",
+      "paragraphs": [
+        "Technical knowledge lived among builders, mariners, agricultural communities, artisans, and officials with different degrees of privilege and visibility. Some methods were transmitted through manuals or records, others through apprenticeship and routine labor. The court could mobilize projects but depended upon local expertise whose makers seldom entered royal histories. Engineering thus connects intellectual culture with material survival and political authority. This final article completes the cultural chapter without treating technological sophistication as inevitable progress or evidence of uniformly prosperous society. Goryeo's achievements are best understood through specific projects, constraints, and the people who sustained them across generations."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
