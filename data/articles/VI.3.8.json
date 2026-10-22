@@ -1,0 +1,161 @@
+{
+  "id": "VI.3.8",
+  "title": "Seowon, Hyangyak, and Local Confucian Networks",
+  "kicker": "JOSEON · SCHOLARLY INSTITUTIONS, POLITICAL CRISES AND PHILOSOPHY",
+  "description": "Original source-critical history of seowon, hyangyak, and local confucian networks.",
+  "release": "AD",
+  "sourceStatus": "Original interpretive synthesis with institutional contextual references; specialist peer review outstanding.",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Seowon, Korean Neo-Confucian Academies",
+      "url": "https://whc.unesco.org/en/list/1498/",
+      "role": "Nine late-Joseon heritage academies and their historical intellectual functions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sarim (사림)",
+      "url": "https://contents.history.go.kr/front/tg/view.do?levelId=tg_003_1140&treeId=0100",
+      "role": "Sarim chronology, Hungu disputes, court remonstrance"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jo Gwangjo political reforms and persecution",
+      "url": "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i301600",
+      "role": "Specific sixteenth-century reform projects and 1519 crisis"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sixteenth-century Joseon Neo-Confucian debates",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_024_0040_0010_0070",
+      "role": "Toegye and Yulgok, metaphysics, ethical practice and political reform"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.3.8:b01",
+      "title": "Learning moved through regional institutions",
+      "paragraphs": [
+        "Seowon academies developed as centers of scholarship, instruction, and commemoration associated with Neo-Confucian thinkers. Their influence rested on local teachers, families, and patrons, not simply on an order from the royal court. Buildings, libraries, ritual spaces, and surrounding landscapes supported different forms of intellectual work. The UNESCO-listed academies provide visible heritage evidence, but the surviving sites vary in date and later reconstruction. Not every sixteenth-century school resembled its present arrangement. The historian must distinguish an academy's founding, periods of royal recognition, changes of ownership, and the intellectual traditions retrospectively attached to it. Regional institutions were dynamic social organizations rather than identical branches of one educational bureaucracy."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "UNESCO Seowon location and institutional typology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.8:b02",
+      "title": "The foundation and prestige of Sosu Seowon",
+      "paragraphs": [
+        "Sosu Seowon, associated with sixteenth-century developments in Yeongju and commemoration of An Hyang, became an influential model for regional academy life. Its establishment reflects the importance of local scholarly initiative and later royal support. Yet its example should not be converted into a fixed template followed by every other institution. Founders chose whom to honor, how students would be taught, and how resources would be maintained. Such decisions could express an intellectual lineage and strengthen the standing of local families. A history of academies is also a history of patronage, selective memory, and the practical costs of providing sustained instruction outside the capital."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.8:b03",
+      "title": "The landscape of study and ritual",
+      "paragraphs": [
+        "Many academies were sited in environments chosen for study, reflection, and the performance of rites. The relationship between lecture spaces and shrines expressed the belief that learning and respect for exemplary predecessors belonged together. Yet architectural orientation cannot by itself reveal how often classes met or which texts students mastered. Weather, repairs, and the availability of instructors affected daily operation. A building's preservation may owe much to later patrons who restored an institution after decline. Material heritage and textual records must therefore be combined carefully. The atmosphere conveyed to a modern visitor is historically significant but should not be mistaken for a direct view of every sixteenth-century student's day."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "NIKH Jo Gwangjo and purges"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.8:b04",
+      "title": "Hyangyak and the organization of community",
+      "paragraphs": [
+        "Hyangyak agreements were promoted as ways to encourage mutual support, moral conduct, and local responsibility. Their principles could reinforce ideals of neighborly obligation, but their implementation took place within communities marked by hierarchy and conflicting interests. A local elite might present the agreement as benevolent discipline while poorer households experienced additional supervision. Prescribed rules are not proof that every village practiced them identically. The exact circumstances of local adoption and adaptation require records tied to specific places and periods. Hyangyak belongs to the history of efforts to organize community life, not an unqualified demonstration that ethical ideals eliminated social inequality."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.8:b05",
+      "title": "The authority of local scholars",
+      "paragraphs": [
+        "A successful academy could enhance the influence of scholars who were not currently serving at court. Their reputations could attract students, shape family alliances, and provide a forum for discussing disputed political events. This influence did not make them accountable representatives of all residents. Elite men with learning and resources dominated the institutions, while the voices of women, dependents, and poorer cultivators were much less visible. Political authority outside the capital could be intellectual and social rather than formally bureaucratic. Its strength depended on recognition and networks, not a guaranteed legal mandate over everyone living nearby."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "UNESCO Seowon location and institutional typology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.8:b06",
+      "title": "Patronage, land, and operating costs",
+      "paragraphs": [
+        "Academies required books, buildings, food for students, and resources for ritual observances. Donations and endowed properties could sustain instruction while also generating disputes over land or fiscal privileges. A donor's name on an inscription tells us something about patronage but not the full experiences of tenant households associated with an estate. Different academies possessed unequal resources, affecting access and scholarly reputation. Financial support could bring freedom to pursue study while creating dependence on particular local lineages. Describing academies as purely spiritual institutions would conceal the economic arrangements necessary for their activities. Their place in the countryside was therefore material as well as intellectual."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.8:b07",
+      "title": "Teachers, pupils, and the circulation of books",
+      "paragraphs": [
+        "Students traveled to teachers whose interpretation of texts and personal reputation attracted followers. In this way, a regional institution could influence scholarly communities beyond its immediate district. Books moved through copying, lending, and printing, but libraries were unevenly equipped, and a famous academy's catalogue cannot be generalized nationwide. Pupils might later serve in office or establish new teaching networks, carrying both intellectual approaches and social connections. It would be misleading to assume that all students agreed with their teachers on every political question. Scholarly transmission involved interpretation and adaptation rather than simple reproduction of an unchanging doctrinal package."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "NIKH Jo Gwangjo and purges"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.8:b08",
+      "title": "Commemoration and the construction of orthodoxy",
+      "paragraphs": [
+        "Rites honoring admired scholars helped identify exemplary lineages and reinforced claims about legitimate learning. Inclusion in an academy shrine could increase the symbolic authority of a historical figure, while exclusion also mattered. These decisions were often made long after the person commemorated had died, within a political world unlike his own. A modern list of honored thinkers is therefore evidence of evolving memory as well as an intellectual genealogy. Academies did not merely preserve already agreed orthodoxy; they participated in constructing it. Historians should compare earlier writings with later commemorative traditions before accepting claims of uninterrupted transmission."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.8:b09",
+      "title": "Local autonomy and royal intervention",
+      "paragraphs": [
+        "Royal recognition could enhance an academy's standing, while central authorities sometimes sought to manage or restrict institutions they viewed as politically troublesome. This relationship changed across the dynasty and should not be projected backward from later Joseon disputes into the earliest foundations. A regional academy might support ethical criticism of officials while also acting as a center of powerful local family interests. The state could value its educational function and question its political influence simultaneously. Such ambiguity illustrates why government and scholarship cannot be treated as wholly separate spheres. Local networks extended royal cultural ideals while retaining capacities the court could not always control."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source supports institutional or intellectual context, not every individual motive or retrospective doctrine.",
+          "locator": "UNESCO Seowon location and institutional typology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.8:b10",
+      "title": "Academies within the larger intellectual order",
+      "paragraphs": [
+        "Seowon and hyangyak show how Neo-Confucian commitments spread through relationships of teaching, ritual, and community organization. They also reveal the limits of uniformity: access depended on status and resources, and local institutions made selective choices about whose learning counted. The surviving heritage sites provide a vivid picture of one institutional form, not a census of all Joseon educational practice. This article has examined regional networks and their practical operation. The next considers court purges that altered scholarly influence, while the final article studies the arguments of Toegye and Yulgok. Regional academy life and philosophical controversy developed together but were not interchangeable."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
