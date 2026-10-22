@@ -1,0 +1,161 @@
+{
+  "id": "V.6.3",
+  "title": "Samguk Sagi, Samguk Yusa, and the Writing of Korean History",
+  "kicker": "GORYEO · EDUCATION, SCHOLARSHIP AND HISTORICAL MEMORY",
+  "description": "Original source-critical history of samguk sagi, samguk yusa, and the writing of korean history in the Goryeo cultural world.",
+  "release": "AD",
+  "sourceStatus": "Original interpretive synthesis with contextual institutional sources; not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gukjagam: elite education in Goryeo",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o200200",
+      "role": "Institutional history, 992 reforms, curricular and eligibility disputes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Twelve Private Academies of Goryeo",
+      "url": "https://contents.history.go.kr/mobile/tg/view.do?ganada=&levelId=tg_002_0670&pageUnit=10&subjectCode=tg_ty_090&tabId=02",
+      "role": "Choe Chung's nine halls and private academic networks"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Goryeo state academy and Seven Halls",
+      "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_002_0030_0020_0010_0020&whereStr=",
+      "role": "1109 seven specialized courses and restrictions on interpreting rules as universal practice"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo educational admission and institutional changes",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_017_0020_0010_0010_0040_0020",
+      "role": "Detailed historiography of access, local students, and early royal encouragement"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.6.3:b01",
+      "title": "Two works written for different purposes",
+      "paragraphs": [
+        "The Samguk Sagi and Samguk Yusa are indispensable accounts of earlier Korean histories, but they are products of Goryeo intellectual life rather than contemporary witnesses to every event they describe. Kim Busik's Samguk Sagi was presented in 1145, following an organized project of compilation and royal sponsorship. The Samguk Yusa emerged much later, associated principally with the monk Iryeon and a different selection of traditions. Their genres, editorial priorities, and relationships to written and oral sources are not interchangeable. Treating one as a factual skeleton and the other merely as folklore would misrepresent both the use of inherited records and the interpretive decisions of their compilers."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Gukjagam chronology and schools"
+        }
+      ]
+    },
+    {
+      "id": "V.6.3:b02",
+      "title": "Why the court compiled Samguk Sagi",
+      "paragraphs": [
+        "A history of previous kingdoms could help a Goryeo monarchy understand the political past it claimed to inherit and supply models of orderly rule. The Samguk Sagi organized earlier events into dynastic biographies, chronological accounts, and other familiar historical forms drawn partly from Chinese historiography. Its arrangement gives rulers and wars special prominence, while the lives of ordinary cultivators appear less often. The resulting narrative is an invaluable source for political chronology but also a product of elite selection. A historian should ask why a compiler included particular episodes and whose activities could become legible within a royal historical format. The form helped determine what counted as history."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.6.3:b03",
+      "title": "The challenge of vanished earlier archives",
+      "paragraphs": [
+        "Kim Busik and his collaborators used earlier materials that often no longer survive independently. This loss complicates verification of dates, place names, and reported speeches. Some entries may reproduce older evidence accurately; others may contain errors or retrospective moral framing. A modern account cannot resolve the issue by assuming every detail was invented or every cited tradition was exact. Cross-comparison with inscriptions, archaeological sites, Chinese histories, and Japanese records provides independent checks of differing strength. The apparent precision of a year in a transmitted chronicle should not be mistaken for the certainty of an eyewitness report. Source criticism belongs to the text's historical use."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Seven Halls program and limitations"
+        }
+      ]
+    },
+    {
+      "id": "V.6.3:b04",
+      "title": "Iryeon and histories left aside",
+      "paragraphs": [
+        "The Samguk Yusa preserves myths, local accounts, Buddhist stories, biographies, and material sometimes absent from official dynastic histories. The title evokes matters left over or omitted, but the collection is not simply a supplement filling objectively established gaps. Its religious and literary choices give it a distinctive voice, and scholarship discusses whether all surviving sections share the same authorship or stage of compilation. The work's importance includes the record of how late Goryeo intellectuals imagined early Korean sacred and political worlds. Historical analysis must not automatically convert a foundation miracle into a dated public event. A transmitted story has evidence value even where literal verification is impossible."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.6.3:b05",
+      "title": "Dangun and the politics of origins",
+      "paragraphs": [
+        "Dangun traditions are among the best-known narratives preserved in the Samguk Yusa. Their presence in a thirteenth-century compilation does not independently establish the precise date of a prehistoric founding kingdom or a single biological ancestor for modern Koreans. The story is valuable as evidence about concepts of antiquity, sacred authority, and connections between place and lineage. Other sources provide different versions or emphases, and their transmission histories matter. A responsible discussion distinguishes the age attributed within a legend from the earliest secure evidence for the version preserved. This prevents the historical importance of the tradition from being confused with an archaeological proof that does not exist."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Gukjagam chronology and schools"
+        }
+      ]
+    },
+    {
+      "id": "V.6.3:b06",
+      "title": "Buddhist memory as historical selection",
+      "paragraphs": [
+        "Iryeon's text gives considerable space to temples, monks, religious wonders, and the place of Buddhism in earlier kingdoms. These themes reflect intellectual and institutional priorities within Goryeo, including the preservation of monastic traditions. A miracle story can disclose the social meaning attached to a temple or ruler without enabling a historian to confirm supernatural events as ordinary chronological facts. Inscribed stones and excavated temple sites may verify locations or patrons independently, but not every narrative detail. Religious evidence should be treated neither as worthless because it is devotional nor as transparent documentation because it names historical people. Its genre is part of its significance."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.6.3:b07",
+      "title": "The visibility of Silla and its rivals",
+      "paragraphs": [
+        "Both works devote attention to Silla, Goguryeo, and Baekje, but the balance and structure of their accounts differ. Later historians have debated how these choices shaped the centrality of Silla in conventional narratives of Korean historical development. A Goryeo compilation could help articulate a peninsula-wide past while rendering communities outside established dynastic frames less visible. The exclusion of some voices does not mean they did not exist. Archaeological findings from Gaya or northern settlements, for instance, require interpretations not entirely determined by the preserved literary canon. Historiography is therefore a study of how competing pasts were assembled into durable narratives."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Seven Halls program and limitations"
+        }
+      ]
+    },
+    {
+      "id": "V.6.3:b08",
+      "title": "Transmission, editions, and lost pages",
+      "paragraphs": [
+        "Neither text reaches modern readers without a history of copying, printing, collecting, and editorial correction. The manuscript and printed witnesses available to scholars differ in age and completeness, and editions sometimes resolve ambiguous characters through informed judgment. A widely quoted sentence is thus part of a textual tradition as well as a historical claim. Translators must decide how to represent titles, foreign place names, and archaic terms; such choices can reshape modern interpretations. Digitization makes versions easier to compare but does not abolish textual uncertainty. Responsible quotation requires identifying the work, edition, and interpretive context rather than using a convenient translation as a direct transcript of antiquity."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.6.3:b09",
+      "title": "Historical writing under a changing Goryeo",
+      "paragraphs": [
+        "The twelfth-century royal historical project and the later monastic compilation were produced in different political environments. The first belongs to a court seeking to stabilize political memory and exemplify governance; the second arose after transformations associated with Mongol pressure and a different intellectual landscape. It would be too simple to explain their contrasting contents entirely by these external events, but chronology changes the questions a compiler might ask. Historical writing served living communities with institutional interests. The durability of these works also reflects later scholarly and political decisions to preserve them. Readers encounter the history of Goryeo thought as well as the early kingdoms that the texts describe."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Gukjagam chronology and schools"
+        }
+      ]
+    },
+    {
+      "id": "V.6.3:b10",
+      "title": "A method for using both books",
+      "paragraphs": [
+        "The works provide indispensable clues for early Korean chronology, institutions, religion, and language, while requiring independent verification wherever possible. A political entry should be checked against relevant inscriptions and external annals; a local legend should be examined for transmission and social purpose; a geographical label needs chronological care. It is neither necessary nor legitimate to flatten all genres into equal factual certainty. The enduring achievement of Goryeo historical writing lies partly in preserving diverse testimonies that would otherwise have disappeared. This article examines the writers and practices of historical preservation, leaving the underlying early events to the canonical Chapters that own them."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
