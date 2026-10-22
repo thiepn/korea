@@ -1,0 +1,161 @@
+{
+  "id": "V.6.7",
+  "title": "Painting, Calligraphy, Buddhist Imagery, and Visual Culture",
+  "kicker": "GORYEO · LITERARY AND MATERIAL ARTS",
+  "description": "Original source-critical history of painting, calligraphy, buddhist imagery, and visual culture.",
+  "release": "AD",
+  "sourceStatus": "Original contextual synthesis; independent specialist assessment outstanding.",
+  "sources": [
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Goryeo Celadon",
+      "url": "https://www.metmuseum.org/it/essays/goryeo-celadon",
+      "role": "Material chemistry, Song contacts, inlay and regional centers"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Samguk Yusa and its textual tradition",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_r200345",
+      "role": "Goryeo compilation of ancient traditions and literary genre"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Inlaid Celadon",
+      "url": "https://contents.history.go.kr/mobile/tz/view.do?levelId=tz_b69",
+      "role": "Stepwise carving and colored-slip inlay method as explained by NIKH"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana printing blocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Thirteenth-century production, textual collation and heritage survival"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.6.7:b01",
+      "title": "Survival favors sacred and elite objects",
+      "paragraphs": [
+        "Goryeo's visual world was broader than the surviving paintings and calligraphic works now displayed in museums. Painted temple halls, household screens, textiles, and manuscripts suffered from weather, fire, rebuilding, and selective preservation. Buddhist images survive comparatively well because of their institutional settings and later collecting histories. This uneven record can produce a misleading impression that visual expression belonged almost entirely to monks and aristocrats. An artwork's function, materials, and path to preservation should be established before making claims about its audience. Visual culture was made by painters, patrons, paper suppliers, pigment workers, and people who maintained spaces in which images were displayed."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "Met Goryeo celadon technical essay"
+        }
+      ]
+    },
+    {
+      "id": "V.6.7:b02",
+      "title": "Buddhist painting as religious work",
+      "paragraphs": [
+        "Paintings of Buddhas and bodhisattvas could serve acts of devotion, ritual contemplation, and the dedication of merit. Their iconography drew on wider East Asian traditions while responding to local patronage and workshop practice. Identifying a figure by attribute or inscription can be secure, but reconstructing how every viewer experienced the work is far more difficult. An image is not simply illustration of a doctrinal sentence; scale, color, and setting shaped encounter. Patrons might seek religious benefit or commemorate relatives, and those motives should be distinguished where inscriptional evidence permits. Buddhist visual art illuminates social relationships as well as formal style."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.6.7:b03",
+      "title": "Pigments, silk, and the cost of an image",
+      "paragraphs": [
+        "A sophisticated painting required prepared support, mineral and organic pigments, brushes, sizing materials, and a maker trained in controlled lines. Gold details, where used, added expense and symbolic resonance. Some materials arrived through trade networks, while others were available regionally. The labor of preparing a surface could be as consequential as the final brushwork. A museum attribution to Goryeo may rest on style, materials, and comparison with dated examples, each of which has uncertainties. Technical analysis can narrow the range without naming every painter. Studying materials recovers part of the productive world that is lost when an image is treated solely as a vehicle for abstract devotion."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "NIKH celadon inlay technique"
+        }
+      ]
+    },
+    {
+      "id": "V.6.7:b04",
+      "title": "Iconographic movement and adaptation",
+      "paragraphs": [
+        "Visual forms circulated between Goryeo, Song, Yuan, and neighboring communities, but resemblance does not establish passive copying. Workshop artists might reinterpret facial features, textiles, spatial arrangements, or the relative scale of sacred figures. Such decisions could meet expectations of a particular monastery or donor. Attributions based on national style should be handled cautiously because borders did not prevent the movement of objects or people. Some paintings may have traveled after their production, complicating their provenance. Comparing inscriptional dates, pigments, textiles, and iconographic sequences offers a more defensible account than assigning identity through a single decorative motif."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.6.7:b05",
+      "title": "Calligraphy and learned self-presentation",
+      "paragraphs": [
+        "Calligraphy was a valued skill in official communication, Buddhist manuscript production, and the cultivation of scholar-official prestige. The visual quality of characters could communicate discipline and education, but surviving specimens tell us little about the literacy of all residents. A letter written in literary Chinese belonged to conventions of rank and learned exchange as much as personal expression. The identification of a hand may depend on later attributions that require criticism. Scripts changed through copying, education, and imported models. Calligraphic practice thus linked aesthetic judgment to institutions capable of training writers and commissioning texts, while the daily labor of scribes remains comparatively obscure."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "Met Goryeo celadon technical essay"
+        }
+      ]
+    },
+    {
+      "id": "V.6.7:b06",
+      "title": "Illustrated books and the meeting of media",
+      "paragraphs": [
+        "Illustrated texts required coordination among writers, image makers, carvers or copyists, and the institutions financing production. A Buddhist manuscript might combine decorated borders with doctrinal content, creating different modes of reading and ritual handling. The survival of separate pictures and books can obscure such integration. One should not assume that every image originally stood alone on a wall or that every manuscript circulated widely. The materials and dimensions of surviving objects sometimes reveal intended portability or ceremonial use. Visual history benefits from considering books, ritual objects, and painted spaces together, without claiming that each shared the same patron or audience."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.6.7:b07",
+      "title": "Portraiture and political authority",
+      "paragraphs": [
+        "Portraits of rulers, monks, and prominent officials could establish forms of memory and authority, but their present-day survival and attribution vary considerably. A portrait copied centuries later may preserve elements of an earlier model while reflecting the style and interests of a new patron. Such an image is not a photograph of its subject. Inscriptions, ritual placement, and the history of copying all shape what it can tell us. A court or monastery might use portraiture to anchor lineage or institutional legitimacy. The significance of the practice lies in the relationship between visible likeness and remembered status rather than the certainty of every physiognomic detail."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "NIKH celadon inlay technique"
+        }
+      ]
+    },
+    {
+      "id": "V.6.7:b08",
+      "title": "Artists and the problem of attribution",
+      "paragraphs": [
+        "Most Goryeo artists did not sign works in forms that would satisfy modern expectations of individual authorship. Some objects can be associated with workshops, patrons, or texts, while named painters remain comparatively rare. Treating anonymous work as less creative would misrepresent the collective techniques through which complex objects were made. Conversely, a later inscription assigning a famous name should be verified before being accepted. The history of artisans includes training, access to pigments or carving tools, regional movement, and obligations to patrons. These dimensions help explain stylistic development without turning every artwork into the product of a solitary genius whose biography is inaccessible."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.6.7:b09",
+      "title": "The afterlife of Goryeo objects",
+      "paragraphs": [
+        "Paintings and calligraphic works have passed through temples, private collections, international trade, and modern museums. Their routes may involve loss, relocation, or conservation interventions that change what viewers see. A work's present location is not necessarily where it was produced, used, or first dedicated. Historians should separate original context from subsequent collecting and restoration. Modern reproductions also alter color, scale, and surface, potentially concealing material features important to interpretation. The object biography can reveal changing cultural esteem across centuries while warning against an uncomplicated story of permanent national ownership."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "Met Goryeo celadon technical essay"
+        }
+      ]
+    },
+    {
+      "id": "V.6.7:b10",
+      "title": "Visual culture as a historical practice",
+      "paragraphs": [
+        "Goryeo painting and calligraphy connected religious institutions, literate officials, workshops, and patrons with different expectations. The surviving objects are indispensable for investigating technique and representation, yet they reveal less about private reception and everyday imagery than their beauty might suggest. An image can communicate an ideal of holiness or authority without proving that the ideal characterized social reality. By comparing material study, inscriptions, and contextual records, historians can recover both creative choices and their limits of visibility. This study concentrates on portable and painted media; architecture, sculpture, metalwork, and lacquer are examined separately in the next article."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
