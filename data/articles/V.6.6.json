@@ -1,0 +1,161 @@
+{
+  "id": "V.6.6",
+  "title": "Goryeo Celadon and the Civilization of Ceramics",
+  "kicker": "GORYEO · LITERARY AND MATERIAL ARTS",
+  "description": "Original source-critical history of goryeo celadon and the civilization of ceramics.",
+  "release": "AD",
+  "sourceStatus": "Original contextual synthesis; independent specialist assessment outstanding.",
+  "sources": [
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Goryeo Celadon",
+      "url": "https://www.metmuseum.org/it/essays/goryeo-celadon",
+      "role": "Material chemistry, Song contacts, inlay and regional centers"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Samguk Yusa and its textual tradition",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_r200345",
+      "role": "Goryeo compilation of ancient traditions and literary genre"
+    },
+    {
+      "institution": "National Museum of Korea",
+      "title": "Inlaid Celadon",
+      "url": "https://contents.history.go.kr/mobile/tz/view.do?levelId=tz_b69",
+      "role": "Stepwise carving and colored-slip inlay method as explained by NIKH"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Tripitaka Koreana printing blocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Thirteenth-century production, textual collation and heritage survival"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.6.6:b01",
+      "title": "The chemistry of a celebrated glaze",
+      "paragraphs": [
+        "Goryeo celadon is valued for a range of blue-green and gray-green surfaces, but its color was produced by technical choices rather than an abstract national temperament. Iron-bearing clay and glaze ingredients interacted with kiln temperatures and a reducing atmosphere. A change in fuel or airflow could affect the result, and potters needed repeated practical experience to control the firing. Museum descriptions illuminate these techniques, yet a surviving perfect vessel is only one result among production successes and failures. Excavations of kilns and discarded sherds are essential to understanding how the craft worked. The technical history of celadon belongs alongside the labor and environment of its production."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "Met Goryeo celadon technical essay"
+        }
+      ]
+    },
+    {
+      "id": "V.6.6:b02",
+      "title": "Learning from Chinese kilns",
+      "paragraphs": [
+        "Early Goryeo potters adapted knowledge associated with the Yue and later Song ceramic worlds. Forms, kiln structures, and decorative motifs circulated through regional contacts, including maritime exchange. A resemblance to a Chinese prototype does not mean a Goryeo workshop lacked agency or copied every feature unchanged. The significance of adaptation lies in choosing materials and designs suited to local resources and patrons. Dating these shifts requires close comparison of excavated contexts rather than a simplified claim that a single artisan introduced celadon on one voyage. The eventual distinctiveness of Korean wares emerged through experimentation within transregional craftsmanship, not cultural isolation or instantaneous invention."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.6.6:b03",
+      "title": "Gangjin and Buan centers",
+      "paragraphs": [
+        "The southwestern regions around Gangjin and Buan became major centers of celadon manufacture, particularly in the twelfth and thirteenth centuries. Their productive importance relied on suitable clay, fuel, kilns, skilled labor, and transport connections. A concentration of fine ceramics should not be interpreted automatically as evidence that one royal office owned every workshop. Some sites may have specialized in high-quality commissions while others made more routine wares. Excavated kiln debris can reveal variation in forms and firing outcomes, though political control and distribution contracts are much harder to establish. The geography of production illustrates how local ecological conditions could sustain a craft appreciated across the kingdom."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "NIKH celadon inlay technique"
+        }
+      ]
+    },
+    {
+      "id": "V.6.6:b04",
+      "title": "Incision, molding, and changing design",
+      "paragraphs": [
+        "Celadon surfaces could be decorated through incision, carving, impressions, and modeled additions before the development of inlay. These methods required different relations between tool, clay moisture, and the later flow of glaze. A vessel's motif might evoke flowers, birds, or landscapes familiar in Chinese art while acquiring distinctive proportions in Goryeo. Chronological analysis must avoid arranging all techniques in a strict ladder: older methods could remain in use alongside new ones. Exceptional museum pieces are useful for understanding artistic possibilities but rarely reflect the whole range of workshop output. A production history needs common bowls, discarded sherds, and the failures left around kilns as well."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.6.6:b05",
+      "title": "Sanggam and the inlaid surface",
+      "paragraphs": [
+        "The sanggam technique involved cutting or impressing motifs into the clay and filling the recesses with contrasting slips before glazing and firing. White and dark lines could appear beneath a translucent green surface, creating effects difficult to achieve through incision alone. The method became particularly associated with Goryeo ceramic excellence around the middle of the twelfth century and afterward. It required control over shrinkage, clay composition, and the sequence of drying and firing. It would be misleading to describe the practice as merely painting on a finished pot. The visual result arose from coordinated technical work whose success depended on an entire workshop, not one isolated gesture."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "Met Goryeo celadon technical essay"
+        }
+      ]
+    },
+    {
+      "id": "V.6.6:b06",
+      "title": "Vessels for ceremonies and households",
+      "paragraphs": [
+        "Celadon ewers, bowls, incense burners, and containers served different needs among elite and religious patrons. A lavish incense burner could express ritual prestige, while more ordinary tableware participated in the daily routines of households able to afford it. Material survival is uneven: pieces from graves and palace sites are overrepresented in museum displays, and the possessions of poorer households are harder to trace. The existence of luxury goods does not establish mass access to comparable forms. Archaeological context can indicate deposition but often leaves use history open. Distinguishing ceremonial display from ordinary consumption helps explain both the fame of surviving examples and the unequal distribution of refined craft products."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.6.6:b07",
+      "title": "Court taste and skilled producers",
+      "paragraphs": [
+        "Royal and aristocratic demand encouraged workshops to pursue distinctive forms and highly controlled surfaces, but the technical expertise belonged to potters and other workers who are rarely named in chronicles. Patronage could supply resources while imposing demanding standards and production schedules. We should not assume that all artisans were free commercial entrepreneurs or hereditary palace slaves; arrangements probably varied by locality and period. A clay quarry, kiln, and shipping route all required labor beyond the master maker. A history celebrating court taste alone would conceal those productive relationships. Ceramic beauty is also evidence of resource coordination and social inequality, although the terms of that coordination must be reconstructed cautiously."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "NIKH celadon inlay technique"
+        }
+      ]
+    },
+    {
+      "id": "V.6.6:b08",
+      "title": "Warfare and the changing industry",
+      "paragraphs": [
+        "The thirteenth-century Mongol invasions disrupted settlements, transport, and patronage, with consequences for ceramic production. Museum histories sometimes describe a decline in the uniformity or coloration of later wares, but this should not become an uncomplicated story of artistic decadence. Workshop conditions changed; consumers adopted new preferences; and archaeological survival differs by site. A vessel with less translucent glaze is not by itself evidence that its maker possessed inferior technical knowledge. Connections between warfare and production require chronological comparisons rather than assumptions based on aesthetic judgment. Later changes also helped produce ceramic traditions that influenced early Joseon buncheong ware, a separate historical development."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.6.6:b09",
+      "title": "Trade and the movement of ceramics",
+      "paragraphs": [
+        "Celadon could circulate through inland routes and maritime exchanges, carrying forms and cultural expectations beyond its manufacturing district. A fine vessel in Gaegyeong may reflect court consumption, a gift, a purchase, or redistribution through intermediaries. An exported pot may have been valued differently by its overseas recipient. Since complete shipping records rarely survive, the exact volume of movement cannot be inferred from museum collections. Archaeological cargo assemblages and kiln output provide stronger quantitative clues where securely dated. A trade history should separate the production of a beautiful object from the institutional and practical means by which it reached the user who eventually discarded or buried it."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference provides cultural and material context; individual inferences are marked as tentative.",
+          "locator": "Met Goryeo celadon technical essay"
+        }
+      ]
+    },
+    {
+      "id": "V.6.6:b10",
+      "title": "Why celadon is an historical source",
+      "paragraphs": [
+        "The greatest value of celadon is not that modern viewers find it elegant but that it joins chemistry, craft teaching, regional resources, patronage, and long-distance exchange in one durable artifact. A surface can document technical possibilities even when the maker's name has disappeared. A kiln site can reveal failures and routine output that elite collections conceal. Comparing them prevents an art history limited to celebrated masterpieces. The broader cultural chapter examines painting, books, architecture, and technical knowledge separately. Celadon demonstrates how artisans transformed transregional influences into distinctive forms within Goryeo society without making technological excellence the exclusive property of a royal court."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

@@ -30,6 +30,70 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "V.6.5:b04",
+      "title": "Paper and the conditions of reproduction",
+      "paragraphs": [
+        "The expansion of book culture depended on paper manufacture, surface preparation, inks, brushes, and distribution channels that joined workshops to readers. A printed book might appear technologically autonomous, but its usefulness still required editorial decisions, money, and institutions prepared to preserve multiple copies. Paper could circulate before being inscribed, and manuscripts remained important for texts whose audiences were too small to justify a print run. The surviving catalog of printed titles is therefore not an exhaustive record of what Goryeo people read. A history of invention must distinguish manufacture of sheets, copying, block carving, and the later circulation of complete volumes."
+      ],
+      "sequence": 4
+    },
+    {
+      "id": "V.6.5:b05",
+      "title": "The Tripitaka as a coordinated editorial undertaking",
+      "paragraphs": [
+        "The thirteenth-century Tripitaka Koreana was carved onto 81,258 woodblocks, a quantity documented in UNESCO's heritage record. Its production required comparison of existing textual traditions, correction, preparation of wooden surfaces, and the work of carvers capable of consistently forming thousands of characters. The project was linked to the Mongol invasion crisis and to a religious understanding of collective protection. The surviving blocks demonstrate exceptional organization; they do not tell us the number of hours each unnamed worker spent or prove that all editions were error-free. Editorial judgment mattered as much as physical carving, making the canon a work of scholarship and infrastructure together."
+      ],
+      "sequence": 5
+    },
+    {
+      "id": "V.6.5:b06",
+      "title": "A crucial architectural distinction",
+      "paragraphs": [
+        "The present specialized depository buildings at Haeinsa belong to the fifteenth century, although they house printing blocks carved during Goryeo. This distinction matters because a photograph of the Janggyeong Panjeon cannot serve as direct proof of the design of every thirteenth-century printing workshop or storage facility. The buildings embody later expertise in ventilation, humidity control, and the management of inherited heritage. Some public narratives compress contents and container into one date, creating an artificial architectural chronology. Source-critical interpretation keeps the distinct histories visible: production under Goryeo, preservation through subsequent periods, and the modern work of conservation."
+      ],
+      "sequence": 6
+    },
+    {
+      "id": "V.6.5:b07",
+      "title": "Why carved blocks remained useful",
+      "paragraphs": [
+        "Woodblock printing was laborious to prepare, but once a block had been cut and preserved it could produce repeated impressions of the same page. This made the method especially suitable for texts expected to circulate through institutions over many years. Its advantages depended on demand, storage, and the costs of correcting an error. An isolated short text or a work frequently revised might have different practical requirements. Comparing methods should not rely on an assumption that newer technology was necessarily cheaper in every circumstance. The continued use of woodblocks alongside movable type reflects economic and editorial choices within specific communities of printers and readers."
+      ],
+      "sequence": 7
+    },
+    {
+      "id": "V.6.5:b08",
+      "title": "Jikji and the surviving metal type witness",
+      "paragraphs": [
+        "The extant second volume of Jikji was printed at Heungdeoksa in Cheongju in July 1377 using movable cast metal type. UNESCO recognizes it as the oldest surviving evidence of a book printed with that technology; the phrasing is important because older references to metal-type printing do not leave the same kind of surviving specimen. A printed sheet demonstrates successful organization of type, ink, paper, and impression, not that movable type replaced woodblocks throughout Goryeo. The text is a Buddhist collection, so its technical significance should not conceal its intended role in religious learning and transmission."
+      ],
+      "sequence": 8
+    },
+    {
+      "id": "V.6.5:b09",
+      "title": "Making and setting type",
+      "paragraphs": [
+        "Movable metal type demanded processes of casting individual characters and arranging them into a page suitable for printing. The work involved technical precision and coordination, particularly when a text used a large repertoire of Chinese characters. Preparing a set of type did not resolve every challenge: characters had to be sorted, assembled, inked, printed, and returned for reuse. Different systems could present varying costs, and the exact workshop procedures behind Jikji are not fully recoverable from its surviving pages. Avoiding an imagined universal early printing press allows the evidence to show both technical achievement and the practical complexity of a specific book-production method."
+      ],
+      "sequence": 9
+    },
+    {
+      "id": "V.6.5:b10",
+      "title": "Books as objects of unequal access",
+      "paragraphs": [
+        "A printed text could be reproduced in multiple copies yet remain accessible mainly to monks, officials, or families with appropriate literacy and resources. Copying technology did not abolish the costs of paper, transport, storage, or instruction. Readers also needed knowledge of the language and conventions of the book. Some works were treasured in monasteries, while others moved through private scholarly networks. We should not infer a modern mass reading public from the existence of sophisticated printing equipment. Book culture was shaped by institutions choosing which works deserved reproduction, and those choices influenced the forms of knowledge most likely to survive."
+      ],
+      "sequence": 10
+    },
+    {
+      "id": "V.6.5:b11",
+      "title": "Innovation placed in its historical ecology",
+      "paragraphs": [
+        "Goryeo printing brought together technical inventiveness, Buddhist learning, state sponsorship, and highly trained craft labor. Neither the Tripitaka blocks nor Jikji should be explained as an isolated miracle produced without precursors or without subsequent maintenance. The evidence for a surviving printed artifact differs from a chronicle's report that a technique had been attempted earlier. UNESCO records give secure heritage anchors while leaving some local workshop procedures unrecoverable. This historical perspective values the achievement without making a simplistic contest for the world's first invention the whole story. Books mattered because institutions and readers could use, preserve, and reinterpret their contents across centuries."
+      ],
+      "sequence": 11
     }
   ],
   "release": "C"

@@ -1,0 +1,161 @@
+{
+  "id": "V.6.8",
+  "title": "Architecture, Sculpture, Metalwork, Lacquer, and Decorative Arts",
+  "kicker": "GORYEO · MATERIAL KNOWLEDGE AND TECHNICAL SYSTEMS",
+  "description": "Original critical study of architecture, sculpture, metalwork, lacquer, and decorative arts.",
+  "release": "AD",
+  "sourceStatus": "Original scholarly synthesis with contextual sources; no external peer review.",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Haeinsa Janggyeong Panjeon",
+      "url": "https://whc.unesco.org/en/list/737",
+      "role": "Architectural preservation context, fifteenth-century storage versus thirteenth-century Goryeo woodblocks"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Goryeo Tripitaka and miscellaneous woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Goryeo editorial, carving, and manuscript culture"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gukjagam historical institution",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o200200",
+      "role": "Goryeo education, technical studies and archival limits"
+    },
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Goryeo Celadon",
+      "url": "https://www.metmuseum.org/it/essays/goryeo-celadon",
+      "role": "Goryeo regional technical production and transregional materials"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.6.8:b01",
+      "title": "Buildings and the problem of lost foundations",
+      "paragraphs": [
+        "Goryeo courts, monasteries, and communities built an extensive environment that survives only in fragments. Timber structures could be rebuilt repeatedly, while stone foundations, roof tiles, and site plans preserve selected evidence of earlier phases. A modern building occupying an old temple precinct cannot be assumed to reproduce its Goryeo predecessor. Archaeologists date construction through stratigraphy, inscriptions, and associated materials, each with limitations. Monastic and palace architecture expressed patronage and technical knowledge, but also depended on carpenters, quarry workers, carriers, and nearby food producers. A historical account should distinguish an institution's documented existence from the exact appearance of buildings whose elevations have vanished."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "UNESCO Haeinsa building and conservation chronology"
+        }
+      ]
+    },
+    {
+      "id": "V.6.8:b02",
+      "title": "Gaegyeong as a built political world",
+      "paragraphs": [
+        "The royal capital of Gaegyeong concentrated palaces, official quarters, religious sites, and spaces for exchange. Its topography affected access to roads and the visibility of ceremonial centers. Written sources describe important buildings, while archaeological remains supply evidence of construction and repeated change. Neither source is complete: chroniclers foreground royal projects, and excavations reveal only sampled portions of the city. Reconstructing every palace room from later maps would create false precision. The distribution of resources to the capital is as important as monumental appearance, because sustained building required timber, roof tiles, metal fittings, and skilled labor. Urban form was an expression of power supported by wider regional obligations."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.6.8:b03",
+      "title": "Stone pagodas and regional workshops",
+      "paragraphs": [
+        "Stone pagodas and sculptural remains reveal varying architectural interpretations across the Goryeo period. Workshops drew on earlier Silla forms while responding to local stone, patrons, and aesthetic choices. Variations in tier proportions or decorative details need not correspond to different ethnic populations or political factions. An inscription may identify a donor or dedication, but much of the construction crew remains invisible. Weathering, relocation, and modern reconstruction also affect the visible monument. Comparison should attend to original foundations and archaeological context rather than arranging surviving pagodas into a simplistic ranking of refinement. The material evidence documents both technical continuity and regional invention."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "NIKH Gukjagam technical schooling"
+        }
+      ]
+    },
+    {
+      "id": "V.6.8:b04",
+      "title": "The sculpted Buddhist image",
+      "paragraphs": [
+        "Images of Buddhas, bodhisattvas, and guardians were produced in stone, metal, and other materials for temple and devotional contexts. Casting, carving, gilding, and finishing required different forms of skilled cooperation. A monumental figure's surface communicates selected iconographic attributes but not the beliefs of every person who encountered it. Patrons could commission images for merit, commemoration, or institutional prestige, and inscriptions sometimes clarify these purposes. Art-historical attribution is frequently comparative rather than individually documented. Similarity of style across regions may reflect itinerant artisans, shared models, or deliberate imitation. Technical and religious interpretation must work together without claiming that a surviving statue reveals an entire congregation's experience."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.6.8:b05",
+      "title": "Bronze casting and ritual equipment",
+      "paragraphs": [
+        "Metalworkers produced bells, incense burners, vessels, and decorative fittings whose functions varied across temples and elite households. Casting demanded control of alloys, molds, furnaces, and the finishing of surfaces, while inscriptions sometimes preserved the names of patrons or makers. A technical achievement should not be treated as evidence of universally abundant metal or an undifferentiated manufacturing sector. Copper, tin, and other materials had to be procured through regional networks. Ritual objects could circulate as donations, commissions, or valued possessions, acquiring new meanings in different settings. Their material histories connect workshops to patrons and to the practical conditions of transport and temple maintenance."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "UNESCO Haeinsa building and conservation chronology"
+        }
+      ]
+    },
+    {
+      "id": "V.6.8:b06",
+      "title": "Lacquer, wood, and mother-of-pearl",
+      "paragraphs": [
+        "Lacquered objects and inlaid decorative wares relied on materials and techniques with preservation histories very different from stone or bronze. Wooden cores can deteriorate, while lacquer surfaces and shell ornaments may survive under favorable conditions. Mother-of-pearl decoration required careful cutting and placement, not merely expensive raw material. Workshops combined imported aesthetic precedents with local design and technical solutions. Surviving museum objects are often exceptional, and their rarity cannot serve as a direct census of production. A decorated box may reveal skill and elite demand while leaving the organization of the workshop uncertain. A complete material history must keep this selection bias visible."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.6.8:b07",
+      "title": "Temple support and artistic labor",
+      "paragraphs": [
+        "Monasteries could serve as major patrons of architecture, sculpture, painting, and book production. A royal donation might make a prestigious project possible, while lesser patrons and local communities supplied resources that chroniclers did not celebrate. The resulting buildings could provide ritual spaces and attract visitors, but they also imposed construction and maintenance demands. It would be misleading to view temples only as spiritual institutions or only as economic estates. Their artistic programs reflected devotional meanings, political relationships, and the labor of people occupying many social positions. The surviving objects reveal the scale of investment more readily than the negotiations through which workers obtained materials or provisions."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "NIKH Gukjagam technical schooling"
+        }
+      ]
+    },
+    {
+      "id": "V.6.8:b08",
+      "title": "Imported forms and workshop adaptation",
+      "paragraphs": [
+        "Goryeo builders and artisans participated in a world of East Asian Buddhist and courtly exchange. Designs and techniques traveled through books, travelers, portable objects, and perhaps skilled workers, though individual routes are not always recoverable. Adoption was selective: a Goryeo workshop might follow familiar regional preferences while using a foreign casting technique or decorative theme. Similar objects should not automatically be classified as direct imports. Scientific analysis of materials and production traces can help distinguish local manufacture from movement of finished wares. The broader historical achievement lies in adaptive workmanship within changing relationships rather than a claim that every feature was invented independently."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.6.8:b09",
+      "title": "Destruction, repair, and present-day interpretation",
+      "paragraphs": [
+        "Wars, fires, abandonment, and changing patronage reshaped Goryeo's material environment. A temple site may contain repeated phases of demolition and reconstruction that cannot be reduced to a single disaster. Later Joseon reuse also complicates assumptions about surviving structures. UNESCO's Haeinsa listing provides a particularly useful warning: the celebrated Tripitaka blocks date to Goryeo, while their extant specialized depositories date to the fifteenth century. Conflating the ages of contents and buildings would misdate a major monument. Restoration and modern presentation further change the visitor's experience. Responsible history identifies the chronological layer supported by each object or architectural feature."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "UNESCO Haeinsa building and conservation chronology"
+        }
+      ]
+    },
+    {
+      "id": "V.6.8:b10",
+      "title": "Material civilization without anonymous uniformity",
+      "paragraphs": [
+        "Architecture and decorative arts reveal craft mastery, patronage, and regional variation, but neither a finely cast vessel nor a grand temple supplies an unmediated portrait of social life. Some makers were honored; many remain unnamed. Wealthy institutions could preserve objects while ordinary households' material goods were lost or discarded. By comparing architectural remains, technical analysis, inscriptions, and textual accounts, historians can recover the networks sustaining visible works. This article has focused on construction and decorative media, leaving ceramic production to its own study. The broader lesson is that sophisticated objects represent social cooperation and inequality together, not a self-evident national character."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

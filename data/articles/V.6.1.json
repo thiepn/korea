@@ -1,0 +1,161 @@
+{
+  "id": "V.6.1",
+  "title": "Gukjagam, Local Schools, Private Academies, and Education",
+  "kicker": "GORYEO · EDUCATION, SCHOLARSHIP AND HISTORICAL MEMORY",
+  "description": "Original source-critical history of gukjagam, local schools, private academies, and education in the Goryeo cultural world.",
+  "release": "AD",
+  "sourceStatus": "Original interpretive synthesis with contextual institutional sources; not independently peer reviewed.",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gukjagam: elite education in Goryeo",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o200200",
+      "role": "Institutional history, 992 reforms, curricular and eligibility disputes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Twelve Private Academies of Goryeo",
+      "url": "https://contents.history.go.kr/mobile/tg/view.do?ganada=&levelId=tg_002_0670&pageUnit=10&subjectCode=tg_ty_090&tabId=02",
+      "role": "Choe Chung's nine halls and private academic networks"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Goryeo state academy and Seven Halls",
+      "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_002_0030_0020_0010_0020&whereStr=",
+      "role": "1109 seven specialized courses and restrictions on interpreting rules as universal practice"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo educational admission and institutional changes",
+      "url": "https://contents.history.go.kr/mobile/nh/view.do?levelId=nh_017_0020_0010_0010_0040_0020",
+      "role": "Detailed historiography of access, local students, and early royal encouragement"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.6.1:b01",
+      "title": "An academy in an expanding court",
+      "paragraphs": [
+        "The creation and reform of Gukjagam were bound to the making of Goryeo's courtly order. King Seongjong's reorganization in 992 is a useful landmark, not the sudden beginning of all learning in the peninsula. Schools inherited practices from Silla and responded to changing official recruitment. The academy's existence indicates deliberate investment in educating prospective officials, while students still depended on family resources, recommendation, and the availability of teachers. Its precise institutional arrangements changed over the dynasty. A later list of course names cannot be read as a continuous curriculum operating unchanged from Seongjong to the last Goryeo kings. The historian must follow institutional chronology instead of treating the school as an eternal national university."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Gukjagam chronology and schools"
+        }
+      ]
+    },
+    {
+      "id": "V.6.1:b02",
+      "title": "Classical study and the skill of reading",
+      "paragraphs": [
+        "Students encountered canonical texts in literary Chinese, a learned language whose mastery demanded extensive memorization and interpretation. Studying the Classics could cultivate ideas about moral government, but it also trained men to write examinations and conduct official correspondence. The distinction matters because one curriculum served ethical, political, and career purposes simultaneously. The ability to read Chinese script did not imply that the people of Goryeo spoke Chinese in ordinary life. Nor did membership in an educated group automatically confer insight into the circumstances of farming families. Written literacy was a tool of administrative power as well as a scholarly accomplishment, and its privileges were distributed unequally."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.6.1:b03",
+      "title": "Eligibility and inherited standing",
+      "paragraphs": [
+        "Rules ascribed to the state academy differentiated educational tracks and sometimes attached admission to family office or status. Yet historians comparing transmitted regulations with tomb epitaphs have questioned how consistently such distinctions were enforced. A prescriptive document might present the ideal hierarchy sought by administrators rather than a complete account of every enrolled student. Some provincial families sought the educational advantages of residence in the capital; poorer households faced obvious costs even where legal barriers were not absolute. A precise social history should avoid both claims that learning was universally accessible and claims that no man outside the highest aristocracy could participate. Education offered mobility within a ranked political world, not a simple escape from it."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Seven Halls program and limitations"
+        }
+      ]
+    },
+    {
+      "id": "V.6.1:b04",
+      "title": "The Seven Halls and the reforming court",
+      "paragraphs": [
+        "King Yejong's introduction of the Seven Halls in 1109 was part of an effort to strengthen public education at a time when private instruction attracted influential students. The halls divided study by particular classical subjects and included a military course, illustrating experimentation with different official capacities. Their program was not identical to that of a modern faculty system, nor does the decree prove every planned class remained active for decades. Funding, selection, and examination arrangements were all necessary for a reform to affect actual learning. Institutional initiative should be distinguished from continuous implementation, especially in a dynasty where court politics and the fortunes of aristocratic patrons often altered educational priorities."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.6.1:b05",
+      "title": "Choe Chung and the private academies",
+      "paragraphs": [
+        "The private schools commonly called the Twelve Assemblies grew from arrangements associated with Choe Chung and later distinguished scholar-officials. Students might prefer these settings because accomplished teachers offered preparation for examinations and entry into valuable patronage networks. Such popularity did not mean private schools entirely displaced the state academy. The boundary between public and private could be fluid when instructors had served in official positions and graduates entered royal administration. The network of teachers and fellow students mattered over the course of a career, sometimes influencing appointment and political trust long after instruction ended. Education was embedded in aristocratic society as a continuing relationship."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Gukjagam chronology and schools"
+        }
+      ]
+    },
+    {
+      "id": "V.6.1:b06",
+      "title": "Learning outside Gaegyeong",
+      "paragraphs": [
+        "The capital dominated surviving educational descriptions, but people in provincial communities also invested in literacy and sought opportunities to send promising sons to established teachers. Local learning could occur through family instruction or institutions supported by regional elites, although evidence is too uneven to reconstruct a complete map of schools. The absence of a named school in a chronicle is not proof that all people in the district were illiterate. It is equally unsafe to imagine universal local classrooms. Provincial distance, travel expenses, book access, and household work limited who could study. A historical account should distinguish possibilities created by court policy from the real distribution of educational resources."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.6.1:b07",
+      "title": "Women and unrecorded forms of knowledge",
+      "paragraphs": [
+        "The records of Gukjagam overwhelmingly concern male official training, but that narrow visibility should not define the boundaries of all learning. Women in elite and common households transmitted practical knowledge, ritual routines, songs, and family memory. Some had access to texts or participated in Buddhist devotional culture, although the scale and nature of literacy varied and cannot be inferred from later Joseon conventions. Ordinary craftsmen also learned complex technical skills outside a classical curriculum. The historian cannot invent individual lessons or claim to know the education of an unnamed household. Recognizing these absences prevents institutional schooling from becoming a misleading synonym for the entirety of Goryeo intellectual life."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Seven Halls program and limitations"
+        }
+      ]
+    },
+    {
+      "id": "V.6.1:b08",
+      "title": "Buddhist learning and scholarly plurality",
+      "paragraphs": [
+        "Goryeo's educational landscape included monasteries where monks studied scriptures, commentaries, and disciplinary texts. This learning interacted with elite family resources and the broader movement of manuscripts and printed books. Official Confucian schooling therefore did not monopolize the production of learned knowledge. A monk's route to advanced textual expertise differed from the career expectations of an examination candidate, but both depended on patrons, teachers, books, and disciplined reading. Religious and official intellectual communities could share literary forms even when their understandings of the world differed. Their coexistence also cautions against describing Goryeo's schooling as a single line leading inevitably toward the Neo-Confucian state of Joseon."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.6.1:b09",
+      "title": "Education as a political economy",
+      "paragraphs": [
+        "Schools required food, paper, lodging, teaching time, and mechanisms for sustaining students who were not producing a household income. These material costs shaped the relationship between education and privilege. Court grants and endowed resources could encourage study, but the evidence for regular funding is not equally complete for every period. A successful examination candidate might help relatives gain honor and connections; the advantages could reinforce an already powerful lineage. Conversely, some men used learning to enter networks otherwise difficult to access. The different effects should be evaluated through documented careers rather than a claim that one educational reform dissolved social hierarchy across the whole kingdom."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional context for historical claims; individual interpretation remains subject to verification.",
+          "locator": "NIKH Gukjagam chronology and schools"
+        }
+      ]
+    },
+    {
+      "id": "V.6.1:b10",
+      "title": "Institutions that changed across centuries",
+      "paragraphs": [
+        "The names and arrangements of Goryeo's higher schools were revised during the period of Mongol and Yuan influence and again during later reforming reigns. Such changes reflected political relations and competing scholarly priorities; they should not be understood merely as cosmetic labels for an unchanged institution. This article has examined schools, recruitment, and networks of learning within Goryeo. Philosophical traditions and literary production receive separate treatment in subsequent articles, while the later Joseon Sungkyunkwan belongs to its own chapter. The enduring historical point is that an educational institution reveals both state ambition and the limits imposed by status, geography, finances, and changing political circumstances."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

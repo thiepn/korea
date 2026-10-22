@@ -1,0 +1,53 @@
+name: Batch AD — Goryeo Learning and Joseon Neo-Confucianism Corpus QA
+on:
+  push:
+    branches:
+      - feat/batch-ad-goryeo-learning-joseon-confucianism-20261022
+  pull_request:
+    paths:
+      # Frozen baseline: later unrelated Chapter publications must not trigger this job.
+      - 'data/articles/V.6.*.json'
+      - 'data/articles/VI.3.*.json'
+      - 'tests/batch_ad_*'
+      - 'tests/fixtures/batch_ad_*'
+      - '.github/workflows/batch-ad-qa.yml'
+      - 'scripts/resolve_batch_ad_preview.py'
+permissions:
+  contents: read
+  checks: read
+  pull-requests: read
+jobs:
+  historical-corpus:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build allowlisted production release
+        run: python scripts/build_release.py
+      - name: Validate v1.1 canonical hashes, prior article/passage preservation, original prose, deterministic packs
+        run: python tests/batch_ad_pipeline.py
+      - name: Syntax-check unchanged app modules
+        run: |
+          node --check app.js
+          node --check exploration.js
+          node --check content-platform.js
+          node --check reader-window.js
+      - name: Install Chromium
+        run: |
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Exact-head generated-asset Chromium desktop/mobile journeys
+        run: python tests/batch_ad_journeys.py
+      - name: Discover verified Cloudflare branch-preview hostname
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          KOREA_HEAD_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: python scripts/resolve_batch_ad_preview.py
+      - name: Real Cloudflare HTTPS preview desktop/mobile journeys
+        run: python tests/batch_ad_preview.py

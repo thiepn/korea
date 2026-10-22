@@ -1,0 +1,161 @@
+{
+  "id": "VI.3.7",
+  "title": "Kim Jong-jik and the Rise of the Sarim",
+  "kicker": "JOSEON · EDUCATION, FAMILY ETHICS AND SARIM",
+  "description": "Source-critical analysis of kim jong-jik and the rise of the sarim in early and sixteenth-century Joseon.",
+  "release": "AD",
+  "sourceStatus": "Institutionally grounded contextual synthesis, without independent peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Neo-Confucianism",
+      "url": "https://encykorea.aks.ac.kr/Article/E0029308",
+      "role": "Ritual, study, royal ideology and later Sarim intellectual developments"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Learning of the Way",
+      "url": "https://encykorea.aks.ac.kr/Article/E0015909",
+      "role": "Scholar lineages including Kim Jong-jik and Jo Gwangjo"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sarim (사림)",
+      "url": "https://contents.history.go.kr/front/tg/view.do?levelId=tg_003_1140&treeId=0100",
+      "role": "Sarim as a politically distinctive group under Seongjong and their relationship with Hungu"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Joseon Neo-Confucian scholarship and Sarim",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_024_0040_0010_0070",
+      "role": "Sixteenth-century cultivation, ritual, intellectual exchange and political aspirations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.3.7:b01",
+      "title": "The Sarim were not a timeless party",
+      "paragraphs": [
+        "Sarim originally belonged to a broader vocabulary for learned men and scholarly society; its later political use became more distinctive under King Seongjong. Historians therefore should not imagine a permanent organized party operating continuously from early Goryeo into the fifteenth century. The men later called Sarim shared scholarly networks and claims about moral cultivation, but they also differed in family ties and political strategy. Their relationship with officials often classified as Hungu developed through specific appointments and disputes. The formation of a politically recognizable group was a historical process in which intellectual language and access to court institutions reinforced one another."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "AKS Korean Neo-Confucian family ideology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.7:b02",
+      "title": "Kim Jong-jik as teacher and official",
+      "paragraphs": [
+        "Kim Jong-jik occupied an important position in the scholarly genealogy later claimed by Sarim writers. His learning and official career allowed him to influence students who became politically prominent, yet the surviving materials cannot be reduced to an unbroken chain of identical convictions. A teacher might encourage ethical discipline while pupils reached different conclusions about strategy or royal service. Biographical works also reflect the later prestige attached to belonging to his intellectual network. The historian should distinguish documented instruction, subsequent self-identification, and retrospective claims to orthodoxy. Kim's importance lies partly in the reproduction of scholarly relationships across provincial and court settings."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.7:b03",
+      "title": "Provincial families and educational resources",
+      "paragraphs": [
+        "Many Sarim figures were connected to local elite households that possessed the resources to educate sons and maintain regional influence. Their intellectual networks developed within the unequal social structure of Joseon society, even when they criticized corrupt practices at court. Provincial identity mattered because family alliances and access to teachers differed across localities. A regional scholarly community was not identical to a single faction, however. Men from similar areas could disagree about specific policies or court appointments. The history of Sarim emergence should trace educational institutions and patronage without treating moral claims as proof that members had no political or material interests."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "NIKH Sarim institutional definition"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.7:b04",
+      "title": "Seongjong and the opening of court positions",
+      "paragraphs": [
+        "Under Seongjong, a growing number of scholars associated with Sarim traditions entered important offices, including positions with remonstrance responsibilities. Their criticism of entrenched ministers could be framed as defense of public morality and proper government. Yet the expansion of their influence depended on royal appointments and changing conditions within the court. A king might welcome criticism as a counterweight to powerful families while remaining unwilling to surrender control of policy. The resulting relationship was not an uncomplicated alliance. Sarim arguments gained institutional opportunities, but those same opportunities exposed their authors to charges of factional interference and political danger."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.7:b05",
+      "title": "Hungu as a contested classification",
+      "paragraphs": [
+        "The term Hungu is often used for established meritorious elites associated with earlier royal service and privileged rewards. Treating all people so labeled as a unified corrupt faction would repeat an opponent's political vocabulary as if it were objective description. Their networks and institutional positions varied. Some may have criticized particular Sarim methods while agreeing with elements of Neo-Confucian thought. Conversely, a Sarim scholar could seek promotion or patronage like other officials. The categories are useful when they identify recognizable alignments in specific disputes, not when they substitute moral stereotypes for historical explanation. Conflict arose within a shared governing culture of classical literacy and inherited status."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "AKS Korean Neo-Confucian family ideology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.7:b06",
+      "title": "Ethical remonstrance and political risk",
+      "paragraphs": [
+        "Sarim scholars placed strong emphasis on the responsibility of officials to speak against improper conduct. In practice, a memorial criticizing a powerful man could threaten appointments and existing alliances. The institution of remonstrance offered a recognized channel but did not guarantee protection from retaliation. Later biographies sometimes celebrate exemplary moral courage, while their authors had reasons to honor particular ancestors or intellectual lineages. A historian should examine the immediate dispute as well as the commemorative tradition that preserved it. The political significance of principled speech lay partly in its risk and in the competing claims of who possessed legitimate authority to judge misconduct."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.7:b07",
+      "title": "The meaning of scholarly genealogy",
+      "paragraphs": [
+        "Sarim histories traced moral learning through teachers and admired predecessors, often linking Kim Jong-jik to earlier thinkers such as Gil Jae. These genealogies became important to the authorization of later scholarly positions. Yet an intellectual lineage is not a laboratory record proving every teacher transmitted identical doctrines. The selection of ancestors could sharpen after political defeat, when survivors sought legitimacy through continuity with exemplary men. Historians should compare dated writings, actual educational relationships, and later memorials. Genealogical claims are valuable evidence of how scholars understood their inheritance while remaining subject to source criticism regarding chronology and influence."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "NIKH Sarim institutional definition"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.7:b08",
+      "title": "Local institutions and political staying power",
+      "paragraphs": [
+        "Sarim networks did not depend exclusively on holding court office. Families and teachers could sustain learning through local relationships and, increasingly, institutions for instruction and commemoration. This provincial base helped ideas circulate even when particular officials were excluded or punished. But the precise form and date of each school or association matter; later sixteenth-century seowon institutions should not be projected fully into Kim Jong-jik's lifetime. The historian should identify continuous social resources without inventing organizational continuity. Local communities were capable of preserving texts, reputations, and ties while their members held competing positions regarding service at the capital."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.7:b09",
+      "title": "The origins of later repression",
+      "paragraphs": [
+        "The increased visibility of Sarim critics altered the balance of court politics and contributed to conflicts later remembered through the literati purges. However, the purges did not follow from an unavoidable clash between pure scholars and corrupt aristocrats. Royal insecurity, succession disputes, particular accusations, and rival access to institutional offices all mattered. Kim Jong-jik died before the 1498 purge that made his writings politically dangerous in a new way. Treating his career solely as a prelude to punishment would conceal his actual teaching and official activities. Later crises must be reconstructed according to their specific sources rather than a simplified moral sequence."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "AKS Korean Neo-Confucian family ideology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.7:b10",
+      "title": "Sarim as a changing intellectual-political identity",
+      "paragraphs": [
+        "The emergence of Sarim shows how educational networks, claims to ethical authority, and opportunities within royal institutions could create new forms of political grouping. Their members did not constitute a modern party with fixed membership, nor were their beliefs wholly uniform. Later memory emphasized lineage, suffering, and moral principle, partly shaping the categories through which historians recognize them today. This article has focused on their early formation; subsequent studies examine local academies and the concrete crises of the purges. The historical lesson is that an intellectual identity became political through social organization and contingent conflict, not by existing unchanged from the beginning of Joseon."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

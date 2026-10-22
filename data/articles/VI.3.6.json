@@ -1,0 +1,161 @@
+{
+  "id": "VI.3.6",
+  "title": "Family Rites, Ancestor Worship, and the Confucianization of Social Norms",
+  "kicker": "JOSEON · EDUCATION, FAMILY ETHICS AND SARIM",
+  "description": "Source-critical analysis of family rites, ancestor worship, and the confucianization of social norms in early and sixteenth-century Joseon.",
+  "release": "AD",
+  "sourceStatus": "Institutionally grounded contextual synthesis, without independent peer review.",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Neo-Confucianism",
+      "url": "https://encykorea.aks.ac.kr/Article/E0029308",
+      "role": "Ritual, study, royal ideology and later Sarim intellectual developments"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Learning of the Way",
+      "url": "https://encykorea.aks.ac.kr/Article/E0015909",
+      "role": "Scholar lineages including Kim Jong-jik and Jo Gwangjo"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sarim (사림)",
+      "url": "https://contents.history.go.kr/front/tg/view.do?levelId=tg_003_1140&treeId=0100",
+      "role": "Sarim as a politically distinctive group under Seongjong and their relationship with Hungu"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Joseon Neo-Confucian scholarship and Sarim",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_024_0040_0010_0070",
+      "role": "Sixteenth-century cultivation, ritual, intellectual exchange and political aspirations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.3.6:b01",
+      "title": "Prescription and practice in family life",
+      "paragraphs": [
+        "Neo-Confucian reformers regarded family relationships as a foundation of social order and promoted ritual practices associated with Zhu Xi and classical precedents. Yet the existence of a ritual manual does not demonstrate that every Joseon household immediately reorganized marriage, mourning, or ancestor observances. In the early dynasty, people inherited a variety of practices from Goryeo, including Buddhist memorial rites and local customs. Change proceeded differently across regions and status groups, often over generations. A historian should identify dates of regulations, evidence from family records, and material practice rather than describing an instantaneous replacement of the population's social habits at the founding of the new dynasty."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "AKS Korean Neo-Confucian family ideology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.6:b02",
+      "title": "Ancestor rites and the work of lineage memory",
+      "paragraphs": [
+        "Ancestral ceremonies brought the living into organized relationships with forebears through offerings, names, ritual objects, and prescribed conduct. For scholars these acts could communicate respect and continuity, but their social effects depended on who controlled family resources and which ancestors received formal recognition. Wealthier houses were better placed to maintain designated ritual spaces and textual genealogies. A surviving shrine is evidence of investment without directly proving that every family member embraced its interpretation. Local forms of remembrance may have persisted alongside normative prescriptions. Ancestor worship should be studied as changing practice, not a timeless custom shared identically by all Korean communities."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.6:b03",
+      "title": "Mourning and the politics of proper grief",
+      "paragraphs": [
+        "Mourning prescriptions specified relationships between kinship position, duration, and expected behavior. Officials and scholars could debate their correct interpretation, especially when royal deaths raised questions of ritual precedence. Such disputes were not merely ceremonial decoration: they expressed views of family hierarchy and legitimate authority. Yet the ability to withdraw from duties or obtain appropriate ritual objects varied by household. The exact private emotions of participants cannot be inferred from compliance with a public rule. A historian should separate prescribed mourning from the diverse ways people experienced bereavement. The state sought recognizable order through rites, while households adapted them under practical constraints."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "NIKH Sarim institutional definition"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.6:b04",
+      "title": "Marriage patterns and residence",
+      "paragraphs": [
+        "Late-Goryeo and early-Joseon family practices included arrangements that did not fully conform to the patrilineal model later associated with elite Joseon society. Changes in marriage residence, household affiliation, and kin recognition took place unevenly. Normative literature encouraged particular hierarchies, but records of property and marriages are needed to establish how families actually lived. A single reform proclamation cannot reveal where every newly married couple resided. Marriage strategies also depended on land and the standing of related families. The historical interest lies in negotiation between ideological prescription and inherited social relationships, not in assuming that one text transformed kinship uniformly."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.6:b05",
+      "title": "Women and property in changing practice",
+      "paragraphs": [
+        "Women's access to property and the role of daughters in family inheritance developed over time, and later patrilineal arrangements should not be projected uncritically onto the entire early Joseon period. Genealogies and property division documents sometimes provide evidence of more varied practices than a later normative description might suggest. Such records are weighted toward households with assets and reasons to preserve documentation. They do not represent all women or establish full social equality. A study of Confucianization must evaluate both prescriptions restricting women's roles and the continuities that complicated their implementation. Change in family law had material effects that differed by rank and local custom."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "AKS Korean Neo-Confucian family ideology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.6:b06",
+      "title": "The household as a unit of moral education",
+      "paragraphs": [
+        "Scholars promoted learning proper relationships through daily conduct, instruction of children, and rites of passage. This ideal could expand the influence of Neo-Confucian norms beyond state offices into domestic spaces. But a household was not a small classroom in which every participant received equal instruction. Work, age, gender, and dependent status shaped participation. Practical moral teaching was transmitted orally as well as through books, especially where literacy was scarce. The surviving guidance texts present the expectations of their authors more clearly than the entire range of domestic responses. Ethical formation was a social process in which adaptation and resistance were possible."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.6:b07",
+      "title": "Buddhist continuity and ritual plurality",
+      "paragraphs": [
+        "Despite reformers' critiques, Buddhist rites continued to matter for memorial observance, healing, and religious protection within many families. Some official policies limited monasteries or ceremonial expenditures, yet royal and private patrons could still support Buddhist institutions. The coexistence of practices should not be interpreted as a universal confusion about doctrine. Individuals might distinguish functions and meanings differently from polemicists seeking a sharp division. Archaeological or textual evidence of Buddhist devotion cannot establish the exact scale of participation, but it does counter an account of total early-Joseon religious disappearance. Confucianization was contested and layered rather than immediately complete."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "NIKH Sarim institutional definition"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.6:b08",
+      "title": "Genealogy and the construction of descent",
+      "paragraphs": [
+        "Written genealogies organized family memories around selected lines of descent and could justify access to ritual roles or social standing. Their appearance and later revision reflect the growing value attached to documented ancestry. A genealogy assembled centuries after the earliest recorded person may contain retrospective choices, omissions, and claims requiring corroboration. Women and collateral relatives can become less visible as a document prioritizes patrilineal succession. Such selectivity is evidence of changing lineage ideals, not proof that the neglected relationships were historically unimportant. Studying genealogies as constructed records allows historians to recover the political and social work performed by family memory."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.3.6:b09",
+      "title": "Status and the cost of correct ceremony",
+      "paragraphs": [
+        "A household needed food, time, suitable clothing, ritual implements, and sometimes a building to perform elaborate rites. Wealth shaped the practical reach of prescribed norms. For poor families, the full observance described in elite manuals could be financially difficult or unattainable, encouraging adapted forms of practice. An instruction urging simplicity might also serve as a critique of extravagant competition among lineages. Social historians should avoid measuring ethical seriousness by resemblance to a wealthy household's documented ceremony. The relationship between ritual and inequality was central because rites both expressed shared ideals and distinguished families capable of meeting demanding forms."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Evidence gives thematic institutional background, not universal claims about family or scholar behavior.",
+          "locator": "AKS Korean Neo-Confucian family ideology"
+        }
+      ]
+    },
+    {
+      "id": "VI.3.6:b10",
+      "title": "Change without a single turning point",
+      "paragraphs": [
+        "Over generations, Neo-Confucian ideas contributed to changes in family rites, property expectations, marriage, and the documentation of lineage. These transformations were consequential yet uneven, and their effects differed between elite households and communities with fewer resources. Later patterns of strongly patrilineal organization should not be used as evidence that early fifteenth-century families already lived in that form everywhere. This article has examined the social program and the limits of its implementation, leaving later status and family developments to their respective Chapters. The historical conclusion is that the household became a crucial field of ideological effort, not a space instantly remade by state decree."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

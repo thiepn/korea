@@ -1,0 +1,161 @@
+{
+  "id": "V.6.9",
+  "title": "Astronomy, Calendars, Mathematics, Medicine, and Geography",
+  "kicker": "GORYEO · MATERIAL KNOWLEDGE AND TECHNICAL SYSTEMS",
+  "description": "Original critical study of astronomy, calendars, mathematics, medicine, and geography.",
+  "release": "AD",
+  "sourceStatus": "Original scholarly synthesis with contextual sources; no external peer review.",
+  "sources": [
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Haeinsa Janggyeong Panjeon",
+      "url": "https://whc.unesco.org/en/list/737",
+      "role": "Architectural preservation context, fifteenth-century storage versus thirteenth-century Goryeo woodblocks"
+    },
+    {
+      "institution": "UNESCO Memory of the World",
+      "title": "Goryeo Tripitaka and miscellaneous woodblocks",
+      "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+      "role": "Goryeo editorial, carving, and manuscript culture"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Gukjagam historical institution",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o200200",
+      "role": "Goryeo education, technical studies and archival limits"
+    },
+    {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Goryeo Celadon",
+      "url": "https://www.metmuseum.org/it/essays/goryeo-celadon",
+      "role": "Goryeo regional technical production and transregional materials"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.6.9:b01",
+      "title": "Practical knowledge at the royal court",
+      "paragraphs": [
+        "Goryeo officials needed systems for dating orders, marking ritual occasions, measuring resources, and interpreting phenomena that rulers considered politically significant. Astronomy and calendrical calculation therefore belonged to statecraft as well as intellectual inquiry. Recorded celestial events can be examined independently in some cases, but the language used to describe their meaning reflects contemporary expectations about rulership. A chronicle's omen is evidence of interpretation, not an automatic explanation of a later political event. Technical work also required trained specialists whose names survive less often than those of the kings receiving their reports. Studying knowledge means tracing practical operations as well as celebrated intellectual doctrines."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "UNESCO Haeinsa building and conservation chronology"
+        }
+      ]
+    },
+    {
+      "id": "V.6.9:b02",
+      "title": "Calendars and transregional standards",
+      "paragraphs": [
+        "Calendrical systems used in Goryeo drew upon mathematical and astronomical practices circulating among neighboring states. Courts adjusted their administrative and ritual schedules within a changing diplomatic environment. Adopting a named calendar did not guarantee identical local timing of every festival or agricultural task, and official schemes could change with political relations. The historian should distinguish the existence of a court calendar from evidence that the population regulated daily life exclusively through it. Surviving descriptions often preserve institutional labels more readily than complete computational procedures. Comparative study of East Asian calendrics provides context, but specific algorithms should not be assigned to Goryeo without appropriate textual evidence."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.6.9:b03",
+      "title": "Observing the heavens and interpreting signs",
+      "paragraphs": [
+        "Eclipses, unusual stars, and other celestial events appear in historical chronicles, where observations could become part of political judgment. Some reports allow modern comparison with calculable astronomical events, but records vary in date conversion, wording, and reliability. An entry might derive from an original observation or from a later editorial source now lost. Court interpretation could connect phenomena with the conduct of rulers, an interpretive system that should be studied rather than adopted as causal fact. Astronomers and record keepers operated within institutions that valued accurate calendars and meaningful omens. Their work united observation, computation, and political language without fitting neat modern categories."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "NIKH Gukjagam technical schooling"
+        }
+      ]
+    },
+    {
+      "id": "V.6.9:b04",
+      "title": "Mathematics in official education",
+      "paragraphs": [
+        "The Goryeo state academy's regulations included technical learning such as arithmetic alongside classical study, though interpretations of the formal curriculum and its practical operation vary. Calculating areas, quantities, and fiscal obligations required numerical skill beyond elegant literary composition. We should not infer a comprehensive standardized mathematics degree from a brief notice of one subject. Trained clerks may have used procedures learned through apprenticeship as well as formal instruction. The absence of surviving notebooks limits reconstruction of everyday calculations. Mathematics nevertheless mattered to administration, building, and exchange, even when the surviving written record privileges famous examinations and moral discourse."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.6.9:b05",
+      "title": "Measuring land and allocating resources",
+      "paragraphs": [
+        "Officials dealing with fields, granaries, or construction required ways to estimate area, volume, and labor. Such practical needs can be identified without fabricating the exact calculation used in a particular village. Surviving documents from other periods suggest possible categories, but transferring their rates or units backward is hazardous. Instruments and standards could vary across space and time. A court ordinance might aim at consistent measures while facing difficulties of local implementation. The history of measurement should connect tools, personnel, and institutional oversight rather than assuming that an abstract mathematical rule was automatically enforced throughout Goryeo's territory."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "UNESCO Haeinsa building and conservation chronology"
+        }
+      ]
+    },
+    {
+      "id": "V.6.9:b06",
+      "title": "Medicine and the circulation of remedies",
+      "paragraphs": [
+        "Medical knowledge circulated through written traditions, practical healers, herbal materials, and exchanges with neighboring regions. Court-connected practitioners are more visible in records than most people who treated illness within families or villages. A prescription preserved in a later compilation does not demonstrate that every ingredient was available everywhere or that all patients received equal care. The identification of botanical names across centuries is itself an interpretive problem. Practices might combine pharmacology, diet, ritual, and concepts of bodily balance. A history of medicine should distinguish what practitioners believed, what texts prescribed, and what can actually be inferred about health outcomes from limited evidence."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.6.9:b07",
+      "title": "Disease as lived experience and recorded crisis",
+      "paragraphs": [
+        "Chroniclers sometimes noted epidemics and exceptional mortality because they affected royal policy or social order. Such reports deserve attention, but terminology does not always identify a disease in modern clinical terms. Assigning a current diagnosis to a brief ancient symptom description can produce unsupported confidence. Distribution of care depended on status, local resources, and the movement of medical knowledge. Famines and war could compound illness through displacement and shortage, although each connection requires evidence. An official report of relief is not a complete measure of household recovery. The historiography of health must preserve uncertainty while examining how government and communities responded to suffering."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "NIKH Gukjagam technical schooling"
+        }
+      ]
+    },
+    {
+      "id": "V.6.9:b08",
+      "title": "Maps, routes, and geographical learning",
+      "paragraphs": [
+        "Geographic knowledge served diplomacy, military movement, transport, and the identification of administrative units. Route descriptions and place names could be gathered from envoys, local officials, and older texts, but surviving maps do not necessarily represent a single standardized view of territorial borders. Names shifted over time and could refer to different scales of settlement or political influence. A precise modern plot of a medieval locality may be unjustified without corroborating topography and archaeological context. Geographical learning was a cumulative practical craft as well as a literary genre, connecting government to communities whose information the royal court depended upon."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.6.9:b09",
+      "title": "Imported books and the adaptation of techniques",
+      "paragraphs": [
+        "Texts from Song, Yuan, and other courts could introduce or elaborate methods of calculation, medical theory, and geographic description. Goryeo scholars did not merely copy such material: they selected, compared, and put it to use within local institutional circumstances. The survival of a technical term in a later document does not prove the simultaneous arrival of every practice associated with it. Histories of science benefit from comparing dated manuscripts, official appointments, and actual instruments. Borrowing and innovation were often inseparable in a transregional learned world. Political diplomacy shaped access to information, but individual teachers, craftsmen, and translators made transfer workable."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional reference supports broad technical and preservation context, not a specific reconstructed action.",
+          "locator": "UNESCO Haeinsa building and conservation chronology"
+        }
+      ]
+    },
+    {
+      "id": "V.6.9:b10",
+      "title": "Knowledge beyond a modern discipline map",
+      "paragraphs": [
+        "Astronomy, computation, medicine, and geography occupied partly overlapping roles in Goryeo governance and society. Their practitioners worked with concepts and institutions unlike those of modern scientific professions, while addressing recognizable practical needs. Retrospective claims that medieval Koreans possessed a complete modern science would be as misleading as dismissing their technical achievements because they employed different explanatory languages. The evidence supports particular skills, records, and systems with varying degrees of confidence. This article has examined learned and administrative knowledge; the following considers the engineering and environmental practices through which communities applied technical expertise to material problems."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
