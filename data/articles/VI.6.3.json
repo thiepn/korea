@@ -30,6 +30,70 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "VI.6.3:b04",
+      "title": "A book based on experienced farmers",
+      "paragraphs": [
+        "Nongsa jikseol was compiled in 1429 under Sejong after officials were instructed to collect successful farming techniques from experienced cultivators, particularly in the southern provinces. It is not simply an imported agricultural manual rewritten at court. Its existence indicates that royal agrarian policy acknowledged knowledge generated through repeated work in local environments. The compilation nevertheless transformed oral advice into selected textual guidance, filtering the diversity of field practice through official priorities. A historian should ask whose experience was included and how the advice was organized rather than assume every Korean farmer was represented. The book is direct evidence for a program of collecting expertise, not proof of universally achieved agricultural improvement."
+      ],
+      "sequence": 4
+    },
+    {
+      "id": "VI.6.3:b05",
+      "title": "Timing as a technical requirement",
+      "paragraphs": [
+        "The treatise and related royal exhortations emphasize carrying out agricultural work at the appropriate moment. In a society exposed to variable rains and regional growing seasons, timely sowing and weeding could matter as much as the quality of tools. An official recommendation did not guarantee that every household possessed enough workers or draft animals to follow it. Communities might adjust their work according to soil moisture, frost, family obligations and available water. The National Institute of Korean History's commentary connects the emphasis on timing to the development of more intensive forms of cultivation. It should not be turned into a precise national schedule imposing one date for every crop."
+      ],
+      "sequence": 5
+    },
+    {
+      "id": "VI.6.3:b06",
+      "title": "Soil fertility and continuous cultivation",
+      "paragraphs": [
+        "The shift toward more intensive use of arable land required attention to fertility, weeding and the condition of soil across successive crops. The NIKH source discussion places Nongsa jikseol in a wider movement toward practices capable of reducing fallow intervals in some regions. Such change demanded labor and materials rather than unfolding automatically from a printed instruction. Manuring could improve productivity under appropriate conditions, but available manure, animals and household capacity varied. It would be misleading to claim that all fields were continuously cropped throughout early Joseon or that techniques spread without ecological constraint. Agrarian history must connect the technology described in a text with the economic possibilities of those expected to practice it."
+      ],
+      "sequence": 6
+    },
+    {
+      "id": "VI.6.3:b07",
+      "title": "Regional specialization and the problem of copying",
+      "paragraphs": [
+        "Advice gathered in Gyeongsang, Jeolla and Chungcheong regions reflected particular climates and productive experience. Disseminating it northward or into upland areas required adaptation, not mechanical copying. Rice management suited to a southern plain might be difficult where water, growing season or soil differed. The government's interest in circulation did not establish that a manual reached every village, nor that farmers obeyed all its prescriptions. Some experienced cultivators already practiced methods that a court text later recorded. The relationship between documentation and use was therefore reciprocal and uneven. Cultural history gains clarity by treating agricultural knowledge as local practice before it became an official textual subject."
+      ],
+      "sequence": 7
+    },
+    {
+      "id": "VI.6.3:b08",
+      "title": "Instruments, animals and access to work",
+      "paragraphs": [
+        "More intensive farming could increase the demand for particular tools, repair skills, draft power and coordination among neighbors. A recommended method might save land but cost additional work at a peak season when household labor was scarce. Farmers with access to animals or hired assistance could adopt techniques under different conditions from land-poor families. The document records technical possibilities but not an equal distribution of means. Archaeological tools and administrative records may illuminate parts of that economy, though they cannot reconstruct every family's equipment inventory. The history of agricultural innovation must therefore include the social inequalities influencing who could test a new practice and who carried its risks."
+      ],
+      "sequence": 8
+    },
+    {
+      "id": "VI.6.3:b09",
+      "title": "Policy, publication and communication",
+      "paragraphs": [
+        "Compiling agricultural advice was only one stage of a policy intended to circulate useful knowledge. Officials had to copy or print texts, instruct others and reconcile prescriptions with local climate. Evidence for a royal order shows government intention, not the number of readers or the ultimate effect on harvests. The use of literary Chinese in official documentation could also limit direct access for many cultivators, making mediation by literate officials important. Oral learning remained significant. The interaction between a court-sponsored manual and village expertise cannot be reduced to knowledge flowing only from above. The project is valuable precisely because it reveals the state's dependence on cultivators' observations."
+      ],
+      "sequence": 9
+    },
+    {
+      "id": "VI.6.3:b10",
+      "title": "Productivity and the distribution of gains",
+      "paragraphs": [
+        "A rise in harvest potential did not guarantee an equal improvement in household welfare. Landholders, cultivators, public collectors and other claimants could benefit differently from greater output. A tenant who produced more grain might face demands adjusted to expectations of productivity, while a smallholder could still be vulnerable to flood. The relationship between technology and fiscal reform is particularly important during Sejong's reign, when Gongbeop discussions attempted to standardize field assessment. The two reforms were related in their concern with agriculture but were not the same institution. History should assess productive capacity, tax claims and household security as distinct outcomes rather than announcing a single era of universal prosperity."
+      ],
+      "sequence": 10
+    },
+    {
+      "id": "VI.6.3:b11",
+      "title": "The manual as a partial witness to rural change",
+      "paragraphs": [
+        "Nongsa jikseol provides concrete evidence that the court sought to collect and distribute practical agricultural knowledge. Its selective advice illuminates changes in cultivation but cannot stand in for an entire national survey of farming practice. The earlier three blocks describe written knowledge, environmental adaptation and political concern; these appended studies preserve those passages and extend them through the text's 1429 context and the social limits of implementation. VI.6.4 separately owns environmental infrastructure, while VI.6.5 owns the assessment of crops for tax. The most credible conclusion is that early Joseon agricultural change emerged through labor, adaptation and institutional interaction, not the simple arrival of a book that transformed every field overnight."
+      ],
+      "sequence": 11
     }
   ],
   "release": "C"
