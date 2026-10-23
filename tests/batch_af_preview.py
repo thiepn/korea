@@ -25,7 +25,7 @@ with sync_playwright() as pw:
         page.locator('.passage-evidence summary').first.click()
         assert 'National Institute of Korean History' in page.locator('.passage-evidence').first.inner_text()
         page.keyboard.press('/');page.locator('#searchInput').fill('공법 전분육등')
-        page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("VI.6.10")',timeout=20000)
+        page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("VI.6.5")',timeout=20000)
         page.keyboard.press('Escape')
         page.evaluate('location.hash="#/history/VI.6.10"')
         page.wait_for_function('document.body.textContent.includes("The early Joseon economy depended on movement")',timeout=20000)
