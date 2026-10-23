@@ -1,0 +1,167 @@
+{
+  "id": "II.7.6",
+  "title": "Early Kingship, Clans, and Elite Competition",
+  "kicker": "JINHAN · SACRED KINGSHIP AND LINEAGE",
+  "description": "Evidence-conscious analysis of early kingship, clans, and elite competition, keeping recorded later memory distinct from contemporary proof.",
+  "release": "AH",
+  "sourceStatus": "Contextual NIKH/AKS scholarship; independent reviewer approval absent",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro-guk: early Silla traditions and history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025526",
+      "role": "Distinguishes traditional Hyeokgeose chronology, Saro's Jinhan status and later formation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Foundation and development of Silla",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101210",
+      "role": "Dated historical synthesis of foundation traditions, Gyeongju tombs and fourth-century Silla"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samhan politics and transmitted Jinhan categories",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026922",
+      "role": "Third-century textual horizon and caution about political and ethnic reconstruction"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro and Jinhan regional political association",
+      "url": "https://encykorea.aks.ac.kr/Article/E0007393",
+      "role": "Selected Jinhan local polity whose precise location remains disputed"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Horo-guk: Jinhan linguistic transcription",
+      "url": "https://encykorea.aks.ac.kr/Article/E0063741",
+      "role": "Evidence constraints on interpreting externally written ancient polity names"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.7.6:b01",
+      "title": "A political center needed more than descent",
+      "paragraphs": [
+        "Early kingship in Saro and Silla involved lineage prestige, but royal authority also depended on the ability to mobilize resources and secure acceptance from leading families. The earliest royal names appear in later compilations whose chronology is unevenly corroborated. Historians therefore distinguish the retrospective image of one continuous dynasty from the political process by which a preeminent household gained influence among other Gyeongju groups. Wealth, ritual status and military followings could reinforce a claim of descent. No contemporary full court roster lets us reconstruct the precise composition of every early council. Kingship was an evolving relationship rather than an institution completed by one founding ceremony."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "AKS Saro-guk traditional foundation and later historical stages"
+        }
+      ]
+    },
+    {
+      "id": "II.7.6:b02",
+      "title": "The six-bu world and shifting institutions",
+      "paragraphs": [
+        "Accounts of Silla's six villages and six-bu arrangements are important for understanding how political communities were later ordered around the capital. However, bu could refer to changing configurations of groups and territory, not one immutable office classification from the first century BCE onward. Noble leaders may have retained resources and status as the emerging royal house claimed wider jurisdiction. A change in public titles could reflect political integration without eliminating older social relationships. The National Institute of Korean History's developmental account cautions against treating a mature Silla organizational chart as contemporary with Saro's earliest attestation. Institutional histories need carefully dated layers."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.7.6:b03",
+      "title": "Royal styles and their retrospective sequencing",
+      "paragraphs": [
+        "The royal titles geoseogan, chachaung, isageum and maripgan occur in traditions describing early and developing Silla rulership. Their origins and practical meanings remain subjects of interpretation, and the remembered succession of terms may systematize a more complex history. An unfamiliar title need not correspond exactly to the modern category king. Maripgan has often been connected to increasing royal preeminence amid elite differentiation in the fourth and fifth centuries. Later use of wang interacted with continental diplomatic conventions. Historians should not convert each title into a complete constitution, but can examine what its appearance suggests about changing claims of rank."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "AKS Samhan source chronology and external categories"
+        }
+      ]
+    },
+    {
+      "id": "II.7.6:b04",
+      "title": "The Park, Seok and Kim lineages",
+      "paragraphs": [
+        "Royal succession narratives describe the participation of Park, Seok and Kim families, providing a framework for remembering shifts in prestige among leading houses. These lines should not be understood as three modern political parties or as exclusive categories into which every inhabitant fitted. Kinship and marriage could link elites across genealogical labels, while military or economic conditions affected who could command effective support. A chronicle may present a routine accession where the actual process was contested. Archaeological investment in tombs can reveal changing elite display but rarely supplies family surnames independently. Genealogy and political power need to be analyzed together without reducing one to the other."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.7.6:b05",
+      "title": "The material politics of great burials",
+      "paragraphs": [
+        "Large tomb mounds and elaborate grave furnishings suggest increasingly concentrated resources among groups in Gyeongju during the transition toward a mature Silla state. Their construction required many laborers and specialists as well as patrons. Objects selected for burial were statements made by the living and should not be treated as an exact inventory of the deceased's political powers. Some graves may have commemorated royals or other important aristocrats, with particular identifications remaining disputed. The social labor behind the structures reveals hierarchy without supplying complete genealogies. Mortuary grandeur is one line of evidence for political differentiation, not an automatic substitute for missing annal records."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "AKS external-transcription uncertainties for early Jinhan"
+        }
+      ]
+    },
+    {
+      "id": "II.7.6:b06",
+      "title": "Marriage and the politics of inclusion",
+      "paragraphs": [
+        "Marital alliances could connect families with the royal household, transmit claims of status and reduce or sharpen rivalry. The founder traditions give some named relationships, but the record for ordinary elite marriages is far less complete. We should not invent private motives for royal consorts or assume every marriage followed later bone-rank restrictions. Women's participation in the reproduction of dynasty and household alliances matters even when their own words are missing. Family connections could help a growing royal line recruit local cooperation while sustaining competition among privileged groups. Political history gains depth by recognizing such structural relationships without claiming documentary access to intimate decisions."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.7.6:b07",
+      "title": "Aristocratic power did not vanish",
+      "paragraphs": [
+        "As leaders of Saro took on wider royal authority, influential houses could remain indispensable for mobilizing armed supporters, labor and tribute. A ruler might announce new precedence yet rely on those very houses for enforcement. Early administrative forms may have integrated older group leaders into central politics rather than simply replacing them with impersonal appointed clerks. Later evidence of Silla aristocratic deliberation demonstrates continuing elite weight, although its procedures should not be read backwards into poorly documented early centuries. The coexistence of royal honor and noble bargaining helps explain gradual centralization better than a narrative of absolute power achieved immediately after a founder was selected."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "NIKH Silla foundation, early royal succession and archaeology"
+        }
+      ]
+    },
+    {
+      "id": "II.7.6:b08",
+      "title": "The emerging boundary of inherited status",
+      "paragraphs": [
+        "Silla later became famous for bone-rank rules restricting high offices, but their precise emergence, application and evolution require period-sensitive analysis. It is unwarranted to treat all early Jinhan communities as already bound by the mature sacred-bone and true-bone classifications known from later history. Older distinctions of prestige and kinship likely mattered without reproducing every later legal category. State formation could progressively codify inherited advantage, giving social hierarchy more explicit institutional expression. The historical question is when those restrictions can be documented, not how readily a later label can be attached to an earlier wealthy tomb."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.7.6:b09",
+      "title": "Royal residence and the construction of authority",
+      "paragraphs": [
+        "The development of defended and ceremonial spaces at Gyeongju provided settings for courtly interactions and public displays of precedence. Buildings could shape who approached the ruler, where gatherings occurred and how gifts were distributed. Archaeological foundations demonstrate occupation and construction without identifying each named office or the details of a coronation. The expansion of a political center affected households who supplied stone, timber, food and skilled work. Such practical processes helped transform kingship from the status of one influential family into an institution capable of coordinating a wider community, even as other families resisted or bargained over its claims."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "AKS Jinhan regional polity location uncertainty"
+        }
+      ]
+    },
+    {
+      "id": "II.7.6:b10",
+      "title": "A changing coalition becomes a royal state",
+      "paragraphs": [
+        "Saro's kingship emerged within the relationships of leading families, inherited prestige and control of resources. Later annals preserve an ordered succession narrative while archaeological evidence reveals rising social differentiation and investment over several centuries. This article owns lineage rivalry and early court relationships, distinct from founder symbolism in II.7.5 and mature Silla administration in III.5. The kingdom's political development should not be summarized as a simple victory of royal blood over competing clans. It was a series of adjustments through which a privileged ruling center acquired wider authority while remaining dependent on local and aristocratic support."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

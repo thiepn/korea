@@ -1,0 +1,167 @@
+{
+  "id": "II.7.9",
+  "title": "Saro-Silla and Its Neighbors",
+  "kicker": "JINHAN · REGIONAL RELATIONS AND TRANSITION",
+  "description": "Source-critical analysis of saro-silla and its neighbors, emphasizing changing political scale rather than anachronistic fixed borders.",
+  "release": "AH",
+  "sourceStatus": "Contextual NIKH/AKS sources, independent peer review absent",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samhan regional polities in eastern and southern Korea",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026922",
+      "role": "Third-century external Jinhan/Byeonhan/Mahan sources and limits of indigenous polity reconstruction"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro-guk and the emergence of Silla",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025526",
+      "role": "Saro polity, relations among Jinhan neighbors and later retrospectively dated kingdom"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Silla's political formation",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101210",
+      "role": "Third/fourth-century Saro integration, Gyeongju fortifications and diplomatic visibility"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Geungi-guk among Jinhan polities",
+      "url": "https://encykorea.aks.ac.kr/Article/E0007393",
+      "role": "Uncertain location and political affiliation of Jinhan names written by external observers"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Juseon-guk and the difficulty of location attribution",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053314",
+      "role": "Explicit debate over identifying external name and later sites"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.7.9:b01",
+      "title": "Saro in a shared southeastern world",
+      "paragraphs": [
+        "Saro's development occurred among communities in Jinhan, Byeonhan and neighboring polities with diverse local histories. The later label Silla can make that setting look like an early national frontier separating an established kingdom from outsiders. In the third-century horizon, many political affiliations were more local and changing. Exchange and competition could cross areas that later dynasties came to control. External descriptions classify communities for Chinese readers without specifying every alliance. A source-critical account asks how Saro's relationship with neighbors varied by river basin, coastline and period, rather than projecting its later maximum territory onto the moment it first appeared in the Jinhan list."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "AKS Samhan polity geography and textual source chronology"
+        }
+      ]
+    },
+    {
+      "id": "II.7.9:b02",
+      "title": "Jinhan neighbors and uncertain map points",
+      "paragraphs": [
+        "The externally preserved list of Jinhan polities includes names whose exact placement remains contested, as the AKS entries on Geungi-guk and Juseon-guk demonstrate. Some location proposals derive from perceived phonetic resemblance to later district names, with several competing possibilities. A textual name does not guarantee that modern archaeologists have excavated its capital. Communities may have moved or changed affiliations before later Silla administrations standardized place names. A map presenting every Jinhan state as a certain dot gives an illusion of knowledge. The historian can describe likely regional relationships while retaining uncertainty about specific local boundaries and centers."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.7.9:b03",
+      "title": "Byeonhan and iron-connected competition",
+      "paragraphs": [
+        "To the southwest, Byeonhan communities occupied productive landscapes connected to important ironworking and exchange networks. Material links with Jinhan are expected across adjacent regions, but similarity of tools or pottery need not indicate a shared government. Saro could benefit from commerce without controlling all production centers. Some neighboring polities followed trajectories later associated with Gaya, with political histories not reducible to failed Silla expansion. The state-formation process involved cooperation, rivalry and sometimes military incorporation. II.8 owns the distinct Byeonhan–Gaya history, while this section considers why Saro's choices developed within a competitive southeastern environment rather than in isolation."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "NIKH Saro-to-Silla formation and 382 foreign contact"
+        }
+      ]
+    },
+    {
+      "id": "II.7.9:b04",
+      "title": "Mahan and the western political horizon",
+      "paragraphs": [
+        "Mahan communities further west maintained their own political centers and connections to continental commanderies. The influence of an emerging Baekje was not the fixed institutional counterpart of Saro at the beginning of the Jinhan era. Their positions changed as Baekje-guk and Saro acquired greater regional reach. Imported goods and reported diplomatic contacts provide evidence of interaction without specifying the frequency of direct meetings among ordinary residents. Long-distance trade could pass through intermediaries rather than one formal treaty. The evolution of early Baekje belongs in II.6, preventing a Silla-centered perspective from flattening the different timing of western and eastern state formation."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.7.9:b05",
+      "title": "Northern commandery contact",
+      "paragraphs": [
+        "Lelang and Daifang were important conduits for foreign knowledge of southern political communities and for the movement of prestige goods. They also became parties to wider political conflicts that affected the peninsula. The presence of Chinese-style items in southeastern burials does not necessarily mean direct commandery authority reached those sites. Objects could be exchanged through several intermediaries or copied locally. When northern commandery rule changed dramatically in the early fourth century, opportunities and pressures facing southern centers also changed. A chronology of diplomatic and material contact should distinguish such shifts from a continuous image of a stable foreign border imposed upon all Jinhan."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "AKS Juseon-guk disputed Jinhan locality"
+        }
+      ]
+    },
+    {
+      "id": "II.7.9:b06",
+      "title": "Maritime links to the Japanese archipelago",
+      "paragraphs": [
+        "The Korea Strait enabled travel and movement of materials between southern Korean communities and those on the Japanese archipelago. Archaeological similarities may reflect exchange, migration, shared technological practices or more complex relationships. A specific Japanese artifact found near Gyeongju should not be assigned automatically to a royal Silla embassy, and a later Japanese chronicle cannot fill every gap in earlier centuries. Geographic connection is real, but particular voyages remain unevenly documented. Contacts involved people with practical maritime skills and local commercial motives as well as political leaders. Later interstate diplomacy in Part III should not be projected unchanged into early Saro's more plural environment."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.7.9:b07",
+      "title": "Military activity and the uncertainty of campaigns",
+      "paragraphs": [
+        "Early Silla annals recount confrontations with neighboring powers, but their earliest chronologies and numbers require comparison with external texts and material remains. A narrative of repeated conquests may express a later view of inevitable consolidation. A burned settlement could result from several causes, and a new fortress does not independently identify the enemy it faced. Political influence might advance through marriage or recognition as well as conflict. The historian should discuss rivalry without inventing casualty totals or exact battlefield movements unsupported by sources. The absence of a complete campaign archive does not mean political competition was unimportant; it requires caution about its reconstructed details."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "AKS Saro-guk growth and early royal histories"
+        }
+      ]
+    },
+    {
+      "id": "II.7.9:b08",
+      "title": "Migrants and shifting community composition",
+      "paragraphs": [
+        "Movements caused by trade, war or changes in continental power may have brought people with different experiences into southeastern settlements. New craft styles or burial customs can suggest interaction, but not provide a precise count of migrants or establish the ethnic identity of every household. Existing residents could adopt foreign technologies without large population replacement. Conversely, newcomers might use familiar local objects after settlement. Source traditions explaining Jinhan through Qin-related migration should be examined as historical claims whose demographic content is unverified. Population history belongs to a wider northeast Asian field where local and external identities changed over time."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.7.9:b09",
+      "title": "Alliance and the development of regional precedence",
+      "paragraphs": [
+        "A center could become influential by mediating exchange, supplying protection or organizing responses to outside threats. Such precedence may be acknowledged by some neighbors for particular purposes while others resisted. A formal conquest narrative is only one possible mechanism of integration. The archaeological convergence of increased settlement scale, elite display and fortified construction offers stronger evidence for growing capacity than an unsupported list of victories. Even so, it rarely reveals the exact terms by which one local leader gained recognition. Saro's rise can be studied as an accumulation of practical relationships, not simply a heroic dynasty moving across a predetermined territory."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "AKS Geungi-guk uncertain location"
+        }
+      ]
+    },
+    {
+      "id": "II.7.9:b10",
+      "title": "Neighbors remained historical agents",
+      "paragraphs": [
+        "Jinhan, Byeonhan, Mahan, northern commanderies and communities across the Korea Strait shaped conditions under which Saro developed. Their different histories prevent the later Three Kingdoms map from being treated as the natural starting point of the period. This section owns regional political interaction within the early-state horizon; mature interstate diplomacy and military campaigns belong to Part III. A source-critical synthesis can identify important contacts while preserving uncertainty about individual alliances and site identifications. The key is to explain Saro's development within a competitive network whose participants did not know which polity later historians would privilege as a surviving kingdom."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

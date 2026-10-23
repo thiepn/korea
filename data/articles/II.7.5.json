@@ -1,0 +1,167 @@
+{
+  "id": "II.7.5",
+  "title": "Silla Foundation Traditions, the Six Villages, and Sacred Kingship",
+  "kicker": "JINHAN · SACRED KINGSHIP AND LINEAGE",
+  "description": "Evidence-conscious analysis of silla foundation traditions, the six villages, and sacred kingship, keeping recorded later memory distinct from contemporary proof.",
+  "release": "AH",
+  "sourceStatus": "Contextual NIKH/AKS scholarship; independent reviewer approval absent",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro-guk: early Silla traditions and history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025526",
+      "role": "Distinguishes traditional Hyeokgeose chronology, Saro's Jinhan status and later formation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Foundation and development of Silla",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101210",
+      "role": "Dated historical synthesis of foundation traditions, Gyeongju tombs and fourth-century Silla"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samhan politics and transmitted Jinhan categories",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026922",
+      "role": "Third-century textual horizon and caution about political and ethnic reconstruction"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro and Jinhan regional political association",
+      "url": "https://encykorea.aks.ac.kr/Article/E0007393",
+      "role": "Selected Jinhan local polity whose precise location remains disputed"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Horo-guk: Jinhan linguistic transcription",
+      "url": "https://encykorea.aks.ac.kr/Article/E0063741",
+      "role": "Evidence constraints on interpreting externally written ancient polity names"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.7.5:b01",
+      "title": "The traditional year and its historical meaning",
+      "paragraphs": [
+        "Samguk sagi assigns the foundation of Silla to the accession of Park Hyeokgeose in 57 BCE. The date gives the later dynasty a continuous reign chronology, but it was transmitted through a twelfth-century compilation rather than inscribed by a first-century BCE royal court. Historians need not reject the narrative's significance merely because direct corroboration is lacking. It demonstrates how later readers understood royal beginnings, the Gyeongju landscape and the rightful precedence of a founding line. A traditional foundation date and a materially demonstrated transition toward statehood answer different questions. They should appear together without being treated as identical evidence."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "AKS Saro-guk traditional foundation and later historical stages"
+        }
+      ]
+    },
+    {
+      "id": "II.7.5:b02",
+      "title": "Hyeokgeose and the sacred emergence story",
+      "paragraphs": [
+        "The founder narrative associates Hyeokgeose with extraordinary circumstances of arrival and selection, emphasizing a leader whose authority seemed to transcend ordinary household competition. Its miraculous features are meaningful components of sacred and political memory rather than straightforward documentary observation of birth. Attempts to translate every symbolic episode into a literal migration or archaeological event are speculative. The historian can examine what claims about legitimacy the narrative performs: a founder's distinctiveness, acceptance by local leaders and the establishment of ordered kingship. Multiple generations of retelling may have affected the form known today. The story is evidence for those processes of remembrance, not a contemporaneous diary."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.7.5:b03",
+      "title": "The six villages as a political memory",
+      "paragraphs": [
+        "The tradition describes six settlements or communities around the Gyeongju area whose leaders participate in choosing Hyeokgeose. The narrative has often been connected to Silla's later six-bu organization. Yet it does not prove that the administrative and aristocratic meaning of bu remained identical across the centuries between alleged foundation and mature kingdom. A sacred selection scene can symbolize agreement among important lineages or the ideal of collective recognition. It does not provide a literal constitution of a six-member council with reconstructable voting rules. Archaeology of settlement diversity may illuminate early groups without attaching a surviving village name to every excavated house."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "AKS Samhan source chronology and external categories"
+        }
+      ]
+    },
+    {
+      "id": "II.7.5:b04",
+      "title": "Al-yeong and the role of a royal woman",
+      "paragraphs": [
+        "The foundation traditions also remember Al-yeong as an exceptional woman connected to the early royal line. Her presence is historically important for how legitimate marriage, reproduction and ceremonial status were narrated. But the story does not reveal a full private biography, her personal deliberations or precise social origins. Historians should avoid either omitting her because the narrative centers on a male founder or inventing words and motives not in the source. A royal woman's figure can anchor ideas of dynastic continuity even when direct contemporary evidence about women's rights is incomplete. Distinguishing symbolic role from attested personal agency permits a fuller, responsible interpretation."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.7.5:b05",
+      "title": "Park, Seok and Kim as dynastic memories",
+      "paragraphs": [
+        "Early Silla history connects successive royal lines to several surnames and family traditions, commonly Park, Seok and Kim. Their sequence in later annals offers one way that dynastic compilers made changing political precedence intelligible. It is not a complete record of every aristocratic house within Saro nor a guarantee that succession followed one simple fixed rule from the first reign. Family alliances, ritual legitimacy and access to armed supporters may have shaped what later appeared as a tidy list of rulers. Burial objects rarely identify which early king belonged to which surname. The genealogical framework has political significance precisely where independent proof of individual early reigns remains limited."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "AKS external-transcription uncertainties for early Jinhan"
+        }
+      ]
+    },
+    {
+      "id": "II.7.5:b06",
+      "title": "Sacred places and landscape claims",
+      "paragraphs": [
+        "Gyeongju topography and remembered sites of sacred appearance tie the founder traditions to a meaningful local landscape. Place associations may preserve old memories but can also change through later royal patronage, temple building and historical commentary. The existence of a modern monument at a remembered foundation site does not date the narrative to its alleged event. Archaeological evidence for an early settlement nearby likewise cannot prove the reported miracle. A royal tradition anchors claims to territory and ancestral legitimacy through places that audiences could recognize. Historical geography should explain those cultural claims without presenting later memorial architecture as direct proof of the original episode."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.7.5:b07",
+      "title": "From selected chief to continuing kingship",
+      "paragraphs": [
+        "The story's emphasis on several communities acknowledging a leader can be read as a retrospective explanation for political integration. Its internal structure is not a set of administrative minutes, yet it addresses genuine historical problems: why one house should lead, how competing elites accepted precedence and why a kingdom possessed a durable royal line. Archaeology and external texts can investigate corresponding processes at different dates without certifying each episode. The narrative's later prominence may also reflect the needs of a state managing aristocratic competition. A political reading remains an interpretation of remembered ideals rather than evidence that unanimous selection occurred in one specific assembly."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "NIKH Silla foundation, early royal succession and archaeology"
+        }
+      ]
+    },
+    {
+      "id": "II.7.5:b08",
+      "title": "Comparison with other origin stories",
+      "paragraphs": [
+        "Baekje's Onjo traditions and Goguryeo's Jumong traditions likewise connect political beginnings to unusual ancestry, travel and settlement. Similar themes reveal a shared region of royal legitimating literature but do not establish that their founders participated in identical historical ceremonies. Each story developed within separate dynastic and textual circumstances. Silla's six villages and lineal succession should be analyzed on their own terms. Comparing structures is useful for understanding how ancient states represented legitimate authority. It becomes misleading when shared motifs are converted into proof that one founder tale was copied directly from another or that all relate the same migration of one population."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.7.5:b09",
+      "title": "Chronology and the visible archaeological state",
+      "paragraphs": [
+        "NIKH's Silla foundation discussion connects the expansion of Saro and formation of more recognizable royal state structures with developments especially visible in the third and fourth centuries. Large wooden-chamber stone-mound tombs and important defensive centers belong to chronological horizons distinct from the traditional founding date. They establish growing political differentiation, not the exact locations of Hyeokgeose's first assembly. It is methodologically sound to use the foundation date as a convention while placing stronger confidence in later independent material and textual evidence. The two forms of historical chronology serve different purposes and should be distinguished for readers."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Specialist institutional research contextualizes transmitted royal origins, but does not establish unwitnessed details.",
+          "locator": "AKS Jinhan regional polity location uncertainty"
+        }
+      ]
+    },
+    {
+      "id": "II.7.5:b10",
+      "title": "A remembered beginning and a changing polity",
+      "paragraphs": [
+        "Hyeokgeose, the six villages and sacred royal origins are integral to the history of how Silla understood itself. Their account must be read as transmitted political memory whose earliest chronology cannot be independently reproduced in every detail. This article owns founder stories and their use in legitimizing rule; II.7.6 treats clan competition and institutional power, and Part III studies the mature kingdom's rulers. Neither uncritical literalism nor wholesale dismissal does justice to the evidence. The responsible conclusion is that a later Silla identity drew upon powerful origin traditions while the political center recognizable through texts and excavations developed in a longer historical process."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

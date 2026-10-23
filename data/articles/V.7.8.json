@@ -1,0 +1,167 @@
+{
+  "id": "V.7.8",
+  "title": "Japan, Tsushima, Maritime Diplomacy, and Coastal Security",
+  "kicker": "GORYEO · SONG AND JAPANESE CONTACTS",
+  "description": "Source-critical account of japan, tsushima, maritime diplomacy, and coastal security, separating diplomatic records, merchant networks and intellectual journeys.",
+  "release": "AH",
+  "sourceStatus": "Documented NIKH and AKS context; no specialist manuscript review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Song official diplomacy, 962–1123",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0080",
+      "role": "Source-based treatment of official envoy chronology, 1071 restoration, merchants, books and 1123 Xu Jing account"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "King Seonjong's cultural exchanges, 1085–1091",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_n202400",
+      "role": "NIKH evidence of Uicheon travel and acquisition of East Asian Buddhist texts, rare book exchanges"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Khitan diplomatic relationship after 1019",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0090",
+      "role": "Shows court contact with Liao continuing while Song literary and merchant contact remained valuable"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Byeongnando international port",
+      "url": "https://encykorea.aks.ac.kr/Article/E0022829",
+      "role": "Historic commercial-port entry for Yesong River and routes near Gaegyeong"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo and Song in a changing maritime environment",
+      "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_030_0040_0020_0010&whereStr=",
+      "role": "Detailed Goryeo–Song relations across private trade, court reception and shifting Song political factions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.7.8:b01",
+      "title": "A maritime neighbor outside the northern diplomatic triangle",
+      "paragraphs": [
+        "Goryeo's Japanese connections followed maritime routes and local coastal relationships unlike its land-based confrontations with Liao and Jin. Official exchange between the two courts did not simply reproduce the regular embassies familiar from other periods. Japanese political organization and the role of regional communities shaped the reception of visitors. Trade could continue through merchants and monks even when the central courts did not sustain frequent formal missions. Sources favor events noticed by officials, leaving ordinary voyages less visible. A balanced account therefore asks what kinds of people crossed the Korea Strait, which authorities supervised arrivals and how political contact differed from commercial exchange."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "NIKH Goryeo–Song embassies 962, 1071, 1078 and 1123"
+        }
+      ]
+    },
+    {
+      "id": "V.7.8:b02",
+      "title": "Tsushima as a geographical intermediary",
+      "paragraphs": [
+        "The island of Tsushima lies along important maritime approaches between the peninsula and northern Kyushu. Its position helped make it a possible intermediate point for travelers and merchants, although routes depended on weather, ships and the specific ports chosen. Geographical plausibility does not establish a scheduled ferry or a single approved ninth- or eleventh-century passage. Island communities possessed their own productive and political interests, and should not be represented only as passive stepping stones between capitals. A ship's landing may have brought trade, supply needs or disputes requiring local negotiation. Coastal geography conditioned contact without determining how every voyage proceeded."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.7.8:b03",
+      "title": "Merchants as durable links",
+      "paragraphs": [
+        "Commercial actors could connect suppliers and consumers across the Korea Strait even when official diplomacy was intermittent. Goods may have traveled through intermediary markets, and their presence at a destination does not necessarily identify a direct Goryeo royal mission. Japanese and Korean court records give selective glimpses of traders, while archaeological objects provide an additional but imperfect archive. Markets around coastal settlements offered access to products unavailable locally. No comprehensive annual customs register establishes the precise value of all Goryeo–Japan exchange during the pre-Mongol period. Historical explanation should describe attested contacts and material opportunities without inventing exact cargo totals or commercial privileges."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "NIKH Goryeo–Liao relations affecting official Song contact"
+        }
+      ]
+    },
+    {
+      "id": "V.7.8:b04",
+      "title": "Religious travel and knowledge",
+      "paragraphs": [
+        "Buddhist connections linked people interested in texts, ritual and learned teachers across northeastern Asian waters. A monk's journey could depend on merchant shipping and lodging supplied by established religious or resident networks. A particular scripture arriving in Japan should not automatically be credited to one Goryeo envoy unless the transmission record supports that link. Manuscript copying and preservation complicate identifying the first date of circulation. Religious exchange was neither identical to state diplomacy nor wholly separate from political conditions at ports. The social infrastructure of travel mattered as much as royal intention in determining how intellectual connections could be sustained."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.7.8:b05",
+      "title": "Coastal risk beyond piracy alone",
+      "paragraphs": [
+        "Storms, currents, loss of navigational knowledge and ship damage threatened crossings, while armed raiding posed a different kind of danger. A report of a hostile landing is evidence of a particular incident, not a rate from which all voyages can be judged. Governments could order coastal defense or investigate suspicious visitors, yet implementation depended on garrisons and local people. A protected port might welcome legitimate traders and still restrict outsiders during crisis. Historical maps should distinguish routes known from documents from plausible corridors inferred from geography. Ocean travel was practical and repeated, but not a frictionless exchange between two unified national economies."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "NIKH Goryeo–Song commercial continuity and political reception"
+        }
+      ]
+    },
+    {
+      "id": "V.7.8:b06",
+      "title": "Different jurisdictions and local negotiations",
+      "paragraphs": [
+        "A trader leaving Goryeo might encounter different legal expectations at a Japanese island port and later on the mainland. Recognition by one local authority did not guarantee permission from all others. Diplomacy among central courts could also be affected by how regional officials handled an incident. The surviving record is insufficient to describe a uniform legal code applying to every crossing. A careful account should emphasize the need for local intermediaries and the limits of sovereign control over distant coasts. Political connections were achieved through the actions of particular communities as well as the decisions of royal governments."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.7.8:b07",
+      "title": "The place of Japan within Goryeo strategy",
+      "paragraphs": [
+        "Goryeo's relations with Japan generally did not pose the same sustained existential military danger as its wars with Khitan Liao. That difference should not be mistaken for the absence of meaningful maritime concerns. Goods, information and religious connections could be valuable even where the court devoted more attention to a threatened northern frontier. Policy might prioritize coastal security and profitable commerce rather than repeated symbolic investiture. The degree of official activity varied across reigns and changing regional conditions. A comparison of diplomatic traffic should be made carefully because records survive unevenly and offices treated Japanese visitors differently from northern imperial envoys."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "NIKH Uicheon 1085 Song travel and intellectual exchange"
+        }
+      ]
+    },
+    {
+      "id": "V.7.8:b08",
+      "title": "The problem of later historical projection",
+      "paragraphs": [
+        "Later centuries brought well-documented pirate raids and more developed institutional contacts involving Tsushima. Those arrangements should not be transplanted whole into the eleventh or early twelfth century. A modern account using mature Joseon-era trade permits to explain Goryeo commerce would collapse two different political and maritime orders. Similarly, earlier Silla merchants' ninth-century networks cannot automatically define Goryeo's institutional practices. Geography may persist while jurisdictions and trading mechanisms change. Periodization protects the history of actual early Goryeo contacts from being overwritten by episodes for which better records happen to survive."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.7.8:b09",
+      "title": "Who is missing from diplomatic records",
+      "paragraphs": [
+        "The people building ships, carrying loads, preserving food and supplying ports rarely appear by name in accounts of international exchanges. Their work made commercial or religious movement possible. Coastal households may have gained trading opportunities while facing pressure to provision ships or maintain defenses. No comprehensive evidence allows historians to generalize a fixed balance of gains and burdens across all ports. The omission of ordinary laborers from official writing is not proof of their marginality. A maritime social history should reconstruct the functions that had to be performed and distinguish reasonable structural inference from invented individual stories."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "AKS Byeongnando's links to Gaegyeong and overseas routes"
+        }
+      ]
+    },
+    {
+      "id": "V.7.8:b10",
+      "title": "Connection without a single diplomatic model",
+      "paragraphs": [
+        "Goryeo and Japan maintained contacts across an environmentally demanding strait through merchants, religious travelers and local intermediaries, while royal diplomatic arrangements remained variable. This article owns maritime political and cultural connection, leaving the full domestic Japanese history to appropriate comparative contexts and the details of commercial institutions to V.7.9. It resists projecting later Tsushima policies backwards and does not invent a uniform Goryeo-era shipping calendar. Goryeo's pre-Mongol foreign world included this maritime dimension even when northern imperial relations dominated the surviving court record. Its significance lies in the coexistence of diverse forms of external contact."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

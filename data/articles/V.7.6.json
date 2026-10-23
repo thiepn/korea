@@ -1,0 +1,167 @@
+{
+  "id": "V.7.6",
+  "title": "The Rise of Jin and Goryeo's Diplomatic Accommodation",
+  "kicker": "GORYEO · JURCHEN FRONTIER AND JIN",
+  "description": "Source-critical investigation of the rise of jin and goryeo's diplomatic accommodation, separating court negotiations, military infrastructure and regional autonomy.",
+  "release": "AH",
+  "sourceStatus": "NIKH contextual references, no external scholarly manuscript approval",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Northeastern nine fortresses and historical source critique",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0060",
+      "role": "Annotated accounts of Wanyan expansion, 1104 defeat, Byeolmuban, 1107 construction and 1109 reversal"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Yun Gwan's establishment of the Nine Fortresses",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_i201250",
+      "role": "Specialist chronology and recognition of geographical controversy over northeastern fortresses"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jin's foundation and relations with Goryeo",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0110",
+      "role": "Primary-text chronology of 1115 Jin foundation, 1125 Liao fall, 1126 Goryeo accommodation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Khitan diplomatic stability",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0090",
+      "role": "Goryeo's continuing northern relations as Jin rose at Liao's expense"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo and Song diplomatic and cultural contact",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0080",
+      "role": "Changing Goryeo–Song relationship amid new Jurchen strength"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.7.6:b01",
+      "title": "Jin's foundation changed diplomatic rank",
+      "paragraphs": [
+        "The Wanyan-led Jurchen state Jin was established in 1115, rising within a frontier world where Goryeo had long negotiated with many Jurchen communities and Khitan Liao. The new dynasty's political claims altered expectations of who should pay respect to whom. Relations that Goryeo officials previously characterized through local submission or border accommodation were no longer sufficient when Jin sought recognition as an imperial power. Historical memory could encourage Goryeo to regard Jurchen groups as subordinate while actual military conditions shifted decisively. The discrepancy between inherited ceremonial assumptions and a changing balance of force is essential for understanding Goryeo's diplomatic response."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH Nine Fortresses primary evidence and Wanyan frontier background"
+        }
+      ]
+    },
+    {
+      "id": "V.7.6:b02",
+      "title": "Early messages and the rhetoric of kinship",
+      "paragraphs": [
+        "NIKH's study of Jin's foundation preserves messages in which Jin representatives used the language of family relationships, including references to Goryeo as a parental country. Such terms served political purposes and are not straightforward genetic evidence about an entire ruling population. They may acknowledge remembered connections, signal courtesy or prepare a new diplomatic arrangement. Historians should resist interpreting a single rhetorical phrase as proof of one fixed ethnic lineage. The sequence of exchanges shows that Jin initially sought terms different from its later demands for hierarchical submission. Diplomatic language changed because political power and desired recognition changed, not because a timeless familial truth was suddenly discovered."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.7.6:b03",
+      "title": "Jin versus Liao and the position of Goryeo",
+      "paragraphs": [
+        "As Wanyan power expanded against Khitan Liao, Goryeo had to consider the future of a relationship that had provided relative diplomatic stability after 1019. Liao's military difficulties diminished its capacity to uphold the existing northeastern balance. Goryeo's own court had an interest in avoiding conflict on a recently contested frontier. An envoy from Jin announcing victories could place political pressure on Goryeo even before a formal ultimatum was issued. Regional diplomacy involved observing others' campaigns and preparing alternative responses. Goryeo was not militarily absent from the discussion, but its leaders faced the practical question of whether resistance could achieve a better outcome than accommodation."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH Jin foundation 1115, fall of Liao 1125 and 1126 Goryeo recognition"
+        }
+      ]
+    },
+    {
+      "id": "V.7.6:b04",
+      "title": "The fall of Liao in 1125",
+      "paragraphs": [
+        "Jin's destruction of Liao in 1125 removed a major power with which Goryeo had negotiated for more than a century. It transformed a previously triangular regional system into one where Jin controlled much of the former Khitan imperial space and confronted Song. This change had direct implications for border security and court protocol. The fact that Goryeo had withstood Khitan attacks generations earlier did not make the new Wanyan empire strategically equivalent to Liao. Different leadership, alliances and military resources required fresh calculations. A dated account must distinguish Jin's foundation in 1115 from its subsequent victory over Liao and later attack on Song."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.7.6:b05",
+      "title": "The court debate over hierarchy",
+      "paragraphs": [
+        "Jin requested a relationship in which Goryeo would acknowledge its superior imperial status. NIKH's annotated source describes debate among Goryeo officials, many reluctant to accept the claim, and the decisive influence of Yi Ja-gyeom and Cheok Jun-gyeong in recommending accommodation. This was not simply a capitulation by an undifferentiated nation but a contested political decision within a court already affected by elite rivalries. Recognition of an empire did not grant it direct administration over Goryeo's domestic villages. The political effect lay in ceremonial hierarchy, envoy practice and the reduction of immediate military risk while other regional states confronted Jin expansion."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH Song foreign relations within Jin's regional ascendancy"
+        }
+      ]
+    },
+    {
+      "id": "V.7.6:b06",
+      "title": "The 1126 recognition",
+      "paragraphs": [
+        "The decision made under King Injong in 1126 marked a significant change in Goryeo's formal relationship to Jin. The date should be distinguished from 1115 foundation and 1125 defeat of Liao. The sequence illustrates how geopolitical pressure accumulated before the monarchy accepted revised protocol. Recognition did not make all subsequent relations free of disagreement, nor did it abolish the cultural contacts Goryeo had maintained with Song. Official documents and later Goryeosa narratives reveal the form of the decision but only partially capture how ordinary border settlements experienced it. Diplomacy reshaped external expectations without instantly reorganizing all domestic institutions."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.7.6:b07",
+      "title": "Song's crisis complicated every calculation",
+      "paragraphs": [
+        "Jin's military expansion threatened Northern Song, culminating in the 1127 Jingkang crisis and the flight of Southern Song rule southward. Goryeo received diplomatic approaches within this turbulent setting, including requests that required decisions about its relations with competing powers. The earlier prosperity of exchanges with Song did not necessarily make military alliance attractive when Goryeo itself faced Jin pressure. Refusing to join a war could protect the kingdom while disappointing an important cultural partner. Such choices are historically intelligible when viewed through regional risk rather than moral judgments about fidelity. Government policy combined practical security and symbolic relationships under sharply altered conditions."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH Yun Gwan 1107 campaign and uncertain Nine Fortresses location"
+        }
+      ]
+    },
+    {
+      "id": "V.7.6:b08",
+      "title": "Recognizing superiority without dissolving sovereignty",
+      "paragraphs": [
+        "Premodern investiture and tribute institutions organized relative rank among courts in forms unfamiliar to modern diplomatic equality. Goryeo's acceptance of Jin ceremonial precedence should not be described automatically as annexation or permanent foreign occupation. It continued as a kingdom with its own dynasty, offices and legal administration. Nonetheless, hierarchical recognition could constrain choices of envoys, wording and interstate alignment. The significance depends on the terms and power relations of the time, not modern analogies. A source-critical account should specify what court documents actually required, rather than treat ceremonial submission as either meaningless theater or total loss of political agency."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.7.6:b09",
+      "title": "The domestic politics of foreign policy",
+      "paragraphs": [
+        "Yi Ja-gyeom's political influence and the conflict with King Injong show that foreign-policy decisions were embedded in the struggle over who controlled the Goryeo court. A minister advocating accommodation might believe it necessary for security while also benefiting from his power within the regime. The surviving records do not permit exact reconstruction of every participant's private motive. Later narrative blame should be evaluated against the strategic facts of Jin's victories and Song's vulnerability. V.8 owns the detailed Yi Ja-gyeom crisis and court upheaval; this article considers their effect on recognizing Jin. Domestic competition could alter the terms under which the monarchy acted abroad."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH pre-1125 Goryeo–Liao diplomatic relationship"
+        }
+      ]
+    },
+    {
+      "id": "V.7.6:b10",
+      "title": "The accommodation that carried Goryeo forward",
+      "paragraphs": [
+        "Jin's rise compelled Goryeo to revise older assumptions about Jurchen political status and northeastern security. The sequence from 1115 to 1126 combined diplomatic messages, Liao's collapse, Song's crisis and Goryeo's contested decision to acknowledge Jin supremacy. It does not prove that Goryeo lost all capacity for independent cultural or economic relations. This article owns formal adaptation to the Jurchen imperial order, leaving subsequent Mongol invasions to V.9. A balanced history recognizes the inequality of military power and the monarchy's continuing institutional agency. Diplomatic hierarchy was real but not the same as direct foreign rule."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

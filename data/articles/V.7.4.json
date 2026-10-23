@@ -1,0 +1,167 @@
+{
+  "id": "V.7.4",
+  "title": "The Northern Frontier, Fortification, Settlement, and Accommodation with Liao",
+  "kicker": "GORYEO · KHITAN WAR AND FRONTIER",
+  "description": "Original source-critical study of the northern frontier, fortification, settlement, and accommodation with liao, emphasizing campaign sources, frontier settlements and diplomacy after war.",
+  "release": "AH",
+  "sourceStatus": "NIKH source contextual anchors; no independent historical review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Khitan diplomatic relations and 1010/1018 campaigns",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0090",
+      "role": "Distinguishes wars in 993, 1010, 1018–19 and century-long diplomatic relations after 1019"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Battle of Gwiju, 1019",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_i200400",
+      "role": "Specialist narrative of retreat, command, campaign and numerical source criticism"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Seo Hui and first Liao confrontation",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_048_0020",
+      "role": "Primary-source context for eastern Yalu settlements and frontier contacts"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jurchen and eastern northern fortress construction",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0060",
+      "role": "Contrasts later eastern frontier fortification and local frontier communities"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Song relations and 1071 restoration",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0080",
+      "role": "Trade and diplomacy continued or resumed after shifting Goryeo–Liao obligations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.7.4:b01",
+      "title": "The frontier was a lived region",
+      "paragraphs": [
+        "The northern boundary between Goryeo and Liao involved rivers, forts, settlements and communities whose relationships to powerful courts changed across time. A modern line on a map is useful only if dated and qualified. Some areas were more closely administered, while others depended on recognition from local Jurchen leaders or on defensible corridors. The settlement after 993 and renewed wars changed the conditions under which Goryeo could establish effective control. A fortress marked investment and military presence but did not necessarily mean every field in its claimed hinterland was surveyed regularly. Frontier policy was a continuing task rather than an achievement completed by a royal declaration."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH annotated Goryeo–Liao diplomatic relations and postwar recovery"
+        }
+      ]
+    },
+    {
+      "id": "V.7.4:b02",
+      "title": "Ganggdong counties and administrative consolidation",
+      "paragraphs": [
+        "The six counties associated with Seo Hui's negotiations helped organize a strategically important region east of the lower Yalu. Names and jurisdictions should be interpreted against the relevant chronology, as a locality might be renamed or reorganized in later records. Construction and staffing required supplies, garrison rotation and cooperation from inhabitants. The recognition of Goryeo authority in diplomacy mattered, but actual security depended on sustained defenses. Local Jurchen residents were not merely empty space between empires; they could bargain, resist or join new arrangements. A source-critical history asks how border institutions functioned on the ground rather than attributing every later settlement to the personal skill of one negotiator."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.7.4:b03",
+      "title": "The meaning of a defended road",
+      "paragraphs": [
+        "Routes through the northern region carried soldiers, tax grain, official messages and people traveling for exchange. Protecting them required knowledge of passes and river crossings, while seasonal weather shaped movement. A stronghold at an important junction could make a border more defensible than a nominal claim to a large but inaccessible area. We lack complete traffic counts or garrison supply schedules for every decade. Archaeological traces of road surfaces and fortifications may illuminate local infrastructure, though dating and continued reuse complicate interpretation. Border defense was therefore an arrangement of connected institutions rather than a continuous wall whose effectiveness was uniform everywhere."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH Seo Hui frontier agreement and six Ganggdong counties"
+        }
+      ]
+    },
+    {
+      "id": "V.7.4:b04",
+      "title": "The walls of Gaegyeong and northern fortification",
+      "paragraphs": [
+        "The experience of the Khitan invasions encouraged Goryeo to strengthen defenses including works around its capital and the northern frontier. Conventional histories emphasize the walls of Gaegyeong and the Cheolli Jangseong, but the latter should not be imagined as an unbroken modern concrete barrier. Defensive facilities varied by location, construction period and logistical function. Later maps sometimes depict an overly neat line. Goryeo invested considerable labor in fortifications because conquest required access to settlements and roads, not merely battlefield victories. The physical work reveals priorities of state security while leaving many specific workers unnamed in royal accounts."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.7.4:b05",
+      "title": "Jurchen as neighbors, not a blank buffer",
+      "paragraphs": [
+        "Jurchen communities inhabited parts of the broader frontier region and maintained relations with Goryeo and Liao. Some accepted titles or gifts, others aligned differently or contested access to routes. Court records often describe their actions through the diplomatic vocabulary of submission and tribute, which cannot be converted automatically into direct local administration by one state. Jurchen autonomy and political differentiation were consequential to frontier stability. Later Wanyan expansion demonstrates the ability of such communities to reorganize regional power. Historical reconstruction should retain their agency and avoid treating the space between two established capitals as an uninhabited military corridor."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH Song diplomacy and shifting formal recognition"
+        }
+      ]
+    },
+    {
+      "id": "V.7.4:b06",
+      "title": "Exchange as part of border management",
+      "paragraphs": [
+        "Goods, livestock and everyday necessities moved through networks involving border settlements, guards and neighboring communities. Trade could help stabilize relations while making some commanders or intermediaries economically influential. The court might regulate particular crossings or reception practices, yet no complete series of private transactions survives. A period of formal diplomatic stability did not mean the disappearance of local disputes. Nor does the presence of exchange prove that armed conflicts ceased. Goryeo's northern policy required both deterrence and practical incentives for neighboring groups to maintain contact. The social history of border life is broader than a list of raids and embassies."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.7.4:b07",
+      "title": "The post-1019 diplomatic order",
+      "paragraphs": [
+        "After Gwiju, Goryeo and Liao rebuilt regular ties. NIKH's interpretation of a 1114 source describes a relationship lasting until 1125, with periodic difficulties but substantial diplomatic stability. Formal envoy traffic could involve claims about rank and reciprocal expectations that differed from domestic administrative control. A ceremonial gift might publicly signal hierarchy while offering tangible resources or recognition. Such arrangements did not erase Goryeo's interest in Song culture or its concern about Jurchen developments. The ability to maintain an equilibrium among these interests was a political accomplishment built on previous resistance, not an absence of further interaction."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH 1019 Gwiju campaign narrative and attribution of troop claims"
+        }
+      ]
+    },
+    {
+      "id": "V.7.4:b08",
+      "title": "The cost of permanent readiness",
+      "paragraphs": [
+        "Maintaining garrisons required stores, weapons, horses and people able to repair roads and walls. These obligations fell unevenly across frontier households and districts. The record tends to praise large-scale construction more readily than it measures annual maintenance costs or lost farm labor. A fortress that was impressive when new could become ineffective without provisions and staffing. Economically, border security meant redistributing resources from productive communities toward strategic positions. This helps explain why rulers could not simply build unlimited defenses regardless of political need. The material cost of security shaped the feasibility of frontier expansion and the willingness of elites to support it."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.7.4:b09",
+      "title": "Changing danger by the early twelfth century",
+      "paragraphs": [
+        "For much of the eleventh century Liao remained the major northern empire, but the growth of Wanyan Jurchen power altered the strategic situation. A fortress system built to manage one relationship did not automatically address new alliances and military tactics. Goryeo faced conflicts involving Jurchen groups before the founding of Jin in 1115. Those developments show why border policy could not rely solely on precedents from the Khitan wars. Northern defense and diplomacy had to adapt to the changing organization of communities outside direct Goryeo jurisdiction. V.7.5 examines that transformation through the Byeolmuban and the Nine Fortresses."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH Jurchen frontier geography and later fortress developments"
+        }
+      ]
+    },
+    {
+      "id": "V.7.4:b10",
+      "title": "Frontier institutions were historical relationships",
+      "paragraphs": [
+        "The northern frontier was formed through fortifications, administrative settlements, defended corridors and negotiated contact with Jurchen and Liao actors. It cannot be reduced either to permanent war or to one fixed border achieved by Seo Hui. This article owns the physical and political structure of the frontier after the Khitan settlements, leaving specific campaign narratives to V.7.2 and V.7.3. Its longer history demonstrates that security depended on continual logistical investment and the ability to accommodate neighboring groups whose interests could change. Source criticism demands distinctions among claims in court language, settlement archaeology and the actual reach of orders beyond a fortress gate."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

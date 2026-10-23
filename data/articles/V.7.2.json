@@ -1,0 +1,167 @@
+{
+  "id": "V.7.2",
+  "title": "The First Khitan Invasion and Seo Hui's Diplomacy",
+  "kicker": "GORYEO · PRE-MONGOL EAST ASIAN DIPLOMACY",
+  "description": "Original evidence-conscious analysis of the first khitan invasion and seo hui's diplomacy, comparing transmitted diplomatic texts and changing regional political order.",
+  "release": "AH",
+  "sourceStatus": "Contextual NIKH source anchors; independent specialist peer review not done",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Seo Hui diplomatic negotiations in 993",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_048_0020",
+      "role": "Annotated Goryeosa text and political setting of Liao negotiations and six Ganggdong counties"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Khitan foreign relations and postwar contact",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0090",
+      "role": "Primary-source interpretation of 993, 1010, 1018–19 and later stable envoy relationship to 1125"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Song diplomatic relations",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0080",
+      "role": "Source-based chronology of 962, 993 interruption, 1071 reopening and 1123 envoy observations"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jurchen and northeastern nine fortresses",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0060",
+      "role": "Critical text with fortification sites, Byeolmuban recruitment and 1107–1109 campaigns"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jin foundation and Goryeo accommodation",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0110",
+      "role": "Primary-source analysis of Jurchen diplomatic reversal, 1125 Liao collapse and 1126 court decisions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.7.2:b01",
+      "title": "The 993 invasion in political context",
+      "paragraphs": [
+        "Liao's attack on Goryeo in 993 followed years of rising tension as Khitan forces consolidated influence over Liaodong and the Yalu approaches. Goryeo had established contacts with Song, while Liao sought to control the strategic possibilities of that relationship. A source-based account by NIKH places the invasion in the broader history of regional expansion and frontier interactions involving Jurchen communities. War was not simply a moral punishment of one state by another. It represented efforts to define hierarchy, secure routes and constrain potential enemies. Domestic Goryeo debate over whether to negotiate or surrender territory demonstrates the severity of the perceived threat."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH Goryeosa Seo Hui negotiation annotated primary text"
+        }
+      ]
+    },
+    {
+      "id": "V.7.2:b02",
+      "title": "Seo Hui's mission as a recorded event",
+      "paragraphs": [
+        "The Goryeosa biography of Seo Hui, annotated by NIKH, preserves the account of his negotiations with the Khitan commander Xiao Sunning. The dialogue has often been celebrated as a triumph of national diplomacy. Its historical significance is considerable, but the wording is transmitted through a later compilation and should not be reproduced as an unqualified stenographic transcript. The account depicts arguments about the historical relationship between Goryeo and Goguryeo and the political position of communities between Goryeo and Liao. These claims operated as negotiating instruments with practical implications for recognized territory and diplomatic connection."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.7.2:b03",
+      "title": "The dispute over historical succession",
+      "paragraphs": [
+        "Claims to the legacy of Goguryeo were central to Goryeo's self-understanding and gave Seo Hui language for contesting Liao's position on the northern frontier. Historical inheritance alone, however, did not make Goryeo the effective administrator of all former Goguryeo lands. Jurchen communities occupied important areas near the Yalu and interacted with both powerful states. Negotiation had to address who could establish forts and claim lasting influence. The distinction between genealogical or dynastic legitimacy and actual territorial capacity is crucial. A rhetorical victory becomes historically meaningful when considered alongside subsequent military settlement and fortification."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH Goryeo–Song foreign relations and diplomatic interruptions"
+        }
+      ]
+    },
+    {
+      "id": "V.7.2:b04",
+      "title": "An alliance question with Song",
+      "paragraphs": [
+        "Liao's concern with the Goryeo–Song relationship formed part of a wider strategic calculation, because contact between its rivals could threaten a northern empire engaged in difficult continental politics. Goryeo's decision to accept formal relations with Liao carried diplomatic costs for its previous Song ties. Yet trade and cultural interests could persist through changing official arrangements. No agreement should be portrayed as creating a timeless exclusive alliance comparable to modern treaty organizations. The episode shows that envoys could reshape formal recognition while rulers retained incentives to seek material exchanges elsewhere. The diplomatic bargain must be placed within the conditions facing both parties."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.7.2:b05",
+      "title": "The six eastern Yalu counties",
+      "paragraphs": [
+        "The settlement associated with Seo Hui enabled Goryeo to organize the strategically important territory known as the six Ganggdong counties. Popular retellings sometimes describe them as an instant gift delivered by rhetoric alone. In practice, effective control required the construction and maintenance of fortified settlements, arrangements with local communities and political recognition sufficient to deter immediate attack. NIKH's treatment of the event links negotiation to subsequent territorial consolidation. The precise chronology of individual fortifications matters, as does the changing relationship with local Jurchen groups. Territory was made governable through resources and labor, not simply designated by court protocol."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH rise of Jin and 1126 negotiated tributary framework"
+        }
+      ]
+    },
+    {
+      "id": "V.7.2:b06",
+      "title": "Fortifications as evidence of practical policy",
+      "paragraphs": [
+        "A frontier fortress was a physical commitment: builders, garrisons, food stocks, roads and administrative attention were required. Its location near movement corridors could influence both military defense and economic exchange. An agreement in 993 did not provide an automatically defended line stretching continuously along a modern border. Communities beyond official walls maintained their own interests and could alter allegiances. Archaeological and textual evidence for forts can reveal investment while leaving many garrison routines unknown. Diplomacy created opportunities to build authority, but those opportunities had to be realized by institutions on the ground and could be contested in later crises."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.7.2:b07",
+      "title": "Why the first conflict did not end rivalry",
+      "paragraphs": [
+        "Goryeo's accommodation with Liao did not remove every tension over recognition, domestic succession and diplomatic contacts. The second invasion in 1010 shows that a negotiated frontier did not guarantee permanent peace. States changed rulers and priorities, while local incidents could affect trust. A source-critical interpretation resists the idea that Seo Hui's mission alone resolved the regional order for a century. Its value lies in preventing escalation at one particular crisis and establishing conditions that Goryeo later defended. A diplomatic agreement's durability depends on subsequent implementation and continuing power relations, not simply on the skill of its negotiator."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH Goryeo–Khitan diplomatic history after 993 and post-1019"
+        }
+      ]
+    },
+    {
+      "id": "V.7.2:b08",
+      "title": "The court's internal debate",
+      "paragraphs": [
+        "Before and during the invasion, members of the Goryeo court considered different responses to Liao's demands. A biography focusing on Seo Hui can make his insight appear isolated from a larger field of political deliberation. Other officials faced practical concerns about the ability to sustain war and the cost of surrendering territory. The surviving record gives special prominence to certain actors, not a complete transcript of all council discussion. Understanding those disagreements is important because diplomacy required royal authorization and the mobilization of domestic resources. A negotiated outcome could strengthen a court while exposing vulnerabilities that later enemies might exploit."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.7.2:b09",
+      "title": "Memory of negotiation and military victory",
+      "paragraphs": [
+        "Later Korean histories often foreground Seo Hui's eloquence, turning the 993 encounter into an exemplary lesson in using knowledge and patience against a stronger enemy. Such a memory has civic and educational significance but can oversimplify the military context and frontier communities' agency. Neither the Khitan commander's incentives nor the Goryeo government's administrative work should disappear. Primary-source criticism can acknowledge the value of negotiated settlement without inventing private motives or exact words beyond the transmitted text. The agreement's lasting contribution was to connect diplomatic recognition with a new frontier framework, not to abolish geopolitical conflict."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH frontier, Jurchen and Nine Fortresses source examination"
+        }
+      ]
+    },
+    {
+      "id": "V.7.2:b10",
+      "title": "The significance of the first Khitan settlement",
+      "paragraphs": [
+        "The 993 crisis demonstrates Goryeo's capacity to use diplomacy under military pressure while pursuing an expanded and better defended northern frontier. The record of Seo Hui and Xiao Sunning must be read in the context of Liao–Song rivalry, Jurchen settlements and Goryeo's evolving claims to Goguryeo heritage. This article owns the first invasion and negotiation, whereas V.7.3 covers the renewed wars and V.7.4 the longer frontier arrangements. A responsible account preserves the source's chronology and acknowledges the difference between a later biography's narrated dialogue and the strategic conditions independently supported by several lines of evidence."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

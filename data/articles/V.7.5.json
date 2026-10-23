@@ -1,0 +1,167 @@
+{
+  "id": "V.7.5",
+  "title": "The Jurchen Frontier, Byeolmuban, Yun Gwan, and the Nine Fortresses",
+  "kicker": "GORYEO · JURCHEN FRONTIER AND JIN",
+  "description": "Source-critical investigation of the jurchen frontier, byeolmuban, yun gwan, and the nine fortresses, separating court negotiations, military infrastructure and regional autonomy.",
+  "release": "AH",
+  "sourceStatus": "NIKH contextual references, no external scholarly manuscript approval",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Northeastern nine fortresses and historical source critique",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0060",
+      "role": "Annotated accounts of Wanyan expansion, 1104 defeat, Byeolmuban, 1107 construction and 1109 reversal"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Yun Gwan's establishment of the Nine Fortresses",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_i201250",
+      "role": "Specialist chronology and recognition of geographical controversy over northeastern fortresses"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jin's foundation and relations with Goryeo",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0110",
+      "role": "Primary-text chronology of 1115 Jin foundation, 1125 Liao fall, 1126 Goryeo accommodation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Khitan diplomatic stability",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0090",
+      "role": "Goryeo's continuing northern relations as Jin rose at Liao's expense"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo and Song diplomatic and cultural contact",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0080",
+      "role": "Changing Goryeo–Song relationship amid new Jurchen strength"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.7.5:b01",
+      "title": "Jurchen political change on the northeastern frontier",
+      "paragraphs": [
+        "By the late eleventh century, Wanyan Jurchen leaders were bringing previously distinct communities into more powerful associations. Some groups had established relationships with Goryeo through gifts, titles or loose frontier arrangements; others faced pressure from expanding Wanyan authority. This development made older Goryeo assumptions about local influence increasingly difficult to sustain. A territory whose inhabitants had accepted Goryeo recognition did not necessarily remain under its effective military control when a new regional power emerged. NIKH's annotated Nine Fortresses source describes this changing social and political geography. Jurchen actors pursued their own interests rather than appearing simply as invaders of a fixed border."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH Nine Fortresses primary evidence and Wanyan frontier background"
+        }
+      ]
+    },
+    {
+      "id": "V.7.5:b02",
+      "title": "The defeats around 1104",
+      "paragraphs": [
+        "Goryeo attempted armed intervention as the frontier crisis intensified under King Sukjong. Campaigns involving Im Gan and Yun Gwan suffered setbacks around 1104, exposing weaknesses in the military response to mounted opponents. Later accounts often identify Jurchen cavalry as a particular challenge. The exact tactical details of each encounter require examination of transmitted sources and should not be amplified into invented battlefield formations. Defeat had consequences for court strategy: reliance on ordinary forces appeared insufficient, encouraging discussion of specialized recruitment and training. Military reform developed from a concrete problem of regional conflict and contested frontier authority, not from an abstract desire to modernize."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.7.5:b03",
+      "title": "The Byeolmuban as a varied force",
+      "paragraphs": [
+        "The Byeolmuban organized mounted troops, infantry and Buddhist monastic soldiers, often described through the categories Singigun, Sinbogun and Hangmagun. Its composition drew upon a range of social groups beyond a narrow hereditary warrior elite. NIKH describes broad recruitment and the creation of a force suitable for combined operations in difficult northeastern terrain. These names do not tell us the exact number of people in each formation or their individual conditions of service. The recruitment effort imposed costs through food, horses, equipment and labor time. It also demonstrates the state's capacity to mobilize specialized resources when existing military arrangements encountered an opponent with different strengths."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH Jin foundation 1115, fall of Liao 1125 and 1126 Goryeo recognition"
+        }
+      ]
+    },
+    {
+      "id": "V.7.5:b04",
+      "title": "Yun Gwan and O Yeon-chong's campaign",
+      "paragraphs": [
+        "Goryeo forces under Yun Gwan and O Yeon-chong advanced into northeastern regions in 1107 and established fortified positions. Reports of very large troop numbers should be attributed to their historical source rather than represented as modern audited muster rolls. The campaign involved complex supply lines, local terrain and the political relationships of Jurchen communities who had been incorporated into competing alliances. A battlefield victory could open land for fortification without ensuring that settlers and garrisons could hold it indefinitely. The Nine Fortresses should be understood as a program to make territorial claims durable through infrastructure, not merely as marks on a victorious campaign map."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.7.5:b05",
+      "title": "The Nine Fortresses as more than a count",
+      "paragraphs": [
+        "The designation Northeast Nine Fortresses refers to a set of defended locations established during the campaign and subsequently contested. Historians debate their precise positions; some reconstructions favor the Hamhung area while others extend toward the Tumen region. This is not a trivial cartographic question, because different locations imply different logistical burdens and interpretations of Goryeo's territorial ambition. NIKH's historical source collection preserves evidence about settlement and the contested geography. A responsible map should identify alternative scholarly proposals rather than depict one unqualified line. The number nine belongs to the transmitted institutional project, not an invitation to invent precise coordinates for every fortress."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH Song foreign relations within Jin's regional ascendancy"
+        }
+      ]
+    },
+    {
+      "id": "V.7.5:b06",
+      "title": "Settlement as military occupation",
+      "paragraphs": [
+        "Goryeo sought to populate and supply its fortified frontier, using settlement to transform temporary military success into an enduring jurisdiction. That effort depended on productive land, transport, protection and the willingness or coercion of households asked to move. A fortress could be built rapidly relative to the time required to establish a sustainable local economy. Jurchen groups in the area also had homes and resource claims that a Goryeo military map could not erase. The practical costs of maintaining garrisons exposed the difference between military seizure and stable governance. A historian should not assume a newly named administrative district immediately functioned like an established inland county."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.7.5:b07",
+      "title": "The debate over retaining the fortresses",
+      "paragraphs": [
+        "Continuing Jurchen opposition and the difficulty of sustaining a distant military position prompted debate within Goryeo over the value of retaining the Nine Fortresses. Prestige and territorial security favored holding them, while the costs of repeated defense weighed heavily. The surviving record presents the arguments of court figures more clearly than those of all affected frontier residents. Such disagreement is evidence of competing assessments of state capacity, not simply cowardice or lack of patriotism. Political negotiation could become a practical response when military construction could not secure durable authority. A frontier policy's success must be evaluated against its long-term maintenance, not only its initial conquest."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH Yun Gwan 1107 campaign and uncertain Nine Fortresses location"
+        }
+      ]
+    },
+    {
+      "id": "V.7.5:b08",
+      "title": "The withdrawal of 1109",
+      "paragraphs": [
+        "Goryeo relinquished the northeastern fortified project in 1109 following negotiations with Jurchen leaders. Describing the outcome merely as a total defeat would overlook the strategic reasoning and limits of occupation; portraying it as an uncomplicated diplomatic triumph would obscure wasted resources and frustrated ambitions. The episode reveals the vulnerability of a garrison system without sufficient political integration and logistical support. The chronology of building, defending and abandoning the sites should remain separate from the later Wanyan establishment of Jin. Goryeo continued to face Jurchen power even after leaving the Nine Fortresses, and the regional order changed further in the following decade."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.7.5:b09",
+      "title": "Labor, settlement and human cost",
+      "paragraphs": [
+        "The campaign and fortification project drew upon soldiers, artisans, transport workers, farmers and religious personnel whose names are largely absent from the sources. Houses might have been relocated or supplies diverted from other regions, imposing costs that a royal chronicle rarely measures. Jurchen communities experienced military intrusion and competition over their own productive landscapes, not an empty frontier awaiting administration. Material and textual records permit identification of institutions and conflicts but seldom an exact casualty or migration count. Writing about the Nine Fortresses as a shared human history does not require inventing individual voices; it requires acknowledging whose resources supported the project and whose choices shaped its outcome."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Specialist historical text anchors the institutional chronology while location debates and retrospective campaign numbers remain explicitly qualified.",
+          "locator": "NIKH pre-1125 Goryeo–Liao diplomatic relationship"
+        }
+      ]
+    },
+    {
+      "id": "V.7.5:b10",
+      "title": "A reform measured by limits as well as ambition",
+      "paragraphs": [
+        "The Byeolmuban and Yun Gwan's campaign demonstrate Goryeo's capacity to innovate militarily and pursue territorial objectives under pressure. The subsequent withdrawal reveals the limits of that capacity when confronting organized Jurchen resistance and difficult logistics. This article owns the northeastern crisis and Nine Fortresses, distinct from V.7.4's enduring Liao frontier and V.7.6's rise of Jin as a recognized state. The chronological sequence of 1104 setbacks, 1107 advance and 1109 relinquishment should guide interpretation. Its lesson is not that fortifications were meaningless, but that frontier power required long-term social and political support beyond a successful march."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

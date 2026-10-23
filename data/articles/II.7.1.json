@@ -1,0 +1,167 @@
+{
+  "id": "II.7.1",
+  "title": "Jinhan in the Samhan World",
+  "kicker": "JINHAN · SARO AND EARLY SILLA",
+  "description": "Source-critical history of jinhan in the samhan world, distinguishing early external descriptions from later royal narrative and dated archaeology.",
+  "release": "AH",
+  "sourceStatus": "Contextual specialist sources, no independent manuscript peer review",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samhan: Jinhan, Byeonhan and Mahan source history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026922",
+      "role": "Explains Sanguozhi third-century attestation of twelve Jinhan polities and problems of reconstructing their geography"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro-guk",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025526",
+      "role": "Specialist study of Saro as a Jinhan polity and later dynastic foundation retrospection"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Foundation of Silla and integration of Saro-guk",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101210",
+      "role": "Critical chronology of Saro consolidation, third-century external naming and fourth-century kingdom transformation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Geungi-guk and location debate in Jinhan",
+      "url": "https://encykorea.aks.ac.kr/Article/E0007393",
+      "role": "Demonstrates why named Jinhan polities cannot be assigned single uncontested modern district locations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Horo-guk: phonetics and uncertain settlement localization",
+      "url": "https://encykorea.aks.ac.kr/Article/E0063741",
+      "role": "Evidence limits of interpreting Chinese-character transcriptions as exact indigenous names and boundaries"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.7.1:b01",
+      "title": "The Jinhan category in an external archive",
+      "paragraphs": [
+        "Jinhan is known principally through Chinese historical writing that categorized the communities of the southeastern Korean peninsula within the broader Samhan world. The third-century Sanguozhi chapter on Eastern Yi peoples supplies a list of polities and customs, but it is not a constitution issued by a Jinhan federation. Its authors arranged information for readers concerned with frontier diplomacy and political geography. Modern researchers can use these notices to establish that distinctive communities existed, while resisting the temptation to draw one fixed national boundary around them. The category connects places whose relationships likely varied across generations and whose own names for those relationships were seldom recorded."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "AKS Samhan and third-century Jinhan polity lists"
+        }
+      ]
+    },
+    {
+      "id": "II.7.1:b02",
+      "title": "Twelve polities and the problem of names",
+      "paragraphs": [
+        "The customary count of twelve Jinhan polities comes from transmitted descriptions that also distinguish twelve Byeonhan groups. Their lists were recorded with Chinese characters chosen to approximate sounds or convey identifications intelligible to the compilers. Such spellings do not make every polity's name or capital straightforwardly recoverable in modern Korean. The Academy of Korean Studies entries on Horo-guk and Geungi-guk demonstrate how several plausible location proposals can coexist. An apparent resemblance between an ancient name and a later district is evidence to evaluate, not proof of continuous settlement under identical jurisdiction. A list captures a moment of outsider knowledge rather than a permanent map."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.7.1:b03",
+      "title": "The Samhan framework and local diversity",
+      "paragraphs": [
+        "Mahan, Jinhan and Byeonhan are convenient comparative terms, but they do not imply identical economies, institutions or speech communities within each grouping. The eastern inland basins and coast provided different resources from western peninsular plains. Communities linked to the Gyeongju area could acquire prominence while others maintained independent political relationships. The Sanguozhi notices may describe shared customs through generalization, rather than observations of every listed settlement. Archaeological finds of pottery, ironworking and domestic buildings help detect local variation independent of the text. Such material differences cannot be assigned automatically to a stable ethnic division among three sharply bounded peoples."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "NIKH Saro expansion and fourth-century Silla transformation"
+        }
+      ]
+    },
+    {
+      "id": "II.7.1:b04",
+      "title": "Saro among neighboring communities",
+      "paragraphs": [
+        "Saro-guk appears in the Jinhan lists, establishing an early external reference to a political center associated with the later history of Silla. The subsequent expansion of Saro does not mean it was already the ruler of all Jinhan when an outside author recorded its name. Scholars reconstruct a gradual accumulation of prestige, economic capacity and military alliances. Nearby groups could trade with Saro, contest access to routes or recognize a powerful house temporarily without surrendering all local institutions. This distinction matters because dynastic histories written much later organize Jinhan's past around the kingdom that eventually survived. The contemporary picture was a more plural landscape."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.7.1:b05",
+      "title": "Chinese commanderies as indirect observers",
+      "paragraphs": [
+        "Relations with Lelang and Daifang created opportunities for officials to hear about eastern peninsular communities. What entered written reports may have been filtered through intermediaries, traders or leaders who presented themselves as legitimate representatives. A person named in a continental document need not have exercised uniform authority over every settlement assigned to a group. Goods moving through commandery networks can attest connections without proving that the receiving district was under direct foreign administration. The Jinhan account requires comparative attention to the commanderies' changing political interests, but their complete history belongs to II.3. Here their importance is chiefly as sources and conduits of external contact."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "AKS Horo-guk transcription and locality uncertainty"
+        }
+      ]
+    },
+    {
+      "id": "II.7.1:b06",
+      "title": "Archaeological evidence beyond the polity list",
+      "paragraphs": [
+        "Excavation of houses, graves, kilns and fortifications permits analysis of how communities lived and invested resources across different sites. A cemetery with exceptionally rich objects may signal concentrated prestige, but does not tell us that its occupant was the king of a specifically named Jinhan polity. Ceramic typologies and radiocarbon determinations can clarify chronology while still leaving political attribution open. Distribution maps are affected by modern excavation and rescue archaeology, so unexcavated areas cannot be assumed empty. The archaeological archive is necessary because it records practices neglected by foreign historians, yet it does not mechanically complete every gap in the textual polity list."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.7.1:b07",
+      "title": "The linguistic origin story as a question",
+      "paragraphs": [
+        "Some Chinese accounts connect Jinhan with people who claimed earlier migration from Qin or other continental settings. That language should be treated as a transmitted explanation of origin rather than a verified demographic census. Later writers could understand communities through familiar names and perceived similarities, while local residents might use genealogy to claim prestige or historical association. An isolated sound resemblance does not establish that all Jinhan inhabitants spoke one identifiable imported language. Archaeology may demonstrate contact and movement without confirming the ethnic identity of every participant. Ethnogenesis must be examined critically, with origin narratives distinguished from observable demographic processes."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "AKS Saro-guk historical and external textual evidence"
+        }
+      ]
+    },
+    {
+      "id": "II.7.1:b08",
+      "title": "Exchange and political association",
+      "paragraphs": [
+        "The eastern peninsula was crossed by valley routes, coastal connections and networks that carried iron, agricultural produce, textiles and crafted objects. Participation in trade might make some settlements more prosperous or politically influential, but it need not generate one unified central government. Meetings between leaders, marriage ties or mutual defense arrangements could change without leaving formal documentation. Comparative models of federation are useful only when presented as questions rather than claims of a precisely defined assembly. Jinhan's historical importance lies in a milieu where communities could cooperate and compete as Saro became prominent. Their agency should not disappear behind the later state's succession list."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.7.1:b09",
+      "title": "Later chronicle layers",
+      "paragraphs": [
+        "Samguk sagi was completed in the twelfth century and supplies detailed foundation and early reign narratives for Silla. Its account cannot be discarded, but neither can its earliest dates be treated as if they were contemporaneous Jinhan inscriptions. The conventional 57 BCE accession of Hyeokgeose is valuable evidence for received royal chronology and historical memory. External third-century lists give a different evidentiary horizon. Comparing these materials calls for attention to each writer's audience, dynastic interests and missing earlier sources. Apparent harmony between a founder story and a modern settlement name does not by itself validate the story's sequence of events."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "AKS Geungi-guk competing southeastern location hypotheses"
+        }
+      ]
+    },
+    {
+      "id": "II.7.1:b10",
+      "title": "Jinhan as a historical problem",
+      "paragraphs": [
+        "Jinhan designates a plural political world from which Saro and eventually Silla became prominent, but its sources are not complete enough to reconstruct every community's institutions or map all borders. This article owns the definition and documentary evidence of Jinhan; II.7.3 investigates local political organization, and II.7.4 studies Saro specifically. Mahan's counterpart belongs to II.6, while later Silla kingship and territorial government belong to Part III. A credible synthesis states what outside texts recorded, tests those reports against material evidence and protects the distinct histories of communities that did not become dynastic centers. The formation of Silla was one outcome of their interactions, not an inevitable starting condition."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
