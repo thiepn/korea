@@ -1,0 +1,167 @@
+{
+  "id": "II.6.6",
+  "title": "Baekje Foundation Traditions",
+  "kicker": "MAHAN · SOCIETY, RITUAL AND ORIGINS",
+  "description": "Original historical synthesis of baekje foundation traditions based on external narratives, excavation and source criticism.",
+  "release": "AG",
+  "sourceStatus": "Institutional source context only; independent archaeology peer review not performed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk historical account",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Critical primary-source readings of Mahan leadership and the Baekje transition"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje foundation and development",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Source-critical distinction between early Baekje material remains and retrospective dynastic narration"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Archaeological transition from Mahan to Baekje, Chungju",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Local archaeological study of households, iron production, settlement sequences and changing affiliations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River environments and early Baekje",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Site geography and debates over early royal centers and fortifications"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Chronological control: UNESCO's eight inscribed sites primarily evidence 475–660, not all early Mahan practice"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.6:b01",
+      "title": "Onjo and the retrospective founding chronology",
+      "paragraphs": [
+        "Samguk sagi presents Onjo as Baekje's founder and assigns his accession to 18 BCE, embedding the kingdom's beginning in a narrative of migration and royal genealogy. This source was compiled many centuries after the events it describes. Its founding year is important for traditional chronology and later political memory, but it is not independently confirmed by a contemporary inscription dated to Onjo's alleged reign. Historical writing should explain why the story mattered rather than either repeat it as eyewitness reportage or dismiss it as meaningless. The emergence of Baekje-guk was a process that can be studied through both earlier textual horizons and archaeology."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "NIKH Baekje and Mokji formation textual comparison"
+        }
+      ]
+    },
+    {
+      "id": "II.6.6:b02",
+      "title": "Relations to Goguryeo in origin stories",
+      "paragraphs": [
+        "Baekje traditions connect its founders with northern royal histories associated with Goguryeo and Jumong. Such connections helped establish a dynastic pedigree in a world where descent could authorize rule. They also demonstrate that later writers imagined early Korean polities through relationships of kinship and migration. The precise historicity of individual journeys is difficult to verify. One should not convert an origin story directly into a mass migration estimate, nor assume its variants all describe distinct factual expeditions. Comparison of narratives can disclose changing claims of legitimacy even when the movements and identities of actual early settlers are incompletely recorded."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.6:b03",
+      "title": "Brothers, rival claimants and choice of settlement",
+      "paragraphs": [
+        "Variants featuring Biryu and Onjo distinguish alternative destinations and outcomes in the establishment of royal centers. The plot provides a moral and political account of successful leadership and geographical choice. It cannot itself identify the excavated foundation layer of a particular Han River settlement. A location in a story may reflect later knowledge of regional geography or competing ancestral claims. Archaeologists must independently date fortifications and domestic structures rather than use the narrative as a label for any matching place. The importance of the variants lies partly in revealing how historical communities remembered rivalry, settlement and the right to inherit a kingdom."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "KCI Chungju Mahan–Baekje archaeological sequence"
+        }
+      ]
+    },
+    {
+      "id": "II.6.6:b04",
+      "title": "The name Wiryeseong in the narrative",
+      "paragraphs": [
+        "Wiryeseong is central to traditions of Baekje's early capital, but matching the name to a particular archaeological site is disputed. Both Pungnaptoseong and Mongchontoseong feature prominently in interpretations of the Hanseong landscape, although their construction phases and functions differed. The Academy of Korean Studies' Han River discussion treats the physical landscape as an essential control on textual claims. Even a strong case for one site would not make every action assigned to an early founder contemporary fact. Site naming and period dating are different analytical problems. Archaeological evidence can establish the scale of early urban development without identifying every palace audience described in medieval annals."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.6:b05",
+      "title": "Mahan's place in the Baekje story",
+      "paragraphs": [
+        "The received account portrays Onjo's state as establishing relations with Mahan and later bringing Mahan territory under control. NIKH scholarship cautions that passages describing Mahan as a single opponent may reflect the Mokji-centered coalition or particular groups rather than the whole region. A first-century founder-era conquest cannot simply stand for the extended transformation documented in later archaeological sequences. The narrative may preserve memories of conflict while compressing many local relationships into one dynastic episode. The historian should explain that compression. Mahan communities were actors in the formation of Baekje, not an anonymous background instantly removed when the founder crossed a river."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "UNESCO later Baekje chronology, distinguished from early Mahan evidence"
+        }
+      ]
+    },
+    {
+      "id": "II.6.6:b06",
+      "title": "Genealogy as a tool of later royal authority",
+      "paragraphs": [
+        "Founder descent linked a dynasty's rulers to prestige extending beyond the achievements of living kings. Genealogical traditions could be repeated or revised during periods of succession conflict, foreign diplomacy or historical compilation. We cannot always reconstruct which version circulated at a particular early Baekje court. Later authors might reconcile competing stories according to their own political and literary priorities. An official annal sequence presents an orderly line where regional political development could have been more fragmented. Recognizing this does not deny the existence of early ruling families. It distinguishes demonstrable political institutions from the specific origin tale that later generations used to justify them."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.6:b07",
+      "title": "Archaeology and the absence of a founding signature",
+      "paragraphs": [
+        "No excavated structure reliably bears a label identifying it as the moment of Baekje's creation in 18 BCE. Early ceramic distributions and burial forms may show population connections and shifts in settlement, but they rarely yield precise biographies. Evidence from the lower Han basin supports a complex trajectory of settlement growth and defensive investment. It should not be forced to confirm the literal sequence of Onjo's annals. Conversely, a discrepancy between archaeology and a transmitted founder date does not imply that all elements of memory were invented at one time. Critical evaluation works claim by claim rather than accepting or rejecting a whole tradition wholesale."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "NIKH early Baekje excavation and historical narrative"
+        }
+      ]
+    },
+    {
+      "id": "II.6.6:b08",
+      "title": "The language of sacred kingship",
+      "paragraphs": [
+        "Founding stories often combine dynastic legitimacy, exceptional ancestry and the placement of a royal center in meaningful geography. Those are significant features of political imagination. A tale of divinely sanctioned rule may describe the values of the audience preserving it more clearly than the actual institutions of the first century BCE. Historians can study its literary structure and relationships to other northeast Asian foundation narratives while avoiding assumptions of one original and unchanging religious practice. A court's eventual sponsorship of Buddhism or Confucian learning should not be projected into the founder story's earliest supposed setting without specific evidence."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.6:b09",
+      "title": "Memory in the formation of historical identity",
+      "paragraphs": [
+        "The fact that Baekje later developed into a major state made its origin stories especially influential. Later compilers organized the early western peninsular past around a kingdom whose subsequent institutions were well known. Other Mahan communities received less narrative attention, creating an imbalance between the memory of winners and the archaeological plurality of earlier society. A chapter about beginnings should restore that context. The story is part of the history of Baekje identity even if it cannot supply a contemporary diary of the foundation. Its interpretation benefits from comparison with the earlier documented Baekje-guk horizon and the chronology of material sites."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "AKS Han River archaeological landscape"
+        }
+      ]
+    },
+    {
+      "id": "II.6.6:b10",
+      "title": "Founding as an unfolding historical problem",
+      "paragraphs": [
+        "Baekje's foundation traditions offer evidence of later dynastic self-understanding, not a fully documented act of incorporation dated to one day. The historian can state Onjo's conventional 18 BCE date while distinguishing it from secure third-century textual attestations and dated archaeological development. This article owns narratives of political origin; II.6.7 examines the Han River capital sites, and II.6.8 treats consolidation in its own right. The purpose is not to replace a famous founder with another invented one. It is to examine the formation of a political tradition and the difficult relationship between remembered genealogy and processes visible in material evidence."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
