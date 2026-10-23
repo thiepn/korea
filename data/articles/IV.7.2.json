@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.2",
+  "title": "Silla Ports, Ships, Navigation, and Maritime Routes",
+  "kicker": "MARITIME KOREA · EIGHTH AND NINTH CENTURIES",
+  "description": "Evidence-critical history of silla ports, ships, navigation, and maritime routes, distinguishing commercial movement, diplomatic records and selected travelers' testimony.",
+  "release": "AG",
+  "sourceStatus": "Contextual institutional provenance; independent maritime historian review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla merchants in Tang and ninth-century overseas exchange",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Research synthesis distinguishes Shilla communities and trade with Japan, including 840 embassy restrictions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jang Bogo and Cheonghaejin: coastal power",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_011_0030_0030",
+      "role": "Detailed historical section on naval installation, transregional contacts and late Silla aristocratic politics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Silla communities in Tang China",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032835",
+      "role": "Studies merchant and resident networks described by Japanese monk Ennin"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Cheonghaejin maritime and military center",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056856",
+      "role": "Geographical routes, base foundation in 828 and final abolition in 851"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae historical society and Japanese diplomacy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Comparative East Asian maritime commerce; Balhae missions are distinct from Silla trade arrangements"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.2:b01",
+      "title": "Ports were working landscapes",
+      "paragraphs": [
+        "A port in Unified Silla was not merely an elegant gateway for diplomatic arrivals. It required anchorages, food, water, repair materials and people capable of handling cargo. River mouths and sheltered islands could offer advantages, while shoals and seasonal tides created risk. Identifying every ancient harbor with a modern commercial port would ignore changes in shoreline and settlement. Archaeological evidence of warehouses or imported ceramics may suggest activity, but assigning a precise ninth-century shipping schedule requires texts or more secure material association. Port history is therefore a history of local labor and environmental adaptation as much as of the states and merchants that used maritime routes."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "NIKH Silla merchant and Tang–Japan network study"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.2:b02",
+      "title": "The south-western coastal corridor",
+      "paragraphs": [
+        "The southwestern peninsula and islands around Wando connected the southern coastline with routes leading toward Tang ports and Japan. This geography made the Cheonghaejin area important when Jang Bogo established his military-commercial base in 828. The fact that a location was advantageous does not mean a single ruler controlled all traffic through it. Different anchorages and routes may have been favored according to winds, political conditions and cargo destination. Maritime power required ships and crews capable of exploiting geography, as well as authority over supplies and land-based approaches. A map should show plausible corridors without inventing vessel-specific paths unsupported by sources."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.2:b03",
+      "title": "Shandong and the Yellow Sea crossing",
+      "paragraphs": [
+        "The Shandong peninsula was a major point of contact for travelers from Silla and Japan, with residents and institutions at coastal locations such as Chishan. Direct Yellow Sea crossings were possible, yet the routes of particular missions varied and could include coast-hugging stages, delays or unplanned diversions. Accounts of arrival should be read alongside prevailing weather and known harbors, but not converted into exact GPS-like itineraries. Tang administrative permissions could affect where visitors stayed after landfall. The value of a Shandong anchorage lay partly in its connections to inland market and religious networks, not simply in its position as a destination across the sea."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "AKS Silla diaspora and Ennin's visit account"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.2:b04",
+      "title": "The Korea Strait and Japanese reception",
+      "paragraphs": [
+        "Sea movement between southern Korea and northern Kyushu connected merchants and envoys to the Japanese court system. Tsushima and other islands could be relevant to navigation, although their exact role varied by voyage and period. Japanese official records sometimes note ships and people arriving for diplomacy or trade, but those notices represent encounters visible to administrators rather than all traffic. Reaching a Japanese landing place was not the same as receiving permission to sell goods or enter the capital. These distinctions matter especially for Jang Bogo's agents. Maritime geography and legal geography intersected without forming one permanently open corridor."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.2:b05",
+      "title": "What ship technology can reveal",
+      "paragraphs": [
+        "Evidence for the construction of early Korean vessels is scattered across finds, representations and comparative studies. A surviving hull from another century should not simply be treated as the typical ninth-century trading ship. A boat could be adapted to coastal traffic or longer voyages, with different capacities and risks. The number of travelers in a recorded mission can help suggest scale while telling little about its actual rigging, hull design or cargo. Technical history benefits from precise archaeological provenance and chronology. It is better to leave a vessel's dimensions unknown than to provide a convincing but fabricated specification based on later ship types."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "AKS Balhae foreign diplomacy as a distinct comparative network"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.2:b06",
+      "title": "Seasonality and unavoidable delays",
+      "paragraphs": [
+        "The timing of voyages depended on wind patterns, sea states, navigation knowledge and the ability to provision crews. Buddhist travel accounts contain episodes of waiting and difficulty that reveal these practical constraints. Such experiences should not be assumed identical for every commercial crossing, but they challenge narratives of effortless movement across neatly drawn routes. A merchant could lose market opportunities when weather delayed arrival; an envoy's ceremonial calendar might conflict with safe sailing periods. Shore communities helped travelers acquire information and supplies during interruptions. Maritime timetables were contingent and negotiated, rather than the predictable operations of a modern scheduled ferry network."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.2:b07",
+      "title": "Anchorage and inland transport",
+      "paragraphs": [
+        "Maritime delivery was only one stage of moving goods. From a Tang coastal port, cargo could travel toward canals and inland cities; from a Silla inlet, it might pass by river or land route to buyers and courts. Every transfer required handling, security and relationships with authorities or local intermediaries. A luxury object eventually found far inland does not establish that a sea-going ship reached that precise location. Conversely, overland transport routes could connect communities excluded from coastal sailing. Economic networks were therefore intermodal in practice, even without the modern institutions that term implies. The port served as a connection point rather than an isolated trading island."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "NIKH Jang Bogo and Cheonghaejin monograph section"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.2:b08",
+      "title": "Fortified harbors and security",
+      "paragraphs": [
+        "A coastal fortification could help protect anchorage and storage, but its existence might also enable powerful actors to regulate movement or impose their own demands. The Wando archaeological remains associated with Cheonghaejin demonstrate serious investment in a defended island base, yet the exact military function of every structure requires excavation context. Security was not simply provided by royal command; local sailors and merchants assessed risks and responded to changing armed power. An overly celebratory narrative can obscure the possibility that protection and coercion were linked. Fortified harbors formed part of political geography as well as commercial infrastructure."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.2:b09",
+      "title": "Reading maritime maps critically",
+      "paragraphs": [
+        "Modern reconstructions frequently draw direct lines among Wando, Shandong and Kyushu. These lines are useful orientation devices, but they need not reproduce any single historical voyage. The movement of goods may have involved several stops and different carriers. Coastal shapes and navigable channels changed through sedimentation and human activity, affecting which harbors were usable. Source-critical mapping should mark attested destinations, plausible corridors and speculative links differently. It should also distinguish eighth- from ninth-century arrangements. Without such qualification, a map risks converting historical possibilities into a picture of centrally administered shipping lanes with a precision ancient records cannot supply."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "AKS Cheonghaejin routes and 828 naval installation"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.2:b10",
+      "title": "Movement made through coordinated work",
+      "paragraphs": [
+        "Silla maritime routes depended on port labor, knowledgeable sailors, exchange partners and places for replenishment. The later emergence of Cheonghaejin represented one way to coordinate and defend these relationships, not the invention of navigation itself. This section owns port geography and technical conditions; IV.7.3 follows overseas resident communities, while IV.7.9 discusses the fort's political foundation. The historical evidence establishes vibrant contact but gives no single universal vessel model or fixed travel-time table. A realistic maritime history keeps local economies and physical risk in view alongside the famous merchants whose names appear in court sources."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

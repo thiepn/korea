@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.1",
+  "title": "The East Asian Maritime Economy of the Eighth and Ninth Centuries",
+  "kicker": "MARITIME KOREA · EIGHTH AND NINTH CENTURIES",
+  "description": "Evidence-critical history of the east asian maritime economy of the eighth and ninth centuries, distinguishing commercial movement, diplomatic records and selected travelers' testimony.",
+  "release": "AG",
+  "sourceStatus": "Contextual institutional provenance; independent maritime historian review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla merchants in Tang and ninth-century overseas exchange",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Research synthesis distinguishes Shilla communities and trade with Japan, including 840 embassy restrictions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jang Bogo and Cheonghaejin: coastal power",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_011_0030_0030",
+      "role": "Detailed historical section on naval installation, transregional contacts and late Silla aristocratic politics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Silla communities in Tang China",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032835",
+      "role": "Studies merchant and resident networks described by Japanese monk Ennin"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Cheonghaejin maritime and military center",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056856",
+      "role": "Geographical routes, base foundation in 828 and final abolition in 851"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae historical society and Japanese diplomacy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Comparative East Asian maritime commerce; Balhae missions are distinct from Silla trade arrangements"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.1:b01",
+      "title": "The sea as economic space",
+      "paragraphs": [
+        "The Yellow Sea and Korea Strait linked the Korean peninsula to Tang China and the Japanese archipelago through coasts, islands and river mouths. These were not empty expanses crossed solely by official envoys. Traders, sailors, monks and migrants helped sustain repeated movements of people and goods. Calling the eighth and ninth centuries a maritime economy does not imply that all communities shared one unified commercial market or currency. Routes depended on political permissions, seasons and the capacity of ships and coastal settlements to support travelers. The strongest evidence for some links is documentary, while the experience of ordinary crews is far less visible than the journeys of elites."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "NIKH Silla merchant and Tang–Japan network study"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.1:b02",
+      "title": "Different states, different incentives",
+      "paragraphs": [
+        "Unified Silla, Balhae, Tang and the Japanese court participated in networks for distinct reasons. An embassy could affirm diplomatic status and convey luxury objects, while independent traders sought transactions that a government might monitor or restrict. Balhae's missions to Japan, for example, developed within their own political history and cannot simply be folded into a Silla commercial fleet. Tang's extensive cities and canal systems created destinations for goods and migrants, but access to the coast was not equivalent to unrestricted foreign trade. A regional overview must preserve institutional differences and changes across decades rather than picture one stable open maritime zone."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.1:b03",
+      "title": "The importance of Tang urban networks",
+      "paragraphs": [
+        "Tang cities such as Yangzhou and ports along the Shandong coast offered links between maritime arrivals and inland exchange through canals and roads. Silla merchants could take advantage of communities already familiar with language, transport and administrative expectations. National Institute of Korean History research documents Silla quarters and establishments near Chinese commercial routes during the ninth century. Such concentrations need not represent independent sovereign enclaves. Their occupants lived within Tang political and social structures, sometimes using local forms of association to solve practical problems. Overseas merchant communities were part of the wider Tang economy while maintaining connections with the peninsula."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "AKS Silla diaspora and Ennin's visit account"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.1:b04",
+      "title": "Japan as destination and participant",
+      "paragraphs": [
+        "Japanese government records preserve episodes involving diplomatic reception and commercial requests from Silla-connected traders. These texts are especially useful where they record a disagreement about whether a private representative could be recognized as an official envoy. Such a distinction demonstrates that foreign commerce operated inside legal and ceremonial limits. The absence of a formal welcome did not necessarily mean goods could not be sold. Japanese buyers, Buddhist institutions and officials participated in exchange while seeking to regulate its effects. Later trade narratives should not be projected uncritically onto the earlier eighth century, when the balance between diplomatic missions and merchant activity could differ."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.1:b05",
+      "title": "Goods in motion and the problem of value",
+      "paragraphs": [
+        "Textiles, metals, medicines, books, religious objects and luxury products circulated in this world, but no complete eight- or ninth-century price series reveals their value at each port. A prestigious import at a royal court may have been obtained through tribute, exchange or redistribution after an earlier transaction. Archaeological objects establish presence and sometimes origin, not the identities of every intermediary. Their meaning also changed after arrival: a vessel might become ceremonial property rather than remain an item of sale. Economic explanation requires following material, political and social functions without equating the presence of foreign goods with unlimited market integration."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "AKS Balhae foreign diplomacy as a distinct comparative network"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.1:b06",
+      "title": "Navigation required many skills",
+      "paragraphs": [
+        "Sailing across the Yellow Sea or along the Korea Strait required knowledge of currents, winds, coastal landforms and safe anchorages. Recorded shipwrecks and unintended landings demonstrate that routes could be hazardous. The existence of a trade connection does not identify the exact track sailed by every vessel. Marine archaeology can reveal construction techniques where hulls survive, while texts describe particular journeys selected by their authors. Weather placed practical limits on both private entrepreneurs and imperial envoys. Local fishers and experienced mariners possessed expertise scarcely captured by chronicles that usually name patrons or ambassadors. Shipping capacity was a social achievement, not a line drawn on a modern map."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.1:b07",
+      "title": "Commerce, patronage and religious infrastructure",
+      "paragraphs": [
+        "Religious communities sometimes offered lodging, information and assistance to travelers. Silla establishments in Tang and the Beophwawon at Chishan illustrate how resident networks could connect Buddhist practice with economic and social support. Ennin's travel account is valuable because it records interactions at particular places, but his observations do not cover every trade station or all years of maritime commerce. A temple patron could be a merchant with military and political interests, without making religious observance merely a disguise for business. Hospitality and ritual helped sustain travel in a world where official protection was not guaranteed along every route."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "NIKH Jang Bogo and Cheonghaejin monograph section"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.1:b08",
+      "title": "Risks, coercion and exclusion",
+      "paragraphs": [
+        "Maritime contacts included trade but also threats of raiding, enslavement, forced migration and political conflict. Later accounts associate the foundation of Cheonghaejin with efforts to protect Silla people from maritime predation. Such narratives require source criticism, especially when they present the motives of one renowned leader in heroic terms. Coercion and protection could themselves become grounds for accumulating armed power. Ships depended on crew labor, which is often omitted from accounts celebrating merchants. A balanced economic history examines unequal risk and political control rather than treating the movement of expensive goods as unqualified prosperity for every coastal community."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.1:b09",
+      "title": "The ninth century was not a beginning from nothing",
+      "paragraphs": [
+        "Long-distance exchange across Northeast Asian waters existed before the rise of Jang Bogo. Earlier diplomatic missions, migration and technical circulation created knowledge of coasts and routes. What changed in the ninth century included the visibility and coordination of merchant networks, resident communities and powerful regional commanders. Documentary detail increases around certain persons and places, which can make their era appear exceptionally maritime even when older activity was substantial. Historical assessment should distinguish changes in economic organization from changes in the survival of written sources. The network's dynamism was shaped by accumulated experience as well as contemporary political opportunity."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "AKS Cheonghaejin routes and 828 naval installation"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.1:b10",
+      "title": "A framework for maritime history",
+      "paragraphs": [
+        "The eighth- and ninth-century East Asian economy was composed of overlapping circuits rather than one homogeneous trade system. Silla merchants in Tang, official Balhae embassies, Japanese buyers, Buddhist travelers and maritime soldiers interacted under different obligations and expectations. This article establishes a regional framework, while the following sections examine ports, communities, commodities, insecurity and Cheonghaejin in greater detail. State foreign policy belongs primarily to IV.5, and late-Silla internal political disintegration to IV.8. Maritime history becomes more precise when it explains who could move, which institutions permitted contact, and what evidence can actually establish about exchanges between ports."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

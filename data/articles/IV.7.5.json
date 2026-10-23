@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.5",
+  "title": "Balhae's Maritime Routes to Tang and Japan",
+  "kicker": "MARITIME KOREA · EXCHANGE AND LEARNING",
+  "description": "Source-critical historical synthesis of balhae's maritime routes to tang and japan with differentiated merchant, diplomatic and monastic evidence.",
+  "release": "AG",
+  "sourceStatus": "Institutional contextual anchors; independent historical peer review absent",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla trade networks and Japanese commercial reception",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Analyzes 840 Hoeyeoksa negotiation and difference between court embassy and permitted merchant activity"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hoeyeoksa: merchants sent from Jang Bogo to Japan",
+      "url": "https://encykorea.aks.ac.kr/Article/E0065541",
+      "role": "Institutional account of Jang Bogo's 840 merchant representation, Japan's reception and trading privileges"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae international interactions",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Diplomatic and commercial dimensions of Balhae journeys to Japan, listed products, ports and policy restrictions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Shilla temples and community support abroad",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032849",
+      "role": "Resident temples and Ennin's observations on Chishan religious institutions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Chishan Buddhist rituals recorded by Ennin",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032827",
+      "role": "Detailed 839 travel account for ritual and learning in a Silla-speaking Buddhist center in Tang territory"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.5:b01",
+      "title": "Balhae on a different maritime map",
+      "paragraphs": [
+        "Balhae's connections with Tang and Japan developed through northeastern land and sea routes, and should not be reduced to an appendage of Silla's southern trading system. Its own diplomatic priorities, rulers and products shaped contact. The Academy of Korean Studies describes repeated Balhae missions to Japan, initially important for diplomacy and later carrying extensive commercial and cultural exchanges. Numbers of recorded embassies provide information about official recognition and travel, not a complete count of private merchant voyages. Geographic distance, unfamiliar seas and Japanese reception policy affected the way these missions operated. A comparison with Silla must preserve separate institutions and different patterns of political authority."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "NIKH Japan–Silla merchant reception and 840 Hoeyeoksa evidence"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.5:b02",
+      "title": "Northeastern ports and long crossings",
+      "paragraphs": [
+        "Balhae possessed access to northeastern coastal corridors and inland routes connecting its centers with sea departures. Reconstructions of routes toward Japan often involve crossings of the Sea of Japan or East Sea, with landfalls that could differ according to wind and navigation. The specific course of a voyage should not be asserted without a surviving itinerary. The presence of an envoy at a Japanese coastal province is evidence of successful arrival, but not necessarily of a planned destination. Overland transfer to the Japanese court added further organizational work. Maritime geography influenced diplomacy but did not create a uniform network of secure or regularly scheduled passages."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.5:b03",
+      "title": "Embassies with commercial dimensions",
+      "paragraphs": [
+        "Official Balhae missions could exchange presents and trade goods while engaging in political communication. Japanese commentators sometimes complained that large parties appeared more like traders than diplomatic guests, reflecting concern about the burden of hospitality and the appropriate form of reception. Such criticism reveals a Japanese governmental perspective, not definitive evidence that the Balhae court had abandoned diplomacy. The activities could overlap. A court might use embassy privileges to move goods, while individual participants pursued private advantage. Historical explanation should distinguish formal status from economic behavior instead of assigning all participants to one modern category."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS Balhae embassies, imported goods and Japanese restrictions"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.5:b04",
+      "title": "Products recorded in Japanese accounts",
+      "paragraphs": [
+        "Balhae exported goods associated with northern environments, including animal furs, medicinal roots, honey and other valuable materials. The Academy of Korean Studies also lists objects that had originated in wider exchange networks rather than being produced locally by Balhae households. An exotic item carried on a mission need not have been made in Balhae. Japanese returns included textiles and other prestige products. The reported lists show demand and access, but they do not give reliable total trade values or prove identical cargoes for each voyage. Commodity origins and movement must be traced independently when possible. Balhae was connected to a wider northeast Asian economy."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.5:b05",
+      "title": "The conditions of Japanese reception",
+      "paragraphs": [
+        "Japanese authorities attempted to manage how frequently Balhae could send visitors and to regulate private commercial activity. Such measures make sense in the context of the costs imposed by large embassies and the concerns of court ceremonial order. A recorded restriction is not proof that contact stopped or that every private transaction was prevented. Officials could welcome prestigious travelers while contesting the size or timing of their delegations. The different purposes of host and visitor made negotiation necessary. The archive preserves formal decisions more fully than the private arrangements through which goods may have continued to circulate."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS 839 Ennin account of Chishan Silla Buddhist ritual"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.5:b06",
+      "title": "A documented hazardous crossing in 786",
+      "paragraphs": [
+        "The voyage of the Balhae representative Yi Won-tae in 786 is remembered for its difficult arrival and casualties after drifting toward the northern Japanese coast. The Academy of Korean Studies recounts the loss of participants and the need for Japanese assistance to obtain return transport. This is a specific documented episode, not an average accident rate for Balhae voyages. It demonstrates that political status could not shield travelers from weather and navigational uncertainty. The aftermath also illustrates the practical role of Japanese local officials beyond ceremonial reception in the capital. Maritime history must preserve both individual disasters and their limited representativeness."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.5:b07",
+      "title": "Cultural contact through court encounters",
+      "paragraphs": [
+        "Balhae envoys took part in literary and ceremonial interactions with Japanese elites, including exchanges of poetry and performances noted in some records. Those activities demonstrate learned skills among particular representatives and interests at the receiving court. They do not establish high literacy throughout Balhae or one uniform culture among its diverse populations. Texts recorded in Japanese sources may have been selected because they suited court ideals. Historians should study who was able to participate and which documents survive, keeping cultural representation distinct from household everyday life. The connection between trade and literary diplomacy made some envoys especially visible in a foreign archive."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS Jang Bogo Hoeyeoksa agent and Japanese administrative record"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.5:b08",
+      "title": "Balhae and Tang were not merely a sea route",
+      "paragraphs": [
+        "Much of Balhae's contact with Tang China involved continental corridors and official relationships in addition to the maritime passages of the northeast. A claim that Balhae's entire foreign economy depended on oceanic trade would disregard its inland geography. Products brought to a port could originate far away, crossing several communities before embarkation. The relationship between coastal exchange and political centers remained mediated through transport and administrative control. Silla-associated merchants used a different set of southern sea and canal connections. Juxtaposing the two makes the variety of northeastern East Asian mobility clearer without implying that their networks never intersected."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.5:b09",
+      "title": "Reconstructing the number of missions",
+      "paragraphs": [
+        "The Academy of Korean Studies reports thirty-five Balhae missions to Japan and thirteen journeys in the opposite direction across the broader historical relationship. Such totals depend on surviving official records and definitions of a formal embassy. They should not be presented as a count of every ship or merchant journey. Records may contain uncertainty about canceled departures or groups that reached an unexpected coast. Quantification is useful only when its scope is stated. Political and commercial motives also changed through the eighth and ninth centuries, so a lifetime total cannot establish constant relations from one reign to another."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS Silla religious lodging abroad and Beophwawon history"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.5:b10",
+      "title": "A northern maritime history in its own right",
+      "paragraphs": [
+        "Balhae's sea contacts with Japan and Tang formed part of a diversified northeastern political world. Its embassies carried diplomatic claims, culturally significant performances and economically desirable goods, while risking difficult voyages and contested reception. This section owns the maritime dimensions of Balhae's external relations, not its complete dynastic development in IV.5 or population history in IV.6. Comparison with Silla is productive only when the differences of geography, institutional form and source survival remain clear. The network shows both connectivity and uneven control, with foreign court records providing valuable but selective views of the travelers whose journeys they describe."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

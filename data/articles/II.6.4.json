@@ -1,0 +1,167 @@
+{
+  "id": "II.6.4",
+  "title": "Mahan Society, Agriculture, and Everyday Life",
+  "kicker": "MAHAN · SOCIETY, RITUAL AND ORIGINS",
+  "description": "Original historical synthesis of mahan society, agriculture, and everyday life based on external narratives, excavation and source criticism.",
+  "release": "AG",
+  "sourceStatus": "Institutional source context only; independent archaeology peer review not performed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk historical account",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Critical primary-source readings of Mahan leadership and the Baekje transition"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje foundation and development",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Source-critical distinction between early Baekje material remains and retrospective dynastic narration"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Archaeological transition from Mahan to Baekje, Chungju",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Local archaeological study of households, iron production, settlement sequences and changing affiliations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River environments and early Baekje",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Site geography and debates over early royal centers and fortifications"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Chronological control: UNESCO's eight inscribed sites primarily evidence 475–660, not all early Mahan practice"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.4:b01",
+      "title": "Subsistence beyond a single crop",
+      "paragraphs": [
+        "The economy of Mahan communities rested on locally varied combinations of cultivation, animal keeping, gathering, fishing and exchange. Chinese accounts recognize agriculture in the Samhan world, but cannot specify each village's annual diet or harvest. Archaeobotanical seeds and farming implements can identify crops and techniques at excavated sites when securely dated. Their absence elsewhere may reflect poor preservation rather than nonuse. Farmers responded to soils, rainfall and access to water in ways different between the Han basin and southern coastal valleys. An aggregate description of Mahan as agricultural is useful only if it leaves room for these particular ecologies and the changing organization of work."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "NIKH Baekje and Mokji formation textual comparison"
+        }
+      ]
+    },
+    {
+      "id": "II.6.4:b02",
+      "title": "Houses as evidence of lived society",
+      "paragraphs": [
+        "Excavated dwellings reveal hearths, storage arrangements and patterns of domestic activity even where no inhabitant is named in a historical text. A house's dimensions alone do not establish a fixed number of residents, their kinship or the wealth of every occupant. Floors and pits may represent rebuilding phases rather than simultaneous households. Work inside domestic spaces included preparing food, repairing tools and maintaining clothing, but particular social roles require more evidence than modern assumptions about gender. Studying varied homes draws attention to a majority of people absent from the accounts of named Mahan polities. Political change depended on the continued labor of such households."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.4:b03",
+      "title": "Food storage, risk and social ties",
+      "paragraphs": [
+        "Stored grain supported planting and subsistence when the next harvest had not yet arrived. Pits, containers and elevated structures may indicate strategies of preservation, though assigning every feature to grain requires archaeological confirmation. Households faced uncertainty from flooding, dry spells, pests and illness, so shared labor and exchange could be important forms of risk management. A prominent settlement might gather some surplus, but a storage concentration does not prove a standardized tax to a named ruler. The economic relationship between households and leading families could vary by community. Historical reconstruction should describe possible functions and the supporting material evidence instead of inventing annual public granary totals."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "KCI Chungju Mahan–Baekje archaeological sequence"
+        }
+      ]
+    },
+    {
+      "id": "II.6.4:b04",
+      "title": "Livestock and working animals",
+      "paragraphs": [
+        "Bones recovered from settlements can show the presence of domestic animals and meat consumption, but the importance of particular species varies across region and time. Animals could supply food, labor or materials, and keeping them required fodder and secure space. A few bones from a disturbed deposit cannot establish the composition of all village herds. Ecological suitability and exchange affected access. The reported customs of the wider Samhan world should be compared with actual site assemblages rather than treated as a complete livestock census. Human investment in animal care was part of household production, even though official historical writing rarely preserves the names or experience of herders."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.4:b05",
+      "title": "Fishing and estuarine livelihoods",
+      "paragraphs": [
+        "Marine and freshwater resources offered alternatives and supplements to farming, especially around western estuaries and southern coasts. Shell deposits, fish remains, hooks or weights may identify activities at specific sites, although the function of a given artifact needs careful study. Tides, seasonal runs and river flow shaped the timing of work. Products could circulate inland, with salt and drying helping preserve some foods, but the extent of exchange cannot be inferred from a solitary seashell. The coastal livelihood was not simply an undeveloped form of farming; it demanded specialized skill. Its contribution to Mahan economies differed among localities."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "UNESCO later Baekje chronology, distinguished from early Mahan evidence"
+        }
+      ]
+    },
+    {
+      "id": "II.6.4:b06",
+      "title": "Artisans within communities",
+      "paragraphs": [
+        "Pottery-making, weaving, woodworking and metalworking required knowledge acquired through repeated work and perhaps taught within households or small groups. A carefully fired pot need not have been produced by an exclusively full-time specialist. Conversely, concentration of furnaces or distinctive standardized wares may suggest more coordinated production in particular places. The social status of artisans is rarely documented. Their products nonetheless linked domestic life, ritual exchange and political display. A leader's wealth might depend on access to skilled making as well as to farmland. Economic history should examine the making and maintenance of ordinary objects rather than focusing only on exceptional ornaments from elite burials."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.4:b07",
+      "title": "Exchange outside formal markets",
+      "paragraphs": [
+        "Communities could obtain resources they did not produce locally through visits, reciprocal gifts and trade along waterways or paths. The archaeological presence of an object from another region attests to movement, not its specific price, merchant or diplomatic terms. We have no surviving comprehensive Mahan market registers. It would be misleading either to claim a fully monetized market system or to deny the possibility of exchange because coins are rare. Different products moved at different scales. Archaeological similarities between river basins may reveal repeated contact while leaving the identities of carriers unknown. The practical work of transport supported social relationships beyond one village."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "NIKH early Baekje excavation and historical narrative"
+        }
+      ]
+    },
+    {
+      "id": "II.6.4:b08",
+      "title": "Households and unequal access",
+      "paragraphs": [
+        "Differences in house size, grave furnishings and access to imported goods can suggest material inequality, but such indicators need date and context. A wealthy burial does not give the ownership history of the deceased's fields. Some households might control productive land or key exchange contacts, while others depended on kin or employers, but exact legal status categories remain uncertain. The problem is not simply absence of written law: the archaeological record also privileges durable and conspicuous deposits. A source-critical account can show differentiation without inventing fixed classes of serfs or standardized tribute obligations across all Mahan groups."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.4:b09",
+      "title": "Women and age within productive communities",
+      "paragraphs": [
+        "Agricultural and craft work involved members of households with different ages and capacities. Surviving materials seldom identify which tasks belonged exclusively to women, men or children, and ethnographic analogies from much later Korea cannot be transferred unchanged. Burials provide some evidence about bodily age and sex where osteological preservation permits, but grave goods are culturally selected and do not translate directly into daily occupation. A social history should acknowledge children's learning, elder knowledge and the importance of care work without inventing individual stories. Household organization changed with marriage, illness and migration. The productive community was a network of relationships, not a single male taxpayer."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "AKS Han River archaeological landscape"
+        }
+      ]
+    },
+    {
+      "id": "II.6.4:b10",
+      "title": "Everyday life amid political formation",
+      "paragraphs": [
+        "Mahan farmers, artisans and fishing households sustained the material world in which leading families negotiated alliances and emerging Baekje institutions expanded. Archaeological sequences may reveal continued pottery styles or settlement practices even when political labels changed. That continuity reminds us that incorporation by a larger polity was not necessarily the elimination of local households. This article owns work, subsistence and ordinary life, while II.6.3 studies political leadership and II.6.5 focuses on ritual and mortuary evidence. A credible narrative does not convert a sparse textual description into a universal peasant routine. It shows multiple forms of production and the considerable uncertainty surrounding their detailed organization."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

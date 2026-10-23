@@ -1,0 +1,167 @@
+{
+  "id": "II.6.9",
+  "title": "Baekje, Lelang, Daifang, and Regional Exchange",
+  "kicker": "MAHAN · BAEKJE EMERGENCE",
+  "description": "Original critical account of baekje, lelang, daifang, and regional exchange, using institutional research and differentiated textual and material evidence.",
+  "release": "AG",
+  "sourceStatus": "Institutional contextual research references; specialist manuscript review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk: reconstruction from texts and sites",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Critically distinguishes early lower Han political activity, archaeological evidence and later Baekje annals"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje's formation and development",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Dating of Baekje expansion, interaction with Mahan and problems of written traditions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River and early Baekje archaeological setting",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Debated identification of Pungnaptoseong, Mongchontoseong and related Han basin sites"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Chungju region Mahan–Baekje archaeological transition",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Phased changes in Namhan valley settlement, iron production and fortresses"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas 475–660",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Later capital evidence used as a chronological exclusion control, not primary support for early founder narratives"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.9:b01",
+      "title": "Continental commanderies as connected neighbors",
+      "paragraphs": [
+        "The Chinese commanderies of Lelang and Daifang shaped political and economic contacts around the western peninsula, although their governance, extent and influence changed over time. Their existence does not mean every community described under the broad heading Mahan was administered directly by a continental official. Contacts could involve diplomats, intermediaries, traders, migrants or armed detachments operating through different arrangements. Written sources preserve the interests of administrators concerned with frontier stability and exchange. Archaeology offers separate testimony through imported materials and settlement shifts. A source-critical history distinguishes direct rule in particular places from influence exercised through alliances, prestigious gifts or commercial connections elsewhere."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "NIKH early Baekje-guk and Mokji-guk political relationships"
+        }
+      ]
+    },
+    {
+      "id": "II.6.9:b02",
+      "title": "Lelang as an economic and administrative center",
+      "paragraphs": [
+        "Lelang's long presence in the northwest created a channel through which material technologies, writing conventions and prestige goods could reach other regions. The archaeological record of its settlements and tombs is substantial compared with the textual record of individual Mahan villages. An object resembling Lelang goods found farther south may indicate exchange or movement of people, but cannot automatically establish a Lelang government office at the findspot. Circulation could proceed through multiple intermediaries. The historian should consider trade, diplomacy and imitation as competing or complementary explanations. Lelang's relationship with the south changed as political powers emerged, and should not be fixed to one administrative map."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.9:b03",
+      "title": "Daifang and the southern diplomatic horizon",
+      "paragraphs": [
+        "Daifang is particularly relevant to third-century interactions involving Mahan and the broader Samhan world. Records of official contacts through a commandery may reflect attempts to organize frontier relationships, but do not supply a detailed treaty history for every named polity. An embassy described in a Chinese chronicle must be read with attention to what recognition meant to both parties. Gifts and titles could function as claims of hierarchy while also bringing material benefits. Local actors could use diplomatic channels for their own strategies. A Daifang connection does not erase the autonomous political calculations of Mahan groups, nor prove permanent control over distant southern settlements."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "AKS Han River sites and debate about early Baekje capitals"
+        }
+      ]
+    },
+    {
+      "id": "II.6.9:b04",
+      "title": "Material objects and movement of knowledge",
+      "paragraphs": [
+        "Imported mirrors, pottery forms, ornaments or technical designs can show engagement with wider production traditions. But resemblance is not a direct record of who traveled, who paid or how the object was valued by its final owner. Metalworking techniques might spread through artisans, marriage ties, apprenticeships or repeated exchange rather than one official mission. Excavation context is crucial: a prestige object placed in a tomb may have circulated long before burial. The timing of deposition and manufacture should not be conflated. Material history becomes stronger when researchers examine local adaptation and changing patterns rather than treating every foreign-style artifact as evidence of dependency."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.9:b05",
+      "title": "Routes along the Yellow Sea",
+      "paragraphs": [
+        "Coastal estuaries and the lower Han offered routes connecting western Mahan settlements with the northwestern peninsula and beyond. Navigation depended on tidal knowledge, hull capabilities and seasonal conditions, all incompletely documented for each third-century voyage. A possible maritime corridor is not itself a record of a regularly scheduled embassy or commercial fleet. Land travel through river valleys could complement coastal exchange. The archaeological distribution of portable goods may help identify networks but is shaped by excavation intensity and elite burial customs. Reconstructing routes responsibly requires distinguishing geographic plausibility from directly dated evidence of repeated travel."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "UNESCO later-phase Baekje monumental archaeology, used as chronological contrast"
+        }
+      ]
+    },
+    {
+      "id": "II.6.9:b06",
+      "title": "War and the disruption of relations",
+      "paragraphs": [
+        "Commandery authority encountered pressure from changing continental politics and increasingly powerful neighboring polities. Military conflict could interrupt channels of exchange, drive people to move or create opportunities for new intermediaries. A diplomatic contact recorded in one decade need not have continued under the same terms after a frontier crisis. The history of Lelang and Daifang in its own right belongs in II.3; this section examines how their presence affected Mahan and emerging Baekje. It is important not to compress the history into an image of one permanently dominant continental empire and passive local recipients of goods. Regional actors responded strategically to shifting conditions."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.9:b07",
+      "title": "Migration and households beyond diplomatic elites",
+      "paragraphs": [
+        "The movement of merchants, craft specialists or displaced families may have connected communities culturally and economically. Distinctive materials from another region can suggest contact but cannot always distinguish migrants from local consumers adopting new practices. A household may have preserved older burial traditions while using imported tools. Written sources rarely describe such everyday negotiations, focusing instead on chiefs and commandery officials. It would be misleading to invent quantities of migrants or ethnic proportions from sparse objects. The key historical question is how people with differing experiences worked and interacted within settlements as connections grew, rather than assigning each artifact an exclusive population identity."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "NIKH Baekje founding and consolidation historical section"
+        }
+      ]
+    },
+    {
+      "id": "II.6.9:b08",
+      "title": "Prestige and competition within Mahan",
+      "paragraphs": [
+        "Access to continental goods could strengthen a local leader's ability to reward allies or display status, but the exact political effect varied. An imported mirror in a richly furnished grave shows possession in a funerary context, not a conclusive appointment from a foreign governor. Competing groups might seek different channels to obtain similar objects. Formal recognition, trade and prestige could reinforce each other while remaining distinct activities. Historians should compare archaeological access to imported items with settlement scale and evidence for local leadership. Economic contact did not inevitably determine which polity would later dominate. It offered resources whose political use depended on local circumstances."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.9:b09",
+      "title": "Baekje's changing place in the network",
+      "paragraphs": [
+        "As Baekje-guk became more influential in the lower Han basin, its relationships with commandery authorities and other Mahan communities altered the regional balance. A state capable of organizing supplies and military action could compete for exchange routes that had formerly involved multiple smaller centers. Yet a later kingdom's strength should not be read backward into every earlier diplomatic mention. Chronology matters because mainland commandery administration itself changed significantly in the third and fourth centuries. Contacts that once aided elite differentiation might later be replaced or redirected. Understanding that shift reveals the dynamic relationship between foreign presence and indigenous state formation."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "KCI Chungju Mahan–Baekje staged regional transition"
+        }
+      ]
+    },
+    {
+      "id": "II.6.9:b10",
+      "title": "Exchange was neither simple imitation nor isolation",
+      "paragraphs": [
+        "Mahan communities and emerging Baekje developed through contact with Lelang, Daifang and neighboring polities while maintaining varied local institutions and material practices. The sources demonstrate routes of communication without providing a complete inventory of people, prices or political obligations. This article owns external commandery interaction from the perspective of western-southern communities. II.3 covers the commanderies' own administrative and military history, and II.10 treats migration and exchange across the early-state world more generally. The comparison should preserve both the power asymmetries of contact and the choices made by those who encountered foreign officials, traders and objects."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

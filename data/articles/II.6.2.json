@@ -1,0 +1,167 @@
+{
+  "id": "II.6.2",
+  "title": "Mahan: Geography and the Western-Southern Peninsula",
+  "kicker": "MAHAN · EARLY POLITIES AND EVIDENCE",
+  "description": "Source-critical study of mahan: geography and the western-southern peninsula, distinguishing third-century external accounts from archaeological and later dynastic evidence.",
+  "release": "AG",
+  "sourceStatus": "Contextual institutional sources; independent historical peer review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk: Mahan and Baekje formation",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Specialist treatment of third-century Baekje-guk, Mokji-guk, chronicle retrospective conquest and Han basin archaeological settings"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje formation and development scholarly section",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Critical comparison of Samguk sagi and Sanguozhi traditions, early settlements and fortifications"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Archaeological transition from Mahan to Baekje in the Chungju region",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Peer-reviewed phased regional evidence for Mahan materials and subsequent Baekje integration; local conclusions not generalized nationwide"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River basin archaeology and historical geography",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Expert geographic discussion of Pungnap, Mongchon and other Han basin strongholds, with disputed capital identification"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas: chronological and archaeological scope",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Comparison and chronological check for later Ungjin and Sabi evidence dated 475–660, not direct confirmation of early Mahan institutions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.2:b01",
+      "title": "Western and southern peninsular geography",
+      "paragraphs": [
+        "Mahan's historical geography encompasses much of the western and southwestern peninsula described in Chinese Samhan accounts. Rivers drain from mountain interiors toward tidal western and southern coasts, shaping the movement of grain, pottery and metal objects. Those natural corridors did not coincide neatly with political boundaries. Settlement choices responded to alluvial flats, defensive hills, access to timber and proximity to other communities. Modern provincial lines are poor substitutes for the third-century landscape. Archaeological distributions can help reconstruct regions of connection, but every proposed polity border needs its own evidence. The geography of Mahan is best treated as networks of inhabited basins and corridors."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "NIKH Baekje-guk/Mokji-guk original scholarly chapter and Chinese text comparison"
+        }
+      ]
+    },
+    {
+      "id": "II.6.2:b02",
+      "title": "The lower Han River as one frontier",
+      "paragraphs": [
+        "The lower Han basin offered agricultural land, access to western coastal routes and a strategic meeting point of inland and maritime movement. It is often linked to the development of Baekje-guk, but its inhabitants did not necessarily form a single community under one leader at all times. A concentration of settlements along watercourses might reflect opportunities for cultivation and exchange, with competing households using nearby ridges for defense. The river's course and floodplain changed with deposition and later urban development. Excavation around modern Seoul therefore has to consider disturbance and sampling bias. Local material patterns are important precisely because later political memory centers on this basin."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.2:b03",
+      "title": "The Geum basin and other Mahan centers",
+      "paragraphs": [
+        "The Geum River and its tributaries provided routes linking fertile inland areas to the Yellow Sea. Many discussions of Mahan's political heartlands include areas that later became central to Baekje, but the timing of integration varied. A prominent burial area or large settlement demonstrates local investment without identifying its allegiance to Mokji-guk in the absence of stronger linkage. Other basins in Jeolla contained their own networks and distinguished artifact assemblages. Moving the focus beyond the Han prevents a retrospective Baekje-centered account from reducing all Mahan communities to peripheral actors. Regional centers could thrive through connections not controlled by the emergent Baekje court."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "KCI Chungju Mahan–Baekje regional archaeological sequence"
+        }
+      ]
+    },
+    {
+      "id": "II.6.2:b04",
+      "title": "Coasts, tidal flats and seasonal routes",
+      "paragraphs": [
+        "Western tidal flats and estuaries offered fish, shellfish, salt-related opportunities and access to landing places, but they also required specialized understanding of tides and weather. A small coastal vessel could connect communities that overland travel separated by hills. The range of any particular voyage depends on hull, crew and sea conditions, none of which can be assumed from one foreign object. Archaeological marine shells can demonstrate consumption or movement of marine resources into inland households. They do not by themselves identify an organized long-distance shipping administration. Coastal geography was an economic opportunity and environmental constraint, not an inevitable source of centralized kingship."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.2:b05",
+      "title": "Inland corridors and the Namhan River",
+      "paragraphs": [
+        "The Namhan basin connected mountainous inland zones to the broader Han system and acquired strategic significance during Baekje's later expansion. A specialist archaeological study of Chungju separates local Mahan horizons from phases of increasing Baekje presence, using settlements, graves, ironworking and fortresses. That evidence challenges simple statements that one founder brought the whole river system under control immediately. River transport could make bulky goods easier to move, while rapids, tributaries and seasonal discharge complicated navigation. Not every group settled along the corridor owed allegiance to the same power. Geography helps explain why integration proceeded through particular nodes rather than along a smooth advancing border."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "UNESCO later Baekje phase only, used to bound chronological claims"
+        }
+      ]
+    },
+    {
+      "id": "II.6.2:b06",
+      "title": "The meaning of a political center",
+      "paragraphs": [
+        "A settlement on fertile ground with defensive advantages could become a gathering place for exchange and ceremony. Its prominence did not necessarily make it the seat of a kingdom in the later sense. Excavation may reveal building foundations, ditches, storage pits and unusual funerary wealth, yet identifying the residence of a named leader remains challenging. Administrative functions could be distributed across sites instead of concentrated in a single walled city. Historians should use language such as possible center or important settlement where documentation is incomplete. Maps depicting one clear dot per polity often conceal the evidence's actual resolution and the mobility of influential people."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.2:b07",
+      "title": "Climate and subsistence diversity",
+      "paragraphs": [
+        "Seasonal rain, flood risks and local soil quality affected agricultural possibilities across Mahan's wide region. Lowland rice cultivation and dry-field grain production could coexist with fishing, herding or gathering in different proportions. A written description of agriculture in one source does not supply uniform yields or planting practices for each basin. Water availability, labor and the maintenance of fields mattered to settlement continuity. Environmental differences may have helped distinguish regional communities, although cultural variation cannot be reduced to climate alone. Political influence depended on securing supplies from these productive settings, while weather and transport placed limits on how much could be demanded."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "NIKH fuller Baekje emergence and early Han valley archaeology"
+        }
+      ]
+    },
+    {
+      "id": "II.6.2:b08",
+      "title": "Archaeological distributions as uneven maps",
+      "paragraphs": [
+        "The modern density of excavated sites reflects road projects, urban construction and the funding and location of field research as well as past settlement. An area without published excavations is not demonstrably uninhabited. Large cemeteries may receive more attention than small domestic sites, distorting an image of where people lived. Dating methods and pottery typologies require periodic revision as new material emerges. Consequently, a map of Mahan archaeological cultures should show uncertainty and excavation history alongside artifacts. A particularly rich deposit does not automatically define a provincial capital, and a regional label is not a direct statement of the identities of the people buried there."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.2:b09",
+      "title": "Geography without predetermined political destiny",
+      "paragraphs": [
+        "Later Baekje control of the Han basin can make its emergence appear inevitable because the landscape offered strategic advantages. Yet many communities had access to comparable river routes, cultivation and exchange. Political development depended on alliances, competition, movement of people and contingent events as well as physical setting. A river facilitated transport without choosing which lineage would command it. Other Mahan centers remained active and could adapt to emerging Baekje relationships in different ways. The historian should resist transforming geographical possibilities into a single causal explanation that renders local choices irrelevant. Landscape set conditions for politics; it did not write the chronicle in advance."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "AKS Han River archaeological geography and site identification"
+        }
+      ]
+    },
+    {
+      "id": "II.6.2:b10",
+      "title": "Regional history as the basis for comparison",
+      "paragraphs": [
+        "Understanding western and southern Mahan requires following distinct basins, coastal ecologies and inland corridors before reconstructing connections to Baekje. The lower Han was important but was not the only relevant center, and the later kingdom's capital geography should not be projected unchanged into earlier centuries. This article owns physical location and environmental infrastructure, leaving settlement households and political structures to the following sections. The evidence demonstrates opportunities for mobility and production with uncertain territorial affiliations. An honest historical geography presents several interacting regions rather than one undivided Mahan state traced over a modern provincial map."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

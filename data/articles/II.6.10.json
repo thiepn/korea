@@ -1,0 +1,167 @@
+{
+  "id": "II.6.10",
+  "title": "Mahan and Baekje at the Threshold of the Three Kingdoms Era",
+  "kicker": "MAHAN · BAEKJE EMERGENCE",
+  "description": "Original critical account of mahan and baekje at the threshold of the three kingdoms era, using institutional research and differentiated textual and material evidence.",
+  "release": "AG",
+  "sourceStatus": "Institutional contextual research references; specialist manuscript review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk: reconstruction from texts and sites",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Critically distinguishes early lower Han political activity, archaeological evidence and later Baekje annals"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje's formation and development",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Dating of Baekje expansion, interaction with Mahan and problems of written traditions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River and early Baekje archaeological setting",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Debated identification of Pungnaptoseong, Mongchontoseong and related Han basin sites"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Chungju region Mahan–Baekje archaeological transition",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Phased changes in Namhan valley settlement, iron production and fortresses"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas 475–660",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Later capital evidence used as a chronological exclusion control, not primary support for early founder narratives"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.10:b01",
+      "title": "What counts as a threshold",
+      "paragraphs": [
+        "The transition from the early-state world to the Three Kingdoms era is a convenient organizational boundary, not an event that occurred simultaneously in every Mahan settlement. Baekje-guk developed new political capacity while other southwestern groups continued to operate through relationships whose names are only imperfectly preserved. Later royal narratives make the kingdom's beginning look sharply dated, whereas archaeological evidence often shows gradual change. The historian must distinguish the date assigned to a dynasty's founder from the emergence of a sustained polity recognizable in external texts. A threshold is best understood as a shift in scale, institutions and connections rather than a clean division between two separate populations."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "NIKH early Baekje-guk and Mokji-guk political relationships"
+        }
+      ]
+    },
+    {
+      "id": "II.6.10:b02",
+      "title": "Mahan was not one kingdom replaced in a day",
+      "paragraphs": [
+        "Chinese descriptions portray Mahan as an assemblage of communities or polities, and no credible evidence makes every one of them subject to one uniform court. The prominence sometimes attributed to Mokji-guk should be investigated as a political relationship rather than a full administrative map. Baekje's expansion altered those relationships over time. Some local leaders may have joined emerging institutions, others may have negotiated looser terms and others resisted. Archaeological continuity in graves or domestic objects can coexist with changed political allegiance. The appearance of a more powerful Baekje center did not require the immediate disappearance of every previous community."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.10:b03",
+      "title": "The documentary evidence horizon",
+      "paragraphs": [
+        "Baekje's external textual profile is more secure for the third-century period than for the very early founder chronology of later annals. The record nonetheless remains episodic, describing what foreign writers learned or considered important. A prominent regional actor might be named only when its diplomacy or conflicts mattered to a commandery. Archaeological evidence can extend beyond these notices but does not automatically supply dynastic names. Later Samguk sagi materials may preserve older traditions while organizing them into a continuous reign sequence. Reading all three forms of evidence critically allows historians to explain development without claiming the sources agree where they address different questions."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "AKS Han River sites and debate about early Baekje capitals"
+        }
+      ]
+    },
+    {
+      "id": "II.6.10:b04",
+      "title": "Political centers and their supporting landscapes",
+      "paragraphs": [
+        "The lower Han sites of Pungnap and Mongchon suggest substantial organization in a region connected to farming and river transport. Their fortifications and occupation sequences illuminate possibilities for central authority, though linking a specific wall to a named early king requires more evidence. Political centers depended on households producing food, labor and craft goods in a surrounding hinterland. Other Mahan basins also supported influential settlements, reminding us that Baekje was not the only organized power in the region. The emergence of one dominant center reflected contingent alliances and control of resources, not a landscape that inevitably produced one dynasty."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.10:b05",
+      "title": "Material continuity and political difference",
+      "paragraphs": [
+        "A community might continue making similar pots after a change in political affiliation, while new elite goods could arrive before any demonstrable administrative integration. Archaeologists therefore need several independently dated indicators before inferring a shift in sovereignty. The Chungju case provides evidence for stages of Mahan presence, transition and Baekje expansion during the fourth century. It is significant precisely because it is regional and cannot determine all of the southwest's chronology. The transition involved processes visible at different resolutions: occupation levels, fortresses, exchange routes and the changing forms of commemorative investment. None alone provides a complete dynastic history."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "UNESCO later-phase Baekje monumental archaeology, used as chronological contrast"
+        }
+      ]
+    },
+    {
+      "id": "II.6.10:b06",
+      "title": "Growth of institutions without perfect centralization",
+      "paragraphs": [
+        "A stronger court required methods of coordinating soldiers, supplies, diplomatic contacts and local intermediaries. Yet the formation of formal ranks and offices cannot be assumed complete when Baekje first appears in an external record. Political authority may have been stronger along strategic corridors than in distant communities. Noble houses and local elites could retain bargaining power within a developing hierarchy. This unevenness should not be confused with the absence of state formation. It was the practical context in which more complex government emerged, subject to periods of crisis and reorganization. Comparative royal institutions in the mature Three Kingdoms belong to III.5."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.10:b07",
+      "title": "Other Samhan developments remained consequential",
+      "paragraphs": [
+        "The early political landscape included Jinhan and Byeonhan communities in addition to Mahan, and their later trajectories cannot simply be written as footnotes to Baekje's emergence. The eastern and southern peninsulas developed their own centers, technologies and external links. Baekje's western history unfolded in interaction with them without determining their outcomes. II.7 and II.8 own the formation of Silla and Gaya respectively. A threshold chapter should establish that multiple regional state-building processes were underway, not present one winner's path as a national model. This preserves the diversity hidden by a retrospective phrase such as the Three Kingdoms era."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "NIKH Baekje founding and consolidation historical section"
+        }
+      ]
+    },
+    {
+      "id": "II.6.10:b08",
+      "title": "The meaning of an early Baekje state",
+      "paragraphs": [
+        "The polity's increased ability to mobilize resources, maintain fortified centers and engage neighboring powers marks a significant transformation. But the same term state may cover changing arrangements across centuries, and scholars disagree about the precise stage at which particular institutions became established. A careful comparison needs explicit criteria rather than a verdict based solely on a king's existence in a later annal. Territorial reach, hierarchy, fiscal capacity and external recognition can grow at different rates. Written language about rulership may become elaborate before all communities are regularly administered. The threshold is therefore a question to investigate, not a title that resolves the debate."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.10:b09",
+      "title": "The persistence of people and local memory",
+      "paragraphs": [
+        "As the designation Mahan receded from political narratives, communities retained fields, burial places, routes and skills through changing relationships. Later Baekje political identity incorporated people whose ancestors had participated in different local networks. Material continuities cannot prove an unchanged ethnic identity, but they caution against treating state formation as population replacement. Royal histories favor lineages and victories; archaeological sites preserve a wider sample of lives, though unevenly. A mature account considers both archives and avoids invented personal biographies for anonymous households. The formation of a kingdom had consequences for people who may not have recognized the date later assigned as its formal beginning."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "KCI Chungju Mahan–Baekje staged regional transition"
+        }
+      ]
+    },
+    {
+      "id": "II.6.10:b10",
+      "title": "From plurality toward a new political scale",
+      "paragraphs": [
+        "Mahan and Baekje at the threshold of the Three Kingdoms era represent continuity and change together. Baekje grew from within a plural western-southern political world, interacting with Mokji-centered groups, commanderies and local economies. Its emergent territorial organization developed unevenly as material resources and alliances changed. This article closes the Chapter without duplicating the later wars, kings and central government of Part III. It provides the bridge from early regional polities to a more prominent Baekje monarchy while preserving uncertainty about precisely dated foundations and incorporation. Historical progress in understanding this transition depends on comparing new excavations with the different purposes and dates of surviving texts."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

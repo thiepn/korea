@@ -1,0 +1,167 @@
+{
+  "id": "II.6.3",
+  "title": "Mahan Polities and Political Organization",
+  "kicker": "MAHAN · EARLY POLITIES AND EVIDENCE",
+  "description": "Source-critical study of mahan polities and political organization, distinguishing third-century external accounts from archaeological and later dynastic evidence.",
+  "release": "AG",
+  "sourceStatus": "Contextual institutional sources; independent historical peer review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk: Mahan and Baekje formation",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Specialist treatment of third-century Baekje-guk, Mokji-guk, chronicle retrospective conquest and Han basin archaeological settings"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje formation and development scholarly section",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Critical comparison of Samguk sagi and Sanguozhi traditions, early settlements and fortifications"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Archaeological transition from Mahan to Baekje in the Chungju region",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Peer-reviewed phased regional evidence for Mahan materials and subsequent Baekje integration; local conclusions not generalized nationwide"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River basin archaeology and historical geography",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Expert geographic discussion of Pungnap, Mongchon and other Han basin strongholds, with disputed capital identification"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas: chronological and archaeological scope",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Comparison and chronological check for later Ungjin and Sabi evidence dated 475–660, not direct confirmation of early Mahan institutions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.3:b01",
+      "title": "Plural polities and political vocabulary",
+      "paragraphs": [
+        "Chinese accounts of Mahan enumerate numerous guo, a term often translated as states or countries but not necessarily identifying institutions comparable to later centralized kingdoms. The recording officials organized information for their own frontier interests, and local meanings could differ. Some Mahan groups may have centered on particular settlements or leading families, with relations to neighboring communities negotiated through marriage, exchange or armed threat. No surviving indigenous constitution defines exactly how the named units governed themselves. Rather than assign all of them identical assemblies and tax systems, a source-critical analysis tests whether archaeology indicates hierarchical settlement patterns, distinctive elite burials or repeated connections across a region."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "NIKH Baekje-guk/Mokji-guk original scholarly chapter and Chinese text comparison"
+        }
+      ]
+    },
+    {
+      "id": "II.6.3:b02",
+      "title": "Mokji-guk and the Jin king question",
+      "paragraphs": [
+        "The figure described as the king of Jin and the importance often assigned to Mokji-guk raise questions about leadership beyond an individual community. NIKH scholars have considered whether Mokji coordinated an alliance, held ceremonial prestige or exercised stronger political influence. The exact seat and degree of compulsory authority remain debated. A later historian's preference for naming one supreme king is not evidence that every Mahan settlement accepted permanent commands from one capital. A coalition might acknowledge precedence for diplomacy while retaining significant local autonomy. The important issue is how coordination worked in practice and how much of it can actually be demonstrated."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.3:b03",
+      "title": "Leaders, assemblies and the missing minutes",
+      "paragraphs": [
+        "Communities may have consulted their elders or powerful households on collective decisions, but our sources do not preserve transcripts of Mahan councils. Models of confederacy can be useful comparative devices if they remain hypotheses rather than newly invented institutions. A burial with costly objects could indicate social differentiation, not the title or voting procedure of the deceased. Written descriptions of chiefs in neighboring groups cannot simply be copied into Mahan as established law. Evidence of organized defense or communal constructions may imply coordination across households. Its scale and leadership require investigation through dated sites and the distribution of labor investment rather than speculative scenes of rulers addressing a crowd."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "KCI Chungju Mahan–Baekje regional archaeological sequence"
+        }
+      ]
+    },
+    {
+      "id": "II.6.3:b04",
+      "title": "Political authority over agricultural resources",
+      "paragraphs": [
+        "A leading family may have gained influence through control of productive land, storage, access to exchange routes or the capacity to mobilize labor. Yet no complete Mahan tax register survives, and it would be misleading to assign uniform annual levies to all polities. Food surpluses could sustain specialists and ceremonial occasions, while poor harvests limited what a center could demand. Local farmers were not passive units in a political hierarchy; they maintained the resources on which elites depended. Archaeological settlement concentrations and storage contexts can raise questions about collection and redistribution. They cannot independently establish the legal basis of every claimed contribution."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.3:b05",
+      "title": "Conflict and changing allegiance",
+      "paragraphs": [
+        "Competition among groups may have involved disputes over land, trade corridors or status. A fortified location can demonstrate investment in defense but does not automatically identify the attacker or a precise political boundary. Alliances could change as Baekje-guk gained prominence in the lower Han region. The NIKH reconstruction of relationships between Baekje and the Mokji-centered communities stresses process and regional coalitions rather than accepting a single founder-era conquest chronology without qualification. Written annals often narrate sharp turning points, while archaeology may show overlapping practices extending across them. Political incorporation could therefore combine coercion, negotiation and continued local leadership."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "UNESCO later Baekje phase only, used to bound chronological claims"
+        }
+      ]
+    },
+    {
+      "id": "II.6.3:b06",
+      "title": "Rank and the problem of translation",
+      "paragraphs": [
+        "Terms rendered king, minister, chief or lord in external accounts were chosen within a Chinese descriptive framework. They need not have corresponded precisely to indigenous hierarchies or to the ranks developed by later Baekje. A term used for Mahan in a third-century text should not be treated as proof of a sixteenth-century-style office or the mature kingdom's sixteen grades. Translators must decide whether to reproduce the original title or use an explanatory gloss while making uncertainty visible. Titles matter because they show outsiders perceived differentiated authority. Their exact local functions often remain less secure than the presence of political distinction."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.3:b07",
+      "title": "Mobility between political communities",
+      "paragraphs": [
+        "Marriage, migration, trade and military service could connect people with more than one settlement network. Archaeological similarities across neighboring regions may indicate such movement, although pottery exchange alone cannot demonstrate a population transfer. When a powerful center expanded, residents might change political allegiance without abandoning their homes. Later historical writing tends to focus on which dynasty prevailed, whereas the social history of integration asks what happened to households and local institutions. The evidence is fragmentary, and no demographic count supports sweeping claims of displacement after a particular reported campaign. A polity could transform through successive negotiations rather than dissolve in one moment."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "NIKH fuller Baekje emergence and early Han valley archaeology"
+        }
+      ]
+    },
+    {
+      "id": "II.6.3:b08",
+      "title": "Material hierarchy and archaeological caution",
+      "paragraphs": [
+        "Differently sized tombs, imported ornaments and concentrations of iron artifacts suggest unequal access to resources. Their political meaning depends on local chronology, burial custom and excavation context. A rich grave need not belong to a named king, and similar objects could circulate among rival groups. Settlement hierarchies inferred from site size may reflect differing economic functions as well as governance. Scientific dating and comparative analysis make interpretations testable but rarely remove all alternatives. The case for centralized authority strengthens when evidence from settlement planning, storage, defense and elite consumption converges, not when one impressive artifact is made to answer every question."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.3:b09",
+      "title": "The transition toward Baekje leadership",
+      "paragraphs": [
+        "Baekje's later dominance of western-central Korea can obscure the role of other Mahan communities in the political landscape that preceded it. Its rise likely involved integrating existing groups through several mechanisms over time. Specialist research on the Chungju area documents phased changes from Mahan material traditions to more distinctly Baekje sites during the fourth century, showing why regional evidence matters. Such a local chronology should not be generalized directly to Jeolla or the entire peninsula. The transition was neither simply foreign replacement nor an instantaneous march of conquest from the Han River. It changed the political relationships of people already living across a varied region."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "AKS Han River archaeological geography and site identification"
+        }
+      ]
+    },
+    {
+      "id": "II.6.3:b10",
+      "title": "Institutional history with explicit limits",
+      "paragraphs": [
+        "Mahan political organization is best reconstructed as diverse communities possessing some forms of differentiated leadership and possible wider coordination, with uncertainties about offices, assemblies and exact territorial reach. This article owns the scale and form of political authority; II.6.4 examines household production and II.6.8 addresses Baekje's growth as a territorial power. The sources allow substantive analysis without turning a descriptive word such as guo into a ready-made bureaucratic state. By separating external labels, archaeological signs of organization and later political memory, historians can explain real institutional change while preserving the distinct agency of communities not absorbed into a founder's single narrative."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

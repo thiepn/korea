@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.10",
+  "title": "The Cheonghaejin Network, Political Power, and Its Aftermath",
+  "kicker": "MARITIME KOREA · CHEONGHAEJIN AND POLITICAL POWER",
+  "description": "Original analysis of the cheonghaejin network, political power, and its aftermath, with direct chronological distinctions among military command, merchant organization and royal succession.",
+  "release": "AG",
+  "sourceStatus": "Contextual historical references; independent specialist manuscript review not performed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jang Bogo and Cheonghaejin specialized historical chapter",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_011_0030_0030",
+      "role": "Primary-informed account of 828 base, Tang experience, Chishan patronage and late Silla royal succession"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jang Bogo",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048474",
+      "role": "Chronological expert biography of Jang Bogo and his armed trade network, 846 assassination and royal politics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Cheonghaejin",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056856",
+      "role": "Coastal base, 828 establishment, 851 dissolution and relocation of residents"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Wando Cheonghaejin archaeological site",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048392",
+      "role": "Fortification excavations, palisade and source-specific site evidence distinct from biographies"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla maritime trade through Tang and Japan",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Silla merchant network and Japanese documentary context, including 840 Hoeyeoksa representation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.10:b01",
+      "title": "Merchant power enters royal succession",
+      "paragraphs": [
+        "Cheonghaejin's influence grew beyond commercial exchange when Jang Bogo became involved in late Silla struggles for the throne. Armed men and coastal resources could affect a court whose authority was contested by aristocratic factions. Accounts associate Jang Bogo with support for Kim Ujing, who became King Sinmu in 839. The political narrative appears in sources concerned chiefly with royal conflict, so the motives and experiences of ordinary followers remain poorly documented. Maritime influence was neither entirely independent of the monarchy nor simply its obedient instrument. A regional commander could leverage military capacity to gain recognition and rewards while also becoming a perceived threat."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "NIKH Jang Bogo and Cheonghaejin political chronology"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.10:b02",
+      "title": "The 838–839 crisis",
+      "paragraphs": [
+        "The violent succession conflict involving Heegang, Minae and Kim Ujing produced an opportunity for Cheonghaejin's armed supporters to intervene. Chronological reconstruction needs attention to the compressed reigns and retrospective annals of a turbulent court. NIKH and AKS accounts agree on the central significance of Jang Bogo's contribution to Sinmu's accession, though detailed narratives of every encounter depend on transmitted sources. Political alliances formed under crisis need not remain stable once a claimant became king. The episode demonstrates the close relationship between the mobility provided by maritime networks and the competition of elite groups far from Wando."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.10:b03",
+      "title": "Reward and the problem of status",
+      "paragraphs": [
+        "Following Sinmu's victory, Jang Bogo received honors and recognition reflecting his substantial assistance. The reported grant of income associated with households is an indication of status and royal reward, but it should not be converted into an exact count of people directly owned or personally employed by him. Court acknowledgment of military service could coexist with suspicion among hereditary aristocrats. His unusual position arose from wealth, ships and military followings that elite title alone did not capture. The tension between a powerful regional commander and established aristocratic norms became more acute when royal marriage negotiations involved his family."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "AKS Cheonghaejin 828 establishment and 851 suppression"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.10:b04",
+      "title": "The proposed royal marriage",
+      "paragraphs": [
+        "A tradition describes conflict over the prospect of Jang Bogo's daughter marrying the Silla monarch, with aristocratic objections linked to the family's social origin. Its details require the usual caution for court narratives transmitted through later histories. Still, the episode reveals that patronage and personal military strength did not automatically overcome the boundaries of acceptable elite alliance. Marriage was a political instrument through which status could be recognized or denied. The failure of the proposed tie intensified the contrast between Jang Bogo's practical resources and his insecure position within the dominant court hierarchy. Personal family relationships and state power were not separate domains."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.10:b05",
+      "title": "Assassination and contested chronology",
+      "paragraphs": [
+        "Sources conventionally place Jang Bogo's assassination by Yeomjang in 846, although some transmitted traditions and later summaries differ on the exact date. The accounts emphasize deception and the intervention of court agents in a conflict that had become difficult to resolve openly. Their literary detail should not be repeated as a verbatim eyewitness reconstruction. The crucial historical consequence is the loss of a commander whose personal authority helped hold together a powerful maritime network. Killing its patron did not instantaneously erase every trader, ship or coastal settlement. The political and commercial organization's aftermath requires separate examination rather than ending the story at the moment of assassination."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "NIKH overseas Silla merchants and Japanese reception"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.10:b06",
+      "title": "I Chang-jin and continuing organization",
+      "paragraphs": [
+        "After Jang Bogo's death, members of his family and commanders such as I Chang-jin attempted to retain Cheonghaejin's power. Japanese accounts preserve evidence of merchant missions continuing beyond the founder's lifetime, indicating that the network possessed organizational connections not dependent on his immediate presence. The Academy of Korean Studies describes later opposition from Silla authorities and the weakening of the remaining force. Such accounts do not supply a complete chronology of every loyal group. They show the institution had become a regional political actor whose dissolution required more than removing one leader. Continuity in trade should be distinguished from continuity in military control."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.10:b07",
+      "title": "Japanese merchants amid political conflict",
+      "paragraphs": [
+        "Japan's authorities faced requests and competing claims involving representatives linked to Cheonghaejin after Jang Bogo's death. The legal status of a person presenting cargo remained distinct from the internal political dispute that shaped a patron's authority. In some cases Japanese officials declined demands to return or hand over particular merchants, reflecting their concern about involvement in Silla factional conflict. The survival of these episodes in Japanese records provides an external perspective absent from a purely dynastic narrative. It does not establish that every trader supported one faction. Maritime networks continued to operate across jurisdictions in which the political legitimacy of their leadership was disputed."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "AKS Jang Bogo biography and court conflict"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.10:b08",
+      "title": "The suppression of the base",
+      "paragraphs": [
+        "Silla's central authorities eventually suppressed the remaining Cheonghaejin network. The reported abolition of the base in 851 and relocation of residents to the Byeokgol region are particularly important because they show state intervention aimed at ending regional autonomy. The accuracy and scope of the population transfer should be assessed through the original reports rather than expanded into an invented census. Removal of a garrison did not mean the sea lanes ceased to be traveled. Traders and local communities had accumulated skills and relationships that could endure in modified form. Suppression was a political outcome within a wider maritime history."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.10:b09",
+      "title": "Archaeology after a political ending",
+      "paragraphs": [
+        "Walls and occupation remains at Wando offer evidence of physical investment, but their exact abandonment and later reuse depend on stratigraphic interpretation. A chronicler's date for abolishing an official base does not automatically date the last human presence on its ground. Local fishing, sailing and exchange could continue under other institutions. The identity of a fort's final military occupants is difficult to infer from undated materials. Separating an institution's legal dissolution from the longue durée of a coastal landscape prevents royal history from monopolizing the past. The remains of Cheonghaejin record a place with many kinds of labor, not just the ambitions of one renowned man."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "AKS Wando Cheonghaejin archaeological fortifications"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.10:b10",
+      "title": "What the Cheonghaejin episode explains",
+      "paragraphs": [
+        "The rise and fall of Cheonghaejin connect seaborne commerce, coercive protection, religious and resident networks, social hierarchy and succession politics. Jang Bogo's influence reveals the ability of noncapital resources to shape the court, while the suppression of his successors demonstrates how threatening such autonomy appeared to central elites. This final section owns the station's political aftermath, leaving the wider crisis of late Silla governance to IV.8. A source-critical account avoids turning the story into either uncomplicated merchant triumph or moral failure by one commander. It identifies the documented transformations and the many workers and residents who remain largely absent from the surviving historical record."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
