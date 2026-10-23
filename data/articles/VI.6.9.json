@@ -9,22 +9,26 @@
     {
       "institution": "Academy of Korean Studies",
       "title": "Gyeonggongjang: metropolitan government artisans",
-      "url": "https://encykorea.aks.ac.kr/Article/E0002288"
+      "url": "https://encykorea.aks.ac.kr/Article/E0002288",
+      "role": "Historical study of early Joseon metropolitan government artisans, administrative attachment and duties."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "Gongjang: historical craft administration",
-      "url": "https://encykorea.aks.ac.kr/Article/E0004428"
+      "url": "https://encykorea.aks.ac.kr/Article/E0004428",
+      "role": "Historical survey of registered court and provincial craftworkers, workshops, skill and duty arrangements."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "Joseon salt production and state regulation",
-      "url": "https://encykorea.aks.ac.kr/Article/E0051904"
+      "url": "https://encykorea.aks.ac.kr/Article/E0051904",
+      "role": "Historical overview of early Joseon salt production, state regulation and short-lived 1445 monopoly intervention."
     },
     {
       "institution": "National Institute of Korean History",
       "title": "Early Joseon economic organization",
-      "url": "https://db.history.go.kr/id/nh_024_0010"
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist early Joseon economic synthesis used for fiscal, household, agricultural and governmental institutional chronology."
     }
   ],
   "blocks": [
