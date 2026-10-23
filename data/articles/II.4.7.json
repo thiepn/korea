@@ -1,0 +1,161 @@
+{
+  "id": "II.4.7",
+  "title": "Ritual, Law, Custom, and Seasonal Festivals of the Northern Peoples",
+  "kicker": "NORTHERN COMMUNITIES · SOCIAL GEOGRAPHY AND SOURCE CRITICISM",
+  "description": "Original close reading of ritual, law, custom, and seasonal festivals of the northern peoples grounded in the Wei tradition and modern annotated Korean historical sources.",
+  "release": "AE",
+  "sourceStatus": "Original synthesis with contextual documentary citations; no independent specialist review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Okjeo: location, changing political relations, and primary account",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0040",
+      "role": "Annotated Sanguozhi Okjeo passage, geographic naming and debated indirect versus direct Goguryeo control"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Dongye and Okjeo: society, settlements, custom",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0050",
+      "role": "Scholarly synthesis of eastern groups and critical reading of the Wei text"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Dongye's chaekhwa: territorial protection and compensation",
+      "url": "https://contents.history.go.kr/mobile/mid/hm_003_0070?tabId=r",
+      "role": "Primary text and source-critical discussion of Dongye boundaries, clan ties and compensation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annotated pre-Three Kingdoms source register",
+      "url": "https://contents.history.go.kr/front/hm/list.do?periodCode=hm_age_10",
+      "role": "Primary Sanguozhi dossiers for Okjeo marriage, Buyeo Yeonggo and Dongye customs; descriptions are selective external testimony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.4.7:b01",
+      "title": "The temptation to merge distinct customs",
+      "paragraphs": [
+        "The northern groups in third-century accounts are frequently introduced through festivals and unusual family or legal practices. It is tempting to combine these notices into one shared 'ancient Korean' ritual system, but the Sanguozhi distinguishes Buyeo, Goguryeo, Okjeo and Dongye in different ways. Sources reflect selective external observation, not equally detailed ethnography. Similar seasonal ceremonies could express different political relationships. Differences might also be exaggerated by the writer's desire to classify peoples. A comparative history asks who reports each custom, which setting is described and what is absent. Without those distinctions, ritual becomes a list of exotic habits divorced from communities and material life."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Okjeo annotated third-century description and geographic critique"
+        }
+      ]
+    },
+    {
+      "id": "II.4.7:b02",
+      "title": "Yeonggo as Buyeo political assembly",
+      "paragraphs": [
+        "The Buyeo festival called Yeonggo is reported as taking place in the twelfth lunar month, with public celebration connected to wider communal life. Its position in the winter season may relate to agricultural and social calendars, but a direct equivalence with a modern holiday cannot be established. The participation of political leaders could make festival gatherings occasions for alliance and recognition. However, the account does not preserve a program, register of attendees or spoken prayers. Historians should distinguish the described communal event from a theory about its religious doctrine. Its importance lies partly in providing a rare glimpse of political cohesion beyond formal offices."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.4.7:b03",
+      "title": "Mucheon in the eastern communities",
+      "paragraphs": [
+        "Dongye's ceremony called Mucheon is recorded for the tenth lunar month. The contrast with Buyeo's winter festival helps show why a uniform ritual calendar would be misleading. Agricultural seasonality may offer a context, but exact local harvest dates varied and cannot be inferred directly from a name. The source does not tell us whether all Dongye villages assembled together or organized celebrations separately. Collective dancing or sacrifice, where reported in comparable early accounts, should not be assigned to a particular group without checking the text. Ritual interpretation is strongest when it preserves the particular words and limits of its witness."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Dongye chaekhwa account and commentary"
+        }
+      ]
+    },
+    {
+      "id": "II.4.7:b04",
+      "title": "Customary law and social boundaries",
+      "paragraphs": [
+        "Dongye's chaekhwa compensation rule concerns unauthorized crossing into another village's sphere, while reports of Buyeo law emphasize serious punishment and social order. These cannot simply be arranged as two stages in an evolution from private custom to national code. One source may be describing relations among settlements and another reflecting a moralized summary of sanctions. Enforcement procedures, exceptions and actual rates of punishment are not recorded in equivalent detail. Legal norms could express the boundaries of community membership, the security of productive resources or elite claims to order. The evidence supports asking how obligations were recognized, not writing a nonexistent early law code."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.4.7:b05",
+      "title": "Marriage norms as reported differences",
+      "paragraphs": [
+        "The record attributes different marriage practices to Okjeo and Dongye. The prospective daughter-in-law arrangement reported for Okjeo contrasts with the restrictions on marriage within certain groups attributed to Dongye. Their presentation reflects what an external author regarded as distinctive; it should not establish that every household complied or that women and children experienced identical conditions. Marriage governed movement of labor and the formation of kin alliances, making it politically consequential even without court decrees. Yet the source contains no series of individual testimonies. Respecting its limits is especially important when discussing power and consent in intimate relationships."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Okjeo annotated third-century description and geographic critique"
+        }
+      ]
+    },
+    {
+      "id": "II.4.7:b06",
+      "title": "Treatment of the dead and kin memory",
+      "paragraphs": [
+        "Reports of Okjeo's collective burial arrangements draw attention to the way family solidarity could be expressed through treatment of remains. Other northern communities possessed different forms of burial, some known more clearly from archaeology than from descriptions. A grave chamber, pottery vessel or animal offering can suggest ritual investment without making its meaning fully transparent. The chronology of an excavated cemetery should be established before linking it to a transmitted custom. We should also resist treating elite burials as representatives of ordinary household experience. Funeral practice was socially important while remaining highly variable by status, place and time."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.4.7:b07",
+      "title": "Offerings, productivity and uncertain theology",
+      "paragraphs": [
+        "Agricultural societies often marked seasons through communal gatherings, but a general comparative principle cannot substitute for specific northern evidence. A reported festival might involve feasting and recognition of authority without allowing the historian to name its gods or ceremonial words. The external account's silence about priesthood does not prove the absence of religious specialists. Equally, later Buddhist or Confucian practices cannot automatically supply the missing content. Archaeological offerings may be identified by context, though alternative explanations must be considered. The best account of early ritual communicates both what was said to have happened and where interpretation begins."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Dongye chaekhwa account and commentary"
+        }
+      ]
+    },
+    {
+      "id": "II.4.7:b08",
+      "title": "The author outside the custom",
+      "paragraphs": [
+        "Chen Shou compiled reports within a political tradition of describing neighboring peoples for imperial audiences. Categories such as strange customs, good laws or wealth carried judgments shaped by comparison with established Chinese ideals. His account could preserve valuable observations and still omit disagreements among informants or chronological change. The later Hou Hanshu may draw on overlapping material, so agreement between the two is not always independent corroboration. Translation also affects how familiar terms such as lord, elder and tribute appear to readers. Source criticism does not mean rejecting every notice; it means testing its genre, date and likely purpose before building historical conclusions."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.4.7:b09",
+      "title": "Continuity is a claim to examine",
+      "paragraphs": [
+        "Later Korean histories and modern public narratives often identify early rites as forerunners of familiar traditions. Such claims can enrich cultural memory, but historical continuity requires evidence connecting periods, institutions and meanings. A similar festival month or term does not establish uninterrupted performance over a millennium. Wars, migration, new religions and changes in political rule could transform older practices. Communities also retained local customs while adopting new public forms. Scholars should distinguish a documented early rite from a later symbolic appropriation. This protects both periods from being reduced to a timeless national character with no room for historical change."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Okjeo annotated third-century description and geographic critique"
+        }
+      ]
+    },
+    {
+      "id": "II.4.7:b10",
+      "title": "A comparative method for northern life",
+      "paragraphs": [
+        "Taken together, festivals, customary rules, marriage reports and burial descriptions demonstrate a spectrum of collective life beyond battles and rulers. They are not equally reliable or equally detailed across named polities. Each must be situated within a particular environment, social hierarchy and external relationship. This article has compared source genres and reported institutions rather than claiming a single religious system. The next chapter sections examine frontier diplomacy and Goguryeo's expansion, whose changing power relationships may have altered these communities without erasing everything recognizable. The central methodological conclusion is to preserve difference, uncertainty and the human scale of ritual evidence."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
