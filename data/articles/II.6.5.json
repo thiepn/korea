@@ -1,0 +1,167 @@
+{
+  "id": "II.6.5",
+  "title": "Mahan Ritual, Festivals, Burial, and Material Culture",
+  "kicker": "MAHAN · SOCIETY, RITUAL AND ORIGINS",
+  "description": "Original historical synthesis of mahan ritual, festivals, burial, and material culture based on external narratives, excavation and source criticism.",
+  "release": "AG",
+  "sourceStatus": "Institutional source context only; independent archaeology peer review not performed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk historical account",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Critical primary-source readings of Mahan leadership and the Baekje transition"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje foundation and development",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Source-critical distinction between early Baekje material remains and retrospective dynastic narration"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Archaeological transition from Mahan to Baekje, Chungju",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Local archaeological study of households, iron production, settlement sequences and changing affiliations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River environments and early Baekje",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Site geography and debates over early royal centers and fortifications"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Chronological control: UNESCO's eight inscribed sites primarily evidence 475–660, not all early Mahan practice"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.5:b01",
+      "title": "Ritual survives through selective traces",
+      "paragraphs": [
+        "Mahan ritual activity is known through a combination of external textual descriptions and material remains associated with burial, feasting and special deposits. These archives describe different things. A Chinese author might note a communal festival while excavators recover ceramics or food remains from an unusual context. It is difficult to prove the objects belonged to the ceremony named in the text. Ritual action itself rarely leaves a complete record, and later Korean religious language can obscure rather than clarify early local meanings. The historical task is to recognize that communities invested in shared practices without claiming knowledge of every prayer, supernatural being or specialist's role."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "NIKH Baekje and Mokji formation textual comparison"
+        }
+      ]
+    },
+    {
+      "id": "II.6.5:b02",
+      "title": "The reported seasonal gatherings",
+      "paragraphs": [
+        "Accounts of the Samhan world describe communal assemblies connected in some interpretations to agricultural rhythms. Such passages may preserve important information about collective celebrations, but their wording, authorial interest and range of application require close reading. It is unsafe to reconstruct a fixed nationwide calendar of identical Mahan rites or assign precise songs to people who left no written record. Festival activity could involve economic exchange and alliance-making as well as religious expression. The report's value is evidence that some observers understood gathering and ceremony as socially important. It does not make all communities transparent to a single foreign description."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.5:b03",
+      "title": "Burial customs and regional differences",
+      "paragraphs": [
+        "Graves offer durable signs of how particular communities handled death. Construction, orientation, grave goods and cemetery location may vary across the western and southern peninsula, and those differences need chronological study. A wooden-coffin grave and a jar burial cannot automatically be assigned to two immutable ethnic groups. Burial is a practice performed by survivors as much as by the deceased; it can express family decisions and local norms. Archaeologists should avoid assuming one prestigious object proves the grave owner's official rank. Regional comparison gains force when multiple dated burials and associated settlements are available, not simply isolated spectacular finds."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "KCI Chungju Mahan–Baekje archaeological sequence"
+        }
+      ]
+    },
+    {
+      "id": "II.6.5:b04",
+      "title": "Pottery as material and meaning",
+      "paragraphs": [
+        "Ceramic vessels were everyday tools and sometimes components of burial or ceremonial deposits. Form and decoration can help date archaeological contexts, but they may also reflect technological choices or regional exchange. A pot deposited with a body does not identify the precise meal, invocation or deity involved. Its manufacture consumed clay, fuel and skill and connected ritual display to craft production. Similar pots across regions might indicate contact rather than uniform religious identity. The same object could be used differently in domestic and ceremonial situations. Archaeological interpretation should therefore attend to findspot and use traces rather than treating a decorative type as an immediately readable sacred symbol."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.5:b05",
+      "title": "Food and collective obligation",
+      "paragraphs": [
+        "Feasts and communal gatherings can help groups affirm ties, settle disputes or redistribute resources. Yet invoking feasting as an explanation for every large pottery deposit would make archaeology circular. Where animal bones, food residues and spatial concentrations support collective consumption, historians can explore the scale of activity while acknowledging alternatives. The organization of provisioning might reveal leadership, but quantity alone does not identify a priest or chief. Seasonal agricultural work may have shaped when communities could gather. The connection between economic and ritual life matters because people devoted scarce labor and food to acts understood as socially significant, whether their precise meanings survive or not."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "UNESCO later Baekje chronology, distinguished from early Mahan evidence"
+        }
+      ]
+    },
+    {
+      "id": "II.6.5:b06",
+      "title": "The social reading of rich graves",
+      "paragraphs": [
+        "Graves with ornaments, weapons or imported objects may signal extraordinary resources used to commemorate a person. They do not prove that every elite relationship in life followed a fixed inheritance law. Funeral investment could involve several households, expressing bonds between survivors as well as the status of the buried individual. Comparative study of cemeteries may reveal changes in inequality or wider cultural contact, but body preservation and excavation history differ greatly. A historian should keep biological age, grave furnishing and inferred political position separate. The symbolic work of burial is evident; its relationship to named Mahan offices often cannot be securely established."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.5:b07",
+      "title": "Places that appear set apart",
+      "paragraphs": [
+        "Certain hilltops, large open areas, waterfront sites or unusual structures might have hosted gatherings, but their function should be established from excavation rather than presumed from scenic prominence. Many settlements have been destroyed or altered by later agricultural and urban activity. A place called sacred in a modern tradition cannot simply be assumed to have held the same meaning in the third century. Material patterns of repeated deposits can suggest special activities while remaining compatible with several explanations. The most defensible reconstruction marks whether interpretation rests on artifacts, a textual passage or a later analogy, rather than combining all three into invented certainty."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "NIKH early Baekje excavation and historical narrative"
+        }
+      ]
+    },
+    {
+      "id": "II.6.5:b08",
+      "title": "Change across the Baekje transition",
+      "paragraphs": [
+        "As Baekje expanded, local commemorative customs may have changed through new alliances, status competition and influence from other regions. Continued vessel types in one cemetery need not prove that political authority remained unchanged, while an introduced burial form need not indicate wholesale population replacement. The archaeological evidence from different regions points toward variable timing and mechanisms of interaction. Royal religious institutions of mature Baekje belong to later chronological settings; their Buddhist temples should not be read back into early Mahan ritual as established fact. Ritual history is especially vulnerable to retrospective continuity claims because later societies often explained their own practices through imagined antiquity."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.5:b09",
+      "title": "Evidence limits and the shamanism debate",
+      "paragraphs": [
+        "The label shamanism is sometimes attached to ancient Korean sacred practices, but ethnographic or modern religious categories cannot independently recover the institutions of an undocumented Mahan settlement. Claims about a named spirit mediator require textual or site-specific evidence. A carved object with unusual form may have ritual function without revealing the beliefs of its maker. Scholars can ask how divination, seasonal gatherings or ancestor commemoration may have operated, but must preserve the difference between possibility and documentation. This caution does not deny religious life. It protects early communities from being reduced to a single supposedly timeless belief system."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The cited specialist reference grounds this discussion's source horizon without converting inference into direct testimony.",
+          "locator": "AKS Han River archaeological landscape"
+        }
+      ]
+    },
+    {
+      "id": "II.6.5:b10",
+      "title": "Remembering an inaccessible sacred world",
+      "paragraphs": [
+        "Mahan communities buried their dead, prepared objects for special occasions and participated in collective practices that external observers sometimes regarded as festivals. Their diversity is more securely established than any comprehensive theological system. This article owns the relationship between ritual evidence and funerary material, distinct from the wider archaeology of early Korean religion in Part I and from Baekje's later state Buddhism. No full priestly handbook or continuous local ceremony text survives. The strongest history therefore works from dated remains and source genres, keeping uncertain interpretations explicit while taking the investments of ancient people in commemoration seriously."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
