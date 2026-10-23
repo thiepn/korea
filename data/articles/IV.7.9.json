@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.9",
+  "title": "Jang Bogo and the Establishment of Cheonghaejin",
+  "kicker": "MARITIME KOREA · CHEONGHAEJIN AND POLITICAL POWER",
+  "description": "Original analysis of jang bogo and the establishment of cheonghaejin, with direct chronological distinctions among military command, merchant organization and royal succession.",
+  "release": "AG",
+  "sourceStatus": "Contextual historical references; independent specialist manuscript review not performed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jang Bogo and Cheonghaejin specialized historical chapter",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_011_0030_0030",
+      "role": "Primary-informed account of 828 base, Tang experience, Chishan patronage and late Silla royal succession"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jang Bogo",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048474",
+      "role": "Chronological expert biography of Jang Bogo and his armed trade network, 846 assassination and royal politics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Cheonghaejin",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056856",
+      "role": "Coastal base, 828 establishment, 851 dissolution and relocation of residents"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Wando Cheonghaejin archaeological site",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048392",
+      "role": "Fortification excavations, palisade and source-specific site evidence distinct from biographies"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla maritime trade through Tang and Japan",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Silla merchant network and Japanese documentary context, including 840 Hoeyeoksa representation"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.9:b01",
+      "title": "A life preserved unevenly",
+      "paragraphs": [
+        "Jang Bogo became one of the best-known figures of ninth-century Korean maritime history, yet the documentary detail concerning his early life is limited and later accounts shaped his reputation. The name Gungbok appears in some traditions, and accounts present him as a man whose opportunities were restricted by established Silla social hierarchy. Those descriptions are significant but cannot yield a precise birth year or complete family biography. NIKH and Academy of Korean Studies scholarship examine his Tang service and later merchant power through sources compiled for different purposes. Historical explanation should separate securely located actions from the literary contrast between a humble origin and extraordinary success."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "NIKH Jang Bogo and Cheonghaejin political chronology"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.9:b02",
+      "title": "Tang military experience and regional connections",
+      "paragraphs": [
+        "Jang Bogo's years in Tang China included military service in a region affected by Tang political conflict, followed by activity in trade and resident networks. The exact timing of his arrival and every campaign assignment are not equally secure. Experience with armed organization and continental contacts may help explain his later capacity to establish a maritime command, but no source supplies a complete training history or fleet plan. NIKH scholarship situates his network in Shandong and other areas of Silla settlement. His rise was not the sudden creation of commerce by one individual; it built upon relationships among traders, migrants and religious communities that already existed."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.9:b03",
+      "title": "Chishan as a social foundation",
+      "paragraphs": [
+        "The Beophwawon at Chishan, associated with Jang Bogo's patronage, illustrates his connection to Silla residents in Tang and to Buddhist travelers. A religious institution could provide hospitality, ceremony, local knowledge and prestige. Its importance to a merchant patron was not limited to a narrowly commercial purpose. Ennin's later account documents activities at the site, offering unusually close evidence for one stage of the network. The monastery was in Tang territory, not a sovereign Silla outpost. Its development points to accumulated social resources available to a leader who operated across political and cultural boundaries while depending upon resident institutions."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "AKS Cheonghaejin 828 establishment and 851 suppression"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.9:b04",
+      "title": "Why Wando mattered",
+      "paragraphs": [
+        "Wando's southwestern coastal geography placed it along routes important to contact among Tang, Silla and Japan. Sheltered approaches and nearby islands created possibilities for anchorage and defense, but did not guarantee unrestricted command of all maritime movement. Jang Bogo established Cheonghaejin there in 828 with royal authorization under Heungdeok. The resulting base joined military and commercial functions in a particular regional setting. Its power relied on ships, armed personnel, provisioning and communications with coastal communities. Reading location as destiny would overlook prior maritime activity and the political conditions that allowed one commander to obtain an authorized position."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.9:b05",
+      "title": "The 828 establishment",
+      "paragraphs": [
+        "The reported foundation of Cheonghaejin in 828 is a stronger historical marker than speculative estimates of Jang Bogo's birth. Sources associate the station with efforts to protect Silla people from maritime raiders and enslavement. Such a purpose should be taken seriously while recognizing that a commander who controlled armed protection also acquired political leverage and economic opportunities. The formal approval of a base did not define all its subsequent relationships to the capital. A single royal decision could establish an office, but the effective reach of that office depended on ships, discipline and local resources. Cheonghaejin was built through social organization as well as permission."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "NIKH overseas Silla merchants and Japanese reception"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.9:b06",
+      "title": "Excavated defenses and their limits",
+      "paragraphs": [
+        "Archaeological investigations of the Wando Cheonghaejin site have identified substantial fortress works and wooden defensive features. The Academy of Korean Studies provides descriptions of the remains and their material construction. Such evidence helps demonstrate that the installation involved significant coordinated labor, rather than being merely a name in a chronicle. It cannot specify the exact routes of all protected ships or the identity of every soldier occupying the site. Dating, repair phases and possible reuse must be distinguished. A sound account places the excavated structure next to transmitted records without claiming that physical walls verify every motive attributed to Jang Bogo."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.9:b07",
+      "title": "Protection and merchant coordination",
+      "paragraphs": [
+        "A fortified base near major passages could protect vessels, gather information and provide a point of contact for traders. Commercial agents active in Tang and Japan could draw upon the security and reputation of a powerful patron. Still, the documentation does not provide a complete inventory of his ships, wealth or commercial profits. Modern labels such as a maritime empire or private corporation can illuminate scale metaphorically but risk importing unsupported institutions. Cheonghaejin's organization mixed official rank, personal following and regional economic resources under conditions unlike modern state monopoly. The meaning of protection must include its contribution to Jang Bogo's autonomy as well as travelers' security."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "AKS Jang Bogo biography and court conflict"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.9:b08",
+      "title": "Rank and the Silla court",
+      "paragraphs": [
+        "Jang Bogo's ascent exposed tensions between maritime wealth and Silla's elite hierarchy. His command originated with royal authorization, but the resources accumulated at Wando gave him influence not derived solely from traditional bone-rank position. Coastal power could become consequential during central political disputes because armed supporters and transport created leverage. This does not mean the court ceased to have authority over him or that his followers formed an independent state. Institutional boundaries were negotiable and became increasingly contested as late Silla royal succession struggles intensified. The connection between maritime profit and palace politics is central to understanding the base's trajectory."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.9:b09",
+      "title": "The danger of the heroic shorthand",
+      "paragraphs": [
+        "Popular portrayals sometimes depict Jang Bogo as the sole creator of Asian trade or a ruler of every sea lane around Korea. The evidence supports substantial commercial and military influence, not complete control over a unified transcontinental market. Other Silla residents, Tang traders, Japanese officials and Balhae envoys participated through networks he did not invent. His protective role should not obscure the workers and coastal households supporting the base or the political stakes of his command. Source criticism also requires distinguishing his documented activities from later literary admiration. His historical importance emerges more clearly when he is situated within preexisting commerce and late Silla institutions."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "This specialist source grounds the Cheonghaejin historical setting; conflicting retrospective dates and undocumented personal experiences remain qualified.",
+          "locator": "AKS Wando Cheonghaejin archaeological fortifications"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.9:b10",
+      "title": "An important regional commander, not an isolated genius",
+      "paragraphs": [
+        "Cheonghaejin's foundation in 828 united protection, maritime trade and regional politics in a strategically placed installation. Jang Bogo mobilized experience and connections gained in Tang and among overseas communities, while depending on labor and resources not visible in his biography. This article owns his rise and the base's establishment; the final section examines royal succession conflict, assassination, residual networks and abolition. The archaeological site and documentary record together support a substantial, source-conscious account without allowing precise fleet totals or a complete personal biography. The station's eventual conflict with the court was latent in its unusual capacity to transform commercial influence into political power."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
