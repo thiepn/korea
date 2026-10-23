@@ -1,0 +1,167 @@
+{
+  "id": "V.7.9",
+  "title": "Foreign Merchants, Byeongnando, and International Commercial Communities",
+  "kicker": "GORYEO · COMMERCIAL DIPLOMACY AND SYNTHESIS",
+  "description": "Original source-critical comparison of foreign merchants, byeongnando, and international commercial communities, with evidence-limited discussion of courts, ports and private exchange.",
+  "release": "AH",
+  "sourceStatus": "Contextual AKS/NIKH studies; external specialist review outstanding",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Byeongnando: Goryeo's main international port",
+      "url": "https://encykorea.aks.ac.kr/Article/E0022829",
+      "role": "Port geographic location on Yesong River near Gaegyeong, foreign merchants, embarkation and host facilities"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo and Song envoys, merchants and books",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0080",
+      "role": "Documented movement of Song merchants and diplomatic reopening in 1071 as well as goods and books"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Song perceptions and private Goryeo trade",
+      "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_030_0040_0020_0010&whereStr=",
+      "role": "Interpretive survey of Song traders, contact during formal hiatus and different courtly perspectives"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Khitan diplomatic relations after the wars",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0090",
+      "role": "Evidence that lasting postwar diplomatic arrangements coexisted with continental and maritime exchange"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Foundation of Jin and Goryeo foreign relations",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0110",
+      "role": "Chronology for the changing pre-Mongol balance in 1115–1127"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.7.9:b01",
+      "title": "A port near the royal center",
+      "paragraphs": [
+        "Byeongnando developed near the Yesong River approaches to Gaegyeong and became an important port for overseas arrivals during Goryeo. The Academy of Korean Studies describes its favorable navigability and position near the capital, making it a practical point of access for ships and travelers. A major port was not merely a ceremonial landing stage: pilots, carriers, storehouse workers and suppliers were needed to turn arrivals into usable exchanges. Its role changed over time and should not be assumed identical throughout the dynasty. The port's geographical value depended on water depth, river movement, road access and the ongoing resources required to maintain traffic."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked scholarly source supports the context of port activity and regional diplomacy; unmeasured trade and institutional jurisdiction are not presented as verified.",
+          "locator": "AKS Byeongnando geography and foreign-trade port"
+        }
+      ]
+    },
+    {
+      "id": "V.7.9:b02",
+      "title": "Song traders beyond official embassies",
+      "paragraphs": [
+        "Merchants from Song China visited Goryeo even during periods when formal state-to-state diplomacy was restricted or interrupted. NIKH sources distinguish diplomatic missions from commercial contacts and describe traders as intermediaries in the eventual reopening of official relations in 1071. Such activity should not be reduced to smuggling simply because ceremonial ties were uncertain; court regulations and merchant transactions operated through different channels. No surviving continuous customs data gives the exact number of privately owned vessels every year. The significance lies in the capacity of merchants to sustain material and informational relationships through geopolitical changes among Goryeo, Liao and Song."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.7.9:b03",
+      "title": "Goods and differences of value",
+      "paragraphs": [
+        "Imports associated with Song commerce included fine textiles, books, medicines and ceramics, while Goryeo products such as metals, lacquerwork and woven goods could find foreign buyers. These broad categories appear in Korean historical syntheses, but a listed commodity is not a complete dated shipment manifest. A ceramic vessel excavated inland may have passed through several intermediaries before reaching its final owner. Market value also depended on scarcity, quality and social purpose. Diplomatic gifts and commercial purchases can look similar in an archaeological collection yet represent different arrangements. A source-critical economic history keeps their transactions and later uses conceptually separate."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked scholarly source supports the context of port activity and regional diplomacy; unmeasured trade and institutional jurisdiction are not presented as verified.",
+          "locator": "NIKH Song descriptions and private trade during official interruption"
+        }
+      ]
+    },
+    {
+      "id": "V.7.9:b04",
+      "title": "The role of distant merchants",
+      "paragraphs": [
+        "Accounts of Byeongnando include visitors described as coming from wider Asian trading networks, sometimes associated in later writing with western or southern regions. Such notices demonstrate international connections but not necessarily the exact home or language of every person described under a broad geographical label. The famous claim that Arab merchants made the name Korea known in western lands needs careful qualification as a long process involving many intermediaries, not one documented meeting at a single port. Goods could move through networks even when their ultimate producers never personally visited Goryeo. International trade was layered and often indirect."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.7.9:b05",
+      "title": "The politics of reception",
+      "paragraphs": [
+        "Foreign merchants and envoys had reasons to seek safe lodging, access to the capital and a favorable reception from officials. The port's role as a point of entry made it strategically significant for regulating visits and protecting court protocol. The presence of a named reception hall does not mean every privately arriving traveler gained audience with the king. Some people could sell goods or move along approved routes without the privileges of ambassadors. Official records disproportionately preserve prestigious visits, while routine commercial labor remains obscure. Distinguishing access to court from access to a market prevents the port from appearing as one uniform diplomatic institution."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The linked scholarly source supports the context of port activity and regional diplomacy; unmeasured trade and institutional jurisdiction are not presented as verified.",
+          "locator": "NIKH Goryeo's diplomatic decision after Jin displaced Liao"
+        }
+      ]
+    },
+    {
+      "id": "V.7.9:b06",
+      "title": "Logistics between river and capital",
+      "paragraphs": [
+        "Goods landed at a river port required transport toward Gaegyeong, sometimes along roads and through facilities serving officials, merchants or private households. Distance was only one factor in cost; cargo bulk, weather, security and customs affected the effort required. Ships' ability to approach depended on navigation and seasonal conditions. We do not have a continuous annual ledger of freight prices or lost shipments for the entire eleventh century. The importance of the port can nevertheless be analyzed by its connection to administrative demand in the capital and to inland trade networks. The movement of goods depended on labor beyond the fame of foreign traders."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.7.9:b07",
+      "title": "Knowledge moved along commercial routes",
+      "paragraphs": [
+        "Books, Buddhist commentaries, medicines and artistic objects circulated in channels where court officials, religious communities and private traders overlapped. A merchant carrying a sought-after book could become important to a diplomatic project without himself being a royal envoy. Uicheon's use of maritime and commercial connections illustrates the broader relationship between learning and travel. A book obtained in Song might be copied in a Goryeo monastery, adding local scholarly work to its history. The presence of a foreign text does not prove uncritical imitation of its ideas. Cultural transmission involved acquisition, interpretation and reproduction by people within Goryeo institutions."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The linked scholarly source supports the context of port activity and regional diplomacy; unmeasured trade and institutional jurisdiction are not presented as verified.",
+          "locator": "NIKH Goryeo–Song merchant interaction and formal reopening in 1071"
+        }
+      ]
+    },
+    {
+      "id": "V.7.9:b08",
+      "title": "The uneven visibility of foreign communities",
+      "paragraphs": [
+        "A chronicler may note a merchant's nationality or an impressive gift while omitting the sailors and domestic households supporting the visit. Historians should not invent complete foreign resident neighborhoods based only on isolated arrival notices. Some traders may have remained for extended periods, while others made shorter journeys under shifting permissions. Language mediation, kinship and commercial reputation could help repeated contact but are often poorly documented. Archaeological objects can widen the evidence for goods without establishing the size of a resident population. The history of foreign merchants is therefore best described as a spectrum of activities, with the demographic detail explicitly limited by available sources."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.7.9:b09",
+      "title": "International commerce amid political constraint",
+      "paragraphs": [
+        "Goryeo's formal diplomatic obligations to Liao or Jin could shape which official missions were prudent while not necessarily determining all private transactions. A Song trader's continued voyage is not proof that the Goryeo court disregarded its northern commitments; the courts distinguished ceremonial and economic contact. The relationship shifted with Song policies, maritime opportunity and regional conflict. Japan and other destinations provided additional connections, although their records differ greatly in detail. A modern picture of an unrestricted global marketplace would misrepresent the social and political rules under which merchants operated. Commercial networks exploited possibilities within, and sometimes across, state restrictions."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The linked scholarly source supports the context of port activity and regional diplomacy; unmeasured trade and institutional jurisdiction are not presented as verified.",
+          "locator": "NIKH post-1019 Goryeo–Liao relations and frontier exchanges"
+        }
+      ]
+    },
+    {
+      "id": "V.7.9:b10",
+      "title": "Byeongnando as an intersection of worlds",
+      "paragraphs": [
+        "The Yesong River port linked Goryeo's capital to merchants, envoys and goods traveling through East Asian networks. Its significance depended on the coexistence of practical shipping, official reception and local labor. This article owns merchant and port activity, while V.4 owns the domestic Goryeo economy and V.7.7 detailed Song diplomatic learning. The evidence supports a significant international center but does not justify precise modern rankings of its annual tonnage or a universal profile of visiting populations. A source-critical history recognizes the people and institutions needed for circulation while distinguishing recorded arrivals, later traditions and wider economic inference."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
