@@ -1,0 +1,167 @@
+{
+  "id": "V.7.1",
+  "title": "Goryeo within the Multipolar East Asian Order",
+  "kicker": "GORYEO · PRE-MONGOL EAST ASIAN DIPLOMACY",
+  "description": "Original evidence-conscious analysis of goryeo within the multipolar east asian order, comparing transmitted diplomatic texts and changing regional political order.",
+  "release": "AH",
+  "sourceStatus": "Contextual NIKH source anchors; independent specialist peer review not done",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Seo Hui diplomatic negotiations in 993",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_048_0020",
+      "role": "Annotated Goryeosa text and political setting of Liao negotiations and six Ganggdong counties"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Khitan foreign relations and postwar contact",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0090",
+      "role": "Primary-source interpretation of 993, 1010, 1018–19 and later stable envoy relationship to 1125"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Song diplomatic relations",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0080",
+      "role": "Source-based chronology of 962, 993 interruption, 1071 reopening and 1123 envoy observations"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jurchen and northeastern nine fortresses",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0060",
+      "role": "Critical text with fortification sites, Byeolmuban recruitment and 1107–1109 campaigns"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jin foundation and Goryeo accommodation",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0110",
+      "role": "Primary-source analysis of Jurchen diplomatic reversal, 1125 Liao collapse and 1126 court decisions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.7.1:b01",
+      "title": "A multipolar world rather than one imperial center",
+      "paragraphs": [
+        "Goryeo entered a northeastern Asian environment in which Khitan Liao, the Chinese Five Dynasties and later Song, Jurchen communities and neighboring maritime societies pursued different political projects. The existence of a prestigious Chinese dynasty did not mean that every regional power obeyed one uninterrupted command hierarchy. Goryeo negotiated investiture, frontier security and commercial contact through several channels while cultivating its own royal claims. Historical accounts that describe an automatic choice between loyalty to China and resistance to outsiders misrepresent a field of overlapping relationships. The essential questions concern which state held force near a particular border, what an envoy requested and how local communities experienced diplomatic decisions."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH Goryeosa Seo Hui negotiation annotated primary text"
+        }
+      ]
+    },
+    {
+      "id": "V.7.1:b02",
+      "title": "The legacy of Balhae and northeast frontier claims",
+      "paragraphs": [
+        "Liao's destruction of Balhae in 926 altered the political geography north of Goryeo and displaced people who reached different destinations, including Goryeo territory. Goryeo's self-understanding drew in part on its claim to continue the traditions of Goguryeo and to receive northern migrants. Yet statements of historical succession did not settle the jurisdiction over every place north of the Yalu. Jurchen groups occupied important intervening landscapes and negotiated with multiple rulers. The record of frontier construction and envoy contact reveals a contested zone rather than a fixed modern boundary. Political legitimacy and the capacity to defend settlements were related but not identical."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.7.1:b03",
+      "title": "Liao's conflict with Song shaped Goryeo's position",
+      "paragraphs": [
+        "Khitan Liao confronted Song China's ambitions while attempting to secure its southeastern flank. Goryeo's earlier ties with Song offered Liao a strategic reason to demand altered relationships. However, Goryeo was not merely a passive appendage of the Song–Liao rivalry. Its rulers could calculate the costs of war, the advantage of recognized border arrangements and the value of cultural exchange. The crises of 993 and later invasions arose within this triangular setting. A decision to send tribute to one court need not have erased every channel of trade with another. East Asian diplomacy involved symbolic hierarchy and concrete military bargaining simultaneously."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH Goryeo–Song foreign relations and diplomatic interruptions"
+        }
+      ]
+    },
+    {
+      "id": "V.7.1:b04",
+      "title": "Diplomatic recognition was not total submission",
+      "paragraphs": [
+        "Investiture and courtly tribute could affirm a political order in which an emperor possessed greater ceremonial rank than a neighboring king. The practical meaning of those forms differed across relationships and periods. A Goryeo envoy might accept a prescribed title while the monarchy continued governing its domestic institutions and defending territory. Conversely, the formal end of a diplomatic relationship did not necessarily halt merchants' travel. National Institute of Korean History's source-based studies of Liao and Song repeatedly distinguish political recognition from economic and cultural connection. A modern analogy to full sovereign equality or colonial dependency would conceal the specificity of these premodern arrangements."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.7.1:b05",
+      "title": "The role of multiple cultural orientations",
+      "paragraphs": [
+        "Goryeo adopted administrative, textual and religious practices through varied interactions with mainland societies. Books and Buddhist works could reach the court from Song while its ruler maintained a formal investiture relationship with Liao. The coexistence of such connections is crucial: an important diplomatic change in 993 did not end Goryeo's interest in Chinese scholarship. Later reopening of formal Song relations in 1071 reflected both changing international politics and the continuing activity of merchants. Cultural borrowing did not indicate an absence of Goryeo agency. Court elites selected, interpreted and reworked imported knowledge in ways appropriate to their own political and institutional objectives."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH rise of Jin and 1126 negotiated tributary framework"
+        }
+      ]
+    },
+    {
+      "id": "V.7.1:b06",
+      "title": "Northern communities were political actors",
+      "paragraphs": [
+        "Jurchen groups between Goryeo and its powerful neighbors cannot be described simply as subjects waiting to be assigned to a state. They maintained settlements and alliances, exchanged goods and responded to pressure from expanding Liao and later Wanyan leaders. Some accepted Goryeo titles or entered frontier arrangements; others fought for control of routes and productive land. Records written by courts favor the perspective of monarchs and generals, making local motives difficult to reconstruct. A source-critical history should distinguish the language of submission used by officials from the shifting practical relationships of frontier communities. Such actors influenced Goryeo's diplomatic and military choices."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.7.1:b07",
+      "title": "The coastline connected more than embassies",
+      "paragraphs": [
+        "Trade and travel linked Goryeo with Song and Japan through maritime corridors whose effectiveness depended on ports, weather and political permission. The Ye­seong River and Byeongnando provided access to Gaegyeong and overseas merchants, while not every coastal arrival was an official envoy. Detailed commodity exchange belongs to V.7.9 and the separate Goryeo economic chapter, but foreign policy cannot be understood without commercial interests. Requests for books, medicines or luxury goods shaped the benefits of maintaining peaceful contact. A formal court record may mention an embassy and omit private shipping, so neither should be used as a complete measure of international interaction."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH Goryeo–Khitan diplomatic history after 993 and post-1019"
+        }
+      ]
+    },
+    {
+      "id": "V.7.1:b08",
+      "title": "War and diplomacy reinforced each other",
+      "paragraphs": [
+        "Military campaigns could force negotiation, while negotiated settlements altered the terms under which fortresses were constructed and travelers moved. The agreement following Seo Hui's mission in 993 established a new basis for the Yalu region, but failed to prevent later wars in 1010 and 1018–19. Those campaigns themselves were followed by sustained diplomatic contact rather than permanent isolation. A victory did not erase the need for envoys or frontier provisioning. The political geography of Goryeo was made through recurring changes of military and negotiated conditions. Treating diplomacy as a peaceful alternative wholly separate from coercive power would miss how the two operated together."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.7.1:b09",
+      "title": "The changing balance after the rise of Jin",
+      "paragraphs": [
+        "The establishment of Jurchen Jin in 1115 and its defeat of Liao in 1125 transformed the regional hierarchy. Goryeo faced demands from a power whose predecessors had often appeared in earlier frontier arrangements. The 1126 decision to recognize Jin involved significant debate and the influence of Yi Ja-gyeom and Cheok Jun-gyeong. Song, previously a source of important cultural exchange, was also under military pressure. These events require period-sensitive description rather than a simple tale of unwavering Goryeo friendship with one foreign power. Institutional adaptation and pragmatic risk assessment were central to maintaining the kingdom's security."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The NIKH source supports the historical setting and recorded diplomacy, while reconstructed political motives are distinguished from original testimony.",
+          "locator": "NIKH frontier, Jurchen and Nine Fortresses source examination"
+        }
+      ]
+    },
+    {
+      "id": "V.7.1:b10",
+      "title": "Understanding Goryeo through shifting relations",
+      "paragraphs": [
+        "From its foundation to the eve of Mongol invasions, Goryeo acted within a changing balance among Liao, Song, Jurchen Jin, Japan and other communities. The region's political order was neither a modern alliance system nor one stable hierarchy of imperial commands. This opening article provides the comparative framework. Subsequent sections examine the Khitan wars, northern fortresses, Jurchen campaigns, Jin accommodation and overseas contacts separately. Mongol invasion belongs to V.9, and Goryeo's domestic courts to earlier V Chapters. Recognizing diplomatic agency alongside unequal military power is essential for an account that does not reduce Goryeo to the ambitions of its better-documented neighbors."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
