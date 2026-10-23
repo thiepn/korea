@@ -1,0 +1,157 @@
+{
+  "id": "VI.6.5",
+  "title": "Land Tax, Gongbeop, Assessment, and Fiscal Reform",
+  "kicker": "EARLY JOSEON · LAND-TAX REFORM",
+  "description": "The assessment of farmland under Gongbeop, its political context, regional rollout, categories, social consequences and source limitations.",
+  "release": "AF",
+  "sourceStatus": "Contextual institutional sources, with scholarly interpretation awaiting independent review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Revised Korean History: early Joseon economic structure",
+      "url": "https://db.history.go.kr/id/nh_024_0010"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gongbeop: early Joseon land tax and later implementation",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004304"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwajeonbeop official land-revenue rights",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004611"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sejong agricultural policy and Nongsa jikseol",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_082_0010&tabId=03&treeId=010502"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.6.5:b01",
+      "title": "The weakness of annual crop inspection",
+      "paragraphs": [
+        "Under early arrangements derived from Gwajeonbeop, officials assessed a field's condition and the year's harvest to determine land-tax obligations through methods associated with dapheom sonsil. Such responsiveness in theory created scope for manipulation in practice. Inspectors, landholders and tax recipients did not have equal leverage when classifying weather damage or productive capacity. Contemporary concern with inconsistent assessments became one impetus for reforms debated under Sejong. A rule that specifies a nominal share of produce does not reveal what a household ultimately paid after collection costs and extra demands. Tax history must distinguish written rates, administrative classification and the economic effects of implementation."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked specialist history establishes the reform's categories and chronology, not uniform household outcomes.",
+          "locator": "NIKH early Joseon fiscal structure and annual crop assessment"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.5:b02",
+      "title": "Gongbeop and the chronology of reform",
+      "paragraphs": [
+        "The Gongbeop land-tax system was formulated during sustained debate in Sejong's reign and promulgated in 1444, but it was not instantaneously imposed in exactly the same way across every province. The Academy of Korean Studies records phased adoption over subsequent decades and continuing contest over administration. Gongbeop, a rule for land assessment, must not be confused with gongmul, goods required as tribute through a different channel of state revenue. Both terms contain the Korean reading gong but refer to distinct obligations. Reformers sought greater predictability and protection against arbitrary field inspection, while the new classification system itself demanded considerable administrative work."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.5:b03",
+      "title": "Six field qualities and nine annual classes",
+      "paragraphs": [
+        "The scheme conventionally called jeonbun yukdeung and yeonbun gudeung classified fields by six productivity grades and years by nine harvest-condition grades. This created a systematic framework intended to moderate differences in land quality and climatic outcomes. The numeric labels do not mean six identical-size categories or offer a modern crop-yield index. Determinations of grade could remain politically contested. Dividing fields into fiscal units required surveying and historical measurement conventions unlike a fixed modern hectare. Understanding the system requires attention to how land classifications linked calculations to people authorized to report, verify and challenge local conditions. Technical rules were never separate from power."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked specialist history establishes the reform's categories and chronology, not uniform household outcomes.",
+          "locator": "AKS Gwajeonbeop origins and official collection rights"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.5:b04",
+      "title": "Rates in theory and grain delivered",
+      "paragraphs": [
+        "Reform documentation discusses tax grain in quantities such as du per gyeol, with variation according to assessed field and harvest categories. Translating a gyeol into one unchanging area would be misleading because the unit was linked to rated productivity and shifting measurement. Nominal rates did not include every practical cost of transport, storage and collection. A household could owe a defined amount while confronting damaged crops or delays in delivery. Government ambitions for uniformity cannot substitute for records of actual payments. A robust analysis explains the formal scheme and acknowledges that the equivalent burden on different households could vary substantially through circumstance and local enforcement."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.5:b05",
+      "title": "Consultation and elite debate",
+      "paragraphs": [
+        "Sejong's tax discussions are remembered for efforts to gather views on competing fiscal proposals. Such consultation should not be represented as a modern nationwide referendum in which every resident participated equally. Officials and elites possessed privileged routes for reporting local conditions, and the surviving accounts are selective about which opinions were gathered and weighed. Nevertheless, the debates reveal disagreements about predictability, revenue and fairness. State administrators, landholders and cultivators held overlapping but not identical interests. The historical significance of consultation is the recorded recognition that technical assessment rules had social consequences, not evidence of a fully participatory modern political system."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked specialist history establishes the reform's categories and chronology, not uniform household outcomes.",
+          "locator": "NIKH early Joseon fiscal structure and annual crop assessment"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.5:b06",
+      "title": "Inspection continued under new rules",
+      "paragraphs": [
+        "The reforms reduced reliance on certain discretionary damage assessments, yet evaluations of land quality, annual conditions and exemptions still required officials and local knowledge. The Academy of Korean Studies notes later problems with favorable treatment of powerful interests and inconsistent application of relief. Written uniformity could coexist with variable practice. Surveyors and magistrates faced pressures from the court and local elites, while smallholders had fewer means of influencing classification. Fiscal reform was an extended political process. It would be inaccurate to declare arbitrary taxation solved in 1444 or to assume a codified schedule captured every payment made by a farming family."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.5:b07",
+      "title": "Uneven provincial implementation",
+      "paragraphs": [
+        "Staged geographic adoption illustrates the difference between promulgation and operational reach. Early application in selected localities was followed by wider rollout in the later fifteenth century; administrative capacity and local conditions influenced the sequence. A province listed as covered in a reform chronology does not establish universal compliance by every cultivator on that exact date. Differences in farming, official training and transport affected implementation. Presenting only a single national start year thus misleads readers. Tax history is necessarily regional because reform must reach actual households through surveys, grain collection and dispute resolution. Administrative ambition and achieved practice should be examined separately."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked specialist history establishes the reform's categories and chronology, not uniform household outcomes.",
+          "locator": "AKS Gwajeonbeop origins and official collection rights"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.5:b08",
+      "title": "Classification and social inequality",
+      "paragraphs": [
+        "A rule-bound system might limit abuses while redistributing burdens among fields and households. Productive land and marginal fields did not have the same capacity to support payments during bad years. Wealthy holders could seek favorable classes; less influential cultivators might find it difficult to contest inspectors. Fiscal categories became objects of bargaining as well as technical measurement. The stated intention of protecting households deserves attention, but judging outcomes requires local evidence not always preserved. Land tax could influence decisions to invest in improvement, maintain cultivation or abandon damaged fields. The state shaped economic choices through the terms on which it claimed grain."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.5:b09",
+      "title": "Other burdens did not vanish",
+      "paragraphs": [
+        "Land tax was one component of Joseon public revenue. Tribute goods, corvée and military-related support could impose additional costs not visible in a field's official assessment. A household's total exposure depended on registered status, location, resources and other obligations. Government could improve one method without relieving pressures from the rest. Distinguishing Gongbeop from much later Daedongbeop is especially important: the later reform addressing tribute arose in a different historical setting. The whole fiscal burden cannot be inferred from one famous reform. Institutional categories must be treated separately, with their chronologies and local effects made explicit."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked specialist history establishes the reform's categories and chronology, not uniform household outcomes.",
+          "locator": "NIKH early Joseon fiscal structure and annual crop assessment"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.5:b10",
+      "title": "A durable fiscal experiment with limits",
+      "paragraphs": [
+        "Gongbeop exemplifies an early Joseon effort to make assessment systematic and justifiable. Its six land grades and nine annual classes offered a framework for recurring obligations, while phased rollout and continued disputes exposed the limits of central regulation. Earlier Gwajeonbeop had reshaped who could claim revenue from land; Gongbeop addressed how field tax was measured. This article owns assessment and its social effects, while VI.6.6 covers tribute and labor, and later-period agricultural changes remain with VII.6. A credible account resists both the assumption of perpetual universal corruption and the myth that one decree made economic practice uniformly fair."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
