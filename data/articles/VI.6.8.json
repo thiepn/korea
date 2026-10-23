@@ -9,22 +9,26 @@
     {
       "institution": "Academy of Korean Studies",
       "title": "Jangmun: fifteenth-century provincial periodic markets",
-      "url": "https://encykorea.aks.ac.kr/Article/E0048454"
+      "url": "https://encykorea.aks.ac.kr/Article/E0048454",
+      "role": "Specialist history of early jangmun or jangsi with 1473 Jeolla famine discussion and later market evolution."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "Jongnu: state-supervised early Hanseong commercial streets",
-      "url": "https://encykorea.aks.ac.kr/Article/E0052922"
+      "url": "https://encykorea.aks.ac.kr/Article/E0052922",
+      "role": "Historical reference for the early fifteenth-century development and organization of Hanseong's Jongnu sijeon streets."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "The historical formation of markets in Korea",
-      "url": "https://encykorea.aks.ac.kr/Article/E0032448"
+      "url": "https://encykorea.aks.ac.kr/Article/E0032448",
+      "role": "Specialist historical assessment of market practice, paper-money and coin experiments, grain and cloth exchanges."
     },
     {
       "institution": "National Institute of Korean History",
       "title": "Economic structure of early Joseon",
-      "url": "https://db.history.go.kr/id/nh_024_0010"
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist early Joseon economic synthesis used for fiscal, household, agricultural and governmental institutional chronology."
     }
   ],
   "blocks": [
