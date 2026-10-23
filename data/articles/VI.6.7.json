@@ -9,22 +9,26 @@
     {
       "institution": "National Institute of Korean History",
       "title": "Early Joseon fiscal revenues and grain relief",
-      "url": "https://db.history.go.kr/id/nh_024_0010"
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist early Joseon economic synthesis used for fiscal, household, agricultural and governmental institutional chronology."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "Gongbeop field-tax reform and revenue",
-      "url": "https://encykorea.aks.ac.kr/Article/E0004304"
+      "url": "https://encykorea.aks.ac.kr/Article/E0004304",
+      "role": "Expert Gongbeop study establishing 1444 promulgation, six land grades, nine harvest grades and staged rollout."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "Jo-un grain shipping and public storage",
-      "url": "https://encykorea.aks.ac.kr/Article/E0052436"
+      "url": "https://encykorea.aks.ac.kr/Article/E0052436",
+      "role": "Specialist jo-un shipping history of grain warehouses, river and coastal transport, associated labor and institutional risk."
     },
     {
       "institution": "Historical Society of Korea",
       "title": "Household contribution categories Taejo–Sejong",
-      "url": "https://journal.kci.go.kr/hksh/archive/articleView?artiId=ART002153110"
+      "url": "https://journal.kci.go.kr/hksh/archive/articleView?artiId=ART002153110",
+      "role": "Peer-reviewed study of household classifications, tribute allocation and changes during early Joseon reigns."
     }
   ],
   "blocks": [
