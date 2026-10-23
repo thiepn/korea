@@ -1,0 +1,167 @@
+{
+  "id": "VI.6.2",
+  "title": "Landownership, Tenancy, Estates, and Agricultural Households",
+  "kicker": "EARLY JOSEON · LAND AND AGRARIAN ECONOMY",
+  "description": "Original documentary and social-economic reading of landownership, tenancy, estates, and agricultural households, distinguishing fiscal rights, lived practice and changing land use.",
+  "release": "AF",
+  "sourceStatus": "Institutional sources contextualize specific reforms; independent scholarly review remains outstanding",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Revised Korean History: Economic structure of early Joseon",
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist survey of land rights, fiscal systems, household obligations, agriculture and economic institutions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwajeonbeop, rights and subsequent legal changes",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004611",
+      "role": "Expert discussion of 1391 royal reform, tax entitlement versus land title and 1466/1470 changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sejong's directive for agriculture and Nongsa jikseol",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_082_0010&tabId=03&treeId=010502",
+      "role": "Contextual primary-source commentary on the 1429 agronomic project and knowledge transmission"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gongbeop, the six land qualities and nine harvest classes",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004304",
+      "role": "Detailed specialized tax history, promulgation in 1444, phased adoption and administrative tensions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Joseon farming and society",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional overview used only as contextual synthesis rather than proof of all local conditions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.6.2:b01",
+      "title": "A legal system and a lived countryside",
+      "paragraphs": [
+        "The early Joseon countryside contained cultivators working land under different combinations of property, tenancy, family obligation and fiscal claim. A legal description of agricultural property is not a census of how many people held each type. Some households cultivated land they could call their own, while others depended on access provided by a landlord or institution. Productive relationships changed as populations moved and fields were reclaimed. The government attempted to make land legible through surveys, but the resulting records capture taxable categories more readily than informal support and debt. Historians must distinguish rights to a plot, rights over a harvest and the practical power to enforce those rights."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "NIKH early Joseon economy, landownership and agriculture chapter"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.2:b02",
+      "title": "The distinction between property and collection",
+      "paragraphs": [
+        "A landlord's claim over a field and an official's entitlement to revenue could intersect without being the same legal thing. Gwajeonbeop made this especially visible by recognizing recipients of taxation rights within a landscape of cultivated properties. The National Institute of Korean History's analysis of early Joseon economic structure emphasizes that property claims could be recognized while fiscal collection was regulated separately. Translating both relationships as 'ownership' obscures how disputes arose. A tenant might negotiate with a landowner while also facing a public assessment. Accurate economic history follows who had the right to demand what rather than assuming that one person universally controlled soil, crop and labor."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.2:b03",
+      "title": "Tenancy and the sharing of risk",
+      "paragraphs": [
+        "Tenant cultivators relied on access to fields that others controlled and had to arrange a portion of output or other obligations in return. The details of such arrangements varied and should not be standardized from better documented later periods. A year of good yield could provide gains for several parties, while flood or drought might make rent and tax harder to sustain. Contracts, where preserved, must be dated and located before being used as national examples. Historians should avoid portraying tenants solely as passive victims or assuming they could freely leave every arrangement. Their choices took place amid family needs, debt, limited alternatives and unequal negotiating power."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "NIKH Sejong agricultural directive and Nongsa jikseol commentary"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.2:b04",
+      "title": "The organization of household labor",
+      "paragraphs": [
+        "Agricultural households combined field preparation, sowing, weeding, harvesting, food processing, storage and care of children or elders. The state often described such people through fiscal households and labor obligations rather than biographies. Household size, age distribution and access to animals shaped productive capacity. Women, children and elders contributed in ways official land registers rarely specify. It would be misleading to assign one fixed set of tasks to all genders or regions without contemporary evidence. The agricultural household was both a working group and a unit through which government sought revenue. Studying it reveals the human time and skill concealed in a table of taxable fields."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.2:b05",
+      "title": "Family succession and division of land",
+      "paragraphs": [
+        "Changes in inheritance, marriage and household formation influenced the distribution of land across generations. The precise relationship among descendants, spouses and property depended on period, legal practice and social setting; later patrilineal arrangements should not be read backward without qualification. A family might divide holdings, keep them under collective management or negotiate shared use. Such choices affected whether young households could establish independent farming. Institutional histories of Gwajeonbeop mention support for widows and surviving descendants, but those fiscal grants are not equivalent to all private inheritance rules. Distinguishing family property from official privileges prevents legal categories from obscuring everyday strategies of survival."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "NIKH English overview of early Joseon agrarian society"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.2:b06",
+      "title": "Estate power and public oversight",
+      "paragraphs": [
+        "Influential families, temples and other institutions could assemble substantial agricultural resources through ownership, tenants or revenue claims. The new dynasty attempted to regulate some privileges inherited from late Goryeo, yet material inequality did not disappear with a reform decree. Large estates could provide work and protection while exposing dependent cultivators to additional demands. The precise form of each relationship was local and historically contingent. Contemporary complaints about abuses are valuable but also written for political purposes. They should be compared with statutes and surviving records rather than generalized as a description of every estate. State authority and private power existed in a continuing tension."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.2:b07",
+      "title": "Soil, location and unequal opportunity",
+      "paragraphs": [
+        "Two households recorded with similar land units could receive very different harvests depending on soil quality, water, slope and distance from markets. A field near a major transport corridor might be valuable for reasons unrelated to raw acreage. The state's tax classifications attempted to account for productivity, but they could not eliminate local differences or the consequences of weather. Access to livestock, tools and shared irrigation also mattered. A history that counts formal plots alone can hide unequal opportunities among landholders. The ability to maintain seed reserves and survive an unfavorable year reveals more about household security than a bare statement of registered area."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "AKS Gwajeonbeop legal right and chronology review"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.2:b08",
+      "title": "Registration, omission and the fiscal gaze",
+      "paragraphs": [
+        "Land registers recorded matters relevant to taxation and official claims; they were not designed to describe every form of labor or social dependency. Cultivators and local elites might seek favorable classification or conceal some fields, while surveyors faced practical difficulties in identifying boundaries. A missing entry could reflect administrative omission rather than an empty settlement. The relationship between records and reality must be evaluated through the purpose and circumstances of compilation. It is equally mistaken to dismiss all records as unreliable or to treat them as perfect statistical samples. They show how the dynasty attempted to know the countryside and how that knowledge was socially mediated."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.2:b09",
+      "title": "Peasant agency and collective action",
+      "paragraphs": [
+        "Farming communities could cooperate in preparing waterworks, exchanging labor and maintaining local paths, but they also competed over land and obligations. Household strategies included negotiation with landlords, movement toward available fields and petitioning officials when burdens became intolerable. The record highlights such activity when it generated a legal dispute or administrative concern, making routine cooperation less visible. The historian should not invent the words of an unnamed peasant representative to compensate for this silence. Instead, evidence of repeated regulation and complaints can show that productive households were consequential actors in institutional change. Their responses helped determine how rules worked beyond the capital."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "AKS Gongbeop reform and field assessment history"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.2:b10",
+      "title": "The household behind Joseon's economy",
+      "paragraphs": [
+        "Landownership, tenancy and household labor formed the social foundation on which the early Joseon state's land tax, tribute and service systems rested. Formal rights mattered, but the productive experience of families depended on ecology, inheritance, negotiations and the capacity to resist arbitrary demands. This section owns property and rural social relationships rather than a full narrative of later landlord development, treated in Part VII. It does not assume that fifteenth-century arrangements remained unchanged across the dynasty. The wider lesson is that political economy begins with the people whose work produced resources and the multiple institutions claiming a share of them."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
