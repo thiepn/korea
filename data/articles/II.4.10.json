@@ -1,0 +1,161 @@
+{
+  "id": "II.4.10",
+  "title": "Northern Peoples in Later Korean Memory and Historiography",
+  "kicker": "NORTHERN POLITIES · FRONTIER AND HISTORICAL MEMORY",
+  "description": "Original historical examination of northern peoples in later korean memory and historiography, separating ancient reports, changing administrative claims and modern retrospective interpretation.",
+  "release": "AE",
+  "sourceStatus": "Contextual institutional evidence and explicit uncertainty; independent scholarly review outstanding",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Korean political formations: Buyeo and Han frontier",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0040",
+      "role": "Political chronology, uneven territorial claims and Buyeo external relations"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Okjeo position, Han commanderies and Goguryeo incorporation",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0040",
+      "role": "Annotated primary Sanguozhi and detailed disputes over local autonomy and dependency"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Dongye and Okjeo historical account",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0050",
+      "role": "Textual critique of northeastern frontier geography and names"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Buyeo origins: Shiji, Hou Hanshu and later traditions",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0100",
+      "role": "Contrasts transmitted later origin memory with textual chronology and source claims"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.4.10:b01",
+      "title": "Origins as remembered history",
+      "paragraphs": [
+        "Buyeo, Okjeo and Dongye appear in modern histories both as early societies in their own right and as possible ancestors or cultural neighbors of later Korean states. Those two uses should not be conflated. The evidence for each polity is fragmentary, while the stories told by later courts were shaped by needs for legitimacy and historical order. A claim of descent might express a meaningful political identity without supplying a full demographic genealogy. Naming a group in a later chronicle does not establish that every resident of the earlier region shared the later court's identity. Historical memory deserves analysis as a separate process from the events it commemorates."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH Buyeo political chronology and frontier context"
+        }
+      ]
+    },
+    {
+      "id": "II.4.10:b02",
+      "title": "Buyeo in Goguryeo foundation stories",
+      "paragraphs": [
+        "Traditions concerning Jumong, Dongmyeong, Hae Mosu and different Buyeo-related places connect the origins of Goguryeo to prestigious northern lineages. Their versions are not identical, and some were preserved or reformulated centuries after the events they purported to describe. The National Institute of Korean History contrasts the early textual indications for Buyeo with later mythic narratives rather than treating them as one dated chronicle. The stories may communicate claims about sacred authority, migration and royal legitimacy. They cannot reliably supply exact itineraries or birth records for legendary founders. Their significance lies partly in how succeeding rulers explained belonging and power."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.4.10:b03",
+      "title": "The problem of 'North' and 'East' Buyeo",
+      "paragraphs": [
+        "Historical writing distinguishes names such as North Buyeo and East Buyeo, but their chronology and geographical meaning vary by source. Later attempts to harmonize these labels into an exact sequence of capitals risk making the underlying discrepancies disappear. An older designation might be reused to authorize a lineage, while groups sharing cultural memories could have quite different political circumstances. Archaeology can establish settlement patterns in particular basins but rarely identifies which label inhabitants used in daily speech. Historians should present competing identifications as arguments requiring dated evidence. A neat ancestry diagram is not a substitute for reconstructing the circumstances in which each narrative arose."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH names and location of eastern communities"
+        }
+      ]
+    },
+    {
+      "id": "II.4.10:b04",
+      "title": "Sanguozhi and the authority of the outsider",
+      "paragraphs": [
+        "The third-century Sanguozhi provides indispensable information on Buyeo, eastern coastal peoples and their customs, but its perspective is external. Categories of rulership, legal practice and wealth were framed for an audience engaged in continental state politics. Later authors sometimes borrowed this evidence, which can create an impression of many independent witnesses where there may be shared textual ancestry. The absence of locally authored records makes the issue more acute. Scholars can use the text responsibly by identifying what it directly reports, its likely source networks and the uncertainty surrounding dates and terms. Neither uncritical acceptance nor wholesale dismissal recovers the past."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.4.10:b05",
+      "title": "Hou Hanshu and chronology",
+      "paragraphs": [
+        "The Hou Hanshu was compiled after the Later Han period it describes, relying on earlier documentation and traditions that may also have informed other accounts. Correspondence with Sanguozhi does not always provide a separate confirmation. Differences can reflect editorial selection, copying or genuine changes in political geography. A careful comparison establishes when an event was reported, when it supposedly occurred and what evidence a compiler could have accessed. Modern paraphrases often flatten these distinct times into one timeless account of early customs. Chronology is especially important for Buyeo's frontier diplomacy and the changing names applied to coastal communities."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH Buyeo political chronology and frontier context"
+        }
+      ]
+    },
+    {
+      "id": "II.4.10:b06",
+      "title": "The archaeological counterpart",
+      "paragraphs": [
+        "Material remains add essential evidence for settlements, craft techniques, burials and exchange that the written accounts barely mention. But identifying an archaeological assemblage as unequivocally Buyeo or Dongye can be difficult when no inscription names its residents. The distribution of ceramics or grave structures need not match a text's territorial claim exactly. Excavation also reflects modern research priorities and unequal access to sites in Northeast Asia. Historians should treat archaeology and texts as intersecting sources with different strengths, not as two puzzles whose pieces must always form one seamless map. A discrepancy may reveal complexity rather than error by one side."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.4.10:b07",
+      "title": "National historiographies and contested space",
+      "paragraphs": [
+        "Modern Korean, Chinese and other historiographical traditions have assigned different emphases to northern political formations, particularly where ancient territories overlap with modern states. Such scholarship can produce valuable research while also raising questions about present-day political frameworks. Acknowledging this context does not justify assuming any researcher is dishonest because of nationality. Claims must be evaluated through dated materials, source criticism, excavation context and transparent reasoning. A modern border cannot determine the ancestry of an ancient community, and the language of ancient tribute should not be transformed into a territorial verdict. Historical geography is best approached through explicit evidence rather than retrospective ownership."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH names and location of eastern communities"
+        }
+      ]
+    },
+    {
+      "id": "II.4.10:b08",
+      "title": "Everyday people in a history of states",
+      "paragraphs": [
+        "Later memory foregrounds royal founders and conflicts, leaving cultivators, fishers, craftworkers and families largely unnamed. Those inhabitants cannot be restored through invented diaries or dialogue, yet their material activity remains essential to understanding political life. Burial forms, fishing products, field settings and tools indicate the labor that sustained courts and festivals. Regional communities could experience several political reclassifications while maintaining household practices. The historical challenge is to place them within the narrative without giving them thoughts the sources never recorded. A plural social history makes space for the unnamed by analyzing what institutional accounts take for granted."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.4.10:b09",
+      "title": "Textbook simplifications and their uses",
+      "paragraphs": [
+        "School-level surveys commonly present Buyeo as a northern kingdom, Okjeo as a coastal tributary and Dongye as a community known for Mucheon and chaekhwa. These labels help orient readers but conceal debates over chronology, geography and the representativeness of reported customs. A full historical website should retain the accessible terms while explaining their evidentiary limits. It should also avoid deriving one direct cultural lineage from the mere resemblance of practices. Classroom summaries are starting points, not archival substitutes. The task of deeper scholarship is to ask what each concise description leaves unsaid and which disputes matter to its interpretation."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH Buyeo political chronology and frontier context"
+        }
+      ]
+    },
+    {
+      "id": "II.4.10:b10",
+      "title": "Remembering plurality",
+      "paragraphs": [
+        "The northern communities mattered to later Korean history through migration, political reorganization, remembered ancestry and sustained local economic life. None can be reduced to a single uncomplicated origin for every subsequent population. This concluding article separates the time of Buyeo and the eastern communities from the later moments when writers made claims about them. It also marks the boundary to Part III's dynastic histories, which address the development of Goguryeo and other mature kingdoms. The result is a more credible historical memory: not one seamless sequence of identical peoples, but a changing northeast Asian world whose traces were repeatedly interpreted for new purposes."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
