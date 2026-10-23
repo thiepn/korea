@@ -1,0 +1,167 @@
+{
+  "id": "II.6.1",
+  "title": "Mahan in the Written and Archaeological Record",
+  "kicker": "MAHAN · EARLY POLITIES AND EVIDENCE",
+  "description": "Source-critical study of mahan in the written and archaeological record, distinguishing third-century external accounts from archaeological and later dynastic evidence.",
+  "release": "AG",
+  "sourceStatus": "Contextual institutional sources; independent historical peer review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk: Mahan and Baekje formation",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Specialist treatment of third-century Baekje-guk, Mokji-guk, chronicle retrospective conquest and Han basin archaeological settings"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje formation and development scholarly section",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Critical comparison of Samguk sagi and Sanguozhi traditions, early settlements and fortifications"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Archaeological transition from Mahan to Baekje in the Chungju region",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Peer-reviewed phased regional evidence for Mahan materials and subsequent Baekje integration; local conclusions not generalized nationwide"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River basin archaeology and historical geography",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Expert geographic discussion of Pungnap, Mongchon and other Han basin strongholds, with disputed capital identification"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas: chronological and archaeological scope",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Comparison and chronological check for later Ungjin and Sabi evidence dated 475–660, not direct confirmation of early Mahan institutions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.1:b01",
+      "title": "The problem of the name Mahan",
+      "paragraphs": [
+        "Mahan is most familiar through Chinese textual accounts grouping a number of polities in the southwestern Korean peninsula. That convenient heading was not the name of a fully centralized territorial kingdom governing every place assigned to it on a modern map. The Sanguozhi account reflects information processed through a third-century Chinese political and geographical framework, and its classification of communities must be evaluated alongside excavation evidence. Different settlements could share exchange practices without accepting one common ruler. Modern historical maps often draw an extensive Mahan block, but the documented relationships within that area were shifting and poorly recorded. The starting question is what the label identifies in particular sources."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "NIKH Baekje-guk/Mokji-guk original scholarly chapter and Chinese text comparison"
+        }
+      ]
+    },
+    {
+      "id": "II.6.1:b02",
+      "title": "An external description of multiple polities",
+      "paragraphs": [
+        "The Wei history's Eastern Yi chapter is valuable for its account of the Samhan groupings and the names of settlements or political communities. It does not provide separate annals for each Mahan polity or a complete census conducted by indigenous officials. Lists of places may preserve names heard through intermediaries, translated with characters chosen by an outsider. The number associated with Mahan has often been treated as a fixed inventory, although the dates, location and duration of individual names remain debatable. The historian should distinguish a textual list from direct archaeological settlement units. Discrepancies need not be erased by inventing matching towns or dynasties."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.1:b03",
+      "title": "Archaeology presents another archive",
+      "paragraphs": [
+        "Pottery, graves, iron objects, domestic structures and fortified locations provide evidence independent of a compiler's political categories. They can illuminate changes in settlement density and exchange, but do not usually carry inscriptions naming a site as one of the polities in the Wei list. Archaeologists therefore work with distributions and dated sequences, not automatic matches between an excavated cemetery and a named king. A change in burial furnishings could reflect prestige or trade rather than conquest. Evidence becomes stronger when scientific dating, stratigraphic relationships and neighboring sites are studied together. The absence of a surviving text from a Mahan community is a limitation of documentation, not evidence that its residents lacked institutions."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "KCI Chungju Mahan–Baekje regional archaeological sequence"
+        }
+      ]
+    },
+    {
+      "id": "II.6.1:b04",
+      "title": "Mokji-guk and political preeminence",
+      "paragraphs": [
+        "Some interpretations locate a prominent Mahan center around Mokji-guk, whose standing in later reconstructions can be linked to accounts of a Jin king and the leadership of affiliated communities. Identifying its exact location and political reach remains contested. A prestigious leadership title need not imply the capacity to command every settlement in a broad region. Confederal and tributary relationships may have existed in varying forms, but the evidence does not justify turning them into a detailed constitution or a universally enforced bureaucracy. NIKH scholarship treats the Baekje–Mokji relationship as a historical political process rather than a single immediate replacement. Preeminence and uniform sovereignty were different things."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.1:b05",
+      "title": "Baekje-guk within the Mahan landscape",
+      "paragraphs": [
+        "A polity identifiable as Baekje-guk appears in the transmitted third-century horizon among Mahan communities. This evidence does not demonstrate that the later powerful Baekje monarchy already existed in its mature territorial form during the first century BCE. Early Baekje political development involved a lower Han River setting where leading groups, regional trade and population movement shaped possibilities. Later royal narratives reordered that development around founder biographies. NIKH's study emphasizes archaeological sequences near Garak, Seokchon and Mongchon while cautioning about whose graves are represented. Recognizing a historical Baekje-guk helps establish development without accepting a precise founder-year timetable as a contemporary record."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "UNESCO later Baekje phase only, used to bound chronological claims"
+        }
+      ]
+    },
+    {
+      "id": "II.6.1:b06",
+      "title": "The asymmetry between records and remains",
+      "paragraphs": [
+        "Texts mention rulers, offices and customs; archaeology often preserves cooking vessels, refuse deposits and tombs without personal names. Neither type of evidence can simply be used to fill every omission in the other. An imported object at a burial site cannot establish which named polity possessed its trade rights. Similarly, a text reporting several communities does not identify all their houses in the excavation record. The historian should ask why a source exists and what it was able to observe. Chinese official interests centered on frontiers and diplomatic relations, whereas buried material reflects the accumulated practices of ordinary residents and elite patrons. Their convergence is significant precisely because it is incomplete."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.1:b07",
+      "title": "Chronological layers in the historical tradition",
+      "paragraphs": [
+        "The Sanguozhi, later Chinese histories and twelfth-century Samguk sagi refer to different periods and were compiled for different audiences. A narrative preserved in Samguk sagi might be founded on older material, but its final wording and chronological organization are not direct eyewitness testimony to an early Mahan campaign. A later text that repeats an earlier passage is not necessarily independent corroboration. Archaeological dating can constrain what was possible in particular decades but rarely supplies an exact date for a legendary meeting or conquest. This distinction is fundamental for interpreting Baekje foundation traditions without disregarding their importance to political memory."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "NIKH fuller Baekje emergence and early Han valley archaeology"
+        }
+      ]
+    },
+    {
+      "id": "II.6.1:b08",
+      "title": "A world connected beyond one river",
+      "paragraphs": [
+        "The Mahan region interacted with the Han River basin, inland routes, western coasts and neighboring Samhan communities. Ceramic similarities or shared metal goods can reflect repeated contacts, although they do not reveal the full terms of trade. Its geography was not a set of sealed autonomous villages. Foreign envoys and administrators might know certain centers better than others, biasing the surviving political names. Archaeological work in the Chungju area indicates that relationships between Mahan and later Baekje forms changed regionally, with periods of cooperation and gradual integration rather than a uniform conquest date. Regional evidence deserves weight without being made into a single nationwide model."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.1:b09",
+      "title": "Ethnicity cannot be extracted from artifacts",
+      "paragraphs": [
+        "Modern narratives sometimes treat Mahan as one homogeneous ancestor population or automatically equate a burial form with an enduring ethnic group. The written category was broad and external, while material practices were influenced by environment, marriage, movement and exchange. People could participate in multiple political relationships over a lifetime. We cannot recover every community's name for itself, nor should modern national borders determine its ancient identity. Scholarship can discuss cultural continuities and later incorporation into Baekje where particular sources support them. It cannot derive a single racial or linguistic identity from the presence of a pottery vessel or a chronicle's label."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Historical and archaeological scholarship contextualizes this reconstruction; political inference is distinguished from direct testimony.",
+          "locator": "AKS Han River archaeological geography and site identification"
+        }
+      ]
+    },
+    {
+      "id": "II.6.1:b10",
+      "title": "A framework rather than a vanished people",
+      "paragraphs": [
+        "Mahan in the written and archaeological record designates a plural, changing landscape whose communities became linked in diverse ways to emerging Baekje power. The designation's later disappearance as a political category did not mean that all residents disappeared. This opening section owns the methodological relationship between external texts and archaeological evidence; II.6.2 maps regional geography, and II.6.3 addresses specific governing arrangements. Detailed royal reign histories belong in later Baekje chapters. The most secure account begins with multiple communities, incomplete sources and change over time rather than a seamless founding chronicle or a single territorial succession."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
