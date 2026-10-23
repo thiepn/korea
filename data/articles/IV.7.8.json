@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.8",
+  "title": "Piracy, Slave Raiding, Shipwreck, and Maritime Insecurity",
+  "kicker": "MARITIME KOREA · COMMODITIES AND SECURITY",
+  "description": "Original maritime source-critical history of piracy, slave raiding, shipwreck, and maritime insecurity, with contextual evidence and explicit limits on numerical and biographical reconstruction.",
+  "release": "AG",
+  "sourceStatus": "Institutional provenance context; independent specialist review not performed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla maritime trade and resident merchant networks in Tang",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Source-critical trade narrative, including commodities, private merchants and Japanese restrictions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jang Bogo and Cheonghaejin",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_011_0030_0030",
+      "role": "Scholarship on militarized maritime networks, protection, economic power and politics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Trade agents to Japan known as Hoeyeoksa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0065541",
+      "role": "Records Japan-bound purchases and commercial representatives, reception and material demand"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae history and court-trade relationship",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Separate northern embassy networks and lists of valued forest or animal goods"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Cheonghaejin as a maritime stronghold",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056856",
+      "role": "Wando geographic security, regional economy and historical sequence of coastal protection"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.8:b01",
+      "title": "A maritime economy with violence",
+      "paragraphs": [
+        "Seaborne trade involved opportunities for profit and also risks from raiding, forced capture and political coercion. Later descriptions of Jang Bogo's rise emphasize the protection of Silla people from pirates who seized travelers and sold them. Such accounts are important evidence for how maritime power was justified, but they are not complete registers of incidents or their locations. It would be unwise to claim one fixed annual number of ships lost to raiding. Coastal insecurity changed with local military capacity, weather and the competition for routes. The history of protection should be written alongside the history of who gained authority by providing it."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "NIKH Tang and Japan merchant exchange institutional account"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.8:b02",
+      "title": "The problem of identifying a pirate",
+      "paragraphs": [
+        "The label pirate could be used by a government to describe sea raiders, rivals outside its recognized authority or actors in contested maritime jurisdictions. This does not mean piracy was imaginary: attacks and forced captivity are real historical concerns. It means that source vocabulary must be read in context. A merchant might be treated as legitimate in one port and suspect in another during a political crisis. Some armed groups combined protection, commerce and coercion, complicating a simple distinction between lawful navy and unlawful raiders. Historians should specify what conduct a text reports rather than accept a moral category as a complete institutional description."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.8:b03",
+      "title": "Captivity and human vulnerability",
+      "paragraphs": [
+        "Reports of Silla people being captured and sold illuminate the human cost of weak maritime security. Those affected could include sailors, travelers and coastal residents who seldom appear in official accounts as named individuals. Later heroic narratives might center on their rescuer rather than recover their experiences. It would be inappropriate to invent dialogue or precise demographic totals for people whose records have been lost. The possibility of enslavement shaped decisions about travel and protection, even if the surviving source does not quantify its frequency. A source-critical analysis recognizes forced mobility as part of maritime political economy rather than merely a dramatic episode in a famous commander's biography."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "AKS Hoeyeoksa trade agents and documented Japan negotiations"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.8:b04",
+      "title": "Shipwreck and environmental hazard",
+      "paragraphs": [
+        "Storms, tides, unfamiliar coasts and mechanical failure could threaten vessels irrespective of whether sea raiders were present. Balhae's documented 786 envoy voyage to Japan illustrates the hazards of drift and difficult landfall, though it cannot supply an average loss rate. Accounts of monks and envoys also describe delays and dependence on local help. Trade histories frequently privilege voyages that succeeded, while unsuccessful journeys left fewer records. A vessel's route should not be reconstructed as a consistently safe direct line because a modern map shows one. Navigation was a practiced skill exercised amid uncertainty, requiring crews able to respond to changing conditions."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.8:b05",
+      "title": "Protection was a form of power",
+      "paragraphs": [
+        "An armed coastal base could deter attacks, escort ships or monitor harbors. Establishing such protection required soldiers, supplies, vessels and cooperation from nearby settlements. The provider might acquire revenue, prestige and influence over who could use strategic passages. Security therefore had political consequences beyond the reduction of crime. The foundation of Cheonghaejin in 828 is a particularly important example of a military-commercial arrangement, although its specific patrol schedules are not preserved. Recognizing the link between protection and power prevents an overly simple narrative in which commerce becomes safe only because a benevolent individual appeared."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "AKS Cheonghaejin base and coastal security"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.8:b06",
+      "title": "Local coastal communities in danger",
+      "paragraphs": [
+        "People living on islands or near landing places could suffer from raiding but could also be required to provision defenders and passing ships. A fortified harbor brought possible economic opportunities while concentrating armed men and administrative demands. No continuous household-level account survives from every Cheonghaejin-area settlement, so the distribution of costs and benefits cannot be measured precisely. Archaeological evidence of fortifications or imported goods helps locate investment but not the experiences of each resident. The relationship between a powerful maritime commander and the people sustaining his base should therefore be treated as an open social-history question."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.8:b07",
+      "title": "Violence and commercial competition",
+      "paragraphs": [
+        "Competition over profitable routes could make armed protection commercially advantageous and create incentives to exclude rivals. A strong maritime organization might claim to defend traders while also shaping market access. The surviving sources do not justify assigning every shipping dispute to deliberate predation by Jang Bogo or his competitors. Distinguishing reported violence from inferred strategic behavior is essential. Commercial networks required trust and coercive capacity in different proportions, and powerful participants could shift between military and economic roles. Such ambiguity is central to the history of early medieval seas, where the authority of royal courts did not extend evenly along every coast."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "NIKH Jang Bogo and Cheonghaejin political-economic history"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.8:b08",
+      "title": "Japan's response to unusual arrivals",
+      "paragraphs": [
+        "Japanese authorities faced practical decisions when foreign vessels arrived unexpectedly or carried disputed representatives. Official rules could regulate entry and diplomatic recognition, while humanitarian needs or commercial interests complicated enforcement. The 840 Hoeyeoksa episode shows that merchants could be refused envoy status yet still permitted some trading activity. Such responses reveal concern over political involvement and security, but do not prove that all private visitors were treated alike. The documentary record emphasizes cases requiring official decision. Routine arrivals may have left less evidence, skewing modern impressions toward crisis and exceptional negotiation."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.8:b09",
+      "title": "How archaeology contributes to the security question",
+      "paragraphs": [
+        "The Wando archaeological site associated with Cheonghaejin includes substantial defenses that demonstrate organized construction and investment. Walls and palisade remains do not reveal every enemy feared or every voyage protected. Dating phases and distinguishing military structures from settlement functions require systematic excavation. A fortification at a harbor may serve storage, political display and control as well as defense. When texts link a named commander to a base, archaeologists can test material circumstances, but the excavated remains do not automatically verify his reported motives. The strongest interpretations explain what each kind of source can and cannot independently establish."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "AKS separate Balhae mission goods and diplomatic data"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.8:b10",
+      "title": "A history of risk rather than legend",
+      "paragraphs": [
+        "Maritime insecurity involved human violence, captivity, uncertain reception and environmental danger. Cheonghaejin's emergence reveals an attempt to organize protection within profitable networks, while leaving unresolved who bore its everyday costs. This section owns security and its social consequences, distinct from the biography of Jang Bogo in IV.7.9 and the political aftermath in IV.7.10. Heroic stories can preserve real concerns while simplifying the interaction of soldiers, traders and vulnerable travelers. A source-critical narrative acknowledges both the significance of maritime protection and the impossibility of reconstructing a complete patrol log or casualty series from scattered chronicles."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
