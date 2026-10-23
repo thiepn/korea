@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.4",
+  "title": "Silla and Japan: Commerce across the Korea Strait",
+  "kicker": "MARITIME KOREA · EXCHANGE AND LEARNING",
+  "description": "Source-critical historical synthesis of silla and japan: commerce across the korea strait with differentiated merchant, diplomatic and monastic evidence.",
+  "release": "AG",
+  "sourceStatus": "Institutional contextual anchors; independent historical peer review absent",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla trade networks and Japanese commercial reception",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Analyzes 840 Hoeyeoksa negotiation and difference between court embassy and permitted merchant activity"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hoeyeoksa: merchants sent from Jang Bogo to Japan",
+      "url": "https://encykorea.aks.ac.kr/Article/E0065541",
+      "role": "Institutional account of Jang Bogo's 840 merchant representation, Japan's reception and trading privileges"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae international interactions",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Diplomatic and commercial dimensions of Balhae journeys to Japan, listed products, ports and policy restrictions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Shilla temples and community support abroad",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032849",
+      "role": "Resident temples and Ennin's observations on Chishan religious institutions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Chishan Buddhist rituals recorded by Ennin",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032827",
+      "role": "Detailed 839 travel account for ritual and learning in a Silla-speaking Buddhist center in Tang territory"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.4:b01",
+      "title": "Trade and diplomacy were not identical",
+      "paragraphs": [
+        "Silla's relations with the Japanese court included official missions and commercial encounters, but a person carrying goods was not necessarily an accredited envoy of the Silla monarchy. Japanese bureaucratic records could distinguish formal reception from permission to engage in exchange. The distinction was politically meaningful because a foreign trader might be linked to a faction or military leader whose status the Japanese court did not want to recognize. The historian therefore should not count every merchant ship as a diplomatic delegation or treat every rejection of official honors as a commercial embargo. Different parties could be interested in the same cargo for different reasons."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "NIKH Japan–Silla merchant reception and 840 Hoeyeoksa evidence"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.4:b02",
+      "title": "The geography of the northern Kyushu interface",
+      "paragraphs": [
+        "The Korea Strait connected southern peninsular ports to islands and to landing sites around northern Kyushu, including places accessible to Japanese administrative authorities. Routes were affected by weather, maritime expertise and the seasonal availability of provisions. A line on a map is useful for orientation but cannot identify every vessel's track or number of days at sea. Japanese authorities might direct visitors toward particular reception arrangements, affecting how goods reached buyers. Merchant contact with Japan was embedded in this coastal geography and in legal expectations governing arrivals. Shore settlements and sailors were indispensable intermediaries even when court annals preserved the names of powerful patrons."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.4:b03",
+      "title": "Merchants during shifts in official policy",
+      "paragraphs": [
+        "Official diplomatic relations between Silla and Japan were not uniformly cooperative through the eighth and ninth centuries. Restrictions or tensions could change the way people were received without eliminating the economic value of imported goods. Traders might approach Japanese purchasers through private or quasi-official arrangements. The surviving Japanese histories show the government's perspective on such negotiations and must be read as records of administrative choices rather than complete logs of sea traffic. NIKH scholars emphasize the important role of Silla merchants resident in Tang for the triangular Tang–Silla–Japan network. The identities and affiliations of individual traders could cross political categories."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS Balhae embassies, imported goods and Japanese restrictions"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.4:b04",
+      "title": "Jang Bogo's Hoeyeoksa of 840",
+      "paragraphs": [
+        "A documented episode in 840 involves commercial representatives connected to Jang Bogo, including Yi Chung, approaching Japan. The Japanese court would not accept them as formal envoys of the Silla king, but it allowed commercial dealings and provided some support. This distinction, discussed in NIKH and Academy of Korean Studies scholarship, demonstrates pragmatic separation of recognition from exchange. Later retellings sometimes simplify the outcome into complete diplomatic success or complete exclusion. The recorded facts support neither extreme. The mission shows a militarily powerful maritime patron experimenting with forms of representation that did not correspond neatly to royal diplomatic protocol."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.4:b05",
+      "title": "Hoeyeoksa as a commercial form",
+      "paragraphs": [
+        "The designation Hoeyeoksa is associated with Jang Bogo's merchant missions and suggests the deliberate organization of trade representation beyond the royal embassy system. Its existence does not make Cheonghaejin an independent recognized kingdom. Merchants could operate through local agents, cargo purchases and arrangements with Japanese officials while remaining involved in Silla internal politics. The Academy of Korean Studies describes a Kyushu commercial foothold and advance payments in some exchanges, but the specific practices should be attributed to the documented context rather than generalized to every ship. Organized commerce coexisted with formal limits on who could claim the status of a foreign diplomatic representative."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS 839 Ennin account of Chishan Silla Buddhist ritual"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.4:b06",
+      "title": "Japanese buyers and the circulation of luxury goods",
+      "paragraphs": [
+        "Luxury textiles, medicinal substances and other desirable imports could attract high demand among Japanese elites. The historical record sometimes notes special interest in commodities acquired through merchants connected to Tang markets. Yet price information is scattered, and there is no complete eighth- or ninth-century schedule allowing the value of all transstrait commerce to be totaled. Goods might be purchased by officials acting personally or within ceremonial systems, complicating the boundary between public and private demand. A gift at court could originate in earlier commercial exchange. The interpretation of commodity movement must track both its political setting and the material choices of buyers."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.4:b07",
+      "title": "Commercial actors with changing affiliations",
+      "paragraphs": [
+        "A person trading under a Silla name might have lived for years in Tang China, employed several interpreters and relied on contacts in Japanese ports. We should avoid assuming that this person's identity and interests were identical to those of a Silla official appointed in Gyeongju. Networks could survive changes in diplomatic relationships because residents and traders possessed their own material resources. Conversely, factional conflict could endanger trade where one patron controlled ships or access to markets. The case of Jang Bogo shows how private wealth and armed protection could interact with royal politics. Such complexity is lost when economic contact is presented as a simple exchange between national governments."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS Jang Bogo Hoeyeoksa agent and Japanese administrative record"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.4:b08",
+      "title": "Risks and the limits of legal protection",
+      "paragraphs": [
+        "Maritime traders faced storms, loss of cargo, theft and uncertain reception. Government permission to trade at one place did not guarantee safe passage across the sea or protect a merchant from every local dispute. Formal records of punishments or regulations reveal concerns but seldom show how they affected anonymous crews. Networks of hospitality and shared language could reduce some risks while creating unequal dependence on powerful sponsors. Commercial profit was earned under uncertain conditions rather than through guaranteed routes. The maritime social history therefore includes sailors, port workers and intermediaries whose names rarely survive beside those of well-connected merchants."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.4:b09",
+      "title": "The documentary bias of Japanese chronicles",
+      "paragraphs": [
+        "Japanese official histories were concerned with court policy, social hierarchy and the proper reception of visitors. They may record the same interaction differently from a merchant's account, if one ever existed. The survival of a Japanese description does not mean Japan alone determined the meaning or commercial success of every exchange. Historians should avoid treating a chronicler's label as the identity that a Silla traveler necessarily used. Comparison with NIKH analysis and other sources can clarify the institutional dilemma without inventing a symmetric record that does not survive. The chronology of the 840 mission is particularly valuable because it connects a named trading network to a specific administrative response."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS Silla religious lodging abroad and Beophwawon history"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.4:b10",
+      "title": "Commercial relations through guarded doors",
+      "paragraphs": [
+        "The Silla–Japan maritime relationship illustrates how profitable exchanges could occur despite diplomatic restrictions and fluctuating political ties. The Hoeyeoksa case shows that merchants were neither ordinary royal envoys nor actors detached from states. This section owns the Korea Strait commercial interface and Japanese reception, distinct from IV.7.3's Tang resident communities and IV.7.5's Balhae missions. Source criticism is essential because an official chronicle's judgment on accreditation does not reveal the entire fate of a cargo. A mature maritime history treats political boundaries as real constraints while recognizing traders' capacity to negotiate within them."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
