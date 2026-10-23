@@ -1,0 +1,167 @@
+{
+  "id": "II.6.8",
+  "title": "Baekje's Political Consolidation",
+  "kicker": "MAHAN · BAEKJE EMERGENCE",
+  "description": "Original critical account of baekje's political consolidation, using institutional research and differentiated textual and material evidence.",
+  "release": "AG",
+  "sourceStatus": "Institutional contextual research references; specialist manuscript review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk: reconstruction from texts and sites",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Critically distinguishes early lower Han political activity, archaeological evidence and later Baekje annals"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje's formation and development",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Dating of Baekje expansion, interaction with Mahan and problems of written traditions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River and early Baekje archaeological setting",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Debated identification of Pungnaptoseong, Mongchontoseong and related Han basin sites"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Chungju region Mahan–Baekje archaeological transition",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Phased changes in Namhan valley settlement, iron production and fortresses"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas 475–660",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Later capital evidence used as a chronological exclusion control, not primary support for early founder narratives"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.8:b01",
+      "title": "Consolidation as a sequence of relationships",
+      "paragraphs": [
+        "Baekje's emergence as a territorial power involved a succession of alliances, incorporation, conflict and administrative change among groups in the western peninsula. The Samguk sagi founder narrative often places extensive conquest early, while external references and archaeological sequences encourage a longer chronology. A powerful center could gain tribute or military cooperation without immediately replacing village leaders. Conversely, an occupied fortress may indicate more direct control in one corridor. The word consolidation must therefore describe what changed—access to labor, administration, recognition or defense—rather than serve as a vague synonym for expansion on a map. Different regions offer different evidence for each mechanism."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "NIKH early Baekje-guk and Mokji-guk political relationships"
+        }
+      ]
+    },
+    {
+      "id": "II.6.8:b02",
+      "title": "Baekje-guk before mature monarchy",
+      "paragraphs": [
+        "Third-century descriptions of Baekje-guk within Mahan supply an external horizon for an already developing polity. They cannot reveal all the earlier steps through which it became prominent. Later histories reorganized the kingdom's beginnings around a long royal line, creating the temptation to assume the same administrative apparatus from the first ruler onward. Archaeological signs of urban concentration and political display suggest increasing scale without establishing named offices for every stage. The historian should not label all regional groups as subjects of an early Baekje king merely because their territories later belonged to the monarchy. Consolidation took shape within a landscape of existing communities."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.8:b03",
+      "title": "Mokji's position and changing authority",
+      "paragraphs": [
+        "The relationship between Baekje-guk and Mokji-guk is central to competing explanations of early western-peninsula politics. A prominent Mokji-centered coalition may have enjoyed status among Mahan communities before Baekje gained greater influence. The exact chronology of this shift is difficult to establish because the surviving texts were not written as contemporary annals of Mokji's internal life. A royal conquest story might reflect a real competition but compress long changes into a founder's reign. Local alliances could move gradually toward Baekje while others resisted. NIKH scholarship emphasizes this political setting rather than a simple transition from one homogeneous kingdom to another."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "AKS Han River sites and debate about early Baekje capitals"
+        }
+      ]
+    },
+    {
+      "id": "II.6.8:b04",
+      "title": "The limits of a single conquest date",
+      "paragraphs": [
+        "A line in a later chronicle naming a military victory does not show that every settlement across a region changed affiliation simultaneously. Material continuity in pottery and burial may persist after political transfer, and new fortifications can predate formal royal control. A strong interpretation compares several local archaeological sequences and checks whether changes appear together or at different times. The Chungju study, for example, identifies stages spanning Mahan contexts, a fourth-century transition and stronger Baekje presence, illustrating regional rather than uniform change. That chronology is evidence for its own area and should not be projected uncritically across Jeolla or the whole southwest."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.8:b05",
+      "title": "Building administrative reach",
+      "paragraphs": [
+        "As Baekje integrated more territories, a central court needed communications, defensible nodes, local collaborators and methods of obtaining food and soldiers. The names of later offices cannot be transferred wholesale to the earlier period. A relationship of tribute might coexist with a locally influential lineage, while a garrison could exercise close authority over a contested route. Fortifications and organized craft concentrations can illuminate capacity but rarely specify who appointed local leaders. Administrative growth was not a binary transition from no state to complete bureaucracy. Its effectiveness depended on continued negotiation with communities whose material resources sustained royal ambitions."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "UNESCO later-phase Baekje monumental archaeology, used as chronological contrast"
+        }
+      ]
+    },
+    {
+      "id": "II.6.8:b06",
+      "title": "Cultivation and the resources of government",
+      "paragraphs": [
+        "Control of productive valleys mattered because armies, craft workshops and royal households required supplies. Harvest obligations could be organized through elites already possessing social influence in a district. Yet no complete early Baekje tax register allows exact figures for the proportion of grain collected from newly affiliated communities. Imported ornaments and prestigious burials can reveal the redistribution of resources without identifying every fiscal rule. Understanding consolidation therefore requires asking how goods moved and who bore the costs. The political power of a growing center was constrained by weather, routes and the willingness or capacity of cultivators to support public demands."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.8:b07",
+      "title": "Iron, craft and the geography of integration",
+      "paragraphs": [
+        "Technical specialists and iron production were important to regional economies and to military supply. The Chungju archaeological sequence highlights ironworking alongside changing Mahan–Baekje relationships. Such evidence suggests that resource-rich corridors were politically consequential, but the presence of a furnace does not prove direct royal ownership or a named official's command. Tools and weapons circulated through different social channels. The incorporation of specialists might occur through partnership as well as military coercion. Historians should avoid a deterministic account in which technology by itself created statehood. It offered possibilities that political actors exploited unevenly, within limits set by existing communities."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "NIKH Baekje founding and consolidation historical section"
+        }
+      ]
+    },
+    {
+      "id": "II.6.8:b08",
+      "title": "Diplomacy and the recognition of rulers",
+      "paragraphs": [
+        "Baekje's developing contacts with mainland authorities supplied opportunities for exchange and external legitimation. A court title granted by a Chinese dynasty might enhance a ruler's prestige but did not necessarily define the boundaries of his effective jurisdiction. Diplomatic correspondence foregrounded recognized elites, obscuring local authorities below them. In periods of instability in continental commanderies, frontier relationships could change rapidly. Such interactions shaped Baekje's strategies without reducing it to an administrative extension of an external empire. Consolidation must be assessed through local capacity as well as the names and honorifics preserved in foreign documents."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.8:b09",
+      "title": "The persistence of regional plurality",
+      "paragraphs": [
+        "Some Mahan centers retained distinct material cultures and social institutions well after Baekje's rise in the lower Han basin. The timing of their incorporation, autonomy or transformation is not documented with equal precision. A later Baekje-centered narrative can erase them by treating subsequent territorial limits as timeless. Archaeologists can instead show overlapping traditions and local change, though exact political names often remain elusive. These communities should be presented as participants in the creation of a larger order, with agency and differing choices. Their history did not terminate merely when a royal court acquired greater prominence in a neighboring river valley."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "KCI Chungju Mahan–Baekje staged regional transition"
+        }
+      ]
+    },
+    {
+      "id": "II.6.8:b10",
+      "title": "A gradual kingdom made through uneven change",
+      "paragraphs": [
+        "Baekje's political consolidation was a process linking growing authority in the Han basin to diverse Mahan societies through military, economic and diplomatic relationships. Evidence from fortresses, settlement change and external accounts supports increasing power while leaving many local arrangements uncertain. This section owns the institutional process of incorporation, not the detailed biographies and campaigns of later kings in Part III. It also keeps the Mokji relationship open to source-based debate rather than converting a traditional annal date into a universal turning point. A regional and multi-source account better explains the appearance of a strong Baekje monarchy than the fiction of instant territorial completion."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
