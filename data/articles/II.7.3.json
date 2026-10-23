@@ -1,0 +1,167 @@
+{
+  "id": "II.7.3",
+  "title": "Jinhan Polities and Local Political Organization",
+  "kicker": "EARLY SILLA · POLITICAL DEVELOPMENT",
+  "description": "Original source-critical account of jinhan polities and local political organization, separating third-century texts from later dynastic claims.",
+  "release": "AH",
+  "sourceStatus": "Contextual institutional evidence; no independent specialist peer review",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samhan and Jinhan polities",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026922",
+      "role": "Third-century sources for the twelve Jinhan entities and limits of list-to-map identifications"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro-guk: polity and eventual kingdom",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025526",
+      "role": "Source-critical study of Saro expansion, Jinhan relations and retrospective foundation chronology"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla founding and Saro consolidation",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101210",
+      "role": "Historical chronology of Saro's rise, fourth-century political changes, tombs and Wolseong"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Geungi-guk: debated Jinhan locality",
+      "url": "https://encykorea.aks.ac.kr/Article/E0007393",
+      "role": "Evidence of alternate localization of an externally transcribed Jinhan polity"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Juseon-guk: Jinhan name and interpretation",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053314",
+      "role": "Chronological and phonetic constraints on matching early polity names to present geographical regions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.7.3:b01",
+      "title": "Polity does not mean a standardized state",
+      "paragraphs": [
+        "The polities called guo in Chinese accounts of Jinhan cannot all be assumed to have possessed equivalent royal offices, taxes or army commands. The word was a classification by an external writer who may have known prominent settlements or alliances more readily than the internal workings of each community. Households and local leaders could share authority in different ways, with arrangements adapting to demographic and military conditions. An archaeological cluster of houses or a defensible hill illustrates social organization without establishing a particular council title. Comparative models of chiefdom or confederation may organize questions, but should not become claims that one Jinhan constitution governed all twelve named entities."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "External polity records, retrospective dynasty chronicles and archaeological contexts inform this interpretation but do not yield complete institutional certainty.",
+          "locator": "AKS Samhan entry on Jinhan entities and third-century source limits"
+        }
+      ]
+    },
+    {
+      "id": "II.7.3:b02",
+      "title": "Names may identify political communities rather than towns",
+      "paragraphs": [
+        "Sanguozhi preserves a set of names through Chinese phonetic or administrative transcription, and many modern location proposals rest on comparing those forms with later place names. Academy of Korean Studies entries on Geungi-guk and Juseon-guk explicitly record disputed identifications. A near sound match cannot alone establish that the community occupied one modern town throughout several centuries. People moved, naming practices changed and later Silla administration renamed districts. Maps should therefore distinguish attested textual names from hypothesized archaeological sites. Historical precision includes marking a location as uncertain rather than filling every blank with a plausible modern county."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.7.3:b03",
+      "title": "Leadership through resources and obligation",
+      "paragraphs": [
+        "Local influence may have depended on access to agricultural surpluses, metalworking, exchange routes and the ability to assemble fighting men or laborers. None of these capacities requires an elaborate documentary bureaucracy, and no complete Jinhan tribute registers survive. Storage pits or elite tombs can raise questions about redistribution and social distinction but seldom identify who legally owned the crop or commanded construction. A powerful family might secure voluntary followers in some settings and use coercion in others. The archaeologist's task is to test hypotheses about hierarchy using multiple lines of evidence, rather than interpret every costly object as proof of sovereign government."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "External polity records, retrospective dynasty chronicles and archaeological contexts inform this interpretation but do not yield complete institutional certainty.",
+          "locator": "NIKH Saro-to-Silla transition and fourth-century geopolitical shift"
+        }
+      ]
+    },
+    {
+      "id": "II.7.3:b04",
+      "title": "Consultation and the missing institutional archive",
+      "paragraphs": [
+        "Some decisions about defense, ritual or shared resources almost certainly required cooperation among households and leading groups. Yet there are no minutes of a universally attested Jinhan assembly that historians can quote. Later stories of Silla's six villages have political and ritual meaning but should not be projected uncritically onto every third-century Jinhan community. Meetings could vary by place and issue, while power might be exercised through informal family alliances. A shared ceremonial site or large earthwork can indicate collective action without preserving the procedure by which people agreed to construct it. Governance was practiced even when its technical vocabulary was not recorded."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.7.3:b05",
+      "title": "The relationship between Saro and other centers",
+      "paragraphs": [
+        "Saro was one of the named Jinhan polities, not simply a renamed region that already contained all others. Its eventual rise implied changing relationships with neighboring settlements through alliance, exchange, marriage, military pressure or absorption. The precise chronology of each relation is inadequately documented, particularly where a polity's location itself is uncertain. A narrative that labels every interaction conquest would erase negotiation; a narrative portraying a peaceful voluntary union would be equally unsupported. The NIKH account describes gradual integration as a process. Local centers could remain economically active after their political affiliation changed, leaving continued material practices beneath new institutions."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "External polity records, retrospective dynasty chronicles and archaeological contexts inform this interpretation but do not yield complete institutional certainty.",
+          "locator": "AKS Juseon polity's uncertain Chinese-character transcription"
+        }
+      ]
+    },
+    {
+      "id": "II.7.3:b06",
+      "title": "War and fortification as ambiguous indicators",
+      "paragraphs": [
+        "A ditch, palisade or defended site may reflect threats from rivals, but its presence does not identify those rivals. Material signs of fire could result from accident as well as attack. The historical use of a fortress also changes over time through repair, abandonment and renewed occupation. Regional political rivalry can therefore be investigated but not narrated as a continuous sequence of unrecorded battles. Weapon deposits and grave furnishings may signal the prestige of warriors without revealing the actual composition of a military force. Claims of political consolidation are most persuasive when shifts in settlement scale, defense and elite consumption converge in securely dated horizons."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.7.3:b07",
+      "title": "Hierarchy without a single class system",
+      "paragraphs": [
+        "Differences in grave investment, access to imported goods and residential scale suggest that people enjoyed unequal resources. These differences do not establish that Jinhan used the bone-rank classifications known from later Silla. Rank systems documented centuries later must not be backdated as timeless indigenous custom. Family descent may already have mattered greatly, but precise eligibility rules for each locality are not preserved. Communities also included craftworkers and cultivators whose lives were recorded far less prominently than those of elites. A balanced political history attends to the labor that sustained status and the uncertainty of interpreting social categories from objects alone."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "External polity records, retrospective dynasty chronicles and archaeological contexts inform this interpretation but do not yield complete institutional certainty.",
+          "locator": "AKS Saro polity's formative period and chronology"
+        }
+      ]
+    },
+    {
+      "id": "II.7.3:b08",
+      "title": "Administrative knowledge beyond the capital",
+      "paragraphs": [
+        "A local leader might command a settled basin effectively while exerting only limited influence over distant mountain routes. Expansion of recognized status therefore did not necessarily bring uniform ability to register households or enforce judgments. Exchange partners and neighboring elites could act as intermediaries. Archaeological evidence shows where people concentrated resources, but rarely reproduces orders traveling from one center to another. The political geography of Jinhan should be seen as a set of uneven relationships rather than one grid of districts. Later Silla's more explicit offices belong to another chronological setting and cannot be assumed already functioning under an early Saro chief."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.7.3:b09",
+      "title": "External recognition and local legitimacy",
+      "paragraphs": [
+        "A community could be recognized by a Chinese recorder as a guo without its leader holding an externally bestowed title. Conversely, dealings with continental commanderies might increase a local person's prestige without giving foreign officials direct control of every village. Imported goods circulated through multiple hands, complicating interpretations of official exchange. Local ritual legitimacy, family associations and economic resources were likely important as well, though the archive does not permit a detailed ranking of these factors. A careful account distinguishes a foreign text's classification, a ruler's claimed authority and the practical responses of the people whose cooperation he needed."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "External polity records, retrospective dynasty chronicles and archaeological contexts inform this interpretation but do not yield complete institutional certainty.",
+          "locator": "AKS Geungi locality identification debate"
+        }
+      ]
+    },
+    {
+      "id": "II.7.3:b10",
+      "title": "Political plurality as the starting condition",
+      "paragraphs": [
+        "The Jinhan political landscape consisted of multiple named communities with differing resources and evolving relations. Saro's later central role was an outcome of these interactions rather than a preexisting legal fact. This article owns local forms of authority and their evidentiary limits, while II.7.4 traces Saro's growing prominence and II.7.6 examines remembered royal clans. Later Silla offices and bone-rank restrictions are assigned to III.5. A history that preserves uncertainty about councils, locations and exact coercive reach still explains state formation: it makes visible the gradual concentration of authority within a region that had not previously operated as one uniform kingdom."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
