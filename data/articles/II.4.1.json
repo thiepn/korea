@@ -1,0 +1,161 @@
+{
+  "id": "II.4.1",
+  "title": "The Northern Cultural and Political Landscape",
+  "kicker": "EARLY NORTHERN POLITIES · HISTORICAL EVIDENCE",
+  "description": "Source-critical history of the northern cultural and political landscape, comparing third-century external accounts and the geographically uneven archaeological record.",
+  "release": "AE",
+  "sourceStatus": "Original historical synthesis with contextual institutional anchors; independent specialist review pending",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Revised Korean History: Buyeo formation and development",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0040",
+      "role": "Detailed scholarly survey of polity formation, political structure, textual chronology and archaeological uncertainty"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical Sources of Korea: Buyeo origins and establishment",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0100",
+      "role": "Primary source excerpts from Shiji, Hou Hanshu and later Korean founding traditions with critical annotations"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Dongye and Okjeo in Revised Korean History",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0050",
+      "role": "Historical geography and differences among eastern communities, sources and institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Primary sources for early states and peoples",
+      "url": "https://contents.history.go.kr/front/hm/list.do?periodCode=hm_age_10",
+      "role": "Annotated textual dossiers including Sanguozhi Wei shu Dongyi zhuan; reports must be read as a later outsider account"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.4.1:b01",
+      "title": "A landscape without modern frontiers",
+      "paragraphs": [
+        "Before the familiar northern kingdoms became legible through their royal narratives, communities lived across the Songhua, Liao, Yalu and Tumen river systems and the mountain corridors connecting them. Modern national boundaries divide those landscapes in ways irrelevant to many early journeys. An inhabitant could be tied to riverine farming, animal raising, fishing and seasonal exchange without belonging to a sharply mapped polity. Texts produced in Chinese courts later grouped people under names such as Buyeo, Ye, Okjeo and Goguryeo. Those labels register political relationships known to their authors, not a complete ethnographic census. A responsible introduction begins with changing ecology and local communities rather than one inevitable line of national descent."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH Buyeo institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "II.4.1:b02",
+      "title": "The Songhua basin and northern resources",
+      "paragraphs": [
+        "The Songhua river region offered plains and tributaries where agricultural settlements could coexist with forest and wetland exploitation. Chinese accounts praise the productive setting of Buyeo, but such descriptions do not document yields from each district or the distribution of its harvests. Settlement and burial archaeology can supply more specific evidence, though the geographic boundaries and chronology of each archaeological culture are debated. Food production could make gatherings and elite households sustainable, while the seasonal availability of wood, fish and livestock imposed practical constraints. These conditions helped create opportunities for political concentration without compelling everyone living in similar environments to obey one monarch."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.4.1:b03",
+      "title": "A mountain coast interface",
+      "paragraphs": [
+        "Eastward, the mountainous land descending toward the East Sea generated very different possibilities for movement. Okjeo and Dongye appear in sources associated with long coastal and upland zones, where compact agricultural ground, fishing sites and mountain passes shaped contact. Communities separated by ridges could be close by boat yet distant over land. Surviving accounts often discuss tribute in marine products, indicating the political value of access to coastal supplies. But an external demand for goods does not disclose how a household organized fishing or who owned boats. Northern history must give such places economic and social importance rather than treating them as a fringe of inland courts."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH eastern polities and contested place names"
+        }
+      ]
+    },
+    {
+      "id": "II.4.1:b04",
+      "title": "The evidence of the Wei account",
+      "paragraphs": [
+        "The Sanguozhi, compiled by Chen Shou in the late third century, includes a Wei account of eastern peoples that has become indispensable for this era. Its observations derive from diplomatic, military and frontier encounters, and their dates must not be confused with the date of every custom described. It presents some institutions in more detail than local writings, which survive only fragmentarily. Its authors nevertheless had political reasons to classify neighbors as allied, subordinate or unruly. Comparisons with the later Hou Hanshu may reveal shared reports instead of independent confirmation. A narrative built from these accounts should distinguish the reported claim from the historian's reconstruction."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.4.1:b05",
+      "title": "Archaeology and uncertain identities",
+      "paragraphs": [
+        "Pottery, house plans, burial arrangements and iron artifacts can reveal patterns of production and contact, but they do not carry labels identifying every excavated settlement as Buyeo or Dongye. The interpretation of regional archaeological cultures requires careful dating and analysis of distribution. A burial near a river might combine practices whose users spoke different languages or maintained diverse political relations. The absence of an object in an excavation may result from preservation or sampling, not a cultural boundary. Matching documentary place names to archaeological sites can be productive when geography and chronology converge, yet exact equivalence should be marked as a hypothesis rather than presented as an established fact."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH Buyeo institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "II.4.1:b06",
+      "title": "Names changed with relationships",
+      "paragraphs": [
+        "The distinction among Ye, Yemaek, eastern Ye and Okjeo has not remained fixed across transmitted sources or modern scholarship. Some names may designate wider cultural groupings in one text and narrower districts in another. The National Institute of Korean History's source discussions caution against treating every instance as the same population. Political authority also shifted: an area might be described through a Han commandery's jurisdiction and later through Goguryeo demands while many local households persisted. A change in outside terminology is not necessarily proof of wholesale population replacement. Historians need to track what each writer meant, where the people lived and when the description was composed."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.4.1:b07",
+      "title": "Connectivity before centralized rule",
+      "paragraphs": [
+        "Coastal fish products, agricultural grain, animal hides, metal tools and prestige goods could move through overlapping networks involving northern settlements and frontier authorities. Exchange need not follow a single caravan route or require a royal treaty. Household alliances, periodic gatherings, migration and conflict all created contact. The presence of an imported ornament reveals at least one encounter, not its frequency or the political loyalty of the carrier. Geography suggests plausible corridors, but precise itineraries require independent evidence. A broadly connected region could therefore contain numerous local leaders with distinct arrangements. Political fragmentation and economic interdependence are not incompatible descriptions of this northern world."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH eastern polities and contested place names"
+        }
+      ]
+    },
+    {
+      "id": "II.4.1:b08",
+      "title": "The problem of comparing scale",
+      "paragraphs": [
+        "A polity described with a king and aristocratic lords may seem inherently more developed than neighboring communities recorded under village chiefs. That appearance can reflect the categories and interests of external observers. A king's title does not prove uniform control over his entire claimed domain, while local autonomy does not imply a lack of institutions. Different forms of leadership could organize resources effectively for different purposes. We should distinguish the size of a claimed territory, the density of settlements and the actual ability to demand labor. Northern societies followed plural paths to authority; describing those paths as steps on a universal ladder obscures their historical choices."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.4.1:b09",
+      "title": "Conflict as one form of contact",
+      "paragraphs": [
+        "Raids, defensive alliances and shifting frontier posts were part of relations among Buyeo, Goguryeo, commanderies and other northern groups. But evidence for a campaign is often tied to court writers seeking to demonstrate success or explain failure. Victories recorded in a capital may not have ended local resistance or control of strategic passes. A military border could be porous to traders and families even during official hostilities. Later expansion by Goguryeo altered political geography without erasing every preceding community at once. Reconstructing conflict requires a chronology of specific reported events and a warning against reading later kingdoms backward into the first appearances of iron-age settlements."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH Buyeo institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "II.4.1:b10",
+      "title": "Why the northern landscape matters",
+      "paragraphs": [
+        "The northern cultural world helped form the political and cultural possibilities out of which several historical polities emerged. Its story includes local environments, shifting terms, differing scales of authority and contacts that crossed modern borders. This Chapter separately treats Buyeo kingship, Okjeo and Dongye communities, ritual reports, commandery relationships and Goguryeo's eventual predominance. The division prevents a summary of early peoples from becoming a substitute for their own histories. Sources are fragmentary, frequently outsider-written and unequally preserved; archaeology offers essential but not magically precise corrections. The most faithful history restores plurality where later retrospective narratives suggest an inevitable succession of states."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
