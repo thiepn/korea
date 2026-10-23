@@ -1,0 +1,157 @@
+{
+  "id": "VI.6.7",
+  "title": "State Finance, Granaries, Relief, and Royal-Economic Administration",
+  "kicker": "EARLY JOSEON · FINANCE AND RELIEF",
+  "description": "Documentary history of Hojo, public grain stores, relief and fiscal administration, with attention to the gap between issued orders and material results.",
+  "release": "AF",
+  "sourceStatus": "Institutional contextual references, independent specialist review outstanding",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Joseon fiscal revenues and grain relief",
+      "url": "https://db.history.go.kr/id/nh_024_0010"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gongbeop field-tax reform and revenue",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004304"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jo-un grain shipping and public storage",
+      "url": "https://encykorea.aks.ac.kr/Article/E0052436"
+    },
+    {
+      "institution": "Historical Society of Korea",
+      "title": "Household contribution categories Taejo–Sejong",
+      "url": "https://journal.kci.go.kr/hksh/archive/articleView?artiId=ART002153110"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.6.7:b01",
+      "title": "Public finance before a modern budget",
+      "paragraphs": [
+        "Early Joseon's government gathered grain, goods, labor and other resources to sustain offices, guards, royal projects and regional administration. These were not interchangeable with a modern monetary budget. Grain could be stored for direct consumption, while some tribute goods were distributed to specialized institutions. Royal and central offices sought to record obligations, but surviving accounts do not supply a complete comparable series of net annual receipts. Historical analysis must distinguish expected assessments, actual collections and materials lost in storage or transit. The practical condition of a granary could affect governmental capacity as much as rules recorded at court. Public finance depended on logistics and social relationships, not just arithmetic."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited early Joseon economic history contextualizes public finance while local operation and welfare outcomes remain incompletely evidenced.",
+          "locator": "NIKH economic structure and early Joseon fiscal granary practice"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.7:b02",
+      "title": "Hojo and administrative coordination",
+      "paragraphs": [
+        "The Board of Taxation, Hojo, held major responsibilities for coordinating revenue, assessment and expenditures within a central governmental structure that itself changed during the early dynasty. Identifying an office helps explain how regulations were issued and information consolidated. It does not mean Hojo supervised every local transaction directly. Magistrates and clerks implemented requirements, while the court could respond to exceptional circumstances with specific instructions. Fiscal administration required correspondence, recordkeeping and compliance across provinces with different productive conditions. The division between rules specified centrally and discretion used locally created recurring tensions, especially when natural disasters or political crises changed what officials could reasonably collect."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.7:b03",
+      "title": "Granaries and the challenge of preservation",
+      "paragraphs": [
+        "Storehouses helped bridge the interval between annual harvests and the continuous needs of institutions. They required buildings, measured containers, guards and systems for preventing spoilage or unauthorized removal. Grain listed in a register was not necessarily the amount available after moisture, insects or accidents. Quality, timing and ease of access could matter as much as an official stock figure. The accumulation of reserves depended on surrounding producers and transport networks that might themselves be exposed to crop failure. Documents reveal official intentions and reported supplies, not every unrecorded shortage. A granary was infrastructure requiring maintenance and trustworthy administration, not merely a symbolic monument of state generosity."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited early Joseon economic history contextualizes public finance while local operation and welfare outcomes remain incompletely evidenced.",
+          "locator": "AKS jo-un warehouse and shipping infrastructure"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.7:b04",
+      "title": "Relief and the problem of timing",
+      "paragraphs": [
+        "Droughts, floods and regional food shortages threatened households before the next harvest could replenish supplies. Royal authorities issued relief orders and sometimes used accumulated stocks to assist vulnerable communities. These measures were meaningful to a political ideal of benevolent rule, but the survival of an instruction cannot establish that every intended recipient received adequate food. Damaged roads, distance from public granaries and errors in assessing need could limit delivery. Relief arriving late might fail to prevent loss of seed or productive assets. The social history of welfare must examine policy, distribution and evidence of outcomes separately rather than treating a recorded command as a completed rescue."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.7:b05",
+      "title": "Grain loans and changing institutions",
+      "paragraphs": [
+        "Systems of grain distribution and later repayment, discussed in the history of hwangok and related practices, connected public provision with credit. Their terms and purposes changed across centuries; the severe abuses documented in later Joseon should not simply be projected onto the fifteenth century. A loan might stabilize a hungry household before harvest if repayment was manageable. In another season it could create burdens when crops repeatedly failed. Terminology and dates are critical when comparing arrangements. Historians should avoid depicting every public distribution as unconditional charity or every loan as exploitation. The key questions concern eligibility, repayment terms, risk and the preservation of shared reserves."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited early Joseon economic history contextualizes public finance while local operation and welfare outcomes remain incompletely evidenced.",
+          "locator": "NIKH economic structure and early Joseon fiscal granary practice"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.7:b06",
+      "title": "Expenditure depended on geography",
+      "paragraphs": [
+        "Maintaining the capital, regional offices, fortresses and transport infrastructure required material flows over varying distances. A treasury could possess substantial grain yet be unable to move it to a remote district in time. Ships, carts, storage and skilled workers imposed additional costs rarely visible in a simple receipt total. Construction programs also diverted labor from private production. Government accounts might prioritize official expenditure categories while omitting these household opportunity costs. The history of state finance therefore needs to consider where and when resources were required, not just the nominal scale of the king's ambitions. Effective administration was built through maintained links between producers and consumers."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.7:b07",
+      "title": "Registers as instruments with omissions",
+      "paragraphs": [
+        "Fiscal registers helped officials compare obligations and track transfers, but their categories reflected particular governmental purposes. They might omit informal borrowing, household adjustments or private exchanges. Local clerks could make errors or favor influential families, while central auditors faced incomplete information. An entry is evidence for what was reported under a system, not an unfiltered measurement of all economic activity. Nevertheless, administrative records are invaluable for understanding the effort to classify resources and address evasion. A critical approach neither dismisses written evidence as worthless nor treats its numbers as perfectly objective. The circumstances of compilation and subsequent revision matter to interpretation."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited early Joseon economic history contextualizes public finance while local operation and welfare outcomes remain incompletely evidenced.",
+          "locator": "AKS jo-un warehouse and shipping infrastructure"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.7:b08",
+      "title": "Social inequality in the benefits of public spending",
+      "paragraphs": [
+        "Public expenditure could support defense, prevent famine and maintain shared infrastructure, but the distribution of benefits might favor groups near major administrative centers. Powerful landholders could maintain reserves and political connections less accessible to poor cultivators. Confucian rhetoric of benevolence expressed obligations that historians should compare with the actual mechanisms of relief. Court records usually report decisions rather than a complete inventory of recipients' experiences. The existence of public grain stores does not demonstrate that all districts possessed equal safeguards. Attention to regional inequality helps explain why fiscal institutions could be both necessary to collective survival and sources of grievance against officials or other powerful intermediaries."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.7:b09",
+      "title": "Reform amid environmental uncertainty",
+      "paragraphs": [
+        "Early Joseon fiscal changes addressed problems of land grants, harvest assessment, tribute allocation and public expenditure. A government was not a static system whose capacity could be inferred from the names of six ministries. Revised regulations indicate continuing efforts to align official needs with production and available labor. Rainfall and local social structure made uniform application difficult. Written reforms could narrow some discretionary practices while producing new disputes over classification or eligibility. A sound financial history presents contested adjustments instead of an orderly sequence of improvements that succeeded everywhere. Political legitimacy depended in part on demonstrating concern for livelihoods, while public finances still had to support concrete military and administrative functions."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited early Joseon economic history contextualizes public finance while local operation and welfare outcomes remain incompletely evidenced.",
+          "locator": "NIKH economic structure and early Joseon fiscal granary practice"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.7:b10",
+      "title": "The granary as a meeting point of state and household",
+      "paragraphs": [
+        "Public finance and relief were inseparable from the annual agricultural cycle. Granaries and registers show attempts to coordinate collection, storage and distribution, while much of their local effect remains unevenly documented. This section owns public provisioning, relief and financial administration; VI.6.10 follows physical transport, and VI.6.5 addresses assessment rules. Mature changes in later grain-credit institutions belong to subsequent historical periods. The evidence does not justify either an image of an omnipotent benevolent court or the claim that storage only served extraction. Its significance lies in practical efforts to manage scarce resources amid risk, unequal authority and recurring negotiation over who could receive or supply grain."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
