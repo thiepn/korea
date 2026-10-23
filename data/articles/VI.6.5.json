@@ -9,22 +9,26 @@
     {
       "institution": "National Institute of Korean History",
       "title": "Revised Korean History: early Joseon economic structure",
-      "url": "https://db.history.go.kr/id/nh_024_0010"
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist early Joseon economic synthesis used for fiscal, household, agricultural and governmental institutional chronology."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "Gongbeop: early Joseon land tax and later implementation",
-      "url": "https://encykorea.aks.ac.kr/Article/E0004304"
+      "url": "https://encykorea.aks.ac.kr/Article/E0004304",
+      "role": "Expert Gongbeop study establishing 1444 promulgation, six land grades, nine harvest grades and staged rollout."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "Gwajeonbeop official land-revenue rights",
-      "url": "https://encykorea.aks.ac.kr/Article/E0004611"
+      "url": "https://encykorea.aks.ac.kr/Article/E0004611",
+      "role": "Expert Gwajeonbeop history separating title to land from rights of revenue collection and later official grant revisions."
     },
     {
       "institution": "National Institute of Korean History",
       "title": "Sejong agricultural policy and Nongsa jikseol",
-      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_082_0010&tabId=03&treeId=010502"
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_082_0010&tabId=03&treeId=010502",
+      "role": "Annotated source on Sejong agrarian policy and 1429 compilation of Nongsa jikseol from experienced cultivators."
     }
   ],
   "blocks": [
