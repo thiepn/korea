@@ -1,0 +1,167 @@
+{
+  "id": "III.5.7",
+  "title": "Law, Punishment, and the Regulation of Society",
+  "kicker": "THE THREE KINGDOMS · GOVERNMENT AND LAW",
+  "description": "Comparative source-critical reading of law, punishment, and the regulation of society, grounded in court records, NIKH scholarship, archaeology and limits of attribution.",
+  "release": "AF",
+  "sourceStatus": "Contextual scholarly evidence; manuscript has not undergone independent historical specialist review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goguryeo aristocratic councils and political transformation",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_005_0050_0010_0020_0020",
+      "role": "Late aristocratic collective rule, daedaero and uncertain continuity with early jega institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje political rank, office and noble council",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0050_0010",
+      "role": "Differentiation of rank, office and aristocratic deliberation, with late Sabi context"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Political organizations of Goguryeo, Baekje and Silla",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h61_0040_0020_0050",
+      "role": "Historical survey of institutional councils and territorial organization"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Bureaucracy in Korean history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004813",
+      "role": "Specialist reference to official structures and the limits of bureaucratic descriptions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Three Kingdoms governance",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Comparative study of five and six bu, councils, offices, ranks and social distinction"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.5.7:b01",
+      "title": "Law as both ideal and instrument",
+      "paragraphs": [
+        "The Three Kingdoms developed increasingly formal claims to regulate social order, but their earliest law codes survive largely through later reports rather than complete statutory texts. A chronicler's notice that a monarch promulgated law can identify a significant political project without revealing how every local trial proceeded. The purposes of legal norms included public order, protection of resources and the assertion that judgment could be grounded in royal authority. Enforcement might differ by social status and proximity to officials. The history of law therefore requires distinguishing a reported enactment, the surviving wording of a rule and evidence of its application. These are separate levels of knowledge, not interchangeable proofs."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "NIKH Goguryeo aristocratic deliberation and late court politics"
+        }
+      ]
+    },
+    {
+      "id": "III.5.7:b02",
+      "title": "Goguryeo's Sosurim reforms",
+      "paragraphs": [
+        "The Silla and Goguryeo annal traditions remember fourth-century legal reforms, including the enactment of law attributed to Goguryeo's Sosurim in 373. This date is important to the received chronology, but it does not preserve a full text of the code. The wider setting included educational and religious initiatives linked to a stronger court. Historians debate the degree to which continental models influenced the reforms and how much reflected existing local practice. A law can borrow vocabulary without replicating every neighboring institution. Its political significance lies partly in formalizing royal claims over competing authorities. The effect in distant villages is not documented with equal precision."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "III.5.7:b03",
+      "title": "Silla's Beopheung and ordered rank",
+      "paragraphs": [
+        "Beopheung's rule is associated with the codification of law in 520, alongside changes to official ranks and the politics of Buddhism. An annal attribution indicates how later historiography understood his reforms, but should not be expanded into an invented comprehensive legal manual. Silla's bone-rank system conditioned personal eligibility and display, showing how normative regulation could reinforce inherited privilege. The relationship among recorded law, court ceremony and everyday judgments was complicated. Elite participation in councils did not necessarily establish universal rights. A source-critical reconstruction separates the public announcement of legal order from its variable operation across households and regions."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "NIKH comparative Three Kingdoms governance and ranks"
+        }
+      ]
+    },
+    {
+      "id": "III.5.7:b04",
+      "title": "Baekje's legal categories and official organization",
+      "paragraphs": [
+        "Baekje sources describe punishments and a hierarchy of offices, but a complete contemporary Baekje law code is not preserved for straightforward reconstruction. Comparative statements in Chinese dynastic histories may emphasize features their authors considered distinctive and could date to particular periods. The emergence of specialized administrative organs suggests ways that regulation might be coordinated, yet office lists cannot reveal every decision on property or family disputes. Law and aristocratic power were intertwined; high-status defendants may have had resources inaccessible to common households. It is unwarranted to transfer procedures from much later Goryeo or Joseon codes into Baekje as if they were documented continuous traditions."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "III.5.7:b05",
+      "title": "Punishment and the uncertainty of practice",
+      "paragraphs": [
+        "Outside accounts sometimes describe severe sanctions, but a listed penalty is not a statistic demonstrating how frequently it was imposed. The genre may exaggerate either harshness or moral discipline for comparative purposes. Translated terms can also conceal distinctions between customary compensation, royal punishment and a judicial response during a crisis. Archaeological signs of confinement or violence rarely identify the rule invoked in a specific incident. To reconstruct practice, historians need dated texts, procedural evidence and site contexts that seldom survive together. It is responsible to identify the reported sanctions and the political claims they express while refusing to invent courtroom scenes or uniform enforcement."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "NIKH English Three Kingdoms government and society synthesis"
+        }
+      ]
+    },
+    {
+      "id": "III.5.7:b06",
+      "title": "Status and unequal access to justice",
+      "paragraphs": [
+        "Social hierarchies shaped the experience of law. Elite families with influential allies could negotiate consequences or gain access to the royal court, while people in subordinate positions might face demands without equivalent opportunities to contest them. The exact legal rights of every status group cannot be reconstructed from scattered early reports. Silla's well-known rank restrictions were primarily a structure of social and political eligibility, not a complete code of household litigation. A social history of legal regulation asks whose property, labor and bodily security institutions protected, and whose interests were subordinated. It marks inequalities supported by evidence without importing modern categories as exact equivalents."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "III.5.7:b07",
+      "title": "Custom, ritual and royal decree",
+      "paragraphs": [
+        "Community norms of kinship, marriage, burial and resource use did not necessarily disappear with the announcement of a royal code. Northern custom reports addressed in II.4 provide useful context but should not be assumed identical across the mature kingdoms. Religious legitimacy and aristocratic consensus could support a judgment even when no written rule survives. Disputes might be resolved locally according to relationships that a central chronicle considered unimportant. Law's expansion was a layered historical process in which customary expectations and royal authority interacted. The historian's task is to show the relationship rather than posit a single linear transition from unwritten tradition to total codification."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "NIKH Baekje governmental rank and noble body research"
+        }
+      ]
+    },
+    {
+      "id": "III.5.7:b08",
+      "title": "Regulation through offices and territory",
+      "paragraphs": [
+        "Officials and military leaders could make the state's norms meaningful beyond its capital, but their jurisdiction was tied to practical access, supplies and recognition from local actors. A fortress that protected a corridor might also provide a setting for enforcing obligations. Yet no evidence justifies mapping modern courts onto every garrison. An appointment document's existence does not establish a consistent appeal procedure. Enforcement might be stronger near key population centers and less regular on disputed frontiers. The history of law must therefore be linked to III.5.6's territorial government, without assuming administrative centralization automatically brought equal or predictable judgment to all subjects."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "III.5.7:b09",
+      "title": "Interpreting a law's reported date",
+      "paragraphs": [
+        "A specific legal reform date preserved in a medieval compilation can be used as a convention in chronology, but its precision should be weighed against the date of compilation and the loss of underlying records. Parallel external accounts or inscriptions may corroborate the setting without providing the original wording. Historians should identify which claims come from contemporary material and which depend on later summaries. A later law collection cannot simply be backdated because it shares a concept with an earlier report. This caution also protects institutional history from attributing the entire development of law to the initiative of one celebrated ruler."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "AKS encyclopedia of government and early offices"
+        }
+      ]
+    },
+    {
+      "id": "III.5.7:b10",
+      "title": "Regulation as a contested social order",
+      "paragraphs": [
+        "Royal legal initiatives helped define state authority in the Three Kingdoms, while local practice, elite privilege and incomplete documentary survival limit our knowledge of their operation. The evidence demonstrates attempts to organize punishment and precedence but does not deliver a continuous codified constitutional history. This article owns normative regulation and its social consequences; fiscal obligations are treated separately in III.5.8 and councils in III.5.4. The comparison across kingdoms reveals neither a complete absence of rules before legislation nor universal equality once codes were proclaimed. Law formed part of state formation precisely because people and groups had differing interests in how coercive authority should be recognized and exercised."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
