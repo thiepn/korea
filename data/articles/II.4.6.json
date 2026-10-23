@@ -1,0 +1,161 @@
+{
+  "id": "II.4.6",
+  "title": "Dongye: Society, Territory, and Cultural Identity",
+  "kicker": "NORTHERN COMMUNITIES · SOCIAL GEOGRAPHY AND SOURCE CRITICISM",
+  "description": "Original close reading of dongye: society, territory, and cultural identity grounded in the Wei tradition and modern annotated Korean historical sources.",
+  "release": "AE",
+  "sourceStatus": "Original synthesis with contextual documentary citations; no independent specialist review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Okjeo: location, changing political relations, and primary account",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0040",
+      "role": "Annotated Sanguozhi Okjeo passage, geographic naming and debated indirect versus direct Goguryeo control"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Dongye and Okjeo: society, settlements, custom",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0050",
+      "role": "Scholarly synthesis of eastern groups and critical reading of the Wei text"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Dongye's chaekhwa: territorial protection and compensation",
+      "url": "https://contents.history.go.kr/mobile/mid/hm_003_0070?tabId=r",
+      "role": "Primary text and source-critical discussion of Dongye boundaries, clan ties and compensation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annotated pre-Three Kingdoms source register",
+      "url": "https://contents.history.go.kr/front/hm/list.do?periodCode=hm_age_10",
+      "role": "Primary Sanguozhi dossiers for Okjeo marriage, Buyeo Yeonggo and Dongye customs; descriptions are selective external testimony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.4.6:b01",
+      "title": "A reported people across connected valleys",
+      "paragraphs": [
+        "Dongye refers in third-century sources to communities along portions of the eastern peninsula, especially south of some districts called Okjeo. The term should not be assumed to cover one sharply bounded ethnic state throughout antiquity. The Sanguozhi describes the eastern Ye in relation to neighboring regions and the sea, using categories familiar to a Chinese frontier writer. Modern reconstructions locate activity around northern Gangwon and southern Hamgyong, but particular sites and boundaries remain uncertain. Coast, cultivated valleys and mountain routes shaped settlement life. A geographic account must therefore distinguish the textual claim, plausible topographic corridor and each excavated community."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Okjeo annotated third-century description and geographic critique"
+        }
+      ]
+    },
+    {
+      "id": "II.4.6:b02",
+      "title": "The village as a political unit",
+      "paragraphs": [
+        "The third-century account presents Dongye as lacking a single paramount ruler and organized through local communities, with leaders receiving designations such as hou, eupgun or samno. Such titles may reflect interactions with Han administrative conventions, not offices identical in function to those in imperial counties. Village leaders likely mediated resources, disputes and relations with neighbors, although the texts do not provide their day-to-day agendas. The absence of a recorded monarch does not mean the absence of hierarchy or shared norms. Local institutions can exercise real authority over boundaries and family relationships without forming one court-centered kingdom."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.4.6:b03",
+      "title": "Chaekhwa and protected community space",
+      "paragraphs": [
+        "The custom commonly called chaekhwa appears in the Sanguozhi as compensation owed for crossing another community's territorial limits without authorization. The account mentions repayment in goods including animals or dependent labor, showing that control of places was taken seriously. But it does not specify a modern cadastral survey or provide a list of every offense tried by village authorities. The rule may reflect customary mechanisms for preventing conflict between neighboring settlements. Boundaries could relate to fields, forests, streams and use rights rather than a single national frontier. The historical insight is a norm of territorial respect within an otherwise decentralized political landscape."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Dongye chaekhwa account and commentary"
+        }
+      ]
+    },
+    {
+      "id": "II.4.6:b04",
+      "title": "Marriage beyond the community",
+      "paragraphs": [
+        "The outsider account associates Dongye with restrictions on marriage within the same local group, often termed exogamy. The precise kin unit and the flexibility of exceptions are not fully documented. It would be careless to identify this practice with every present-day clan rule or infer one unchanging genealogical system. Marriage across communities could create relationships useful in sharing resources or resolving disputes, while those same ties could intensify competition over labor and status. Women's choices and experiences are largely absent from the written description. The source nevertheless indicates that community identity was articulated through social rules as well as residence."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.4.6:b05",
+      "title": "October rites and Mucheon",
+      "paragraphs": [
+        "The autumn gathering called Mucheon is associated with Dongye in the historical descriptions. Its seasonal placement invites comparison with harvesting and public assembly, yet the available account does not specify every rite, deity or ceremonial formula. The festival's name and reported timing are evidence; claims about what every participant sang or how the ritual evolved over centuries are speculation. Such ceremonies might help maintain solidarity among dispersed villages without implying that one sovereign supervised them. A collective religious occasion can coexist with autonomous local governance. The account must be read as a selective external testimony that highlights customs distinguishing one group from neighbors."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Okjeo annotated third-century description and geographic critique"
+        }
+      ]
+    },
+    {
+      "id": "II.4.6:b06",
+      "title": "Fishing, fabrics and productive reputation",
+      "paragraphs": [
+        "Texts praise Dongye's resources and special products, including woven cloth, a small horse known as gwahama, short bows and patterned animal skins. Such enumerations reflect what external observers valued or encountered through exchange. They are not a complete household inventory or proof of specialized production in every village. Textiles often survive poorly in ordinary soil, leaving much productive labor invisible. Distinguishing reputation from volume is especially important where stories of exchange are based on a few recorded items. Agricultural fields, marine work and craft skills together sustained communities that outsiders often depicted through their most distinctive commodities."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.4.6:b07",
+      "title": "Social borders versus ethnic borders",
+      "paragraphs": [
+        "An identifiable rule about crossing village territory does not prove that all Dongye communities spoke one language or considered themselves members of a modern nation. Historical texts may use Ye, Yemaek and Dongye in inconsistent ways. Scholars caution that ethnic labels can reflect political relationships and geographic shorthand rather than self-description. A settlement's ceramic style can illuminate practice and contact, but cannot provide a reliable ethnic certificate. Communities may have shared traditions across boundaries while resisting unauthorized entry into particular local resources. Such apparent contradictions are normal in societies where kinship, residence and external categorization operated on different scales."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Dongye chaekhwa account and commentary"
+        }
+      ]
+    },
+    {
+      "id": "II.4.6:b08",
+      "title": "Han influence and local autonomy",
+      "paragraphs": [
+        "Some eastern communities interacted with Han commandery institutions through exchange, titles and territorial claims. The label assigned by a foreign official could serve a practical function in tribute or diplomacy, even while local leaders retained authority over everyday affairs. Descriptions of Dongye as subordinate to an outside center should be dated rather than treated as constant for centuries. Shifting relations with Okjeo and Goguryeo changed the wider political environment. The distinction between external recognition and internal practice helps explain why local customs remained prominent in surviving accounts. State boundaries were an important influence, but they were not the only structure organizing life."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.4.6:b09",
+      "title": "Archaeology's uneven response",
+      "paragraphs": [
+        "Eastern settlements and burials offer evidence of dwelling forms, tools and material exchange, though their connection to the textual name Dongye is a hypothesis requiring chronology and context. Mountain environments, modern construction and political limits on excavation distort the available sample. A region yielding fewer rich graves may still have supported substantial farming and social life. Conversely, an impressive object does not define the ethnic identity of its owner. Comparing texts with archaeological remains is valuable when both share a plausible time and place. The historian should resist depicting excavated households as direct illustrations of every reported custom without an independent link."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Okjeo annotated third-century description and geographic critique"
+        }
+      ]
+    },
+    {
+      "id": "II.4.6:b10",
+      "title": "Identity without one capital",
+      "paragraphs": [
+        "Dongye's historical importance lies in its demonstration that collective identity, boundaries and ritual could function across settlements without a powerful centrally recorded monarchy. Its interactions with commanderies and neighboring states changed, but the text preserves the local institutions those larger political narratives tend to omit. The evidence remains fragmentary and filtered through observers who were not writing village histories. This article concentrates on territory, household norms and cultural attribution; the next compares northern rituals and customary law while preserving differences among the named groups. A careful account of Dongye must avoid both dismissing local complexity and turning a reported people into an invented nation-state."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
