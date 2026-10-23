@@ -1,0 +1,161 @@
+{
+  "id": "IV.6.6",
+  "title": "Roads, Trade, Markets, and the Balhae Economy",
+  "kicker": "BALHAE · MATERIAL CULTURE, EXCHANGE AND RELIGION",
+  "description": "Original source-critical account of roads, trade, markets, and the balhae economy, grounded in archaeological objects, capital sites and limited royal or diplomatic testimony.",
+  "release": "AE",
+  "sourceStatus": "Source-specific contextual references, no independent scholarly review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae capital archaeology, arts and economic connections",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_039_0070_0020_0020_0020",
+      "role": "Site contexts, court geography and archaeological survivals of crafts and roads"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae development, diplomacy and culture",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "role": "Survey of Tang contact, capital investment and religious-cultural work; dated curricular synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghye tomb at Dunhua",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051146",
+      "role": "Dated royal burial, sculpture, inscription and the visibility of artisan skill"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghyo tomb in Longtou Mountain",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051192",
+      "role": "Architectural materials and elite memorial practice; not a census of everyday craft or devotion"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.6.6:b01",
+      "title": "Connections across a large realm",
+      "paragraphs": [
+        "Balhae's cities and regional communities occupied a broad northeastern landscape in which river systems, mountain passes and coastal routes structured movement. The existence of several capitals implies administrative coordination, but a map linking them by straight lines cannot reveal travel conditions or the frequency of traffic. Horses, pack transport, boats and portage may have been used in different settings. Roads required maintenance and places for travelers to obtain food and shelter. Merchants, envoys, soldiers and ordinary carriers did not necessarily follow identical routes. The study of exchange begins with practical mobility rather than the assumption that an extensive royal claim created a single integrated market."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "NIKH capital settlements, production and trade archaeology"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.6:b02",
+      "title": "The route toward Tang",
+      "paragraphs": [
+        "Relations between Balhae and Tang involved diplomatic missions, personnel and material gifts that moved through recognized corridors. Written records often emphasize the prestige of exchanges at imperial courts, leaving commercial activity and intermediate labor less visible. A recorded mission provides evidence of travel but does not give the route or cargo for every later merchant. Political conditions could make some passages dangerous while allowing others to remain open. Goods acquired in Tang territory might reach Balhae users through intermediaries. The historical significance of the route was both diplomatic and economic, though the terms of ordinary transactions cannot be read directly from the formal audience descriptions."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.6:b03",
+      "title": "Maritime connections with Japan",
+      "paragraphs": [
+        "Balhae sent missions to the Japanese archipelago across the Sea of Japan or East Sea, and the journeys contributed to political and cultural contact. Maritime travel required navigational knowledge, seasonal decisions and ports capable of supporting vessels. Court accounts preserve arrivals and gifts better than the experiences of sailors or the cost of provisions. A diplomatic embassy could also carry goods with commercial value, but its presence does not establish a uniform, unrestricted overseas market. Storms, shipwrecks and changes in political relationships affected access. These exchanges connected distant elite worlds while relying on coastal communities whose practical contributions are seldom named in the written record."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "AKS Jeonghye stone burial, dated inscription and sculpture"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.6:b04",
+      "title": "Coastal and inland distribution",
+      "paragraphs": [
+        "Rivers and shorelines could shorten some movements of heavy goods, while inland valleys connected agricultural and craft regions to larger centers. A port might collect products from several communities before sending them onward, and cargo could change hands repeatedly. We lack continuous manifests for Balhae shipping or a system of recorded freight rates. Archaeological concentrations of foreign objects suggest connections without yielding exact tonnage. Exchange may have included salt, fish, textiles, metal items, ceramics and food, though proposed cargo lists should distinguish attested products from economic inference. Each journey depended on infrastructure and people in ways that royal diplomatic accounts largely conceal."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.6:b05",
+      "title": "Markets beyond the court",
+      "paragraphs": [
+        "It is plausible that towns and regional administrative seats provided settings for barter and specialized exchange, but direct evidence for market schedules and rules is limited. We should not project the legal structure of later Joseon markets onto Balhae towns. Artisans and farming families had reasons to exchange surplus or obtain goods they could not produce locally. Such transactions could occur through kin relationships and official redistribution as well as sale. A capital's demand for grain and building materials did not make the palace the only economic actor. The historian can discuss likely economic functions while marking the boundary between material evidence and reconstructed institutional arrangements."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "NIKH capital settlements, production and trade archaeology"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.6:b06",
+      "title": "Prestige goods and ordinary necessities",
+      "paragraphs": [
+        "The royal court's diplomatic contacts generated identifiable luxury items and ceremonial references, yet bulk supplies necessary to support urban populations are harder to trace. A jar of grain or a repaired tool could matter more to a household than the foreign object eventually deposited in a princely tomb. The visibility of trade is distorted by the survival of decorated things. If iron, timber or textiles moved through regional circuits, their everyday wear and reuse might leave ambiguous evidence. The economy therefore needs to be examined from both ends: elite circulation documented in texts and ordinary productive activity indicated by settlements and material remains. Neither by itself captures the complete network."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.6:b07",
+      "title": "Political control and economic alternatives",
+      "paragraphs": [
+        "Officials or regional leaders could influence access to road corridors and harbor facilities, creating opportunities to demand provisions or regulate movement. But control of a city gate does not imply direct command of every trader in surrounding mountains. Networks may have adapted to political conflict by shifting routes or relying more heavily on local intermediaries. The survival of a trade connection across successive reigns is not guaranteed by the continuity of a royal title. Historical accounts often make commerce appear subordinate to diplomacy, whereas households had independent reasons to move goods. The relation between political authority and exchange was negotiated, variable and geographically uneven."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "AKS Jeonghye stone burial, dated inscription and sculpture"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.6:b08",
+      "title": "The role of neighboring communities",
+      "paragraphs": [
+        "People described in outside texts as Mohe or Malgal lived in regions important to Balhae trade and transport. Their relationships with royal centers varied, and they cannot be reduced to passive providers of forest products. Local knowledge about rivers, animals and seasonal routes could give communities bargaining power. Political alliances, kinship and conflict shaped the terms of travel. A trade good originating in a northern district might reach a city through several exchanges, making its final findspot an inadequate guide to the identity of the carrier. Economic reconstruction must recognize local agency rather than assuming that every commodity crossed the realm under a single royal order."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.6:b09",
+      "title": "Archaeology and the scale of movement",
+      "paragraphs": [
+        "Imported ceramics, metal goods, coins and other objects can show contact across distances, though provenance requires context and sometimes scientific analysis. A coin found in a Balhae setting does not prove universal monetary circulation, and a Tang-style bowl may have been locally reproduced. Dated excavation layers help place objects within changing political phases. Modern access to sites varies across northeastern China, Korea and Russia, affecting the apparent distribution of materials. One unusually rich city could make the wider trade system seem more centralized than it was. Good maps distinguish actual finds from hypothetical routes and note where evidence is sparse."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "NIKH capital settlements, production and trade archaeology"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.6:b10",
+      "title": "An economy organized through relationships",
+      "paragraphs": [
+        "Balhae's exchange system linked metropolitan demand with rural production, craft centers and diplomatic networks reaching Tang and Japan. Transport made possible royal projects but also connected households whose activities the chronicles seldom record. Its precise market rules, transaction volumes and monetary practices remain too poorly documented for a modern national accounts model. This article owns the practical economy of roads and movement; IV.5 owns interstate diplomacy and individual missions, while IV.6.5 owns manufacturing techniques. The strongest conclusion is that economic integration was a continuing achievement requiring labor, cooperation and geographical knowledge rather than an automatic consequence of claims to rule a vast territory."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
