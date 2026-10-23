@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.7",
+  "title": "Commodities, Luxury Goods, and Commercial Practice",
+  "kicker": "MARITIME KOREA · COMMODITIES AND SECURITY",
+  "description": "Original maritime source-critical history of commodities, luxury goods, and commercial practice, with contextual evidence and explicit limits on numerical and biographical reconstruction.",
+  "release": "AG",
+  "sourceStatus": "Institutional provenance context; independent specialist review not performed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla maritime trade and resident merchant networks in Tang",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Source-critical trade narrative, including commodities, private merchants and Japanese restrictions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jang Bogo and Cheonghaejin",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_011_0030_0030",
+      "role": "Scholarship on militarized maritime networks, protection, economic power and politics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Trade agents to Japan known as Hoeyeoksa",
+      "url": "https://encykorea.aks.ac.kr/Article/E0065541",
+      "role": "Records Japan-bound purchases and commercial representatives, reception and material demand"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae history and court-trade relationship",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Separate northern embassy networks and lists of valued forest or animal goods"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Cheonghaejin as a maritime stronghold",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056856",
+      "role": "Wando geographic security, regional economy and historical sequence of coastal protection"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.7:b01",
+      "title": "Objects crossed boundaries with changing meanings",
+      "paragraphs": [
+        "Silk, ceramics, metalware, medicinal substances, texts and other portable goods circulated among Silla, Tang and Japan within different social arrangements. A luxury object could enter a port as merchandise, become a gift to an official, and later be deposited in a temple or grave. Its final archaeological context therefore may not reveal the original transaction. Political and commercial categories were not mutually exclusive, but they should not be collapsed. The value of an imported object depended on demand, scarcity and prestige at the destination. A source-critical economic history follows its changing uses while being clear about what documents and excavation can actually identify."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "NIKH Tang and Japan merchant exchange institutional account"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.7:b02",
+      "title": "Tang markets as sources and intermediaries",
+      "paragraphs": [
+        "Tang cities and ports linked goods made in many places, including objects that originated far beyond Chinese political centers. Silla-associated merchants might buy from Tang residents or other trading groups and move cargo to the peninsula or Japan. National Institute of Korean History scholarship emphasizes this intermediary role without providing a complete accounting of individual purchases. A commodity purchased in Yangzhou should not automatically be described as manufactured there. The route between origin and final buyer could involve several transactions and changes of ownership. Understanding commercial practice requires attention to intermediation rather than assuming each imported good made one direct journey from a national producer to a national consumer."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.7:b03",
+      "title": "Textiles and their varied functions",
+      "paragraphs": [
+        "Fine silk and other textiles were suitable for elite display, ritual use and payment, though the value of a particular cloth depended on quality and context. Some textiles also functioned as media of exchange rather than objects intended simply for clothing. Official accounts might describe presentations and purchases without recording a private market price. A list of fabrics cannot support a modern estimate of total annual trade value unless quantities and measurement conventions are secure. Material preservation is uneven because cloth decays more readily than pottery or metal, making the archaeological sample biased. Documentary and material archives therefore illuminate different parts of the textile economy."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "AKS Hoeyeoksa trade agents and documented Japan negotiations"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.7:b04",
+      "title": "Ceramics, metals and the question of provenance",
+      "paragraphs": [
+        "Ceramic vessels and metal objects can provide visible evidence of exchange when manufacturing techniques and styles are studied carefully. But resemblance is not proof of a specific shipping route, and local artisans could imitate imported forms. An inscription or secure archaeological context may support a stronger attribution. Objects could also be carried as personal possessions rather than formal commercial cargo. Distinguishing manufacture, purchase, arrival and deposition is essential, especially where goods were treasured for many years. A historian should not assign an imported bowl to the famous fleet of Jang Bogo merely because its chronology overlaps his lifetime."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.7:b05",
+      "title": "Medicines, aromatics and high-value portable goods",
+      "paragraphs": [
+        "Substances valued for medicine, fragrance or religious use could move across maritime and inland networks. Their compact form may have made them attractive for long voyages, but sources often omit precise weights or prices. Goods originating in tropical or western regions might reach East Asia through many intermediaries, and their presence does not prove that Silla ships sailed directly to all places of origin. NIKH research on merchants in Tang and Japan supports broad circulation through trading centers. A credible account should distinguish global-connected procurement from direct voyages and avoid constructing unsupported itineraries for anonymous commodities."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "AKS Cheonghaejin base and coastal security"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.7:b06",
+      "title": "Balhae products offer a northern comparison",
+      "paragraphs": [
+        "Balhae's embassies carried furs, ginseng and other goods associated with the northeast, as described in Japanese records and Academy of Korean Studies research. Some objects in those lists came through broader trade rather than local manufacture. Such exchange differed institutionally from the private and semi-official commerce of Silla merchants. The comparison shows how material value interacted with ecological specialization and diplomatic protocol. A Japanese complaint about large Balhae parties does not invalidate their political status, just as a private Silla merchant could convey prestigious goods without diplomatic accreditation. Material similarity across receptions need not imply the same transaction type."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.7:b07",
+      "title": "Prices remain an incomplete record",
+      "paragraphs": [
+        "A few transactions or reports of expensive goods cannot produce a reliable price index for the eighth and ninth centuries. Monetary systems and measurements differed by region and institution, while barter, gifts and obligations could intersect with commercial purchase. Freight, protection and losses also affected cost. The purchase price of an object at a Tang market was not necessarily what a Japanese buyer later paid. Historians should describe relative desirability where sources indicate it without fabricating exact exchange rates across separate currencies. The scarcity of invoices limits numerical estimates even when the importance of maritime trade is firmly established."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "NIKH Jang Bogo and Cheonghaejin political-economic history"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.7:b08",
+      "title": "Merchants, agents and credit",
+      "paragraphs": [
+        "Long-distance traders required trusted partners to obtain goods, arrange shipping and collect payments. The Japanese account of merchants linked to Jang Bogo includes indications of advance arrangements for desired imports. Such transactions suggest organized commercial relationships but do not justify importing an entire modern banking or insurance framework into ninth-century practice. A merchant might depend on repeated reputation, local patrons and personal networks rather than enforceable international commercial codes. The risks of default, theft or political restriction were real. Economic history should examine the form of documented arrangements instead of assuming that merchant wealth alone removed these uncertainties."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.7:b09",
+      "title": "Consumers and unequal access",
+      "paragraphs": [
+        "Imported luxuries were especially visible among elites, but their availability was conditioned by wealth and status. The record of courtly desire can exaggerate the social importance of prestige purchases relative to ordinary food and tools. Merchants and crews depended on household production and port services not captured in ceremonial gift lists. Religious institutions might acquire books or ornaments through patronage, while rural consumers participated in different markets. The distribution of foreign goods was therefore uneven, and an archaeological concentration near a capital should not be mistaken for universal access. Commodity histories become social histories by asking whose work, choices and resources made circulation possible."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Scholarly contextual evidence supports source setting; exchange quantities and unrecorded personal incidents are not asserted as verified.",
+          "locator": "AKS separate Balhae mission goods and diplomatic data"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.7:b10",
+      "title": "Commercial practice within multiple political orders",
+      "paragraphs": [
+        "The exchange of objects through Tang, Silla, Balhae and Japan joined merchants, officials, religious patrons and consumers under varying rules. Sources establish significant trade but leave much of its quantity, price formation and labor relations unknown. This article owns products and the mechanics of commercial transactions, leaving security to IV.7.8 and the political organization of Cheonghaejin to IV.7.9. A rigorous account rejects both the notion that all foreign goods were diplomatic tribute and the assumption of an unrestricted free market. Commodities moved through relationships in which economic calculation and political authority were inseparable but not identical."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
