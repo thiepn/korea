@@ -1,0 +1,161 @@
+{
+  "id": "IV.6.3",
+  "title": "Cities, Villages, Houses, and Everyday Settlement Life",
+  "kicker": "BALHAE · COMMUNITIES AND MATERIAL LIFE",
+  "description": "An original archaeological and social reading of cities, villages, houses, and everyday settlement life, distinguishing royal monuments from the incomplete evidence of ordinary life.",
+  "release": "AE",
+  "sourceStatus": "Contextual scholarly and archaeological anchors; no independent specialist editorial review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae: political foundations, urban society and five capitals",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_039_0070_0020_0020_0020",
+      "role": "Scholarly discussion of Bohai/Balhae cities, changing capitals, excavations and broader settlements"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghye tomb and memorial stele",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051146",
+      "role": "Dated 780 funerary monument, royal family context and stone-chamber burial near Dunhua"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghyo brick chamber tomb",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051192",
+      "role": "Royal women's monumental inscription, early excavation and status-sensitive mortuary evidence"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae geography, cultural activity and external relations",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "role": "Institutional synthetic reference for varied territories; older curricular categorizations require critical treatment"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.6.3:b01",
+      "title": "The capital as a constructed world",
+      "paragraphs": [
+        "Shangjing Longquanfu, a major Balhae capital in today's northeastern China, preserves evidence of a planned urban environment with walls, roads and palace districts. It was both a center of administration and a concentration of labor, religious buildings and supply demands. Its layout has invited comparisons with Tang urban planning, but resemblance does not imply that every institution or daily routine was copied unchanged. Archaeological phases also matter, because rebuilding could alter the city over generations. A historian should distinguish an excavated foundation from a reconstructed street scene. The city was built and maintained by people whose work is often less visible than the power expressed by its walls."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "NIKH Balhae capital sites and their dated excavation phases"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.3:b02",
+      "title": "The movement among five capitals",
+      "paragraphs": [
+        "Balhae's tradition of five capitals reflects the challenge of governing a large and geographically diverse realm. Sites conventionally identified with Shangjing, Zhongjing and Dongjing served as royal seats in different periods, while other capital designations had important regional functions. The chronology of moves is not equally secure for every location. A move could affect officials, servants, artisans and traders as well as the royal household. Yet a new ceremonial center did not necessarily empty the former one or dissolve its local economy. Understanding this network requires analyzing transport, political strategy and the capacity of surrounding settlements to sustain a concentrated population."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.3:b03",
+      "title": "Walls, gates and the regulation of movement",
+      "paragraphs": [
+        "Fortification and urban gates could direct traffic, display political control and protect resources, but a preserved wall is not an inventory of regulations enforced there. The function of a passage changed with peace, conflict and local economic activity. Archaeologists can examine foundations, road surfaces and associated deposits, though dating phases may remain contested. Residents likely used the same spaces for delivery, work and social encounters. A royal urban plan becomes historically significant when connected to the demands of moving food and people, rather than represented only as an impressive geometric image. Cities operated through repeated mundane labor as much as by monumental intention."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "AKS Jeonghyo royal woman and brick-chamber tomb"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.3:b04",
+      "title": "Housing outside the palace",
+      "paragraphs": [
+        "Nonelite dwellings are more difficult to interpret than major palatial compounds. Hearths, floors, storage pits and ceramics can reveal occupation and practical routines, but the number and relationships of inhabitants rarely survive in writing. Building materials differed across environments, and wooden structures may have decayed almost entirely. A modest house need not imply that its residents lacked skills or social connections. The archaeological sample also reflects where surveys and rescue excavations occurred. Comparing domestic sites with administrative centers can help correct a history dominated by palaces. A city contained diverse people with unequal resources, not simply one royal court enlarged into urban scale."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.3:b05",
+      "title": "Villages and agricultural hinterlands",
+      "paragraphs": [
+        "An urban center depended on communities beyond its walls that cultivated grain, supplied fuel, tended animals and moved products along roads or rivers. Such villages had social histories older than the political decisions that made them tributary to a capital. Some may have benefited from access to markets or official protection; others bore labor and collection demands. Archaeological storage structures and field environments offer partial evidence, but the surviving records do not permit a complete schedule of deliveries. The countryside's relationship with a city should therefore be treated as reciprocal and unequal rather than one-way extraction. Farming households helped determine whether a capital could endure."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "NIKH Balhae capital sites and their dated excavation phases"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.3:b06",
+      "title": "Climate, building and regional variation",
+      "paragraphs": [
+        "Balhae territory encompassed zones with severe winters, forests, river valleys and coastal conditions. Heating systems, walls, roofs and storage arrangements were adapted to these environments in locally varied ways. Similar domestic features can reflect shared technical knowledge without proving identical ethnicity, and different forms may result from available materials rather than distinct populations. A building plan must be read with its excavation context. The presence of heating structures shows practical adaptation, not the precise social status of each person who slept beside them. Everyday architecture records ecological skill and cultural exchange that royal narratives seldom notice."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.3:b07",
+      "title": "Religious structures among everyday routes",
+      "paragraphs": [
+        "Temples and other ceremonial settings formed part of the physical landscape of Balhae urban life. Such places required skilled builders and sustained supplies, and they may have attracted visitors from surrounding communities. A Buddhist statue or roof tile demonstrates material patronage, but cannot establish what every passerby believed. The boundaries between religious, residential and commercial activities were not necessarily those familiar in modern cities. Architectural style may reflect Tang contacts while preserving local choices. A complete urban history considers how rituals, markets and household travel intersected rather than isolating monuments from the people around them."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "AKS Jeonghyo royal woman and brick-chamber tomb"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.3:b08",
+      "title": "Waste as evidence of ordinary activity",
+      "paragraphs": [
+        "Broken pottery, ash, food refuse and discarded tools can sometimes illuminate urban life more directly than precious objects in elite graves. Their interpretation depends on stratigraphy, sampling and the possibility that rubbish was moved or redeposited. Animal bones may identify diet or specialized processing without describing the meals of every social group. Workshops and repair areas show productive labor, though one deposit cannot establish an entire industry. The archaeology of daily use broadens the city's history beyond its rulers. It also reminds us that exceptional museum objects represent only a small and selective part of what inhabitants handled every day."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.3:b09",
+      "title": "Excavation history and unequal access",
+      "paragraphs": [
+        "Knowledge of Balhae settlements has developed through investigations across northeastern China, the Russian Far East and the northern Korean peninsula, conducted under differing political and archaeological conditions. Some sites have been excavated extensively and others remain inaccessible or underreported in international scholarship. Historical interpretations must acknowledge that imbalance. A map with many dots in one country may reflect research intensity rather than ancient population density. Modern place names and boundaries also change the way a site is described. Reproducible arguments should state which phases and material evidence support a reconstruction rather than relying solely on a city-name equivalence."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "NIKH Balhae capital sites and their dated excavation phases"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.3:b10",
+      "title": "A settlement network, not only a palace",
+      "paragraphs": [
+        "Balhae society inhabited capitals, smaller towns, rural villages, coastal sites and upland communities whose daily worlds were not identical. Roads and river systems connected them, while climate and politics altered their needs. The state expressed power through planned centers but relied upon people outside those centers for food, materials and transport. This article has followed architecture and settlement practice rather than presenting a dynastic chronology of capital moves, which belongs to IV.5. The next examines food and rural production, already introduced in the site's earlier prototype article. Understanding Balhae civilization requires treating ordinary spaces as historical sources alongside the palaces that dominate traditional narratives."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
