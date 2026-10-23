@@ -9,22 +9,26 @@
     {
       "institution": "National Institute of Korean History",
       "title": "Early Joseon economic structure: taxes and services",
-      "url": "https://db.history.go.kr/id/nh_024_0010"
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist early Joseon economic synthesis used for fiscal, household, agricultural and governmental institutional chronology."
     },
     {
       "institution": "Historical Society of Korea",
       "title": "Household class transition and assigned tribute Taejo–Sejong",
-      "url": "https://journal.kci.go.kr/hksh/archive/articleView?artiId=ART002153110"
+      "url": "https://journal.kci.go.kr/hksh/archive/articleView?artiId=ART002153110",
+      "role": "Peer-reviewed study of household classifications, tribute allocation and changes during early Joseon reigns."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "Early Joseon Gwajeonbeop and fiscal rights",
-      "url": "https://encykorea.aks.ac.kr/Article/E0004611"
+      "url": "https://encykorea.aks.ac.kr/Article/E0004611",
+      "role": "Expert Gwajeonbeop history separating title to land from rights of revenue collection and later official grant revisions."
     },
     {
       "institution": "Academy of Korean Studies",
       "title": "Government transport of tax grain",
-      "url": "https://encykorea.aks.ac.kr/Article/E0052436"
+      "url": "https://encykorea.aks.ac.kr/Article/E0052436",
+      "role": "Specialist jo-un shipping history of grain warehouses, river and coastal transport, associated labor and institutional risk."
     }
   ],
   "blocks": [
