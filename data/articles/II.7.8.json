@@ -1,0 +1,167 @@
+{
+  "id": "II.7.8",
+  "title": "Ritual, Burial, and Early Silla Society",
+  "kicker": "JINHAN · MATERIAL SOCIETY AND RITUAL",
+  "description": "Critical reconstruction of ritual, burial, and early silla society, weighing material evidence against later dynastic narratives.",
+  "release": "AH",
+  "sourceStatus": "Contextual scholarship; independent archaeologist review outstanding",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samhan: historical economy and textual descriptions",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026922",
+      "role": "Evidence for Jinhan/Byeonhan community grouping, iron and agriculture discussed in early Chinese texts"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro-guk and regional formation",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025526",
+      "role": "Early Saro political evolution against later Silla royal memory"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Saro's gradual rise into Silla",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101210",
+      "role": "Later third/fourth-century synthesis and dated material landmarks around Gyeongju"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Horo-guk of Jinhan",
+      "url": "https://encykorea.aks.ac.kr/Article/E0063741",
+      "role": "Limits of polity-specific economic attribution when names and places cannot be securely matched"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Geungi-guk among Jinhan entities",
+      "url": "https://encykorea.aks.ac.kr/Article/E0007393",
+      "role": "Regional political diversity and disputed identifications within eastern peninsula"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.7.8:b01",
+      "title": "Mortuary deposits and their interpretive limits",
+      "paragraphs": [
+        "Early Silla and Jinhan archaeology preserves burials of varying scale and form, providing a record of social practices beyond royal narratives. A grave's construction and goods reflect decisions of mourners and prevailing custom, not a direct certificate of the deceased's rank. Dating individual graves and comparing them within cemeteries is essential before describing change. Some unusually rich tombs belong to later centuries, and their visibility should not erase earlier, modest burials. The historian must separate the presence of grave goods from claims about religious belief, political office and family descent. The meaning of burial was produced socially as well as individually."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "AKS Samhan agricultural and material culture overview"
+        }
+      ]
+    },
+    {
+      "id": "II.7.8:b02",
+      "title": "From local graves to monumental tombs",
+      "paragraphs": [
+        "In the Gyeongju area, the later development of large stone-mound wooden-chamber graves signals substantial coordinated labor and extraordinary concentrations of funerary investment. Their most imposing examples relate to the period when Saro had expanded toward a more recognizable Silla kingdom. They are not eyewitness evidence for an elaborate burial system at the traditional 57 BCE foundation. Changes in grave construction can reflect status competition, new skills or altered ritual choices, with several explanations possible. A chronology that respects these phases reveals social transformation rather than one unchanging tradition assigned to every ruler from the first founder onward."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.7.8:b03",
+      "title": "Adornment and the making of prestige",
+      "paragraphs": [
+        "Metal ornaments, beads and objects resembling crowns reveal skilled craft and display in some elite mortuary contexts. Such objects may signal differentiation, ceremonial identities or connections to distant producers, but they do not automatically identify a king. A grave's contents may include heirlooms older than the burial itself, complicating direct dating of the person's lifetime. Interpretations require knowledge of excavation setting, local comparison and manufacture. The capacity to commission costly goods depended on craftspeople and food producers whose own graves may be less conspicuous. Social status was both represented through material choices and sustained by work beyond the funeral."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "NIKH Saro-to-Silla transformation and Gyeongju mortuary monuments"
+        }
+      ]
+    },
+    {
+      "id": "II.7.8:b04",
+      "title": "Ritual gatherings in external descriptions",
+      "paragraphs": [
+        "Chinese accounts of the Samhan world include observations about gatherings and religious activity, although their scope and terminology require critical reading. A passage generalized across several named groupings cannot establish identical festivals in all Jinhan valleys. Ritual might shape social alliances and the use of communal resources without leaving a written liturgy. The historian can investigate repeated deposits, distinctive places and reported practices while resisting the temptation to invent exact prayers. Seasonal ceremonies may have intersected with farming but direct proof is uneven. The textual account's value lies in the presence of collective ritual concerns rather than complete access to participants' beliefs."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.7.8:b05",
+      "title": "Ancestral memory and kinship",
+      "paragraphs": [
+        "Burial places can become sites through which families maintain claims of descent and local belonging. Yet the archaeological presence of a cemetery does not reveal one fixed lineage rule, especially when written genealogies are absent. Repeated placement of burials might indicate durable community attachments without establishing biological kinship in every case. The founder traditions of Hyeokgeose and Al-yeong gave later dynastic memory an ancestral structure, but they should not determine how all earlier ordinary families understood their dead. The study of ritual needs both attention to the symbolic work of ancestry and caution about what we can recover from physical remains."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "AKS Geungi-guk alternative southeastern locality hypotheses"
+        }
+      ]
+    },
+    {
+      "id": "II.7.8:b06",
+      "title": "Feasting and the problem of material inference",
+      "paragraphs": [
+        "Food remains and concentrations of vessels may suggest communal consumption in some contexts. A feast could reinforce political allegiance or accompany mourning, but the function of a deposit should be tested rather than declared ritual whenever its contents seem unusual. Domestic refuse, accidental burning and later disturbance can create misleading patterns. Where deliberate deposition is strong, historians may discuss collective expenditure while recognizing that it might serve several purposes. Provisioning gatherings required productive households, making ritual practice inseparable from the economic capacity of communities. The absence of a contemporaneous ceremonial text prevents confident reconstruction of named participants and their exact words."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.7.8:b07",
+      "title": "Contact and changing funerary forms",
+      "paragraphs": [
+        "Burial customs can change through political integration, marriage, migration and exchange without a complete displacement of residents. Imported ornaments may become prestigious locally while graves continue to use familiar construction forms. Conversely, a new structure could spread because of elite fashion rather than a single invasion. Material distributions across the southeastern peninsula reveal regional interaction but cannot function as a one-to-one ethnic map. The historical relationship between Jinhan, Byeonhan and emerging Silla requires attention to both continuity and change. A source-critical account distinguishes a transported object, an adopted technique and population movement as separate possible explanations."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "AKS Saro's increasing productive and political capacity"
+        }
+      ]
+    },
+    {
+      "id": "II.7.8:b08",
+      "title": "The living community that created each grave",
+      "paragraphs": [
+        "Monuments were built by workers, relatives and specialists who chose objects and maintained funerary spaces. A wealthy burial represents an expenditure that could redistribute materials or labor across a community. The archaeologist usually encounters the deposited result rather than the conversations that led to it. Inferring grief, devotion or resentment as precise personal emotions would exceed the record. Still, burial can be analyzed as collective action with social consequences and possible expressions of hierarchy. It demonstrates that cultural practices were embedded in everyday relations, not isolated spectacles organized exclusively by named royal patrons."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.7.8:b09",
+      "title": "Sacred landscapes without a timeless religion",
+      "paragraphs": [
+        "Hills, groves, water features and remembered foundation places might acquire ritual significance through repeated practices. Later Silla Buddhism, royal shrine organization or modern folklore cannot simply be used to identify the beliefs of an earlier Jinhan site. Archaeological evidence may support special use while leaving the participants' cosmology unknown. The label shamanism risks treating diverse early practices as one unchanged religious institution. This caution does not imply the absence of faith. It means that direct testimony and retrospective analogy should be kept separate. Cultural history benefits from an honest map of known objects, reported customs and inaccessible meanings."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "AKS Horo-guk fragmentary Jinhan identification"
+        }
+      ]
+    },
+    {
+      "id": "II.7.8:b10",
+      "title": "A social record with unresolved questions",
+      "paragraphs": [
+        "Jinhan and early Silla burials show forms of commemoration, regional contact and increasingly unequal investment, while their exact connections to named early kings remain disputed. This article owns ritual and mortuary life in the formative period, not Silla's later Buddhist establishment treated in Part III. Careful dating prevents fourth- and fifth-century monumental tombs from becoming evidence for first-century political institutions. The material record is valuable without supplying a complete religious handbook or lineage chart. Its strongest contribution lies in demonstrating that political transformation developed within communities whose rituals and symbolic practices were themselves changing."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
