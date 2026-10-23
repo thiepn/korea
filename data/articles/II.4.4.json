@@ -1,0 +1,161 @@
+{
+  "id": "II.4.4",
+  "title": "Buyeo Society, Economy, and Ritual",
+  "kicker": "EARLY NORTHERN POLITIES · HISTORICAL EVIDENCE",
+  "description": "Source-critical history of buyeo society, economy, and ritual, comparing third-century external accounts and the geographically uneven archaeological record.",
+  "release": "AE",
+  "sourceStatus": "Original historical synthesis with contextual institutional anchors; independent specialist review pending",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Revised Korean History: Buyeo formation and development",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0040",
+      "role": "Detailed scholarly survey of polity formation, political structure, textual chronology and archaeological uncertainty"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical Sources of Korea: Buyeo origins and establishment",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0100",
+      "role": "Primary source excerpts from Shiji, Hou Hanshu and later Korean founding traditions with critical annotations"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Dongye and Okjeo in Revised Korean History",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0050",
+      "role": "Historical geography and differences among eastern communities, sources and institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Primary sources for early states and peoples",
+      "url": "https://contents.history.go.kr/front/hm/list.do?periodCode=hm_age_10",
+      "role": "Annotated textual dossiers including Sanguozhi Wei shu Dongyi zhuan; reports must be read as a later outsider account"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.4.4:b01",
+      "title": "Productive plains and social expectations",
+      "paragraphs": [
+        "Chinese descriptions associate Buyeo with relatively level agricultural land and substantial resources. They suggest possibilities for grain cultivation and animal husbandry, but no comprehensive contemporary account records acreage or household production. Forest edges and wetlands also supported hunting and collecting, and seasonal variations mattered to food security. A powerful household's ability to stage gatherings rested upon cultivators, herders and carriers whose individual names were rarely written down. Reconstructing economic life requires archaeology as well as texts because outsiders tended to notice political wealth more than routine repair of tools. The prosperity of a ruler and the security of an ordinary family were different historical questions."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH Buyeo institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "II.4.4:b02",
+      "title": "Livestock, fodder and prestige",
+      "paragraphs": [
+        "Horses and other animals appear in accounts of northern communities as useful resources and markers of status. Mounted transport and warfare demanded pasture, fodder, handlers and skills that could not be acquired through a ceremonial gift alone. A rich burial containing animal equipment might indicate elite connections, but it does not prove that the deceased owned vast herds. Cattle could contribute agricultural labor and meat while requiring substantial seasonal care. The balance of hunting, tending livestock and cultivation varied by environment. A single image of Buyeo as either a nomadic or an entirely settled farming society overlooks the economic combinations that northeastern landscapes could sustain."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.4.4:b03",
+      "title": "Workshops and everyday materials",
+      "paragraphs": [
+        "Metal blades, pottery and woven products connected households to makers with specialized knowledge. A tool in a grave might have passed through many hands before deposition, and differences in artifact style are not automatic signs of distinct peoples. Smithing required fuel and repair skills, while storage vessels made harvests usable between seasons. Organic products such as textiles often perish, leaving an unequal material record. Workshop remains and associated refuse can sometimes establish production more reliably than finished prestige objects. The broader economy cannot be reconstructed by counting weapons alone. Material specialization matters because it tied leaders, cultivators and craftworkers to reciprocal but not necessarily equal obligations."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH eastern polities and contested place names"
+        }
+      ]
+    },
+    {
+      "id": "II.4.4:b04",
+      "title": "The Yeonggo gathering in its season",
+      "paragraphs": [
+        "Accounts place the Buyeo festival of Yeonggo in the twelfth lunar month and describe gatherings and rites. Its timing invites reflection on the agricultural year and political assembly, but the exact theology and sequence of performances remain inaccessible. A festival could draw separate communities into a shared setting while creating opportunities for aristocratic negotiation. The written witness belongs to an outsider genre in which foreign customs were selected for comparison with Chinese norms. It is appropriate to identify the festival and its reported public character; it is not appropriate to invent individual speeches, prayers or song texts. Seasonal ritual offers evidence for social coordination without providing a complete religious system."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.4.4:b05",
+      "title": "Burial customs and the visibility of hierarchy",
+      "paragraphs": [
+        "Reports of funerary practices describe ways in which death could express status, community obligation and authority. Archaeological burials can independently illuminate body treatment and grave goods when their contexts are dated, but they rarely record how mourners understood each gesture. Burial forms changed and were not necessarily identical among every northern settlement. Valuable ornaments concentrated in particular graves may indicate unequal access to resources, although selective funeral spending complicates estimates of daily wealth. Funeral history should compare the outsider's words with the material record rather than assume perfect correspondence. It must also acknowledge the ordinary dead whose graves were modest or never excavated."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH Buyeo institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "II.4.4:b06",
+      "title": "Households, marriage and dependence",
+      "paragraphs": [
+        "Families were the settings in which resources, care and kinship obligations were managed. The external record emphasizes customs it considered distinctive, but its selection cannot reveal all forms of marriage or the lived responsibilities of women, children and dependent persons. Reports of status inequality invite questions about land use, service and household vulnerability without supplying complete categories for an entire population. Elite genealogies later claimed descent from Buyeo, yet those claims illuminate political memory more directly than ordinary domestic arrangements. A responsible social history recognizes the people omitted from the record and uses material settlements, food remains and burial patterns to place boundaries on speculation."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.4.4:b07",
+      "title": "Law as a social relationship",
+      "paragraphs": [
+        "An outsider's list of penalties can help reveal expectations about property, sexual conduct or communal security. It is not a statistical record of how often punishments occurred or who received them. Enforcement required persons with recognized authority, and high status might influence outcomes. Norms could differ between local communities even where a monarch's name appeared across the wider polity. Archaeological evidence of burned buildings or weapons cannot usually identify the precise offense behind a particular event. The useful question is how law and custom structured obligations and conflict, not whether a transmitted description supplies a complete court procedure for every century of Buyeo history."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH eastern polities and contested place names"
+        }
+      ]
+    },
+    {
+      "id": "II.4.4:b08",
+      "title": "Regional exchange and imported goods",
+      "paragraphs": [
+        "Buyeo occupied routes among Songhua basin settlements, continental frontier administrations and adjacent political communities. Gifts, livestock, metal and other products may have traveled through these connections under different conditions. A Chinese account of envoys foregrounds court exchange, not all household transactions. Imported objects do not necessarily mean everyday commerce used coins or that merchants enjoyed free movement across military frontiers. Regional intermediaries could carry goods across several territories before their final deposition. Archaeological provenance claims must consider imitation and reuse. Exchange was one source of political opportunity but did not eliminate local production or make everyone equally connected to distant networks."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.4.4:b09",
+      "title": "Resilience, hunger and political expectations",
+      "paragraphs": [
+        "Agricultural prosperity was vulnerable to drought, weather variation and disruption of transport. Reports linking a king's fate to unsuccessful harvests suggest an ideology in which rulers were expected to bear responsibility for public conditions. They do not tell us how many hungry households were aided during a particular shortage. Community granaries, sharing and elite redistribution are plausible subjects of inquiry, but they require evidence rather than invented detail. The economic basis of ritual and government was always exposed to environmental uncertainty. Studying this vulnerability helps explain why political legitimacy might be tied to ceremonies and performance, and why authority could weaken despite visible wealth."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH Buyeo institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "II.4.4:b10",
+      "title": "Social life cannot be reduced to kings",
+      "paragraphs": [
+        "Buyeo's economy combined environmental opportunity, productive labor, specialized skills and exchange, while its reported rituals organized public meaning. Its society cannot be reconstructed as an unchanging set of exotic customs preserved in one outsider's chapter. People living across its sphere experienced varied obligations and enjoyed unequal resources. This article remains distinct from the institutional history of kingship and from the separate study of northern festivals across Buyeo, Okjeo and Dongye. The evidence makes certain features visible while concealing many human experiences; the historian's task is to mark those limits rather than converting scattered testimony into imaginary certainty."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
