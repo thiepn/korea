@@ -1,0 +1,167 @@
+{
+  "id": "II.7.7",
+  "title": "Agriculture, Iron, Craft, and the Jinhan Economy",
+  "kicker": "JINHAN · MATERIAL SOCIETY AND RITUAL",
+  "description": "Critical reconstruction of agriculture, iron, craft, and the jinhan economy, weighing material evidence against later dynastic narratives.",
+  "release": "AH",
+  "sourceStatus": "Contextual scholarship; independent archaeologist review outstanding",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samhan: historical economy and textual descriptions",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026922",
+      "role": "Evidence for Jinhan/Byeonhan community grouping, iron and agriculture discussed in early Chinese texts"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro-guk and regional formation",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025526",
+      "role": "Early Saro political evolution against later Silla royal memory"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Saro's gradual rise into Silla",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101210",
+      "role": "Later third/fourth-century synthesis and dated material landmarks around Gyeongju"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Horo-guk of Jinhan",
+      "url": "https://encykorea.aks.ac.kr/Article/E0063741",
+      "role": "Limits of polity-specific economic attribution when names and places cannot be securely matched"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Geungi-guk among Jinhan entities",
+      "url": "https://encykorea.aks.ac.kr/Article/E0007393",
+      "role": "Regional political diversity and disputed identifications within eastern peninsula"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.7.7:b01",
+      "title": "Production before royal taxation",
+      "paragraphs": [
+        "Jinhan's economy relied on communities cultivating fields, raising animals, making vessels and working with materials whose distribution depended on local ecology. Chinese descriptions of Samhan agriculture are useful, but they do not include a surviving village-level register of harvests or exact fiscal dues. The presence of a powerful Saro center does not prove that all farms in eastern valleys paid one standardized royal tax. Household production supported local exchange and obligations that could change as leading families gained authority. Archaeological evidence for storage, settlement and tools can describe material possibilities while leaving property law largely unknown. Economic history must therefore begin with work rather than a supposed state treasury."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "AKS Samhan agricultural and material culture overview"
+        }
+      ]
+    },
+    {
+      "id": "II.7.7:b02",
+      "title": "Iron as a regional resource",
+      "paragraphs": [
+        "Ironworking in southeastern Korea supported the production of tools, weapons and exchange objects. Reports associating the Jinhan and Byeonhan world with iron should be read alongside site-specific evidence for smelting and smithing. A metal object in a grave may have been made elsewhere, and a furnace deposit requires dating before it can illuminate Saro's earliest development. Control over access to ore, fuel and skilled labor could benefit elites, but no archive supplies exact quantities collected under a Jinhan monopoly. The technological importance of iron should not be converted into proof that one polity controlled every workshop from the outset."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.7.7:b03",
+      "title": "Agriculture across variable land",
+      "paragraphs": [
+        "Gyeongju's lowlands and neighboring basins offered different soils, drainage and water availability. Farmers could combine crops suitable to local conditions, with labor and household size affecting what land could be maintained. Water management mattered to food security, yet a later irrigation structure cannot automatically be assigned to Saro's first century. Ancient seed remains and agricultural implements, when securely identified, help reconstruct cultivation more directly than a royal myth. There is no defensible national yield series for Jinhan communities. The relationship between productive land and rising elite prestige can be studied without inserting fictitious acreage assessments or a universal annual tribute percentage."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "NIKH Saro-to-Silla transformation and Gyeongju mortuary monuments"
+        }
+      ]
+    },
+    {
+      "id": "II.7.7:b04",
+      "title": "Ceramics, firing and domestic skill",
+      "paragraphs": [
+        "Pottery served cooking, storage, transport and ritual needs. Clay choice, shaping and firing required practiced knowledge, with some communities producing forms distinctive enough to assist archaeological dating. Similar wares across sites might reflect shared technique or exchange rather than one centralized production office. The presence of kiln debris can suggest local craft specialization but does not identify whether potters worked under an appointed royal official. Household consumers also chose how vessels were used and discarded. Material economy includes such ordinary objects, whose manufacture sustained population and whose surviving fragments can reveal exchange relations invisible to court chronicles."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.7.7:b05",
+      "title": "Textiles and the problem of perishable evidence",
+      "paragraphs": [
+        "Fibers, weaving implements and occasional impressions may indicate textile activity, yet most ancient cloth decays. An absence of surviving garments does not imply that a settlement lacked skilled weaving or culturally distinctive clothing. Chinese descriptions of clothing practices may generalize across several communities and need evaluation as outsider observation. Wool, hemp or other fibers had different availability and labor costs, but exact regional proportions are difficult to establish without secure botanical or textile evidence. Clothing was part of household production and social display, not merely an ornament of the elite. Archaeological recovery biases should remain visible in accounts of technology."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "AKS Geungi-guk alternative southeastern locality hypotheses"
+        }
+      ]
+    },
+    {
+      "id": "II.7.7:b06",
+      "title": "Iron goods and regional exchange",
+      "paragraphs": [
+        "An iron tool could travel by river, valley road or coastal contact, sometimes passing through multiple intermediaries before reaching its final user. Trade links among Jinhan, Byeonhan, Mahan and maritime communities did not require modern market institutions. Recorded foreign demand or the appearance of similar weapons can suggest circulation without identifying one uniform price or the identity of every merchant. Regional exchange may have helped Saro procure strategic materials while other centers continued to manage their own production. It is misleading to equate every excavated iron item with royal distribution. The political meaning of commodities depended on who could access and mobilize them."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.7.7:b07",
+      "title": "Craft specialists and social position",
+      "paragraphs": [
+        "A successful smith or potter might acquire influence through expertise while remaining outside a ruling lineage. The organization of work could involve households, seasonal production or more concentrated workshops, depending on material and demand. Archaeological remains often reveal technical operations without documenting the maker's legal status or remuneration. A later Silla register of state craftsmen cannot safely be backdated to every Jinhan community. Still, specialist skill was critical for tools, construction and prestige goods. A growing royal center depended on productive knowledge and supplies, challenging explanations of state formation based solely on martial victory or divine descent."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "AKS Saro's increasing productive and political capacity"
+        }
+      ]
+    },
+    {
+      "id": "II.7.7:b08",
+      "title": "Storage and the ability to mobilize surplus",
+      "paragraphs": [
+        "Granaries and storage containers supported households between harvests and could make larger gatherings or military activities feasible. An unusual concentration of storage features may suggest collective management, although their contents and ownership require evidence. Surplus could be exchanged, offered in ritual or taken through obligations whose procedures remain unknown. The significance of storage lies in buffering seasonal risk and permitting people to support activities beyond subsistence farming. It should not automatically be classified as evidence of a comprehensive tax bureaucracy. Political authority over grain could develop in multiple ways among groups occupying different environmental and social settings."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.7.7:b09",
+      "title": "The households behind costly grave goods",
+      "paragraphs": [
+        "Elaborate ornaments, weapon fittings and imposing burials reveal the concentration of resources in some Gyeongju elites, especially during later stages of Saro's transformation. Craftspeople produced these objects, while many workers assembled graves and maintained productive fields. The deposits are statements of funerary value rather than direct financial accounts. Imported-looking adornments may have arrived through trade or been made locally in adapted styles. Their use does not prove that all goods crossed one officially controlled network. Connecting elite consumption to labor and supply explains political wealth more thoroughly than a catalog of treasures isolated from the people who made them possible."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The linked contextual source assists chronology or regional comparison; uncertain material, ritual and household interpretation is qualified.",
+          "locator": "AKS Horo-guk fragmentary Jinhan identification"
+        }
+      ]
+    },
+    {
+      "id": "II.7.7:b10",
+      "title": "Economic capacity and uneven integration",
+      "paragraphs": [
+        "Jinhan economies combined productive farming, iron, ceramics, textiles and varied exchange relations. Saro's growing ability to access these resources may have supported political expansion, yet there was no inevitable path from iron production to centralized monarchy. This section owns agriculture, craft and material exchange in the early-state horizon; II.7.8 studies ritual and burial, while mature Silla state revenue belongs to III.5 and III.6. The surviving evidence supports technological skill and social differentiation while leaving actual collection rules and trade totals largely obscure. The historian should trace concrete material relationships rather than fill those gaps with an imagined economic ministry."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
