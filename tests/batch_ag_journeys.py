@@ -31,7 +31,7 @@ with sync_playwright() as pw:
         page.wait_for_function('document.querySelector(".search-results")?.textContent.includes("IV.7.9")',timeout=20000)
         page.keyboard.press('Escape')
         page.evaluate('location.hash="#/history/IV.7.10"')
-        page.wait_for_function('document.body.textContent.includes("Cheonghaejin's influence grew beyond commercial exchange")',timeout=20000)
+        page.wait_for_function('document.body.textContent.includes("influence grew beyond commercial exchange")',timeout=20000)
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),('horizontal overflow',w)
         assert not errors,(w,errors)
         page.close()
