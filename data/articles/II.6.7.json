@@ -1,0 +1,167 @@
+{
+  "id": "II.6.7",
+  "title": "Wiryeseong and the Han River Archaeological Landscape",
+  "kicker": "MAHAN · BAEKJE EMERGENCE",
+  "description": "Original critical account of wiryeseong and the han river archaeological landscape, using institutional research and differentiated textual and material evidence.",
+  "release": "AG",
+  "sourceStatus": "Institutional contextual research references; specialist manuscript review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje-guk and Mokji-guk: reconstruction from texts and sites",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0020_0020_0010",
+      "role": "Critically distinguishes early lower Han political activity, archaeological evidence and later Baekje annals"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje's formation and development",
+      "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_006_0020_0020&whereStr=",
+      "role": "Dating of Baekje expansion, interaction with Mahan and problems of written traditions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Han River and early Baekje archaeological setting",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060950",
+      "role": "Debated identification of Pungnaptoseong, Mongchontoseong and related Han basin sites"
+    },
+    {
+      "institution": "Korean Citation Index",
+      "title": "Chungju region Mahan–Baekje archaeological transition",
+      "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003110955",
+      "role": "Phased changes in Namhan valley settlement, iron production and fortresses"
+    },
+    {
+      "institution": "UNESCO World Heritage Centre",
+      "title": "Baekje Historic Areas 475–660",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "role": "Later capital evidence used as a chronological exclusion control, not primary support for early founder narratives"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.6.7:b01",
+      "title": "Capital identification and its uncertainty",
+      "paragraphs": [
+        "Wiryeseong is remembered as an early Baekje royal center, yet the medieval narrative does not supply coordinates that can be transferred without question to a surviving archaeological site. Interpretations involving Pungnaptoseong and Mongchontoseong have changed with excavation and new dating. The two locations can be studied as components of a wider Han River landscape without assuming that every phase performed the same function. A wall's dimensions or an imposing gate establish construction and investment, not the name used by its first builders. Responsible writing distinguishes the conventional literary capital from the archaeological centers whose dates and relationships remain subjects of research."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "NIKH early Baekje-guk and Mokji-guk political relationships"
+        }
+      ]
+    },
+    {
+      "id": "II.6.7:b02",
+      "title": "Pungnaptoseong as a long-lived fortification",
+      "paragraphs": [
+        "Pungnaptoseong occupies a strategic lower Han setting, with substantial earthen defenses and deposits documenting long occupation and later transformation. The size and construction of the walls demonstrate organized labor, but their total visible extent must not be assigned to one founding ruler. Building may have proceeded in phases, and repairs could alter the archaeological record. Excavated materials suggest important early urban and political activities, yet the correspondence between every feature and a named Baekje office is not established. Modern urban construction has also affected the surviving evidence. Interpretation should combine stratigraphy, artifact chronology and landscape rather than rely solely on one dramatic wall measurement."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.6.7:b03",
+      "title": "Mongchontoseong within the paired landscape",
+      "paragraphs": [
+        "Mongchontoseong's ridges and defensive earthworks provide another window into Hanseong-period organization. NIKH's Baekje formation study associates the site with an important early settlement horizon and notes material extending into the third-century setting, while precise building sequences need care. The Academy of Korean Studies has considered Mongchon as a likely early royal center on geographic and structural grounds. Such proposals are not mutually exclusive with multiple functions at neighboring Pungnap over time. It would be anachronistic to imagine a single monumental palace and city plan completed at the traditional date of Onjo's accession. The sites' relationship is a historical problem rather than a settled illustration."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "AKS Han River sites and debate about early Baekje capitals"
+        }
+      ]
+    },
+    {
+      "id": "II.6.7:b04",
+      "title": "Graves around Seokchon and Garak",
+      "paragraphs": [
+        "Cemeteries and grave forms in southeastern Seoul illuminate local populations and growing social differentiation. Early wooden-coffin graves and later prestigious stone or other burial structures must be placed in separate chronological contexts. An imported object within a grave does not identify the occupant by dynasty or assign an aristocratic office. NIKH scholarship explicitly cautions against equating all early cemetery evidence with the northern-descended royal founders of legend. Burial practices may reflect communities that had lived in the region before or alongside emerging Baekje leadership. The archaeological task is to reconstruct relationships among settlement, death and status while acknowledging the uneven survival of the evidence."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.6.7:b05",
+      "title": "The river as corridor and defensive line",
+      "paragraphs": [
+        "The Han allowed movement among agricultural settlements, inland valleys and the western coast. Floodplains could support crops and travel but were vulnerable to rising water, while surrounding hills offered sites for observation and defense. The advantage of the basin did not itself produce a single centralized kingdom. Different groups could compete over crossings and supplies, and changes in control might not leave one distinct layer labeled with a dynastic name. Trade objects demonstrate some contacts but not the exact routes or political allegiance of carriers. Governmental significance emerged as people maintained links across a complex landscape, not simply from the river's presence."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "UNESCO later-phase Baekje monumental archaeology, used as chronological contrast"
+        }
+      ]
+    },
+    {
+      "id": "II.6.7:b06",
+      "title": "Walls, labor and the politics of construction",
+      "paragraphs": [
+        "A substantial earthwork required moving soil, selecting materials and maintaining a defensive perimeter across time. The technical work suggests an authority capable of organizing labor, although its exact recruitment arrangements remain poorly recorded. Farmers and specialized workers could be mobilized under obligations that later Baekje institutions formalized differently. A wall also altered local movement and settlement patterns, potentially concentrating stores and public gatherings. Archaeology can estimate sequences and methods while rarely reconstructing wages, duty rosters or the political decision that ordered construction. The existence of impressive fortifications should encourage questions about social organization rather than the invention of an all-powerful early monarch."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.6.7:b07",
+      "title": "Excavation under a modern city",
+      "paragraphs": [
+        "Seoul's dense building and infrastructure have removed or disturbed many ancient deposits. Sites investigated in salvage excavations cannot always be compared with untouched rural settlements. Sampling decisions, the availability of land and changes in excavation methods shape how researchers understand early Hanseong. A discovery of pottery from one period may shift the lower date of occupation without proving the precise foundation year of a city wall. Museum reconstructions often combine features from several periods for accessibility. A source-critical website should clarify which elements are directly excavated and which represent informed visualization. The archaeology is valuable despite not producing a complete urban map."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "NIKH Baekje founding and consolidation historical section"
+        }
+      ]
+    },
+    {
+      "id": "II.6.7:b08",
+      "title": "From local community to political center",
+      "paragraphs": [
+        "The growth of a major lower Han center can be studied through concentrations of residences, craftwork, stores and defensible spaces. Such developments need not have occurred simultaneously. An important site could first serve a regional coalition and later a more integrated Baekje state, leaving archaeological traces of continuity. Conversely, changes in material culture might accompany new external connections without a sudden replacement of residents. The traditional capital story organizes the past around founders, whereas the excavated record more readily shows phases of investment. The historian's task is to place both beside one another without treating the literary sequence as the excavation's predetermined answer."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.6.7:b09",
+      "title": "Beyond the palace-centered view",
+      "paragraphs": [
+        "The royal center depended on surrounding villages for food, tools and labor, and on river communities for transport. Much of this supporting landscape has received less attention than spectacular fortifications and elite cemeteries. Households outside walls participated in social and economic networks that could persist through political changes. Excavated pottery or tools show ordinary making and consumption without naming their users. A political history that mentions only monumental walls would imply that the state grew independently of its productive hinterland. Hanseong's development must be read as interaction between a concentrated center and many smaller communities with their own histories and varying relationships to authority."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Contextual scholarship bounds political and archaeological conclusions; interpretations are not presented as direct dated witnesses.",
+          "locator": "KCI Chungju Mahan–Baekje staged regional transition"
+        }
+      ]
+    },
+    {
+      "id": "II.6.7:b10",
+      "title": "A capital reconstructed from several kinds of evidence",
+      "paragraphs": [
+        "Wiryeseong belongs to a transmitted dynastic narrative; Pungnap, Mongchon and neighboring burial grounds offer physical evidence of lower Han settlement and fortification. Their relationship can be argued but not made certain by repeating a founder legend. This section owns the archaeology of the early capital landscape; II.6.6 owns Onjo traditions and later Baekje chapters own the mature Hanseong monarchy's campaigns. Archaeological chronology, material context and changing excavation interpretations should remain visible to readers. The result is a more substantial history of political development than assigning one fixed label to every wall or turning a traditional foundation year into a construction certificate."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
