@@ -1,0 +1,167 @@
+{
+  "id": "II.7.2",
+  "title": "The Gyeongju Basin and the Environment of Early Silla",
+  "kicker": "JINHAN · SARO AND EARLY SILLA",
+  "description": "Source-critical history of the gyeongju basin and the environment of early silla, distinguishing early external descriptions from later royal narrative and dated archaeology.",
+  "release": "AH",
+  "sourceStatus": "Contextual specialist sources, no independent manuscript peer review",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samhan: Jinhan, Byeonhan and Mahan source history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026922",
+      "role": "Explains Sanguozhi third-century attestation of twelve Jinhan polities and problems of reconstructing their geography"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro-guk",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025526",
+      "role": "Specialist study of Saro as a Jinhan polity and later dynastic foundation retrospection"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Foundation of Silla and integration of Saro-guk",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101210",
+      "role": "Critical chronology of Saro consolidation, third-century external naming and fourth-century kingdom transformation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Geungi-guk and location debate in Jinhan",
+      "url": "https://encykorea.aks.ac.kr/Article/E0007393",
+      "role": "Demonstrates why named Jinhan polities cannot be assigned single uncontested modern district locations"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Horo-guk: phonetics and uncertain settlement localization",
+      "url": "https://encykorea.aks.ac.kr/Article/E0063741",
+      "role": "Evidence limits of interpreting Chinese-character transcriptions as exact indigenous names and boundaries"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.7.2:b01",
+      "title": "The basin that housed an early center",
+      "paragraphs": [
+        "The Gyeongju basin is surrounded by hills and intersected by waterways and routes connecting it to other southeastern peninsular landscapes. These features helped shape settlement, agricultural opportunities and movement, but they do not by themselves explain the emergence of Saro-guk. Other local centers also occupied productive basins. The political importance of Gyeongju accumulated through work, alliances and choices made over centuries, while modern urban changes obscure some earlier surfaces. A contemporary visitor sees surviving Silla monuments from multiple periods, and should not mistake them all for first-century infrastructure. Historical geography needs to separate the early basin from its later monumental capital."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "AKS Samhan and third-century Jinhan polity lists"
+        }
+      ]
+    },
+    {
+      "id": "II.7.2:b02",
+      "title": "Water, fields and changing habitation",
+      "paragraphs": [
+        "Agricultural settlement depended on soils, rainfall, drainage and the management of flood-prone ground. Rivers offered access to water and exchange corridors while also creating risks for low-lying dwellings and fields. Archaeological distributions can indicate occupation near favorable land, but a field's exact harvest cannot be inferred from the position of a nearby tomb. Seasonal labor and the maintenance of storage facilities mattered as much as natural fertility. Accounts that credit Saro's rise solely to the basin's productive capacity ignore differences of ownership and the need to organize people. The environment provided resources whose political use depended on changing social institutions."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.7.2:b03",
+      "title": "Hills, defensible places and visibility",
+      "paragraphs": [
+        "Ridges and low mountains around the basin offered vantage points and potential defensive sites. Their presence should not lead historians to imagine a continuous chain of fortresses from the traditional foundation date. The dating of walls, enclosures and occupation deposits is necessary before assigning a structure to early Saro government. A later Silla fortification can occupy an older strategic position without proving identical institutional use. Movement between open valley settlements and elevated defensive places may have been seasonal or crisis-related. The geography helped provide options for defense and communication, but leadership still needed labor and resources to transform favorable ground into functioning military infrastructure."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "NIKH Saro expansion and fourth-century Silla transformation"
+        }
+      ]
+    },
+    {
+      "id": "II.7.2:b04",
+      "title": "Routes to the coast and inland valleys",
+      "paragraphs": [
+        "Gyeongju was not an isolated inland capital. Passes connected the basin toward the east coast and neighboring settlements, while inland corridors linked it to other Jinhan communities. The movement of iron tools, pottery and personal ornaments can reveal interactions, yet an artifact's place of deposition does not identify the precise track traveled by its carrier. Streams were useful at local scales, but no source supports a modern timetable for early river shipping across the whole region. Routes changed with weather, security and relations among communities. Commercial opportunity helped shape the basin's significance without guaranteeing that one center controlled all surrounding exchange."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.7.2:b05",
+      "title": "The Nakdong world was not identical to Gyeongju",
+      "paragraphs": [
+        "The wider southeastern peninsula contained iron-producing centers, river valleys and communities often associated with Byeonhan and the emerging Gaya polities. These had different political trajectories from Saro, even when goods or people moved among them. It would be misleading to draw a single early Silla state encompassing the entire region because later Silla incorporated parts of it. Archaeological similarities can reflect exchange and shared technology rather than common government. The Gyeongju basin must be situated in this plural geography, with neighboring polities acknowledged as actors possessing their own choices. II.8 owns the separate history of Byeonhan and Gaya formation."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "AKS Horo-guk transcription and locality uncertainty"
+        }
+      ]
+    },
+    {
+      "id": "II.7.2:b06",
+      "title": "Early occupation versus later royal monuments",
+      "paragraphs": [
+        "Wolseong, the great mound cemeteries and later temples make Gyeongju one of the most visually impressive historical landscapes in Korea. Their construction phases, however, belong to different centuries. National Institute of Korean History scholarship associates the rise of large stone-mound wooden-chamber tombs and Wolseong with the consolidation of Silla during the later early-state transition. A spectacular grave cannot be projected backward to prove a fully formed palace bureaucracy in 57 BCE. Archaeological dating and site function need to be established independently. The existence of visible monuments is valuable precisely when their chronology is respected rather than collapsed into one foundation scene."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.7.2:b07",
+      "title": "Production concentrated in a landscape",
+      "paragraphs": [
+        "A growing settlement required grain, charcoal, clay, tools, housing timber and access to exchange. The basin could support some production locally while drawing other materials from nearby hills and more distant regions. Kilns, ironworking remains and storage deposits, where securely identified, illuminate specialization. They do not automatically reveal whether workers were paid, compelled or members of particular households. The development of a politically important center could encourage demand for ornaments and weapons, connecting elite consumption with the labor of ordinary residents. Material history becomes more explanatory when it reconstructs supply relationships rather than presenting impressive artifacts as the autonomous achievements of royal patrons."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "AKS Saro-guk historical and external textual evidence"
+        }
+      ]
+    },
+    {
+      "id": "II.7.2:b08",
+      "title": "Environmental change and archaeological visibility",
+      "paragraphs": [
+        "Sedimentation, flooding, agriculture and later urban construction can obscure or destroy early occupation horizons. A modern map of excavated sites partly records where surveys occurred, not simply where ancient people lived. Changes in river channels or wet areas may alter reconstructions of routes and settlement choices. Scientific dating and stratigraphic sequences help distinguish early occupation from later rebuilding but leave uncertainties at individual sites. It is therefore unsound to assign precise political borders based on where surviving artifacts happen to be concentrated. The Gyeongju basin should be treated as a changing ecological and archaeological landscape, not an untouched backdrop for an immutable capital."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.7.2:b09",
+      "title": "Geography without inevitable unification",
+      "paragraphs": [
+        "The basin's defensive features and connections were advantages that other regions also possessed in different combinations. Saro's eventual supremacy depended on political alliances, institutions, military contingencies and the accumulation of resources. An environmental explanation that makes its success predetermined cannot account for the independent histories of Jinhan and Byeonhan neighbors. Settlements may have flourished without becoming dynastic capitals; others declined despite access to fertile land. Historical analysis should identify opportunities and constraints, then ask what particular evidence connects them to observed political change. Terrain is an active condition of history without being a single sufficient cause of state formation."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The linked historical reference supplies context; uncertain local identifications and retrospective chronology are not asserted as direct proof.",
+          "locator": "AKS Geungi-guk competing southeastern location hypotheses"
+        }
+      ]
+    },
+    {
+      "id": "II.7.2:b10",
+      "title": "A differentiated early Silla environment",
+      "paragraphs": [
+        "Gyeongju's valley floors, surrounding hills and routes to the eastern and southern coasts help explain where people might farm, gather, defend and exchange goods. Their historical significance emerges through distinct phases of occupation and investment rather than through one legendary founding moment. This article owns environmental and settlement geography; II.7.7 analyzes the productive economy and II.7.8 the mortuary record. Part III owns Silla's mature royal capital and political expansion. A cautious reconstruction joins geographic possibility to actual excavated evidence and dates, without mistaking all later monumental remains for proof of early institutional unity. Gyeongju was made into a center through sustained human effort."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
