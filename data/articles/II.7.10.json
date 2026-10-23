@@ -1,0 +1,167 @@
+{
+  "id": "II.7.10",
+  "title": "Saro-guk and Silla at the Threshold of the Three Kingdoms Era",
+  "kicker": "JINHAN · REGIONAL RELATIONS AND TRANSITION",
+  "description": "Source-critical analysis of saro-guk and silla at the threshold of the three kingdoms era, emphasizing changing political scale rather than anachronistic fixed borders.",
+  "release": "AH",
+  "sourceStatus": "Contextual NIKH/AKS sources, independent peer review absent",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Samhan regional polities in eastern and southern Korea",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026922",
+      "role": "Third-century external Jinhan/Byeonhan/Mahan sources and limits of indigenous polity reconstruction"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Saro-guk and the emergence of Silla",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025526",
+      "role": "Saro polity, relations among Jinhan neighbors and later retrospectively dated kingdom"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Silla's political formation",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101210",
+      "role": "Third/fourth-century Saro integration, Gyeongju fortifications and diplomatic visibility"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Geungi-guk among Jinhan polities",
+      "url": "https://encykorea.aks.ac.kr/Article/E0007393",
+      "role": "Uncertain location and political affiliation of Jinhan names written by external observers"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Juseon-guk and the difficulty of location attribution",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053314",
+      "role": "Explicit debate over identifying external name and later sites"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.7.10:b01",
+      "title": "A transition rather than a single founding instant",
+      "paragraphs": [
+        "The passage from Saro-guk to the more expansive Silla kingdom is a historical process visible through changing external names, social hierarchies and archaeological investment. The traditional foundation year of 57 BCE belongs to an important royal narrative but should not be mistaken for the exact point at which all institutions of mature Silla existed. Third-century sources still place Saro within Jinhan, while fourth-century evidence suggests a changing regional scale. Different aspects of government could develop at different rates. State formation involved the capacity to marshal resources, maintain a capital and negotiate with neighboring communities rather than solely the possession of a ruler named in a later chronicle."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "AKS Samhan polity geography and textual source chronology"
+        }
+      ]
+    },
+    {
+      "id": "II.7.10:b02",
+      "title": "The decisive distinction between polity and kingdom",
+      "paragraphs": [
+        "The Sanguozhi designation Saro-guk demonstrates outside recognition of one political center, not the full organization familiar from later Silla's royal ranks and provinces. Over subsequent centuries, consolidation created increasingly distinct expressions of monarchy and differentiated status. The transition cannot be described as a primitive settlement instantly becoming a modern-style state. A regional polity could possess leadership and organized defense long before it administered an extensive territory uniformly. Historians should use criteria such as institutional continuity, territorial reach and mobilization capacity while acknowledging that surviving evidence illuminates some more clearly than others. A changing political scale is more important than a rigid chronological threshold."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.7.10:b03",
+      "title": "Archaeology of a more powerful center",
+      "paragraphs": [
+        "Gyeongju's increasingly monumental graves and defended royal landscape demonstrate large-scale investment and differentiation during the developing Silla period. Their chronology should be established from excavation rather than deduced from the annals of the first kings. A grave with valuable objects reveals social resources committed to burial, but not every official function performed by its occupant. Earthen defenses imply collective work while leaving exact recruitment rules unknown. Material evidence gains strength when multiple features change over comparable periods. The visible city of later Silla is not a perfect archaeological photograph of the polity recorded in the third-century Jinhan list."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "NIKH Saro-to-Silla formation and 382 foreign contact"
+        }
+      ]
+    },
+    {
+      "id": "II.7.10:b04",
+      "title": "External diplomacy and the late-fourth-century horizon",
+      "paragraphs": [
+        "National Institute of Korean History research highlights evidence for Silla's heightened diplomatic visibility in the fourth century, including a reported contact with Former Qin around 382. Such accounts suggest broader political confidence than that of a minor local entity. They should nevertheless be read in their transmitted literary setting and not inflated into a complete diplomatic archive for every year. An envoy's language about changing state names can be politically meaningful without specifying the precise dates of all earlier territorial incorporations. Foreign recognition and internal administrative reach were related but distinct. The diplomatic record marks a stage in transformation rather than a constitution issued at one moment."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.7.10:b05",
+      "title": "The effect of northern transformations",
+      "paragraphs": [
+        "The collapse of Lelang and Daifang rule in the early fourth century changed the regional framework in which Jinhan polities had interacted with continental institutions. New migrations, political contacts and military dangers could alter conditions for local leadership. These developments may have accelerated Saro's integration of neighboring communities, but causal explanation requires more than temporal coincidence. Leaders and households still made choices within changing constraints. Regional archaeological sequences need to be examined on their own terms. The rise of Silla was not merely a passive reaction to events in the north; it involved endogenous alliances and resource mobilization as well."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "AKS Juseon-guk disputed Jinhan locality"
+        }
+      ]
+    },
+    {
+      "id": "II.7.10:b06",
+      "title": "Changing royal and aristocratic relationships",
+      "paragraphs": [
+        "As a wider Silla polity emerged, preeminent rulers depended on leading families whose recognition, labor resources and military followings remained important. Royal titles and dynastic narratives could make authority appear continuous, while the practical balance between king and nobles changed. Later bone-rank arrangements developed within this process, not as fully documented universal rules for every early Saro household. Economic specialization and elite burial investment attest differentiation without yielding complete genealogies. Political centralization thus involved consolidating and ordering influential groups, not replacing all aristocratic power with one individual monarch. Understanding that relationship provides a bridge to the institutional history of III.5."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.7.10:b07",
+      "title": "Local identities did not vanish",
+      "paragraphs": [
+        "Communities integrated into an expanding kingdom could continue producing familiar pottery, honoring ancestors or maintaining productive fields. Political incorporation did not require cultural replacement in a single generation. Conversely, new elite fashions might spread before direct administrative control was established. The persistence of material customs cautions against equating polity names with immutable ethnic categories. Historians should reconstruct local experience where excavations permit while admitting that personal names and decisions often remain undocumented. The regional history of Jinhan is not simply a preface to Silla's triumph; it contains people and communities whose everyday practices outlasted changes in royal authority."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "AKS Saro-guk growth and early royal histories"
+        }
+      ]
+    },
+    {
+      "id": "II.7.10:b08",
+      "title": "Plural transformations across southern Korea",
+      "paragraphs": [
+        "While Saro developed toward Silla, Baekje emerged from a complicated Mahan setting and Gaya polities evolved within Byeonhan and neighboring regions. They did not necessarily cross one identical statehood threshold at the same date. Their sources differ in quantity and kind, making superficial rankings of institutional development unreliable. A comparative history should ask the same questions—about political centers, defense, resources and local integration—while permitting different outcomes. This Chapter owns the Jinhan–Saro path; separate Chapters preserve the agency of western and southern communities. The later Three Kingdoms framework is an outcome of several trajectories, not a plan followed by all early groups."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.7.10:b09",
+      "title": "The role of retrospective dynastic history",
+      "paragraphs": [
+        "Samguk sagi imposes a continuous royal chronology on a formative period only partly accessible through contemporary evidence. That continuity helped later audiences understand Silla's antiquity and rightful rule. It is still important as a historical source, but it should be compared carefully with archaeological dating and outside accounts. Disagreement does not justify replacing one unsupported exact year with another invented date. Where evidence is secure, it should be stated clearly; where competing interpretations remain, the relationship between source and inference should remain visible. The historian's responsibility is to reconstruct change without turning the gaps of the archive into certainty."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "This historical reference supplies evidence for regional differentiation; exact affiliations and transmitted dynastic chronology remain qualified.",
+          "locator": "AKS Geungi-guk uncertain location"
+        }
+      ]
+    },
+    {
+      "id": "II.7.10:b10",
+      "title": "Entering the Three Kingdoms historical horizon",
+      "paragraphs": [
+        "By the later early-state period Saro's expanded political organization, Gyeongju center and external visibility prepared the setting for the Silla kingdom treated in Part III. Its emergence had involved many Jinhan communities, changing economic networks, elite competition and contingencies beyond any single founder. This final article summarizes that transition without duplicating the kingdom's mature diplomatic wars, legal codification or royal bureaucracy. II.7 thus closes at the point where a formerly local polity became a more extensive state, while preserving uncertainty about individual stages. The strongest account rests on interlocking textual and archaeological evidence rather than a legend of inevitable uninterrupted expansion."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
