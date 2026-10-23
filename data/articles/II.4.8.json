@@ -1,0 +1,161 @@
+{
+  "id": "II.4.8",
+  "title": "Han Commanderies and Northern Frontier Politics",
+  "kicker": "NORTHERN POLITIES · FRONTIER AND HISTORICAL MEMORY",
+  "description": "Original historical examination of han commanderies and northern frontier politics, separating ancient reports, changing administrative claims and modern retrospective interpretation.",
+  "release": "AE",
+  "sourceStatus": "Contextual institutional evidence and explicit uncertainty; independent scholarly review outstanding",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Korean political formations: Buyeo and Han frontier",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0040",
+      "role": "Political chronology, uneven territorial claims and Buyeo external relations"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Okjeo position, Han commanderies and Goguryeo incorporation",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0040",
+      "role": "Annotated primary Sanguozhi and detailed disputes over local autonomy and dependency"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Dongye and Okjeo historical account",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0050",
+      "role": "Textual critique of northeastern frontier geography and names"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Buyeo origins: Shiji, Hou Hanshu and later traditions",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0100",
+      "role": "Contrasts transmitted later origin memory with textual chronology and source claims"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.4.8:b01",
+      "title": "Conquest did not flatten the frontier",
+      "paragraphs": [
+        "The Han conquest of Wiman Joseon in 108 BCE reorganized the political framework of parts of the northern peninsula, but the reach of the resulting commanderies was geographically uneven. Administrative settlements, soldiers, officials and connected local leaders could sustain one kind of authority, while upland and coastal communities maintained substantial customary autonomy. Later texts name districts and officials as though boundaries were stable, yet frontier offices moved and jurisdictions changed. We must not mistake a commandery's claimed territory for a permanently supervised surface. The broader story of Lelang and other commanderies belongs to II.3; here attention centers on their relationships with Buyeo, Okjeo and Dongye."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH Buyeo political chronology and frontier context"
+        }
+      ]
+    },
+    {
+      "id": "II.4.8:b02",
+      "title": "Lelang as political and commercial intermediary",
+      "paragraphs": [
+        "Lelang provided links between northeastern societies and continental systems of administration and exchange. Imported objects, titles and recordkeeping conventions could circulate through those connections, but an item of Han type found beyond an official center does not prove its owner's political obedience. Local intermediaries could broker trade while retaining their own institutions. A mission to an official was different from routine movement of salt or grain, and the two forms of contact should not be combined into a single tribute mechanism. Commandery presence created opportunities for some communities and obligations for others. Its influence varied by route, military security and the relationships officials built with local elites."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.4.8:b03",
+      "title": "Xuantu and shifting zones of influence",
+      "paragraphs": [
+        "The Xuantu commandery appears in early accounts of northeast Asian relations, and its administrative position was altered over time as frontier conditions changed. That mobility complicates straightforward maps that portray one permanently fixed commandery area from the late second century BCE onward. Descriptions of Buyeo or Goguryeo as being at a distance from Xuantu depend on the reference point used by the source. Territorial reconstructions must combine textual chronology with the archaeology of centers and transport corridors. A frontier office could maintain diplomatic contact with communities it could not govern internally. Location, reach and recognition therefore require separate analysis instead of being treated as synonyms."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH names and location of eastern communities"
+        }
+      ]
+    },
+    {
+      "id": "II.4.8:b04",
+      "title": "The Eastern Section Commandant and coastal villages",
+      "paragraphs": [
+        "Texts on eastern Okjeo discuss the Eastern Section Commandant and Han jurisdictional categories covering coastal districts. The National Institute of Korean History notes that such institutions exercised influence through particular administrative sites and recognized local notables. The villages around them were not necessarily transformed into replicas of imperial counties. Titles could facilitate collection or diplomacy without removing the settlement's existing leadership. A changing office name is not proof that every farmer experienced an immediate change in daily rules. This tension between formal imperial authority and practical local mediation is central to the frontier's history, especially where road connections and direct oversight were limited."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.4.8:b05",
+      "title": "Administrative titles and local power",
+      "paragraphs": [
+        "Terms for local leaders recorded in commandery-related accounts include expressions translated as elder, village lord or marquis. Some likely reflect Chinese recognition or classification of existing social authorities. An assigned title could help an official locate someone responsible for collecting goods or maintaining order, but it cannot disclose the full local hierarchy. Likewise, the survival of a native custom in a text does not mean outside power was inconsequential. Local actors could accept foreign honors while safeguarding resources and kin relationships. Studying names of offices alongside evidence of actual extraction and settlements gives a more accurate picture of layered authority."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH Buyeo political chronology and frontier context"
+        }
+      ]
+    },
+    {
+      "id": "II.4.8:b06",
+      "title": "Tribute, taxation and goods in motion",
+      "paragraphs": [
+        "Outside authorities could demand services or receive goods from northeastern districts, while Goguryeo later extracted coastal products from some of those same communities. The historical terminology for tribute, tax and gift cannot always be translated into separate modern fiscal categories. An account may describe an obligation while leaving unclear its frequency, amount or beneficiaries. The value of salt and fish was shaped by local labor and distant demand, not just by ceremonial presentation at a court. We should resist constructing national revenue estimates from an isolated text. The economic question is how relationships between powerful centers and productive communities were negotiated across different periods."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.4.8:b07",
+      "title": "Conflict and relocation of authority",
+      "paragraphs": [
+        "Military competition could redirect frontier administration or expose the limits of earlier political arrangements. A commandery officer's ability to summon military help depended on routes and allied settlements. External accounts sometimes frame outcomes as the restoration of order, yet they may omit local violence, flight or bargaining. A claim that a region was pacified is not a population census proving stability. Archaeology can test episodes of disruption where occupation layers are securely dated, though fires and abandoned buildings have many potential causes. Frontier politics changed through both identifiable campaigns and less visible adjustments in leadership and supply."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH names and location of eastern communities"
+        }
+      ]
+    },
+    {
+      "id": "II.4.8:b08",
+      "title": "The third-century observer's viewpoint",
+      "paragraphs": [
+        "The Sanguozhi was compiled after the political encounters it describes and was aimed at a readership familiar with continental statecraft. Its frontier accounts preserve precious information while organizing peoples through categories of allegiance, wealth and custom. A statement about submission should therefore be understood as evidence that an observer reported a political relationship. It cannot alone establish what individuals in the named communities believed about their own independence. Comparisons with the Hou Hanshu require attention to common information sources and the later compilation's chronology. Good source criticism preserves reported encounters without treating their vocabulary as a neutral administrative survey."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.4.8:b09",
+      "title": "Frontiers as contact zones rather than lines",
+      "paragraphs": [
+        "The northeast had several overlapping spheres of influence, not one border dividing two fully integrated modern countries. A settlement could supply a Han center, maintain marriages with a neighboring valley and later experience demands from Goguryeo. Such relationships might conflict without making the community disappear. Coastal and upland routes affected access and therefore the durability of claims to control. A map of offices is useful for showing official ambitions, whereas a map of archaeological exchange captures different activities. Neither can be considered complete. The social and political meaning of the frontier lay in multiple negotiations over people, land and material movement."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH Buyeo political chronology and frontier context"
+        }
+      ]
+    },
+    {
+      "id": "II.4.8:b10",
+      "title": "Beyond the commandery narrative",
+      "paragraphs": [
+        "Han frontier institutions influenced the development of several northern polities, but the history of those polities should not be reduced to a reaction to imperial conquest. Buyeo maintained relationships and institutions beyond the reach of commandery routine; Okjeo and Dongye retained local governance under changing external demands. This article has focused on interactions and administrative limitations rather than reproducing II.3's commandery history. The next examines Goguryeo's growing influence over northern communities, a process that involved both military power and the continued use of local intermediaries. Recognizing regional plurality is necessary to avoid equating later dynastic territory with early political reality."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

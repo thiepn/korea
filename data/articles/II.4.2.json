@@ -30,6 +30,70 @@
       ],
       "label": "Prototype editorial narrative · unsourced sample",
       "sequence": 3
+    },
+    {
+      "id": "II.4.2:b04",
+      "title": "Chronology before legend",
+      "paragraphs": [
+        "A foundational difficulty in writing Buyeo's history is that a king's legendary origin and the earliest external notice of a polity are different kinds of evidence. The Shiji's economic-geographical description places Buyeo within the northeastern world known to Han observers, while later Korean foundation narratives introduce figures such as Hae Mosu and Dongmyeong. The National Institute of Korean History notes that the dating of the Shiji passage itself requires attention to its context, with some scholarship locating the relevant horizon in the early Han rather than an earlier Yan age. Neither view furnishes a precise founding year. A careful account begins with documented mention, not the assumption that later mythic chronology can be converted directly into an administrative date."
+      ],
+      "sequence": 4
+    },
+    {
+      "id": "II.4.2:b05",
+      "title": "River basins and the problem of a capital",
+      "paragraphs": [
+        "The Songhua basin is central to reconstructions of Buyeo's location, but the identification of a particular royal seat across centuries remains disputed. Written sources employ directional descriptions and distances from continental frontier locations whose own positions and significance changed. Archaeological cultures in northeastern China can illuminate settlement and funerary patterns, though linking a particular site to an explicitly named Buyeo court requires more than material resemblance. The landscape includes farmland, wetlands and routes of exchange that shaped how a royal center could draw resources. A map assigning one fixed capital for the whole of Buyeo's existence suppresses uncertainty about movements and the uneven geographical reach of successive rulers."
+      ],
+      "sequence": 5
+    },
+    {
+      "id": "II.4.2:b06",
+      "title": "Buyeo and the earlier northern communities",
+      "paragraphs": [
+        "A later polity cannot be assumed to appear on previously empty land. Communities had cultivated, buried their dead and exchanged goods in northeastern river basins before the first secure textual mention of Buyeo. Archaeological continuity may show sustained use of particular areas without providing a direct political genealogy. The development of kingship could have reorganized relationships among existing settlements and leaders rather than created an entirely new population. This distinction helps explain why the question of origins cannot be solved by matching one ancient name to one artifact style. The formation of Buyeo must be studied as a historical process at the intersection of local social structures, material resources and wider regional contact."
+      ],
+      "sequence": 6
+    },
+    {
+      "id": "II.4.2:b07",
+      "title": "Multiple possible meanings of Dongmyeong",
+      "paragraphs": [
+        "Dongmyeong appears in foundation traditions connected to more than one northeastern polity, with versions adapted within changing royal and literary contexts. The name can function as a marker of prestigious ancestry, not simply as an independently documented individual whose movements are preserved in contemporary records. Comparing variant accounts is valuable because differences reveal the political and cultural work that a story performed for later writers. It does not require harmonizing every detail into one biography. Historians should separate the earliest mention of a name, the date of a surviving compilation and the proposed time of events. Failure to distinguish these horizons makes the origin narrative appear more precise than its evidence allows."
+      ],
+      "sequence": 7
+    },
+    {
+      "id": "II.4.2:b08",
+      "title": "External recognition and local autonomy",
+      "paragraphs": [
+        "Buyeo maintained diplomatic contacts with mainland regimes, whose writers were interested in alliances and frontier security. A report of envoys or gifts establishes a political encounter, but it does not prove that Buyeo's king exercised uncontested power over every village described within the wider regional setting. Accounts of aristocratic lords and their territories suggest that authority was mediated through leading houses. Those houses may have mobilized men and grain according to relationships unfamiliar to bureaucratic observers. A political history should ask what foreign recognition provided to the ruler and what obligations persisted locally. It is not sufficient to equate foreign titles with the daily realities of administration."
+      ],
+      "sequence": 8
+    },
+    {
+      "id": "II.4.2:b09",
+      "title": "The third-century evidence horizon",
+      "paragraphs": [
+        "The Sanguozhi's description of Buyeo reflects information assembled in the context of third-century military and diplomatic relations. It is often the most detailed surviving narrative of the polity's government and customs, but that richness does not automatically extend backward to every century of earlier development. Titles, festivals and laws may have changed; what appears stable in one summary may have had its own history. The later Hou Hanshu preserves related descriptions whose overlapping material should be treated carefully when claiming corroboration. Distinguishing these layers makes it possible to use unusually precise testimony without constructing an invented continuous sequence of offices and royal decrees."
+      ],
+      "sequence": 9
+    },
+    {
+      "id": "II.4.2:b10",
+      "title": "Pressure from Xianbei and other neighbors",
+      "paragraphs": [
+        "Buyeo's changing relations with neighboring groups and polities created opportunities for alliance and exposure to attack. Accounts of crises in the fourth century describe military pressure and disruption, but their details require comparison among texts compiled with different political aims. The loss of a royal seat or the capture of people need not imply the disappearance of the entire rural population. Some households may have migrated, while others continued farming under a changed political framework. The original narratives often foreground rulers and armies, leaving the effects on families unclear. A historical reconstruction must preserve those absences rather than invent casualty figures or personal experiences."
+      ],
+      "sequence": 10
+    },
+    {
+      "id": "II.4.2:b11",
+      "title": "The end of a name and the survival of people",
+      "paragraphs": [
+        "Buyeo eventually ceased to appear as an independent state, with later narratives connecting its remaining political sphere to the power of Goguryeo by the late fifth century. The commonly reported date of 494 belongs to this terminal political story, not to the disappearance of every person who had identified with Buyeo traditions. Communities can be incorporated, relocated or reclassified while maintaining aspects of older life. Later Goguryeo and other foundation accounts continued to make Buyeo ancestry meaningful. Its history is therefore neither a simple prelude to a successor kingdom nor a timeless origin myth. Political dissolution and cultural memory are related but distinct processes."
+      ],
+      "sequence": 11
     }
   ],
   "release": "C"

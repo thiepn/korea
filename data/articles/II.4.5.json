@@ -1,0 +1,161 @@
+{
+  "id": "II.4.5",
+  "title": "Okjeo: Communities between Sea, Mountain, and Stronger States",
+  "kicker": "NORTHERN COMMUNITIES · SOCIAL GEOGRAPHY AND SOURCE CRITICISM",
+  "description": "Original close reading of okjeo: communities between sea, mountain, and stronger states grounded in the Wei tradition and modern annotated Korean historical sources.",
+  "release": "AE",
+  "sourceStatus": "Original synthesis with contextual documentary citations; no independent specialist review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Okjeo: location, changing political relations, and primary account",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0040",
+      "role": "Annotated Sanguozhi Okjeo passage, geographic naming and debated indirect versus direct Goguryeo control"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Dongye and Okjeo: society, settlements, custom",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0050",
+      "role": "Scholarly synthesis of eastern groups and critical reading of the Wei text"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Dongye's chaekhwa: territorial protection and compensation",
+      "url": "https://contents.history.go.kr/mobile/mid/hm_003_0070?tabId=r",
+      "role": "Primary text and source-critical discussion of Dongye boundaries, clan ties and compensation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Annotated pre-Three Kingdoms source register",
+      "url": "https://contents.history.go.kr/front/hm/list.do?periodCode=hm_age_10",
+      "role": "Primary Sanguozhi dossiers for Okjeo marriage, Buyeo Yeonggo and Dongye customs; descriptions are selective external testimony"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.4.5:b01",
+      "title": "A long and differentiated coast",
+      "paragraphs": [
+        "The name Okjeo in third-century Chinese records covers communities along a northern stretch of the East Sea coast rather than one compact state with an easily fixed capital. Scholarship distinguishes a broader Eastern Okjeo from northern and southern concentrations, but not every term occurs in every source. The Hamhung basin and lands toward the Tumen region offered different opportunities for farming, fishing and communication. Mountains complicated travel inland while bays and coastal paths supported other forms of contact. A map showing a single unbroken political frontier risks imposing modern expectations. Local settlement networks and the changing influence of neighbors better explain the geography that historical observers attempted to describe."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Okjeo annotated third-century description and geographic critique"
+        }
+      ]
+    },
+    {
+      "id": "II.4.5:b02",
+      "title": "Gojoseon and Han frontier categories",
+      "paragraphs": [
+        "Early histories associate parts of the coast with Wiman Joseon and later Han commandery arrangements, including the Eastern Section Commandant and districts whose precise functioning remains debated. Being named in a commandery geography did not mean every village was administered directly by officials resident in China. The National Institute of Korean History distinguishes administrative centers with imperial presence from local communities retaining their own leaders. The degree of intervention likely varied by district and changed over time. Administrative labels are evidence of outside claims, fiscal relationships and military interest. They cannot be translated without qualification into complete cultural assimilation or permanent control of every valley and harbor."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.4.5:b03",
+      "title": "The authority of samno and local notables",
+      "paragraphs": [
+        "Texts identify local elders or leaders, including the title samno, as figures through whom settlement affairs were conducted. Their recognition by an outside administration did not necessarily create their influence from nothing. Kin ties, resource coordination and the ability to mediate disputes may already have made such people important. We lack minutes of village councils, inventories of their property or records of conversations with foreign officers. It is therefore better to describe mediated authority than to assign them modern mayoral responsibilities. The persistence of local leadership under changing external claims helps explain how communities could endure even while the political designation attached to their territory changed."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Dongye chaekhwa account and commentary"
+        }
+      ]
+    },
+    {
+      "id": "II.4.5:b04",
+      "title": "Agriculture on narrow coastal plains",
+      "paragraphs": [
+        "Accounts describe relatively productive coastal land and access to marine products, but the distribution of good fields was not uniform along the coast. Cultivation in basin bottoms and river mouths depended on seasonal precipitation and village labor. A household's harvest might be sufficient for its needs in one year and threatened by storms or excessive demands the next. The textual claim that a district was fertile does not supply figures for total grain production or identify which crops were grown in every settlement. Archaeobotanical excavation, where available, can add detail. The environmental setting helps explain the value of Okjeo to stronger states without reducing its inhabitants to anonymous providers of food."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.4.5:b05",
+      "title": "Salt, fish and tributary claims",
+      "paragraphs": [
+        "Goguryeo's demands on Okjeo are remembered partly through salt, fish and other coastal products. Such resources required practical knowledge of fishing grounds, processing and transport, and they may have been valuable farther inland. But the existence of tribute should not be confused with a precisely dated annual tax schedule. Some demands could be irregular or negotiated through local leaders, and the degree of direct oversight remains contested. Coastal people also needed supplies for themselves. The economic significance of Okjeo's products derives from both local subsistence and the reach of outside political extraction. Neither dimension is fully visible in the written accounts."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Okjeo annotated third-century description and geographic critique"
+        }
+      ]
+    },
+    {
+      "id": "II.4.5:b06",
+      "title": "Marriage narratives and the problem of stereotypes",
+      "paragraphs": [
+        "The Sanguozhi records a marriage custom sometimes translated as the 'child-bride' or future daughter-in-law arrangement. Its description involves a young girl residing in a prospective husband's household and later marriage negotiations. Scholars must distinguish what the author reports from broad claims about every Okjeo family. Outsider descriptions of unusual marriage practices are selected to mark difference and may simplify variations in age, status or local consent. The passage cannot establish the emotional experience of an individual girl or define the practice across centuries. Treating the text critically does not erase the importance of gender and household authority; it prevents fiction from replacing the historical record."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.4.5:b07",
+      "title": "Family burial and the place of ancestors",
+      "paragraphs": [
+        "A distinctive account describes secondary handling of bones and their placement within family collective burial arrangements, sometimes alongside containers for grain. Such reports offer insight into kinship and ideas about the dead, but they should be compared cautiously with archaeological graves that can be dated and securely identified. A shared tomb might express lineage solidarity without proving an identical practice in every region. The presence of food containers could have ritual significance, though their meaning is not fully explained by the source. Careful scholarship separates the report, excavated evidence and interpretive analogy, avoiding invented prayers or a supposedly universal Okjeo theology."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Dongye chaekhwa account and commentary"
+        }
+      ]
+    },
+    {
+      "id": "II.4.5:b08",
+      "title": "Goguryeo incorporation was not a single instant",
+      "paragraphs": [
+        "The northern and southern coastal districts entered Goguryeo's sphere across a changing chronology, and modern scholarship debates the balance of direct administration and indirect rule. The Sanguozhi's statement about exactions identifies a relationship by the third century, not the precise administrative structure in every earlier generation. Some local institutions may have persisted even as tribute routes and military obligations changed. The geographic spread of incorporation depended on passes, harbors and existing networks. Later Goguryeo territorial maps should not be read backward as proof of uniform early control. Political inclusion could be gradual, contested and different from cultural uniformity."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.4.5:b09",
+      "title": "People beyond a tributary stereotype",
+      "paragraphs": [
+        "Ordinary Okjeo residents appear in external accounts mainly when their customs or resources mattered to neighboring rulers. Yet fishing, cultivation, family cooperation and repair of dwellings required choices beyond the reach of transmitted political summaries. A coastal community could sustain its own associations and seasonal routines even while losing autonomy in external affairs. Archaeology may illuminate such activities through homes, food remains and tools but seldom provides the voices of named individuals. This imbalance is a reason to ask different questions, not to invent diaries or attribute modern identities to the population. Social continuity and changing political obligations can coexist."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The source documents a reported institution or place while its representativeness and interpretation remain conditional.",
+          "locator": "NIKH Okjeo annotated third-century description and geographic critique"
+        }
+      ]
+    },
+    {
+      "id": "II.4.5:b10",
+      "title": "A polity named through its neighbors",
+      "paragraphs": [
+        "Okjeo's history demonstrates the limits of equating a recorded people-name with a fully centralized kingdom. Its settlements occupied distinct environments and were described through several successive external political frameworks. Local leaders, agricultural producers and coastal specialists participated in those relationships while retaining varied practices. This article owns Okjeo's social geography and changing dependencies, whereas the earlier Han commandery Chapter owns the administration's broader history and the Goguryeo Chapters own its dynastic expansion. The next examines Dongye, whose local boundary customs and autumn ceremony are known through overlapping but not interchangeable outside accounts. Restoring those distinctions is essential to a plural northern past."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

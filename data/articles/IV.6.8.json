@@ -1,0 +1,161 @@
+{
+  "id": "IV.6.8",
+  "title": "Writing, Education, Diplomatic Literacy, and Intellectual Culture",
+  "kicker": "BALHAE · WRITING, MONUMENTS AND HISTORIOGRAPHY",
+  "description": "Original source-critical historical synthesis of writing, education, diplomatic literacy, and intellectual culture, anchored in inscriptions, documented excavations and historiographical uncertainties.",
+  "release": "AE",
+  "sourceStatus": "Contextual institute scholarship and monuments; independent historical peer review pending",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae studies: capital archaeology and cultural evidence",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_039_0070_0020_0020_0020",
+      "role": "Historical and archaeological account of Shangjing, cities, tomb evidence and research history"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghye tomb and epitaph",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051146",
+      "role": "780 stone burial inscription, direct dated source of Balhae court memory"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghyo tomb and mural",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051192",
+      "role": "Dated late eighth-century brick chamber, visual and written evidence for royal representation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae cultural development and textual traditions",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "role": "Established educational historical survey; its simplified labels and ethnic claims need qualification"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.6.8:b01",
+      "title": "Writing as practical political technology",
+      "paragraphs": [
+        "Balhae rulers and officials communicated with Tang and Japanese courts through a diplomatic world in which documents, titles and formal literary conventions mattered. Such exchanges demonstrate that certain people possessed advanced written skills, but they do not establish widespread literacy among rural households. A royal message required drafting, translation or interpretation, copying and transport. The surviving texts are mostly preserved within external documentary traditions rather than a complete Balhae state archive. We must ask who created a record, for which audience and through what channel it survived. Literacy was a valuable instrument of political connection, though access to its specialized forms was socially uneven."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "NIKH Balhae capital sites and external chronicle traditions"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.8:b02",
+      "title": "Classical Chinese and local communication",
+      "paragraphs": [
+        "Literary Chinese provided a common written medium across much of East Asian elite diplomacy, allowing officials from different states to exchange formal expressions. Using such a script did not mean that every participant spoke the same language in daily life. Balhae's population was diverse, and the linguistic practices of households are far less accessible than the written output of court intermediaries. A document's script identifies a learned convention, not a direct measure of ethnic identity. Interpreters and multilingual expertise may have mattered in diplomatic encounters, but the sources do not furnish a complete list of languages or educational curricula used in the kingdom."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.8:b03",
+      "title": "The evidentiary value of epitaphs",
+      "paragraphs": [
+        "The inscriptions associated with Princess Jeonghye and Princess Jeonghyo are among the most important directly dated Balhae texts. They record particular royal relationships and commemorative intentions, illustrating sophisticated written composition and court literary ideals. Jeonghye's burial in 780 and Jeonghyo's death in 792 establish specific contexts that can be compared with the broader narrative chronology. Yet inscriptions are crafted acts of memory and often employ formulaic praise. Their expressions of virtue cannot be treated as private diaries, and their survival does not reveal how common inscriptional writing was across the provinces. They offer precise windows, not a complete intellectual landscape."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "AKS Jeonghyo stele and late eighth-century royal woman"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.8:b04",
+      "title": "Education without an invented nationwide system",
+      "paragraphs": [
+        "Contacts with Tang institutions and the use of learned titles indicate that some Balhae elites pursued education suitable for administration and diplomacy. Individual students or official participants mentioned in sources should be distinguished from a formally reconstructed school network. It would be misleading to invent standardized examinations in every region or to claim equal recruitment irrespective of birth. Royal households and connected families likely had advantages in access to teachers and books. The evidence allows discussion of literate specialization and educational aspiration while leaving local arrangements uncertain. The historian should resist transferring the better documented educational systems of later Korean states into Balhae without proof."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.8:b05",
+      "title": "Books, copying and fragile preservation",
+      "paragraphs": [
+        "A scholarly culture depends on materials for writing and transmitting texts. Brushes, paper and other implements could travel through continental exchange or be produced locally, but the archaeological record of organic materials is fragmentary. The absence of a manuscript from a particular Balhae settlement is not evidence that no written documents circulated there. Conversely, a famous later reference to a learned court does not supply the lost contents of its libraries. Copies made after original composition may alter wording. Intellectual history therefore needs an account of archival survival and the possibility of textual loss as much as a catalogue of named scholars or written genres."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "NIKH Balhae capital sites and external chronicle traditions"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.8:b06",
+      "title": "Buddhist learning and textual movement",
+      "paragraphs": [
+        "Monks and Buddhist communities operated within networks where scriptural knowledge and interpretive traditions circulated. Balhae's Buddhist material remains make such exchange historically significant, yet the presence of a temple does not establish that every resident could read religious texts. Clerics may have specialized in ritual, artistic commissions or copying, with institutional forms that varied by site. A manuscript identified in a distant repository must be examined for actual provenance before attributing it to Balhae. Religious and secular learning interacted, but they should not be collapsed into a single curriculum. Intellectual culture included ways of applying texts within social institutions, not just possessing books."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.8:b07",
+      "title": "The Tang court as a channel and filter",
+      "paragraphs": [
+        "Chinese dynastic compilations preserve information about Balhae embassies and political culture partly because those contacts mattered to imperial officials. Such records can attest the exchange of documents and learned titles while making the Balhae perspective difficult to recover. A flattering description by a Tang writer might reflect a particular diplomatic moment, not an objective ranking of civilizational achievement. The classifications used in Chinese accounts also changed across time. Comparing an inscription recovered archaeologically with an external diplomatic report may reveal both shared conventions and differing purposes. The historian should not confuse the survival of written testimony at a foreign court with exclusive foreign authorship of Balhae intellectual life."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "AKS Jeonghyo stele and late eighth-century royal woman"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.8:b08",
+      "title": "Japan as another archive of contact",
+      "paragraphs": [
+        "Balhae missions to Japan generated references within Japanese documentary traditions, adding another perspective on formal writing and cultural exchange. Court descriptions may identify envoys, gifts and occasions, but the everyday experience of translators, sailors and merchants is often missing. The existence of repeated missions is evidence of diplomatic competence and communication networks, not a complete reconstruction of every written text that changed hands. Material culture and later Japanese manuscript preservation must be dated and provenanced independently. A broader archive is useful precisely because different observers recorded different concerns. Their accounts require comparison rather than aggregation into a seamless narrative of uninterrupted exchange."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.8:b09",
+      "title": "Knowledge outside written elites",
+      "paragraphs": [
+        "Farmers, hunters, animal keepers, builders and coastal travelers relied on highly developed skills that seldom entered surviving literary texts. The ability to navigate seasonal rivers or select construction timber was knowledge even when it was not taught through a court curriculum. Archaeological tools and buildings can suggest such expertise without disclosing the names of its practitioners. An intellectual history devoted only to official writing would mistake the archive's selection for the full distribution of ability. Balhae society preserved and transmitted knowledge through households, work groups and contacts across communities. Recognizing that fact does not justify inventing undocumented oral traditions; it broadens the questions asked of material evidence."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "NIKH Balhae capital sites and external chronicle traditions"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.8:b10",
+      "title": "A literate court within a plural civilization",
+      "paragraphs": [
+        "Balhae participated in a written diplomatic and religious world while governing people whose languages, educational opportunities and customary knowledge were unevenly recorded. Monumental inscriptions show elite composition, and external chronicles reveal selected exchanges, but neither provides a complete national library or population literacy rate. This article has concentrated on writing, learned institutions and the limits of surviving texts, leaving artistic production to adjacent studies and dynastic diplomacy to IV.5. Intellectual history gains reliability by retaining the distinction between a demonstrable text, plausible training arrangements and the unrecorded skills through which everyday society functioned. That distinction prevents literacy from becoming a measure of human worth or political belonging."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

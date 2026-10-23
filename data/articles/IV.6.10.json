@@ -1,0 +1,161 @@
+{
+  "id": "IV.6.10",
+  "title": "Archaeology, Sources, Historiography, and the Problem of Balhae Identity",
+  "kicker": "BALHAE · WRITING, MONUMENTS AND HISTORIOGRAPHY",
+  "description": "Original source-critical historical synthesis of archaeology, sources, historiography, and the problem of balhae identity, anchored in inscriptions, documented excavations and historiographical uncertainties.",
+  "release": "AE",
+  "sourceStatus": "Contextual institute scholarship and monuments; independent historical peer review pending",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae studies: capital archaeology and cultural evidence",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_039_0070_0020_0020_0020",
+      "role": "Historical and archaeological account of Shangjing, cities, tomb evidence and research history"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghye tomb and epitaph",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051146",
+      "role": "780 stone burial inscription, direct dated source of Balhae court memory"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghyo tomb and mural",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051192",
+      "role": "Dated late eighth-century brick chamber, visual and written evidence for royal representation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae cultural development and textual traditions",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "role": "Established educational historical survey; its simplified labels and ethnic claims need qualification"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.6.10:b01",
+      "title": "A kingdom with a fragmented archive",
+      "paragraphs": [
+        "Balhae left impressive architectural remains and several directly dated monuments, but its surviving narrative record is thin compared with the documentation of some neighboring dynasties. Much of its written history has been assembled from Tang, Japanese and later Korean accounts whose purposes differed. A diplomatic report is not the same kind of source as a tomb inscription, and neither records daily life comprehensively. Archaeological investigation provides independent material evidence while facing its own limits of dating, access and interpretation. The historian's task is to construct a coherent explanation without making scattered texts and objects speak with a certainty they do not possess."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "NIKH Balhae capital sites and external chronicle traditions"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.10:b02",
+      "title": "The founding narrative and its authors",
+      "paragraphs": [
+        "Accounts of Balhae's foundation associate Dae Joyeong and displaced groups with events following the collapse of Goguryeo and frontier unrest. Different sources emphasize Goguryeo descent, Mohe affiliation or Tang political categories, creating longstanding debate about the political identity of the founding coalition. These differences are historically meaningful; they should not be erased by declaring one text infallible. Terms used to classify a leader could reflect a court writer's assumptions or diplomatic priorities. The kingdom's emergence and the specific chronology of campaigns belong to IV.5, while this article examines how sources generate conflicting images of the same polity. The evidence supports plurality more readily than an uncomplicated single genealogy."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.10:b03",
+      "title": "Goguryeo succession as political claim",
+      "paragraphs": [
+        "Balhae could draw legitimacy from Goguryeo precedents through royal memory, material culture and the participation of people associated with the earlier kingdom. Such continuity matters, but a political claim of succession is not equivalent to evidence that every inhabitant shared one origin. Archaeological parallels in tombs, housing or decoration need dating and comparison with other neighboring traditions. Practices may persist among moving families or spread through imitation. Historians should distinguish an elite narrative of inheritance from demographic transformation and everyday affiliation. Doing so does not deny historical links; it explains the different kinds of continuity and the degree of evidence for each."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "AKS Jeonghyo stele and late eighth-century royal woman"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.10:b04",
+      "title": "Mohe as a changing classification",
+      "paragraphs": [
+        "The terms Mohe and Malgal refer in external sources to diverse northeastern communities rather than one monolithic population. Some were integral to Balhae's development, while others remained outside its authority or maintained different alliances. Modern narratives that divide everyone into two immutable ethnic strata overlook the complexity of local identities and the instability of outsider nomenclature. Archaeological differences between sites may reflect ecology, time or production networks rather than exclusive ethnic boundaries. The most useful questions ask which communities participated in which political arrangements and how those relationships changed. Ethnicity cannot be extracted directly from an official label or one ceramic shape."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.10:b05",
+      "title": "The value of royal inscriptions",
+      "paragraphs": [
+        "Princess Jeonghye's inscription and Princess Jeonghyo's memorial evidence anchor particular royal lives in the late eighth century. Their dates and family relationships offer firmer chronological points than many later literary summaries. Yet their formal language praises elite virtue and expresses commemorative intent, which complicates the use of every phrase as objective social description. The tomb structures and inscriptions can be examined together, sometimes correcting assumptions built solely on transmitted histories. These records are exceptional precisely because so few comparable local texts survive. A scholar must resist generalizing from royal women to the population as a whole, while recognizing their importance as named historical witnesses."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "NIKH Balhae capital sites and external chronicle traditions"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.10:b06",
+      "title": "Archaeological cultures are not people labels",
+      "paragraphs": [
+        "Excavators identify patterns in pottery, fortifications, burial forms, housing and crafts to organize complex evidence. Such archaeological cultures are research categories, not direct statements of how ancient residents described themselves. A shift in pottery could follow changing markets rather than a mass migration, while a continued house form might reflect adaptation across political transitions. Geography and excavation intensity can create apparent boundaries where historical contact was more porous. Scientific dating, material analysis and clear provenance make claims testable, but they do not solve every identity question. Responsible site interpretation explains each inference rather than painting all remains in a modern national color."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.10:b07",
+      "title": "The research geography of the northeast",
+      "paragraphs": [
+        "Sites relevant to Balhae are distributed across northeastern China, the Russian Far East and parts of the Korean peninsula. Excavation access, publication practices and political relationships have differed, making it difficult to combine all evidence into one equally detailed regional dataset. A concentration of known finds may reflect modern fieldwork rather than the ancient center of population. Scholarly cooperation and careful comparison of site reports can improve the picture. The location of an ancient capital in a modern state does not determine the ethnic identity of its inhabitants. Geographic transparency is especially important where competing heritage claims have shaped public discussion."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "AKS Jeonghyo stele and late eighth-century royal woman"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.10:b08",
+      "title": "Historiographical debates without false symmetry",
+      "paragraphs": [
+        "Korean and Chinese scholarship, among others, has debated how Balhae relates to the histories of Goguryeo, Tang and northeastern peoples. There are substantial source-based arguments, and not every claim is equally well supported. Treating all national narratives as interchangeable would avoid the task of examining evidence. Conversely, dismissing a detailed excavation simply because of its researcher's nationality would be unscholarly. The strongest approach compares texts in their original contexts, inscriptions with secure dates and archaeology with documented stratigraphy. It states where the record supports political succession, diverse population or external recognition, and where ideological certainty outstrips what can be demonstrated."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.10:b09",
+      "title": "Public memory and oversimplification",
+      "paragraphs": [
+        "School summaries often describe Balhae as either the northern half of a North–South States system or a regional state within a broad continental dynasty's frontier. Such frames orient learners but can flatten cultural plurality and changing sovereignty. A historically useful website can explain why different textbooks choose particular emphases without repeating contemporary national claims as facts about the eighth century. Maps should date boundaries and distinguish secure sites from inferred extent. Images of a splendid capital must be connected to villages and people outside the court. The challenge of public history is to retain accessible narrative while making the evidence and its uncertainties visible."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "NIKH Balhae capital sites and external chronicle traditions"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.10:b10",
+      "title": "A civilization known through multiple methods",
+      "paragraphs": [
+        "Balhae's history gains depth when elite inscriptions, urban archaeology, external chronicles, local economic remains and critical historiography are placed in conversation. None provides a complete account on its own. Its population was heterogeneous, its courts participated in wider East Asian exchanges and its cultural forms combined inheritance with adaptation. This Chapter has examined the society and civilization of that world rather than retelling IV.5's campaigns and dynastic succession. Recognizing contested categories and missing evidence is not a weakness; it is necessary for distinguishing historical reconstruction from a retrospective identity claim. The concluding perspective is one of connectedness, local diversity and carefully bounded knowledge."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

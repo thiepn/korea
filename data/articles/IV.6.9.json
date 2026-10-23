@@ -1,0 +1,161 @@
+{
+  "id": "IV.6.9",
+  "title": "Architecture, Tombs, Art, and the Material Expression of Identity",
+  "kicker": "BALHAE · WRITING, MONUMENTS AND HISTORIOGRAPHY",
+  "description": "Original source-critical historical synthesis of architecture, tombs, art, and the material expression of identity, anchored in inscriptions, documented excavations and historiographical uncertainties.",
+  "release": "AE",
+  "sourceStatus": "Contextual institute scholarship and monuments; independent historical peer review pending",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae studies: capital archaeology and cultural evidence",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_039_0070_0020_0020_0020",
+      "role": "Historical and archaeological account of Shangjing, cities, tomb evidence and research history"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghye tomb and epitaph",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051146",
+      "role": "780 stone burial inscription, direct dated source of Balhae court memory"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghyo tomb and mural",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051192",
+      "role": "Dated late eighth-century brick chamber, visual and written evidence for royal representation"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae cultural development and textual traditions",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "role": "Established educational historical survey; its simplified labels and ethnic claims need qualification"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.6.9:b01",
+      "title": "Material identity is made, not inherited whole",
+      "paragraphs": [
+        "Buildings, tombs, sculptures and decorative objects from Balhae contexts display technical accomplishment and cultural contacts. Their interpretation has often been drawn into debates over the kingdom's relationship to Goguryeo, Tang and Mohe communities. A single architectural element cannot resolve those arguments. Forms may be inherited, adapted or chosen for practical reasons across communities, while patrons deploy familiar images to express authority. Material identity was something people negotiated through resources and technique rather than a permanent signature encoded in each brick. A source-critical account asks where an object was found, when it was made and which competing explanations fit its context."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "NIKH Balhae capital sites and external chronicle traditions"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.9:b02",
+      "title": "Shangjing's planned architecture",
+      "paragraphs": [
+        "Shangjing Longquanfu preserves the remains of an extensive capital landscape with walled zones, major roads, palace buildings and temple compounds. Its plan has been compared with Tang capital models, but parallels do not imply identical political institutions or every street's function. Construction phases and later repairs complicate simple reconstructions of an eighth- or ninth-century city. A foundation does not automatically identify its original occupant. Archaeology can establish dimensions and spatial relationships where excavation is secure; the inner life of its buildings is much harder to recover. The city demonstrates sophisticated coordination while reminding us that royal urban design was enacted through the work of countless laborers."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.9:b03",
+      "title": "Royal tombs and their unequal record",
+      "paragraphs": [
+        "The tombs of Princess Jeonghye and Princess Jeonghyo are unusually informative because monumental structures combine with inscriptions and, in Jeonghyo's case, mural evidence. Jeonghye's stone-chamber burial at Liudingshan dates to 780, while Jeonghyo's brick-chamber tomb was excavated at Longtou Mountain. Their difference cautions against calling one architectural type the sole Balhae royal tradition. Inscriptions record named elite lives, but grave architecture expresses choices by survivors as well as deceased persons. The sites cannot serve as average indicators of household burial practices. Their importance derives from the convergence of dates, materials and commemorative purpose."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "AKS Jeonghyo stele and late eighth-century royal woman"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.9:b04",
+      "title": "Painting and the challenge of context",
+      "paragraphs": [
+        "Murals and other painted surfaces may depict attendants or ceremonial figures, but identifying each represented person or social role can be uncertain. A visual convention could originate in several neighboring artistic traditions and acquire distinct local meaning. Damage, restoration and partial preservation affect what modern viewers interpret. Comparing figures with Tang or Goguryeo examples can clarify stylistic relations without proving a single direction of artistic influence. The image's placement inside a particular tomb is as significant as its appearance. Art history becomes stronger when it examines patronage, materials and setting together rather than treating visual resemblance as a direct ethnic or dynastic certificate."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.9:b05",
+      "title": "Stone guardians and sculptural choices",
+      "paragraphs": [
+        "Stone sculptures associated with Balhae elite funerary settings, including the figures recovered near Princess Jeonghye's burial, reveal skilled carving and deliberate commemoration. A guardian figure can reflect broader East Asian mortuary conventions, but its exact symbolic meaning should be tested against context rather than assumed. Sculptural materials required quarrying, transportation and skilled labor, all of which depended on resources beyond the tomb itself. Similar motifs may have circulated through itinerant artisans or prestige models. We should distinguish demonstrable physical investment from guesses about the private beliefs of those who commissioned it. Material prestige was social and political as well as artistic."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "NIKH Balhae capital sites and external chronicle traditions"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.9:b06",
+      "title": "Brick, tile and building practice",
+      "paragraphs": [
+        "Bricks, fired roof tiles and stone structures demonstrate knowledge of durable construction, with workshop choices shaped by local clay, fuel and labor. Similar patterns across sites can suggest linked production traditions, but not necessarily that every building was planned by a single central office. A decorated tile might travel as a finished item or reflect a shared mold design reproduced locally. Dating deposition is essential because reused building material can appear in later layers. A history of architecture should treat the material processes of making as part of cultural expression, not simply list decorative motifs. The scale of construction also raises questions about household obligations and specialist expertise."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.9:b07",
+      "title": "Tombs outside the elite center",
+      "paragraphs": [
+        "Nonroyal burial practices across Balhae's territory varied with local traditions and access to resources. The absence of elaborate inscriptions in one cemetery cannot be interpreted as absence of identity or cultural participation. Archaeological classification of stone chambers, earth pits or brick structures needs precise chronology and attention to regional conditions. A grave containing pottery similar to an elite site might reflect exchange rather than shared ancestry. Burial customs can also change within one family or settlement. Treating all grave forms as directly readable ethnic signs flattens this variation. The mortuary record is especially rich for studying choice, but its social meanings are not transparent."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "AKS Jeonghyo stele and late eighth-century royal woman"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.9:b08",
+      "title": "Buddhist art within diverse communities",
+      "paragraphs": [
+        "Temple statuary, lotus-patterned objects and architectural components connect Balhae to wider Buddhist artistic practice. Local workshops could adopt familiar motifs while innovating in material or composition. Royal sponsorship might make some forms prominent, yet it cannot establish that all communities used the same sacred imagery. A fragmentary statue should not be turned into evidence for an otherwise undocumented religious doctrine. Artifacts in excavated temples may include items from several phases of use, requiring stratigraphic caution. The study of sacred art is most illuminating when religious patronage is connected to craft production and settlement life without absorbing the varied beliefs of rural inhabitants."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.9:b09",
+      "title": "Modern excavation and the politics of display",
+      "paragraphs": [
+        "Balhae sites lie across present-day national boundaries and have been excavated and interpreted within different scholarly traditions. Museum labels sometimes emphasize either continental influence or succession from Goguryeo, reflecting real research debates as well as modern cultural concerns. Such contexts should not determine conclusions in advance. An excavation report's stratigraphy and publication date matter more than the nationality of its author. Restoration and heritage presentation can also shape what visitors regard as original. A careful atlas should show site provenance, chronological phases and interpretive alternatives rather than a composite ideal palace or tomb presented as direct observation."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Referenced archaeological and documentary source contextualizes this discussion; direct witness and inference are distinguished.",
+          "locator": "NIKH Balhae capital sites and external chronicle traditions"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.9:b10",
+      "title": "The material expression of a changing polity",
+      "paragraphs": [
+        "Balhae architecture and art arose through interactions among communities, political patrons and technical specialists. Planned capitals and named princesses' tombs document significant organizational resources, while village sites and modest burials reveal a different scale of cultural life. No single ornament or building plan provides a permanent ethnic label for all inhabitants. This article has focused on material forms and their evidentiary limits, leaving broad religion to IV.6.7 and artisan production to IV.6.5. The concluding chapter turns to the historians and archaeologists who reconstruct Balhae, examining why political geography and identity continue to generate debate. Material objects illuminate contact and choice more reliably than exclusive ownership claims."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

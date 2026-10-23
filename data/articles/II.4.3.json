@@ -1,0 +1,161 @@
+{
+  "id": "II.4.3",
+  "title": "Buyeo Kingship, Aristocracy, and Government",
+  "kicker": "EARLY NORTHERN POLITIES · HISTORICAL EVIDENCE",
+  "description": "Source-critical history of buyeo kingship, aristocracy, and government, comparing third-century external accounts and the geographically uneven archaeological record.",
+  "release": "AE",
+  "sourceStatus": "Original historical synthesis with contextual institutional anchors; independent specialist review pending",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Revised Korean History: Buyeo formation and development",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0040",
+      "role": "Detailed scholarly survey of polity formation, political structure, textual chronology and archaeological uncertainty"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Historical Sources of Korea: Buyeo origins and establishment",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0100",
+      "role": "Primary source excerpts from Shiji, Hou Hanshu and later Korean founding traditions with critical annotations"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Dongye and Okjeo in Revised Korean History",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0050",
+      "role": "Historical geography and differences among eastern communities, sources and institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Primary sources for early states and peoples",
+      "url": "https://contents.history.go.kr/front/hm/list.do?periodCode=hm_age_10",
+      "role": "Annotated textual dossiers including Sanguozhi Wei shu Dongyi zhuan; reports must be read as a later outsider account"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.4.3:b01",
+      "title": "A king among powerful houses",
+      "paragraphs": [
+        "Descriptions of Buyeo present a ruler recognized within a political system involving leading aristocratic groups rather than a solitary monarch commanding identical districts. The Sanguozhi account names high-ranking figures associated with titles such as maga, uga, jeoga and guga, traditionally explained through animals. Their precise responsibilities and the duration of these institutions remain debated. It is tempting to draw an organizational chart with a king at the top and offices below, but the text gives no modern bureaucratic records. A more cautious reconstruction asks how leaders assembled military support, maintained alliances and gained access to agricultural resources in a polity whose territorial reach could vary over time."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH Buyeo institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "II.4.3:b02",
+      "title": "The four directions and sadao",
+      "paragraphs": [
+        "Accounts connect leading Buyeo aristocrats with regions often described as four 'outlying roads' or divisions, sadao. This spatial language suggests distributed authority, but it should not be translated directly into four equal administrative provinces mapped with precision. Directional organization could reflect the geography of powerful families and the routes through which people reached the royal center. The political status of local communities within each sphere is uncertain. Kings may have negotiated resources or military help with aristocrats rather than collecting every obligation through appointed clerks. The difference matters because the state's capacities were mediated through other leaders, and those intermediaries could support or constrain royal initiatives."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.4.3:b03",
+      "title": "Ritual and the authority to rule",
+      "paragraphs": [
+        "The December gathering called Yeonggo appears in outsider descriptions of Buyeo, with collective rites, celebration and a relation to political decision making. Ritual could provide an occasion for leaders and communities to reaffirm alliances and recognize royal prestige. Its precise performance cannot be reconstructed as though a liturgical manual survived. One account's reference to celebration should not be used to invent the words of songs or the composition of every participant group. The king's religious authority may have intersected with aristocratic bargaining: visible unity at a festival does not prove political agreement on taxation or succession. Ceremony was part of governing without being equivalent to an impersonal institution."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH eastern polities and contested place names"
+        }
+      ]
+    },
+    {
+      "id": "II.4.3:b04",
+      "title": "Harvests and the foundation of elite power",
+      "paragraphs": [
+        "Buyeo's productive plains offered resources potentially capable of supporting aristocratic retainers and large gatherings. Yet the relationship between rulers and cultivators is mostly known through external comments rather than fiscal registers. The political capacity to demand grain or service should not be confused with ownership of all farmland. Families likely depended on local leaders to mediate obligations, while weather and transport affected what could actually be delivered. A mounted follower also needed fodder and equipment. These material demands explain why durable authority depended on provisioning networks. They do not prove that each Buyeo district used the same rules of assessment or that farmers accepted every elite demand."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.4.3:b05",
+      "title": "The king and a failure of harvest",
+      "paragraphs": [
+        "A striking tradition in the Sanguozhi describes collective judgment of a king when agricultural results or calamities were attributed to failed leadership. This cannot be read as evidence of regular popular elections or a modern right to remove rulers. The account may represent a normative ideology that linked kingship to communal prosperity, or a remembered practice in exceptional circumstances. Its very inclusion indicates that authority was not imagined as wholly detached from performance. But the text does not preserve named proceedings or tell us how much influence ordinary villagers possessed. The historian should distinguish ritual responsibility from the mechanics of elite decisions."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH Buyeo institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "II.4.3:b06",
+      "title": "Law and the outsider's categories",
+      "paragraphs": [
+        "Chinese accounts attribute severe punishments and distinctive legal customs to Buyeo, including rules concerning theft or adultery. Such passages often reflect an external writer's interest in the moral order of neighboring peoples. They give clues about sanction and status but not a complete codified law book or the experience of accused persons. A stated penalty may be an ideal or a conventional formula rather than a statistic describing typical judgments. Elites could enforce norms differently from common households. Comparison with archaeological evidence for violence or status is possible but cannot identify every offense. Law was embedded in authority, kinship and the uneven visibility of historical testimony."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.4.3:b07",
+      "title": "Military followers and political competition",
+      "paragraphs": [
+        "Buyeo appears in sources as a polity of military significance, situated among neighboring states and groups capable of pressuring its rulers. Authority depended on the ability to assemble armed people and maintain alliances, not merely on possession of a royal title. Horse equipment and weapons in northeastern archaeological settings offer contextual evidence but do not label an excavated warrior with a named aristocratic office. Losses to Xianbei or other neighbors could undermine leaders without destroying every settlement. Military obligations may have been distributed through regional aristocrats. Understanding this chain of command is essential because elite cooperation could determine whether a royal response to a crisis was feasible."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH eastern polities and contested place names"
+        }
+      ]
+    },
+    {
+      "id": "II.4.3:b08",
+      "title": "Diplomacy through frontier intermediaries",
+      "paragraphs": [
+        "Relations with Han, Wei and other continental regimes placed Buyeo rulers in a world of titles, envoys and valuable objects. A recorded mission may reveal diplomatic recognition or an attempt to manage frontier competition, but it does not define a permanent relationship of subordination. Both participants could assign different meanings to an exchange. Chinese court records emphasize the perspective of officials who received representatives and classified peoples. They seldom describe negotiations in the local languages of Buyeo leaders. External diplomacy strengthened some claimants by offering prestige and security, yet reliance on those relationships also exposed internal politics to wider regional conflict."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.4.3:b09",
+      "title": "Households beyond aristocratic names",
+      "paragraphs": [
+        "Most people living within Buyeo's political sphere are absent from the named narratives of kings and great lords. Agricultural labor, care of animals, construction and household production sustained the institutions visible in written sources. Status distinctions mentioned by outsiders imply inequality without permitting precise estimates of wealth or numbers of dependent laborers. Burial differences might illuminate hierarchy where sites can be securely dated and associated, but grave furnishings are not an exhaustive social survey. A king's agreement with a leading house could impose costs on families distant from court. Restoring the material foundation of political authority helps avoid reducing the population to subjects in a dynastic genealogy."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institute material supports source setting but not every social or chronological inference.",
+          "locator": "NIKH Buyeo institutions and economy"
+        }
+      ]
+    },
+    {
+      "id": "II.4.3:b10",
+      "title": "A durable but not immutable arrangement",
+      "paragraphs": [
+        "Buyeo political institutions changed as neighbors expanded, diplomatic alignments shifted and military pressure intensified. A third-century description should not be projected without qualification over the entire period from early origins to the fifth century. Nor should later Goguryeo claims of descent make the earlier state an administrative precursor with the same institutions. This article has examined the relationship between royal authority, aristocratic families, ritual obligation and regionally mediated power. The next addresses society and economic practices that made such politics sustainable. The best reconstruction recognizes a monarchy with meaningful institutions and real constraints, rather than either an imagined absolute state or a loose collection without governance."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

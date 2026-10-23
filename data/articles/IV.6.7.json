@@ -1,0 +1,161 @@
+{
+  "id": "IV.6.7",
+  "title": "Buddhism, Ritual, and the Religious World",
+  "kicker": "BALHAE · MATERIAL CULTURE, EXCHANGE AND RELIGION",
+  "description": "Original source-critical account of buddhism, ritual, and the religious world, grounded in archaeological objects, capital sites and limited royal or diplomatic testimony.",
+  "release": "AE",
+  "sourceStatus": "Source-specific contextual references, no independent scholarly review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae capital archaeology, arts and economic connections",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_039_0070_0020_0020_0020",
+      "role": "Site contexts, court geography and archaeological survivals of crafts and roads"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae development, diplomacy and culture",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "role": "Survey of Tang contact, capital investment and religious-cultural work; dated curricular synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghye tomb at Dunhua",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051146",
+      "role": "Dated royal burial, sculpture, inscription and the visibility of artisan skill"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghyo tomb in Longtou Mountain",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051192",
+      "role": "Architectural materials and elite memorial practice; not a census of everyday craft or devotion"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.6.7:b01",
+      "title": "Temples as historical evidence",
+      "paragraphs": [
+        "Balhae's Buddhist world is visible through temple foundations, sculptures, decorated roof tiles and the religious roles implied by its contacts with neighboring courts. These objects and sites establish substantial institutional investment without revealing the beliefs of every inhabitant. A temple complex required artisans, workers, supplies and patrons, connecting religious life to political and economic relationships. Archaeological identification depends on layout, associated artifacts and dating, not merely on the presence of a lotus motif. Some buildings were repaired or repurposed across generations. The history of religion must therefore begin with what survives physically while resisting the temptation to reconstruct a complete Buddhist community from a fragmentary monument."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "NIKH capital settlements, production and trade archaeology"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.7:b02",
+      "title": "The royal court and Buddhist patronage",
+      "paragraphs": [
+        "Balhae rulers could support Buddhist institutions as expressions of prestige, merit and ties to wider East Asian religious culture. Royal patronage should not be reduced to cynical propaganda, but it did have public and political consequences. Establishing a religious site within an important city could help communicate authority and attract specialist labor. Tang connections offered access to texts, practices and material forms, though imported influence was subject to local adaptation. We seldom possess contracts explaining individual Balhae temple foundations. The motives of particular patrons must therefore be separated from broad evidence of state-supported Buddhism. Court policy and personal devotion could coexist without being identical."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.7:b03",
+      "title": "Monks and movement across frontiers",
+      "paragraphs": [
+        "Religious specialists could travel between Balhae and Tang networks, carrying learning and participating in a wider world of Buddhist institutions. The presence of a monk in an embassy or later account is evidence for a particular encounter, not a complete picture of pilgrimage routes. Training depended on literacy, patrons and access to monasteries. Different communities may have adopted religious practices selectively, while temples maintained ties beyond political frontiers. We should not assume uniform doctrines or ceremonies throughout Balhae simply because several sites share Buddhist material features. Religious travel was a pathway for knowledge, but the surviving sources describe it unevenly and often from a court perspective."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "AKS Jeonghye stone burial, dated inscription and sculpture"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.7:b04",
+      "title": "The iconography of surviving objects",
+      "paragraphs": [
+        "Images of the Buddha, lotus decoration and other motifs can reveal participation in a recognizable visual tradition. Yet iconographic identification is not always straightforward: objects may be damaged, reused or separated from their original architectural settings. Stylistic comparison with Tang, Silla or earlier Goguryeo materials can suggest routes of influence without proving that a particular artisan migrated. Balhae craftspeople could combine inherited techniques with newly encountered forms. A sculpture may embody theological meaning and also reveal a workshop's material choices. Understanding its history requires attention to production and site context as well as to the motifs visible in a museum photograph."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.7:b05",
+      "title": "Religious diversity beyond the metropolis",
+      "paragraphs": [
+        "The kingdom encompassed communities of different backgrounds across forested, agricultural and coastal environments. Buddhist institutions were prominent in some centers, but evidence does not establish that local rites disappeared or that all subjects participated in one standardized religious practice. Some communities may have combined ceremonies or maintained local sacred places, although detailed reconstruction requires caution. The absence of an excavated temple in a rural district cannot prove a lack of Buddhism, just as one large monastery cannot demonstrate universal adherence. Religious life should be examined at several scales: court sponsorship, urban institutions, small settlements and households whose convictions rarely appear in texts."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "NIKH capital settlements, production and trade archaeology"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.7:b06",
+      "title": "Funerals, inscriptions and spiritual language",
+      "paragraphs": [
+        "The royal tombs of Jeonghye and Jeonghyo preserve evidence of commemorative language and burial choices within Balhae's elite world. Their inscriptions participate in literary and moral conventions that were not exclusively Buddhist, so a reference to virtue does not identify the deceased person's entire theology. Burial architecture also reflects status and social tradition as well as religious belief. A historian should distinguish a funerary text's words from the meaning assigned to a grave by later scholarship. These monuments can illuminate a shared symbolic environment without revealing a national funeral liturgy or the private experience of every mourner."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.7:b07",
+      "title": "Temple labor and economic dependence",
+      "paragraphs": [
+        "Sustaining a monastery required food, building repair, cloth, fuel and the time of religious and lay workers. Those needs linked institutions to productive households and regional exchange. The available records do not offer a comprehensive list of Balhae temple estates or rules of labor service, and later Goryeo arrangements cannot simply fill the gap. Excavated compounds show investments in buildings but cannot identify the legal status of everyone who worked there. Religious importance was therefore also material. Recognizing this does not diminish devotion; it asks who made religious life possible and what obligations or benefits accompanied it across different communities."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "AKS Jeonghye stone burial, dated inscription and sculpture"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.7:b08",
+      "title": "Buddhist texts and the limits of literacy evidence",
+      "paragraphs": [
+        "The circulation of scriptures and religious ideas required trained readers, scribes and teachers. Tang educational and diplomatic connections make intellectual exchange plausible, but surviving Balhae manuscripts are too limited to reconstruct one comprehensive curriculum. A temple's existence alone cannot establish the number of literate monks or the language used in every ritual setting. Inscriptions are especially valuable when securely dated because they demonstrate particular forms of writing and commemoration. Their presence at elite sites need not mirror the skills of rural households. The history of Buddhist learning should therefore be connected to, but not substituted for, IV.6.8's wider discussion of written culture."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.7:b09",
+      "title": "Religious practice as lived experience",
+      "paragraphs": [
+        "A worshipper might encounter religion through offerings, visits, funerals, seasonal rites or the work of a monastery. Archaeology sometimes preserves objects connected to these encounters but rarely records individual thoughts. Reconstructing plausible social settings is useful if hypotheses remain marked as such. Inventing a named monk's conversation or a family's prayer would create fictional testimony. The variety of Balhae's population also cautions against treating religious difference as a simple division between official Buddhism and unchanging popular tradition. Practices could be combined, adapted or contested over time. Religious life was plural and historical, shaped by political authority and ordinary human needs alike."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "NIKH capital settlements, production and trade archaeology"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.7:b10",
+      "title": "A connected but not uniform religious world",
+      "paragraphs": [
+        "Balhae Buddhism belonged to wider northeast Asian networks while developing through local patronage, artisanship and community practice. Its monuments express significant resources and shared visual conventions, but they do not support a complete account of household belief or uniform ritual across all provinces. This article has focused on institutions, objects and lived uncertainty rather than making every artistic motif an ethnic marker. The next turns to writing and diplomatic literacy, through which texts and religious ideas circulated. The key distinction is between demonstrable material patronage and inferred devotional experience. Preserving that boundary produces a history richer and more reliable than a claim that one royal religion defines an entire civilization."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

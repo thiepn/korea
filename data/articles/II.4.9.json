@@ -1,0 +1,161 @@
+{
+  "id": "II.4.9",
+  "title": "Goguryeo's Early Expansion and the Reorganization of the Northern Polity System",
+  "kicker": "NORTHERN POLITIES · FRONTIER AND HISTORICAL MEMORY",
+  "description": "Original historical examination of goguryeo's early expansion and the reorganization of the northern polity system, separating ancient reports, changing administrative claims and modern retrospective interpretation.",
+  "release": "AE",
+  "sourceStatus": "Contextual institutional evidence and explicit uncertainty; independent scholarly review outstanding",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Korean political formations: Buyeo and Han frontier",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0040",
+      "role": "Political chronology, uneven territorial claims and Buyeo external relations"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Okjeo position, Han commanderies and Goguryeo incorporation",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0040",
+      "role": "Annotated primary Sanguozhi and detailed disputes over local autonomy and dependency"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "The Dongye and Okjeo historical account",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_004_0050",
+      "role": "Textual critique of northeastern frontier geography and names"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Buyeo origins: Shiji, Hou Hanshu and later traditions",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_003_0100",
+      "role": "Contrasts transmitted later origin memory with textual chronology and source claims"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "II.4.9:b01",
+      "title": "Expansion altered an existing mosaic",
+      "paragraphs": [
+        "Goguryeo's rise took place among Buyeo, Okjeo, Dongye, frontier commanderies and other northeastern communities whose political organization differed. A later royal account may present the process as the accumulation of conquered lands around one court. That perspective records only part of the social change. Some local groups entered new relationships through pressure, alliance or the mediation of their own leaders; others resisted or changed affiliations. The dating of particular episodes in transmitted chronicles should be checked against earlier continental accounts. Expansion is better understood as the reorganization of relationships across existing networks than as the instantaneous substitution of one homogeneous nation for several."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH Buyeo political chronology and frontier context"
+        }
+      ]
+    },
+    {
+      "id": "II.4.9:b02",
+      "title": "The value of eastern coastal products",
+      "paragraphs": [
+        "Okjeo's agricultural ground and marine products made its coast attractive to inland political powers. The Sanguozhi describes Goguryeo demands for grain, salt and seafood from dependent communities, but it does not supply a complete royal tax schedule. Extraction required local leaders, carriers and routes that could survive seasonal conditions. A northern polity able to claim those supplies could support political and military activity elsewhere. Yet intensified demands might undermine household security or encourage bargaining. The economic meaning of incorporation is therefore more complicated than the appearance of a place name on a royal map. Control was enacted through labor and provision, not merely declared in chronicles."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "II.4.9:b03",
+      "title": "Early dating and divergent records",
+      "paragraphs": [
+        "Different accounts place the incorporation of coastal districts at different points or present the relationship through the deeds of individual rulers. Modern scholarship emphasizes the uncertainty of some early royal chronologies and the possibility of gradual dependence. A later statement that a king subdued Okjeo does not prove that the entire coast was conquered on one day. Nor does a third-century account allow every previous generation to be reconstructed in detail. We should distinguish a secure terminus for political influence from the beginnings of contact and from later administrative integration. Historical precision consists in describing these different levels of certainty rather than forcing a single date."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH names and location of eastern communities"
+        }
+      ]
+    },
+    {
+      "id": "II.4.9:b04",
+      "title": "Military routes through difficult terrain",
+      "paragraphs": [
+        "An inland army moving toward the coast had to negotiate mountain passes, river crossings and local supply. Fortifications and control of travel corridors could matter as much as victory in a single battle. But archaeological walls must be dated before being identified as Goguryeo constructions, and a military passage does not prove continuous peacetime administration. Regional leaders who knew terrain might become essential allies or intermediaries. An expansion narrative centered only on royal cavalry leaves out the farmers, porters and guides who made movement possible. Geography shaped the opportunities and limits of territorial ambition."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "II.4.9:b05",
+      "title": "The fate of Buyeo as a separate polity",
+      "paragraphs": [
+        "Buyeo remained important for centuries after Goguryeo's emergence, with diplomatic relations and political crises of its own. Later foundation traditions claim connections between Goguryeo royalty and Buyeo, but genealogical legitimacy is not the same as early political unity. Rival leaders could draw on overlapping cultural memories while pursuing distinct strategies. External pressure, including attacks by Xianbei groups and changing continental conditions, weakened Buyeo's security at various times. The eventual disappearance of Buyeo as a separate polity cannot be explained solely by one Goguryeo conquest. Population movement, alliance and settlement continuity require attention alongside changes in dynastic titles."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH Buyeo political chronology and frontier context"
+        }
+      ]
+    },
+    {
+      "id": "II.4.9:b06",
+      "title": "Northern refugees and the meaning of migration",
+      "paragraphs": [
+        "Periods of conflict could send households and armed followers toward safer regions or new patrons. Sources sometimes describe large numbers of captives or displaced people, but such figures can reflect political rhetoric and should not be repeated as precise demographic totals without scrutiny. Migrants carried skills and kin relationships into receiving communities, potentially changing local politics. Their identities did not necessarily remain fixed for generations. Archaeological evidence of new material practices may be consistent with movement but does not prove the ancestry of every inhabitant. A history of reorganization needs to distinguish the transfer of people from the reassignment of political labels to communities that remained in place."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "II.4.9:b07",
+      "title": "Indirect rule and the endurance of local leaders",
+      "paragraphs": [
+        "Goguryeo could benefit from preserving existing village elites who knew productive resources and customary authority. Such relationships might reduce the costs of governing difficult terrain, although historians disagree about where direct officials were also present. The Sanguozhi's picture is neither a modern provincial administration map nor evidence of wholly autonomous coastal settlements. Local notables may have bargained for recognition while carrying demands from powerful neighbors. This arrangement could be unstable when military or fiscal expectations changed. Political incorporation therefore meant renegotiated obligations at several levels, not an automatic replacement of the entire local social structure."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH names and location of eastern communities"
+        }
+      ]
+    },
+    {
+      "id": "II.4.9:b08",
+      "title": "Neighbors beyond Goguryeo",
+      "paragraphs": [
+        "The northern world also involved continental regimes and groups beyond the named Korean polities. Xianbei pressure, commandery diplomacy and other frontier relationships affected the choices available to Buyeo and Goguryeo leaders. One state's military success could redirect trade or create new refugee movements. Accounts written in imperial centers often place their own interventions at the center of the story; later Korean histories place dynastic founders there instead. Comparing the two exposes their differing political priorities. Neither perspective alone captures the decisions of small communities caught between rivals. Expansion was a regional process shaped by several overlapping centers of power."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "II.4.9:b09",
+      "title": "From reported names to later regions",
+      "paragraphs": [
+        "As Goguryeo's influence increased, earlier terms such as Okjeo could remain in texts even where political structures were changing. Continuity of a name does not guarantee unchanged identity, and disappearance of a name does not demonstrate complete population replacement. Court writers might prefer older familiar labels long after local people described themselves differently. Material traditions could persist within a newly dominant state while new burial or administrative customs spread. A responsible chronology follows evidence for each kind of change separately. It should not treat later territorial maps as exhaustive representations of the first and second centuries."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional account provides chronology or source comparison, while political reach and identity require cautious inference.",
+          "locator": "NIKH Buyeo political chronology and frontier context"
+        }
+      ]
+    },
+    {
+      "id": "II.4.9:b10",
+      "title": "Reorganization without erasure",
+      "paragraphs": [
+        "The expansion of Goguryeo reshaped the balance among northern communities and eventually contributed to the decline of independent political formations such as Buyeo. The process unfolded through military pressure, extraction, intermediary authority, migration and selective incorporation. This article owns the effect of expansion on the northern polity system, not the detailed sequence of Goguryeo reigns and campaigns treated in Part III. The next considers how later historians remembered these earlier peoples. Their place in origin stories often exceeds what contemporary evidence can establish. Historical synthesis must preserve the distinction between political reorganization and the survival of people, practices and memories."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
