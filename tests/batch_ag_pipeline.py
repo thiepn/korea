@@ -29,6 +29,7 @@ titles = canonical()
 baseline = fixture["article_blobs"]
 assert len(baseline) == fixture["prior_article_count"] == 477
 assert len(fixture["canonical_blobs"]) == 15
+assert len(baseline) == 477
 for path, expected in fixture["canonical_blobs"].items():
     assert git_blob(ROOT / path) == expected, ("changed canonical master source", path)
 
@@ -131,7 +132,7 @@ for slug,ch in [
     assert len(routes) == 1 and routes[0]["ids"] == [f"{ch}.{n}" for n in range(1,11)], slug
 
 manifest = json.loads((ROOT/"data/content-manifest.json").read_text(encoding="utf-8"))
-assert manifest["count"] == 477
+assert manifest["count"] == 497
 assert manifest["sampleWordCount"] == fixture["prior_word_count"] + words
 assert sum(a["blocks"] for a in manifest["articles"]) == fixture["prior_passages"] + passages
 first = compile_corpus()
