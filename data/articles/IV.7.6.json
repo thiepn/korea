@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.6",
+  "title": "Monks, Envoys, Pilgrims, and the Circulation of Knowledge",
+  "kicker": "MARITIME KOREA · EXCHANGE AND LEARNING",
+  "description": "Source-critical historical synthesis of monks, envoys, pilgrims, and the circulation of knowledge with differentiated merchant, diplomatic and monastic evidence.",
+  "release": "AG",
+  "sourceStatus": "Institutional contextual anchors; independent historical peer review absent",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla trade networks and Japanese commercial reception",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Analyzes 840 Hoeyeoksa negotiation and difference between court embassy and permitted merchant activity"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Hoeyeoksa: merchants sent from Jang Bogo to Japan",
+      "url": "https://encykorea.aks.ac.kr/Article/E0065541",
+      "role": "Institutional account of Jang Bogo's 840 merchant representation, Japan's reception and trading privileges"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae international interactions",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Diplomatic and commercial dimensions of Balhae journeys to Japan, listed products, ports and policy restrictions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Shilla temples and community support abroad",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032849",
+      "role": "Resident temples and Ennin's observations on Chishan religious institutions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Chishan Buddhist rituals recorded by Ennin",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032827",
+      "role": "Detailed 839 travel account for ritual and learning in a Silla-speaking Buddhist center in Tang territory"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.6:b01",
+      "title": "Learning traveled with people",
+      "paragraphs": [
+        "Buddhist monks, students and envoys circulated among Korea, Tang China and Japan, carrying texts, ritual knowledge and relationships that might be sustained over repeated voyages. Such journeys were not simply commerce disguised as religion. Monastic goals included study, pilgrimage and participation in communities of practice, while travel required the same ships and provisioning as merchant activities. A manuscript reaching a new temple shows transmission but does not automatically identify its carrier or date of first arrival. Intellectual exchange depended on safe lodging, interpretation and official permission. Maritime learning is best explained as a social infrastructure linking religious institutions with the practical world of transport."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "NIKH Japan–Silla merchant reception and 840 Hoeyeoksa evidence"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.6:b02",
+      "title": "Ennin's diary as situated testimony",
+      "paragraphs": [
+        "The Japanese monk Ennin's record of travel in Tang China offers unusually detailed observations of Silla-associated residents and religious establishments during the ninth century. His writing is direct testimony to encounters he selected and described, not a comprehensive ethnography of all monks and merchants in China. He depended on helpers whose names and actions sometimes survive precisely because they mattered to his journey. His concerns were religious and administrative as well as personal. Translators must preserve the distinction between what he actually reports and what later historians infer about Silla networks. That caution strengthens rather than diminishes his value as an exceptional witness."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.6:b03",
+      "title": "Chishan Beophwawon in the travel record",
+      "paragraphs": [
+        "At the Chishan Buddhist institution supported by Jang Bogo, Ennin witnessed religious life within a community connected to Silla residents. The Academy of Korean Studies describes the site's roles in providing assistance and sustaining Buddhist recitation and preaching. Such functions cannot be reduced to commercial marketing even though its patron's maritime wealth was consequential. The testimony concerns ceremonies at a Tang coastal monastery, not an eyewitness account of every temple in Silla. A ritual observed abroad may suggest related practices in the homeland while leaving the extent and exact chronology of local adoption uncertain. Institutions were connected but not identical."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS Balhae embassies, imported goods and Japanese restrictions"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.6:b04",
+      "title": "The recorded Silla Buddhist ceremony of 839",
+      "paragraphs": [
+        "A text associated with Ennin's 839 observations preserves information about chants, readings, participants and the organization of religious instruction at Beophwawon. The Academy of Korean Studies' specialist discussion treats it as important direct evidence for Silla-speaking ritual beyond the peninsula. The record should be approached as a description of a particular event rather than an exhaustive national liturgy. It is unusually detailed precisely because few comparable accounts survive. Historians can analyze the relation of lecturers and participants without inventing speech or emotional responses. Ritual depended on textual training, music and coordination as well as on a space for gathering."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.6:b05",
+      "title": "Monks required maritime intermediaries",
+      "paragraphs": [
+        "Crossing borders could require letters, guides, interpreters and local patrons. A monk's scholarly goals did not eliminate these practical difficulties, and a ship master might be as essential to his success as a senior teacher. Silla residents in Tang sometimes helped travelers navigate local administration. The network was not guaranteed to work everywhere, and individual journeys could be interrupted by storms or policies of suspicion. Evidence from Ennin illustrates one set of relationships while leaving many others undocumented. A historian should distinguish the named helpers in his account from a hypothesized comprehensive religious travel service. Assistance was achieved through human connections under particular conditions."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS 839 Ennin account of Chishan Silla Buddhist ritual"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.6:b06",
+      "title": "Books and the fragility of transmission",
+      "paragraphs": [
+        "The movement of Buddhist manuscripts depended on copying, exchange and preservation in communities able to maintain texts. A later copy may reflect an older work while introducing revisions, and the presence of a title in a library does not necessarily establish when it first crossed the sea. Manuscripts could be lost to fire, decay and political upheaval. Intellectual history must therefore use surviving colophons, dated notices and textual comparison where available. It would be misleading to invent a cargo manifest of sacred books for each embassy. The transmission of knowledge was extensive but unevenly documented, with the archive shaped by accidents of survival."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.6:b07",
+      "title": "Envoys as carriers of learned forms",
+      "paragraphs": [
+        "Diplomatic visitors moved through formal environments where composition, translation and ceremonial knowledge mattered. Exchanges of poems or official documents demonstrate elite educational skills without representing entire populations. Balhae's envoys to Japan and Silla travelers in Tang followed different institutional paths, yet both relied on written conventions intelligible across courts. The use of literary Chinese did not mean everyone spoke the same vernacular language. Interpreters and bilingual residents could be important intermediaries, though their contributions are often hidden behind documents attributed to rulers. The historian should avoid equating diplomatic writing with a fully shared and uniform cultural identity."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS Jang Bogo Hoeyeoksa agent and Japanese administrative record"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.6:b08",
+      "title": "Transmission without one-way influence",
+      "paragraphs": [
+        "Ideas and rituals could be transformed as they moved, rather than simply exported intact from a prestigious center to passive recipients. Japanese monastic travelers participated in Tang religious institutions alongside Silla residents; what each learned depended on teachers, texts and local debates. The same ritual performance might acquire different meanings in distinct settings. National narratives emphasizing one country teaching another can obscure such reciprocal participation. The evidence more often supports overlapping communities of practice under varying political conditions. Comparative history should trace a particular text or documented encounter rather than assume every similarity proves one direction of direct influence."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.6:b09",
+      "title": "Monasteries as places of hospitality and power",
+      "paragraphs": [
+        "A wealthy patron's support for a temple could produce spiritual prestige, social obligation and a reliable place for travelers to obtain assistance. This might support maritime networks without giving the patron complete control of every resident or transaction. The same community could include people with different motives and loyalties. Ennin's observations illuminate the practical benefits of patronage, while historical accounts of Jang Bogo show its entanglement with armed power and court politics. Religious organization must therefore be interpreted on its own terms and within wider social structures. The evidence does not justify declaring the monks mere agents of a merchant commander."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The named scholarly reference contextualizes diplomacy, commerce or ritual; individual lived experience is inferred only within documented limits.",
+          "locator": "AKS Silla religious lodging abroad and Beophwawon history"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.6:b10",
+      "title": "The intellectual geography of maritime Korea",
+      "paragraphs": [
+        "Monks, envoys and students helped make the sea a corridor of learning as well as material exchange. Their journeys depended on ships, resident communities, religious patrons and official permissions. This article owns the transmission of knowledge through travel, while IV.7.3 analyzes overseas Silla households and IV.7.7 the circulation of goods. It avoids claiming that every surviving Buddhist text was transported by a named trader or that an observed Tang ceremony proves a uniform Silla practice. Source-critical comparison of travel diaries, local religious records and diplomatic materials reveals the importance of human intermediaries without erasing the uncertainties of transmission."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
