@@ -489,8 +489,8 @@
     "III.5.5": 3,
     "VI.6.3": 3
   },
-  "authored_snapshot": null,
-  "expected_new_words": null,
+  "authored_snapshot": "303f22ea5dce80470681c2743a1d0726ff68f88a",
+  "expected_new_words": 20578,
   "expected_new_passages": 196,
   "expected_source_anchors": 90
 }
