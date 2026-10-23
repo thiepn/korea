@@ -66,6 +66,8 @@ collections=[
  ('early-joseon-land-economy-complete','Early Joseon economy: land, labor and exchange','Ten connected readings of Gwajeonbeop, landholding, Nongsa jikseol, irrigation, Gongbeop, tribute, relief, markets, craft production, shipping and currency.','Ten connected readings',[f'VI.6.{i}' for i in range(1,11)]),
  ('mahan-baekje-emergence-complete','Mahan and the rise of Baekje: complete Chapter','Ten source-critical histories of Mahan documents, geography, polities, everyday life, ritual, Onjo traditions, Han River archaeology, Baekje consolidation, commandery contact and transition.','Ten connected readings',[f'II.6.{i}' for i in range(1,11)]),
  ('maritime-korea-commercial-world-complete','Maritime Korea: eighth- and ninth-century exchange','Ten evidence-conscious readings on sea trade, ports, Silla communities in Tang, Japanese commerce, Balhae shipping, monks, commodities, security, Jang Bogo and Cheonghaejin.','Ten connected readings',[f'IV.7.{i}' for i in range(1,11)]),
+ ('jinhan-saro-silla-formation-complete','Jinhan and the rise of Silla: complete Chapter','Ten canonical readings on Jinhan records, Gyeongju landscapes, regional polities, Saro consolidation, sacred foundation memories, ruling lineages, farming, iron, ritual and the transition to Silla.','Ten connected readings',[f'II.7.{i}' for i in range(1,11)]),
+ ('goryeo-pre-mongol-foreign-world-complete','Goryeo and its pre-Mongol foreign world','Ten canonical readings on Liao and Song, Seo Hui, Gang Gam-chan, frontier defenses, Yun Gwan, Jurchen Jin, Japan, Byeongnando merchants and East Asian diplomacy.','Ten connected readings',[f'V.7.{i}' for i in range(1,11)]),
 ]
 trails=[]
 for slug,title,description,kicker,ids in collections:
