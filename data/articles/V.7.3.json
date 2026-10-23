@@ -1,0 +1,167 @@
+{
+  "id": "V.7.3",
+  "title": "The Second and Third Khitan Wars and Gang Gam-chan",
+  "kicker": "GORYEO · KHITAN WAR AND FRONTIER",
+  "description": "Original source-critical study of the second and third khitan wars and gang gam-chan, emphasizing campaign sources, frontier settlements and diplomacy after war.",
+  "release": "AH",
+  "sourceStatus": "NIKH source contextual anchors; no independent historical review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Khitan diplomatic relations and 1010/1018 campaigns",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0090",
+      "role": "Distinguishes wars in 993, 1010, 1018–19 and century-long diplomatic relations after 1019"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Battle of Gwiju, 1019",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_i200400",
+      "role": "Specialist narrative of retreat, command, campaign and numerical source criticism"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Seo Hui and first Liao confrontation",
+      "url": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_048_0020",
+      "role": "Primary-source context for eastern Yalu settlements and frontier contacts"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jurchen and eastern northern fortress construction",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0060",
+      "role": "Contrasts later eastern frontier fortification and local frontier communities"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Song relations and 1071 restoration",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0080",
+      "role": "Trade and diplomacy continued or resumed after shifting Goryeo–Liao obligations"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.7.3:b01",
+      "title": "The breakdown after an earlier agreement",
+      "paragraphs": [
+        "The first Khitan conflict ended in negotiation, but the political relationship remained sensitive to changes at court and concerns about external recognition. Goryeo's connections with Song and its northern frontier arrangements continued to matter to Liao. The upheaval surrounding Gang Jo's seizure of power in Goryeo contributed to the circumstances used to justify the invasion of 1010. A court's account of an enemy's declared reason does not capture every strategic interest. Liao's regional position and Goryeo's domestic instability intersected in a renewed crisis. Understanding this setting prevents the second war from being narrated as an unexplained repetition of the first."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH annotated Goryeo–Liao diplomatic relations and postwar recovery"
+        }
+      ]
+    },
+    {
+      "id": "V.7.3:b02",
+      "title": "The advance to Gaegyeong in 1010",
+      "paragraphs": [
+        "The Khitan campaign in 1010 placed extreme pressure on Goryeo's northern defenses. Goryeo forces suffered important defeats, and the invading army reached and occupied the capital Gaegyeong during the crisis. This was a real military and political disaster, not an effortless defensive success. Yet occupation of the capital did not automatically establish reliable Liao control over every province. The geography of retreat, resistance and supply made prolonged conquest difficult. Subsequent narratives emphasize different commanders and engagements, requiring care about numerical claims. The event exposed the fragility of political authority concentrated in one capital and the continuing importance of local resistance."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.7.3:b03",
+      "title": "Royal movement and interrupted administration",
+      "paragraphs": [
+        "A king's withdrawal from a threatened capital could preserve the dynastic institution but create heavy burdens for those remaining behind. Officials, guards, attendants and households had to respond amid disrupted roads and uncertainty over supplies. Chronicles tend to describe royal movement more thoroughly than the experiences of ordinary cultivators in affected districts. A source-critical history should not invent conversations among refugees or assume all settlements were devastated equally. Movement away from Gaegyeong altered where political decisions were made while commanders elsewhere continued resisting. The crisis demonstrates that royal legitimacy and day-to-day governing capacity could become separated during a major invasion."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH Seo Hui frontier agreement and six Ganggdong counties"
+        }
+      ]
+    },
+    {
+      "id": "V.7.3:b04",
+      "title": "Retreat, local defense and the limits of victory",
+      "paragraphs": [
+        "Liao's occupation of Gaegyeong was followed by a withdrawal under conditions of continued Goryeo resistance. Accounts highlighting particular military leaders illuminate the importance of fortified positions and contested roads, but may also reflect the literary conventions of praising exemplary service. One battle report should not be converted into a fully measured strategic map. The ability of local defenders to harass a retreat mattered even when their sovereign had abandoned the capital temporarily. Military outcomes cannot be explained solely by the commander's courage; supply, seasonality and geography shaped the possibilities. A campaign can be tactically destructive without producing durable political subjugation."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.7.3:b05",
+      "title": "The interval before the final large invasion",
+      "paragraphs": [
+        "After 1010, Goryeo and Liao remained in a state of difficult negotiation and military preparation. The relationship cannot be divided neatly into uninterrupted total war and unconditional peace, because envoys, border demands and local confrontations could coexist. The need to defend crossings and maintain garrisons imposed costs on nearby households. Goryeo's court had to consider how far to compromise over recognition and the safety of the ruling house. Later historians may organize events as a steady approach to the decisive campaign of 1018–19, but contemporary actors could not know that outcome. The interval was a period of uncertain political calculation."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH Song diplomacy and shifting formal recognition"
+        }
+      ]
+    },
+    {
+      "id": "V.7.3:b06",
+      "title": "The renewed campaign of 1018",
+      "paragraphs": [
+        "Liao sent an army under Xiao Paiya in 1018, seeking to pressure Goryeo after earlier conflict failed to establish desired relations. King Hyeonjong appointed Gang Gam-chan to senior command, with Gang Min-cheom and other officers involved in defense. NIKH's detailed account reconstructs movements and engagements from transmitted chronicles that contain specific figures for troop numbers. Those figures should be attributed to sources rather than treated as independently audited modern counts. The campaign involved river crossings, fortified locations and complex decisions about when to fight. The Goryeo commanders aimed to prevent the invaders from reaching and holding political centers while retaining the ability to strike a withdrawing army."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.7.3:b07",
+      "title": "Heunghwajin and the famous water tactic",
+      "paragraphs": [
+        "Accounts of the initial fighting near Heunghwajin describe preparations to exploit river conditions and ambush advancing forces, including the well-known story of a barrier and suddenly released water. The episode is prominent in NIKH's Gwiju narrative, but a historian should distinguish the transmitted tactical description from engineering details not independently recoverable. No surviving field plan specifies the construction workforce or exact volume released. It is sound to describe what the record says and the strategic importance of terrain without fabricating a modern hydraulic analysis. The story reveals that rivers were both obstacles and possible tools for an army possessing local knowledge."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH 1019 Gwiju campaign narrative and attribution of troop claims"
+        }
+      ]
+    },
+    {
+      "id": "V.7.3:b08",
+      "title": "The Battle of Gwiju in 1019",
+      "paragraphs": [
+        "The decisive battle at Gwiju occurred during the invaders' withdrawal in 1019 and is remembered as a major Goryeo victory under Gang Gam-chan. Its outcome limited Liao's ability to sustain another large invasion on similar terms. Accounts of heavy Khitan losses require critical handling because their numbers reflect transmitted estimates rather than excavated casualty registers. The victory mattered militarily and politically, restoring the confidence of the Goryeo court after the earlier occupation of Gaegyeong. Yet triumph was not followed by the permanent elimination of Liao as a neighboring power. Diplomatic arrangements, frontier vigilance and economic contact remained necessary for decades."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.7.3:b09",
+      "title": "War damage and ordinary lives",
+      "paragraphs": [
+        "Large campaigns demanded supplies and labor from productive communities and could bring destruction to fields, buildings or transport systems. The court record rarely provides enough evidence to compute total rural losses or distinguish every district's experience. Veterans, civilians and displaced households remain far less visible than monarchs and generals. It is nonetheless clear that sustaining fortified defense required food, roads and workers whose obligations continued outside the battlefield. A victory narrative should not imply that the population experienced war solely as collective celebration. The consequences included reconstruction and increased concern with military readiness, as well as political satisfaction in the survival of the kingdom."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The cited historian's reading of primary sources grounds dates and institutions, while numbers and reconstructed everyday impacts remain qualified.",
+          "locator": "NIKH Jurchen frontier geography and later fortress developments"
+        }
+      ]
+    },
+    {
+      "id": "V.7.3:b10",
+      "title": "Victory made negotiation possible",
+      "paragraphs": [
+        "The wars of 1010 and 1018–19 demonstrate Goryeo's resilience without making conflict the permanent state of its relations with Liao. After 1019, the courts resumed diplomacy and maintained a comparatively stable relationship until the Liao collapse in 1125. The postwar record is as important as the famous battle because it shows how armed resistance and ceremonial accommodation could coexist. This section owns the military crises and Gwiju victory, while V.7.4 studies the frontier institutions and sustained exchange after them. Historical interpretation should resist both the legend of effortless conquest averted and the opposite claim that Liao dictated Goryeo's domestic government in every detail."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
