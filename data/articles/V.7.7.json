@@ -1,0 +1,167 @@
+{
+  "id": "V.7.7",
+  "title": "Song China: Diplomacy, Scholarship, Books, and Cultural Exchange",
+  "kicker": "GORYEO · SONG AND JAPANESE CONTACTS",
+  "description": "Source-critical account of song china: diplomacy, scholarship, books, and cultural exchange, separating diplomatic records, merchant networks and intellectual journeys.",
+  "release": "AH",
+  "sourceStatus": "Documented NIKH and AKS context; no specialist manuscript review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Song official diplomacy, 962–1123",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0080",
+      "role": "Source-based treatment of official envoy chronology, 1071 restoration, merchants, books and 1123 Xu Jing account"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "King Seonjong's cultural exchanges, 1085–1091",
+      "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_n202400",
+      "role": "NIKH evidence of Uicheon travel and acquisition of East Asian Buddhist texts, rare book exchanges"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo–Khitan diplomatic relationship after 1019",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_048_0090",
+      "role": "Shows court contact with Liao continuing while Song literary and merchant contact remained valuable"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Byeongnando international port",
+      "url": "https://encykorea.aks.ac.kr/Article/E0022829",
+      "role": "Historic commercial-port entry for Yesong River and routes near Gaegyeong"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goryeo and Song in a changing maritime environment",
+      "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_030_0040_0020_0010&whereStr=",
+      "role": "Detailed Goryeo–Song relations across private trade, court reception and shifting Song political factions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "V.7.7:b01",
+      "title": "The Song relationship begins in a changing China",
+      "paragraphs": [
+        "Song's foundation in 960 created an increasingly powerful continental court that sought relationships with Goryeo. Goryeo sent an official embassy in 962 and subsequently received formal royal recognition. Such contacts occurred within a world of competing northern powers rather than a unified regional diplomatic order. Goryeo's interest in Song institutions, books and religious learning was substantial, but diplomatic recognition did not make its monarchy a branch of Song administration. NIKH's annotated sources trace interruptions and recoveries, cautioning against portraying relations as uninterrupted friendship from the dynasty's foundation. Court ceremony, geopolitical strategy and scholarly exchange must be analyzed as related but distinct activities."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "NIKH Goryeo–Song embassies 962, 1071, 1078 and 1123"
+        }
+      ]
+    },
+    {
+      "id": "V.7.7:b02",
+      "title": "The consequences of Khitan pressure",
+      "paragraphs": [
+        "The Liao–Goryeo agreement after the 993 invasion changed Goryeo's official relationship with Song. Formal embassies became more difficult or were interrupted, but merchants and other travelers continued to create channels for contact. A decline in official diplomatic traffic is not an exact measurement of cultural or commercial isolation. Northern threats shaped what messages a king could send openly while preserving an interest in books, medicines and craft goods. Later Chinese and Korean accounts may organize events according to court factions and rulers' decisions, leaving private activity less visible. Historical analysis needs separate chronologies for official investiture, merchant exchange and the circulation of knowledge."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "V.7.7:b03",
+      "title": "The formal reopening in 1071",
+      "paragraphs": [
+        "Goryeo resumed official contact with Song in 1071 after an extended period of limited formal communication. NIKH places the development within changing Song political policy and the work of merchants who conveyed opportunities for renewed engagement. A date marking an embassy's return does not imply all earlier trade ceased or that Song's attitude remained uniform among its court factions. Both sides had incentives: Goryeo valued learned culture and access to goods, while Song could hope for advantages in its rivalry with northern powers. Restoration of an official relationship was a negotiated political decision built on continuing human contact."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "NIKH Goryeo–Liao relations affecting official Song contact"
+        }
+      ]
+    },
+    {
+      "id": "V.7.7:b04",
+      "title": "The 1078 embassy and gifts",
+      "paragraphs": [
+        "An official Song mission reached Goryeo in 1078 with substantial gifts and elaborate reception arrangements, recorded in annals later used by NIKH historians. The materials included textiles and precious objects that symbolized the prestige of the sending court. Such gifts had political meaning, but a ceremonial inventory should not be treated as an ordinary commercial price list. The reception of envoys involved interpreters, officials and facilities maintained by the Goryeo government. The texts offer unusually specific detail about events at court while leaving the experiences of port workers and ordinary residents largely unrecorded. Diplomatic display relied upon substantial logistical and social investment."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "V.7.7:b05",
+      "title": "Books as objects of diplomacy",
+      "paragraphs": [
+        "Song and Goryeo courts exchanged or requested books that could be difficult to obtain, turning scholarly works into diplomatic resources. A request for a rare title does not guarantee every volume was located or delivered, and the survival of later copies complicates textual provenance. NIKH documents an episode in 1091 when Song expressed interest in rare works held in Goryeo. This reverses the simple model of one-way transmission from a learned continental center to a passive peninsula. Goryeo scholars and monasteries preserved and interpreted texts that were valuable to their neighbors. Book exchange linked court prestige to the practical skills of copyists, collectors and travelers."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "NIKH Goryeo–Song commercial continuity and political reception"
+        }
+      ]
+    },
+    {
+      "id": "V.7.7:b06",
+      "title": "Uicheon and the Buddhist intellectual network",
+      "paragraphs": [
+        "The monk Uicheon traveled to Song in 1085, using connections that involved merchants and court patronage. His study and acquisition of Buddhist writings contributed to a major project of collecting commentaries from across East Asia. The religious aims of his journey should not be reduced to diplomacy, nor should the political importance of his royal status disappear. NIKH's account links his travel to heightened scholarly exchange under Seonjong. Monasteries and teachers across borders provided human infrastructure for textual circulation. The evidence records major exchanges without supplying a complete list of every book carried on each voyage or the experience of anonymous sailors."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "V.7.7:b07",
+      "title": "Xu Jing and the problem of a foreign eyewitness",
+      "paragraphs": [
+        "The Song envoy Xu Jing visited Goryeo in 1123 and composed the Xuanhe fengshi Gaoli tujing, a detailed account of travel, court life and selected material culture. Its observational character makes it valuable, but the author represented a particular diplomatic audience and visited for a limited period. His descriptions cannot stand for the experience of every region or every Goryeo inhabitant. The book's surviving transmission also differs from the illustrated original. Historians can study descriptions of ships, textiles and reception alongside Goryeo evidence while asking what he could actually observe. Foreign travel writing is a situated source, not a neutral national census."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "NIKH Uicheon 1085 Song travel and intellectual exchange"
+        }
+      ]
+    },
+    {
+      "id": "V.7.7:b08",
+      "title": "Ceremony and shared literary conventions",
+      "paragraphs": [
+        "Official correspondence, investiture forms and poetry could employ literary Chinese intelligible to trained elites across courts. This shared medium did not mean all travelers spoke the same vernacular or understood diplomatic rank identically. Interpreters and bilingual residents remained important. The presentation of official documents could express deference while leaving Goryeo's domestic institutions intact. A formal return embassy might secure material goods or facilitate contact among monasteries and officials beyond its ceremonial role. Studying literary diplomacy requires attention to who composed, copied and translated texts, not merely the titles of monarchs who authorized them."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "V.7.7:b09",
+      "title": "After 1125: Jin's expansion changes the relationship",
+      "paragraphs": [
+        "Jin's defeat of Liao and assault on Song reshaped the diplomatic setting for Goryeo. The crisis that led to Southern Song in 1127 made earlier hopes of balancing one northern empire against Song less realistic. NIKH's survey records that formal Song contact changed sharply, although cultural exchange did not have to cease at the same instant. A Song request for military cooperation carried costs that Goryeo weighed against its newly adopted relationship with Jin. Goryeo's decisions may seem disappointing from a Song-centered viewpoint but were made within its own security concerns. Diplomatic and scholarly ties could have different trajectories."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Source establishes a documented contact pattern; speculative trade totals and universal claims of maritime jurisdiction are excluded.",
+          "locator": "AKS Byeongnando's links to Gaegyeong and overseas routes"
+        }
+      ]
+    },
+    {
+      "id": "V.7.7:b10",
+      "title": "Learning did not require exclusive allegiance",
+      "paragraphs": [
+        "Goryeo's contacts with Song helped bring books, Buddhist scholarship, artistic forms, medical substances and learned personnel into a society with its own strong institutions. Official relations waxed and waned under pressure from Liao and Jin, while commercial links often persisted. This article owns court diplomacy and the intellectual circulation attached to it; V.6 owns detailed Goryeo arts, literature and technology, and V.7.9 focuses on foreign merchants. The historical record supports considerable exchange without making Goryeo a simple imitation of Song. Cultural transmission involved selection, translation and institutional adaptation alongside the political practice of surviving among powerful neighbors."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
