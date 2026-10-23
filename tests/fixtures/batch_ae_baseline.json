@@ -471,8 +471,8 @@
     "II.4.2": 3,
     "IV.6.4": 3
   },
-  "authored_snapshot": null,
-  "expected_new_words": null,
+  "authored_snapshot": "03014757754946b7c12007448a66ee43778c2370",
+  "expected_new_words": 20226,
   "expected_new_passages": 196,
   "expected_source_anchors": 90
 }
