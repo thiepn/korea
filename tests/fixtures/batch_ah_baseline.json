@@ -525,8 +525,8 @@
     "V.7"
   ],
   "prior_appended": {},
-  "authored_snapshot": null,
-  "expected_new_words": null,
+  "authored_snapshot": "fe826634ff822550e27f3f1567b38a99db2adacb",
+  "expected_new_words": 20187,
   "expected_new_passages": 200,
   "expected_source_anchors": 100
 }
