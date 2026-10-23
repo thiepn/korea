@@ -1,0 +1,161 @@
+{
+  "id": "IV.6.5",
+  "title": "Ceramics, Metalwork, Textiles, and Craft Production",
+  "kicker": "BALHAE · MATERIAL CULTURE, EXCHANGE AND RELIGION",
+  "description": "Original source-critical account of ceramics, metalwork, textiles, and craft production, grounded in archaeological objects, capital sites and limited royal or diplomatic testimony.",
+  "release": "AE",
+  "sourceStatus": "Source-specific contextual references, no independent scholarly review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae capital archaeology, arts and economic connections",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_039_0070_0020_0020_0020",
+      "role": "Site contexts, court geography and archaeological survivals of crafts and roads"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae development, diplomacy and culture",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "role": "Survey of Tang contact, capital investment and religious-cultural work; dated curricular synthesis"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghye tomb at Dunhua",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051146",
+      "role": "Dated royal burial, sculpture, inscription and the visibility of artisan skill"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghyo tomb in Longtou Mountain",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051192",
+      "role": "Architectural materials and elite memorial practice; not a census of everyday craft or devotion"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.6.5:b01",
+      "title": "The workshop behind the artifact",
+      "paragraphs": [
+        "Balhae's surviving ceramic vessels, architectural tiles and metal objects indicate productive skills that took sustained learning and resources. An attractive object in a collection is the end of work involving material selection, tools, fuel, timing and possibly several cooperating specialists. Without associated kiln debris or workshop features, its manufacturing location may remain uncertain. A grave deposit also reflects selection by mourners rather than the complete output of a craft community. The economy of making depended on food producers, transport workers and patrons as well as artisans. Studying those relations turns objects from isolated examples of style into evidence for technical knowledge and social organization."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "NIKH capital settlements, production and trade archaeology"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.5:b02",
+      "title": "Pottery forms and their mixed meanings",
+      "paragraphs": [
+        "Ceramic shapes and surface treatments can reveal shared habits of storing, cooking and presenting food, but a resemblance to Tang or Goguryeo vessels does not prove straightforward copying. Makers adapted familiar solutions to local clays, fuels and consumer preferences. Pottery in a royal compound may differ from domestic wares, and archaeological classifications must account for date as well as region. A jar carried through trade could be reused in a household far from its place of manufacture. The distribution of ceramics is therefore informative about contact without automatically providing a map of ethnic origins or state borders. Everyday use, not only stylistic prestige, should guide interpretation."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.5:b03",
+      "title": "Kilns and evidence of production",
+      "paragraphs": [
+        "Kiln structures, misfired vessels and concentrations of wasters can establish local pottery manufacture more securely than finished items found in burials. Even then the scale and organization of a workshop are not self-evident. A kiln might serve a settlement seasonally rather than operate as a continuously staffed royal factory. Dating repairs and rebuilding matters, since pottery deposits can accumulate over generations. The availability of clay, wood fuel and water affected location. Workshop archaeology offers a means to compare production with regional exchange, but it rarely preserves records of who owned the kiln or negotiated the artisan's compensation."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "AKS Jeonghye stone burial, dated inscription and sculpture"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.5:b04",
+      "title": "Metal and the technical spectrum",
+      "paragraphs": [
+        "Iron tools, weapons and fittings required smelting or smithing knowledge, while bronze ornaments and ritual items involved different temperatures and casting skills. A community could import metal and work it locally without mining its own ore. Repair and recycling further complicate attempts to identify one original workshop. Metallurgical analysis can help reconstruct technology, but artifacts recovered after reuse or burial do not offer a complete industrial chronology. The presence of metal in elite settings should not be mistaken for universal household access. Craft history must distinguish the making of prestige objects from the maintenance of plough edges, hinges and ordinary implements whose users left few written records."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.5:b05",
+      "title": "Tiles and royal construction",
+      "paragraphs": [
+        "Architectural tiles and decorated building fragments recovered from Balhae sites reveal organized manufacture for palaces and religious structures. Repeated motifs or dimensions may imply shared production conventions, yet the existence of standard forms does not prove the same artisans worked in every capital. Buildings were rebuilt, and discarded tiles may combine materials from different phases. Large commissions required transport and coordinated labor, placing court patronage within a wider economy. An ornamental motif can express cultural choices while its physical manufacture reflects clay preparation, molds and firing. Architectural craft thus links state display to the practical skills of people whose names were seldom commemorated."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "NIKH capital settlements, production and trade archaeology"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.5:b06",
+      "title": "Textiles and the problem of absence",
+      "paragraphs": [
+        "Clothing, cordage and woven household materials were crucial to everyday life but survive less reliably than ceramics or metal. The scarcity of preserved fabric in a particular excavation cannot be converted into proof of limited textile skill. Tools such as spindle whorls may suggest spinning, although their interpretation requires context. Weaving could be organized at household or specialist scales that the archaeological record cannot always separate. Elite depictions or imported fabrics also need care: a prestigious textile may say more about exchange than local manufacture. Reconstructing Balhae craft production therefore requires explicit attention to perishable goods and the unequal visibility of different kinds of labor."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.5:b07",
+      "title": "Women and unrecorded productive work",
+      "paragraphs": [
+        "Later historical writing usually names rulers, envoys and leading monks rather than people who made cloth or prepared building materials. Women and other household members may have contributed significantly to some productive tasks, but fixed divisions of labor cannot be assumed for every region. The royal tombs of Jeonghye and Jeonghyo provide named female histories while giving little direct insight into ordinary textile production. A thoughtful social account asks how knowledge was learned and passed on without inventing workshops staffed by imagined historical characters. The silence of sources is a limitation to identify, not a license to impose stereotypes from much later societies."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "AKS Jeonghye stone burial, dated inscription and sculpture"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.5:b08",
+      "title": "The exchange of styles and makers",
+      "paragraphs": [
+        "Contacts with Tang, Silla and northeast Asian communities could carry finished objects and skilled workers, and could expose local artisans to new decorative and technical possibilities. Identifying an imported object requires more than a superficial visual resemblance because imitation and hybrid production were common possibilities. Different users might value a form for functional or symbolic reasons unrelated to its original context. A Balhae artisan could select features from several traditions while producing something local. The outcome was not a ladder of influence from a supposedly advanced center to passive recipients. The circulation of knowledge should be understood as a series of adaptations in which craftspeople exercised judgment."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.5:b09",
+      "title": "Status, consumption and inequality",
+      "paragraphs": [
+        "Royal sites and elite tombs preserve ceramics, ornaments and decorated architecture associated with high-status consumption. Their abundance can obscure the different material circumstances of rural households. A capital official and a village cultivator might use related technologies without purchasing or commissioning identical objects. Patrons could support specialists and constrain their labor, yet no comprehensive documentation reveals the contractual terms across Balhae. Burial extravagance is a social performance rather than a direct inventory of wealth. Comparing settlement debris, workshops and monuments can illuminate unequal access, though only within limits of excavation and preservation. Craftwork participated in a stratified but regionally varied economy."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Contextual institutional evidence describes Balhae material or court setting; undocumented social details remain inferential.",
+          "locator": "NIKH capital settlements, production and trade archaeology"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.5:b10",
+      "title": "Technology as social continuity and change",
+      "paragraphs": [
+        "Balhae craft traditions show both inherited skills and engagement with neighboring material cultures. Pottery, metalwork, textiles and architectural ceramics depended on ecological resources, artisans' expertise and networks of demand. Their different rates of preservation make it difficult to assign one style to an entire population or period. This article has concentrated on making and maintaining objects rather than duplicating the art-historical description of particular monuments in IV.6.9. The next study follows the roads and exchange networks that brought raw materials and finished products together. Technical civilization is not measured solely by splendid artifacts; it includes ordinary repair, learning and the organization of labor."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
