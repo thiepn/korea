@@ -1,0 +1,161 @@
+{
+  "id": "IV.6.2",
+  "title": "Social Hierarchy, Communities, Household, Family, and Gender",
+  "kicker": "BALHAE · COMMUNITIES AND MATERIAL LIFE",
+  "description": "An original archaeological and social reading of social hierarchy, communities, household, family, and gender, distinguishing royal monuments from the incomplete evidence of ordinary life.",
+  "release": "AE",
+  "sourceStatus": "Contextual scholarly and archaeological anchors; no independent specialist editorial review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae: political foundations, urban society and five capitals",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_039_0070_0020_0020_0020",
+      "role": "Scholarly discussion of Bohai/Balhae cities, changing capitals, excavations and broader settlements"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghye tomb and memorial stele",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051146",
+      "role": "Dated 780 funerary monument, royal family context and stone-chamber burial near Dunhua"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghyo brick chamber tomb",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051192",
+      "role": "Royal women's monumental inscription, early excavation and status-sensitive mortuary evidence"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae geography, cultural activity and external relations",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "role": "Institutional synthetic reference for varied territories; older curricular categorizations require critical treatment"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.6.2:b01",
+      "title": "Royal society and uneven visibility",
+      "paragraphs": [
+        "The social hierarchy of Balhae is most visible where royal monuments, diplomatic texts and capital buildings preserve elite investment. These sources demonstrate concentrated political resources, but they do not provide an exhaustive catalogue of ordinary occupations and status obligations. A person linked to a royal household could benefit from titles and ceremonial privileges unavailable to a rural laborer. How such distinctions translated into daily legal relationships is less clear. Historical categories used by Tang observers may reflect comparison with familiar continental structures rather than local practice in every district. A social history must therefore move cautiously from monumental evidence to the lived inequalities underlying its creation."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "NIKH Balhae capital sites and their dated excavation phases"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.2:b02",
+      "title": "The princesses as named historical women",
+      "paragraphs": [
+        "The tombs of Princess Jeonghye and Princess Jeonghyo, daughters of King Mun, preserve unusually direct information about particular royal women. Jeonghye died in 777 and was interred in 780, while Jeonghyo died in 792 according to the relevant memorial tradition. The tombs have different structural forms and excavation histories. Their inscriptions record status, memory and court values, not unfiltered autobiography. These women are recoverable as historical individuals because commemorators wished to honor them. Ordinary women generally lacked such monuments. Understanding that difference prevents royal biography from becoming a misleading substitute for a complete gender history."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.2:b03",
+      "title": "Inscriptions and idealized virtue",
+      "paragraphs": [
+        "A funerary inscription praises qualities that a court valued and may use literary formulas drawn from broader East Asian elite culture. Such language tells us about ideals of filial behavior, refinement or family honor, but cannot describe every event in the deceased person's life. Named dates and family relationships may be more straightforward evidence than moral descriptions, though all require textual and archaeological verification. We should also consider who commissioned the monument and for which audience. Memorial writing constructs a legacy while preserving facts. Reading it critically allows royal women's histories to emerge without treating ceremonial compliments as their own spoken testimony."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "AKS Jeonghyo royal woman and brick-chamber tomb"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.2:b04",
+      "title": "Households beyond the royal compounds",
+      "paragraphs": [
+        "Food production, weaving, tool repair and care work were carried out by households whose members rarely appear in surviving texts. Archaeological house remains, hearths, storage pits and utensils can reveal routines, but determining family size or gendered tasks from one floor plan is hazardous. Some work may have been communal or seasonal, and households could change composition through migration. The capital's demand for supplies connected many such families to elite institutions. Their experience of taxation, transport or land obligations likely varied by district. A history of hierarchy that only counts government offices would ignore the daily labor through which those offices were sustained."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.2:b05",
+      "title": "Elite rank and administrative opportunity",
+      "paragraphs": [
+        "Balhae developed offices and educational contacts with Tang, giving certain families opportunities for advancement and prestige. Yet a Chinese-style title does not prove a modern impersonal meritocracy open to all subjects. Royal kinship and politically connected households could shape appointments, while local leaders possessed authority of other kinds. The relationship between metropolitan elites and provincial residents remains incompletely documented. Archaeological differences in residence or burial investment may suggest unequal resources without revealing exact rank. Institutional adoption should be seen as an adaptable language of governance, not a guarantee of equal access or identical social organization across Balhae territory."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "NIKH Balhae capital sites and their dated excavation phases"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.2:b06",
+      "title": "Dependence and the missing legal archive",
+      "paragraphs": [
+        "People may have faced obligations to elite families, temples or the court, but the surviving record does not supply a complete Balhae law code or household register. Translating practices from Tang or later Goryeo institutions into Balhae without evidence can invent forms of servitude that the sources do not attest in detail. A rich temple complex implies labor and resource mobilization; it does not by itself identify whether each worker was paid, compelled or attached to an estate. The social distinction between free and dependent persons is important precisely because it is difficult to reconstruct securely. Responsible explanation highlights the question rather than pretending to possess lost legal documents."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.2:b07",
+      "title": "Funerary differences and social reproduction",
+      "paragraphs": [
+        "Royal graves associated with the Dunhua and Longtou areas show substantial investment in monuments, chambers and written commemoration. Other burials display different forms and scales, reflecting a range of local practices as well as access to resources. It is tempting to convert each architectural type into one fixed ethnic or class label, but chronology, regional custom and material availability also matter. A family might adopt a new burial form through contact rather than a change of ancestry. The funerary landscape reveals inequality and cultural exchange in partial, mediated ways. It cannot provide complete biographies of household life."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "AKS Jeonghyo royal woman and brick-chamber tomb"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.2:b08",
+      "title": "Marriage and politics at several levels",
+      "paragraphs": [
+        "Elite marriage could build relationships among powerful families and support claims to authority, although recorded royal relatives are too few to reconstruct a systematic national marriage policy. Rural marriages were probably shaped by household needs, local norms and mobility but leave little direct testimony. A tomb's identification of a father or a royal title cannot establish the person's entire network of personal choices. Source criticism is especially necessary when later historians use royal genealogy to assert broad ethnic continuity. Marriage mattered socially and politically, yet its diverse everyday forms remain largely beyond the surviving documentary record."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.2:b09",
+      "title": "The city and the countryside in one hierarchy",
+      "paragraphs": [
+        "Provincial centers drew resources from surrounding farms and villages while offering elite households access to specialized goods, clerics and political opportunity. Relationships between urban consumers and rural producers could be unequal, but the available evidence is insufficient for one uniform rent or tax schedule. Local authorities may have mediated obligations according to environmental conditions and political ties. A resident of the capital did not necessarily enjoy elite privilege, while a rural notable might wield considerable local influence. The geography of status therefore crossed the simple city-versus-country divide. Studying households requires attention to residence, work, kinship and political connections together."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "NIKH Balhae capital sites and their dated excavation phases"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.2:b10",
+      "title": "A partial but meaningful social history",
+      "paragraphs": [
+        "Balhae's monarchy, offices and monumental burial traditions make hierarchy unmistakable, while most of its population remains visible only through material traces. Named royal women offer important exceptions to the silence of domestic records but should not stand in for all families. The kingdom's plural communities likely experienced different opportunities and obligations, which historians must reconstruct without fabricating precise figures. This article owns status, gender and household relationships. The next examines houses, villages and urban settlement, where archaeology can reveal patterns of everyday practice that office lists overlook. The central lesson is to combine social questions with strict attention to how evidence survives."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
