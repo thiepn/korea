@@ -1,0 +1,161 @@
+{
+  "id": "IV.6.1",
+  "title": "Peoples, Communities, and the Population of Balhae",
+  "kicker": "BALHAE · COMMUNITIES AND MATERIAL LIFE",
+  "description": "An original archaeological and social reading of peoples, communities, and the population of balhae, distinguishing royal monuments from the incomplete evidence of ordinary life.",
+  "release": "AE",
+  "sourceStatus": "Contextual scholarly and archaeological anchors; no independent specialist editorial review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae: political foundations, urban society and five capitals",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_039_0070_0020_0020_0020",
+      "role": "Scholarly discussion of Bohai/Balhae cities, changing capitals, excavations and broader settlements"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghye tomb and memorial stele",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051146",
+      "role": "Dated 780 funerary monument, royal family context and stone-chamber burial near Dunhua"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Princess Jeonghyo brick chamber tomb",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051192",
+      "role": "Royal women's monumental inscription, early excavation and status-sensitive mortuary evidence"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Balhae geography, cultural activity and external relations",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "role": "Institutional synthetic reference for varied territories; older curricular categorizations require critical treatment"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.6.1:b01",
+      "title": "A kingdom across different environments",
+      "paragraphs": [
+        "Balhae emerged in the late seventh century among populations living across parts of northeastern Asia after the collapse of Goguryeo and the disruption of the Tang frontier. Its later territories encompassed the Songhua and Mudan river regions, southern Manchuria and routes toward the Maritime Province, but borders and degrees of control shifted. This was not a landscape in which one homogeneous people simply filled a rectangular state. Forest, river basin, upland and coastal communities organized livelihoods differently. A narrative about Balhae's population must ask how royal institutions, local leaders and mobile groups interacted without assuming that every inhabitant used the same identity or answered to the court in the same way."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "NIKH Balhae capital sites and their dated excavation phases"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.1:b02",
+      "title": "Goguryeo continuities without simple identity",
+      "paragraphs": [
+        "Historical accounts associate Balhae's political foundation with former Goguryeo people and traditions, and some royal projects expressed continuity with the earlier kingdom. Such connections are important, but they do not transform every community under Balhae's later rule into an ethnically uniform successor population. People displaced by war could retain family practices while adapting to new political circumstances. Archaeology reveals material similarities that deserve investigation, not automatic assignment of modern ethnic labels. Royal genealogies also have political purposes: claiming a predecessor can confer legitimacy. The task is to distinguish demonstrable institutional and cultural continuity from claims of an unchanged collective identity across several centuries and a large territory."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.1:b03",
+      "title": "The many groups labeled Mohe",
+      "paragraphs": [
+        "Chinese historical sources refer to numerous groups under names conventionally rendered Mohe or Malgal, whose relationships with Balhae varied. The category should not be treated as one single, internally uniform people living outside an equally uniform Goguryeo elite. Some groups participated in the founding and operation of Balhae; others remained separate allies, rivals or communities within changing spheres of influence. Texts used names for diplomatic and administrative convenience, and these classifications could change. Local sites may exhibit different ceramic, burial and housing practices without establishing exclusive population boundaries. Understanding plurality means recognizing the different political relationships that a broad ethnonym concealed."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "AKS Jeonghyo royal woman and brick-chamber tomb"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.1:b04",
+      "title": "How many people lived in Balhae?",
+      "paragraphs": [
+        "The sources do not preserve a complete, reliably comparable series of population counts covering all Balhae territories. Numbers supplied in outside accounts may classify households or military capabilities rather than individual residents, and their political contexts require examination. Expansion of cultivated land, construction of capitals and increased diplomatic activity suggest organizational capacity, but none provides a simple census. Remote forest and coastal groups would be especially difficult to count. Estimating national population by assuming a uniform density across modern maps would be misleading. Responsible history can discuss relative concentration around settlements and river corridors while acknowledging that the true number and distribution remain uncertain."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.1:b05",
+      "title": "Mobility within an enlarging state",
+      "paragraphs": [
+        "Movement of families, soldiers, officials, artisans and merchants helped connect Balhae's political centers to other communities. Some changes followed royal policies, while migration could also arise from warfare, climate, trade or kin ties. The location of a new settlement or the spread of a pottery form may be consistent with movement, but need not prove direct royal relocation. Individuals could adopt goods and customs without traveling. A metropolitan history focused only on court appointees misses the social consequences for people who moved toward towns or remained in countryside villages. Mobility reshaped the kingdom without erasing the local histories that preceded it."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "NIKH Balhae capital sites and their dated excavation phases"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.1:b06",
+      "title": "Capitals and the limits of their representativeness",
+      "paragraphs": [
+        "Excavations at Shangjing Longquanfu and other capital-related sites reveal urban planning, palatial architecture, religious buildings and specialized activity. Those monumental remains illuminate political ambition and elite consumption but cannot be taken as a representative household survey of the whole kingdom. Rural dwellings were constructed with different materials, and the excavation record is uneven across modern borders. Capital population likely included officers, servants, craftspeople and traders whose lives remain less visible than royal foundations. Historians need to compare cities with smaller settlements before generalizing about Balhae society. Scale and preservation strongly shape which inhabitants enter the archaeological record."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.1:b07",
+      "title": "Political names and lived affiliations",
+      "paragraphs": [
+        "An inhabitant might identify through family, village, occupation, local ruler and broader Balhae institutions simultaneously. A Tang envoy's label for a population does not disclose how each person described belonging. Later Korean and Chinese historiographies have debated the relationship among Goguryeo, Malgal and Balhae in terms shaped by modern borders. Such debate should be evaluated through archaeological contexts, written chronology and the specific meanings of historical names, not through assumed national ownership. People could participate in Balhae political institutions while maintaining local ritual or language differences. Identity was layered and changeable rather than always expressed as one mutually exclusive ethnic category."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "AKS Jeonghyo royal woman and brick-chamber tomb"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.1:b08",
+      "title": "Marriage, alliance and households",
+      "paragraphs": [
+        "The court and local leaders could use kin relations to maintain partnerships and succession claims, but sources describe royal families more readily than ordinary marriages. Inscriptions associated with Princess Jeonghye and Princess Jeonghyo provide unusually direct dates and family relationships at the highest level. Their elaborate funerary treatment cannot define the domestic conditions of rural women. Ordinary households organized food preparation, child care, farming and craftwork without leaving comparable memorial texts. The contrast is a lesson in evidence as well as social hierarchy. A useful demographic history must acknowledge both royal records and the numerous families made invisible by the selective survival of writing."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.6.1:b09",
+      "title": "Religion and community boundaries",
+      "paragraphs": [
+        "Buddhist buildings and objects associated with Balhae cities indicate significant religious institutions, while forest and village communities may have maintained a variety of rites and customs. The presence of a major temple does not establish uniform belief across the realm. Religious specialists could cross political and cultural boundaries, transmitting texts and artistic practices. Archaeological objects can document some aspects of worship but rarely identify the convictions of every participant. Religion could be a source of shared language among elites without replacing local identities. This plurality helps explain why cultural integration was a process of interaction rather than the disappearance of all community differences."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional record or dated monument contextualizes Balhae material culture; broader population interpretations remain qualified.",
+          "locator": "NIKH Balhae capital sites and their dated excavation phases"
+        }
+      ]
+    },
+    {
+      "id": "IV.6.1:b10",
+      "title": "Population history as a problem of evidence",
+      "paragraphs": [
+        "Balhae was a changing political formation inhabited by people from different historical backgrounds and environmental settings. Its rulers drew on Goguryeo claims and continental forms while governing communities described in outside records with broad and shifting names. Archaeology offers a richer picture of settlement than royal chronicles alone, yet it cannot deliver an ethnic census. This article owns peoples and demographic diversity; subsequent chapters examine social hierarchy, daily settlements and particular cultural institutions, while IV.5 owns dynastic state formation and political campaigns. The most careful conclusion is that plurality was fundamental to Balhae's civilization, not an anomaly to be explained away."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
