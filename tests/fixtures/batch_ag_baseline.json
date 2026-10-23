@@ -504,8 +504,8 @@
     "IV.7"
   ],
   "prior_appended": {},
-  "authored_snapshot": null,
-  "expected_new_words": null,
+  "authored_snapshot": "b57112b3be37dbc8d4888fac7890782ac10bf600",
+  "expected_new_words": 20371,
   "expected_new_passages": 200,
   "expected_source_anchors": 100
 }
