@@ -1,0 +1,161 @@
+{
+  "id": "VI.6.6",
+  "title": "Tribute, Corvée, Labor Service, and the Burdens of the State",
+  "kicker": "EARLY JOSEON · TRIBUTE AND LABOR",
+  "description": "The separate burdens of gongmul, corvée and military service, interpreted through household classes, distance, labor and early Joseon fiscal records.",
+  "release": "AF",
+  "sourceStatus": "Contextual specialist historical sources; no independent manuscript review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Joseon economic structure: taxes and services",
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist early Joseon economic synthesis used for fiscal, household, agricultural and governmental institutional chronology."
+    },
+    {
+      "institution": "Historical Society of Korea",
+      "title": "Household class transition and assigned tribute Taejo–Sejong",
+      "url": "https://journal.kci.go.kr/hksh/archive/articleView?artiId=ART002153110",
+      "role": "Peer-reviewed study of household classifications, tribute allocation and changes during early Joseon reigns."
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Early Joseon Gwajeonbeop and fiscal rights",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004611",
+      "role": "Expert Gwajeonbeop history separating title to land from rights of revenue collection and later official grant revisions."
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Government transport of tax grain",
+      "url": "https://encykorea.aks.ac.kr/Article/E0052436",
+      "role": "Specialist jo-un shipping history of grain warehouses, river and coastal transport, associated labor and institutional risk."
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.6.6:b01",
+      "title": "Several obligations within one household",
+      "paragraphs": [
+        "An early Joseon household could confront land tax, deliveries of designated goods, local services and military-related duties in combinations depending on status, location and registration. Modern descriptions often combine them under a single undifferentiated word 'tax', obscuring distinct legal foundations and collection methods. Tribute requirements concerned products supplied to authorities, whereas corvée demanded work and time. Paying a field's grain assessment did not automatically remove an obligation to transport timber or repair a public structure. Estimating burden requires attention to seasonality, distance and household size, not merely nominal quantities. Fiscal government reached people through multiple channels, each with its own administrative and social consequences."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited fiscal research identifies categories and obligations; local incidence and household experience remain subject to unequal evidence.",
+          "locator": "NIKH tribute, corvée and economic structure of early Joseon"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.6:b02",
+      "title": "Gongmul and required local products",
+      "paragraphs": [
+        "Gongmul referred to goods assigned as tribute, drawing on products associated with particular districts and the needs of central or regional institutions. A required item could reflect an area's productive resources but also the inertia of old lists and priorities set elsewhere. If the product became scarce, households might have to buy it from intermediaries at significant cost. Surviving sources do not give a complete record of every actual delivery in every district. A written demand is not proof that the named goods were produced locally in adequate quantities. Distinguishing prescribed products from material labor needed to acquire them reveals why seemingly routine tribute could provoke hardship."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.6:b03",
+      "title": "Household classes as administrative devices",
+      "paragraphs": [
+        "Research on fiscal household classes from Taejo to Sejong reveals that officials experimented with classifications connected to the ability to supply tribute and other obligations. These changed within the founding decades rather than existing as one permanent scale. A household class was an administrative judgment, not a complete account of wealth or poverty. Families with unlike labor resources, field quality and size could receive similar designations, while local officials influenced their application. The Historical Society of Korea study traces changes in the early fifteenth-century classification of tribute liabilities. This evidence cautions against treating one category in a legal document as a faithful representation of every family's productive capacity."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited fiscal research identifies categories and obligations; local incidence and household experience remain subject to unequal evidence.",
+          "locator": "AKS Gwajeonbeop broader context of collection rights"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.6:b04",
+      "title": "Corvée as the loss of working time",
+      "paragraphs": [
+        "Labor service might require people to build roads or public buildings, repair fortifications, maintain waterworks or supply transport. Even when no wage was paid, the economic cost to a household included time unavailable for farming or craft production. The timing of a few days of absence during planting could matter more than the same number after harvest. A decree's formal recruitment standard does not necessarily show which people actually served in all districts. Status and influence could affect the allocation of duties. Corvée history therefore requires considering household opportunity costs alongside the projects that governments wanted to complete and the rules officials announced."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.6:b05",
+      "title": "Military support beyond the formal soldier",
+      "paragraphs": [
+        "Service obligations also involved resources supplied by families and supporting households when a member was recruited for military duty. Textiles, food and other assistance could help sustain a mobilized man, although arrangements changed throughout the dynasty. It would be anachronistic to describe all early fifteenth-century service through the mature military cloth levy of later periods. The family's economic situation depended on duration of absence, available workers at home and access to exemption. Formal equality of service did not produce uniform household consequences. Studying the support network broadens military history beyond commanders and campaigns to the economic relationships on which those military institutions relied."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited fiscal research identifies categories and obligations; local incidence and household experience remain subject to unequal evidence.",
+          "locator": "NIKH tribute, corvée and economic structure of early Joseon"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.6:b06",
+      "title": "Geography made formal demands unequal",
+      "paragraphs": [
+        "A village close to a government storehouse could meet a product requirement at lower transport cost than a mountain settlement expected to carry a similar amount over difficult passes. Bulky wood, fragile wares and perishable foods each required different handling. Water routes reduced some costs while introducing storms and seasonal hazards. Records listing the same assessed value do not capture these differences automatically. Local clerks, carriers and intermediaries shaped how deliveries were gathered and moved. The history of tribute therefore intersects with roads, shipping and regional geography. A nominally uniform fiscal rule could impose different practical burdens on households depending on where they lived."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.6:b07",
+      "title": "Intermediaries and the politics of valuation",
+      "paragraphs": [
+        "When prescribed tribute items were difficult to obtain, households could depend on people who specialized in procuring and delivering them. Later reform histories describe abuses by tribute brokers, but their fully developed forms should not simply be projected into early Joseon without dated evidence. Officials might exploit valuations and classification or try to soften unreasonable demands. The documentary record often highlights conflicts precisely because ordinary transactions were less remarkable. One complaint therefore should not become a complete national portrait. The relevant questions concern who controlled access to goods, how prices were established and whether households had credible means to challenge obligations they could not meet."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited fiscal research identifies categories and obligations; local incidence and household experience remain subject to unequal evidence.",
+          "locator": "AKS Gwajeonbeop broader context of collection rights"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.6:b08",
+      "title": "Status, gender and invisible productive work",
+      "paragraphs": [
+        "The registered household might appear under the name of one responsible adult, while the work of gathering goods, preparing textiles or sustaining farms in a recruit's absence fell upon several members. Women's and older relatives' contributions are often concealed by official fiscal categories. This does not authorize a universal claim that a particular gender performed one fixed task across all regions. Social standing also affected exemption and the ability to pass demands to dependents. Reconstructing economic burdens therefore requires interpreting the register's purpose and recognizing the labor it leaves unrecorded. An administrative unit and the people whose work fulfilled it were not the same thing."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.6:b09",
+      "title": "Complaints, accommodation and resistance",
+      "paragraphs": [
+        "Petitions about excessive obligations, unsuitable goods or abuse could reach magistrates or the court, but surviving examples are not representative surveys. Officials sometimes promised reform or ordered relief without ensuring that every district carried the change into practice. Households might respond through negotiation, movement, concealment or cooperation, with different risks. Some state works delivered public benefits, including roads and water structures, even though their costs were unequally distributed. A fair assessment asks who gained and who had to surrender labor or resources. Fiscal history should neither idealize government as a neutral service provider nor treat every obligation as identical coercion."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited fiscal research identifies categories and obligations; local incidence and household experience remain subject to unequal evidence.",
+          "locator": "NIKH tribute, corvée and economic structure of early Joseon"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.6:b10",
+      "title": "The fiscal state drew upon human time",
+      "paragraphs": [
+        "Tribute, corvée and military support complemented land taxation while shaping life beyond the amounts recorded in grain accounts. Their institutional categories changed across reigns, and later reforms addressing tribute should not be collapsed into early fifteenth-century regulations. This section owns non-land obligations and their effects on households; VI.6.5 treats field assessment and VI.6.7 examines finance and public relief. The practical limits of government were defined by the labor and materials that communities could provide without destroying their own productive capacity. Recognizing those limits reveals why fiscal institutions were objects of repeated political negotiation rather than a completed design imposed at the dynasty's foundation."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

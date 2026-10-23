@@ -1,0 +1,161 @@
+{
+  "id": "VI.6.9",
+  "title": "Crafts, Mining, Salt, Fisheries, and Specialized Production",
+  "kicker": "EARLY JOSEON · CRAFTS AND RESOURCE PRODUCTION",
+  "description": "State craft registers, metropolitan artisans, metalwork, salt policy and fisheries examined through technical work and documented institutional limits.",
+  "release": "AF",
+  "sourceStatus": "Institutional and technological historical references; independent specialist review not completed",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gyeonggongjang: metropolitan government artisans",
+      "url": "https://encykorea.aks.ac.kr/Article/E0002288",
+      "role": "Historical study of early Joseon metropolitan government artisans, administrative attachment and duties."
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gongjang: historical craft administration",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004428",
+      "role": "Historical survey of registered court and provincial craftworkers, workshops, skill and duty arrangements."
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Joseon salt production and state regulation",
+      "url": "https://encykorea.aks.ac.kr/Article/E0051904",
+      "role": "Historical overview of early Joseon salt production, state regulation and short-lived 1445 monopoly intervention."
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Joseon economic organization",
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist early Joseon economic synthesis used for fiscal, household, agricultural and governmental institutional chronology."
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.6.9:b01",
+      "title": "Specialization inside an agrarian economy",
+      "paragraphs": [
+        "The importance of farming did not eliminate the need for crafts, mineral resources and coastal production. Royal courts, provincial offices and households depended on tools, textiles, ceramics, building supplies, iron, salt and fish. Some goods were made by independent producers, while others were supplied through registered artisans or institutions organizing service. The written record focuses on work important to public requirements and may therefore understate informal household making. An apparent distinction between 'agriculture' and 'industry' does not capture people who farmed seasonally and also produced goods for exchange or official demand. Specialized labor was woven through local livelihoods and the state's administrative reach."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Specialist historical material anchors the artisanal and salt-policy discussion, without proving unrecorded household labor patterns.",
+          "locator": "AKS Gyeonggongjang metropolitan craftsmen and institutional duties"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.9:b02",
+      "title": "Gyeonggongjang and the metropolitan workshops",
+      "paragraphs": [
+        "Gyeonggongjang referred to skilled artisans attached to capital offices producing objects needed by the royal household and government. The Academy of Korean Studies describes the consolidation of artisans into specialized governmental work during early Joseon reform. Their skills covered military equipment, construction and a wide range of practical objects. The existence of an official craft register does not mean workers had identical status, remuneration or freedom to choose commissions. A mature list of offices and numbers must also be dated before applying it to 1392. Such institutions show the capital's dependence on technical knowledge while raising questions about the social conditions under which that knowledge was mobilized."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.9:b03",
+      "title": "Gongjang registration and obligations",
+      "paragraphs": [
+        "Government artisans were recorded in registers, traditionally distinguished between those serving central and provincial institutions. Registration made specialist labor administratively legible and could impose duties for specified periods. It did not necessarily mean an artisan spent every day inside a state workshop; specialist production and private household life could coexist. The Academy of Korean Studies notes the evolution of craft-service systems and the collection of artisan-related payments. Later substitution of cloth payments for labor should not be backdated to every fifteenth-century worker. To understand public craftwork, historians must distinguish an occupational title, an annual service obligation and the actual conditions of labor."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Specialist historical material anchors the artisanal and salt-policy discussion, without proving unrecorded household labor patterns.",
+          "locator": "AKS Joseon salt manufacture, monopoly experiment and distribution"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.9:b04",
+      "title": "Metalworking and the demands of tools",
+      "paragraphs": [
+        "Iron implements were important to agricultural production, carpentry, transport and military supply. Mining, smelting, smithing and repair represented different stages of work that need not occur in one location. A government order for weapons could direct specialists toward official manufacture, while farmers and merchants still required ordinary metal tools. Surviving pieces, furnace remains and administrative descriptions provide separate forms of evidence. An excavated blade cannot tell us whether its maker was a registered artisan or a private smith. Resource access, charcoal and transport costs all influenced production. The technical skill of workers should not disappear behind an account that treats metal merely as state property."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.9:b05",
+      "title": "Mining and the problem of measuring output",
+      "paragraphs": [
+        "Extraction of iron, copper and other minerals depended on local deposits, labor, tools and the ability to move bulky materials. A chronicle noting official interest in a mine establishes a policy concern, not a continuous record of successful production. Modern geological knowledge can suggest potential areas but cannot fill missing medieval production statistics. Mining could affect nearby forests through fuel demand and place difficult labor burdens on households. Royal control over strategic materials was an aspiration whose practical reach could vary greatly by district. An economic history must avoid creating precise national tonnage estimates from a few scattered textual references or archaeological finds."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Specialist historical material anchors the artisanal and salt-policy discussion, without proving unrecorded household labor patterns.",
+          "locator": "AKS Gyeonggongjang metropolitan craftsmen and institutional duties"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.9:b06",
+      "title": "Salt as a vital and costly necessity",
+      "paragraphs": [
+        "Salt was necessary for preserving food and making fermented products, yet producing it in premodern Joseon often involved concentrating seawater and boiling brine with substantial fuel and labor. The kingdom's coastal geography did not make salt equally available to all inland consumers. Official efforts to organize production and distribution reflected concerns about both livelihoods and public revenue. The Academy of Korean Studies records tensions around monopoly arrangements and the supply of private producers. It is misleading to describe all salt-making as modern solar evaporation, which developed under very different technical circumstances. Salt history combines physical production, occupational status, transport and the effects of policy on prices."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.9:b07",
+      "title": "The 1445 salt monopoly experiment",
+      "paragraphs": [
+        "In 1445 a stronger state intervention known through the Uiyeom arrangements sought to reorganize salt production and distribution, including restrictions affecting private equipment. The Academy of Korean Studies describes adverse effects such as the departure of some producers and changes in supply, with the scheme reversed after a short interval. The details should be read in the institutional context of Sejong's fiscal policy, not generalized as proof that every government monopoly everywhere failed. Nor should official intent be confused with completed control of all salt pans. The episode exposes the state's dependence on specialist knowledge and on incentives that could not be replaced merely by ordering production."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Specialist historical material anchors the artisanal and salt-policy discussion, without proving unrecorded household labor patterns.",
+          "locator": "AKS Joseon salt manufacture, monopoly experiment and distribution"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.9:b08",
+      "title": "Fishing communities and coastal products",
+      "paragraphs": [
+        "Fishing and marine processing supplied nutrition, tribute items and exchange goods for people living near coasts and farther inland. Boats, nets, salt and drying facilities required material investment and maintenance. Court lists of marine products make some resources visible, but do not provide a complete description of the catch, working seasons or gendered divisions of labor in every village. Transport conditions influenced how far fresh fish could travel and encouraged preservation techniques. Fishing households could also cultivate fields or engage in salt production, making exclusive occupational labels imperfect. A social history must attend to local ecological knowledge alongside the governmental categories under which resources were recorded."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.9:b09",
+      "title": "Technical expertise, hierarchy and choice",
+      "paragraphs": [
+        "State demand could support specialized work and provide access to high-quality materials while also exposing artisans to compulsory service or unequal valuation. A craftworker with rare skills might acquire influence in a workshop without enjoying the legal status of a high official. Private clients and local markets provided alternative sources of demand, but not necessarily equal freedom for every registered worker. Surviving objects testify to skill, whereas statutes and registers describe organization. Neither alone reveals wages or the full life of the person who made an object. Studying artisans as workers rather than anonymous tools of royal patronage brings technical production into social and fiscal history."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Specialist historical material anchors the artisanal and salt-policy discussion, without proving unrecorded household labor patterns.",
+          "locator": "AKS Gyeonggongjang metropolitan craftsmen and institutional duties"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.9:b10",
+      "title": "Production beyond the stereotype of self-sufficiency",
+      "paragraphs": [
+        "Early Joseon's economic structure combined agricultural households with specialized manufacturing, extraction, fishing and distribution. Official registration and resource regulation were important without amounting to total control of every workshop and coast. The changing salt policies of the 1440s show how attempts to expand fiscal oversight could encounter the practical requirements of production. This article owns making and extracting goods, distinct from VI.6.8's markets and VI.6.10's movement of goods. The major methodological point is to connect documentary claims of regulation with technical process and labor. A society need not have modern factories to sustain complex specialization, nor were all its productive relationships reducible to state service."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

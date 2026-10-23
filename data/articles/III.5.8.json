@@ -1,0 +1,167 @@
+{
+  "id": "III.5.8",
+  "title": "Revenue, Tribute, Taxation, and State Resources",
+  "kicker": "THE THREE KINGDOMS · FISCAL AND SPATIAL GOVERNMENT",
+  "description": "A source-critical historical analysis of revenue, tribute, taxation, and state resources, using dated records, political archaeology and comparative institutional evidence.",
+  "release": "AF",
+  "sourceStatus": "Contextual institutional source anchors; independent historical review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goguryeo aristocratic government and regional state",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_005_0050_0010_0020_0020",
+      "role": "Institutional context for palace elites and changing authority beyond the royal center"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje ranks, offices and noble governing institutions",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0050_0010",
+      "role": "Source-conscious account of Baekje central government across capital changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Three Kingdoms: state organization",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h61_0040_0020_0050",
+      "role": "Comparison of royal rank structures, councils and increasing territorial authority"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Traditional Korean bureaucracy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004813",
+      "role": "Specialist survey of institutional change and the source problem for early offices"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Three Kingdoms political and social makeup",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Comparative state-formation synthesis, including royal offices and status distribution"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.5.8:b01",
+      "title": "Government depended on production",
+      "paragraphs": [
+        "Royal courts, fortresses and military campaigns demanded food, equipment and the labor of people who rarely appear by name in dynastic histories. A list of ranks or victories is not enough to explain how the Three Kingdoms sustained political power. Cultivators produced grain, craft specialists supplied tools, and local intermediaries helped convey goods and services toward central institutions. The terms used in later texts for tribute and taxation do not always correspond to sharply separated modern fiscal categories. Some contributions may have been periodic obligations or exceptional demands tied to warfare. Reconstructing the state's resources therefore requires linking political claims to production, storage and transport while admitting that comprehensive early fiscal accounts are absent."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH Goguryeo court and regional authority studies"
+        }
+      ]
+    },
+    {
+      "id": "III.5.8:b02",
+      "title": "Grain and the limits of royal accounting",
+      "paragraphs": [
+        "Arable land provided resources that enabled rulers to feed attendants, reward nobles and supply garrisons. Yet the surviving sources give no continuous nationwide series of acreage, yields or household tax payments for Goguryeo, Baekje or Silla. Projecting the better documented fiscal formulas of later Goryeo and Joseon into the Three Kingdoms would manufacture precision. Agricultural households had to retain seed and subsistence while meeting external obligations, making local conditions crucial to any effective collection. A royal order to gather grain might be mediated by village leaders whose negotiations are not recorded. Economic capacity was therefore real but spatially uneven and frequently difficult to quantify."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "III.5.8:b03",
+      "title": "Tribute as hierarchy and exchange",
+      "paragraphs": [
+        "A court could receive goods from subordinate communities or foreign contacts and then distribute prestigious items to elites. A recorded presentation might symbolize allegiance, recompense or a diplomatic relationship, not an annual statutory tax. The vocabulary of tribute in Chinese dynastic accounts reflects the conceptual world of the recording court and may not describe what both participants thought the exchange meant. Imported ornaments and other objects reveal circulation but not necessarily the legal basis of every transaction. The social significance of giving was inseparable from status and political recognition. Revenue history must distinguish goods delivered under compulsion, customary expectation and negotiated gifts rather than treating them as one uniform treasury stream."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH comparative Three Kingdoms political system overview"
+        }
+      ]
+    },
+    {
+      "id": "III.5.8:b04",
+      "title": "Military demand and emergency collection",
+      "paragraphs": [
+        "War could increase the demand for grain, animals, weapons and carriers beyond normal peacetime arrangements. Campaign narratives record marches and sieges more readily than the families required to support them. Fortresses were effective only when supplied; shortages could make nominal control fragile. A sudden requisition might disrupt farming seasons and redistribute resources between areas. Detailed figures for these burdens are usually unavailable, so calculations based on estimated army sizes must state their assumptions rather than be presented as measured facts. Military mobilization was an administrative achievement with significant human costs. It also exposed the limits of states whose authority depended on the continued cooperation of regional suppliers."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "III.5.8:b05",
+      "title": "The state and elite access to resources",
+      "paragraphs": [
+        "Noble households and royal kin could receive rights, gifts or rewards that helped secure political loyalty. The evidence for specific grants varies by kingdom and period. A term later used for a stipend village or estate cannot automatically be assigned to every earlier aristocratic household. Some wealth may have come from direct management, some from recognized collection privileges, and some from exchange or military success. Archaeological burial wealth shows concentrated consumption but does not identify exact revenue rights. The relation between status and resources was central to political stability because a ruler had to reward allies without sacrificing the capacity to maintain government and defense."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH state formation and social organization English synthesis"
+        }
+      ]
+    },
+    {
+      "id": "III.5.8:b06",
+      "title": "Silla rank and the distribution of benefit",
+      "paragraphs": [
+        "Silla's aristocratic system restricted access to high political rank, and later sources describe grants such as nogeup and other forms of remuneration. Their chronology is important: arrangements known especially from post-unification evidence should not be treated as fully developed in the early Silla of the first centuries. The distinction between a claim to revenue and outright ownership of land is also essential. Benefits tied to office could create dependencies and inequalities while helping central authority retain leading families. A social history should ask who cultivated the land and who was empowered to receive its produce, without inventing a complete register of villages and payments."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "III.5.8:b07",
+      "title": "Regional leaders as collectors and negotiators",
+      "paragraphs": [
+        "Provincial notables controlled local relationships through which official demands could be communicated and fulfilled. A court might designate a tribute obligation while local authorities decided how its burden fell among settlements. Such intermediaries could exploit their position or help shield communities from impossible demands; the early archive rarely reveals which occurred in a specific district. Administrative influence therefore did not flow mechanically down a single chain. The relationship between center and periphery reflected bargaining, military pressure and practical environmental limits. This helps explain why expansion of nominal territory could be easier than the establishment of reliable revenue across that territory."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH Baekje ranks and offices across capital transitions"
+        }
+      ]
+    },
+    {
+      "id": "III.5.8:b08",
+      "title": "Craft production and labor obligations",
+      "paragraphs": [
+        "Building a palace or defensive wall required materials, skilled workers and provisioning. The appearance of finely made tiles or metal objects attests to organized technical capacity but not the precise legal status of the artisans who produced them. Workers might include specialists attached to elites, locally mobilized households or people compensated in varying ways. Later records of state workshops cannot simply fill the gaps in fifth-century evidence. Archaeology of kilns and production debris may show where objects were made, although the mechanisms financing them remain uncertain. Labor should be treated as a public resource in its own right, not merely converted into an imagined equivalent quantity of grain."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "III.5.8:b09",
+      "title": "The difficulty of comparing fiscal strength",
+      "paragraphs": [
+        "A large royal tomb or impressive fortress may suggest substantial resource mobilization, but construction could be spread over many years and supported by different social arrangements. Counting monuments does not create comparable national budgets. Documentary evidence is uneven across the Three Kingdoms, and Goguryeo's inscriptions, Baekje's archaeological record and Silla's later administrative notices cannot be treated as equivalent samples. Differences in preservation and source interests are major obstacles to numerical comparison. A stronger approach asks which logistical capacities can be independently demonstrated in each setting and how they related to political choices. Historical fiscal comparisons should present scale and uncertainty without false precision."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "AKS institutional history of early offices"
+        }
+      ]
+    },
+    {
+      "id": "III.5.8:b10",
+      "title": "Resources shaped the limits of monarchy",
+      "paragraphs": [
+        "A ruler's ambitions depended on households producing goods, local officials or nobles organizing collection and transportation networks delivering supplies to needed places. Revenue systems were uneven, changed with political expansion and were not fully recorded by surviving sources. This article owns the general Three Kingdoms relationship between fiscal authority and social obligation; the detailed Silla Village Register belongs in IV.2 and later Joseon tax systems belong in VI.6. The comparative insight is that taxation was not a technical detail added after state formation. Attempts to claim resources helped create government, while resistance, environmental constraints and the need to reward powerful allies restricted what rulers could reliably obtain."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

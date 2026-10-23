@@ -1,0 +1,167 @@
+{
+  "id": "VI.6.4",
+  "title": "Irrigation, Reclamation, Forests, Water, and Agricultural Landscapes",
+  "kicker": "EARLY JOSEON · LAND AND AGRARIAN ECONOMY",
+  "description": "Original documentary and social-economic reading of irrigation, reclamation, forests, water, and agricultural landscapes, distinguishing fiscal rights, lived practice and changing land use.",
+  "release": "AF",
+  "sourceStatus": "Institutional sources contextualize specific reforms; independent scholarly review remains outstanding",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Revised Korean History: Economic structure of early Joseon",
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist survey of land rights, fiscal systems, household obligations, agriculture and economic institutions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwajeonbeop, rights and subsequent legal changes",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004611",
+      "role": "Expert discussion of 1391 royal reform, tax entitlement versus land title and 1466/1470 changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sejong's directive for agriculture and Nongsa jikseol",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_082_0010&tabId=03&treeId=010502",
+      "role": "Contextual primary-source commentary on the 1429 agronomic project and knowledge transmission"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gongbeop, the six land qualities and nine harvest classes",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004304",
+      "role": "Detailed specialized tax history, promulgation in 1444, phased adoption and administrative tensions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Joseon farming and society",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional overview used only as contextual synthesis rather than proof of all local conditions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.6.4:b01",
+      "title": "Landscapes as historical infrastructure",
+      "paragraphs": [
+        "Fields were not simply natural surfaces awaiting taxation; they were shaped by generations of clearing, drainage, water control and soil management. Mountains, river valleys and coastal plains required different forms of cultivation. A historical survey of acreage cannot show the maintenance work needed to keep a plot productive, nor whether expansion damaged forests or altered flood patterns. Agricultural policy interacted with local ecological knowledge. Early Joseon authorities expressed concern with increasing cultivation, yet the success of any project depended on labor, tools and the behavior of water over multiple seasons. Economic history should treat landscapes as changing products of human work and environmental forces, not fixed entries in a land register."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "NIKH early Joseon economy, landownership and agriculture chapter"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.4:b02",
+      "title": "Water control and collective maintenance",
+      "paragraphs": [
+        "Irrigation channels, reservoirs and embankments could stabilize some yields and make previously risky fields usable. Their practical operation required clearing silt, repairing damage and coordinating households whose interests did not always coincide. A wealthy proprietor might benefit from a structure maintained by many neighbors, or an upstream community could control access to shared water. Surviving administrative records may describe a construction order or repair, but rarely list every worker's experience. Archaeological dating of earthworks also needs caution because later renovations can obscure early phases. Water management was therefore a social institution as well as an engineering task, mediated by local power and ecological uncertainty."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.4:b03",
+      "title": "Dry fields, paddies and local variation",
+      "paragraphs": [
+        "The relationship between rice paddies and dry-field crops varied regionally, influenced by rainfall, temperature and irrigation capacity. It is misleading to represent all early Joseon farming as one uniform wet-rice system. Cultivators made choices among grains and planting methods suitable to particular terrain. Agricultural treatises could prescribe techniques while local practice responded to soil and labor availability. A surviving prescription establishes what its author recommended, not how consistently it was followed throughout the kingdom. Comparing written agronomy with plant remains, field evidence and the geography of settlements can clarify possibilities without inventing national yield rates from isolated examples."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "NIKH Sejong agricultural directive and Nongsa jikseol commentary"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.4:b04",
+      "title": "Reclamation and the cost of expansion",
+      "paragraphs": [
+        "New fields might be developed by clearing scrubland, draining wet areas or bringing underused ground back into cultivation. Such projects could increase taxable resources and provide opportunities for households, but also create disputes over ownership, grazing, forests or rights to water. A royal encouragement to reclaim land did not guarantee that poor families gained secure access. The quality of newly cultivated fields could differ greatly from established plots. Ecological consequences, including erosion or altered runoff, need specific evidence rather than a universal assumption of damage or improvement. Reclamation connected population, fiscal ambition and local bargaining in a manner that differed across the peninsula."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.4:b05",
+      "title": "Forests as vital economic resources",
+      "paragraphs": [
+        "Wood was essential for houses, boats, fuel, implements and public construction, while uplands provided other resources to rural communities. State and elite claims to timber could conflict with local patterns of gathering and management. Forest policy therefore mattered to agriculture even where a particular tree was not directly part of crop production. Excessive cutting might expose fields to soil loss, while careful use could sustain craftwork and heating. Written instructions about protecting resources should not be mistaken for proof of compliance. The historian needs site-specific evidence when evaluating long-term ecological change, and must acknowledge that forest use was both economic necessity and an arena of contested authority."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "NIKH English overview of early Joseon agrarian society"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.4:b06",
+      "title": "Coasts, saltlands and shared environments",
+      "paragraphs": [
+        "Coastal reclamation and the management of estuaries involved landscapes affected by tides, river sediment and storms. Communities living near such environments might combine farming, fishing and salt production rather than fit one agricultural occupational category. A bund that protected a field in ordinary conditions could fail during exceptional weather. Government attention to productive land was closely related to expectations of fiscal revenue, but protective works also served household subsistence. We lack enough detailed records to reconstruct every early Joseon coastal intervention. The point is to recognize that environmental infrastructure and social organization were joined, not to attribute a modern system of flood engineering to fifteenth-century officials."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.4:b07",
+      "title": "The evidence of agricultural manuals",
+      "paragraphs": [
+        "Nongsa jikseol, compiled in 1429 from practical knowledge gathered particularly in southern provinces, offers valuable evidence about cultivation methods and the ambitions of royal agrarian policy. Yet its prescriptions do not reveal the daily routine of all regions, much less the effectiveness of a specific canal. The text reflects selection, compilation and instruction. It should be compared with other sources and ecological conditions before treating its advice as an achieved national transformation. Its significance is heightened by the fact that many successful farming practices were preserved through experience outside written elite scholarship. Agronomic documentation was one moment in a longer exchange between people and landscapes."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "AKS Gwajeonbeop legal right and chronology review"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.4:b08",
+      "title": "Disaster and the politics of repair",
+      "paragraphs": [
+        "Floods, droughts and storms could damage fields and waterworks, making labor for maintenance urgent during periods of existing hardship. Officials could order relief or organize repair, but the surviving record often privileges the announcement over its measured results. Households had to balance immediate food security with communal needs. A tax concession might help one community but fail to restore a destroyed embankment. The history of environmental risk requires attention to the timing of disasters and the uneven capacity of districts to recover. Royal policies are important evidence of perceived problems, not proof that those problems were solved in every affected settlement."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.4:b09",
+      "title": "Seasonal knowledge and the limits of a central plan",
+      "paragraphs": [
+        "Farmers needed to judge soil moisture, planting windows, frost, pests and the state of shared water structures. Central instructions could encourage techniques but could not substitute for constant local observation. Different valleys experienced rain and harvest timing in different ways, and administrative calendars did not eliminate environmental variability. The collection of practical advice into manuals indicates that the government recognized some value in local expertise. Yet knowledge traveled through officials and households in ways the surviving archive does not fully record. The historical significance of land management lies partly in this interaction of formal authority and specialized everyday skills."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "AKS Gongbeop reform and field assessment history"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.4:b10",
+      "title": "An ecological history of productive land",
+      "paragraphs": [
+        "The early Joseon economy rested on landscapes actively maintained through labor, water control, reclamation and forest use. Their management affected both households and the fiscal expectations of government, while risks and opportunities differed by region. This section owns environmental infrastructure and the shaping of agricultural land, distinct from the techniques specifically compiled in VI.6.3 and the later expansion and commercialization covered by VII.6. A source-critical account can identify institutions, material requirements and evidence limits without claiming modern environmental statistics. The central insight is that productive land was historically made and repeatedly maintained; its capacity to support people depended on more than its registered legal status."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "III.5.9",
+  "title": "Capitals, Palaces, and the Geography of Government",
+  "kicker": "THE THREE KINGDOMS · FISCAL AND SPATIAL GOVERNMENT",
+  "description": "A source-critical historical analysis of capitals, palaces, and the geography of government, using dated records, political archaeology and comparative institutional evidence.",
+  "release": "AF",
+  "sourceStatus": "Contextual institutional source anchors; independent historical review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goguryeo aristocratic government and regional state",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_005_0050_0010_0020_0020",
+      "role": "Institutional context for palace elites and changing authority beyond the royal center"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje ranks, offices and noble governing institutions",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0050_0010",
+      "role": "Source-conscious account of Baekje central government across capital changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Three Kingdoms: state organization",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h61_0040_0020_0050",
+      "role": "Comparison of royal rank structures, councils and increasing territorial authority"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Traditional Korean bureaucracy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004813",
+      "role": "Specialist survey of institutional change and the source problem for early offices"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Three Kingdoms political and social makeup",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Comparative state-formation synthesis, including royal offices and status distribution"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.5.9:b01",
+      "title": "Capital cities as instruments of rule",
+      "paragraphs": [
+        "A capital was a place where royal power could be made visible through audiences, ceremonies, offices and built surroundings. It also needed food, artisans, guards and communication with regions beyond its walls. A planned palace's scale does not demonstrate that every district in a king's domain followed the same commands. The capital's importance changed as warfare and shifts of royal residence reorganized access to resources. Archaeological foundations help locate buildings, but interpreting a room as a specific office requires supporting evidence. A history of government should ask why elites gathered in a particular place and how that location affected the practical reach of administration."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH Goguryeo court and regional authority studies"
+        }
+      ]
+    },
+    {
+      "id": "III.5.9:b02",
+      "title": "Goguryeo's river and mountain centers",
+      "paragraphs": [
+        "Goguryeo's early heartlands around the Yalu and its later center at Pyongyang reveal different geographical conditions for government. Wandu and other strongholds served strategic needs that should not be flattened into a single continuous capital complex. The move to Pyongyang in 427 under Jangsu is a recorded political decision with long-term implications for diplomacy, defense and administration. It did not erase earlier settlements or terminate their local importance. Fortified ridges, river routes and agricultural hinterlands all affected how a court was sustained. Archaeological identifications and phases need careful dating, especially where later construction overlaid earlier remains."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "III.5.9:b03",
+      "title": "The Gwanggaeto stele and imperial geography",
+      "paragraphs": [
+        "Gwanggaeto's monumental inscription records a royal vision of past actions and territorial claims. It is powerful evidence of commemorative language and the political importance assigned to campaigns, but not a neutral map of permanent control. Its text presents royal success, while the practical management of conquered areas depended on forts, local intermediaries and food transport. Comparing the inscription with archaeological settlements and later accounts may clarify political expansion without assuming every described victory created identical administrative structures. Public royal memory was spatial: monuments placed authority within landscapes that could outlast particular reigns. Their survival makes some aspects of power especially visible and others unusually obscure."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH comparative Three Kingdoms political system overview"
+        }
+      ]
+    },
+    {
+      "id": "III.5.9:b04",
+      "title": "Baekje's Hanseong loss and new court",
+      "paragraphs": [
+        "The loss of Hanseong in 475 to Goguryeo forced Baekje's ruling institutions to relocate to Ungjin. A change in capital could threaten aristocratic arrangements, alter access to agricultural resources and place different local elites in proximity to the king. The chronicle narrative of a military disaster does not describe every family's movement or the exact fiscal consequences. Archaeological sites in and around Gongju add evidence of royal patronage and imported material forms. The political meaning of relocation therefore extends beyond military geography. It shows the dependence of royal institutions on a material center and their potential adaptability when that center was lost."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "III.5.9:b05",
+      "title": "Sabi and the material ordering of office",
+      "paragraphs": [
+        "Baekje's transfer to Sabi under Seong in 538 is associated with an increasingly elaborate central governmental framework. Buildings, fortifications and the wider landscape of Buyeo City can be studied alongside accounts of offices and ranks. Yet dating particular architectural phases and matching them to named departments are distinct tasks. The adoption of continental-looking design elements should not be equated with total political imitation. An urban center offered a setting for coordinating elites and ceremonial authority while drawing supplies from a regional hinterland. Its development expressed dynastic ambition through spatial organization, but the people whose labor built and maintained the city are rarely identified in royal sources."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH state formation and social organization English synthesis"
+        }
+      ]
+    },
+    {
+      "id": "III.5.9:b06",
+      "title": "Silla's Gyeongju-centered politics",
+      "paragraphs": [
+        "Silla's royal capital at Gyeongju developed amid the political relationships of its six bu and the consolidation of a dominant royal line. Tomb mounds, urban remains and inscriptions together reveal growing concentrations of status and ritual activity. A ruler's ability to direct construction or burial commemoration implies resource mobilization but not the precise institutional rules behind it. The city grew over time; the monumental Gyeongju visible today contains remains from periods before and after 668. Distinguishing their chronology is necessary because this Chapter addresses the Three Kingdoms era, while the broader unified realm's capital administration belongs to IV.2. Urban continuity should not erase institutional change."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "III.5.9:b07",
+      "title": "Palace complexes and court life",
+      "paragraphs": [
+        "Palaces housed ritual and administrative practices as well as members of ruling households. Archaeologists can identify platforms, walls, water features and decorated materials; written sources may associate a court with particular ceremonies or officials. The archaeological remains usually do not preserve a full room-by-room schedule of government. A luxurious compound might project an image of harmony while concealing political competition among those allowed entry. Retainers, servants and guards supported daily operation. The relationship between formal offices and household influence becomes especially clear when a council or royal relative had access to the palace. Spatial prestige and procedural authority worked together but cannot simply be equated."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH Baekje ranks and offices across capital transitions"
+        }
+      ]
+    },
+    {
+      "id": "III.5.9:b08",
+      "title": "Sacred places within political landscapes",
+      "paragraphs": [
+        "Royal tombs, Buddhist temples and older ritual landmarks could reinforce the significance of a capital. The chronology of Buddhist establishment varied among the kingdoms, and later memory sometimes links religious sites to foundation legends whose exact early details are uncertain. Patronage expressed relationships among rulers, elite families and religious communities. It also placed demands on artisans and transport networks. An imported iconographic style is not itself proof of foreign political control. Public sacred landscapes could help legitimate authority while allowing different local traditions to continue. Government geography included such places because political loyalty was secured through ceremonial and social relationships as well as through commands."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "III.5.9:b09",
+      "title": "A capital's influence depended on routes",
+      "paragraphs": [
+        "The court required communications with officials and elites elsewhere, whether over river passages, mountain roads or coastal routes. Travel conditions changed seasonally, and a planned network cannot be inferred from the location of archaeological sites alone. Military garrisons could protect vital corridors but also demand grain and carriers from surrounding communities. Control of a bridge or mountain pass might matter more to practical administration than the size of an ornate building. A capital therefore functioned as one node within changing routes of exchange and coercion. Some distant districts could be linked through local partners rather than directly staffed bureaucracies."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "AKS institutional history of early offices"
+        }
+      ]
+    },
+    {
+      "id": "III.5.9:b10",
+      "title": "Government was geographically situated",
+      "paragraphs": [
+        "The capitals of Goguryeo, Baekje and Silla were not interchangeable ceremonial backgrounds. Their location affected defense, elite participation, resource collection and external contact, while moves or expansions changed the composition of court society. Archaeological evidence makes planning and construction visible; texts reveal selected political decisions, and neither archive alone supplies the everyday history of all inhabitants. This article owns the comparative geography of government rather than urban life in individual kingdom chapters or postwar Gyeongju institutions in IV.2. State formation required durable centers without producing uniform territorial power. Royal authority was always exercised somewhere, through people who kept a center connected to its surroundings."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

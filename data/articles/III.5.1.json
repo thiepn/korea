@@ -1,0 +1,167 @@
+{
+  "id": "III.5.1",
+  "title": "From Sacred Rulers to Territorial Monarchs",
+  "kicker": "THE THREE KINGDOMS · INSTITUTIONAL HISTORY",
+  "description": "Source-critical comparative history of from sacred rulers to territorial monarchs, distinguishing transmitted royal records, epigraphy, institutions and material evidence.",
+  "release": "AF",
+  "sourceStatus": "Institutional reference anchors are contextual; specific interpretations remain qualified and await independent specialist review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goguryeo aristocratic council and changing political authority",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_005_0050_0010_0020_0020",
+      "role": "Specialist analysis of Goguryeo council institutions, fifth- and sixth-century political shifts and limits of reign-focused reconstructions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje central administration, ranks and noble meetings",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0050_0010",
+      "role": "Specialist examination of Baekje ranks, officeholding and council relations across Hanseong, Ungjin and Sabi periods"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Three Kingdoms political organizations",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h61_0040_0020_0050",
+      "role": "Comparative introduction to Goguryeo, Baekje, Silla titles, centralized authority and aristocratic consultation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "History of Korean bureaucracy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004813",
+      "role": "Diachronic interpretive reference to early state institutions, titles and later bureaucratic reforms"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: political and social development of the Three Kingdoms",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional English synthesis comparing the bu order, noble councils, rank systems and social categories"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.5.1:b01",
+      "title": "The uncertain boundary of early kingship",
+      "paragraphs": [
+        "The histories of Goguryeo, Baekje, and Silla conventionally begin with royal founders, yet the earliest recoverable political arrangements cannot be read directly from later narratives of miraculous births or dynastic inauguration. Samguk sagi, compiled in the twelfth century, ordered much earlier material into successions whose dates and detail are not uniformly secure. Accounts of sacred descent expressed an entitlement to rule and connected the living court to a remembered past. They did not necessarily describe a tightly governed territory at the moment assigned to an ancestor. Historians therefore distinguish the emergence of ruling lineages, the consolidation of local alliances, and the later apparatus capable of claiming authority over extensive regions."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "NIKH specialist Goguryeo council and aristocratic institutional transformation"
+        }
+      ]
+    },
+    {
+      "id": "III.5.1:b02",
+      "title": "The bu as a social and political framework",
+      "paragraphs": [
+        "Early Goguryeo and Baekje are associated with five bu, while accounts of Silla describe a six-bu arrangement. The term does not retain one meaning through every period: it could denote powerful affiliated groups before later taking on more territorially or administratively defined functions. The National Institute of Korean History treats the conversion of earlier bu leaders into central nobility as an important dimension of state formation. That process was not merely a royal order dissolving local society. Leading families acquired new offices while attempting to protect existing followers, property and prestige. A changing terminology of districts and divisions reveals political negotiation more reliably than a simplified ladder from tribe to state."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "III.5.1:b03",
+      "title": "Ritual claims and the work of authority",
+      "paragraphs": [
+        "Rulers could present themselves as descendants of extraordinary ancestors, sponsors of religious rites, or mediators of a sacred order. Such language mattered because followers needed reasons to recognize an individual's claims beyond immediate military force. But a founding myth is not a transcript of a ceremony, and the historian cannot invent its gestures or participants. Archaeological investment in royal burials and ceremonial spaces offers another form of evidence for the public presentation of distinction, though identifying a tomb with a named early sovereign is often disputed. Religious legitimation and territorial administration intersected without becoming identical institutions. A king revered for ancestry still depended on food, armed support and local cooperation."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "NIKH comparative Three Kingdoms central government account"
+        }
+      ]
+    },
+    {
+      "id": "III.5.1:b04",
+      "title": "Goguryeo across the Yalu highlands",
+      "paragraphs": [
+        "Goguryeo's growth from an upland and riverine political setting illustrates the relationship between geography and authority. Mountain strongholds, valleys, and transport corridors could be commanded in uneven degrees; nominal allegiance from a distant group did not necessarily ensure regular collection of revenue. Accounts of early rulers suggest conflict among leading houses and outward expansion, but their chronological sequences require comparison with outside records and material evidence. The movement from a coalition of powerful groups toward monarchic governance was neither automatic nor uniformly complete. Earlier northern communities remain the subject of II.4; this discussion concerns how Goguryeo's ruling institutions increasingly claimed the power to coordinate a larger political realm."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "III.5.1:b05",
+      "title": "Baekje from Han basin coalition to royal state",
+      "paragraphs": [
+        "Baekje's Han River origins and later development show how a court could draw diverse local notables into a stronger political center. Narratives of Onjo and early successors are significant evidence of later dynastic memory, but their exact early chronology is debated. By the fourth century, Baekje appears as an important regional power, suggesting a level of coordination not adequately explained by founder genealogy alone. Elite cemeteries, settlement concentrations and changing external contacts illuminate resources and social differentiation. A royal institution could regulate diplomatic relationships while leaving many customary local arrangements in place. Centralization was a cumulative alteration of who could decide, mobilize and represent communities."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "NIKH English comparative history on elite status and political order"
+        }
+      ]
+    },
+    {
+      "id": "III.5.1:b06",
+      "title": "Silla royal titles and the Naka region",
+      "paragraphs": [
+        "Early Silla tradition remembers several royal titles, including geoseogan, chachaung, isageum and eventually maripgan or wang in changing political circumstances. Their etymologies and practical powers should not be treated as a series of precisely dated constitutional offices. The six-bu framework and elite clan relationships shaped the space in which a royal line gained precedence. Fifth- and sixth-century inscriptions provide more contemporary evidence for how rule and responsibility were expressed than the earliest written founder stories. Their formulas reveal an emerging administrative language while preserving strong aristocratic participation. Kingship grew by absorbing and ranking local authority rather than simply displacing every important house."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "III.5.1:b07",
+      "title": "Law codes as political projects",
+      "paragraphs": [
+        "The reported promulgation of laws under Goguryeo's Sosurim and Silla's Beopheung represents efforts to regularize authority, though the full texts of those early codes do not survive. A later annal entry saying that laws were enacted cannot establish every penalty or guarantee even enforcement. Such measures operated alongside changes in ranks, religious patronage and relations with powerful families. The ability to announce law was itself a claim that judgment should belong to a wider political order. Whether individual communities complied depended on officials, military protection and local intermediaries. Centralized law was a political aspiration with material conditions, not an instantaneous disappearance of older norms."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "NIKH specialist Baekje rank and governance section"
+        }
+      ]
+    },
+    {
+      "id": "III.5.1:b08",
+      "title": "Sovereignty expressed in inscriptions",
+      "paragraphs": [
+        "Goguryeo's Gwanggaeto stele and Silla's sixth-century inscribed monuments demonstrate how rulers and elites represented their authority in durable materials. Inscriptions establish wording and commemorative purposes at particular dates, while statements of conquest or beneficence require evaluation as political claims. They are not transparent census reports or complete histories of campaigns. Their importance for institutional history lies in making visible offices, titles, relationships and public ideas of rule. Distinctions between an inscription's surviving text, a later chronicle's rendering and a modern translation should remain explicit. A powerful royal image might be projected widely even where local governing capacity was contested."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "III.5.1:b09",
+      "title": "Territory required more than a royal claim",
+      "paragraphs": [
+        "Fortresses, grain stores, roads, mobile garrisons, legal officials and cooperating landed families all mattered to the extension of monarchy. A ruler could win a battlefield encounter without immediately organizing a sustainable chain of provincial administration. Conversely, agreements with local notables might bring long-lasting control without a famous military event. Different environmental regions demanded different forms of oversight. The origins of territorial rule should therefore be examined through the practical ability to extract resources, deliver decisions and defend communications. Comparing these capacities gives a clearer view of state formation than assigning a modern colored map to each king's reign. Kingship was an evolving relationship between a center and many local societies."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "AKS historical study of early Korean bureaucratic offices"
+        }
+      ]
+    },
+    {
+      "id": "III.5.1:b10",
+      "title": "Sacred history and administrative history together",
+      "paragraphs": [
+        "Royal legitimacy remained entangled with ancestral memory and religious patronage even as offices and regional arrangements became more complex. The evidence does not support a story in which 'sacred' kingship simply vanished and 'secular' administration replaced it. Goguryeo, Baekje and Silla made different institutional choices as their political scale changed. This article establishes the progression from prestigious leadership to claims of broad jurisdiction; III.5.2 treats succession and the royal household, while III.5.6 examines governing territory. Dynastic campaigns remain owned by III.1–III.4. A sound comparative history describes the coexistence of ritual, aristocratic negotiation and increasingly formal government rather than treating all kingdoms as versions of one constitutional sequence."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

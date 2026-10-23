@@ -1,0 +1,161 @@
+{
+  "id": "VI.6.8",
+  "title": "Sijeon, Jangsi, Merchants, and the Growth of Markets",
+  "kicker": "EARLY JOSEON · MARKETS AND EXCHANGE",
+  "description": "From planned Hanseong shops to the famine-related emergence of provincial jangsi, including merchant agency, dating and economic limitations.",
+  "release": "AF",
+  "sourceStatus": "Institutional source anchors; independent scholarly peer review not completed",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jangmun: fifteenth-century provincial periodic markets",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048454",
+      "role": "Specialist history of early jangmun or jangsi with 1473 Jeolla famine discussion and later market evolution."
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jongnu: state-supervised early Hanseong commercial streets",
+      "url": "https://encykorea.aks.ac.kr/Article/E0052922",
+      "role": "Historical reference for the early fifteenth-century development and organization of Hanseong's Jongnu sijeon streets."
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "The historical formation of markets in Korea",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032448",
+      "role": "Specialist historical assessment of market practice, paper-money and coin experiments, grain and cloth exchanges."
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Economic structure of early Joseon",
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist early Joseon economic synthesis used for fiscal, household, agricultural and governmental institutional chronology."
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.6.8:b01",
+      "title": "Exchange within a primarily agricultural kingdom",
+      "paragraphs": [
+        "Early Joseon households produced much of what they consumed, but the need for salt, tools, textiles, food in times of shortage and specialized services supported varied forms of exchange. A largely agrarian state was not an economy without merchants. Transactions could occur through local relationships, itinerant sellers, government allocations and organized urban retail. The visibility of such activity in official records was unequal because administrators were especially concerned with taxation and regulated trade. The history of markets must therefore distinguish the existence of exchange from a particular legally recognized market institution. A decree limiting merchants does not imply that households ceased to buy or sell needed goods."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "This historical reference substantiates the period and institutional setting; local merchant practice is inferred cautiously.",
+          "locator": "AKS Jangmun late-fifteenth-century Jeolla origin and periodic market chronology"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.8:b02",
+      "title": "Hanseong's sijeon and planned streets",
+      "paragraphs": [
+        "The new capital's commercial streets were part of the construction of Hanseong as a royal administrative center. The Academy of Korean Studies describes the planning and phased building of market-frontage structures along the Jongnu area in the early fifteenth century, including projects under Taejong. These arrangements responded to governmental and urban household demand while allowing authorities to supervise important sellers. A planned row of shops is material evidence of organized retail, not a complete census of all exchange across the city. Smaller traders and unregulated sellers also mattered. The public role of sijeon connected commerce to urban order and the needs of official institutions."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.8:b03",
+      "title": "Licenses, obligations and merchant autonomy",
+      "paragraphs": [
+        "Recognized shops could enjoy access to particular sites and government business while facing requirements to provide goods or conform to official supervision. The arrangements changed over time and should not be equated immediately with the later six licensed shops and eighteenth-century disputes over monopoly. An early-fifteenth-century shopkeeper operated within a political environment that valued dependable provisioning of the capital. The state might regulate prices or market conduct, but its reach over every small transaction was limited. Individual merchants could also negotiate with officials and customers. The relationship between oversight and benefit was therefore complex, not a universal prohibition on commerce or an unrestricted modern market."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "This historical reference substantiates the period and institutional setting; local merchant practice is inferred cautiously.",
+          "locator": "AKS historical market discussion, early transactions and later differentiation"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.8:b04",
+      "title": "Jangsi were not ancient fixed five-day markets",
+      "paragraphs": [
+        "Provincial periodic markets developed through historically specific circumstances rather than existing fully formed from the beginning of Joseon. The Academy of Korean Studies reports the emergence of jangmun or jangsi during a severe Jeolla famine in the late fifteenth century, with a court discussion noted in 1473. Early meetings were not necessarily the standardized five-day circuits familiar from much later periods. Descriptions of mature national networks belong especially to post-sixteenth-century and late Joseon history. Placing the origins correctly is essential for an early-period Chapter. A local initiative undertaken during scarcity might later develop into a recognized institution with broader economic and social roles."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.8:b05",
+      "title": "Scarcity as an origin of organized exchange",
+      "paragraphs": [
+        "The 1473 Jeolla discussion is revealing because local people organized exchange in response to shortages, while officials argued over whether such gatherings helped the hungry or threatened order. The surviving report does not preserve the voice of each merchant or purchaser, and later interpretations differ on the immediate consequences. It nevertheless demonstrates that trade could be regarded both as a practical survival strategy and as an object of administrative anxiety. A market might transfer food toward people with purchasing power, yet could not guarantee the poorest gained access. Understanding its emergence therefore requires attention to famine, regulation and economic inequality, not just growth in the number of stalls."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "This historical reference substantiates the period and institutional setting; local merchant practice is inferred cautiously.",
+          "locator": "AKS Jangmun late-fifteenth-century Jeolla origin and periodic market chronology"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.8:b06",
+      "title": "Merchants and transport intermediaries",
+      "paragraphs": [
+        "People who moved goods between districts helped connect producers to consumers who lacked the materials locally available elsewhere. Their work required knowledge of roads, river conditions, supply relationships and the timing of public obligations. Written sources sometimes disparaged profit-seeking and therefore need interpretation as moral and political interventions rather than neutral evaluations of actual merchant behavior. A trader could supply households, temples or official projects through different arrangements. No comprehensive merchant register exists for every region in early Joseon. The role of commerce should be assessed through its practical functions and evidence of regulation, while acknowledging that much everyday exchange left only faint archival traces."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.8:b07",
+      "title": "Goods, prices and nonmonetary transactions",
+      "paragraphs": [
+        "Grain and cloth could function as media of exchange even where the court experimented with officially promoted money. A transaction might be settled through goods, delayed obligation or metal currency depending on local practices and policy. The price quoted in one record cannot automatically be converted into a nationwide index of purchasing power. Market conditions varied sharply between the capital and areas distant from transport corridors. Sijeon transactions also differed from small rural barter or crisis purchases. A historical account should avoid assuming that monetization or commercial growth proceeded uniformly across regions. Product circulation was important without requiring a single national price system."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "This historical reference substantiates the period and institutional setting; local merchant practice is inferred cautiously.",
+          "locator": "AKS historical market discussion, early transactions and later differentiation"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.8:b08",
+      "title": "The contrast between formal rules and actual transactions",
+      "paragraphs": [
+        "Regulations could establish places for authorized sellers, discourage some trade or assign duties, yet ordinary households continued to need exchange when harvests failed or local resources were insufficient. A prohibition recorded in a royal discussion reveals official concern, not perfect enforcement. Merchants might use personal ties to obtain protection or permission, while small traders operated beyond the most visible institutions. Archaeological finds of imported objects indicate circulation but do not establish whether they arrived through licensed shops. Good economic history combines texts on supervision with material and geographical evidence, avoiding the conclusion that the state's preferred arrangement describes the whole market."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.8:b09",
+      "title": "Urban and rural markets served distinct communities",
+      "paragraphs": [
+        "Capital retail provision was closely tied to officials, elite households and a concentrated urban population. Provincial periodic gatherings often responded to rural production patterns, seasonal shortages and travel routes, but their institutional development was not identical. Transport costs shaped which goods could be sold economically at distance. A village market might also become a place to exchange information and maintain relationships, though the nature of those gatherings changed as networks expanded. The tendency to discuss only Hanseong's shops obscures provincial agency; depicting every rural merchant as an early five-day-market trader creates a different anachronism. Both forms require their own chronological and social contexts."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "This historical reference substantiates the period and institutional setting; local merchant practice is inferred cautiously.",
+          "locator": "AKS Jangmun late-fifteenth-century Jeolla origin and periodic market chronology"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.8:b10",
+      "title": "Commerce developed within contested institutions",
+      "paragraphs": [
+        "Early Joseon trade combined state-organized urban shops with less formal and evolving regional exchanges. Its history cannot be described accurately either as a complete absence of markets before the late fifteenth century or as a mature nationwide five-day-market system from 1392. This section owns sijeon, early jangsi and merchant relations; the larger commercialization of the seventeenth and eighteenth centuries belongs to VII.6. The strongest explanation traces how supply needs, famine, state oversight and household initiative produced multiple forms of economic contact. Markets were social responses to practical problems as well as institutions rulers attempted to classify and control."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

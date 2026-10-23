@@ -1,0 +1,167 @@
+{
+  "id": "VI.6.1",
+  "title": "Gwajeonbeop, Official Land Rights, and the Early Joseon Land Settlement",
+  "kicker": "EARLY JOSEON · LAND AND AGRARIAN ECONOMY",
+  "description": "Original documentary and social-economic reading of gwajeonbeop, official land rights, and the early joseon land settlement, distinguishing fiscal rights, lived practice and changing land use.",
+  "release": "AF",
+  "sourceStatus": "Institutional sources contextualize specific reforms; independent scholarly review remains outstanding",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Revised Korean History: Economic structure of early Joseon",
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist survey of land rights, fiscal systems, household obligations, agriculture and economic institutions"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gwajeonbeop, rights and subsequent legal changes",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004611",
+      "role": "Expert discussion of 1391 royal reform, tax entitlement versus land title and 1466/1470 changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Sejong's directive for agriculture and Nongsa jikseol",
+      "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_082_0010&tabId=03&treeId=010502",
+      "role": "Contextual primary-source commentary on the 1429 agronomic project and knowledge transmission"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Gongbeop, the six land qualities and nine harvest classes",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004304",
+      "role": "Detailed specialized tax history, promulgation in 1444, phased adoption and administrative tensions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Joseon farming and society",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional overview used only as contextual synthesis rather than proof of all local conditions"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.6.1:b01",
+      "title": "Reform at a dynastic threshold",
+      "paragraphs": [
+        "The Gwajeonbeop reform, enacted in 1391 before Joseon's formal foundation in 1392, altered the economic bases of government in the aftermath of disputes over Goryeo land and revenue claims. It did not simply decree that the monarch owned all farmland. Scholarship on the institution distinguishes a recipient's recognized right to collect produce from a cultivator's or landholder's separate property claims. Reformers aimed to reorganize official income, restrict competing private privileges and reassert administrative oversight. The written regulation reveals political priorities, while local implementation depended on surveys and existing relationships. A law enacted at court cannot by itself tell us how immediately every household experienced changed obligations."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "NIKH early Joseon economy, landownership and agriculture chapter"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.1:b02",
+      "title": "Jeonju, jeongin and separate kinds of rights",
+      "paragraphs": [
+        "The terms often rendered landholder, recipient of land revenue and actual cultivator describe relationships that did not collapse neatly into one modern concept of property. An official could be assigned fiscal benefits without becoming the absolute owner of the soil. Those working the land could have recognized rights and ongoing obligations that the reform sought to make more orderly. Historical interpretation becomes distorted when a tax entitlement is described casually as a gift of freehold acreage. The Academy of Korean Studies' Gwajeonbeop account emphasizes this structural difference. Understanding it is essential for explaining how a centralized dynasty could depend economically on privately cultivated fields without personally possessing every plot."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.1:b03",
+      "title": "The political problem of private estates",
+      "paragraphs": [
+        "Late Goryeo controversies concerned the concentration of collections, private holdings, immunities and the difficulties of sustaining a central fiscal system. Reformers attacked arrangements they regarded as economically and politically destructive, but the surviving evidence does not establish that every estate operated identically. Powerful households, temples and officials could use recognized or contested claims in different ways. The reform created winners and losers among elites while raising expectations for a more stable rural order. Those motives should not be confused with a universal redistribution of land to peasant proprietors. Its central issue was the relationship between fiscal rights, the service of officials and the state's capacity to levy taxes."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "NIKH Sejong agricultural directive and Nongsa jikseol commentary"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.1:b04",
+      "title": "Gyeonggi and the geography of allocation",
+      "paragraphs": [
+        "A central feature of the new arrangement was concentrating many official revenue grants in the Gyeonggi region around the capital, though rules and exceptions varied over time. Geography mattered because royal authority and administrative supervision were strongest near the court, and delivery of produce was less costly over shorter routes. A regulation naming a district cannot show that every parcel within it was available for reassignment. Population density, farming conditions and prior claims shaped implementation. The spatial concentration of grant rights also reveals the political nature of reform: officials were supported through resources near the core of power rather than automatically being given distant estates to govern themselves."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.1:b05",
+      "title": "Rank, salary and public service",
+      "paragraphs": [
+        "Gwajeon allotments were related to official rank and status, linking livelihood to recognized participation in the new dynasty's administrative order. This did not create one uniform professional salaried service independent of lineage and patronage. Disputes over allocation and inheritance revealed tensions between public office and familial security. A higher grade could provide a more substantial income claim, but its real value depended on actual cultivation and collection. A register of expected entitlements is not a harvest account. Officeholding thus required coordination between legal definition and productive activity, and a reform meant to strengthen central authority could still produce new opportunities for elite contest over resources."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "NIKH English overview of early Joseon agrarian society"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.1:b06",
+      "title": "What cultivators could experience",
+      "paragraphs": [
+        "A household growing crops might be required to render part of its output to a recognized recipient or public treasury while retaining seed and subsistence. How much it actually surrendered depended on fields, weather, enforcement and the number of overlapping demands. The reform's stated protective aims should be tested against evidence of local practice rather than assumed universally successful. Farmers were not abstract acreage units; they managed labor and risk under obligations partly set by people outside the household. Administrative inspection could reduce arbitrary extraction in some places and create new disputes in others. A balanced account connects state finance to the conditions of those who made income claims valuable."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.1:b07",
+      "title": "The survey as a form of power",
+      "paragraphs": [
+        "Recording fields and assessing their productive quality made land intelligible to the government in ways oral or local knowledge alone did not. The act of surveying required trained personnel, local testimony and decisions about boundaries. It could identify concealed claims but also generate opportunities for influence, error or corruption. Repeated reassessment was necessary as cultivation expanded and fields changed. Documents classified land for fiscal purposes, not as an exhaustive picture of customary use. A recorded unit of land cannot be translated straightforwardly into a modern square-meter area without attention to historical measurement and yield categories. Surveying was a practical and contested foundation of reform."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "AKS Gwajeonbeop legal right and chronology review"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.1:b08",
+      "title": "Sujeon and family expectations",
+      "paragraphs": [
+        "The early system included rights later associated with the support of an official's surviving household, including the well-known sujeonjeon and hyulyangjeon provisions. These mechanisms responded to the difficulty of maintaining dependents when office income ended. Their existence also made fiscal rights attractive objects of family strategy and could reduce the amount available for future allocation. The arrangements were not fixed throughout Joseon history. A source that describes them for one period cannot be projected unchanged across all early reigns. The balance between rewarding service and preventing hereditary accumulation became a recurring issue that motivated further changes to the land settlement."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.1:b09",
+      "title": "Jikjeonbeop and changing priorities",
+      "paragraphs": [
+        "In 1466, the Jikjeonbeop shifted important grants toward serving officials and reduced some inherited claims, modifying the earlier framework. A further change in 1470 toward government collection and distribution altered the relationship between recipients and cultivators. These reforms indicate that Gwajeonbeop was not a stable constitution of rural life for centuries. They also clarify why a history confined to 1391 would miss the institution's evolving political consequences. Fiscal privileges had to be repeatedly reconciled with royal needs, the supply of arable land and disputes among officeholders. Legal amendments were responses to changing realities rather than evidence that the original rules had been perfectly enforced."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The referenced Joseon agrarian source supports the legal or technological setting; local practice is reconstructed with acknowledged uncertainty.",
+          "locator": "AKS Gongbeop reform and field assessment history"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.1:b10",
+      "title": "Land reform without a simple moral verdict",
+      "paragraphs": [
+        "Gwajeonbeop reorganized a vital intersection of revenue, land rights and bureaucratic livelihood, but its effects cannot be reduced to a uniformly egalitarian reform or an uncomplicated victory of state ownership. The legal distinctions among cultivation, ownership and taxation matter, as do changes during the fifteenth century. The chapter on Goryeo's Jeonsigwa and land concentration owns the preceding dynastic history, while this section examines Joseon's new settlement and its consequences. Subsequent sections treat rural households, agricultural techniques and tax assessment. The central lesson is that law could rearrange claims over a harvest while the underlying labor of producing it remained indispensable and socially unequal."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

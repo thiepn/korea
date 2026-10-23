@@ -1,0 +1,161 @@
+{
+  "id": "VI.6.10",
+  "title": "Currency, Transport, Shipping, and Domestic and International Trade",
+  "kicker": "EARLY JOSEON · TRANSPORT AND TRADE",
+  "description": "Source-critical account of jo-un shipping, collection warehouses, early currency efforts, inland routes and interstate exchange.",
+  "release": "AF",
+  "sourceStatus": "Contextual expert reference anchors; independent specialist review not performed",
+  "sources": [
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Jo-un: grain transport to royal warehouses",
+      "url": "https://encykorea.aks.ac.kr/Article/E0052436",
+      "role": "Specialist jo-un shipping history of grain warehouses, river and coastal transport, associated labor and institutional risk."
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Market history, official money and commercial practice",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032448",
+      "role": "Specialist historical assessment of market practice, paper-money and coin experiments, grain and cloth exchanges."
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Early Joseon economic structure, state finance and movement",
+      "url": "https://db.history.go.kr/id/nh_024_0010",
+      "role": "Specialist early Joseon economic synthesis used for fiscal, household, agricultural and governmental institutional chronology."
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Early Hanseong market planning around Jongnu",
+      "url": "https://encykorea.aks.ac.kr/Article/E0052922",
+      "role": "Historical reference for the early fifteenth-century development and organization of Hanseong's Jongnu sijeon streets."
+    }
+  ],
+  "blocks": [
+    {
+      "id": "VI.6.10:b01",
+      "title": "Moving goods across varied landscapes",
+      "paragraphs": [
+        "The early Joseon economy depended on movement across mountains, valleys, rivers and coastal waters. Supplies needed by Hanseong could originate far beyond its agricultural hinterland, while households relied on exchange for goods not locally produced. Travel conditions varied by season, distance and weather, so a straight line between two named sites does not reconstruct an actual route. Transport required people, vessels, animals, storage and agreements over responsibility for loss. The existence of an official distribution order does not demonstrate that all goods arrived promptly. Economic integration was achieved through maintained networks of practical labor rather than automatically following from the proclamation of a centrally governed kingdom."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited economic reference identifies shipping and exchange institutions, not uniform actual costs or complete commercial volumes.",
+          "locator": "AKS Jo-un transport, warehouse and state shipping system"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.10:b02",
+      "title": "Jo-un and the movement of tax grain",
+      "paragraphs": [
+        "Jo-un was a system of shipping grain collected as tax from regional government warehouses toward central storage. The Academy of Korean Studies explains its importance to both Goryeo and Joseon finance, including the use of the western and southern maritime coasts and navigable river systems. Grain was concentrated, recorded, loaded and transferred through multiple administrative and transport stages. The scheme did not render overland movement irrelevant, because fields and villages had to reach collection points. A record of nominal grain tax alone hides the expense and danger of delivery. Jo-un linked agriculture and government spending through a demanding physical infrastructure."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.10:b03",
+      "title": "Warehouses, ports and coastal geography",
+      "paragraphs": [
+        "The location of jo-chang collection warehouses and suitable harbors affected the cost of gathering fiscal grain. Ports exposed ships to tides, storms and seasonal hazards, while river access could be limited by depth or changing channels. An official may have planned a route, yet actual departure depended on weather, vessel maintenance and available crews. Archaeological identification of an old landing site does not always establish its use in a particular decade. The geographical pattern of public shipping reveals priorities of the early state but must be reconstructed through dated administrative and material sources. Warehousing and sea transport were related systems rather than two independent functions."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited economic reference identifies shipping and exchange institutions, not uniform actual costs or complete commercial volumes.",
+          "locator": "NIKH early Joseon economy and fiscal networks"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.10:b04",
+      "title": "Sailors and the hidden labor of revenue",
+      "paragraphs": [
+        "Government fleets relied on helmsmen, rowers, loaders, shipwrights and officials overseeing cargo. Their labor was indispensable to the royal finances but is often visible only when regulations allocate duties or when accidents prompted investigation. Records of ship capacity or the number of vessels describe planned resources, not the daily experience of an individual crew. Dangerous voyages could place households at risk while the state prioritized delivery schedules. The organization of maritime service varied over time, and later detailed rules should not be transferred automatically into fifteenth-century practice. A transport history becomes social history when it considers the people whose expertise made fiscal shipping possible."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.10:b05",
+      "title": "Loss, inspection and institutional accountability",
+      "paragraphs": [
+        "Tax grain might spoil, be damaged by water or be misappropriated during loading and transfer. Governments attempted to reduce loss through measures governing receipts, inspections and responsibility for vessels. A formal penalty for missing cargo does not prove the absence of corruption or the fairness of every investigation. The distinction between grain assessed, recorded at a warehouse and received in the capital matters whenever fiscal totals are compared. State authority depended on verification at several stages rather than on a single official's promise. The institutional response to loss demonstrates that physical risks and incentives were recognized problems, not marginal details in a supposedly seamless centralized system."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited economic reference identifies shipping and exchange institutions, not uniform actual costs or complete commercial volumes.",
+          "locator": "AKS Jo-un transport, warehouse and state shipping system"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.10:b06",
+      "title": "Coinage projects and limited adoption",
+      "paragraphs": [
+        "Early Joseon authorities experimented with forms of officially sanctioned currency, including paper money and coin issues associated with the reigns of Taejong and Sejong. Such initiatives should not be confused with a successful nationwide cash economy. The Academy of Korean Studies' market history emphasizes the continuing importance of rice and cloth in exchange and the difficulties of encouraging unfamiliar money forms. A coin can circulate as a prestige item or limited medium without being the standard of all rural prices. The fiscal and social setting shaped public trust. Changes in official monetary policy reveal experimentation rather than an inevitable progression toward modern market currency."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.10:b07",
+      "title": "Rice, cloth and practical units of value",
+      "paragraphs": [
+        "Grain and textile products could function as payments or benchmarks of value even when most transactions were not recorded as coin exchanges. Their suitability depended on storage, quality, portability and seasonality. A roll of cloth could differ in measure and condition, just as the purchasing power of grain varied with scarcity. Official schedules did not eliminate market bargaining or regional price differences. Historians should avoid translating a single historical commodity price into a precise modern purchasing-power equivalent without establishing the relevant basket and context. Monetary history requires attention to actual exchange practices, not only to the names of currencies issued by royal decree."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The cited economic reference identifies shipping and exchange institutions, not uniform actual costs or complete commercial volumes.",
+          "locator": "NIKH early Joseon economy and fiscal networks"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.10:b08",
+      "title": "Domestic routes and regional specialization",
+      "paragraphs": [
+        "Salt from coastal districts, iron tools from craft production and grain from agricultural basins moved through circuits that varied in scale and documentation. Some exchanges took place in official provision networks; others connected households or merchants outside direct state distribution. The same road could serve couriers, military supplies and traders under different conditions. Regional specialization does not automatically prove a fully integrated national market in which prices moved together. Distribution costs, status restrictions and uneven infrastructure mattered. Goods could also pass through several intermediaries, obscuring their origins in the final archaeological findspot. Transport is best understood as a set of overlapping systems rather than one royal supply chain."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "VI.6.10:b09",
+      "title": "Overseas exchange and diplomatic constraints",
+      "paragraphs": [
+        "Joseon's early maritime and overland relationships with Ming China and neighboring Japan included diplomatic missions, regulated exchange and movement of goods under specific political conditions. A court record of official tribute or reception cannot be equated with unlimited private commerce. Restrictions, security concerns and the role of designated ports shaped participation. Goods accompanying envoys could have economic significance while carrying diplomatic meaning. The chronology of agreements and changes in external relations belongs in VI.7; this article addresses their economic implications and the need for logistical networks. It would be misleading to use a later open-port commercial model to explain the early fifteenth-century setting."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The cited economic reference identifies shipping and exchange institutions, not uniform actual costs or complete commercial volumes.",
+          "locator": "AKS Jo-un transport, warehouse and state shipping system"
+        }
+      ]
+    },
+    {
+      "id": "VI.6.10:b10",
+      "title": "Mobility as the condition of economic government",
+      "paragraphs": [
+        "The early Joseon state depended on circulation of tax grain, craft materials, officials and market goods across difficult terrain. Shipping institutions and coinage experiments show attempts to reduce friction and organize value, but their effectiveness varied across places and decades. Public transport was costly and exposed crews and households to hazards, while commercial routes could continue beyond formal offices. This article owns currency, circulation and physical movement, distinct from VI.6.8's markets and VI.6.7's granary finance. The central lesson is that economic centralization required the repeated work of people and infrastructure rather than the existence of a law or a royal capital alone."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

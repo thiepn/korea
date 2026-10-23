@@ -1,0 +1,167 @@
+{
+  "id": "III.5.6",
+  "title": "Provinces, Fortresses, and Territorial Administration",
+  "kicker": "THE THREE KINGDOMS · GOVERNMENT AND LAW",
+  "description": "Comparative source-critical reading of provinces, fortresses, and territorial administration, grounded in court records, NIKH scholarship, archaeology and limits of attribution.",
+  "release": "AF",
+  "sourceStatus": "Contextual scholarly evidence; manuscript has not undergone independent historical specialist review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goguryeo aristocratic councils and political transformation",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_005_0050_0010_0020_0020",
+      "role": "Late aristocratic collective rule, daedaero and uncertain continuity with early jega institutions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje political rank, office and noble council",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0050_0010",
+      "role": "Differentiation of rank, office and aristocratic deliberation, with late Sabi context"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Political organizations of Goguryeo, Baekje and Silla",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h61_0040_0020_0050",
+      "role": "Historical survey of institutional councils and territorial organization"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Bureaucracy in Korean history",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004813",
+      "role": "Specialist reference to official structures and the limits of bureaucratic descriptions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Three Kingdoms governance",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Comparative study of five and six bu, councils, offices, ranks and social distinction"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.5.6:b01",
+      "title": "From affiliation to territory",
+      "paragraphs": [
+        "A royal court's claim to govern expanding land required a transformation of relationships with local leaders. Earlier bu arrangements could retain elements of personal or clan affiliation, while developing administration increasingly identified districts, fortresses and routes as objects of rule. Such transformation was uneven: a strategically important stronghold might receive close attention while an agricultural valley remained governed through a local notable. The archaeological presence of fortification is evidence of defense and investment, not proof of a named resident administrator. A modern map coloring an entire region for one reign cannot by itself show the reach of tax collection, justice or recruitment within it."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "NIKH Goguryeo aristocratic deliberation and late court politics"
+        }
+      ]
+    },
+    {
+      "id": "III.5.6:b02",
+      "title": "Goguryeo fortresses as nodes of power",
+      "paragraphs": [
+        "Goguryeo relied on fortified settlements and strategically placed strongholds in mountainous and riverine environments. Some could protect roads, store grain, organize troops or shelter surrounding populations; their exact functions differed by scale and period. Excavations of walls, gates and occupation deposits can help date phases of use, but the same site could be repaired many times. Connecting every fortress to an office described in a later chronicle would overstate the documentation. Officials and commanders likely depended on existing labor and knowledge to maintain these positions. Fortification formed part of a wider administrative network only when linked by people, supplies and authority capable of surviving local crises."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "III.5.6:b03",
+      "title": "Baekje regional administration through changing capitals",
+      "paragraphs": [
+        "Baekje's court operated from Hanseong, Ungjin and Sabi at different stages, confronting distinct landscapes and political challenges. The move after the loss of Hanseong in 475 compelled adaptation of regional networks, while the Sabi phase developed a more elaborate institutional setting. Some accounts describe five divisions or bang associated with late Baekje territorial government. Their exact boundaries and earlier history must be distinguished from later retrospective descriptions. A named province does not establish the annual volume of produce delivered from it. Territorial management rested on garrisons, local elites, transport and the ability to respond when communities resisted or suffered from disaster."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "NIKH comparative Three Kingdoms governance and ranks"
+        }
+      ]
+    },
+    {
+      "id": "III.5.6:b04",
+      "title": "Silla's consolidation beyond the capital",
+      "paragraphs": [
+        "Silla transformed relationships among the six capital bu and expanded its reach into surrounding territories through military and administrative changes. Provincial office and garrison development accelerated as royal campaigns altered the political map. The distinction between Silla's pre-668 arrangements and the postwar nine-province system is crucial: the latter belongs to IV.2, not the earlier Three Kingdoms organization. Fifth- and sixth-century inscriptions provide direct wording for how rulers and officials issued commands in specific places, although they should not be generalized into an unrecorded nationwide uniform grid. Early Silla's regional administration was a developing political practice, not a miniature version of its later imperial-scale institutions."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "III.5.6:b05",
+      "title": "The local notable as indispensable intermediary",
+      "paragraphs": [
+        "Provincial rule often worked through residents who possessed property, kin networks, knowledge of terrain and capacity to secure labor. A monarch could confer rank or demand allegiance without replacing these actors immediately. Their cooperation helped bring resources into central projects, but could also frustrate commands they considered costly. The balance between appointed officials and locally influential families is poorly documented for many districts. This ambiguity should be treated as a historical problem, not concealed behind a tidy administrative diagram. A recognized title may have meant different practical powers in a frontier fortress and a well-established agricultural heartland."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "NIKH English Three Kingdoms government and society synthesis"
+        }
+      ]
+    },
+    {
+      "id": "III.5.6:b06",
+      "title": "Roads, supply and the practical reach of orders",
+      "paragraphs": [
+        "Communication among fortresses, capitals and settlements depended on corridors shaped by rivers, mountain passes and seasonal conditions. An edict had limited effect if its recipients could not be contacted or if food and soldiers could not reach a contested region. Provisioning garrisons imposed burdens on cultivators and carriers, which could affect the sustainability of expansion. Direct accounts of transport schedules are scarce, so historians should avoid inventing fixed delivery times or a uniform network of road stations. Material remains, settlement geography and recorded campaigns nonetheless demonstrate that logistics mattered to government. The operational territory of a state was created through maintained connections rather than through claims alone."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "III.5.6:b07",
+      "title": "The meaning of territorial titles",
+      "paragraphs": [
+        "Terms translated as province, district, prefecture or command should be examined within the specific polity and period in which they occur. A title resembling a Chinese administrative designation may have been adapted to local circumstances and was not necessarily identical in staffing or jurisdiction. Some terms appear most clearly in late or foreign descriptions, requiring caution about earlier application. Administrative language was a method of defining precedence and expectation, but the hierarchy written in a source is not the same as a complete register of functioning offices. A precise historical atlas should therefore distinguish secure administrative centers, plausible spheres of influence and uncertain regions."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "NIKH Baekje governmental rank and noble body research"
+        }
+      ]
+    },
+    {
+      "id": "III.5.6:b08",
+      "title": "Frontier incorporation and migration",
+      "paragraphs": [
+        "Conquest could be followed by settlement of military households, recognition of local leaders or relocation of people whose loyalties were considered doubtful. Sources often count captives or territory for royal prestige, but their figures and categories deserve scrutiny. A migration might change burial customs or production techniques; material similarity does not prove that all newly excavated residents came from one named population. Local communities could retain customary institutions beneath new political oversight. The same frontier might alternate between periods of direct occupation and looser allegiance. Understanding integration requires attention to populations and everyday institutions, not only to battlefield chronology."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "III.5.6:b09",
+      "title": "Local justice within territorial power",
+      "paragraphs": [
+        "As the kingdoms acquired more territory, disputes over resources and offenses affecting royal interests needed mechanisms of adjudication. We possess too little documentary evidence to map a complete hierarchy of regional courts. Commanders, elders or appointed officials may have exercised different forms of judgment in particular settings, while some matters reached the central court. A surviving law-code announcement does not prove that remote villages received the same procedural protections as residents near the palace. Political reach and legal reach were connected but not identical. Archaeology may reveal coercive infrastructure, yet rarely identifies who heard a specific complaint or decided its outcome."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Institutional scholarship provides comparative context while council practice, local reach and legal enforcement remain bounded inferences.",
+          "locator": "AKS encyclopedia of government and early offices"
+        }
+      ]
+    },
+    {
+      "id": "III.5.6:b10",
+      "title": "A differentiated landscape of authority",
+      "paragraphs": [
+        "Territorial government in the Three Kingdoms rested on multiple scales of control: royal centers, named districts, frontier fortresses and local communities. Regional arrangements changed with campaigns, royal reforms, resource availability and the changing importance of leading households. This comparative section owns administrative reach and logistical structure, leaving the chronology of Goguryeo, Baekje and Silla conquests to their individual Chapters and the post-668 provincial system to IV.2. No surviving source permits a fully filled modern map of early administration. The sound conclusion is that kingship became increasingly territorial through practical institutions whose effectiveness remained variable across places and generations."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "III.5.10",
+  "title": "State Formation Compared across Goguryeo, Baekje, Silla, and the Gaya Polities",
+  "kicker": "THE THREE KINGDOMS · FISCAL AND SPATIAL GOVERNMENT",
+  "description": "A source-critical historical analysis of state formation compared across goguryeo, baekje, silla, and the gaya polities, using dated records, political archaeology and comparative institutional evidence.",
+  "release": "AF",
+  "sourceStatus": "Contextual institutional source anchors; independent historical review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goguryeo aristocratic government and regional state",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_005_0050_0010_0020_0020",
+      "role": "Institutional context for palace elites and changing authority beyond the royal center"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje ranks, offices and noble governing institutions",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0050_0010",
+      "role": "Source-conscious account of Baekje central government across capital changes"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Three Kingdoms: state organization",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h61_0040_0020_0050",
+      "role": "Comparison of royal rank structures, councils and increasing territorial authority"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Traditional Korean bureaucracy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004813",
+      "role": "Specialist survey of institutional change and the source problem for early offices"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: Three Kingdoms political and social makeup",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Comparative state-formation synthesis, including royal offices and status distribution"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.5.10:b01",
+      "title": "Comparison without a single ladder",
+      "paragraphs": [
+        "Goguryeo, Baekje, Silla and the Gaya polities did not all pass through the same political stages at the same time. The familiar label Three Kingdoms foregrounds the dynasties that later dominated narratives but can obscure other substantial centers of authority. Comparison must ask precise questions about royal succession, aristocratic bargaining, fortification, ranked office and resource extraction rather than rating one society as more advanced. Differences in the survival of sources also shape apparent complexity. Goguryeo has major inscriptions and mainland histories; Baekje has archaeological and transmitted records; Silla offers epigraphic and later institutional material; Gaya's political configurations are especially dependent on archaeology and later retrospective accounts."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH Goguryeo court and regional authority studies"
+        }
+      ]
+    },
+    {
+      "id": "III.5.10:b02",
+      "title": "Goguryeo's combination of scale and regional power",
+      "paragraphs": [
+        "Goguryeo developed extensive military and territorial capabilities, but its political order changed through repeated struggles among royal and aristocratic factions. Mountain strongholds, a later Pyongyang center and relationships with northern communities supported government on more than one geographical scale. The presence of a king and prominent councillors did not eliminate the political leverage of regional houses. Large campaigns were possible because resources could be mobilized, not because a complete centralized bureaucracy was already identical throughout the realm. Period-specific evidence prevents fifth-century strength from becoming a misleading portrait of Goguryeo in every earlier or later century. State formation included reversals and renewed elite negotiation."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "III.5.10:b03",
+      "title": "Baekje's adaptability across three capital periods",
+      "paragraphs": [
+        "Baekje's history from Hanseong through Ungjin to Sabi demonstrates institutional continuity combined with major geographical and political disruption. Sixteen ranks and increasingly differentiated offices reveal efforts to organize elite service, while aristocratic networks continued to matter in decisions. The loss of one capital did not dissolve every form of government, yet rebuilding a center required reshaping local alliances and resource flows. Its distinctive archaeology and diplomatic ties should be analyzed rather than treated as proof that institutions were copied wholesale from abroad. Baekje's trajectory resists a simple equation between a stable territory and a stable monarchy. Adaptation to crisis was one aspect of state capacity."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH comparative Three Kingdoms political system overview"
+        }
+      ]
+    },
+    {
+      "id": "III.5.10:b04",
+      "title": "Silla's rank-bound consolidation",
+      "paragraphs": [
+        "Silla's development involved increasingly recognized royal authority, a stratified system of elite eligibility and councils of leading aristocrats. Its territorial growth and rank restrictions must be read together: new communities and elites were drawn into political relationships governed by inherited status distinctions. The earliest uses of royal titles and bu names differ from later institutions. Sixth-century inscriptions make aspects of public command visible, but their local circumstances cannot be expanded without evidence into every village. Silla's eventual regional dominance should not be taken as proof that its state formation was inevitable or uniformly superior. The court's success depended on both institutional choices and contingent military alliances."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "III.5.10:b05",
+      "title": "Gaya as a necessary fourth comparison",
+      "paragraphs": [
+        "Gaya comprised several polities whose political relationships changed across the Nakdong basin and surrounding regions. The label is a useful historical grouping but not the name of one continuously centralized monarchy comparable in all respects to Silla. Burial evidence, iron-related production and exchange illuminate powerful centers, while chronicles often present Gaya through the perspectives of neighboring states. Geumgwan Gaya and Daegaya followed different trajectories. Their eventual incorporation into Silla and Baekje spheres should not turn their prior histories into incomplete attempts at becoming one kingdom. Distinct political forms could mobilize resources and negotiate external relations effectively without reproducing the same rank hierarchy."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH state formation and social organization English synthesis"
+        }
+      ]
+    },
+    {
+      "id": "III.5.10:b06",
+      "title": "Councils and royal initiative in different proportions",
+      "paragraphs": [
+        "All these political worlds contained negotiation among powerful people, but the institutions and surviving records differ. Descriptions of Goguryeo jega, Baekje noble meetings and Silla hwabaek cannot be treated as exact counterparts with the same membership or procedures. In Gaya, local leadership and relations among centers need reconstruction from different kinds of evidence. The significance of a council was conditioned by who controlled armed followers, land and ritual legitimacy. A monarch might consult nobles in one period and suppress rivals in another. Comparing decision making therefore requires attention to changing balances of force rather than assigning constitutional labels independent of chronology."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "III.5.10:b07",
+      "title": "Government and material specialization",
+      "paragraphs": [
+        "Political centers needed agricultural production, ironworking, craft labor and transport to sustain military and administrative projects. Gaya's material evidence for iron technologies and external connections is a reminder that economic sophistication cannot be inferred solely from surviving royal lists. Goguryeo fortifications, Baekje urban investments and Silla elite tombs reflect different expenditures of resources. These objects cannot be converted directly into comparable fiscal totals. What can be studied is the capacity to mobilize specialists, maintain routes and accumulate prestige. Social differentiation and technical skill developed alongside political centralization but did not always follow it in a uniform sequence."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "NIKH Baekje ranks and offices across capital transitions"
+        }
+      ]
+    },
+    {
+      "id": "III.5.10:b08",
+      "title": "The archive privileges winners and literate centers",
+      "paragraphs": [
+        "Later histories and inscriptions tend to preserve the claims of dynasties with lasting literary institutions or those important to later writers. The scarcity of Gaya-written political records may make its institutions look simpler than they were, while a detailed Baekje office list can create a false impression of complete knowledge. Archaeological excavation offers alternatives but also reflects selective survival and modern research intensity. Modern national narratives may prefer a single line of political succession. A critical comparison must make those asymmetries visible. Unequal preservation is not evidence of unequal human capacity or proof that one polity lacked complex ways of governing."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "III.5.10:b09",
+      "title": "No anachronistic national borders",
+      "paragraphs": [
+        "Political territories changed through alliances, campaigns, incorporation and migration; no fixed contemporary national frontier separated early kingdoms in the modern sense. A map of sixth-century power should be dated and distinguish durable control from tributary or contested areas. The label Korean in a modern history volume is a retrospective geographic and cultural organizing term, not necessarily a self-description shared by every ancient inhabitant. Different language communities, regional identities and political allegiances coexisted. State formation should therefore be analyzed within broader northeast Asian networks, without treating imported titles or diplomacy as a permanent measure of sovereignty. The evidence supports dynamic relationships rather than one uninterrupted national state."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Scholarly comparative evidence contextualizes royal resource use and political geography without proving a uniform local arrangement.",
+          "locator": "AKS institutional history of early offices"
+        }
+      ]
+    },
+    {
+      "id": "III.5.10:b10",
+      "title": "Four histories linked by comparative questions",
+      "paragraphs": [
+        "A synthesis of Goguryeo, Baekje, Silla and Gaya shows that kingship, aristocratic politics, offices, territorial administration and revenue capacities developed in historically specific combinations. The resulting states were able to exercise considerable power but remained dependent on households, local elites and contested routes. This article owns comparison of institutional forms, not the full military or dynastic narratives assigned to III.1–III.4 and the Gaya-specific Chapter. It closes the government's Chapter by separating well-attested institutions from later systematizations and uncertain local practice. The value of comparison is to preserve distinct histories while explaining the shared problems of governing people at increasing scales."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}

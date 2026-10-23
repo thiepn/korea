@@ -1,0 +1,167 @@
+{
+  "id": "III.5.2",
+  "title": "Dynasties, Succession, and the Royal Household",
+  "kicker": "THE THREE KINGDOMS · INSTITUTIONAL HISTORY",
+  "description": "Source-critical comparative history of dynasties, succession, and the royal household, distinguishing transmitted royal records, epigraphy, institutions and material evidence.",
+  "release": "AF",
+  "sourceStatus": "Institutional reference anchors are contextual; specific interpretations remain qualified and await independent specialist review",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Goguryeo aristocratic council and changing political authority",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_005_0050_0010_0020_0020",
+      "role": "Specialist analysis of Goguryeo council institutions, fifth- and sixth-century political shifts and limits of reign-focused reconstructions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Baekje central administration, ranks and noble meetings",
+      "url": "https://db.history.go.kr/diachronic/level.do?levelId=nh_006_0050_0010",
+      "role": "Specialist examination of Baekje ranks, officeholding and council relations across Hanseong, Ungjin and Sabi periods"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Three Kingdoms political organizations",
+      "url": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h61_0040_0020_0050",
+      "role": "Comparative introduction to Goguryeo, Baekje, Silla titles, centralized authority and aristocratic consultation"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "History of Korean bureaucracy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0004813",
+      "role": "Diachronic interpretive reference to early state institutions, titles and later bureaucratic reforms"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "A History of Korea: political and social development of the Three Kingdoms",
+      "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+      "role": "Institutional English synthesis comparing the bu order, noble councils, rank systems and social categories"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "III.5.2:b01",
+      "title": "Succession stories as political evidence",
+      "paragraphs": [
+        "Royal lists preserve the names under which later courts organized the past, but not every early succession has equally strong contemporary confirmation. Samguk sagi drew on earlier records no longer wholly available and placed change within a dynastic framework familiar to its twelfth-century compilers. A contested succession might later appear as an orderly passage of the throne, while an officially disfavored figure could receive sparse treatment. The historian should look for external annals, epigraphy and the circumstances of compilation before declaring one succession routine. The instability of evidence does not make the past unknowable; it means that a chronology of royal names must be read alongside the struggles over who had the right to choose a ruler."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "NIKH specialist Goguryeo council and aristocratic institutional transformation"
+        }
+      ]
+    },
+    {
+      "id": "III.5.2:b02",
+      "title": "Lineage did not guarantee an uncontested throne",
+      "paragraphs": [
+        "Claims through parents, spouses, siblings and collateral branches provided arguments for succession, but kinship alone did not determine outcomes. Powerful aristocrats and military supporters could influence which claimant became acceptable. Royal marriages connected families to the throne, creating both opportunities and rivalries among in-laws. The surviving narratives foreground prominent men more frequently than women who helped sustain dynastic alliances. A monarch's apparent concentration of power should therefore be examined together with the households and lineages controlling armed followers, court access and material support. Dynastic continuity often required the management of competition inside a nominally shared family rather than blind obedience to an unchanging rule."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "III.5.2:b03",
+      "title": "Goguryeo's royal households and elite factions",
+      "paragraphs": [
+        "Goguryeo's later political history records the significant role of influential aristocrats in succession disputes, notably during the sixth-century weakening of royal authority. The National Institute of Korean History discusses conflicts surrounding Anwon's death and the participation of powerful factions in the selection of successors. These details illuminate a court whose ceremonies and titles did not remove coercive politics. They should not be projected unchanged into the polity's earliest centuries. The relationship between an incumbent king, brothers, spouses' families and senior councillors shifted with military conditions and the composition of elite coalitions. Succession could expose the difference between dynastic legitimacy and actual control over the palace."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "NIKH comparative Three Kingdoms central government account"
+        }
+      ]
+    },
+    {
+      "id": "III.5.2:b04",
+      "title": "Baekje relocations and political continuity",
+      "paragraphs": [
+        "Baekje's moves from Hanseong to Ungjin after 475 and to Sabi in 538 altered the setting of royal politics. The dynastic house survived severe strategic reversals, but the institutional arrangements supporting it were not necessarily identical in each capital. Relocation affected aristocratic access, the geography of military support and the position of families who could supply labor or property. Material evidence from tombs and palatial districts reveals investments in the public image of continuity, while written sources preserve selected episodes of court competition. A new capital may have reshaped succession bargaining without creating a completely new monarchy. That distinction is necessary when analyzing the durability of dynastic institutions."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "III.5.2:b05",
+      "title": "Silla succession and elite eligibility",
+      "paragraphs": [
+        "Silla's bone-rank order constrained opportunities for royal and high political status, although the system changed over time and is documented unevenly for the earliest periods. Traditions of sacred-bone and true-bone distinction require chronological care, particularly when explaining the reigns of Queens Seondeok and Jindeok and later developments. The existence of royal women on the throne demonstrates that succession could be negotiated within culturally particular ideas of eligibility; it does not prove an unrestricted hereditary rule based simply on primogeniture. Aristocrats with privileged descent could support or oppose candidates while remaining invested in the dynasty's ritual continuity. State formation thus strengthened kingship and institutionalized exclusion together."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "NIKH English comparative history on elite status and political order"
+        }
+      ]
+    },
+    {
+      "id": "III.5.2:b06",
+      "title": "Queens, marriage and the politics of visibility",
+      "paragraphs": [
+        "Royal women were crucial to reproduction of the ruling line, court alliances and the transmission of legitimacy. Sources identify some as reigning sovereigns, consorts or mothers, but they tell us much less about the women whose labor and marriages tied less prominent elite houses to court society. A queen's appearance in a chronicle is not a full account of her political agency, and a commemorative inscription's praise may reflect a writer's ideals. Nonetheless, the record shows that marital relationships were not private matters detached from government. They affected the succession alliances through which commanders and councillors might mobilize supporters. Gender history should attend to documented positions without inventing private correspondence."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "III.5.2:b07",
+      "title": "The palace as a political household",
+      "paragraphs": [
+        "Court space included relatives, retainers, servants, ritual personnel, guards and officials whose interactions could affect state affairs. The archaeological discovery of palatial foundations demonstrates the material scale of royal residence but seldom identifies who occupied each room. Formal office might coexist with influence exercised through proximity to a ruler or member of the royal family. Such informal channels can explain why institutional lists alone leave major decisions mysterious. Yet calling every household attendant a secret power broker would exceed the evidence. A royal household must be treated as a working institution that coordinated resources and relationships, not just the private home of individuals named in chronicles."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "NIKH specialist Baekje rank and governance section"
+        }
+      ]
+    },
+    {
+      "id": "III.5.2:b08",
+      "title": "Infancy, regency and contested eligibility",
+      "paragraphs": [
+        "Where a potential successor was young or politically isolated, powerful relatives and court leaders could exert additional influence. Later historians sometimes described such episodes using concepts of regency or guardianship, but direct evidence for the procedures of every early kingdom is incomplete. The possibility of temporary collective governance should not be taken as a universal rule. A crisis could be resolved through compromise among families or through violent confrontation. Both the military situation and the credibility of descent claims shaped outcomes. A careful dynastic history distinguishes specific attested episodes from comparative possibilities, rather than constructing a single succession law for three separate polities."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "III.5.2:b09",
+      "title": "Religious legitimation and royal memory",
+      "paragraphs": [
+        "Dynastic origin narratives gave political meaning to the descent of a particular royal line and explained why rival houses should recognize it. Buddhism and other ritual traditions could later contribute to royal symbolism, but the form and degree of patronage differed by court and period. Official histories produced centuries later sometimes connected earlier sovereigns to institutions they could scarcely have known. Such retrospective framing should be marked as historical memory. Tombs, inscriptions and imported diplomatic titles provide separate evidence for how living courts presented authority. The multiplicity of these sources is useful because competing claims of legitimacy can be investigated rather than simply repeated as fact."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "Scholarly institutional comparison informs this passage; political claims and reconstructed social roles are distinguished from direct primary testimony.",
+          "locator": "AKS historical study of early Korean bureaucratic offices"
+        }
+      ]
+    },
+    {
+      "id": "III.5.2:b10",
+      "title": "Dynastic survival was institutional work",
+      "paragraphs": [
+        "Maintaining a dynasty required more than a legitimate family tree: governing a palace, securing elite cooperation, sustaining religious rites, financing guards and moving information across territories all mattered. The succession histories of Goguryeo, Baekje and Silla show different solutions to the same structural problem of making personal kingship continue beyond one monarch's death. This article has concentrated on royal-family politics; the next studies aristocratic lineages more broadly. Detailed individual reign narratives remain with their respective kingdom Chapters. The general lesson is that succession systems emerged through contention, conventions and changing relationships, not through one timeless principle inherited intact from mythical founders."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
