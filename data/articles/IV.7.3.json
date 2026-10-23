@@ -1,0 +1,167 @@
+{
+  "id": "IV.7.3",
+  "title": "Silla Merchants and Korean Communities in Tang China",
+  "kicker": "MARITIME KOREA · EIGHTH AND NINTH CENTURIES",
+  "description": "Evidence-critical history of silla merchants and korean communities in tang china, distinguishing commercial movement, diplomatic records and selected travelers' testimony.",
+  "release": "AG",
+  "sourceStatus": "Contextual institutional provenance; independent maritime historian review not completed",
+  "sources": [
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Silla merchants in Tang and ninth-century overseas exchange",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_009_0050_0020_0030",
+      "role": "Research synthesis distinguishes Shilla communities and trade with Japan, including 840 embassy restrictions"
+    },
+    {
+      "institution": "National Institute of Korean History",
+      "title": "Jang Bogo and Cheonghaejin: coastal power",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_011_0030_0030",
+      "role": "Detailed historical section on naval installation, transregional contacts and late Silla aristocratic politics"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Silla communities in Tang China",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032835",
+      "role": "Studies merchant and resident networks described by Japanese monk Ennin"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Cheonghaejin maritime and military center",
+      "url": "https://encykorea.aks.ac.kr/Article/E0056856",
+      "role": "Geographical routes, base foundation in 828 and final abolition in 851"
+    },
+    {
+      "institution": "Academy of Korean Studies",
+      "title": "Balhae historical society and Japanese diplomacy",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021626",
+      "role": "Comparative East Asian maritime commerce; Balhae missions are distinct from Silla trade arrangements"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "IV.7.3:b01",
+      "title": "Silla beyond the peninsula",
+      "paragraphs": [
+        "By the ninth century, communities identified as Silla people lived and worked in Tang China, especially around commercial and transport corridors connecting coastal ports to inland cities. The term overseas community does not mean each settlement was an independent colonial possession of the Silla monarchy. Residents operated within Tang administration while maintaining ties of language, patronage and economic interest. National Institute of Korean History research describes Silla quarters and institutions along Shandong and canal routes. The documentary evidence is strongest where observers reported their functions, not where modern writers infer the full demographic size of a community. Their significance lies in the everyday infrastructure supporting wider East Asian contact."
+      ],
+      "sequence": 1,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 0,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "NIKH Silla merchant and Tang–Japan network study"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.3:b02",
+      "title": "Silla-bang and residential organization",
+      "paragraphs": [
+        "Silla-bang are discussed as quarters inhabited by Silla-connected residents in Tang cities or coastal settlements. Such concentrations could make it easier to obtain lodging, interpreters, trade partners and news of voyages. But a named quarter is not necessarily an ethnically homogeneous district with a fixed boundary or an independent sovereign court. Residents may have differed in length of stay, social status and regional origin. Tang law and local officials mattered to their experience. The existence of a Silla-bang shows organized transregional life while leaving the details of household composition and legal autonomy much less certain than the label alone suggests."
+      ],
+      "sequence": 2,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.3:b03",
+      "title": "The roles of Silla-so and Silla-gwan",
+      "paragraphs": [
+        "Other institutions named in sources include Silla-so and Silla-gwan, associated with organizational and reception functions in the Tang world. The Academy of Korean Studies discusses their relevance to travelers and the arrangements of Silla people abroad. Their exact institutional forms could differ by place and period, and should not be reduced to modern embassies or chambers of commerce. Some functions involved mutual aid or arrangements with Tang officials. Names preserve traces of collective identity and practice without supplying complete charters or contemporary staffing lists. These bodies helped residents and visitors manage the uncertainties of overseas travel."
+      ],
+      "sequence": 3,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 2,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "AKS Silla diaspora and Ennin's visit account"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.3:b04",
+      "title": "Merchants around the Grand Canal",
+      "paragraphs": [
+        "The Tang canal system linked coastal access to major inland commercial centers, making places such as Chuzhou and Yangzhou important to Silla traders. An overseas merchant network did not require every trader to travel personally across the entire sea and canal route. Local partners and intermediaries could purchase goods and move them onward. No complete record survives of profit margins, invoices or total Korean merchant capital in the ninth century. NIKH scholarship nevertheless supports a pattern of resident trade linking Tang, Silla and Japan. Economic analysis should distinguish an attested institutional network from the details of transactions that historical sources no longer preserve."
+      ],
+      "sequence": 4,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.3:b05",
+      "title": "Ennin as an unusually detailed witness",
+      "paragraphs": [
+        "The Japanese Buddhist monk Ennin left a travel narrative that records encounters with Silla people in Tang, including assistance at Chishan and other places. His observations are invaluable because they show named interactions and settings otherwise largely invisible. Yet the diary is not a statistical survey of all merchants, and its author selected events relevant to his journey and religious concerns. Translators and historians should distinguish what Ennin says from later interpretations about the total political reach of overseas communities. A specific hospitality arrangement can demonstrate practical solidarity without proving a universal network of guaranteed services across every Tang port."
+      ],
+      "sequence": 5,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 4,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "AKS Balhae foreign diplomacy as a distinct comparative network"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.3:b06",
+      "title": "Chishan Beophwawon and religious patronage",
+      "paragraphs": [
+        "The Buddhist establishment associated with Jang Bogo at Chishan served religious functions and supported travelers, linking maritime wealth to ritual and community organization. Sources describe substantial endowment and active participation by people from the Silla-speaking community. It is important not to describe the entire monastery as a commercial office or assume its religious life existed only to promote trade. At the same time, patrons gained prestige and relationships through such support. A temple could connect merchants, monks and officials in ways neither purely public nor purely private. Ennin's evidence makes this interaction visible in one unusual documentary setting."
+      ],
+      "sequence": 6,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.3:b07",
+      "title": "Language, interpretation and trust",
+      "paragraphs": [
+        "Merchants and pilgrims crossing political frontiers needed help interpreting rules, negotiating lodging and transmitting messages. Communities that shared speech or regional ties might reduce some of these costs. But shared identity did not eliminate competition or guarantee ethical conduct among all participants. People could navigate multiple linguistic worlds, and documentation might record a foreign court title while omitting everyday language. A network's effectiveness lay in experienced intermediaries and repeated relationships. The historian should avoid declaring every Silla resident abroad a loyal agent of the court. Commercial actors pursued their own interests under changing political conditions."
+      ],
+      "sequence": 7,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 1,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "NIKH Jang Bogo and Cheonghaejin monograph section"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.3:b08",
+      "title": "Legal limits of local self-organization",
+      "paragraphs": [
+        "Descriptions of relatively autonomous overseas arrangements should not be confused with modern extraterritorial jurisdiction. Tang administrators retained important powers, and military or political shifts could change what foreigners and resident migrants were permitted to do. A Silla-so might mediate disputes or communications without controlling independent territory. Historical labels and later scholars' translations require care because modern words such as consulate or self-government suggest institutions not necessarily present in the ninth century. The more useful question is which everyday problems were solved collectively and how those practices fitted within Tang authority. The archive provides glimpses rather than a continuous constitutional history."
+      ],
+      "sequence": 8,
+      "evidence": []
+    },
+    {
+      "id": "IV.7.3:b09",
+      "title": "Women, laborers and unrecorded residents",
+      "paragraphs": [
+        "Sources often name male merchants, religious patrons or officials while leaving sailors, household members and dependent workers unnamed. The presence of a community implies social reproduction and varied labor, but we cannot confidently reconstruct each family's composition or assign unrecorded occupational roles. Archaeological evidence from some sites might broaden the picture, though identification with a named foreign community demands proof. Treating the few prominent men in Ennin's account as the whole population would reproduce the archive's bias. Overseas history is also about anonymous people maintaining homes and commercial relations through periods when documentary attention was directed elsewhere."
+      ],
+      "sequence": 9,
+      "evidence": [
+        {
+          "type": "context",
+          "sourceIndex": 3,
+          "claim": "The linked research provides a source-specific context while routes, costs and lived experiences remain bounded by available testimony.",
+          "locator": "AKS Cheonghaejin routes and 828 naval installation"
+        }
+      ]
+    },
+    {
+      "id": "IV.7.3:b10",
+      "title": "Networks without a colonial fiction",
+      "paragraphs": [
+        "Silla residents in Tang China made transregional trade and religious travel more feasible through institutions, patronage and knowledge. Their communities were not independent provinces of Silla, nor did the Tang state determine every private contact. This article owns the settled overseas social infrastructure rather than the full story of merchant goods in IV.7.7 or Cheonghaejin's command in IV.7.9. Evidence from NIKH, the Academy of Korean Studies and Ennin supports real institutional connections while leaving many legal and demographic details uncertain. Their history reveals how maritime economic life was sustained by residents as well as by fleets."
+      ],
+      "sequence": 10,
+      "evidence": []
+    }
+  ]
+}
